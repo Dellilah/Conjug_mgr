@@ -15,5 +15,24 @@
   <%= @verb.group %>
 </p>
 
+<h2> Conjugaison </h2>
+ <% @tenses.each_with_index do |tense, index| %>
+    <% if (index%3) == 0 %>
+      <div class="row">
+    <% end %>
+      <div class="large-4 columns">
+        <h3><%= tense.to_s.capitalize.gsub(/[_]/, ' ')%></h3>
+
+          <% @forms.each do |form| %>
+            <%= form %>:
+            <%= @verb_forms_tab[tense][form] %>
+          <% end %>
+
+      </div>
+    <% if (index%3) == 2 %>
+      </div>
+    <% end %>
+  <% end %>
+
 <%= link_to 'Edit', edit_verb_path(@verb) %> |
 <%= link_to 'Back', verbs_path %>

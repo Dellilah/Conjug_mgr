@@ -1,6 +1,6 @@
 class VerbsController < ApplicationController
   before_action :set_verb, only: [:show, :edit, :update, :destroy]
-  before_action :set_tenses, only: [:new, :create]
+  before_action :set_tenses, only: [:new, :create, :show, :edit, :update]
 
   # GET /verbs
   # GET /verbs.json
@@ -11,6 +11,16 @@ class VerbsController < ApplicationController
   # GET /verbs/1
   # GET /verbs/1.json
   def show
+    @verb_forms = @verb.forms
+    @verb_forms_tab = Hash.new
+    @tenses.each_with_index do |tense, index|
+      @verb_forms_tab[tense] = Hash.new
+      @forms.each_with_index do |form, index2|
+        temp = @verb_forms.where(:temp => index.to_i, :person => index2.to_i).first
+        @verb_forms_tab[tense][form] = temp ? temp.content : ''
+      end
+    end
+
   end
 
   # GET /verbs/new
@@ -30,8 +40,10 @@ class VerbsController < ApplicationController
     if @verb.save
       @tenses.each_with_index do |tense, index|
         @forms.each_with_index do |form, index2|
-          @form = Form.new(:content => verb_params[tense][form], :temp => index.to_i, :person => index2.to_i,:verb => @verb)
-          @form.save
+          if(verb_params[tense][form].strip != '')
+            @form = Form.new(:content => verb_params[tense][form], :temp => index.to_i, :person => index2.to_i,:verb => @verb)
+            @form.save
+          end
         end
       end
     end
