@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Content:</strong>
+  <%= @form.content %>
+</p>
+
+<p>
+  <strong>Temp:</strong>
+  <%= @form.temp %>
+</p>
+
+<p>
+  <strong>Person:</strong>
+  <%= @form.person %>
+</p>
+
+<p>
+  <strong>Verb:</strong>
+  <%= @form.verb %>
+</p>
+
+<%= link_to 'Edit', edit_form_path(@form) %> |
+<%= link_to 'Back', forms_path %>

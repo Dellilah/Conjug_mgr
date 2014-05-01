@@ -1,4 +1,12 @@
 ConjugMgr::Application.routes.draw do
+  resources :users
+
+  resources :repetitions
+
+  resources :forms
+
+  resources :verbs
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

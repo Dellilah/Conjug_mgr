@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  last: 2014-05-01 16:30:53
+  count: 1
+  mistake: 1
+  correct: 1
+  form_id: 
+  user_id: 
+
+two:
+  last: 2014-05-01 16:30:53
+  count: 1
+  mistake: 1
+  correct: 1
+  form_id: 
+  user_id: 

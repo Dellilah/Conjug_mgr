@@ -1,0 +1,31 @@
+<h1>Listing verbs</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Infinitive</th>
+      <th>Translation</th>
+      <th>Group</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @verbs.each do |verb| %>
+      <tr>
+        <td><%= verb.infinitive %></td>
+        <td><%= verb.translation %></td>
+        <td><%= verb.group %></td>
+        <td><%= link_to 'Show', verb %></td>
+        <td><%= link_to 'Edit', edit_verb_path(verb) %></td>
+        <td><%= link_to 'Destroy', verb, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Verb', new_verb_path %>

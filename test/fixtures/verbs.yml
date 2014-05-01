@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  infinitive: MyString
+  translation: MyString
+  group: 1
+
+two:
+  infinitive: MyString
+  translation: MyString
+  group: 1

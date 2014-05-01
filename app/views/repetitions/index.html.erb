@@ -1,0 +1,37 @@
+<h1>Listing repetitions</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Last</th>
+      <th>Count</th>
+      <th>Mistake</th>
+      <th>Correct</th>
+      <th>Form</th>
+      <th>User</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @repetitions.each do |repetition| %>
+      <tr>
+        <td><%= repetition.last %></td>
+        <td><%= repetition.count %></td>
+        <td><%= repetition.mistake %></td>
+        <td><%= repetition.correct %></td>
+        <td><%= repetition.form %></td>
+        <td><%= repetition.user %></td>
+        <td><%= link_to 'Show', repetition %></td>
+        <td><%= link_to 'Edit', edit_repetition_path(repetition) %></td>
+        <td><%= link_to 'Destroy', repetition, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Repetition', new_repetition_path %>

@@ -1,0 +1,41 @@
+<%= form_for(@repetition) do |f| %>
+  <% if @repetition.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@repetition.errors.count, "error") %> prohibited this repetition from being saved:</h2>
+
+      <ul>
+      <% @repetition.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :last %><br>
+    <%= f.datetime_select :last %>
+  </div>
+  <div class="field">
+    <%= f.label :count %><br>
+    <%= f.number_field :count %>
+  </div>
+  <div class="field">
+    <%= f.label :mistake %><br>
+    <%= f.number_field :mistake %>
+  </div>
+  <div class="field">
+    <%= f.label :correct %><br>
+    <%= f.number_field :correct %>
+  </div>
+  <div class="field">
+    <%= f.label :form %><br>
+    <%= f.text_field :form %>
+  </div>
+  <div class="field">
+    <%= f.label :user %><br>
+    <%= f.text_field :user %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

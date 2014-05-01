@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  content: MyString
+  temp: 1
+  person: 1
+  verb_id: 
+
+two:
+  content: MyString
+  temp: 1
+  person: 1
+  verb_id: 

@@ -1,0 +1,34 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Last:</strong>
+  <%= @repetition.last %>
+</p>
+
+<p>
+  <strong>Count:</strong>
+  <%= @repetition.count %>
+</p>
+
+<p>
+  <strong>Mistake:</strong>
+  <%= @repetition.mistake %>
+</p>
+
+<p>
+  <strong>Correct:</strong>
+  <%= @repetition.correct %>
+</p>
+
+<p>
+  <strong>Form:</strong>
+  <%= @repetition.form %>
+</p>
+
+<p>
+  <strong>User:</strong>
+  <%= @repetition.user %>
+</p>
+
+<%= link_to 'Edit', edit_repetition_path(@repetition) %> |
+<%= link_to 'Back', repetitions_path %>

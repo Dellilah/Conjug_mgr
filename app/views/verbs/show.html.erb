@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Infinitive:</strong>
+  <%= @verb.infinitive %>
+</p>
+
+<p>
+  <strong>Translation:</strong>
+  <%= @verb.translation %>
+</p>
+
+<p>
+  <strong>Group:</strong>
+  <%= @verb.group %>
+</p>
+
+<%= link_to 'Edit', edit_verb_path(@verb) %> |
+<%= link_to 'Back', verbs_path %>
