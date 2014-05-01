@@ -1,0 +1,28 @@
+<%= form_tag("/practice", method: "post") do%>
+  <div class="row step">
+    <b>Step I: Choose tenses</b><br/>
+    <br>
+    <%= check_box_tag 'tenses[]', 'present', checked=true%> Present
+    <%= check_box_tag 'tenses[]', 'imparfait', checked=true%> Imparfait
+    <%= check_box_tag 'tenses[]', 'passe_compose', checked=true%> Passé Composé
+    <%= check_box_tag 'tenses[]', 'passe_simple', checked=true%> Passé Simple
+    <%= check_box_tag 'tenses[]', 'plus_que_parfait', checked=true%> Plus-que-parfait
+    <%= check_box_tag 'tenses[]', 'futur_simple', checked=true%> Futur Simple
+    <%= check_box_tag 'tenses[]', 'subjonctif', checked=true%> Subjonctif
+  </div>
+  <br>
+  <div class="row step">
+    <b>Step II: Choose groupes</b><br/>
+    <br>
+    <%= check_box_tag 'groupes[]', '1', checked=true  %> I
+    <%= check_box_tag 'groupes[]', '2', checked=true  %> II
+    <%= check_box_tag 'groupes[]', '3', checked=true  %> III
+    <br/>
+    <br>
+    <b>...or specifie verbs</b><br>
+    <%= text_field_tag 'verbs', nil, placeholder: 'être, aller, venir...' %>
+    <b>...or exlude verbs </b><br>
+    <%= text_field_tag 'exluded_verbs', nil, placeholder: 'être, aller, venir...' %>
+  </div>
+  <%= submit_tag "Try me!"%>
+<% end %>

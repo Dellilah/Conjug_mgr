@@ -7,6 +7,10 @@ ConjugMgr::Application.routes.draw do
 
   resources :verbs
 
+  get '/download/:page' => 'verbs#download'
+  get '/practice' => 'verbs#practice'
+  get '/look_for/:verb' => 'verbs#look_for_conj'
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
@@ -47,7 +51,7 @@ ConjugMgr::Application.routes.draw do
   #       get 'recent', on: :collection
   #     end
   #   end
-  
+
   # Example resource route with concerns:
   #   concern :toggleable do
   #     post 'toggle'

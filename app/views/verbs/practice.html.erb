@@ -1,0 +1,64 @@
+<div class="row" ng-controller="PracticeCtrl">
+  <div id="practice_form">
+    <form ng-submit="set()">
+      <div class="row step">
+        <div id="error"></div>
+        <b>Step I: Choose tenses</b><br/>
+        <br>
+          <input type="checkbox" ng-model="tenses.Present"> Present
+          <input type="checkbox" ng-model="tenses.Imparfait"> Imparfait
+          <input type="checkbox" ng-model="tenses.PasseCompose"> Passé Composé
+          <input type="checkbox" ng-model="tenses.PasseSimple"> Passé Simple
+          <input type="checkbox" ng-model="tenses.PlusQueParfait"> Plus-que-parfait
+          <input type="checkbox" ng-model="tenses.FuturSimple"> Futur Simple
+          <input type="checkbox" ng-model="tenses.Subjonctif">  Subjonctif <br/>
+      </div>
+      <br/>
+      <div class="row step">
+        <b>Step II: Choose groupes</b><br/>
+        <br>
+        <input type="checkbox" ng-model="groups.1"> I
+        <input type="checkbox" ng-model="groups.2"> II
+        <input type="checkbox" ng-model="groups.3"> III <br/>
+        <br/>
+        <b>...or specifie verbs</b><br>
+         <input type="text" ng-model="verbs" placeholder="être, aller, venir"> <br/>
+        <b>...or exlude verbs </b><br>
+         <input type="text" ng-model="excluded_verbs" placeholder="être, aller, venir"> <br/>
+      </div>
+      <input type="submit" value="Try me!">
+    </form>
+  </div>
+
+  <div class="row hidden" id="answer_form">
+    <div class="row"><h1>What is the form... </h1></div>
+    <ul>
+      <li>Verb: {{verb.infinitive}}</li>
+      <li>Tense: {{tense}}</li>
+      <li>Form: {{form}}</li>
+    </ul>
+    <form ng-submit="check()">
+      <input type="text" ng-model="answer" id="input_answer">
+      <input type="submit" value="Check!">
+    </form>
+    <div>
+      <h4>Your previous answers </h4>
+      <ul>
+        <li ng-repeat="ans in answers">
+          <b> {{ans.infinitive}} </b>({{ans.tense}}, {{ans.form}}) <br/>
+            your answer: {{ans.user_ans}} <=> correct answer: {{ans.correct_ans}}
+          <!-- <span ng-switch="ans.correct_ans">
+              <span ng-switch-when="ans.user_ans" class="green">
+                 {{ans.user_ans}}
+              </span>
+              <span ng-default class="red">
+                {{ans.user_ans}}
+              </span>
+          </span> -->
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
