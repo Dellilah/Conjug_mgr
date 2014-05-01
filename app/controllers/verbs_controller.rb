@@ -1,5 +1,6 @@
 class VerbsController < ApplicationController
   before_action :set_verb, only: [:show, :edit, :update, :destroy]
+  before_action :set_tenses, only: [:new, :create]
 
   # GET /verbs
   # GET /verbs.json
@@ -15,6 +16,7 @@ class VerbsController < ApplicationController
   # GET /verbs/new
   def new
     @verb = Verb.new
+
   end
 
   # GET /verbs/1/edit
@@ -24,7 +26,15 @@ class VerbsController < ApplicationController
   # POST /verbs
   # POST /verbs.json
   def create
-    @verb = Verb.new(verb_params)
+    @verb = Verb.new(:infinitive => verb_params[:infinitive], :translation => verb_params[:translation], :group => verb_params[:group])
+    if @verb.save
+      @tenses.each_with_index do |tense, index|
+        @forms.each_with_index do |form, index2|
+          @form = Form.new(:content => verb_params[tense][form], :temp => index.to_i, :person => index2.to_i,:verb => @verb)
+          @form.save
+        end
+      end
+    end
 
     respond_to do |format|
       if @verb.save
@@ -67,8 +77,22 @@ class VerbsController < ApplicationController
       @verb = Verb.find(params[:id])
     end
 
+    def set_tenses
+      @tenses = [:présent, :passé_composé, :imparfait, :plus_que_parfait,
+        :passé_simple, :passé_antérieur, :futur_simple, :futur_antérieur,:subjonctif_présent,
+        :subjonctif_passé,:subjonctif_imparfait, :subjonctif_plus_que_parfait, :conditionnel_présent, :conditionnel_passé_première, :conditionnel_passé_deuxième]
+      @forms = [:je, :tu, :il, :nous, :vous, :ils]
+    end
+
     # Never trust parameters from the scary internet, only allow the white list through.
     def verb_params
-      params.require(:verb).permit(:infinitive, :translation, :group)
+      @forms = [:je, :tu, :il, :nous, :vous, :ils]
+      @t = [:présent  => @forms, :passé_composé => @forms, :imparfait => @forms, :plus_que_parfait => @forms,
+        :passé_simple => @forms, :passé_antérieur => @forms, :futur_simple => @forms, :futur_antérieur => @forms,:subjonctif_présent => @forms,
+        :subjonctif_passé => @forms,:subjonctif_imparfait => @forms, :subjonctif_plus_que_parfait => @forms, :conditionnel_présent => @forms, :conditionnel_passé_première => @forms, :conditionnel_passé_deuxième => @forms]
+      @par = [:infinitive, :translation, :group].concat(@t)
+      params.require(:verb).permit(@par)
     end
+
+
 end

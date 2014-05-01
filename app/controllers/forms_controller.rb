@@ -24,7 +24,8 @@ class FormsController < ApplicationController
   # POST /forms
   # POST /forms.json
   def create
-    @form = Form.new(form_params)
+    @verb = Verb.find(1)
+    @form = Form.new(:content => form_params[:content], :temp => form_params[:temp], :person => form_params[:person],:verb => @verb)
 
     respond_to do |format|
       if @form.save
@@ -69,6 +70,6 @@ class FormsController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def form_params
-      params.require(:form).permit(:content, :temp, :person, :verb_id)
+      params.require(:form).permit(:content, :temp, :person, :verb)
     end
 end
