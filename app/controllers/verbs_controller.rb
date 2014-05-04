@@ -1,6 +1,6 @@
 class VerbsController < ApplicationController
   before_action :set_verb, only: [:show, :edit, :update, :destroy]
-  before_action :set_tenses, only: [:new, :create, :show, :edit, :update, :download, :look_for_conj]
+  before_action :set_tenses, only: [:new, :create, :show, :edit, :update, :download, :look_for_conj, :practice, :practice_draw, :check_form]
 
   # GET /verbs
   # GET /verbs.json
@@ -26,14 +26,10 @@ class VerbsController < ApplicationController
   # GET /verbs/new
   def new
     @verb = Verb.new
-
   end
 
   # GET /verbs/1/edit
   def edit
-    puts "hola"
-    @verb["présent"] = Hash.new
-    @verb["présent"]["je"] = "ala"
   end
 
   # POST /verbs
@@ -130,11 +126,74 @@ class VerbsController < ApplicationController
         format.json { render json: v.errors, status: :unprocessable_entity }
       end
     end
-
-    def practice
-    end
   end
 
+  def practice
+  end
+
+  def practice_draw
+
+    @tenses_to_pr = Array.new()
+    params[:tenses].each do |key, val|
+      @tenses_to_pr.push(val)
+    end
+    @gr_to_pr = params[:groupes]
+    @excl_to_pr = params[:exluded_verbs].length > 0 ? params[:exluded_verbs].split(', ') : ''
+    @add_to_pr = params[:verbs].length > 0 ? params[:verbs].split(', ') : ''
+
+    #which verbs
+    @verbs_to_pr =  Verb.find(:all, :conditions =>
+      ["(`group` IN (?) AND `infinitive` NOT IN (?)) OR `infinitive` IN (?) ",
+      @gr_to_pr, @excl_to_pr, @add_to_pr ])
+
+    #drawing - person, tense, verb
+    @t = @tenses_to_pr.sample
+    @p = rand(0..5)
+    @v = @verbs_to_pr.sample
+
+    #let's save verbs with its ids
+    @verbs_to_pr_id = Array.new()
+    @verbs_to_pr.each do |v|
+      @verbs_to_pr_id.push(v.id)
+    end
+
+  end
+
+  def check_form
+
+    #save previous form, parameters
+    @t_old = params[:t].to_i
+    @p_old = params[:p].to_i
+    @v_old = params[:v].to_i
+    @v_old_inf = Verb.find(@v_old).infinitive
+
+    @tenses_to_pr = params[:tenses_to_pr].split
+    @verbs_to_pr_id = params[:verbs_to_pr].split
+
+    #check answer
+    @answer = params[:answer]
+    @correct = Form.where(:temp => @t_old, :person => @p_old, :verb_id => @v_old).first.content
+    if @answer == @correct
+      @result = 1
+    else
+      @result = 0
+    end
+
+    #draw the new one - person, tense, verb
+    @t = @tenses_to_pr.sample
+    @p = rand(0..5)
+    @v = Verb.find(:all, :conditions =>
+      ["`id` IN (?)", @verbs_to_pr_id]).sample
+
+    @form = Form.where(:temp => @t, :person => @p, :verb_id => @v).first.id
+
+    @verbs = Verb.all
+    respond_to do |format|
+      format.html{ render :practice_draw}
+      format.json { head :no_content }
+    end
+
+  end
 
   private
     # Use callbacks to share common setup or constraints between actions.

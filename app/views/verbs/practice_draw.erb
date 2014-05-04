@@ -1,0 +1,36 @@
+<h1>Show me you know me!</h1>
+
+<% if @result == 1 %>
+  <div> <span class="correct" >CORRECT! </span><br>
+    <%= @forms[@p_old.to_i].to_s.capitalize %>
+    (<%= @v_old_inf %>, <%= @tenses[@t_old.to_i].to_s.gsub(/[_]/, ' ') %>)
+    <span class="correct" > <%= @correct %> </span>
+  </div>
+<% elsif @result == 0 %>
+  <div> <span class="wrong"> WRONG!  </span>
+  <%= @forms[@p_old.to_i].to_s.capitalize %>
+    (<%= @v_old_inf %>, <%= @tenses[@t_old.to_i].to_s.gsub(/[_]/, ' ') %>)
+    <span class="wrong"><%= @answer %> </span> <span class="correct"> <%= @correct %> </span>
+  </div>
+<% end %>
+
+<h2>Verb: <%= @v.infinitive %> </h2>
+<h2>Tense: <%= @tenses[@t.to_i].to_s.capitalize.gsub(/[_]/, ' ') %>          </h2>
+<div>
+  <h2> <%= @forms[@p.to_i].to_s.capitalize %>: </h2>
+  <%= form_tag("/check_form", method: "post") do %>
+
+    <%= text_field_tag 'answer' %>
+
+    <%= hidden_field_tag 'tenses_to_pr', @tenses_to_pr %>
+    <%= hidden_field_tag 'verbs_to_pr', @verbs_to_pr_id %>
+    <%= hidden_field_tag 't', @t %>
+    <%= hidden_field_tag 'p', @p %>
+    <%= hidden_field_tag 'v', @v.id %>
+
+
+    <%= submit_tag "Check me!"%>
+  <% end %>
+
+</div>
+<%= link_to "Change parametres", controller: "verbs", action: "practice" %>

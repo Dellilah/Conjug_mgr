@@ -8,7 +8,12 @@ ConjugMgr::Application.routes.draw do
   resources :verbs
 
   get '/download/:page' => 'verbs#download'
+
   get '/practice' => 'verbs#practice'
+  post '/practice' => 'verbs#practice_draw'
+
+  post '/check_form' => 'verbs#check_form'
+
   get '/look_for/:verb' => 'verbs#look_for_conj'
 
   # The priority is based upon order of creation: first created -> highest priority.

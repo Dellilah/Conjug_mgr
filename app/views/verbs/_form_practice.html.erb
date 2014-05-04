@@ -1,14 +1,10 @@
-<%= form_tag("/practice", method: "post") do%>
+<%= form_tag("/practice", method: "post") do %>
   <div class="row step">
     <b>Step I: Choose tenses</b><br/>
     <br>
-    <%= check_box_tag 'tenses[]', 'present', checked=true%> Present
-    <%= check_box_tag 'tenses[]', 'imparfait', checked=true%> Imparfait
-    <%= check_box_tag 'tenses[]', 'passe_compose', checked=true%> Passé Composé
-    <%= check_box_tag 'tenses[]', 'passe_simple', checked=true%> Passé Simple
-    <%= check_box_tag 'tenses[]', 'plus_que_parfait', checked=true%> Plus-que-parfait
-    <%= check_box_tag 'tenses[]', 'futur_simple', checked=true%> Futur Simple
-    <%= check_box_tag 'tenses[]', 'subjonctif', checked=true%> Subjonctif
+    <% @tenses.each_with_index do |tense, index| %>
+      <%= check_box_tag 'tenses['+tense.to_s+']', index, checked=true%> <%= tense.to_s.capitalize.gsub(/[_]/, ' ')%>
+    <% end %>
   </div>
   <br>
   <div class="row step">
