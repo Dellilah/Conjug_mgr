@@ -1,6 +1,6 @@
 class VerbsController < ApplicationController
   before_action :set_verb, only: [:show, :edit, :update, :destroy]
-  before_action :set_tenses, only: [:new, :create, :show, :edit, :update, :download, :look_for_conj, :practice, :practice_draw, :check_form]
+  before_action :set_tenses, only: [:new, :create, :show, :edit, :update, :download, :download_from_json, :look_for_conj, :practice, :practice_draw, :check_form]
 
   # GET /verbs
   # GET /verbs.json
@@ -83,7 +83,8 @@ class VerbsController < ApplicationController
   end
 
   def download
-    a = download_conjugation(params[:page])
+    page = params[:page]
+    a = download_conjugation(page)
     @verbs_conj.each do |verb|
       v = Verb.new(:infinitive => verb[:infinitive], :translation => verb[:translation], :group => verb[:group])
       if v.save
@@ -96,6 +97,9 @@ class VerbsController < ApplicationController
           end
         end
       end
+    end
+    File.open("public/temp_#{page}.json","w") do |f|
+      f.write(JSON.pretty_generate(@verbs_conj))
     end
     @verbs = Verb.all
     respond_to do |format|
@@ -126,6 +130,32 @@ class VerbsController < ApplicationController
         format.html { render action: 'new' }
         format.json { render json: v.errors, status: :unprocessable_entity }
       end
+    end
+  end
+
+  def download_from_json
+    page = params[:page]
+
+    file = File.read("public/temp_#{page}.json")
+    verbs_conj = JSON.parse(file)
+    verbs_conj.each do |verb|
+      v = Verb.new(:infinitive => verb["infinitive"], :translation => verb["translation"], :group => verb["group"])
+      if v.save
+        @tenses.each_with_index do |tense, index|
+          @forms.each_with_index do |form, index2|
+            if(verb[tense.to_s][form.to_s].strip != '')
+              @form = Form.new(:content => verb[tense.to_s][form.to_s], :temp => index.to_i, :person => index2.to_i,:verb => v)
+              @form.save
+            end
+          end
+        end
+      end
+    end
+
+    @verbs = Verb.all
+    respond_to do |format|
+      format.html{ render action: 'index'}
+      format.json { head :no_content }
     end
   end
 

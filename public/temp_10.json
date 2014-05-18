@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "agresser",
+    "présent": {
+      "je": "agresse",
+      "tu": "agresses",
+      "il": "agresse",
+      "nous": "agressons",
+      "vous": "agressez",
+      "ils": "agressent"
+    },
+    "passé_composé": {
+      "je": "ai agressé",
+      "tu": "as agressé",
+      "il": "a agressé",
+      "nous": "avons agressé",
+      "vous": "avez agressé",
+      "ils": "ont agressé"
+    },
+    "imparfait": {
+      "je": "agressais",
+      "tu": "agressais",
+      "il": "agressait",
+      "nous": "agressions",
+      "vous": "agressiez",
+      "ils": "agressaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais agressé",
+      "tu": "avais agressé",
+      "il": "avait agressé",
+      "nous": "avions agressé",
+      "vous": "aviez agressé",
+      "ils": "avaient agressé"
+    },
+    "passé_simple": {
+      "je": "agressai",
+      "tu": "agressas",
+      "il": "agressa",
+      "nous": "agressâmes",
+      "vous": "agressâtes",
+      "ils": "agressèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus agressé",
+      "tu": "eus agressé",
+      "il": "eut agressé",
+      "nous": "eûmes agressé",
+      "vous": "eûtes agressé",
+      "ils": "eurent agressé"
+    },
+    "futur_simple": {
+      "je": "agresserai",
+      "tu": "agresseras",
+      "il": "agressera",
+      "nous": "agresserons",
+      "vous": "agresserez",
+      "ils": "agresseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai agressé",
+      "tu": "auras agressé",
+      "il": "aura agressé",
+      "nous": "aurons agressé",
+      "vous": "aurez agressé",
+      "ils": "auront agressé"
+    },
+    "subjonctif_présent": {
+      "je": "agresse",
+      "tu": "agresses",
+      "il": "agresse",
+      "nous": "agressions",
+      "vous": "agressiez",
+      "ils": "agressent"
+    },
+    "subjonctif_passé": {
+      "je": "aie agressé",
+      "tu": "aies agressé",
+      "il": "ait agressé",
+      "nous": "ayons agressé",
+      "vous": "ayez agressé",
+      "ils": "aient agressé"
+    },
+    "subjonctif_imparfait": {
+      "je": "agressasse",
+      "tu": "agressasses",
+      "il": "agressât",
+      "nous": "agressassions",
+      "vous": "agressassiez",
+      "ils": "agressassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse agressé",
+      "tu": "eusses agressé",
+      "il": "eût agressé",
+      "nous": "eussions agressé",
+      "vous": "eussiez agressé",
+      "ils": "eussent agressé"
+    },
+    "conditionnel_présent": {
+      "je": "agresserais",
+      "tu": "agresserais",
+      "il": "agresserait",
+      "nous": "agresserions",
+      "vous": "agresseriez",
+      "ils": "agresseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais agressé",
+      "tu": "aurais agressé",
+      "il": "aurait agressé",
+      "nous": "aurions agressé",
+      "vous": "auriez agressé",
+      "ils": "auraient agressé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse agressé",
+      "tu": "eusses agressé",
+      "il": "eût agressé",
+      "nous": "eussions agressé",
+      "vous": "eussiez agressé",
+      "ils": "eussent agressé"
+    },
+    "translation": "napadać",
+    "group": 1
+  },
+  {
+    "infinitive": "agripper",
+    "présent": {
+      "je": "agrippe",
+      "tu": "agrippes",
+      "il": "agrippe",
+      "nous": "agrippons",
+      "vous": "agrippez",
+      "ils": "agrippent"
+    },
+    "passé_composé": {
+      "je": "ai agrippé",
+      "tu": "as agrippé",
+      "il": "a agrippé",
+      "nous": "avons agrippé",
+      "vous": "avez agrippé",
+      "ils": "ont agrippé"
+    },
+    "imparfait": {
+      "je": "agrippais",
+      "tu": "agrippais",
+      "il": "agrippait",
+      "nous": "agrippions",
+      "vous": "agrippiez",
+      "ils": "agrippaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais agrippé",
+      "tu": "avais agrippé",
+      "il": "avait agrippé",
+      "nous": "avions agrippé",
+      "vous": "aviez agrippé",
+      "ils": "avaient agrippé"
+    },
+    "passé_simple": {
+      "je": "agrippai",
+      "tu": "agrippas",
+      "il": "agrippa",
+      "nous": "agrippâmes",
+      "vous": "agrippâtes",
+      "ils": "agrippèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus agrippé",
+      "tu": "eus agrippé",
+      "il": "eut agrippé",
+      "nous": "eûmes agrippé",
+      "vous": "eûtes agrippé",
+      "ils": "eurent agrippé"
+    },
+    "futur_simple": {
+      "je": "agripperai",
+      "tu": "agripperas",
+      "il": "agrippera",
+      "nous": "agripperons",
+      "vous": "agripperez",
+      "ils": "agripperont"
+    },
+    "futur_antérieur": {
+      "je": "aurai agrippé",
+      "tu": "auras agrippé",
+      "il": "aura agrippé",
+      "nous": "aurons agrippé",
+      "vous": "aurez agrippé",
+      "ils": "auront agrippé"
+    },
+    "subjonctif_présent": {
+      "je": "agrippe",
+      "tu": "agrippes",
+      "il": "agrippe",
+      "nous": "agrippions",
+      "vous": "agrippiez",
+      "ils": "agrippent"
+    },
+    "subjonctif_passé": {
+      "je": "aie agrippé",
+      "tu": "aies agrippé",
+      "il": "ait agrippé",
+      "nous": "ayons agrippé",
+      "vous": "ayez agrippé",
+      "ils": "aient agrippé"
+    },
+    "subjonctif_imparfait": {
+      "je": "agrippasse",
+      "tu": "agrippasses",
+      "il": "agrippât",
+      "nous": "agrippassions",
+      "vous": "agrippassiez",
+      "ils": "agrippassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse agrippé",
+      "tu": "eusses agrippé",
+      "il": "eût agrippé",
+      "nous": "eussions agrippé",
+      "vous": "eussiez agrippé",
+      "ils": "eussent agrippé"
+    },
+    "conditionnel_présent": {
+      "je": "agripperais",
+      "tu": "agripperais",
+      "il": "agripperait",
+      "nous": "agripperions",
+      "vous": "agripperiez",
+      "ils": "agripperaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais agrippé",
+      "tu": "aurais agrippé",
+      "il": "aurait agrippé",
+      "nous": "aurions agrippé",
+      "vous": "auriez agrippé",
+      "ils": "auraient agrippé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse agrippé",
+      "tu": "eusses agrippé",
+      "il": "eût agrippé",
+      "nous": "eussions agrippé",
+      "vous": "eussiez agrippé",
+      "ils": "eussent agrippé"
+    },
+    "translation": "chwycić",
+    "group": 1
+  },
+  {
+    "infinitive": "aguerrir",
+    "présent": {
+      "je": "aguerris",
+      "tu": "aguerris",
+      "il": "aguerrit",
+      "nous": "aguerrissons",
+      "vous": "aguerrissez",
+      "ils": "aguerrissent"
+    },
+    "passé_composé": {
+      "je": "ai aguerri",
+      "tu": "as aguerri",
+      "il": "a aguerri",
+      "nous": "avons aguerri",
+      "vous": "avez aguerri",
+      "ils": "ont aguerri"
+    },
+    "imparfait": {
+      "je": "aguerrissais",
+      "tu": "aguerrissais",
+      "il": "aguerrissait",
+      "nous": "aguerrissions",
+      "vous": "aguerrissiez",
+      "ils": "aguerrissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais aguerri",
+      "tu": "avais aguerri",
+      "il": "avait aguerri",
+      "nous": "avions aguerri",
+      "vous": "aviez aguerri",
+      "ils": "avaient aguerri"
+    },
+    "passé_simple": {
+      "je": "aguerris",
+      "tu": "aguerris",
+      "il": "aguerrit",
+      "nous": "aguerrîmes",
+      "vous": "aguerrîtes",
+      "ils": "aguerrirent"
+    },
+    "passé_antérieur": {
+      "je": "eus aguerri",
+      "tu": "eus aguerri",
+      "il": "eut aguerri",
+      "nous": "eûmes aguerri",
+      "vous": "eûtes aguerri",
+      "ils": "eurent aguerri"
+    },
+    "futur_simple": {
+      "je": "aguerrirai",
+      "tu": "aguerriras",
+      "il": "aguerrira",
+      "nous": "aguerrirons",
+      "vous": "aguerrirez",
+      "ils": "aguerriront"
+    },
+    "futur_antérieur": {
+      "je": "aurai aguerri",
+      "tu": "auras aguerri",
+      "il": "aura aguerri",
+      "nous": "aurons aguerri",
+      "vous": "aurez aguerri",
+      "ils": "auront aguerri"
+    },
+    "subjonctif_présent": {
+      "je": "aguerrisse",
+      "tu": "aguerrisses",
+      "il": "aguerrisse",
+      "nous": "aguerrissions",
+      "vous": "aguerrissiez",
+      "ils": "aguerrissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie aguerri",
+      "tu": "aies aguerri",
+      "il": "ait aguerri",
+      "nous": "ayons aguerri",
+      "vous": "ayez aguerri",
+      "ils": "aient aguerri"
+    },
+    "subjonctif_imparfait": {
+      "je": "aguerrisse",
+      "tu": "aguerrisses",
+      "il": "aguerrît",
+      "nous": "aguerrissions",
+      "vous": "aguerrissiez",
+      "ils": "aguerrissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse aguerri",
+      "tu": "eusses aguerri",
+      "il": "eût aguerri",
+      "nous": "eussions aguerri",
+      "vous": "eussiez aguerri",
+      "ils": "eussent aguerri"
+    },
+    "conditionnel_présent": {
+      "je": "aguerrirais",
+      "tu": "aguerrirais",
+      "il": "aguerrirait",
+      "nous": "aguerririons",
+      "vous": "aguerririez",
+      "ils": "aguerriraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais aguerri",
+      "tu": "aurais aguerri",
+      "il": "aurait aguerri",
+      "nous": "aurions aguerri",
+      "vous": "auriez aguerri",
+      "ils": "auraient aguerri"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse aguerri",
+      "tu": "eusses aguerri",
+      "il": "eût aguerri",
+      "nous": "eussions aguerri",
+      "vous": "eussiez aguerri",
+      "ils": "eussent aguerri"
+    },
+    "translation": "lądować",
+    "group": 2
+  },
+  {
+    "infinitive": "aider",
+    "présent": {
+      "je": "aide",
+      "tu": "aides",
+      "il": "aide",
+      "nous": "aidons",
+      "vous": "aidez",
+      "ils": "aident"
+    },
+    "passé_composé": {
+      "je": "ai aidé",
+      "tu": "as aidé",
+      "il": "a aidé",
+      "nous": "avons aidé",
+      "vous": "avez aidé",
+      "ils": "ont aidé"
+    },
+    "imparfait": {
+      "je": "aidais",
+      "tu": "aidais",
+      "il": "aidait",
+      "nous": "aidions",
+      "vous": "aidiez",
+      "ils": "aidaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais aidé",
+      "tu": "avais aidé",
+      "il": "avait aidé",
+      "nous": "avions aidé",
+      "vous": "aviez aidé",
+      "ils": "avaient aidé"
+    },
+    "passé_simple": {
+      "je": "aidai",
+      "tu": "aidas",
+      "il": "aida",
+      "nous": "aidâmes",
+      "vous": "aidâtes",
+      "ils": "aidèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus aidé",
+      "tu": "eus aidé",
+      "il": "eut aidé",
+      "nous": "eûmes aidé",
+      "vous": "eûtes aidé",
+      "ils": "eurent aidé"
+    },
+    "futur_simple": {
+      "je": "aiderai",
+      "tu": "aideras",
+      "il": "aidera",
+      "nous": "aiderons",
+      "vous": "aiderez",
+      "ils": "aideront"
+    },
+    "futur_antérieur": {
+      "je": "aurai aidé",
+      "tu": "auras aidé",
+      "il": "aura aidé",
+      "nous": "aurons aidé",
+      "vous": "aurez aidé",
+      "ils": "auront aidé"
+    },
+    "subjonctif_présent": {
+      "je": "aide",
+      "tu": "aides",
+      "il": "aide",
+      "nous": "aidions",
+      "vous": "aidiez",
+      "ils": "aident"
+    },
+    "subjonctif_passé": {
+      "je": "aie aidé",
+      "tu": "aies aidé",
+      "il": "ait aidé",
+      "nous": "ayons aidé",
+      "vous": "ayez aidé",
+      "ils": "aient aidé"
+    },
+    "subjonctif_imparfait": {
+      "je": "aidasse",
+      "tu": "aidasses",
+      "il": "aidât",
+      "nous": "aidassions",
+      "vous": "aidassiez",
+      "ils": "aidassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse aidé",
+      "tu": "eusses aidé",
+      "il": "eût aidé",
+      "nous": "eussions aidé",
+      "vous": "eussiez aidé",
+      "ils": "eussent aidé"
+    },
+    "conditionnel_présent": {
+      "je": "aiderais",
+      "tu": "aiderais",
+      "il": "aiderait",
+      "nous": "aiderions",
+      "vous": "aideriez",
+      "ils": "aideraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais aidé",
+      "tu": "aurais aidé",
+      "il": "aurait aidé",
+      "nous": "aurions aidé",
+      "vous": "auriez aidé",
+      "ils": "auraient aidé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse aidé",
+      "tu": "eusses aidé",
+      "il": "eût aidé",
+      "nous": "eussions aidé",
+      "vous": "eussiez aidé",
+      "ils": "eussent aidé"
+    },
+    "translation": "pomagać",
+    "group": 1
+  },
+  {
+    "infinitive": "aiguiller",
+    "présent": {
+      "je": "aiguille",
+      "tu": "aiguilles",
+      "il": "aiguille",
+      "nous": "aiguillons",
+      "vous": "aiguillez",
+      "ils": "aiguillent"
+    },
+    "passé_composé": {
+      "je": "ai aiguillé",
+      "tu": "as aiguillé",
+      "il": "a aiguillé",
+      "nous": "avons aiguillé",
+      "vous": "avez aiguillé",
+      "ils": "ont aiguillé"
+    },
+    "imparfait": {
+      "je": "aiguillais",
+      "tu": "aiguillais",
+      "il": "aiguillait",
+      "nous": "aiguillions",
+      "vous": "aiguilliez",
+      "ils": "aiguillaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais aiguillé",
+      "tu": "avais aiguillé",
+      "il": "avait aiguillé",
+      "nous": "avions aiguillé",
+      "vous": "aviez aiguillé",
+      "ils": "avaient aiguillé"
+    },
+    "passé_simple": {
+      "je": "aiguillai",
+      "tu": "aiguillas",
+      "il": "aiguilla",
+      "nous": "aiguillâmes",
+      "vous": "aiguillâtes",
+      "ils": "aiguillèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus aiguillé",
+      "tu": "eus aiguillé",
+      "il": "eut aiguillé",
+      "nous": "eûmes aiguillé",
+      "vous": "eûtes aiguillé",
+      "ils": "eurent aiguillé"
+    },
+    "futur_simple": {
+      "je": "aiguillerai",
+      "tu": "aiguilleras",
+      "il": "aiguillera",
+      "nous": "aiguillerons",
+      "vous": "aiguillerez",
+      "ils": "aiguilleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai aiguillé",
+      "tu": "auras aiguillé",
+      "il": "aura aiguillé",
+      "nous": "aurons aiguillé",
+      "vous": "aurez aiguillé",
+      "ils": "auront aiguillé"
+    },
+    "subjonctif_présent": {
+      "je": "aiguille",
+      "tu": "aiguilles",
+      "il": "aiguille",
+      "nous": "aiguillions",
+      "vous": "aiguilliez",
+      "ils": "aiguillent"
+    },
+    "subjonctif_passé": {
+      "je": "aie aiguillé",
+      "tu": "aies aiguillé",
+      "il": "ait aiguillé",
+      "nous": "ayons aiguillé",
+      "vous": "ayez aiguillé",
+      "ils": "aient aiguillé"
+    },
+    "subjonctif_imparfait": {
+      "je": "aiguillasse",
+      "tu": "aiguillasses",
+      "il": "aiguillât",
+      "nous": "aiguillassions",
+      "vous": "aiguillassiez",
+      "ils": "aiguillassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse aiguillé",
+      "tu": "eusses aiguillé",
+      "il": "eût aiguillé",
+      "nous": "eussions aiguillé",
+      "vous": "eussiez aiguillé",
+      "ils": "eussent aiguillé"
+    },
+    "conditionnel_présent": {
+      "je": "aiguillerais",
+      "tu": "aiguillerais",
+      "il": "aiguillerait",
+      "nous": "aiguillerions",
+      "vous": "aiguilleriez",
+      "ils": "aiguilleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais aiguillé",
+      "tu": "aurais aiguillé",
+      "il": "aurait aiguillé",
+      "nous": "aurions aiguillé",
+      "vous": "auriez aiguillé",
+      "ils": "auraient aiguillé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse aiguillé",
+      "tu": "eusses aiguillé",
+      "il": "eût aiguillé",
+      "nous": "eussions aiguillé",
+      "vous": "eussiez aiguillé",
+      "ils": "eussent aiguillé"
+    },
+    "translation": "ustawiać",
+    "group": 1
+  },
+  {
+    "infinitive": "aiguiser",
+    "présent": {
+      "je": "aiguise",
+      "tu": "aiguises",
+      "il": "aiguise",
+      "nous": "aiguisons",
+      "vous": "aiguisez",
+      "ils": "aiguisent"
+    },
+    "passé_composé": {
+      "je": "ai aiguisé",
+      "tu": "as aiguisé",
+      "il": "a aiguisé",
+      "nous": "avons aiguisé",
+      "vous": "avez aiguisé",
+      "ils": "ont aiguisé"
+    },
+    "imparfait": {
+      "je": "aiguisais",
+      "tu": "aiguisais",
+      "il": "aiguisait",
+      "nous": "aiguisions",
+      "vous": "aiguisiez",
+      "ils": "aiguisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais aiguisé",
+      "tu": "avais aiguisé",
+      "il": "avait aiguisé",
+      "nous": "avions aiguisé",
+      "vous": "aviez aiguisé",
+      "ils": "avaient aiguisé"
+    },
+    "passé_simple": {
+      "je": "aiguisai",
+      "tu": "aiguisas",
+      "il": "aiguisa",
+      "nous": "aiguisâmes",
+      "vous": "aiguisâtes",
+      "ils": "aiguisèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus aiguisé",
+      "tu": "eus aiguisé",
+      "il": "eut aiguisé",
+      "nous": "eûmes aiguisé",
+      "vous": "eûtes aiguisé",
+      "ils": "eurent aiguisé"
+    },
+    "futur_simple": {
+      "je": "aiguiserai",
+      "tu": "aiguiseras",
+      "il": "aiguisera",
+      "nous": "aiguiserons",
+      "vous": "aiguiserez",
+      "ils": "aiguiseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai aiguisé",
+      "tu": "auras aiguisé",
+      "il": "aura aiguisé",
+      "nous": "aurons aiguisé",
+      "vous": "aurez aiguisé",
+      "ils": "auront aiguisé"
+    },
+    "subjonctif_présent": {
+      "je": "aiguise",
+      "tu": "aiguises",
+      "il": "aiguise",
+      "nous": "aiguisions",
+      "vous": "aiguisiez",
+      "ils": "aiguisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie aiguisé",
+      "tu": "aies aiguisé",
+      "il": "ait aiguisé",
+      "nous": "ayons aiguisé",
+      "vous": "ayez aiguisé",
+      "ils": "aient aiguisé"
+    },
+    "subjonctif_imparfait": {
+      "je": "aiguisasse",
+      "tu": "aiguisasses",
+      "il": "aiguisât",
+      "nous": "aiguisassions",
+      "vous": "aiguisassiez",
+      "ils": "aiguisassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse aiguisé",
+      "tu": "eusses aiguisé",
+      "il": "eût aiguisé",
+      "nous": "eussions aiguisé",
+      "vous": "eussiez aiguisé",
+      "ils": "eussent aiguisé"
+    },
+    "conditionnel_présent": {
+      "je": "aiguiserais",
+      "tu": "aiguiserais",
+      "il": "aiguiserait",
+      "nous": "aiguiserions",
+      "vous": "aiguiseriez",
+      "ils": "aiguiseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais aiguisé",
+      "tu": "aurais aiguisé",
+      "il": "aurait aiguisé",
+      "nous": "aurions aiguisé",
+      "vous": "auriez aiguisé",
+      "ils": "auraient aiguisé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse aiguisé",
+      "tu": "eusses aiguisé",
+      "il": "eût aiguisé",
+      "nous": "eussions aiguisé",
+      "vous": "eussiez aiguisé",
+      "ils": "eussent aiguisé"
+    },
+    "translation": "ostrzyć",
+    "group": 1
+  },
+  {
+    "infinitive": "ailler",
+    "présent": {
+      "je": "aille",
+      "tu": "ailles",
+      "il": "aille",
+      "nous": "aillons",
+      "vous": "aillez",
+      "ils": "aillent"
+    },
+    "passé_composé": {
+      "je": "ai aillé",
+      "tu": "as aillé",
+      "il": "a aillé",
+      "nous": "avons aillé",
+      "vous": "avez aillé",
+      "ils": "ont aillé"
+    },
+    "imparfait": {
+      "je": "aillais",
+      "tu": "aillais",
+      "il": "aillait",
+      "nous": "aillions",
+      "vous": "ailliez",
+      "ils": "aillaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais aillé",
+      "tu": "avais aillé",
+      "il": "avait aillé",
+      "nous": "avions aillé",
+      "vous": "aviez aillé",
+      "ils": "avaient aillé"
+    },
+    "passé_simple": {
+      "je": "aillai",
+      "tu": "aillas",
+      "il": "ailla",
+      "nous": "aillâmes",
+      "vous": "aillâtes",
+      "ils": "aillèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus aillé",
+      "tu": "eus aillé",
+      "il": "eut aillé",
+      "nous": "eûmes aillé",
+      "vous": "eûtes aillé",
+      "ils": "eurent aillé"
+    },
+    "futur_simple": {
+      "je": "aillerai",
+      "tu": "ailleras",
+      "il": "aillera",
+      "nous": "aillerons",
+      "vous": "aillerez",
+      "ils": "ailleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai aillé",
+      "tu": "auras aillé",
+      "il": "aura aillé",
+      "nous": "aurons aillé",
+      "vous": "aurez aillé",
+      "ils": "auront aillé"
+    },
+    "subjonctif_présent": {
+      "je": "aille",
+      "tu": "ailles",
+      "il": "aille",
+      "nous": "aillions",
+      "vous": "ailliez",
+      "ils": "aillent"
+    },
+    "subjonctif_passé": {
+      "je": "aie aillé",
+      "tu": "aies aillé",
+      "il": "ait aillé",
+      "nous": "ayons aillé",
+      "vous": "ayez aillé",
+      "ils": "aient aillé"
+    },
+    "subjonctif_imparfait": {
+      "je": "aillasse",
+      "tu": "aillasses",
+      "il": "aillât",
+      "nous": "aillassions",
+      "vous": "aillassiez",
+      "ils": "aillassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse aillé",
+      "tu": "eusses aillé",
+      "il": "eût aillé",
+      "nous": "eussions aillé",
+      "vous": "eussiez aillé",
+      "ils": "eussent aillé"
+    },
+    "conditionnel_présent": {
+      "je": "aillerais",
+      "tu": "aillerais",
+      "il": "aillerait",
+      "nous": "aillerions",
+      "vous": "ailleriez",
+      "ils": "ailleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais aillé",
+      "tu": "aurais aillé",
+      "il": "aurait aillé",
+      "nous": "aurions aillé",
+      "vous": "auriez aillé",
+      "ils": "auraient aillé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse aillé",
+      "tu": "eusses aillé",
+      "il": "eût aillé",
+      "nous": "eussions aillé",
+      "vous": "eussiez aillé",
+      "ils": "eussent aillé"
+    },
+    "translation": "ścinać",
+    "group": 1
+  },
+  {
+    "infinitive": "aimer",
+    "présent": {
+      "je": "aime",
+      "tu": "aimes",
+      "il": "aime",
+      "nous": "aimons",
+      "vous": "aimez",
+      "ils": "aiment"
+    },
+    "passé_composé": {
+      "je": "ai aimé",
+      "tu": "as aimé",
+      "il": "a aimé",
+      "nous": "avons aimé",
+      "vous": "avez aimé",
+      "ils": "ont aimé"
+    },
+    "imparfait": {
+      "je": "aimais",
+      "tu": "aimais",
+      "il": "aimait",
+      "nous": "aimions",
+      "vous": "aimiez",
+      "ils": "aimaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais aimé",
+      "tu": "avais aimé",
+      "il": "avait aimé",
+      "nous": "avions aimé",
+      "vous": "aviez aimé",
+      "ils": "avaient aimé"
+    },
+    "passé_simple": {
+      "je": "aimai",
+      "tu": "aimas",
+      "il": "aima",
+      "nous": "aimâmes",
+      "vous": "aimâtes",
+      "ils": "aimèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus aimé",
+      "tu": "eus aimé",
+      "il": "eut aimé",
+      "nous": "eûmes aimé",
+      "vous": "eûtes aimé",
+      "ils": "eurent aimé"
+    },
+    "futur_simple": {
+      "je": "aimerai",
+      "tu": "aimeras",
+      "il": "aimera",
+      "nous": "aimerons",
+      "vous": "aimerez",
+      "ils": "aimeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai aimé",
+      "tu": "auras aimé",
+      "il": "aura aimé",
+      "nous": "aurons aimé",
+      "vous": "aurez aimé",
+      "ils": "auront aimé"
+    },
+    "subjonctif_présent": {
+      "je": "aime",
+      "tu": "aimes",
+      "il": "aime",
+      "nous": "aimions",
+      "vous": "aimiez",
+      "ils": "aiment"
+    },
+    "subjonctif_passé": {
+      "je": "aie aimé",
+      "tu": "aies aimé",
+      "il": "ait aimé",
+      "nous": "ayons aimé",
+      "vous": "ayez aimé",
+      "ils": "aient aimé"
+    },
+    "subjonctif_imparfait": {
+      "je": "aimasse",
+      "tu": "aimasses",
+      "il": "aimât",
+      "nous": "aimassions",
+      "vous": "aimassiez",
+      "ils": "aimassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse aimé",
+      "tu": "eusses aimé",
+      "il": "eût aimé",
+      "nous": "eussions aimé",
+      "vous": "eussiez aimé",
+      "ils": "eussent aimé"
+    },
+    "conditionnel_présent": {
+      "je": "aimerais",
+      "tu": "aimerais",
+      "il": "aimerait",
+      "nous": "aimerions",
+      "vous": "aimeriez",
+      "ils": "aimeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais aimé",
+      "tu": "aurais aimé",
+      "il": "aurait aimé",
+      "nous": "aurions aimé",
+      "vous": "auriez aimé",
+      "ils": "auraient aimé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse aimé",
+      "tu": "eusses aimé",
+      "il": "eût aimé",
+      "nous": "eussions aimé",
+      "vous": "eussiez aimé",
+      "ils": "eussent aimé"
+    },
+    "translation": "podoba",
+    "group": 1
+  },
+  {
+    "infinitive": "airer",
+    "présent": {
+      "je": "aire",
+      "tu": "aires",
+      "il": "aire",
+      "nous": "airons",
+      "vous": "airez",
+      "ils": "airent"
+    },
+    "passé_composé": {
+      "je": "ai airé",
+      "tu": "as airé",
+      "il": "a airé",
+      "nous": "avons airé",
+      "vous": "avez airé",
+      "ils": "ont airé"
+    },
+    "imparfait": {
+      "je": "airais",
+      "tu": "airais",
+      "il": "airait",
+      "nous": "airions",
+      "vous": "airiez",
+      "ils": "airaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais airé",
+      "tu": "avais airé",
+      "il": "avait airé",
+      "nous": "avions airé",
+      "vous": "aviez airé",
+      "ils": "avaient airé"
+    },
+    "passé_simple": {
+      "je": "airai",
+      "tu": "airas",
+      "il": "aira",
+      "nous": "airâmes",
+      "vous": "airâtes",
+      "ils": "airèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus airé",
+      "tu": "eus airé",
+      "il": "eut airé",
+      "nous": "eûmes airé",
+      "vous": "eûtes airé",
+      "ils": "eurent airé"
+    },
+    "futur_simple": {
+      "je": "airerai",
+      "tu": "aireras",
+      "il": "airera",
+      "nous": "airerons",
+      "vous": "airerez",
+      "ils": "aireront"
+    },
+    "futur_antérieur": {
+      "je": "aurai airé",
+      "tu": "auras airé",
+      "il": "aura airé",
+      "nous": "aurons airé",
+      "vous": "aurez airé",
+      "ils": "auront airé"
+    },
+    "subjonctif_présent": {
+      "je": "aire",
+      "tu": "aires",
+      "il": "aire",
+      "nous": "airions",
+      "vous": "airiez",
+      "ils": "airent"
+    },
+    "subjonctif_passé": {
+      "je": "aie airé",
+      "tu": "aies airé",
+      "il": "ait airé",
+      "nous": "ayons airé",
+      "vous": "ayez airé",
+      "ils": "aient airé"
+    },
+    "subjonctif_imparfait": {
+      "je": "airasse",
+      "tu": "airasses",
+      "il": "airât",
+      "nous": "airassions",
+      "vous": "airassiez",
+      "ils": "airassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse airé",
+      "tu": "eusses airé",
+      "il": "eût airé",
+      "nous": "eussions airé",
+      "vous": "eussiez airé",
+      "ils": "eussent airé"
+    },
+    "conditionnel_présent": {
+      "je": "airerais",
+      "tu": "airerais",
+      "il": "airerait",
+      "nous": "airerions",
+      "vous": "aireriez",
+      "ils": "aireraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais airé",
+      "tu": "aurais airé",
+      "il": "aurait airé",
+      "nous": "aurions airé",
+      "vous": "auriez airé",
+      "ils": "auraient airé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse airé",
+      "tu": "eusses airé",
+      "il": "eût airé",
+      "nous": "eussions airé",
+      "vous": "eussiez airé",
+      "ils": "eussent airé"
+    },
+    "translation": "pastować",
+    "group": 1
+  },
+  {
+    "infinitive": "ajouter",
+    "présent": {
+      "je": "ajoute",
+      "tu": "ajoutes",
+      "il": "ajoute",
+      "nous": "ajoutons",
+      "vous": "ajoutez",
+      "ils": "ajoutent"
+    },
+    "passé_composé": {
+      "je": "ai ajouté",
+      "tu": "as ajouté",
+      "il": "a ajouté",
+      "nous": "avons ajouté",
+      "vous": "avez ajouté",
+      "ils": "ont ajouté"
+    },
+    "imparfait": {
+      "je": "ajoutais",
+      "tu": "ajoutais",
+      "il": "ajoutait",
+      "nous": "ajoutions",
+      "vous": "ajoutiez",
+      "ils": "ajoutaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ajouté",
+      "tu": "avais ajouté",
+      "il": "avait ajouté",
+      "nous": "avions ajouté",
+      "vous": "aviez ajouté",
+      "ils": "avaient ajouté"
+    },
+    "passé_simple": {
+      "je": "ajoutai",
+      "tu": "ajoutas",
+      "il": "ajouta",
+      "nous": "ajoutâmes",
+      "vous": "ajoutâtes",
+      "ils": "ajoutèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus ajouté",
+      "tu": "eus ajouté",
+      "il": "eut ajouté",
+      "nous": "eûmes ajouté",
+      "vous": "eûtes ajouté",
+      "ils": "eurent ajouté"
+    },
+    "futur_simple": {
+      "je": "ajouterai",
+      "tu": "ajouteras",
+      "il": "ajoutera",
+      "nous": "ajouterons",
+      "vous": "ajouterez",
+      "ils": "ajouteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ajouté",
+      "tu": "auras ajouté",
+      "il": "aura ajouté",
+      "nous": "aurons ajouté",
+      "vous": "aurez ajouté",
+      "ils": "auront ajouté"
+    },
+    "subjonctif_présent": {
+      "je": "ajoute",
+      "tu": "ajoutes",
+      "il": "ajoute",
+      "nous": "ajoutions",
+      "vous": "ajoutiez",
+      "ils": "ajoutent"
+    },
+    "subjonctif_passé": {
+      "je": "aie ajouté",
+      "tu": "aies ajouté",
+      "il": "ait ajouté",
+      "nous": "ayons ajouté",
+      "vous": "ayez ajouté",
+      "ils": "aient ajouté"
+    },
+    "subjonctif_imparfait": {
+      "je": "ajoutasse",
+      "tu": "ajoutasses",
+      "il": "ajoutât",
+      "nous": "ajoutassions",
+      "vous": "ajoutassiez",
+      "ils": "ajoutassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ajouté",
+      "tu": "eusses ajouté",
+      "il": "eût ajouté",
+      "nous": "eussions ajouté",
+      "vous": "eussiez ajouté",
+      "ils": "eussent ajouté"
+    },
+    "conditionnel_présent": {
+      "je": "ajouterais",
+      "tu": "ajouterais",
+      "il": "ajouterait",
+      "nous": "ajouterions",
+      "vous": "ajouteriez",
+      "ils": "ajouteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ajouté",
+      "tu": "aurais ajouté",
+      "il": "aurait ajouté",
+      "nous": "aurions ajouté",
+      "vous": "auriez ajouté",
+      "ils": "auraient ajouté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ajouté",
+      "tu": "eusses ajouté",
+      "il": "eût ajouté",
+      "nous": "eussions ajouté",
+      "vous": "eussiez ajouté",
+      "ils": "eussent ajouté"
+    },
+    "translation": "dorzucać",
+    "group": 1
+  }
+]

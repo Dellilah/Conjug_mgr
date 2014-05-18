@@ -10,6 +10,8 @@ ConjugMgr::Application.routes.draw do
   get '/download/:page' => 'verbs#download'
 
   get '/practice' => 'verbs#practice'
+  get '/from_json/:page' => 'verbs#download_from_json'
+
   post '/practice' => 'verbs#practice_draw'
 
   post '/check_form' => 'verbs#check_form'

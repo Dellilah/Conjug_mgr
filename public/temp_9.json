@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "agacer",
+    "présent": {
+      "je": "agace",
+      "tu": "agaces",
+      "il": "agace",
+      "nous": "agaçons",
+      "vous": "agacez",
+      "ils": "agacent"
+    },
+    "passé_composé": {
+      "je": "ai agacé",
+      "tu": "as agacé",
+      "il": "a agacé",
+      "nous": "avons agacé",
+      "vous": "avez agacé",
+      "ils": "ont agacé"
+    },
+    "imparfait": {
+      "je": "agaçais",
+      "tu": "agaçais",
+      "il": "agaçait",
+      "nous": "agacions",
+      "vous": "agaciez",
+      "ils": "agaçaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais agacé",
+      "tu": "avais agacé",
+      "il": "avait agacé",
+      "nous": "avions agacé",
+      "vous": "aviez agacé",
+      "ils": "avaient agacé"
+    },
+    "passé_simple": {
+      "je": "agaçai",
+      "tu": "agaças",
+      "il": "agaça",
+      "nous": "agaçâmes",
+      "vous": "agaçâtes",
+      "ils": "agacèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus agacé",
+      "tu": "eus agacé",
+      "il": "eut agacé",
+      "nous": "eûmes agacé",
+      "vous": "eûtes agacé",
+      "ils": "eurent agacé"
+    },
+    "futur_simple": {
+      "je": "agacerai",
+      "tu": "agaceras",
+      "il": "agacera",
+      "nous": "agacerons",
+      "vous": "agacerez",
+      "ils": "agaceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai agacé",
+      "tu": "auras agacé",
+      "il": "aura agacé",
+      "nous": "aurons agacé",
+      "vous": "aurez agacé",
+      "ils": "auront agacé"
+    },
+    "subjonctif_présent": {
+      "je": "agace",
+      "tu": "agaces",
+      "il": "agace",
+      "nous": "agacions",
+      "vous": "agaciez",
+      "ils": "agacent"
+    },
+    "subjonctif_passé": {
+      "je": "aie agacé",
+      "tu": "aies agacé",
+      "il": "ait agacé",
+      "nous": "ayons agacé",
+      "vous": "ayez agacé",
+      "ils": "aient agacé"
+    },
+    "subjonctif_imparfait": {
+      "je": "agaçasse",
+      "tu": "agaçasses",
+      "il": "agaçât",
+      "nous": "agaçassions",
+      "vous": "agaçassiez",
+      "ils": "agaçassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse agacé",
+      "tu": "eusses agacé",
+      "il": "eût agacé",
+      "nous": "eussions agacé",
+      "vous": "eussiez agacé",
+      "ils": "eussent agacé"
+    },
+    "conditionnel_présent": {
+      "je": "agacerais",
+      "tu": "agacerais",
+      "il": "agacerait",
+      "nous": "agacerions",
+      "vous": "agaceriez",
+      "ils": "agaceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais agacé",
+      "tu": "aurais agacé",
+      "il": "aurait agacé",
+      "nous": "aurions agacé",
+      "vous": "auriez agacé",
+      "ils": "auraient agacé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse agacé",
+      "tu": "eusses agacé",
+      "il": "eût agacé",
+      "nous": "eussions agacé",
+      "vous": "eussiez agacé",
+      "ils": "eussent agacé"
+    },
+    "translation": "dokuczać",
+    "group": 1
+  },
+  {
+    "infinitive": "agenouiller",
+    "présent": {
+      "je": "agenouille",
+      "tu": "agenouilles",
+      "il": "agenouille",
+      "nous": "nous agenouillons",
+      "vous": "vous agenouillez",
+      "ils": "agenouillent"
+    },
+    "passé_composé": {
+      "je": "me suis agenouillé",
+      "tu": "es agenouillé",
+      "il": "est agenouillé",
+      "nous": "nous sommes agenouillés",
+      "vous": "vous êtes agenouillés",
+      "ils": "se sont agenouillés"
+    },
+    "imparfait": {
+      "je": "agenouillais",
+      "tu": "agenouillais",
+      "il": "agenouillait",
+      "nous": "nous agenouillions",
+      "vous": "vous agenouilliez",
+      "ils": "agenouillaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais agenouillé",
+      "tu": "étais agenouillé",
+      "il": "était agenouillé",
+      "nous": "nous étions agenouillés",
+      "vous": "vous étiez agenouillés",
+      "ils": "étaient agenouillés"
+    },
+    "passé_simple": {
+      "je": "agenouillai",
+      "tu": "agenouillas",
+      "il": "agenouilla",
+      "nous": "nous agenouillâmes",
+      "vous": "vous agenouillâtes",
+      "ils": "agenouillèrent"
+    },
+    "passé_antérieur": {
+      "je": "me fus agenouillé",
+      "tu": "te fus agenouillé",
+      "il": "se fut agenouillé",
+      "nous": "nous fûmes agenouillés",
+      "vous": "vous fûtes agenouillés",
+      "ils": "se furent agenouillés"
+    },
+    "futur_simple": {
+      "je": "agenouillerai",
+      "tu": "agenouilleras",
+      "il": "agenouillera",
+      "nous": "nous agenouillerons",
+      "vous": "vous agenouillerez",
+      "ils": "agenouilleront"
+    },
+    "futur_antérieur": {
+      "je": "me serai agenouillé",
+      "tu": "te seras agenouillé",
+      "il": "se sera agenouillé",
+      "nous": "nous serons agenouillés",
+      "vous": "vous serez agenouillés",
+      "ils": "se seront agenouillés"
+    },
+    "subjonctif_présent": {
+      "je": "agenouille",
+      "tu": "agenouilles",
+      "il": "agenouille",
+      "nous": "nous agenouillions",
+      "vous": "vous agenouilliez",
+      "ils": "agenouillent"
+    },
+    "subjonctif_passé": {
+      "je": "me sois agenouillé",
+      "tu": "te sois agenouillé",
+      "il": "se soit agenouillé",
+      "nous": "nous soyons agenouillés",
+      "vous": "vous soyez agenouillés",
+      "ils": "se soient agenouillés"
+    },
+    "subjonctif_imparfait": {
+      "je": "agenouillasse",
+      "tu": "agenouillasses",
+      "il": "agenouillât",
+      "nous": "nous agenouillassions",
+      "vous": "vous agenouillassiez",
+      "ils": "agenouillassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse agenouillé",
+      "tu": "te fusses agenouillé",
+      "il": "se fût agenouillé",
+      "nous": "nous fussions agenouillés",
+      "vous": "vous fussiez agenouillés",
+      "ils": "se fussent agenouillés"
+    },
+    "conditionnel_présent": {
+      "je": "agenouillerais",
+      "tu": "agenouillerais",
+      "il": "agenouillerait",
+      "nous": "nous agenouillerions",
+      "vous": "vous agenouilleriez",
+      "ils": "agenouilleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais agenouillé",
+      "tu": "te serais agenouillé",
+      "il": "se serait agenouillé",
+      "nous": "nous serions agenouillés",
+      "vous": "vous seriez agenouillés",
+      "ils": "se seraient agenouillés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse agenouillé",
+      "tu": "te fusses agenouillé",
+      "il": "se fût agenouillé",
+      "nous": "nous fussions agenouillés",
+      "vous": "vous fussiez agenouillés",
+      "ils": "se fussent agenouillés"
+    },
+    "translation": "klękać",
+    "group": 1
+  },
+  {
+    "infinitive": "aggraver",
+    "présent": {
+      "je": "aggrave",
+      "tu": "aggraves",
+      "il": "aggrave",
+      "nous": "aggravons",
+      "vous": "aggravez",
+      "ils": "aggravent"
+    },
+    "passé_composé": {
+      "je": "ai aggravé",
+      "tu": "as aggravé",
+      "il": "a aggravé",
+      "nous": "avons aggravé",
+      "vous": "avez aggravé",
+      "ils": "ont aggravé"
+    },
+    "imparfait": {
+      "je": "aggravais",
+      "tu": "aggravais",
+      "il": "aggravait",
+      "nous": "aggravions",
+      "vous": "aggraviez",
+      "ils": "aggravaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais aggravé",
+      "tu": "avais aggravé",
+      "il": "avait aggravé",
+      "nous": "avions aggravé",
+      "vous": "aviez aggravé",
+      "ils": "avaient aggravé"
+    },
+    "passé_simple": {
+      "je": "aggravai",
+      "tu": "aggravas",
+      "il": "aggrava",
+      "nous": "aggravâmes",
+      "vous": "aggravâtes",
+      "ils": "aggravèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus aggravé",
+      "tu": "eus aggravé",
+      "il": "eut aggravé",
+      "nous": "eûmes aggravé",
+      "vous": "eûtes aggravé",
+      "ils": "eurent aggravé"
+    },
+    "futur_simple": {
+      "je": "aggraverai",
+      "tu": "aggraveras",
+      "il": "aggravera",
+      "nous": "aggraverons",
+      "vous": "aggraverez",
+      "ils": "aggraveront"
+    },
+    "futur_antérieur": {
+      "je": "aurai aggravé",
+      "tu": "auras aggravé",
+      "il": "aura aggravé",
+      "nous": "aurons aggravé",
+      "vous": "aurez aggravé",
+      "ils": "auront aggravé"
+    },
+    "subjonctif_présent": {
+      "je": "aggrave",
+      "tu": "aggraves",
+      "il": "aggrave",
+      "nous": "aggravions",
+      "vous": "aggraviez",
+      "ils": "aggravent"
+    },
+    "subjonctif_passé": {
+      "je": "aie aggravé",
+      "tu": "aies aggravé",
+      "il": "ait aggravé",
+      "nous": "ayons aggravé",
+      "vous": "ayez aggravé",
+      "ils": "aient aggravé"
+    },
+    "subjonctif_imparfait": {
+      "je": "aggravasse",
+      "tu": "aggravasses",
+      "il": "aggravât",
+      "nous": "aggravassions",
+      "vous": "aggravassiez",
+      "ils": "aggravassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse aggravé",
+      "tu": "eusses aggravé",
+      "il": "eût aggravé",
+      "nous": "eussions aggravé",
+      "vous": "eussiez aggravé",
+      "ils": "eussent aggravé"
+    },
+    "conditionnel_présent": {
+      "je": "aggraverais",
+      "tu": "aggraverais",
+      "il": "aggraverait",
+      "nous": "aggraverions",
+      "vous": "aggraveriez",
+      "ils": "aggraveraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais aggravé",
+      "tu": "aurais aggravé",
+      "il": "aurait aggravé",
+      "nous": "aurions aggravé",
+      "vous": "auriez aggravé",
+      "ils": "auraient aggravé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse aggravé",
+      "tu": "eusses aggravé",
+      "il": "eût aggravé",
+      "nous": "eussions aggravé",
+      "vous": "eussiez aggravé",
+      "ils": "eussent aggravé"
+    },
+    "translation": "nasilać",
+    "group": 1
+  },
+  {
+    "infinitive": "agir",
+    "présent": {
+      "je": "agis",
+      "tu": "agis",
+      "il": "agit",
+      "nous": "agissons",
+      "vous": "agissez",
+      "ils": "agissent"
+    },
+    "passé_composé": {
+      "je": "ai agi",
+      "tu": "as agi",
+      "il": "a agi",
+      "nous": "avons agi",
+      "vous": "avez agi",
+      "ils": "ont agi"
+    },
+    "imparfait": {
+      "je": "agissais",
+      "tu": "agissais",
+      "il": "agissait",
+      "nous": "agissions",
+      "vous": "agissiez",
+      "ils": "agissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais agi",
+      "tu": "avais agi",
+      "il": "avait agi",
+      "nous": "avions agi",
+      "vous": "aviez agi",
+      "ils": "avaient agi"
+    },
+    "passé_simple": {
+      "je": "agis",
+      "tu": "agis",
+      "il": "agit",
+      "nous": "agîmes",
+      "vous": "agîtes",
+      "ils": "agirent"
+    },
+    "passé_antérieur": {
+      "je": "eus agi",
+      "tu": "eus agi",
+      "il": "eut agi",
+      "nous": "eûmes agi",
+      "vous": "eûtes agi",
+      "ils": "eurent agi"
+    },
+    "futur_simple": {
+      "je": "agirai",
+      "tu": "agiras",
+      "il": "agira",
+      "nous": "agirons",
+      "vous": "agirez",
+      "ils": "agiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai agi",
+      "tu": "auras agi",
+      "il": "aura agi",
+      "nous": "aurons agi",
+      "vous": "aurez agi",
+      "ils": "auront agi"
+    },
+    "subjonctif_présent": {
+      "je": "agisse",
+      "tu": "agisses",
+      "il": "agisse",
+      "nous": "agissions",
+      "vous": "agissiez",
+      "ils": "agissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie agi",
+      "tu": "aies agi",
+      "il": "ait agi",
+      "nous": "ayons agi",
+      "vous": "ayez agi",
+      "ils": "aient agi"
+    },
+    "subjonctif_imparfait": {
+      "je": "agisse",
+      "tu": "agisses",
+      "il": "agît",
+      "nous": "agissions",
+      "vous": "agissiez",
+      "ils": "agissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse agi",
+      "tu": "eusses agi",
+      "il": "eût agi",
+      "nous": "eussions agi",
+      "vous": "eussiez agi",
+      "ils": "eussent agi"
+    },
+    "conditionnel_présent": {
+      "je": "agirais",
+      "tu": "agirais",
+      "il": "agirait",
+      "nous": "agirions",
+      "vous": "agiriez",
+      "ils": "agiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais agi",
+      "tu": "aurais agi",
+      "il": "aurait agi",
+      "nous": "aurions agi",
+      "vous": "auriez agi",
+      "ils": "auraient agi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse agi",
+      "tu": "eusses agi",
+      "il": "eût agi",
+      "nous": "eussions agi",
+      "vous": "eussiez agi",
+      "ils": "eussent agi"
+    },
+    "translation": "działać",
+    "group": 2
+  },
+  {
+    "infinitive": "agiter",
+    "présent": {
+      "je": "agite",
+      "tu": "agites",
+      "il": "agite",
+      "nous": "agitons",
+      "vous": "agitez",
+      "ils": "agitent"
+    },
+    "passé_composé": {
+      "je": "ai agité",
+      "tu": "as agité",
+      "il": "a agité",
+      "nous": "avons agité",
+      "vous": "avez agité",
+      "ils": "ont agité"
+    },
+    "imparfait": {
+      "je": "agitais",
+      "tu": "agitais",
+      "il": "agitait",
+      "nous": "agitions",
+      "vous": "agitiez",
+      "ils": "agitaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais agité",
+      "tu": "avais agité",
+      "il": "avait agité",
+      "nous": "avions agité",
+      "vous": "aviez agité",
+      "ils": "avaient agité"
+    },
+    "passé_simple": {
+      "je": "agitai",
+      "tu": "agitas",
+      "il": "agita",
+      "nous": "agitâmes",
+      "vous": "agitâtes",
+      "ils": "agitèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus agité",
+      "tu": "eus agité",
+      "il": "eut agité",
+      "nous": "eûmes agité",
+      "vous": "eûtes agité",
+      "ils": "eurent agité"
+    },
+    "futur_simple": {
+      "je": "agiterai",
+      "tu": "agiteras",
+      "il": "agitera",
+      "nous": "agiterons",
+      "vous": "agiterez",
+      "ils": "agiteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai agité",
+      "tu": "auras agité",
+      "il": "aura agité",
+      "nous": "aurons agité",
+      "vous": "aurez agité",
+      "ils": "auront agité"
+    },
+    "subjonctif_présent": {
+      "je": "agite",
+      "tu": "agites",
+      "il": "agite",
+      "nous": "agitions",
+      "vous": "agitiez",
+      "ils": "agitent"
+    },
+    "subjonctif_passé": {
+      "je": "aie agité",
+      "tu": "aies agité",
+      "il": "ait agité",
+      "nous": "ayons agité",
+      "vous": "ayez agité",
+      "ils": "aient agité"
+    },
+    "subjonctif_imparfait": {
+      "je": "agitasse",
+      "tu": "agitasses",
+      "il": "agitât",
+      "nous": "agitassions",
+      "vous": "agitassiez",
+      "ils": "agitassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse agité",
+      "tu": "eusses agité",
+      "il": "eût agité",
+      "nous": "eussions agité",
+      "vous": "eussiez agité",
+      "ils": "eussent agité"
+    },
+    "conditionnel_présent": {
+      "je": "agiterais",
+      "tu": "agiterais",
+      "il": "agiterait",
+      "nous": "agiterions",
+      "vous": "agiteriez",
+      "ils": "agiteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais agité",
+      "tu": "aurais agité",
+      "il": "aurait agité",
+      "nous": "aurions agité",
+      "vous": "auriez agité",
+      "ils": "auraient agité"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse agité",
+      "tu": "eusses agité",
+      "il": "eût agité",
+      "nous": "eussions agité",
+      "vous": "eussiez agité",
+      "ils": "eussent agité"
+    },
+    "translation": "ruszać",
+    "group": 1
+  },
+  {
+    "infinitive": "agonir",
+    "présent": {
+      "je": "agonis",
+      "tu": "agonis",
+      "il": "agonit",
+      "nous": "agonissons",
+      "vous": "agonissez",
+      "ils": "agonissent"
+    },
+    "passé_composé": {
+      "je": "ai agoni",
+      "tu": "as agoni",
+      "il": "a agoni",
+      "nous": "avons agoni",
+      "vous": "avez agoni",
+      "ils": "ont agoni"
+    },
+    "imparfait": {
+      "je": "agonissais",
+      "tu": "agonissais",
+      "il": "agonissait",
+      "nous": "agonissions",
+      "vous": "agonissiez",
+      "ils": "agonissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais agoni",
+      "tu": "avais agoni",
+      "il": "avait agoni",
+      "nous": "avions agoni",
+      "vous": "aviez agoni",
+      "ils": "avaient agoni"
+    },
+    "passé_simple": {
+      "je": "agonis",
+      "tu": "agonis",
+      "il": "agonit",
+      "nous": "agonîmes",
+      "vous": "agonîtes",
+      "ils": "agonirent"
+    },
+    "passé_antérieur": {
+      "je": "eus agoni",
+      "tu": "eus agoni",
+      "il": "eut agoni",
+      "nous": "eûmes agoni",
+      "vous": "eûtes agoni",
+      "ils": "eurent agoni"
+    },
+    "futur_simple": {
+      "je": "agonirai",
+      "tu": "agoniras",
+      "il": "agonira",
+      "nous": "agonirons",
+      "vous": "agonirez",
+      "ils": "agoniront"
+    },
+    "futur_antérieur": {
+      "je": "aurai agoni",
+      "tu": "auras agoni",
+      "il": "aura agoni",
+      "nous": "aurons agoni",
+      "vous": "aurez agoni",
+      "ils": "auront agoni"
+    },
+    "subjonctif_présent": {
+      "je": "agonisse",
+      "tu": "agonisses",
+      "il": "agonisse",
+      "nous": "agonissions",
+      "vous": "agonissiez",
+      "ils": "agonissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie agoni",
+      "tu": "aies agoni",
+      "il": "ait agoni",
+      "nous": "ayons agoni",
+      "vous": "ayez agoni",
+      "ils": "aient agoni"
+    },
+    "subjonctif_imparfait": {
+      "je": "agonisse",
+      "tu": "agonisses",
+      "il": "agonît",
+      "nous": "agonissions",
+      "vous": "agonissiez",
+      "ils": "agonissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse agoni",
+      "tu": "eusses agoni",
+      "il": "eût agoni",
+      "nous": "eussions agoni",
+      "vous": "eussiez agoni",
+      "ils": "eussent agoni"
+    },
+    "conditionnel_présent": {
+      "je": "agonirais",
+      "tu": "agonirais",
+      "il": "agonirait",
+      "nous": "agonirions",
+      "vous": "agoniriez",
+      "ils": "agoniraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais agoni",
+      "tu": "aurais agoni",
+      "il": "aurait agoni",
+      "nous": "aurions agoni",
+      "vous": "auriez agoni",
+      "ils": "auraient agoni"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse agoni",
+      "tu": "eusses agoni",
+      "il": "eût agoni",
+      "nous": "eussions agoni",
+      "vous": "eussiez agoni",
+      "ils": "eussent agoni"
+    },
+    "translation": "agonia",
+    "group": 2
+  },
+  {
+    "infinitive": "agrafer",
+    "présent": {
+      "je": "agrafe",
+      "tu": "agrafes",
+      "il": "agrafe",
+      "nous": "agrafons",
+      "vous": "agrafez",
+      "ils": "agrafent"
+    },
+    "passé_composé": {
+      "je": "ai agrafé",
+      "tu": "as agrafé",
+      "il": "a agrafé",
+      "nous": "avons agrafé",
+      "vous": "avez agrafé",
+      "ils": "ont agrafé"
+    },
+    "imparfait": {
+      "je": "agrafais",
+      "tu": "agrafais",
+      "il": "agrafait",
+      "nous": "agrafions",
+      "vous": "agrafiez",
+      "ils": "agrafaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais agrafé",
+      "tu": "avais agrafé",
+      "il": "avait agrafé",
+      "nous": "avions agrafé",
+      "vous": "aviez agrafé",
+      "ils": "avaient agrafé"
+    },
+    "passé_simple": {
+      "je": "agrafai",
+      "tu": "agrafas",
+      "il": "agrafa",
+      "nous": "agrafâmes",
+      "vous": "agrafâtes",
+      "ils": "agrafèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus agrafé",
+      "tu": "eus agrafé",
+      "il": "eut agrafé",
+      "nous": "eûmes agrafé",
+      "vous": "eûtes agrafé",
+      "ils": "eurent agrafé"
+    },
+    "futur_simple": {
+      "je": "agraferai",
+      "tu": "agraferas",
+      "il": "agrafera",
+      "nous": "agraferons",
+      "vous": "agraferez",
+      "ils": "agraferont"
+    },
+    "futur_antérieur": {
+      "je": "aurai agrafé",
+      "tu": "auras agrafé",
+      "il": "aura agrafé",
+      "nous": "aurons agrafé",
+      "vous": "aurez agrafé",
+      "ils": "auront agrafé"
+    },
+    "subjonctif_présent": {
+      "je": "agrafe",
+      "tu": "agrafes",
+      "il": "agrafe",
+      "nous": "agrafions",
+      "vous": "agrafiez",
+      "ils": "agrafent"
+    },
+    "subjonctif_passé": {
+      "je": "aie agrafé",
+      "tu": "aies agrafé",
+      "il": "ait agrafé",
+      "nous": "ayons agrafé",
+      "vous": "ayez agrafé",
+      "ils": "aient agrafé"
+    },
+    "subjonctif_imparfait": {
+      "je": "agrafasse",
+      "tu": "agrafasses",
+      "il": "agrafât",
+      "nous": "agrafassions",
+      "vous": "agrafassiez",
+      "ils": "agrafassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse agrafé",
+      "tu": "eusses agrafé",
+      "il": "eût agrafé",
+      "nous": "eussions agrafé",
+      "vous": "eussiez agrafé",
+      "ils": "eussent agrafé"
+    },
+    "conditionnel_présent": {
+      "je": "agraferais",
+      "tu": "agraferais",
+      "il": "agraferait",
+      "nous": "agraferions",
+      "vous": "agraferiez",
+      "ils": "agraferaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais agrafé",
+      "tu": "aurais agrafé",
+      "il": "aurait agrafé",
+      "nous": "aurions agrafé",
+      "vous": "auriez agrafé",
+      "ils": "auraient agrafé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse agrafé",
+      "tu": "eusses agrafé",
+      "il": "eût agrafé",
+      "nous": "eussions agrafé",
+      "vous": "eussiez agrafé",
+      "ils": "eussent agrafé"
+    },
+    "translation": "spinać",
+    "group": 1
+  },
+  {
+    "infinitive": "agrandir",
+    "présent": {
+      "je": "agrandis",
+      "tu": "agrandis",
+      "il": "agrandit",
+      "nous": "agrandissons",
+      "vous": "agrandissez",
+      "ils": "agrandissent"
+    },
+    "passé_composé": {
+      "je": "ai agrandi",
+      "tu": "as agrandi",
+      "il": "a agrandi",
+      "nous": "avons agrandi",
+      "vous": "avez agrandi",
+      "ils": "ont agrandi"
+    },
+    "imparfait": {
+      "je": "agrandissais",
+      "tu": "agrandissais",
+      "il": "agrandissait",
+      "nous": "agrandissions",
+      "vous": "agrandissiez",
+      "ils": "agrandissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais agrandi",
+      "tu": "avais agrandi",
+      "il": "avait agrandi",
+      "nous": "avions agrandi",
+      "vous": "aviez agrandi",
+      "ils": "avaient agrandi"
+    },
+    "passé_simple": {
+      "je": "agrandis",
+      "tu": "agrandis",
+      "il": "agrandit",
+      "nous": "agrandîmes",
+      "vous": "agrandîtes",
+      "ils": "agrandirent"
+    },
+    "passé_antérieur": {
+      "je": "eus agrandi",
+      "tu": "eus agrandi",
+      "il": "eut agrandi",
+      "nous": "eûmes agrandi",
+      "vous": "eûtes agrandi",
+      "ils": "eurent agrandi"
+    },
+    "futur_simple": {
+      "je": "agrandirai",
+      "tu": "agrandiras",
+      "il": "agrandira",
+      "nous": "agrandirons",
+      "vous": "agrandirez",
+      "ils": "agrandiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai agrandi",
+      "tu": "auras agrandi",
+      "il": "aura agrandi",
+      "nous": "aurons agrandi",
+      "vous": "aurez agrandi",
+      "ils": "auront agrandi"
+    },
+    "subjonctif_présent": {
+      "je": "agrandisse",
+      "tu": "agrandisses",
+      "il": "agrandisse",
+      "nous": "agrandissions",
+      "vous": "agrandissiez",
+      "ils": "agrandissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie agrandi",
+      "tu": "aies agrandi",
+      "il": "ait agrandi",
+      "nous": "ayons agrandi",
+      "vous": "ayez agrandi",
+      "ils": "aient agrandi"
+    },
+    "subjonctif_imparfait": {
+      "je": "agrandisse",
+      "tu": "agrandisses",
+      "il": "agrandît",
+      "nous": "agrandissions",
+      "vous": "agrandissiez",
+      "ils": "agrandissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse agrandi",
+      "tu": "eusses agrandi",
+      "il": "eût agrandi",
+      "nous": "eussions agrandi",
+      "vous": "eussiez agrandi",
+      "ils": "eussent agrandi"
+    },
+    "conditionnel_présent": {
+      "je": "agrandirais",
+      "tu": "agrandirais",
+      "il": "agrandirait",
+      "nous": "agrandirions",
+      "vous": "agrandiriez",
+      "ils": "agrandiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais agrandi",
+      "tu": "aurais agrandi",
+      "il": "aurait agrandi",
+      "nous": "aurions agrandi",
+      "vous": "auriez agrandi",
+      "ils": "auraient agrandi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse agrandi",
+      "tu": "eusses agrandi",
+      "il": "eût agrandi",
+      "nous": "eussions agrandi",
+      "vous": "eussiez agrandi",
+      "ils": "eussent agrandi"
+    },
+    "translation": "powiększać",
+    "group": 2
+  },
+  {
+    "infinitive": "agréer",
+    "présent": {
+      "je": "agrée",
+      "tu": "agrées",
+      "il": "agrée",
+      "nous": "agréons",
+      "vous": "agréez",
+      "ils": "agréent"
+    },
+    "passé_composé": {
+      "je": "ai agréé",
+      "tu": "as agréé",
+      "il": "a agréé",
+      "nous": "avons agréé",
+      "vous": "avez agréé",
+      "ils": "ont agréé"
+    },
+    "imparfait": {
+      "je": "agréais",
+      "tu": "agréais",
+      "il": "agréait",
+      "nous": "agréions",
+      "vous": "agréiez",
+      "ils": "agréaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais agréé",
+      "tu": "avais agréé",
+      "il": "avait agréé",
+      "nous": "avions agréé",
+      "vous": "aviez agréé",
+      "ils": "avaient agréé"
+    },
+    "passé_simple": {
+      "je": "agréai",
+      "tu": "agréas",
+      "il": "agréa",
+      "nous": "agréâmes",
+      "vous": "agréâtes",
+      "ils": "agréèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus agréé",
+      "tu": "eus agréé",
+      "il": "eut agréé",
+      "nous": "eûmes agréé",
+      "vous": "eûtes agréé",
+      "ils": "eurent agréé"
+    },
+    "futur_simple": {
+      "je": "agréerai",
+      "tu": "agréeras",
+      "il": "agréera",
+      "nous": "agréerons",
+      "vous": "agréerez",
+      "ils": "agréeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai agréé",
+      "tu": "auras agréé",
+      "il": "aura agréé",
+      "nous": "aurons agréé",
+      "vous": "aurez agréé",
+      "ils": "auront agréé"
+    },
+    "subjonctif_présent": {
+      "je": "agrée",
+      "tu": "agrées",
+      "il": "agrée",
+      "nous": "agréions",
+      "vous": "agréiez",
+      "ils": "agréent"
+    },
+    "subjonctif_passé": {
+      "je": "aie agréé",
+      "tu": "aies agréé",
+      "il": "ait agréé",
+      "nous": "ayons agréé",
+      "vous": "ayez agréé",
+      "ils": "aient agréé"
+    },
+    "subjonctif_imparfait": {
+      "je": "agréasse",
+      "tu": "agréasses",
+      "il": "agréât",
+      "nous": "agréassions",
+      "vous": "agréassiez",
+      "ils": "agréassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse agréé",
+      "tu": "eusses agréé",
+      "il": "eût agréé",
+      "nous": "eussions agréé",
+      "vous": "eussiez agréé",
+      "ils": "eussent agréé"
+    },
+    "conditionnel_présent": {
+      "je": "agréerais",
+      "tu": "agréerais",
+      "il": "agréerait",
+      "nous": "agréerions",
+      "vous": "agréeriez",
+      "ils": "agréeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais agréé",
+      "tu": "aurais agréé",
+      "il": "aurait agréé",
+      "nous": "aurions agréé",
+      "vous": "auriez agréé",
+      "ils": "auraient agréé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse agréé",
+      "tu": "eusses agréé",
+      "il": "eût agréé",
+      "nous": "eussions agréé",
+      "vous": "eussiez agréé",
+      "ils": "eussent agréé"
+    },
+    "translation": "przyjmować",
+    "group": 1
+  },
+  {
+    "infinitive": "agréger",
+    "présent": {
+      "je": "agrège",
+      "tu": "agrèges",
+      "il": "agrège",
+      "nous": "agrégeons",
+      "vous": "agrégez",
+      "ils": "agrègent"
+    },
+    "passé_composé": {
+      "je": "ai agrégé",
+      "tu": "as agrégé",
+      "il": "a agrégé",
+      "nous": "avons agrégé",
+      "vous": "avez agrégé",
+      "ils": "ont agrégé"
+    },
+    "imparfait": {
+      "je": "agrégeais",
+      "tu": "agrégeais",
+      "il": "agrégeait",
+      "nous": "agrégions",
+      "vous": "agrégiez",
+      "ils": "agrégeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais agrégé",
+      "tu": "avais agrégé",
+      "il": "avait agrégé",
+      "nous": "avions agrégé",
+      "vous": "aviez agrégé",
+      "ils": "avaient agrégé"
+    },
+    "passé_simple": {
+      "je": "agrégeai",
+      "tu": "agrégeas",
+      "il": "agrégea",
+      "nous": "agrégeâmes",
+      "vous": "agrégeâtes",
+      "ils": "agrégèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus agrégé",
+      "tu": "eus agrégé",
+      "il": "eut agrégé",
+      "nous": "eûmes agrégé",
+      "vous": "eûtes agrégé",
+      "ils": "eurent agrégé"
+    },
+    "futur_simple": {
+      "je": "agrégerai",
+      "tu": "agrégeras",
+      "il": "agrégera",
+      "nous": "agrégerons",
+      "vous": "agrégerez",
+      "ils": "agrégeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai agrégé",
+      "tu": "auras agrégé",
+      "il": "aura agrégé",
+      "nous": "aurons agrégé",
+      "vous": "aurez agrégé",
+      "ils": "auront agrégé"
+    },
+    "subjonctif_présent": {
+      "je": "agrège",
+      "tu": "agrèges",
+      "il": "agrège",
+      "nous": "agrégions",
+      "vous": "agrégiez",
+      "ils": "agrègent"
+    },
+    "subjonctif_passé": {
+      "je": "aie agrégé",
+      "tu": "aies agrégé",
+      "il": "ait agrégé",
+      "nous": "ayons agrégé",
+      "vous": "ayez agrégé",
+      "ils": "aient agrégé"
+    },
+    "subjonctif_imparfait": {
+      "je": "agrégeasse",
+      "tu": "agrégeasses",
+      "il": "agrégeât",
+      "nous": "agrégeassions",
+      "vous": "agrégeassiez",
+      "ils": "agrégeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse agrégé",
+      "tu": "eusses agrégé",
+      "il": "eût agrégé",
+      "nous": "eussions agrégé",
+      "vous": "eussiez agrégé",
+      "ils": "eussent agrégé"
+    },
+    "conditionnel_présent": {
+      "je": "agrégerais",
+      "tu": "agrégerais",
+      "il": "agrégerait",
+      "nous": "agrégerions",
+      "vous": "agrégeriez",
+      "ils": "agrégeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais agrégé",
+      "tu": "aurais agrégé",
+      "il": "aurait agrégé",
+      "nous": "aurions agrégé",
+      "vous": "auriez agrégé",
+      "ils": "auraient agrégé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse agrégé",
+      "tu": "eusses agrégé",
+      "il": "eût agrégé",
+      "nous": "eussions agrégé",
+      "vous": "eussiez agrégé",
+      "ils": "eussent agrégé"
+    },
+    "translation": "przyjmować",
+    "group": 1
+  }
+]

@@ -13,9 +13,9 @@ module Download
       verbs.push(v.text)
     end
 
-    for i in 1..2
+    for i in 1..10
       @verbs_conj[i-1] = Hash.new
-      verb = verbs[((page.to_i - 1)*2)+i]
+      verb = verbs[((page.to_i - 1)*10)+i]
       @verbs_conj[i-1] = download_verb_conjugation(verb)
     end
 
@@ -79,6 +79,7 @@ module Download
     end
     return ret
   end
+
 end
 
 

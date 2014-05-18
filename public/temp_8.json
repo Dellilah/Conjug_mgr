@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "affectionner",
+    "présent": {
+      "je": "affectionne",
+      "tu": "affectionnes",
+      "il": "affectionne",
+      "nous": "affectionnons",
+      "vous": "affectionnez",
+      "ils": "affectionnent"
+    },
+    "passé_composé": {
+      "je": "ai affectionné",
+      "tu": "as affectionné",
+      "il": "a affectionné",
+      "nous": "avons affectionné",
+      "vous": "avez affectionné",
+      "ils": "ont affectionné"
+    },
+    "imparfait": {
+      "je": "affectionnais",
+      "tu": "affectionnais",
+      "il": "affectionnait",
+      "nous": "affectionnions",
+      "vous": "affectionniez",
+      "ils": "affectionnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais affectionné",
+      "tu": "avais affectionné",
+      "il": "avait affectionné",
+      "nous": "avions affectionné",
+      "vous": "aviez affectionné",
+      "ils": "avaient affectionné"
+    },
+    "passé_simple": {
+      "je": "affectionnai",
+      "tu": "affectionnas",
+      "il": "affectionna",
+      "nous": "affectionnâmes",
+      "vous": "affectionnâtes",
+      "ils": "affectionnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus affectionné",
+      "tu": "eus affectionné",
+      "il": "eut affectionné",
+      "nous": "eûmes affectionné",
+      "vous": "eûtes affectionné",
+      "ils": "eurent affectionné"
+    },
+    "futur_simple": {
+      "je": "affectionnerai",
+      "tu": "affectionneras",
+      "il": "affectionnera",
+      "nous": "affectionnerons",
+      "vous": "affectionnerez",
+      "ils": "affectionneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai affectionné",
+      "tu": "auras affectionné",
+      "il": "aura affectionné",
+      "nous": "aurons affectionné",
+      "vous": "aurez affectionné",
+      "ils": "auront affectionné"
+    },
+    "subjonctif_présent": {
+      "je": "affectionne",
+      "tu": "affectionnes",
+      "il": "affectionne",
+      "nous": "affectionnions",
+      "vous": "affectionniez",
+      "ils": "affectionnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie affectionné",
+      "tu": "aies affectionné",
+      "il": "ait affectionné",
+      "nous": "ayons affectionné",
+      "vous": "ayez affectionné",
+      "ils": "aient affectionné"
+    },
+    "subjonctif_imparfait": {
+      "je": "affectionnasse",
+      "tu": "affectionnasses",
+      "il": "affectionnât",
+      "nous": "affectionnassions",
+      "vous": "affectionnassiez",
+      "ils": "affectionnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse affectionné",
+      "tu": "eusses affectionné",
+      "il": "eût affectionné",
+      "nous": "eussions affectionné",
+      "vous": "eussiez affectionné",
+      "ils": "eussent affectionné"
+    },
+    "conditionnel_présent": {
+      "je": "affectionnerais",
+      "tu": "affectionnerais",
+      "il": "affectionnerait",
+      "nous": "affectionnerions",
+      "vous": "affectionneriez",
+      "ils": "affectionneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais affectionné",
+      "tu": "aurais affectionné",
+      "il": "aurait affectionné",
+      "nous": "aurions affectionné",
+      "vous": "auriez affectionné",
+      "ils": "auraient affectionné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse affectionné",
+      "tu": "eusses affectionné",
+      "il": "eût affectionné",
+      "nous": "eussions affectionné",
+      "vous": "eussiez affectionné",
+      "ils": "eussent affectionné"
+    },
+    "translation": "affectionner",
+    "group": 1
+  },
+  {
+    "infinitive": "afférer",
+    "présent": {
+      "je": "affère",
+      "tu": "affères",
+      "il": "affère",
+      "nous": "afférons",
+      "vous": "afférez",
+      "ils": "affèrent"
+    },
+    "passé_composé": {
+      "je": "ai afféré",
+      "tu": "as afféré",
+      "il": "a afféré",
+      "nous": "avons afféré",
+      "vous": "avez afféré",
+      "ils": "ont afféré"
+    },
+    "imparfait": {
+      "je": "afférais",
+      "tu": "afférais",
+      "il": "afférait",
+      "nous": "afférions",
+      "vous": "affériez",
+      "ils": "afféraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais afféré",
+      "tu": "avais afféré",
+      "il": "avait afféré",
+      "nous": "avions afféré",
+      "vous": "aviez afféré",
+      "ils": "avaient afféré"
+    },
+    "passé_simple": {
+      "je": "afférai",
+      "tu": "afféras",
+      "il": "afféra",
+      "nous": "afférâmes",
+      "vous": "afférâtes",
+      "ils": "afférèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus afféré",
+      "tu": "eus afféré",
+      "il": "eut afféré",
+      "nous": "eûmes afféré",
+      "vous": "eûtes afféré",
+      "ils": "eurent afféré"
+    },
+    "futur_simple": {
+      "je": "afférerai",
+      "tu": "afféreras",
+      "il": "afférera",
+      "nous": "afférerons",
+      "vous": "afférerez",
+      "ils": "afféreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai afféré",
+      "tu": "auras afféré",
+      "il": "aura afféré",
+      "nous": "aurons afféré",
+      "vous": "aurez afféré",
+      "ils": "auront afféré"
+    },
+    "subjonctif_présent": {
+      "je": "affère",
+      "tu": "affères",
+      "il": "affère",
+      "nous": "afférions",
+      "vous": "affériez",
+      "ils": "affèrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie afféré",
+      "tu": "aies afféré",
+      "il": "ait afféré",
+      "nous": "ayons afféré",
+      "vous": "ayez afféré",
+      "ils": "aient afféré"
+    },
+    "subjonctif_imparfait": {
+      "je": "afférasse",
+      "tu": "afférasses",
+      "il": "afférât",
+      "nous": "afférassions",
+      "vous": "afférassiez",
+      "ils": "afférassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse afféré",
+      "tu": "eusses afféré",
+      "il": "eût afféré",
+      "nous": "eussions afféré",
+      "vous": "eussiez afféré",
+      "ils": "eussent afféré"
+    },
+    "conditionnel_présent": {
+      "je": "afférerais",
+      "tu": "afférerais",
+      "il": "afférerait",
+      "nous": "afférerions",
+      "vous": "afféreriez",
+      "ils": "afféreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais afféré",
+      "tu": "aurais afféré",
+      "il": "aurait afféré",
+      "nous": "aurions afféré",
+      "vous": "auriez afféré",
+      "ils": "auraient afféré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse afféré",
+      "tu": "eusses afféré",
+      "il": "eût afféré",
+      "nous": "eussions afféré",
+      "vous": "eussiez afféré",
+      "ils": "eussent afféré"
+    },
+    "translation": "ostrzyć",
+    "group": 1
+  },
+  {
+    "infinitive": "affermir",
+    "présent": {
+      "je": "affermis",
+      "tu": "affermis",
+      "il": "affermit",
+      "nous": "affermissons",
+      "vous": "affermissez",
+      "ils": "affermissent"
+    },
+    "passé_composé": {
+      "je": "ai affermi",
+      "tu": "as affermi",
+      "il": "a affermi",
+      "nous": "avons affermi",
+      "vous": "avez affermi",
+      "ils": "ont affermi"
+    },
+    "imparfait": {
+      "je": "affermissais",
+      "tu": "affermissais",
+      "il": "affermissait",
+      "nous": "affermissions",
+      "vous": "affermissiez",
+      "ils": "affermissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais affermi",
+      "tu": "avais affermi",
+      "il": "avait affermi",
+      "nous": "avions affermi",
+      "vous": "aviez affermi",
+      "ils": "avaient affermi"
+    },
+    "passé_simple": {
+      "je": "affermis",
+      "tu": "affermis",
+      "il": "affermit",
+      "nous": "affermîmes",
+      "vous": "affermîtes",
+      "ils": "affermirent"
+    },
+    "passé_antérieur": {
+      "je": "eus affermi",
+      "tu": "eus affermi",
+      "il": "eut affermi",
+      "nous": "eûmes affermi",
+      "vous": "eûtes affermi",
+      "ils": "eurent affermi"
+    },
+    "futur_simple": {
+      "je": "affermirai",
+      "tu": "affermiras",
+      "il": "affermira",
+      "nous": "affermirons",
+      "vous": "affermirez",
+      "ils": "affermiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai affermi",
+      "tu": "auras affermi",
+      "il": "aura affermi",
+      "nous": "aurons affermi",
+      "vous": "aurez affermi",
+      "ils": "auront affermi"
+    },
+    "subjonctif_présent": {
+      "je": "affermisse",
+      "tu": "affermisses",
+      "il": "affermisse",
+      "nous": "affermissions",
+      "vous": "affermissiez",
+      "ils": "affermissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie affermi",
+      "tu": "aies affermi",
+      "il": "ait affermi",
+      "nous": "ayons affermi",
+      "vous": "ayez affermi",
+      "ils": "aient affermi"
+    },
+    "subjonctif_imparfait": {
+      "je": "affermisse",
+      "tu": "affermisses",
+      "il": "affermît",
+      "nous": "affermissions",
+      "vous": "affermissiez",
+      "ils": "affermissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse affermi",
+      "tu": "eusses affermi",
+      "il": "eût affermi",
+      "nous": "eussions affermi",
+      "vous": "eussiez affermi",
+      "ils": "eussent affermi"
+    },
+    "conditionnel_présent": {
+      "je": "affermirais",
+      "tu": "affermirais",
+      "il": "affermirait",
+      "nous": "affermirions",
+      "vous": "affermiriez",
+      "ils": "affermiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais affermi",
+      "tu": "aurais affermi",
+      "il": "aurait affermi",
+      "nous": "aurions affermi",
+      "vous": "auriez affermi",
+      "ils": "auraient affermi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse affermi",
+      "tu": "eusses affermi",
+      "il": "eût affermi",
+      "nous": "eussions affermi",
+      "vous": "eussiez affermi",
+      "ils": "eussent affermi"
+    },
+    "translation": "affermir",
+    "group": 2
+  },
+  {
+    "infinitive": "afficher",
+    "présent": {
+      "je": "affiche",
+      "tu": "affiches",
+      "il": "affiche",
+      "nous": "affichons",
+      "vous": "affichez",
+      "ils": "affichent"
+    },
+    "passé_composé": {
+      "je": "ai affiché",
+      "tu": "as affiché",
+      "il": "a affiché",
+      "nous": "avons affiché",
+      "vous": "avez affiché",
+      "ils": "ont affiché"
+    },
+    "imparfait": {
+      "je": "affichais",
+      "tu": "affichais",
+      "il": "affichait",
+      "nous": "affichions",
+      "vous": "affichiez",
+      "ils": "affichaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais affiché",
+      "tu": "avais affiché",
+      "il": "avait affiché",
+      "nous": "avions affiché",
+      "vous": "aviez affiché",
+      "ils": "avaient affiché"
+    },
+    "passé_simple": {
+      "je": "affichai",
+      "tu": "affichas",
+      "il": "afficha",
+      "nous": "affichâmes",
+      "vous": "affichâtes",
+      "ils": "affichèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus affiché",
+      "tu": "eus affiché",
+      "il": "eut affiché",
+      "nous": "eûmes affiché",
+      "vous": "eûtes affiché",
+      "ils": "eurent affiché"
+    },
+    "futur_simple": {
+      "je": "afficherai",
+      "tu": "afficheras",
+      "il": "affichera",
+      "nous": "afficherons",
+      "vous": "afficherez",
+      "ils": "afficheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai affiché",
+      "tu": "auras affiché",
+      "il": "aura affiché",
+      "nous": "aurons affiché",
+      "vous": "aurez affiché",
+      "ils": "auront affiché"
+    },
+    "subjonctif_présent": {
+      "je": "affiche",
+      "tu": "affiches",
+      "il": "affiche",
+      "nous": "affichions",
+      "vous": "affichiez",
+      "ils": "affichent"
+    },
+    "subjonctif_passé": {
+      "je": "aie affiché",
+      "tu": "aies affiché",
+      "il": "ait affiché",
+      "nous": "ayons affiché",
+      "vous": "ayez affiché",
+      "ils": "aient affiché"
+    },
+    "subjonctif_imparfait": {
+      "je": "affichasse",
+      "tu": "affichasses",
+      "il": "affichât",
+      "nous": "affichassions",
+      "vous": "affichassiez",
+      "ils": "affichassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse affiché",
+      "tu": "eusses affiché",
+      "il": "eût affiché",
+      "nous": "eussions affiché",
+      "vous": "eussiez affiché",
+      "ils": "eussent affiché"
+    },
+    "conditionnel_présent": {
+      "je": "afficherais",
+      "tu": "afficherais",
+      "il": "afficherait",
+      "nous": "afficherions",
+      "vous": "afficheriez",
+      "ils": "afficheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais affiché",
+      "tu": "aurais affiché",
+      "il": "aurait affiché",
+      "nous": "aurions affiché",
+      "vous": "auriez affiché",
+      "ils": "auraient affiché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse affiché",
+      "tu": "eusses affiché",
+      "il": "eût affiché",
+      "nous": "eussions affiché",
+      "vous": "eussiez affiché",
+      "ils": "eussent affiché"
+    },
+    "translation": "plakatować",
+    "group": 1
+  },
+  {
+    "infinitive": "affiner",
+    "présent": {
+      "je": "affine",
+      "tu": "affines",
+      "il": "affine",
+      "nous": "affinons",
+      "vous": "affinez",
+      "ils": "affinent"
+    },
+    "passé_composé": {
+      "je": "ai affiné",
+      "tu": "as affiné",
+      "il": "a affiné",
+      "nous": "avons affiné",
+      "vous": "avez affiné",
+      "ils": "ont affiné"
+    },
+    "imparfait": {
+      "je": "affinais",
+      "tu": "affinais",
+      "il": "affinait",
+      "nous": "affinions",
+      "vous": "affiniez",
+      "ils": "affinaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais affiné",
+      "tu": "avais affiné",
+      "il": "avait affiné",
+      "nous": "avions affiné",
+      "vous": "aviez affiné",
+      "ils": "avaient affiné"
+    },
+    "passé_simple": {
+      "je": "affinai",
+      "tu": "affinas",
+      "il": "affina",
+      "nous": "affinâmes",
+      "vous": "affinâtes",
+      "ils": "affinèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus affiné",
+      "tu": "eus affiné",
+      "il": "eut affiné",
+      "nous": "eûmes affiné",
+      "vous": "eûtes affiné",
+      "ils": "eurent affiné"
+    },
+    "futur_simple": {
+      "je": "affinerai",
+      "tu": "affineras",
+      "il": "affinera",
+      "nous": "affinerons",
+      "vous": "affinerez",
+      "ils": "affineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai affiné",
+      "tu": "auras affiné",
+      "il": "aura affiné",
+      "nous": "aurons affiné",
+      "vous": "aurez affiné",
+      "ils": "auront affiné"
+    },
+    "subjonctif_présent": {
+      "je": "affine",
+      "tu": "affines",
+      "il": "affine",
+      "nous": "affinions",
+      "vous": "affiniez",
+      "ils": "affinent"
+    },
+    "subjonctif_passé": {
+      "je": "aie affiné",
+      "tu": "aies affiné",
+      "il": "ait affiné",
+      "nous": "ayons affiné",
+      "vous": "ayez affiné",
+      "ils": "aient affiné"
+    },
+    "subjonctif_imparfait": {
+      "je": "affinasse",
+      "tu": "affinasses",
+      "il": "affinât",
+      "nous": "affinassions",
+      "vous": "affinassiez",
+      "ils": "affinassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse affiné",
+      "tu": "eusses affiné",
+      "il": "eût affiné",
+      "nous": "eussions affiné",
+      "vous": "eussiez affiné",
+      "ils": "eussent affiné"
+    },
+    "conditionnel_présent": {
+      "je": "affinerais",
+      "tu": "affinerais",
+      "il": "affinerait",
+      "nous": "affinerions",
+      "vous": "affineriez",
+      "ils": "affineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais affiné",
+      "tu": "aurais affiné",
+      "il": "aurait affiné",
+      "nous": "aurions affiné",
+      "vous": "auriez affiné",
+      "ils": "auraient affiné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse affiné",
+      "tu": "eusses affiné",
+      "il": "eût affiné",
+      "nous": "eussions affiné",
+      "vous": "eussiez affiné",
+      "ils": "eussent affiné"
+    },
+    "translation": "oczyścić",
+    "group": 1
+  },
+  {
+    "infinitive": "affirmer",
+    "présent": {
+      "je": "affirme",
+      "tu": "affirmes",
+      "il": "affirme",
+      "nous": "affirmons",
+      "vous": "affirmez",
+      "ils": "affirment"
+    },
+    "passé_composé": {
+      "je": "ai affirmé",
+      "tu": "as affirmé",
+      "il": "a affirmé",
+      "nous": "avons affirmé",
+      "vous": "avez affirmé",
+      "ils": "ont affirmé"
+    },
+    "imparfait": {
+      "je": "affirmais",
+      "tu": "affirmais",
+      "il": "affirmait",
+      "nous": "affirmions",
+      "vous": "affirmiez",
+      "ils": "affirmaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais affirmé",
+      "tu": "avais affirmé",
+      "il": "avait affirmé",
+      "nous": "avions affirmé",
+      "vous": "aviez affirmé",
+      "ils": "avaient affirmé"
+    },
+    "passé_simple": {
+      "je": "affirmai",
+      "tu": "affirmas",
+      "il": "affirma",
+      "nous": "affirmâmes",
+      "vous": "affirmâtes",
+      "ils": "affirmèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus affirmé",
+      "tu": "eus affirmé",
+      "il": "eut affirmé",
+      "nous": "eûmes affirmé",
+      "vous": "eûtes affirmé",
+      "ils": "eurent affirmé"
+    },
+    "futur_simple": {
+      "je": "affirmerai",
+      "tu": "affirmeras",
+      "il": "affirmera",
+      "nous": "affirmerons",
+      "vous": "affirmerez",
+      "ils": "affirmeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai affirmé",
+      "tu": "auras affirmé",
+      "il": "aura affirmé",
+      "nous": "aurons affirmé",
+      "vous": "aurez affirmé",
+      "ils": "auront affirmé"
+    },
+    "subjonctif_présent": {
+      "je": "affirme",
+      "tu": "affirmes",
+      "il": "affirme",
+      "nous": "affirmions",
+      "vous": "affirmiez",
+      "ils": "affirment"
+    },
+    "subjonctif_passé": {
+      "je": "aie affirmé",
+      "tu": "aies affirmé",
+      "il": "ait affirmé",
+      "nous": "ayons affirmé",
+      "vous": "ayez affirmé",
+      "ils": "aient affirmé"
+    },
+    "subjonctif_imparfait": {
+      "je": "affirmasse",
+      "tu": "affirmasses",
+      "il": "affirmât",
+      "nous": "affirmassions",
+      "vous": "affirmassiez",
+      "ils": "affirmassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse affirmé",
+      "tu": "eusses affirmé",
+      "il": "eût affirmé",
+      "nous": "eussions affirmé",
+      "vous": "eussiez affirmé",
+      "ils": "eussent affirmé"
+    },
+    "conditionnel_présent": {
+      "je": "affirmerais",
+      "tu": "affirmerais",
+      "il": "affirmerait",
+      "nous": "affirmerions",
+      "vous": "affirmeriez",
+      "ils": "affirmeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais affirmé",
+      "tu": "aurais affirmé",
+      "il": "aurait affirmé",
+      "nous": "aurions affirmé",
+      "vous": "auriez affirmé",
+      "ils": "auraient affirmé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse affirmé",
+      "tu": "eusses affirmé",
+      "il": "eût affirmé",
+      "nous": "eussions affirmé",
+      "vous": "eussiez affirmé",
+      "ils": "eussent affirmé"
+    },
+    "translation": "twierdzić",
+    "group": 1
+  },
+  {
+    "infinitive": "affliger",
+    "présent": {
+      "je": "afflige",
+      "tu": "affliges",
+      "il": "afflige",
+      "nous": "affligeons",
+      "vous": "affligez",
+      "ils": "affligent"
+    },
+    "passé_composé": {
+      "je": "ai affligé",
+      "tu": "as affligé",
+      "il": "a affligé",
+      "nous": "avons affligé",
+      "vous": "avez affligé",
+      "ils": "ont affligé"
+    },
+    "imparfait": {
+      "je": "affligeais",
+      "tu": "affligeais",
+      "il": "affligeait",
+      "nous": "affligions",
+      "vous": "affligiez",
+      "ils": "affligeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais affligé",
+      "tu": "avais affligé",
+      "il": "avait affligé",
+      "nous": "avions affligé",
+      "vous": "aviez affligé",
+      "ils": "avaient affligé"
+    },
+    "passé_simple": {
+      "je": "affligeai",
+      "tu": "affligeas",
+      "il": "affligea",
+      "nous": "affligeâmes",
+      "vous": "affligeâtes",
+      "ils": "affligèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus affligé",
+      "tu": "eus affligé",
+      "il": "eut affligé",
+      "nous": "eûmes affligé",
+      "vous": "eûtes affligé",
+      "ils": "eurent affligé"
+    },
+    "futur_simple": {
+      "je": "affligerai",
+      "tu": "affligeras",
+      "il": "affligera",
+      "nous": "affligerons",
+      "vous": "affligerez",
+      "ils": "affligeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai affligé",
+      "tu": "auras affligé",
+      "il": "aura affligé",
+      "nous": "aurons affligé",
+      "vous": "aurez affligé",
+      "ils": "auront affligé"
+    },
+    "subjonctif_présent": {
+      "je": "afflige",
+      "tu": "affliges",
+      "il": "afflige",
+      "nous": "affligions",
+      "vous": "affligiez",
+      "ils": "affligent"
+    },
+    "subjonctif_passé": {
+      "je": "aie affligé",
+      "tu": "aies affligé",
+      "il": "ait affligé",
+      "nous": "ayons affligé",
+      "vous": "ayez affligé",
+      "ils": "aient affligé"
+    },
+    "subjonctif_imparfait": {
+      "je": "affligeasse",
+      "tu": "affligeasses",
+      "il": "affligeât",
+      "nous": "affligeassions",
+      "vous": "affligeassiez",
+      "ils": "affligeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse affligé",
+      "tu": "eusses affligé",
+      "il": "eût affligé",
+      "nous": "eussions affligé",
+      "vous": "eussiez affligé",
+      "ils": "eussent affligé"
+    },
+    "conditionnel_présent": {
+      "je": "affligerais",
+      "tu": "affligerais",
+      "il": "affligerait",
+      "nous": "affligerions",
+      "vous": "affligeriez",
+      "ils": "affligeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais affligé",
+      "tu": "aurais affligé",
+      "il": "aurait affligé",
+      "nous": "aurions affligé",
+      "vous": "auriez affligé",
+      "ils": "auraient affligé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse affligé",
+      "tu": "eusses affligé",
+      "il": "eût affligé",
+      "nous": "eussions affligé",
+      "vous": "eussiez affligé",
+      "ils": "eussent affligé"
+    },
+    "translation": "affliger",
+    "group": 1
+  },
+  {
+    "infinitive": "affoler",
+    "présent": {
+      "je": "affole",
+      "tu": "affoles",
+      "il": "affole",
+      "nous": "affolons",
+      "vous": "affolez",
+      "ils": "affolent"
+    },
+    "passé_composé": {
+      "je": "ai affolé",
+      "tu": "as affolé",
+      "il": "a affolé",
+      "nous": "avons affolé",
+      "vous": "avez affolé",
+      "ils": "ont affolé"
+    },
+    "imparfait": {
+      "je": "affolais",
+      "tu": "affolais",
+      "il": "affolait",
+      "nous": "affolions",
+      "vous": "affoliez",
+      "ils": "affolaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais affolé",
+      "tu": "avais affolé",
+      "il": "avait affolé",
+      "nous": "avions affolé",
+      "vous": "aviez affolé",
+      "ils": "avaient affolé"
+    },
+    "passé_simple": {
+      "je": "affolai",
+      "tu": "affolas",
+      "il": "affola",
+      "nous": "affolâmes",
+      "vous": "affolâtes",
+      "ils": "affolèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus affolé",
+      "tu": "eus affolé",
+      "il": "eut affolé",
+      "nous": "eûmes affolé",
+      "vous": "eûtes affolé",
+      "ils": "eurent affolé"
+    },
+    "futur_simple": {
+      "je": "affolerai",
+      "tu": "affoleras",
+      "il": "affolera",
+      "nous": "affolerons",
+      "vous": "affolerez",
+      "ils": "affoleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai affolé",
+      "tu": "auras affolé",
+      "il": "aura affolé",
+      "nous": "aurons affolé",
+      "vous": "aurez affolé",
+      "ils": "auront affolé"
+    },
+    "subjonctif_présent": {
+      "je": "affole",
+      "tu": "affoles",
+      "il": "affole",
+      "nous": "affolions",
+      "vous": "affoliez",
+      "ils": "affolent"
+    },
+    "subjonctif_passé": {
+      "je": "aie affolé",
+      "tu": "aies affolé",
+      "il": "ait affolé",
+      "nous": "ayons affolé",
+      "vous": "ayez affolé",
+      "ils": "aient affolé"
+    },
+    "subjonctif_imparfait": {
+      "je": "affolasse",
+      "tu": "affolasses",
+      "il": "affolât",
+      "nous": "affolassions",
+      "vous": "affolassiez",
+      "ils": "affolassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse affolé",
+      "tu": "eusses affolé",
+      "il": "eût affolé",
+      "nous": "eussions affolé",
+      "vous": "eussiez affolé",
+      "ils": "eussent affolé"
+    },
+    "conditionnel_présent": {
+      "je": "affolerais",
+      "tu": "affolerais",
+      "il": "affolerait",
+      "nous": "affolerions",
+      "vous": "affoleriez",
+      "ils": "affoleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais affolé",
+      "tu": "aurais affolé",
+      "il": "aurait affolé",
+      "nous": "aurions affolé",
+      "vous": "auriez affolé",
+      "ils": "auraient affolé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse affolé",
+      "tu": "eusses affolé",
+      "il": "eût affolé",
+      "nous": "eussions affolé",
+      "vous": "eussiez affolé",
+      "ils": "eussent affolé"
+    },
+    "translation": "przerażać",
+    "group": 1
+  },
+  {
+    "infinitive": "affranchir",
+    "présent": {
+      "je": "affranchis",
+      "tu": "affranchis",
+      "il": "affranchit",
+      "nous": "affranchissons",
+      "vous": "affranchissez",
+      "ils": "affranchissent"
+    },
+    "passé_composé": {
+      "je": "ai affranchi",
+      "tu": "as affranchi",
+      "il": "a affranchi",
+      "nous": "avons affranchi",
+      "vous": "avez affranchi",
+      "ils": "ont affranchi"
+    },
+    "imparfait": {
+      "je": "affranchissais",
+      "tu": "affranchissais",
+      "il": "affranchissait",
+      "nous": "affranchissions",
+      "vous": "affranchissiez",
+      "ils": "affranchissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais affranchi",
+      "tu": "avais affranchi",
+      "il": "avait affranchi",
+      "nous": "avions affranchi",
+      "vous": "aviez affranchi",
+      "ils": "avaient affranchi"
+    },
+    "passé_simple": {
+      "je": "affranchis",
+      "tu": "affranchis",
+      "il": "affranchit",
+      "nous": "affranchîmes",
+      "vous": "affranchîtes",
+      "ils": "affranchirent"
+    },
+    "passé_antérieur": {
+      "je": "eus affranchi",
+      "tu": "eus affranchi",
+      "il": "eut affranchi",
+      "nous": "eûmes affranchi",
+      "vous": "eûtes affranchi",
+      "ils": "eurent affranchi"
+    },
+    "futur_simple": {
+      "je": "affranchirai",
+      "tu": "affranchiras",
+      "il": "affranchira",
+      "nous": "affranchirons",
+      "vous": "affranchirez",
+      "ils": "affranchiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai affranchi",
+      "tu": "auras affranchi",
+      "il": "aura affranchi",
+      "nous": "aurons affranchi",
+      "vous": "aurez affranchi",
+      "ils": "auront affranchi"
+    },
+    "subjonctif_présent": {
+      "je": "affranchisse",
+      "tu": "affranchisses",
+      "il": "affranchisse",
+      "nous": "affranchissions",
+      "vous": "affranchissiez",
+      "ils": "affranchissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie affranchi",
+      "tu": "aies affranchi",
+      "il": "ait affranchi",
+      "nous": "ayons affranchi",
+      "vous": "ayez affranchi",
+      "ils": "aient affranchi"
+    },
+    "subjonctif_imparfait": {
+      "je": "affranchisse",
+      "tu": "affranchisses",
+      "il": "affranchît",
+      "nous": "affranchissions",
+      "vous": "affranchissiez",
+      "ils": "affranchissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse affranchi",
+      "tu": "eusses affranchi",
+      "il": "eût affranchi",
+      "nous": "eussions affranchi",
+      "vous": "eussiez affranchi",
+      "ils": "eussent affranchi"
+    },
+    "conditionnel_présent": {
+      "je": "affranchirais",
+      "tu": "affranchirais",
+      "il": "affranchirait",
+      "nous": "affranchirions",
+      "vous": "affranchiriez",
+      "ils": "affranchiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais affranchi",
+      "tu": "aurais affranchi",
+      "il": "aurait affranchi",
+      "nous": "aurions affranchi",
+      "vous": "auriez affranchi",
+      "ils": "auraient affranchi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse affranchi",
+      "tu": "eusses affranchi",
+      "il": "eût affranchi",
+      "nous": "eussions affranchi",
+      "vous": "eussiez affranchi",
+      "ils": "eussent affranchi"
+    },
+    "translation": "ofrankować",
+    "group": 2
+  },
+  {
+    "infinitive": "affronter",
+    "présent": {
+      "je": "affronte",
+      "tu": "affrontes",
+      "il": "affronte",
+      "nous": "affrontons",
+      "vous": "affrontez",
+      "ils": "affrontent"
+    },
+    "passé_composé": {
+      "je": "ai affronté",
+      "tu": "as affronté",
+      "il": "a affronté",
+      "nous": "avons affronté",
+      "vous": "avez affronté",
+      "ils": "ont affronté"
+    },
+    "imparfait": {
+      "je": "affrontais",
+      "tu": "affrontais",
+      "il": "affrontait",
+      "nous": "affrontions",
+      "vous": "affrontiez",
+      "ils": "affrontaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais affronté",
+      "tu": "avais affronté",
+      "il": "avait affronté",
+      "nous": "avions affronté",
+      "vous": "aviez affronté",
+      "ils": "avaient affronté"
+    },
+    "passé_simple": {
+      "je": "affrontai",
+      "tu": "affrontas",
+      "il": "affronta",
+      "nous": "affrontâmes",
+      "vous": "affrontâtes",
+      "ils": "affrontèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus affronté",
+      "tu": "eus affronté",
+      "il": "eut affronté",
+      "nous": "eûmes affronté",
+      "vous": "eûtes affronté",
+      "ils": "eurent affronté"
+    },
+    "futur_simple": {
+      "je": "affronterai",
+      "tu": "affronteras",
+      "il": "affrontera",
+      "nous": "affronterons",
+      "vous": "affronterez",
+      "ils": "affronteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai affronté",
+      "tu": "auras affronté",
+      "il": "aura affronté",
+      "nous": "aurons affronté",
+      "vous": "aurez affronté",
+      "ils": "auront affronté"
+    },
+    "subjonctif_présent": {
+      "je": "affronte",
+      "tu": "affrontes",
+      "il": "affronte",
+      "nous": "affrontions",
+      "vous": "affrontiez",
+      "ils": "affrontent"
+    },
+    "subjonctif_passé": {
+      "je": "aie affronté",
+      "tu": "aies affronté",
+      "il": "ait affronté",
+      "nous": "ayons affronté",
+      "vous": "ayez affronté",
+      "ils": "aient affronté"
+    },
+    "subjonctif_imparfait": {
+      "je": "affrontasse",
+      "tu": "affrontasses",
+      "il": "affrontât",
+      "nous": "affrontassions",
+      "vous": "affrontassiez",
+      "ils": "affrontassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse affronté",
+      "tu": "eusses affronté",
+      "il": "eût affronté",
+      "nous": "eussions affronté",
+      "vous": "eussiez affronté",
+      "ils": "eussent affronté"
+    },
+    "conditionnel_présent": {
+      "je": "affronterais",
+      "tu": "affronterais",
+      "il": "affronterait",
+      "nous": "affronterions",
+      "vous": "affronteriez",
+      "ils": "affronteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais affronté",
+      "tu": "aurais affronté",
+      "il": "aurait affronté",
+      "nous": "aurions affronté",
+      "vous": "auriez affronté",
+      "ils": "auraient affronté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse affronté",
+      "tu": "eusses affronté",
+      "il": "eût affronté",
+      "nous": "eussions affronté",
+      "vous": "eussiez affronté",
+      "ils": "eussent affronté"
+    },
+    "translation": "stawić",
+    "group": 1
+  }
+]

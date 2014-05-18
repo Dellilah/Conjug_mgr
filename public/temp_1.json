@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "abandonner",
+    "présent": {
+      "je": "abandonne",
+      "tu": "abandonnes",
+      "il": "abandonne",
+      "nous": "abandonnons",
+      "vous": "abandonnez",
+      "ils": "abandonnent"
+    },
+    "passé_composé": {
+      "je": "ai abandonné",
+      "tu": "as abandonné",
+      "il": "a abandonné",
+      "nous": "avons abandonné",
+      "vous": "avez abandonné",
+      "ils": "ont abandonné"
+    },
+    "imparfait": {
+      "je": "abandonnais",
+      "tu": "abandonnais",
+      "il": "abandonnait",
+      "nous": "abandonnions",
+      "vous": "abandonniez",
+      "ils": "abandonnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais abandonné",
+      "tu": "avais abandonné",
+      "il": "avait abandonné",
+      "nous": "avions abandonné",
+      "vous": "aviez abandonné",
+      "ils": "avaient abandonné"
+    },
+    "passé_simple": {
+      "je": "abandonnai",
+      "tu": "abandonnas",
+      "il": "abandonna",
+      "nous": "abandonnâmes",
+      "vous": "abandonnâtes",
+      "ils": "abandonnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus abandonné",
+      "tu": "eus abandonné",
+      "il": "eut abandonné",
+      "nous": "eûmes abandonné",
+      "vous": "eûtes abandonné",
+      "ils": "eurent abandonné"
+    },
+    "futur_simple": {
+      "je": "abandonnerai",
+      "tu": "abandonneras",
+      "il": "abandonnera",
+      "nous": "abandonnerons",
+      "vous": "abandonnerez",
+      "ils": "abandonneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai abandonné",
+      "tu": "auras abandonné",
+      "il": "aura abandonné",
+      "nous": "aurons abandonné",
+      "vous": "aurez abandonné",
+      "ils": "auront abandonné"
+    },
+    "subjonctif_présent": {
+      "je": "abandonne",
+      "tu": "abandonnes",
+      "il": "abandonne",
+      "nous": "abandonnions",
+      "vous": "abandonniez",
+      "ils": "abandonnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie abandonné",
+      "tu": "aies abandonné",
+      "il": "ait abandonné",
+      "nous": "ayons abandonné",
+      "vous": "ayez abandonné",
+      "ils": "aient abandonné"
+    },
+    "subjonctif_imparfait": {
+      "je": "abandonnasse",
+      "tu": "abandonnasses",
+      "il": "abandonnât",
+      "nous": "abandonnassions",
+      "vous": "abandonnassiez",
+      "ils": "abandonnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse abandonné",
+      "tu": "eusses abandonné",
+      "il": "eût abandonné",
+      "nous": "eussions abandonné",
+      "vous": "eussiez abandonné",
+      "ils": "eussent abandonné"
+    },
+    "conditionnel_présent": {
+      "je": "abandonnerais",
+      "tu": "abandonnerais",
+      "il": "abandonnerait",
+      "nous": "abandonnerions",
+      "vous": "abandonneriez",
+      "ils": "abandonneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais abandonné",
+      "tu": "aurais abandonné",
+      "il": "aurait abandonné",
+      "nous": "aurions abandonné",
+      "vous": "auriez abandonné",
+      "ils": "auraient abandonné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse abandonné",
+      "tu": "eusses abandonné",
+      "il": "eût abandonné",
+      "nous": "eussions abandonné",
+      "vous": "eussiez abandonné",
+      "ils": "eussent abandonné"
+    },
+    "translation": "opuszczać",
+    "group": 1
+  },
+  {
+    "infinitive": "abasourdir",
+    "présent": {
+      "je": "abasourdis",
+      "tu": "abasourdis",
+      "il": "abasourdit",
+      "nous": "abasourdissons",
+      "vous": "abasourdissez",
+      "ils": "abasourdissent"
+    },
+    "passé_composé": {
+      "je": "ai abasourdi",
+      "tu": "as abasourdi",
+      "il": "a abasourdi",
+      "nous": "avons abasourdi",
+      "vous": "avez abasourdi",
+      "ils": "ont abasourdi"
+    },
+    "imparfait": {
+      "je": "abasourdissais",
+      "tu": "abasourdissais",
+      "il": "abasourdissait",
+      "nous": "abasourdissions",
+      "vous": "abasourdissiez",
+      "ils": "abasourdissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais abasourdi",
+      "tu": "avais abasourdi",
+      "il": "avait abasourdi",
+      "nous": "avions abasourdi",
+      "vous": "aviez abasourdi",
+      "ils": "avaient abasourdi"
+    },
+    "passé_simple": {
+      "je": "abasourdis",
+      "tu": "abasourdis",
+      "il": "abasourdit",
+      "nous": "abasourdîmes",
+      "vous": "abasourdîtes",
+      "ils": "abasourdirent"
+    },
+    "passé_antérieur": {
+      "je": "eus abasourdi",
+      "tu": "eus abasourdi",
+      "il": "eut abasourdi",
+      "nous": "eûmes abasourdi",
+      "vous": "eûtes abasourdi",
+      "ils": "eurent abasourdi"
+    },
+    "futur_simple": {
+      "je": "abasourdirai",
+      "tu": "abasourdiras",
+      "il": "abasourdira",
+      "nous": "abasourdirons",
+      "vous": "abasourdirez",
+      "ils": "abasourdiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai abasourdi",
+      "tu": "auras abasourdi",
+      "il": "aura abasourdi",
+      "nous": "aurons abasourdi",
+      "vous": "aurez abasourdi",
+      "ils": "auront abasourdi"
+    },
+    "subjonctif_présent": {
+      "je": "abasourdisse",
+      "tu": "abasourdisses",
+      "il": "abasourdisse",
+      "nous": "abasourdissions",
+      "vous": "abasourdissiez",
+      "ils": "abasourdissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie abasourdi",
+      "tu": "aies abasourdi",
+      "il": "ait abasourdi",
+      "nous": "ayons abasourdi",
+      "vous": "ayez abasourdi",
+      "ils": "aient abasourdi"
+    },
+    "subjonctif_imparfait": {
+      "je": "abasourdisse",
+      "tu": "abasourdisses",
+      "il": "abasourdît",
+      "nous": "abasourdissions",
+      "vous": "abasourdissiez",
+      "ils": "abasourdissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse abasourdi",
+      "tu": "eusses abasourdi",
+      "il": "eût abasourdi",
+      "nous": "eussions abasourdi",
+      "vous": "eussiez abasourdi",
+      "ils": "eussent abasourdi"
+    },
+    "conditionnel_présent": {
+      "je": "abasourdirais",
+      "tu": "abasourdirais",
+      "il": "abasourdirait",
+      "nous": "abasourdirions",
+      "vous": "abasourdiriez",
+      "ils": "abasourdiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais abasourdi",
+      "tu": "aurais abasourdi",
+      "il": "aurait abasourdi",
+      "nous": "aurions abasourdi",
+      "vous": "auriez abasourdi",
+      "ils": "auraient abasourdi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse abasourdi",
+      "tu": "eusses abasourdi",
+      "il": "eût abasourdi",
+      "nous": "eussions abasourdi",
+      "vous": "eussiez abasourdi",
+      "ils": "eussent abasourdi"
+    },
+    "translation": "zdumiewać",
+    "group": 2
+  },
+  {
+    "infinitive": "abattre",
+    "présent": {
+      "je": "abats",
+      "tu": "abats",
+      "il": "abat",
+      "nous": "abattons",
+      "vous": "abattez",
+      "ils": "abattent"
+    },
+    "passé_composé": {
+      "je": "ai abattu",
+      "tu": "as abattu",
+      "il": "a abattu",
+      "nous": "avons abattu",
+      "vous": "avez abattu",
+      "ils": "ont abattu"
+    },
+    "imparfait": {
+      "je": "abattais",
+      "tu": "abattais",
+      "il": "abattait",
+      "nous": "abattions",
+      "vous": "abattiez",
+      "ils": "abattaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais abattu",
+      "tu": "avais abattu",
+      "il": "avait abattu",
+      "nous": "avions abattu",
+      "vous": "aviez abattu",
+      "ils": "avaient abattu"
+    },
+    "passé_simple": {
+      "je": "abattis",
+      "tu": "abattis",
+      "il": "abattit",
+      "nous": "abattîmes",
+      "vous": "abattîtes",
+      "ils": "abattirent"
+    },
+    "passé_antérieur": {
+      "je": "eus abattu",
+      "tu": "eus abattu",
+      "il": "eut abattu",
+      "nous": "eûmes abattu",
+      "vous": "eûtes abattu",
+      "ils": "eurent abattu"
+    },
+    "futur_simple": {
+      "je": "abattrai",
+      "tu": "abattras",
+      "il": "abattra",
+      "nous": "abattrons",
+      "vous": "abattrez",
+      "ils": "abattront"
+    },
+    "futur_antérieur": {
+      "je": "aurai abattu",
+      "tu": "auras abattu",
+      "il": "aura abattu",
+      "nous": "aurons abattu",
+      "vous": "aurez abattu",
+      "ils": "auront abattu"
+    },
+    "subjonctif_présent": {
+      "je": "abatte",
+      "tu": "abattes",
+      "il": "abatte",
+      "nous": "abattions",
+      "vous": "abattiez",
+      "ils": "abattent"
+    },
+    "subjonctif_passé": {
+      "je": "aie abattu",
+      "tu": "aies abattu",
+      "il": "ait abattu",
+      "nous": "ayons abattu",
+      "vous": "ayez abattu",
+      "ils": "aient abattu"
+    },
+    "subjonctif_imparfait": {
+      "je": "abattisse",
+      "tu": "abattisses",
+      "il": "abattît",
+      "nous": "abattissions",
+      "vous": "abattissiez",
+      "ils": "abattissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse abattu",
+      "tu": "eusses abattu",
+      "il": "eût abattu",
+      "nous": "eussions abattu",
+      "vous": "eussiez abattu",
+      "ils": "eussent abattu"
+    },
+    "conditionnel_présent": {
+      "je": "abattrais",
+      "tu": "abattrais",
+      "il": "abattrait",
+      "nous": "abattrions",
+      "vous": "abattriez",
+      "ils": "abattraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais abattu",
+      "tu": "aurais abattu",
+      "il": "aurait abattu",
+      "nous": "aurions abattu",
+      "vous": "auriez abattu",
+      "ils": "auraient abattu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse abattu",
+      "tu": "eusses abattu",
+      "il": "eût abattu",
+      "nous": "eussions abattu",
+      "vous": "eussiez abattu",
+      "ils": "eussent abattu"
+    },
+    "translation": "burzyć",
+    "group": 3
+  },
+  {
+    "infinitive": "abêtir",
+    "présent": {
+      "je": "abêtis",
+      "tu": "abêtis",
+      "il": "abêtit",
+      "nous": "abêtissons",
+      "vous": "abêtissez",
+      "ils": "abêtissent"
+    },
+    "passé_composé": {
+      "je": "ai abêti",
+      "tu": "as abêti",
+      "il": "a abêti",
+      "nous": "avons abêti",
+      "vous": "avez abêti",
+      "ils": "ont abêti"
+    },
+    "imparfait": {
+      "je": "abêtissais",
+      "tu": "abêtissais",
+      "il": "abêtissait",
+      "nous": "abêtissions",
+      "vous": "abêtissiez",
+      "ils": "abêtissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais abêti",
+      "tu": "avais abêti",
+      "il": "avait abêti",
+      "nous": "avions abêti",
+      "vous": "aviez abêti",
+      "ils": "avaient abêti"
+    },
+    "passé_simple": {
+      "je": "abêtis",
+      "tu": "abêtis",
+      "il": "abêtit",
+      "nous": "abêtîmes",
+      "vous": "abêtîtes",
+      "ils": "abêtirent"
+    },
+    "passé_antérieur": {
+      "je": "eus abêti",
+      "tu": "eus abêti",
+      "il": "eut abêti",
+      "nous": "eûmes abêti",
+      "vous": "eûtes abêti",
+      "ils": "eurent abêti"
+    },
+    "futur_simple": {
+      "je": "abêtirai",
+      "tu": "abêtiras",
+      "il": "abêtira",
+      "nous": "abêtirons",
+      "vous": "abêtirez",
+      "ils": "abêtiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai abêti",
+      "tu": "auras abêti",
+      "il": "aura abêti",
+      "nous": "aurons abêti",
+      "vous": "aurez abêti",
+      "ils": "auront abêti"
+    },
+    "subjonctif_présent": {
+      "je": "abêtisse",
+      "tu": "abêtisses",
+      "il": "abêtisse",
+      "nous": "abêtissions",
+      "vous": "abêtissiez",
+      "ils": "abêtissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie abêti",
+      "tu": "aies abêti",
+      "il": "ait abêti",
+      "nous": "ayons abêti",
+      "vous": "ayez abêti",
+      "ils": "aient abêti"
+    },
+    "subjonctif_imparfait": {
+      "je": "abêtisse",
+      "tu": "abêtisses",
+      "il": "abêtît",
+      "nous": "abêtissions",
+      "vous": "abêtissiez",
+      "ils": "abêtissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse abêti",
+      "tu": "eusses abêti",
+      "il": "eût abêti",
+      "nous": "eussions abêti",
+      "vous": "eussiez abêti",
+      "ils": "eussent abêti"
+    },
+    "conditionnel_présent": {
+      "je": "abêtirais",
+      "tu": "abêtirais",
+      "il": "abêtirait",
+      "nous": "abêtirions",
+      "vous": "abêtiriez",
+      "ils": "abêtiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais abêti",
+      "tu": "aurais abêti",
+      "il": "aurait abêti",
+      "nous": "aurions abêti",
+      "vous": "auriez abêti",
+      "ils": "auraient abêti"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse abêti",
+      "tu": "eusses abêti",
+      "il": "eût abêti",
+      "nous": "eussions abêti",
+      "vous": "eussiez abêti",
+      "ils": "eussent abêti"
+    },
+    "translation": "abêtir",
+    "group": 2
+  },
+  {
+    "infinitive": "abhorrer",
+    "présent": {
+      "je": "abhorre",
+      "tu": "abhorres",
+      "il": "abhorre",
+      "nous": "abhorrons",
+      "vous": "abhorrez",
+      "ils": "abhorrent"
+    },
+    "passé_composé": {
+      "je": "ai abhorré",
+      "tu": "as abhorré",
+      "il": "a abhorré",
+      "nous": "avons abhorré",
+      "vous": "avez abhorré",
+      "ils": "ont abhorré"
+    },
+    "imparfait": {
+      "je": "abhorrais",
+      "tu": "abhorrais",
+      "il": "abhorrait",
+      "nous": "abhorrions",
+      "vous": "abhorriez",
+      "ils": "abhorraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais abhorré",
+      "tu": "avais abhorré",
+      "il": "avait abhorré",
+      "nous": "avions abhorré",
+      "vous": "aviez abhorré",
+      "ils": "avaient abhorré"
+    },
+    "passé_simple": {
+      "je": "abhorrai",
+      "tu": "abhorras",
+      "il": "abhorra",
+      "nous": "abhorrâmes",
+      "vous": "abhorrâtes",
+      "ils": "abhorrèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus abhorré",
+      "tu": "eus abhorré",
+      "il": "eut abhorré",
+      "nous": "eûmes abhorré",
+      "vous": "eûtes abhorré",
+      "ils": "eurent abhorré"
+    },
+    "futur_simple": {
+      "je": "abhorrerai",
+      "tu": "abhorreras",
+      "il": "abhorrera",
+      "nous": "abhorrerons",
+      "vous": "abhorrerez",
+      "ils": "abhorreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai abhorré",
+      "tu": "auras abhorré",
+      "il": "aura abhorré",
+      "nous": "aurons abhorré",
+      "vous": "aurez abhorré",
+      "ils": "auront abhorré"
+    },
+    "subjonctif_présent": {
+      "je": "abhorre",
+      "tu": "abhorres",
+      "il": "abhorre",
+      "nous": "abhorrions",
+      "vous": "abhorriez",
+      "ils": "abhorrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie abhorré",
+      "tu": "aies abhorré",
+      "il": "ait abhorré",
+      "nous": "ayons abhorré",
+      "vous": "ayez abhorré",
+      "ils": "aient abhorré"
+    },
+    "subjonctif_imparfait": {
+      "je": "abhorrasse",
+      "tu": "abhorrasses",
+      "il": "abhorrât",
+      "nous": "abhorrassions",
+      "vous": "abhorrassiez",
+      "ils": "abhorrassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse abhorré",
+      "tu": "eusses abhorré",
+      "il": "eût abhorré",
+      "nous": "eussions abhorré",
+      "vous": "eussiez abhorré",
+      "ils": "eussent abhorré"
+    },
+    "conditionnel_présent": {
+      "je": "abhorrerais",
+      "tu": "abhorrerais",
+      "il": "abhorrerait",
+      "nous": "abhorrerions",
+      "vous": "abhorreriez",
+      "ils": "abhorreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais abhorré",
+      "tu": "aurais abhorré",
+      "il": "aurait abhorré",
+      "nous": "aurions abhorré",
+      "vous": "auriez abhorré",
+      "ils": "auraient abhorré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse abhorré",
+      "tu": "eusses abhorré",
+      "il": "eût abhorré",
+      "nous": "eussions abhorré",
+      "vous": "eussiez abhorré",
+      "ils": "eussent abhorré"
+    },
+    "translation": "zamykać",
+    "group": 1
+  },
+  {
+    "infinitive": "abîmer",
+    "présent": {
+      "je": "abîme",
+      "tu": "abîmes",
+      "il": "abîme",
+      "nous": "abîmons",
+      "vous": "abîmez",
+      "ils": "abîment"
+    },
+    "passé_composé": {
+      "je": "ai abîmé",
+      "tu": "as abîmé",
+      "il": "a abîmé",
+      "nous": "avons abîmé",
+      "vous": "avez abîmé",
+      "ils": "ont abîmé"
+    },
+    "imparfait": {
+      "je": "abîmais",
+      "tu": "abîmais",
+      "il": "abîmait",
+      "nous": "abîmions",
+      "vous": "abîmiez",
+      "ils": "abîmaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais abîmé",
+      "tu": "avais abîmé",
+      "il": "avait abîmé",
+      "nous": "avions abîmé",
+      "vous": "aviez abîmé",
+      "ils": "avaient abîmé"
+    },
+    "passé_simple": {
+      "je": "abîmai",
+      "tu": "abîmas",
+      "il": "abîma",
+      "nous": "abîmâmes",
+      "vous": "abîmâtes",
+      "ils": "abîmèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus abîmé",
+      "tu": "eus abîmé",
+      "il": "eut abîmé",
+      "nous": "eûmes abîmé",
+      "vous": "eûtes abîmé",
+      "ils": "eurent abîmé"
+    },
+    "futur_simple": {
+      "je": "abîmerai",
+      "tu": "abîmeras",
+      "il": "abîmera",
+      "nous": "abîmerons",
+      "vous": "abîmerez",
+      "ils": "abîmeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai abîmé",
+      "tu": "auras abîmé",
+      "il": "aura abîmé",
+      "nous": "aurons abîmé",
+      "vous": "aurez abîmé",
+      "ils": "auront abîmé"
+    },
+    "subjonctif_présent": {
+      "je": "abîme",
+      "tu": "abîmes",
+      "il": "abîme",
+      "nous": "abîmions",
+      "vous": "abîmiez",
+      "ils": "abîment"
+    },
+    "subjonctif_passé": {
+      "je": "aie abîmé",
+      "tu": "aies abîmé",
+      "il": "ait abîmé",
+      "nous": "ayons abîmé",
+      "vous": "ayez abîmé",
+      "ils": "aient abîmé"
+    },
+    "subjonctif_imparfait": {
+      "je": "abîmasse",
+      "tu": "abîmasses",
+      "il": "abîmât",
+      "nous": "abîmassions",
+      "vous": "abîmassiez",
+      "ils": "abîmassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse abîmé",
+      "tu": "eusses abîmé",
+      "il": "eût abîmé",
+      "nous": "eussions abîmé",
+      "vous": "eussiez abîmé",
+      "ils": "eussent abîmé"
+    },
+    "conditionnel_présent": {
+      "je": "abîmerais",
+      "tu": "abîmerais",
+      "il": "abîmerait",
+      "nous": "abîmerions",
+      "vous": "abîmeriez",
+      "ils": "abîmeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais abîmé",
+      "tu": "aurais abîmé",
+      "il": "aurait abîmé",
+      "nous": "aurions abîmé",
+      "vous": "auriez abîmé",
+      "ils": "auraient abîmé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse abîmé",
+      "tu": "eusses abîmé",
+      "il": "eût abîmé",
+      "nous": "eussions abîmé",
+      "vous": "eussiez abîmé",
+      "ils": "eussent abîmé"
+    },
+    "translation": "niszczyć",
+    "group": 1
+  },
+  {
+    "infinitive": "abolir",
+    "présent": {
+      "je": "abolis",
+      "tu": "abolis",
+      "il": "abolit",
+      "nous": "abolissons",
+      "vous": "abolissez",
+      "ils": "abolissent"
+    },
+    "passé_composé": {
+      "je": "ai aboli",
+      "tu": "as aboli",
+      "il": "a aboli",
+      "nous": "avons aboli",
+      "vous": "avez aboli",
+      "ils": "ont aboli"
+    },
+    "imparfait": {
+      "je": "abolissais",
+      "tu": "abolissais",
+      "il": "abolissait",
+      "nous": "abolissions",
+      "vous": "abolissiez",
+      "ils": "abolissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais aboli",
+      "tu": "avais aboli",
+      "il": "avait aboli",
+      "nous": "avions aboli",
+      "vous": "aviez aboli",
+      "ils": "avaient aboli"
+    },
+    "passé_simple": {
+      "je": "abolis",
+      "tu": "abolis",
+      "il": "abolit",
+      "nous": "abolîmes",
+      "vous": "abolîtes",
+      "ils": "abolirent"
+    },
+    "passé_antérieur": {
+      "je": "eus aboli",
+      "tu": "eus aboli",
+      "il": "eut aboli",
+      "nous": "eûmes aboli",
+      "vous": "eûtes aboli",
+      "ils": "eurent aboli"
+    },
+    "futur_simple": {
+      "je": "abolirai",
+      "tu": "aboliras",
+      "il": "abolira",
+      "nous": "abolirons",
+      "vous": "abolirez",
+      "ils": "aboliront"
+    },
+    "futur_antérieur": {
+      "je": "aurai aboli",
+      "tu": "auras aboli",
+      "il": "aura aboli",
+      "nous": "aurons aboli",
+      "vous": "aurez aboli",
+      "ils": "auront aboli"
+    },
+    "subjonctif_présent": {
+      "je": "abolisse",
+      "tu": "abolisses",
+      "il": "abolisse",
+      "nous": "abolissions",
+      "vous": "abolissiez",
+      "ils": "abolissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie aboli",
+      "tu": "aies aboli",
+      "il": "ait aboli",
+      "nous": "ayons aboli",
+      "vous": "ayez aboli",
+      "ils": "aient aboli"
+    },
+    "subjonctif_imparfait": {
+      "je": "abolisse",
+      "tu": "abolisses",
+      "il": "abolît",
+      "nous": "abolissions",
+      "vous": "abolissiez",
+      "ils": "abolissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse aboli",
+      "tu": "eusses aboli",
+      "il": "eût aboli",
+      "nous": "eussions aboli",
+      "vous": "eussiez aboli",
+      "ils": "eussent aboli"
+    },
+    "conditionnel_présent": {
+      "je": "abolirais",
+      "tu": "abolirais",
+      "il": "abolirait",
+      "nous": "abolirions",
+      "vous": "aboliriez",
+      "ils": "aboliraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais aboli",
+      "tu": "aurais aboli",
+      "il": "aurait aboli",
+      "nous": "aurions aboli",
+      "vous": "auriez aboli",
+      "ils": "auraient aboli"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse aboli",
+      "tu": "eusses aboli",
+      "il": "eût aboli",
+      "nous": "eussions aboli",
+      "vous": "eussiez aboli",
+      "ils": "eussent aboli"
+    },
+    "translation": "anulować",
+    "group": 2
+  },
+  {
+    "infinitive": "abonder",
+    "présent": {
+      "je": "abonde",
+      "tu": "abondes",
+      "il": "abonde",
+      "nous": "abondons",
+      "vous": "abondez",
+      "ils": "abondent"
+    },
+    "passé_composé": {
+      "je": "ai abondé",
+      "tu": "as abondé",
+      "il": "a abondé",
+      "nous": "avons abondé",
+      "vous": "avez abondé",
+      "ils": "ont abondé"
+    },
+    "imparfait": {
+      "je": "abondais",
+      "tu": "abondais",
+      "il": "abondait",
+      "nous": "abondions",
+      "vous": "abondiez",
+      "ils": "abondaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais abondé",
+      "tu": "avais abondé",
+      "il": "avait abondé",
+      "nous": "avions abondé",
+      "vous": "aviez abondé",
+      "ils": "avaient abondé"
+    },
+    "passé_simple": {
+      "je": "abondai",
+      "tu": "abondas",
+      "il": "abonda",
+      "nous": "abondâmes",
+      "vous": "abondâtes",
+      "ils": "abondèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus abondé",
+      "tu": "eus abondé",
+      "il": "eut abondé",
+      "nous": "eûmes abondé",
+      "vous": "eûtes abondé",
+      "ils": "eurent abondé"
+    },
+    "futur_simple": {
+      "je": "abonderai",
+      "tu": "abonderas",
+      "il": "abondera",
+      "nous": "abonderons",
+      "vous": "abonderez",
+      "ils": "abonderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai abondé",
+      "tu": "auras abondé",
+      "il": "aura abondé",
+      "nous": "aurons abondé",
+      "vous": "aurez abondé",
+      "ils": "auront abondé"
+    },
+    "subjonctif_présent": {
+      "je": "abonde",
+      "tu": "abondes",
+      "il": "abonde",
+      "nous": "abondions",
+      "vous": "abondiez",
+      "ils": "abondent"
+    },
+    "subjonctif_passé": {
+      "je": "aie abondé",
+      "tu": "aies abondé",
+      "il": "ait abondé",
+      "nous": "ayons abondé",
+      "vous": "ayez abondé",
+      "ils": "aient abondé"
+    },
+    "subjonctif_imparfait": {
+      "je": "abondasse",
+      "tu": "abondasses",
+      "il": "abondât",
+      "nous": "abondassions",
+      "vous": "abondassiez",
+      "ils": "abondassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse abondé",
+      "tu": "eusses abondé",
+      "il": "eût abondé",
+      "nous": "eussions abondé",
+      "vous": "eussiez abondé",
+      "ils": "eussent abondé"
+    },
+    "conditionnel_présent": {
+      "je": "abonderais",
+      "tu": "abonderais",
+      "il": "abonderait",
+      "nous": "abonderions",
+      "vous": "abonderiez",
+      "ils": "abonderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais abondé",
+      "tu": "aurais abondé",
+      "il": "aurait abondé",
+      "nous": "aurions abondé",
+      "vous": "auriez abondé",
+      "ils": "auraient abondé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse abondé",
+      "tu": "eusses abondé",
+      "il": "eût abondé",
+      "nous": "eussions abondé",
+      "vous": "eussiez abondé",
+      "ils": "eussent abondé"
+    },
+    "translation": "obfitować",
+    "group": 1
+  },
+  {
+    "infinitive": "abonner",
+    "présent": {
+      "je": "abonne",
+      "tu": "abonnes",
+      "il": "abonne",
+      "nous": "abonnons",
+      "vous": "abonnez",
+      "ils": "abonnent"
+    },
+    "passé_composé": {
+      "je": "ai abonné",
+      "tu": "as abonné",
+      "il": "a abonné",
+      "nous": "avons abonné",
+      "vous": "avez abonné",
+      "ils": "ont abonné"
+    },
+    "imparfait": {
+      "je": "abonnais",
+      "tu": "abonnais",
+      "il": "abonnait",
+      "nous": "abonnions",
+      "vous": "abonniez",
+      "ils": "abonnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais abonné",
+      "tu": "avais abonné",
+      "il": "avait abonné",
+      "nous": "avions abonné",
+      "vous": "aviez abonné",
+      "ils": "avaient abonné"
+    },
+    "passé_simple": {
+      "je": "abonnai",
+      "tu": "abonnas",
+      "il": "abonna",
+      "nous": "abonnâmes",
+      "vous": "abonnâtes",
+      "ils": "abonnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus abonné",
+      "tu": "eus abonné",
+      "il": "eut abonné",
+      "nous": "eûmes abonné",
+      "vous": "eûtes abonné",
+      "ils": "eurent abonné"
+    },
+    "futur_simple": {
+      "je": "abonnerai",
+      "tu": "abonneras",
+      "il": "abonnera",
+      "nous": "abonnerons",
+      "vous": "abonnerez",
+      "ils": "abonneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai abonné",
+      "tu": "auras abonné",
+      "il": "aura abonné",
+      "nous": "aurons abonné",
+      "vous": "aurez abonné",
+      "ils": "auront abonné"
+    },
+    "subjonctif_présent": {
+      "je": "abonne",
+      "tu": "abonnes",
+      "il": "abonne",
+      "nous": "abonnions",
+      "vous": "abonniez",
+      "ils": "abonnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie abonné",
+      "tu": "aies abonné",
+      "il": "ait abonné",
+      "nous": "ayons abonné",
+      "vous": "ayez abonné",
+      "ils": "aient abonné"
+    },
+    "subjonctif_imparfait": {
+      "je": "abonnasse",
+      "tu": "abonnasses",
+      "il": "abonnât",
+      "nous": "abonnassions",
+      "vous": "abonnassiez",
+      "ils": "abonnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse abonné",
+      "tu": "eusses abonné",
+      "il": "eût abonné",
+      "nous": "eussions abonné",
+      "vous": "eussiez abonné",
+      "ils": "eussent abonné"
+    },
+    "conditionnel_présent": {
+      "je": "abonnerais",
+      "tu": "abonnerais",
+      "il": "abonnerait",
+      "nous": "abonnerions",
+      "vous": "abonneriez",
+      "ils": "abonneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais abonné",
+      "tu": "aurais abonné",
+      "il": "aurait abonné",
+      "nous": "aurions abonné",
+      "vous": "auriez abonné",
+      "ils": "auraient abonné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse abonné",
+      "tu": "eusses abonné",
+      "il": "eût abonné",
+      "nous": "eussions abonné",
+      "vous": "eussiez abonné",
+      "ils": "eussent abonné"
+    },
+    "translation": "zaprenumerować",
+    "group": 1
+  },
+  {
+    "infinitive": "aborder",
+    "présent": {
+      "je": "aborde",
+      "tu": "abordes",
+      "il": "aborde",
+      "nous": "abordons",
+      "vous": "abordez",
+      "ils": "abordent"
+    },
+    "passé_composé": {
+      "je": "ai abordé",
+      "tu": "as abordé",
+      "il": "a abordé",
+      "nous": "avons abordé",
+      "vous": "avez abordé",
+      "ils": "ont abordé"
+    },
+    "imparfait": {
+      "je": "abordais",
+      "tu": "abordais",
+      "il": "abordait",
+      "nous": "abordions",
+      "vous": "abordiez",
+      "ils": "abordaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais abordé",
+      "tu": "avais abordé",
+      "il": "avait abordé",
+      "nous": "avions abordé",
+      "vous": "aviez abordé",
+      "ils": "avaient abordé"
+    },
+    "passé_simple": {
+      "je": "abordai",
+      "tu": "abordas",
+      "il": "aborda",
+      "nous": "abordâmes",
+      "vous": "abordâtes",
+      "ils": "abordèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus abordé",
+      "tu": "eus abordé",
+      "il": "eut abordé",
+      "nous": "eûmes abordé",
+      "vous": "eûtes abordé",
+      "ils": "eurent abordé"
+    },
+    "futur_simple": {
+      "je": "aborderai",
+      "tu": "aborderas",
+      "il": "abordera",
+      "nous": "aborderons",
+      "vous": "aborderez",
+      "ils": "aborderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai abordé",
+      "tu": "auras abordé",
+      "il": "aura abordé",
+      "nous": "aurons abordé",
+      "vous": "aurez abordé",
+      "ils": "auront abordé"
+    },
+    "subjonctif_présent": {
+      "je": "aborde",
+      "tu": "abordes",
+      "il": "aborde",
+      "nous": "abordions",
+      "vous": "abordiez",
+      "ils": "abordent"
+    },
+    "subjonctif_passé": {
+      "je": "aie abordé",
+      "tu": "aies abordé",
+      "il": "ait abordé",
+      "nous": "ayons abordé",
+      "vous": "ayez abordé",
+      "ils": "aient abordé"
+    },
+    "subjonctif_imparfait": {
+      "je": "abordasse",
+      "tu": "abordasses",
+      "il": "abordât",
+      "nous": "abordassions",
+      "vous": "abordassiez",
+      "ils": "abordassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse abordé",
+      "tu": "eusses abordé",
+      "il": "eût abordé",
+      "nous": "eussions abordé",
+      "vous": "eussiez abordé",
+      "ils": "eussent abordé"
+    },
+    "conditionnel_présent": {
+      "je": "aborderais",
+      "tu": "aborderais",
+      "il": "aborderait",
+      "nous": "aborderions",
+      "vous": "aborderiez",
+      "ils": "aborderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais abordé",
+      "tu": "aurais abordé",
+      "il": "aurait abordé",
+      "nous": "aurions abordé",
+      "vous": "auriez abordé",
+      "ils": "auraient abordé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse abordé",
+      "tu": "eusses abordé",
+      "il": "eût abordé",
+      "nous": "eussions abordé",
+      "vous": "eussiez abordé",
+      "ils": "eussent abordé"
+    },
+    "translation": "zaczepiać",
+    "group": 1
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "abuser",
+    "présent": {
+      "je": "abuse",
+      "tu": "abuses",
+      "il": "abuse",
+      "nous": "abusons",
+      "vous": "abusez",
+      "ils": "abusent"
+    },
+    "passé_composé": {
+      "je": "ai abusé",
+      "tu": "as abusé",
+      "il": "a abusé",
+      "nous": "avons abusé",
+      "vous": "avez abusé",
+      "ils": "ont abusé"
+    },
+    "imparfait": {
+      "je": "abusais",
+      "tu": "abusais",
+      "il": "abusait",
+      "nous": "abusions",
+      "vous": "abusiez",
+      "ils": "abusaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais abusé",
+      "tu": "avais abusé",
+      "il": "avait abusé",
+      "nous": "avions abusé",
+      "vous": "aviez abusé",
+      "ils": "avaient abusé"
+    },
+    "passé_simple": {
+      "je": "abusai",
+      "tu": "abusas",
+      "il": "abusa",
+      "nous": "abusâmes",
+      "vous": "abusâtes",
+      "ils": "abusèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus abusé",
+      "tu": "eus abusé",
+      "il": "eut abusé",
+      "nous": "eûmes abusé",
+      "vous": "eûtes abusé",
+      "ils": "eurent abusé"
+    },
+    "futur_simple": {
+      "je": "abuserai",
+      "tu": "abuseras",
+      "il": "abusera",
+      "nous": "abuserons",
+      "vous": "abuserez",
+      "ils": "abuseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai abusé",
+      "tu": "auras abusé",
+      "il": "aura abusé",
+      "nous": "aurons abusé",
+      "vous": "aurez abusé",
+      "ils": "auront abusé"
+    },
+    "subjonctif_présent": {
+      "je": "abuse",
+      "tu": "abuses",
+      "il": "abuse",
+      "nous": "abusions",
+      "vous": "abusiez",
+      "ils": "abusent"
+    },
+    "subjonctif_passé": {
+      "je": "aie abusé",
+      "tu": "aies abusé",
+      "il": "ait abusé",
+      "nous": "ayons abusé",
+      "vous": "ayez abusé",
+      "ils": "aient abusé"
+    },
+    "subjonctif_imparfait": {
+      "je": "abusasse",
+      "tu": "abusasses",
+      "il": "abusât",
+      "nous": "abusassions",
+      "vous": "abusassiez",
+      "ils": "abusassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse abusé",
+      "tu": "eusses abusé",
+      "il": "eût abusé",
+      "nous": "eussions abusé",
+      "vous": "eussiez abusé",
+      "ils": "eussent abusé"
+    },
+    "conditionnel_présent": {
+      "je": "abuserais",
+      "tu": "abuserais",
+      "il": "abuserait",
+      "nous": "abuserions",
+      "vous": "abuseriez",
+      "ils": "abuseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais abusé",
+      "tu": "aurais abusé",
+      "il": "aurait abusé",
+      "nous": "aurions abusé",
+      "vous": "auriez abusé",
+      "ils": "auraient abusé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse abusé",
+      "tu": "eusses abusé",
+      "il": "eût abusé",
+      "nous": "eussions abusé",
+      "vous": "eussiez abusé",
+      "ils": "eussent abusé"
+    },
+    "translation": "nadużywać",
+    "group": 1
+  },
+  {
+    "infinitive": "accabler",
+    "présent": {
+      "je": "accable",
+      "tu": "accables",
+      "il": "accable",
+      "nous": "accablons",
+      "vous": "accablez",
+      "ils": "accablent"
+    },
+    "passé_composé": {
+      "je": "ai accablé",
+      "tu": "as accablé",
+      "il": "a accablé",
+      "nous": "avons accablé",
+      "vous": "avez accablé",
+      "ils": "ont accablé"
+    },
+    "imparfait": {
+      "je": "accablais",
+      "tu": "accablais",
+      "il": "accablait",
+      "nous": "accablions",
+      "vous": "accabliez",
+      "ils": "accablaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais accablé",
+      "tu": "avais accablé",
+      "il": "avait accablé",
+      "nous": "avions accablé",
+      "vous": "aviez accablé",
+      "ils": "avaient accablé"
+    },
+    "passé_simple": {
+      "je": "accablai",
+      "tu": "accablas",
+      "il": "accabla",
+      "nous": "accablâmes",
+      "vous": "accablâtes",
+      "ils": "accablèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus accablé",
+      "tu": "eus accablé",
+      "il": "eut accablé",
+      "nous": "eûmes accablé",
+      "vous": "eûtes accablé",
+      "ils": "eurent accablé"
+    },
+    "futur_simple": {
+      "je": "accablerai",
+      "tu": "accableras",
+      "il": "accablera",
+      "nous": "accablerons",
+      "vous": "accablerez",
+      "ils": "accableront"
+    },
+    "futur_antérieur": {
+      "je": "aurai accablé",
+      "tu": "auras accablé",
+      "il": "aura accablé",
+      "nous": "aurons accablé",
+      "vous": "aurez accablé",
+      "ils": "auront accablé"
+    },
+    "subjonctif_présent": {
+      "je": "accable",
+      "tu": "accables",
+      "il": "accable",
+      "nous": "accablions",
+      "vous": "accabliez",
+      "ils": "accablent"
+    },
+    "subjonctif_passé": {
+      "je": "aie accablé",
+      "tu": "aies accablé",
+      "il": "ait accablé",
+      "nous": "ayons accablé",
+      "vous": "ayez accablé",
+      "ils": "aient accablé"
+    },
+    "subjonctif_imparfait": {
+      "je": "accablasse",
+      "tu": "accablasses",
+      "il": "accablât",
+      "nous": "accablassions",
+      "vous": "accablassiez",
+      "ils": "accablassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse accablé",
+      "tu": "eusses accablé",
+      "il": "eût accablé",
+      "nous": "eussions accablé",
+      "vous": "eussiez accablé",
+      "ils": "eussent accablé"
+    },
+    "conditionnel_présent": {
+      "je": "accablerais",
+      "tu": "accablerais",
+      "il": "accablerait",
+      "nous": "accablerions",
+      "vous": "accableriez",
+      "ils": "accableraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais accablé",
+      "tu": "aurais accablé",
+      "il": "aurait accablé",
+      "nous": "aurions accablé",
+      "vous": "auriez accablé",
+      "ils": "auraient accablé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse accablé",
+      "tu": "eusses accablé",
+      "il": "eût accablé",
+      "nous": "eussions accablé",
+      "vous": "eussiez accablé",
+      "ils": "eussent accablé"
+    },
+    "translation": "przygnębiać",
+    "group": 1
+  },
+  {
+    "infinitive": "accaparer",
+    "présent": {
+      "je": "accapare",
+      "tu": "accapares",
+      "il": "accapare",
+      "nous": "accaparons",
+      "vous": "accaparez",
+      "ils": "accaparent"
+    },
+    "passé_composé": {
+      "je": "ai accaparé",
+      "tu": "as accaparé",
+      "il": "a accaparé",
+      "nous": "avons accaparé",
+      "vous": "avez accaparé",
+      "ils": "ont accaparé"
+    },
+    "imparfait": {
+      "je": "accaparais",
+      "tu": "accaparais",
+      "il": "accaparait",
+      "nous": "accaparions",
+      "vous": "accapariez",
+      "ils": "accaparaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais accaparé",
+      "tu": "avais accaparé",
+      "il": "avait accaparé",
+      "nous": "avions accaparé",
+      "vous": "aviez accaparé",
+      "ils": "avaient accaparé"
+    },
+    "passé_simple": {
+      "je": "accaparai",
+      "tu": "accaparas",
+      "il": "accapara",
+      "nous": "accaparâmes",
+      "vous": "accaparâtes",
+      "ils": "accaparèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus accaparé",
+      "tu": "eus accaparé",
+      "il": "eut accaparé",
+      "nous": "eûmes accaparé",
+      "vous": "eûtes accaparé",
+      "ils": "eurent accaparé"
+    },
+    "futur_simple": {
+      "je": "accaparerai",
+      "tu": "accapareras",
+      "il": "accaparera",
+      "nous": "accaparerons",
+      "vous": "accaparerez",
+      "ils": "accapareront"
+    },
+    "futur_antérieur": {
+      "je": "aurai accaparé",
+      "tu": "auras accaparé",
+      "il": "aura accaparé",
+      "nous": "aurons accaparé",
+      "vous": "aurez accaparé",
+      "ils": "auront accaparé"
+    },
+    "subjonctif_présent": {
+      "je": "accapare",
+      "tu": "accapares",
+      "il": "accapare",
+      "nous": "accaparions",
+      "vous": "accapariez",
+      "ils": "accaparent"
+    },
+    "subjonctif_passé": {
+      "je": "aie accaparé",
+      "tu": "aies accaparé",
+      "il": "ait accaparé",
+      "nous": "ayons accaparé",
+      "vous": "ayez accaparé",
+      "ils": "aient accaparé"
+    },
+    "subjonctif_imparfait": {
+      "je": "accaparasse",
+      "tu": "accaparasses",
+      "il": "accaparât",
+      "nous": "accaparassions",
+      "vous": "accaparassiez",
+      "ils": "accaparassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse accaparé",
+      "tu": "eusses accaparé",
+      "il": "eût accaparé",
+      "nous": "eussions accaparé",
+      "vous": "eussiez accaparé",
+      "ils": "eussent accaparé"
+    },
+    "conditionnel_présent": {
+      "je": "accaparerais",
+      "tu": "accaparerais",
+      "il": "accaparerait",
+      "nous": "accaparerions",
+      "vous": "accapareriez",
+      "ils": "accapareraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais accaparé",
+      "tu": "aurais accaparé",
+      "il": "aurait accaparé",
+      "nous": "aurions accaparé",
+      "vous": "auriez accaparé",
+      "ils": "auraient accaparé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse accaparé",
+      "tu": "eusses accaparé",
+      "il": "eût accaparé",
+      "nous": "eussions accaparé",
+      "vous": "eussiez accaparé",
+      "ils": "eussent accaparé"
+    },
+    "translation": "zagarniać",
+    "group": 1
+  },
+  {
+    "infinitive": "accéder",
+    "présent": {
+      "je": "accède",
+      "tu": "accèdes",
+      "il": "accède",
+      "nous": "accédons",
+      "vous": "accédez",
+      "ils": "accèdent"
+    },
+    "passé_composé": {
+      "je": "ai accédé",
+      "tu": "as accédé",
+      "il": "a accédé",
+      "nous": "avons accédé",
+      "vous": "avez accédé",
+      "ils": "ont accédé"
+    },
+    "imparfait": {
+      "je": "accédais",
+      "tu": "accédais",
+      "il": "accédait",
+      "nous": "accédions",
+      "vous": "accédiez",
+      "ils": "accédaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais accédé",
+      "tu": "avais accédé",
+      "il": "avait accédé",
+      "nous": "avions accédé",
+      "vous": "aviez accédé",
+      "ils": "avaient accédé"
+    },
+    "passé_simple": {
+      "je": "accédai",
+      "tu": "accédas",
+      "il": "accéda",
+      "nous": "accédâmes",
+      "vous": "accédâtes",
+      "ils": "accédèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus accédé",
+      "tu": "eus accédé",
+      "il": "eut accédé",
+      "nous": "eûmes accédé",
+      "vous": "eûtes accédé",
+      "ils": "eurent accédé"
+    },
+    "futur_simple": {
+      "je": "accéderai",
+      "tu": "accéderas",
+      "il": "accédera",
+      "nous": "accéderons",
+      "vous": "accéderez",
+      "ils": "accéderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai accédé",
+      "tu": "auras accédé",
+      "il": "aura accédé",
+      "nous": "aurons accédé",
+      "vous": "aurez accédé",
+      "ils": "auront accédé"
+    },
+    "subjonctif_présent": {
+      "je": "accède",
+      "tu": "accèdes",
+      "il": "accède",
+      "nous": "accédions",
+      "vous": "accédiez",
+      "ils": "accèdent"
+    },
+    "subjonctif_passé": {
+      "je": "aie accédé",
+      "tu": "aies accédé",
+      "il": "ait accédé",
+      "nous": "ayons accédé",
+      "vous": "ayez accédé",
+      "ils": "aient accédé"
+    },
+    "subjonctif_imparfait": {
+      "je": "accédasse",
+      "tu": "accédasses",
+      "il": "accédât",
+      "nous": "accédassions",
+      "vous": "accédassiez",
+      "ils": "accédassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse accédé",
+      "tu": "eusses accédé",
+      "il": "eût accédé",
+      "nous": "eussions accédé",
+      "vous": "eussiez accédé",
+      "ils": "eussent accédé"
+    },
+    "conditionnel_présent": {
+      "je": "accéderais",
+      "tu": "accéderais",
+      "il": "accéderait",
+      "nous": "accéderions",
+      "vous": "accéderiez",
+      "ils": "accéderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais accédé",
+      "tu": "aurais accédé",
+      "il": "aurait accédé",
+      "nous": "aurions accédé",
+      "vous": "auriez accédé",
+      "ils": "auraient accédé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse accédé",
+      "tu": "eusses accédé",
+      "il": "eût accédé",
+      "nous": "eussions accédé",
+      "vous": "eussiez accédé",
+      "ils": "eussent accédé"
+    },
+    "translation": "dochodzić",
+    "group": 1
+  },
+  {
+    "infinitive": "accélérer",
+    "présent": {
+      "je": "accélère",
+      "tu": "accélères",
+      "il": "accélère",
+      "nous": "accélérons",
+      "vous": "accélérez",
+      "ils": "accélèrent"
+    },
+    "passé_composé": {
+      "je": "ai accéléré",
+      "tu": "as accéléré",
+      "il": "a accéléré",
+      "nous": "avons accéléré",
+      "vous": "avez accéléré",
+      "ils": "ont accéléré"
+    },
+    "imparfait": {
+      "je": "accélérais",
+      "tu": "accélérais",
+      "il": "accélérait",
+      "nous": "accélérions",
+      "vous": "accélériez",
+      "ils": "accéléraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais accéléré",
+      "tu": "avais accéléré",
+      "il": "avait accéléré",
+      "nous": "avions accéléré",
+      "vous": "aviez accéléré",
+      "ils": "avaient accéléré"
+    },
+    "passé_simple": {
+      "je": "accélérai",
+      "tu": "accéléras",
+      "il": "accéléra",
+      "nous": "accélérâmes",
+      "vous": "accélérâtes",
+      "ils": "accélérèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus accéléré",
+      "tu": "eus accéléré",
+      "il": "eut accéléré",
+      "nous": "eûmes accéléré",
+      "vous": "eûtes accéléré",
+      "ils": "eurent accéléré"
+    },
+    "futur_simple": {
+      "je": "accélérerai",
+      "tu": "accéléreras",
+      "il": "accélérera",
+      "nous": "accélérerons",
+      "vous": "accélérerez",
+      "ils": "accéléreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai accéléré",
+      "tu": "auras accéléré",
+      "il": "aura accéléré",
+      "nous": "aurons accéléré",
+      "vous": "aurez accéléré",
+      "ils": "auront accéléré"
+    },
+    "subjonctif_présent": {
+      "je": "accélère",
+      "tu": "accélères",
+      "il": "accélère",
+      "nous": "accélérions",
+      "vous": "accélériez",
+      "ils": "accélèrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie accéléré",
+      "tu": "aies accéléré",
+      "il": "ait accéléré",
+      "nous": "ayons accéléré",
+      "vous": "ayez accéléré",
+      "ils": "aient accéléré"
+    },
+    "subjonctif_imparfait": {
+      "je": "accélérasse",
+      "tu": "accélérasses",
+      "il": "accélérât",
+      "nous": "accélérassions",
+      "vous": "accélérassiez",
+      "ils": "accélérassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse accéléré",
+      "tu": "eusses accéléré",
+      "il": "eût accéléré",
+      "nous": "eussions accéléré",
+      "vous": "eussiez accéléré",
+      "ils": "eussent accéléré"
+    },
+    "conditionnel_présent": {
+      "je": "accélérerais",
+      "tu": "accélérerais",
+      "il": "accélérerait",
+      "nous": "accélérerions",
+      "vous": "accéléreriez",
+      "ils": "accéléreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais accéléré",
+      "tu": "aurais accéléré",
+      "il": "aurait accéléré",
+      "nous": "aurions accéléré",
+      "vous": "auriez accéléré",
+      "ils": "auraient accéléré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse accéléré",
+      "tu": "eusses accéléré",
+      "il": "eût accéléré",
+      "nous": "eussions accéléré",
+      "vous": "eussiez accéléré",
+      "ils": "eussent accéléré"
+    },
+    "translation": "przyspieszać",
+    "group": 1
+  },
+  {
+    "infinitive": "accentuer",
+    "présent": {
+      "je": "accentue",
+      "tu": "accentues",
+      "il": "accentue",
+      "nous": "accentuons",
+      "vous": "accentuez",
+      "ils": "accentuent"
+    },
+    "passé_composé": {
+      "je": "ai accentué",
+      "tu": "as accentué",
+      "il": "a accentué",
+      "nous": "avons accentué",
+      "vous": "avez accentué",
+      "ils": "ont accentué"
+    },
+    "imparfait": {
+      "je": "accentuais",
+      "tu": "accentuais",
+      "il": "accentuait",
+      "nous": "accentuions",
+      "vous": "accentuiez",
+      "ils": "accentuaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais accentué",
+      "tu": "avais accentué",
+      "il": "avait accentué",
+      "nous": "avions accentué",
+      "vous": "aviez accentué",
+      "ils": "avaient accentué"
+    },
+    "passé_simple": {
+      "je": "accentuai",
+      "tu": "accentuas",
+      "il": "accentua",
+      "nous": "accentuâmes",
+      "vous": "accentuâtes",
+      "ils": "accentuèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus accentué",
+      "tu": "eus accentué",
+      "il": "eut accentué",
+      "nous": "eûmes accentué",
+      "vous": "eûtes accentué",
+      "ils": "eurent accentué"
+    },
+    "futur_simple": {
+      "je": "accentuerai",
+      "tu": "accentueras",
+      "il": "accentuera",
+      "nous": "accentuerons",
+      "vous": "accentuerez",
+      "ils": "accentueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai accentué",
+      "tu": "auras accentué",
+      "il": "aura accentué",
+      "nous": "aurons accentué",
+      "vous": "aurez accentué",
+      "ils": "auront accentué"
+    },
+    "subjonctif_présent": {
+      "je": "accentue",
+      "tu": "accentues",
+      "il": "accentue",
+      "nous": "accentuions",
+      "vous": "accentuiez",
+      "ils": "accentuent"
+    },
+    "subjonctif_passé": {
+      "je": "aie accentué",
+      "tu": "aies accentué",
+      "il": "ait accentué",
+      "nous": "ayons accentué",
+      "vous": "ayez accentué",
+      "ils": "aient accentué"
+    },
+    "subjonctif_imparfait": {
+      "je": "accentuasse",
+      "tu": "accentuasses",
+      "il": "accentuât",
+      "nous": "accentuassions",
+      "vous": "accentuassiez",
+      "ils": "accentuassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse accentué",
+      "tu": "eusses accentué",
+      "il": "eût accentué",
+      "nous": "eussions accentué",
+      "vous": "eussiez accentué",
+      "ils": "eussent accentué"
+    },
+    "conditionnel_présent": {
+      "je": "accentuerais",
+      "tu": "accentuerais",
+      "il": "accentuerait",
+      "nous": "accentuerions",
+      "vous": "accentueriez",
+      "ils": "accentueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais accentué",
+      "tu": "aurais accentué",
+      "il": "aurait accentué",
+      "nous": "aurions accentué",
+      "vous": "auriez accentué",
+      "ils": "auraient accentué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse accentué",
+      "tu": "eusses accentué",
+      "il": "eût accentué",
+      "nous": "eussions accentué",
+      "vous": "eussiez accentué",
+      "ils": "eussent accentué"
+    },
+    "translation": "akcentować",
+    "group": 1
+  },
+  {
+    "infinitive": "accepter",
+    "présent": {
+      "je": "accepte",
+      "tu": "acceptes",
+      "il": "accepte",
+      "nous": "acceptons",
+      "vous": "acceptez",
+      "ils": "acceptent"
+    },
+    "passé_composé": {
+      "je": "ai accepté",
+      "tu": "as accepté",
+      "il": "a accepté",
+      "nous": "avons accepté",
+      "vous": "avez accepté",
+      "ils": "ont accepté"
+    },
+    "imparfait": {
+      "je": "acceptais",
+      "tu": "acceptais",
+      "il": "acceptait",
+      "nous": "acceptions",
+      "vous": "acceptiez",
+      "ils": "acceptaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais accepté",
+      "tu": "avais accepté",
+      "il": "avait accepté",
+      "nous": "avions accepté",
+      "vous": "aviez accepté",
+      "ils": "avaient accepté"
+    },
+    "passé_simple": {
+      "je": "acceptai",
+      "tu": "acceptas",
+      "il": "accepta",
+      "nous": "acceptâmes",
+      "vous": "acceptâtes",
+      "ils": "acceptèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus accepté",
+      "tu": "eus accepté",
+      "il": "eut accepté",
+      "nous": "eûmes accepté",
+      "vous": "eûtes accepté",
+      "ils": "eurent accepté"
+    },
+    "futur_simple": {
+      "je": "accepterai",
+      "tu": "accepteras",
+      "il": "acceptera",
+      "nous": "accepterons",
+      "vous": "accepterez",
+      "ils": "accepteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai accepté",
+      "tu": "auras accepté",
+      "il": "aura accepté",
+      "nous": "aurons accepté",
+      "vous": "aurez accepté",
+      "ils": "auront accepté"
+    },
+    "subjonctif_présent": {
+      "je": "accepte",
+      "tu": "acceptes",
+      "il": "accepte",
+      "nous": "acceptions",
+      "vous": "acceptiez",
+      "ils": "acceptent"
+    },
+    "subjonctif_passé": {
+      "je": "aie accepté",
+      "tu": "aies accepté",
+      "il": "ait accepté",
+      "nous": "ayons accepté",
+      "vous": "ayez accepté",
+      "ils": "aient accepté"
+    },
+    "subjonctif_imparfait": {
+      "je": "acceptasse",
+      "tu": "acceptasses",
+      "il": "acceptât",
+      "nous": "acceptassions",
+      "vous": "acceptassiez",
+      "ils": "acceptassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse accepté",
+      "tu": "eusses accepté",
+      "il": "eût accepté",
+      "nous": "eussions accepté",
+      "vous": "eussiez accepté",
+      "ils": "eussent accepté"
+    },
+    "conditionnel_présent": {
+      "je": "accepterais",
+      "tu": "accepterais",
+      "il": "accepterait",
+      "nous": "accepterions",
+      "vous": "accepteriez",
+      "ils": "accepteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais accepté",
+      "tu": "aurais accepté",
+      "il": "aurait accepté",
+      "nous": "aurions accepté",
+      "vous": "auriez accepté",
+      "ils": "auraient accepté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse accepté",
+      "tu": "eusses accepté",
+      "il": "eût accepté",
+      "nous": "eussions accepté",
+      "vous": "eussiez accepté",
+      "ils": "eussent accepté"
+    },
+    "translation": "akceptować",
+    "group": 1
+  },
+  {
+    "infinitive": "accoler",
+    "présent": {
+      "je": "accole",
+      "tu": "accoles",
+      "il": "accole",
+      "nous": "accolons",
+      "vous": "accolez",
+      "ils": "accolent"
+    },
+    "passé_composé": {
+      "je": "ai accolé",
+      "tu": "as accolé",
+      "il": "a accolé",
+      "nous": "avons accolé",
+      "vous": "avez accolé",
+      "ils": "ont accolé"
+    },
+    "imparfait": {
+      "je": "accolais",
+      "tu": "accolais",
+      "il": "accolait",
+      "nous": "accolions",
+      "vous": "accoliez",
+      "ils": "accolaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais accolé",
+      "tu": "avais accolé",
+      "il": "avait accolé",
+      "nous": "avions accolé",
+      "vous": "aviez accolé",
+      "ils": "avaient accolé"
+    },
+    "passé_simple": {
+      "je": "accolai",
+      "tu": "accolas",
+      "il": "accola",
+      "nous": "accolâmes",
+      "vous": "accolâtes",
+      "ils": "accolèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus accolé",
+      "tu": "eus accolé",
+      "il": "eut accolé",
+      "nous": "eûmes accolé",
+      "vous": "eûtes accolé",
+      "ils": "eurent accolé"
+    },
+    "futur_simple": {
+      "je": "accolerai",
+      "tu": "accoleras",
+      "il": "accolera",
+      "nous": "accolerons",
+      "vous": "accolerez",
+      "ils": "accoleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai accolé",
+      "tu": "auras accolé",
+      "il": "aura accolé",
+      "nous": "aurons accolé",
+      "vous": "aurez accolé",
+      "ils": "auront accolé"
+    },
+    "subjonctif_présent": {
+      "je": "accole",
+      "tu": "accoles",
+      "il": "accole",
+      "nous": "accolions",
+      "vous": "accoliez",
+      "ils": "accolent"
+    },
+    "subjonctif_passé": {
+      "je": "aie accolé",
+      "tu": "aies accolé",
+      "il": "ait accolé",
+      "nous": "ayons accolé",
+      "vous": "ayez accolé",
+      "ils": "aient accolé"
+    },
+    "subjonctif_imparfait": {
+      "je": "accolasse",
+      "tu": "accolasses",
+      "il": "accolât",
+      "nous": "accolassions",
+      "vous": "accolassiez",
+      "ils": "accolassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse accolé",
+      "tu": "eusses accolé",
+      "il": "eût accolé",
+      "nous": "eussions accolé",
+      "vous": "eussiez accolé",
+      "ils": "eussent accolé"
+    },
+    "conditionnel_présent": {
+      "je": "accolerais",
+      "tu": "accolerais",
+      "il": "accolerait",
+      "nous": "accolerions",
+      "vous": "accoleriez",
+      "ils": "accoleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais accolé",
+      "tu": "aurais accolé",
+      "il": "aurait accolé",
+      "nous": "aurions accolé",
+      "vous": "auriez accolé",
+      "ils": "auraient accolé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse accolé",
+      "tu": "eusses accolé",
+      "il": "eût accolé",
+      "nous": "eussions accolé",
+      "vous": "eussiez accolé",
+      "ils": "eussent accolé"
+    },
+    "translation": "parzyć",
+    "group": 1
+  },
+  {
+    "infinitive": "accommoder",
+    "présent": {
+      "je": "accommode",
+      "tu": "accommodes",
+      "il": "accommode",
+      "nous": "accommodons",
+      "vous": "accommodez",
+      "ils": "accommodent"
+    },
+    "passé_composé": {
+      "je": "ai accommodé",
+      "tu": "as accommodé",
+      "il": "a accommodé",
+      "nous": "avons accommodé",
+      "vous": "avez accommodé",
+      "ils": "ont accommodé"
+    },
+    "imparfait": {
+      "je": "accommodais",
+      "tu": "accommodais",
+      "il": "accommodait",
+      "nous": "accommodions",
+      "vous": "accommodiez",
+      "ils": "accommodaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais accommodé",
+      "tu": "avais accommodé",
+      "il": "avait accommodé",
+      "nous": "avions accommodé",
+      "vous": "aviez accommodé",
+      "ils": "avaient accommodé"
+    },
+    "passé_simple": {
+      "je": "accommodai",
+      "tu": "accommodas",
+      "il": "accommoda",
+      "nous": "accommodâmes",
+      "vous": "accommodâtes",
+      "ils": "accommodèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus accommodé",
+      "tu": "eus accommodé",
+      "il": "eut accommodé",
+      "nous": "eûmes accommodé",
+      "vous": "eûtes accommodé",
+      "ils": "eurent accommodé"
+    },
+    "futur_simple": {
+      "je": "accommoderai",
+      "tu": "accommoderas",
+      "il": "accommodera",
+      "nous": "accommoderons",
+      "vous": "accommoderez",
+      "ils": "accommoderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai accommodé",
+      "tu": "auras accommodé",
+      "il": "aura accommodé",
+      "nous": "aurons accommodé",
+      "vous": "aurez accommodé",
+      "ils": "auront accommodé"
+    },
+    "subjonctif_présent": {
+      "je": "accommode",
+      "tu": "accommodes",
+      "il": "accommode",
+      "nous": "accommodions",
+      "vous": "accommodiez",
+      "ils": "accommodent"
+    },
+    "subjonctif_passé": {
+      "je": "aie accommodé",
+      "tu": "aies accommodé",
+      "il": "ait accommodé",
+      "nous": "ayons accommodé",
+      "vous": "ayez accommodé",
+      "ils": "aient accommodé"
+    },
+    "subjonctif_imparfait": {
+      "je": "accommodasse",
+      "tu": "accommodasses",
+      "il": "accommodât",
+      "nous": "accommodassions",
+      "vous": "accommodassiez",
+      "ils": "accommodassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse accommodé",
+      "tu": "eusses accommodé",
+      "il": "eût accommodé",
+      "nous": "eussions accommodé",
+      "vous": "eussiez accommodé",
+      "ils": "eussent accommodé"
+    },
+    "conditionnel_présent": {
+      "je": "accommoderais",
+      "tu": "accommoderais",
+      "il": "accommoderait",
+      "nous": "accommoderions",
+      "vous": "accommoderiez",
+      "ils": "accommoderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais accommodé",
+      "tu": "aurais accommodé",
+      "il": "aurait accommodé",
+      "nous": "aurions accommodé",
+      "vous": "auriez accommodé",
+      "ils": "auraient accommodé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse accommodé",
+      "tu": "eusses accommodé",
+      "il": "eût accommodé",
+      "nous": "eussions accommodé",
+      "vous": "eussiez accommodé",
+      "ils": "eussent accommodé"
+    },
+    "translation": "przyrządzać",
+    "group": 1
+  },
+  {
+    "infinitive": "accompagner",
+    "présent": {
+      "je": "accompagne",
+      "tu": "accompagnes",
+      "il": "accompagne",
+      "nous": "accompagnons",
+      "vous": "accompagnez",
+      "ils": "accompagnent"
+    },
+    "passé_composé": {
+      "je": "ai accompagné",
+      "tu": "as accompagné",
+      "il": "a accompagné",
+      "nous": "avons accompagné",
+      "vous": "avez accompagné",
+      "ils": "ont accompagné"
+    },
+    "imparfait": {
+      "je": "accompagnais",
+      "tu": "accompagnais",
+      "il": "accompagnait",
+      "nous": "accompagnions",
+      "vous": "accompagniez",
+      "ils": "accompagnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais accompagné",
+      "tu": "avais accompagné",
+      "il": "avait accompagné",
+      "nous": "avions accompagné",
+      "vous": "aviez accompagné",
+      "ils": "avaient accompagné"
+    },
+    "passé_simple": {
+      "je": "accompagnai",
+      "tu": "accompagnas",
+      "il": "accompagna",
+      "nous": "accompagnâmes",
+      "vous": "accompagnâtes",
+      "ils": "accompagnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus accompagné",
+      "tu": "eus accompagné",
+      "il": "eut accompagné",
+      "nous": "eûmes accompagné",
+      "vous": "eûtes accompagné",
+      "ils": "eurent accompagné"
+    },
+    "futur_simple": {
+      "je": "accompagnerai",
+      "tu": "accompagneras",
+      "il": "accompagnera",
+      "nous": "accompagnerons",
+      "vous": "accompagnerez",
+      "ils": "accompagneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai accompagné",
+      "tu": "auras accompagné",
+      "il": "aura accompagné",
+      "nous": "aurons accompagné",
+      "vous": "aurez accompagné",
+      "ils": "auront accompagné"
+    },
+    "subjonctif_présent": {
+      "je": "accompagne",
+      "tu": "accompagnes",
+      "il": "accompagne",
+      "nous": "accompagnions",
+      "vous": "accompagniez",
+      "ils": "accompagnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie accompagné",
+      "tu": "aies accompagné",
+      "il": "ait accompagné",
+      "nous": "ayons accompagné",
+      "vous": "ayez accompagné",
+      "ils": "aient accompagné"
+    },
+    "subjonctif_imparfait": {
+      "je": "accompagnasse",
+      "tu": "accompagnasses",
+      "il": "accompagnât",
+      "nous": "accompagnassions",
+      "vous": "accompagnassiez",
+      "ils": "accompagnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse accompagné",
+      "tu": "eusses accompagné",
+      "il": "eût accompagné",
+      "nous": "eussions accompagné",
+      "vous": "eussiez accompagné",
+      "ils": "eussent accompagné"
+    },
+    "conditionnel_présent": {
+      "je": "accompagnerais",
+      "tu": "accompagnerais",
+      "il": "accompagnerait",
+      "nous": "accompagnerions",
+      "vous": "accompagneriez",
+      "ils": "accompagneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais accompagné",
+      "tu": "aurais accompagné",
+      "il": "aurait accompagné",
+      "nous": "aurions accompagné",
+      "vous": "auriez accompagné",
+      "ils": "auraient accompagné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse accompagné",
+      "tu": "eusses accompagné",
+      "il": "eût accompagné",
+      "nous": "eussions accompagné",
+      "vous": "eussiez accompagné",
+      "ils": "eussent accompagné"
+    },
+    "translation": "towarzyszyć",
+    "group": 1
+  }
+]
