@@ -87,15 +87,15 @@ class VerbsController < ApplicationController
     @verbs_conj.each do |verb|
       v = Verb.new(:infinitive => verb[:infinitive], :translation => verb[:translation], :group => verb[:group])
       if v.save
-      @tenses.each_with_index do |tense, index|
-        @forms.each_with_index do |form, index2|
-          if(verb[tense][form].strip != '')
-            @form = Form.new(:content => verb[tense][form], :temp => index.to_i, :person => index2.to_i,:verb => v)
-            @form.save
+        @tenses.each_with_index do |tense, index|
+          @forms.each_with_index do |form, index2|
+            if(verb[tense][form].strip != '')
+              @form = Form.new(:content => verb[tense][form], :temp => index.to_i, :person => index2.to_i,:verb => v)
+              @form.save
+            end
           end
         end
       end
-    end
     end
     @verbs = Verb.all
     respond_to do |format|
@@ -113,6 +113,7 @@ class VerbsController < ApplicationController
           if(verb[tense][form].strip != '')
             @form = Form.new(:content => verb[tense][form], :temp => index.to_i, :person => index2.to_i,:verb => v)
             @form.save
+
           end
         end
       end

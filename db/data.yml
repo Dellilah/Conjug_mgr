@@ -1,0 +1,11 @@
+
+---
+verbs:
+  columns:
+  - id
+  - infinitive
+  - translation
+  - group
+  - created_at
+  - updated_at
+  records: 

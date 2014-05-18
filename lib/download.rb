@@ -3,45 +3,28 @@ module Download
 
   def download_conjugation(page)
     verbs = Array.new
+    verbs.push()
     @verbs_conj = Array.new
-
-    flag = 1
-    i = 53
 
     url = URI.parse("http://leconjugueur.lefigaro.fr/frlistedeverbe.php")
     @verbs_list = Nokogiri::HTML(open(url))
-    while flag == 1 do
-      a = @verbs_list.css('li a')[i]
-      if a
-        verbs.push(a.text)
-        i += 1
-      else
-        flag = 0
-      end
-
+    a = @verbs_list.css('#pop a')
+    a.each do |v|
+      verbs.push(v.text)
     end
 
-    verbs.shift
-
-    verbs.each_with_index do |verb, i|
-      @verbs_conj[i] = Hash.new
-      verb = verbs[((page.to_i - 1)*3)+i]
-      @verbs_conj[i] = download_verb_conjugation(verb)
-
-      if i > page.to_i*3
-        break
-      end
+    for i in 1..2
+      @verbs_conj[i-1] = Hash.new
+      verb = verbs[((page.to_i - 1)*2)+i]
+      @verbs_conj[i-1] = download_verb_conjugation(verb)
     end
+
   end
 
   def download_verb_conjugation(verb)
-    tenses = {présent: 6, passé_composé: 7, imparfait: 8, plus_que_parfait: 9, passé_simple: 10,  passé_antérieur: 11, futur_simple: 12,
-            futur_antérieur: 13, subjonctif_présent: 15,
-        subjonctif_passé: 16, subjonctif_imparfait: 17, subjonctif_plus_que_parfait: 18, conditionnel_présent: 20, conditionnel_passé_première: 21, conditionnel_passé_deuxième: 22}
-    forms = {je: 3, tu: 6, il: 9, nous: 12, vous: 15, ils: 18}
     ret = Hash.new
     ret[:infinitive] = verb
-    tenses.each do |key, tense|
+    @tenses.each do |key|
       ret[key] = Hash.new
     end
     v = verb.gsub(/[âäàéèêëîïôöûç]/, 'é' =>'e', 'è' =>'e', 'ë' =>'e', 'ê' =>'e','ä' => 'a','â' => 'a','à' => 'a',
@@ -49,11 +32,13 @@ module Download
     url = "http://leconjugueur.lefigaro.fr/conjugaison/verbe/#{v}.html"
     url_trans = "http://pl.pons.eu/francuski-polski/#{v}"
     @translation = Nokogiri::HTML(open(url_trans))
-    ret[:translation] = @translation.css('div.target a').children[1].text
+    ret[:translation] = @translation.css('div.dd-inner div.target a')[0].text
 
     @conjugation = Nokogiri::HTML(open(url))
-    groupe = @conjugation.css('td b').to_a
-    groupe = groupe[1].children[0].text
+    @conjugation.search('br').each do |n|
+      n.replace("\n")
+    end
+    groupe = @conjugation.css('div.verbe nav b').text
 
     a = case groupe
       when "premier groupe" then 1
@@ -64,14 +49,21 @@ module Download
 
     ret[:group] = a
 
-    t = @conjugation.css('td').to_a
-    tenses.each do |key, tense|
-      forms.each do |key2, form|
-        if t[tense].children.length < 18
+    #all blocks with conjugation
+    blocks = @conjugation.css('div.conjugBloc').to_a
+
+    @tenses.each_with_index do |tense, key|
+
+      # here we've got all forms for a particular tense
+      forms = blocks[key].css('p').to_a[1].text.split("\n")
+
+
+      @forms.each_with_index do |form, key2|
+        if forms[key2].length < 5
          temp = "-"
         else
           # Usuwanie form "je, j', tu..." oraz "que, qu'il"
-          temp = t[tense].children[form-1].text + t[tense].children[form].text
+          temp = forms[key2]
           temp.gsub!("que ", "")
           temp.gsub!("qu'", "")
           if temp.include? "'"
@@ -82,8 +74,7 @@ module Download
             temp = temp.join(" ")
           end
         end
-
-        ret[key][key2] = temp
+        ret[tense][form] = temp
       end
     end
     return ret
