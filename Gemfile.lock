@@ -26,6 +26,10 @@ GEM
       thread_safe (~> 0.1)
       tzinfo (~> 0.3.37)
     arel (4.0.2)
+    authlogic (3.4.2)
+      activerecord (>= 3.2)
+      activesupport (>= 3.2)
+      request_store (~> 1.0)
     builder (3.1.4)
     coffee-rails (4.0.1)
       coffee-script (>= 2.2.0)
@@ -51,7 +55,7 @@ GEM
     mime-types (1.25.1)
     mini_portile (0.6.0)
     minitest (4.7.5)
-    multi_json (1.10.0)
+    multi_json (1.10.1)
     nokogiri (1.6.2.1)
       mini_portile (= 0.6.0)
     polyglot (0.3.4)
@@ -74,6 +78,7 @@ GEM
     rake (10.3.2)
     rdoc (4.1.1)
       json (~> 1.4)
+    request_store (1.0.5)
     sass (3.2.19)
     sass-rails (4.0.3)
       railties (>= 4.0.0, < 5.0)
@@ -111,6 +116,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  authlogic
   coffee-rails (~> 4.0.0)
   jbuilder (~> 1.2)
   jquery-rails

@@ -1,11 +1,11 @@
 ConjugMgr::Application.routes.draw do
-  resources :users
-
   resources :repetitions
 
   resources :forms
 
   resources :verbs
+
+  root :to => "verbs#practice"
 
   get '/download/:page' => 'verbs#download'
 
