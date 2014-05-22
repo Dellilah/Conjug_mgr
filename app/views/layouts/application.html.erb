@@ -9,8 +9,14 @@
 <body>
 
   <div id="nav">
-        <%= link_to "Register", new_user_path%>
   </div>
+
+  <% if notice %>
+    <p class="alert alert-success"><%= notice %></p>
+  <% end %>
+  <% if alert %>
+    <p class="alert alert-danger"><%= alert %></p>
+  <% end %>
 
 <%= yield %>
 
