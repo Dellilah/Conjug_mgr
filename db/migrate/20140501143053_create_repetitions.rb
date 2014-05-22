@@ -2,9 +2,9 @@ class CreateRepetitions < ActiveRecord::Migration
   def self.up
     create_table :repetitions do |t|
       t.timestamp :last
-      t.integer :count
-      t.integer :mistake
-      t.integer :correct
+      t.integer :count, default: 0
+      t.integer :mistake, default: 0
+      t.integer :correct, default: 0
       t.references :form
       t.references :user
 

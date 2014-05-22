@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140520225721) do
+ActiveRecord::Schema.define(version: 20140522102131) do
 
   create_table "forms", force: true do |t|
     t.string   "content"
@@ -26,9 +26,9 @@ ActiveRecord::Schema.define(version: 20140520225721) do
 
   create_table "repetitions", force: true do |t|
     t.datetime "last"
-    t.integer  "count"
-    t.integer  "mistake"
-    t.integer  "correct"
+    t.integer  "count",      default: 1
+    t.integer  "mistake",    default: 0
+    t.integer  "correct",    default: 0
     t.integer  "form_id"
     t.integer  "user_id"
     t.datetime "created_at"
@@ -38,14 +38,22 @@ ActiveRecord::Schema.define(version: 20140520225721) do
   add_index "repetitions", ["form_id", "user_id"], name: "index_repetitions_on_form_id_and_user_id", unique: true
 
   create_table "users", force: true do |t|
-    t.string   "login"
-    t.string   "email"
+    t.string   "email",                  default: "", null: false
+    t.string   "encrypted_password",     default: "", null: false
+    t.string   "reset_password_token"
+    t.datetime "reset_password_sent_at"
+    t.datetime "remember_created_at"
+    t.integer  "sign_in_count",          default: 0,  null: false
+    t.datetime "current_sign_in_at"
+    t.datetime "last_sign_in_at"
+    t.string   "current_sign_in_ip"
+    t.string   "last_sign_in_ip"
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.string   "role"
-    t.string   "persistence_token"
-    t.string   "crypted_password"
   end
+
+  add_index "users", ["email"], name: "index_users_on_email", unique: true
+  add_index "users", ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true
 
   create_table "verbs", force: true do |t|
     t.string   "infinitive"

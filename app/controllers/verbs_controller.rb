@@ -1,6 +1,7 @@
 class VerbsController < ApplicationController
   before_action :set_verb, only: [:show, :edit, :update, :destroy]
   before_action :set_tenses, only: [:new, :create, :show, :edit, :update, :download, :download_from_json, :look_for_conj, :practice, :practice_draw, :check_form]
+  before_filter :authenticate_user!, :except => [:show, :practice, :practice_draw, :check_form]
 
   # GET /verbs
   # GET /verbs.json
@@ -203,11 +204,28 @@ class VerbsController < ApplicationController
 
     #check answer
     @answer = params[:answer]
-    @correct = Form.where(:temp => @t_old, :person => @p_old, :verb_id => @v_old).first.content
+    @full_form = Form.where(:temp => @t_old, :person => @p_old, :verb_id => @v_old).first
+    @correct = @full_form.content
     if @answer == @correct
       @result = 1
     else
       @result = 0
+    end
+
+    # for logges users - we've got to save their result
+    if current_user
+      @r = Repetition.where(:form_id => @full_form.id, :user_id => current_user.id).first
+      if @r
+        @r.count += 1
+      else
+        @r = Repetition.new(:form_id => @full_form.id, :user_id => current_user.id)
+      end
+      if @result == 1
+        @r.correct += 1
+      else
+        @r.mistake += 1
+      end
+      @r.save
     end
 
     #draw the new one - person, tense, verb
