@@ -84,29 +84,33 @@ class VerbsController < ApplicationController
   end
 
   def download
-    page = params[:page]
-    a = download_conjugation(page)
-    @verbs_conj.each do |verb|
-      v = Verb.new(:infinitive => verb[:infinitive], :translation => verb[:translation], :group => verb[:group])
-      if v.save
-        @tenses.each_with_index do |tense, index|
-          @forms.each_with_index do |form, index2|
-            if(verb[tense][form].strip != '')
-              @form = Form.new(:content => verb[tense][form], :temp => index.to_i, :person => index2.to_i,:verb => v)
-              @form.save
+    page = params[:page].to_i
+    # while page < 75 do
+      a = download_conjugation(page)
+      @verbs_conj.each do |verb|
+        v = Verb.new(:infinitive => verb[:infinitive], :translation => verb[:translation], :group => verb[:group])
+        if v.save
+          @tenses.each_with_index do |tense, index|
+            @forms.each_with_index do |form, index2|
+              if(verb[tense][form].strip != '')
+                @form = Form.new(:content => verb[tense][form], :temp => index.to_i, :person => index2.to_i,:verb => v)
+                @form.save
+              end
             end
           end
         end
       end
-    end
-    File.open("public/temp_#{page}.json","w") do |f|
-      f.write(JSON.pretty_generate(@verbs_conj))
-    end
+      File.open("public/temp_#{page}.json","w") do |f|
+        f.write(JSON.pretty_generate(@verbs_conj))
+      end
+      # page += 1
+    # end
     @verbs = Verb.all
     respond_to do |format|
       format.html{ render action: 'index'}
       format.json { head :no_content }
     end
+
   end
 
   def look_for_conj

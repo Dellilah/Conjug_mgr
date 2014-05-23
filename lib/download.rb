@@ -31,9 +31,12 @@ module Download
       'ô' =>'o','ö' =>'o','û' =>'u','ç' =>'c', 'î' =>'i','ï' =>'i')
     url = "http://leconjugueur.lefigaro.fr/conjugaison/verbe/#{v}.html"
     url_trans = "http://pl.pons.com/t%C5%82umaczenie/francuski-polski/#{v}"
-    @translation = Nokogiri::HTML(open(url_trans))
-    ret[:translation] = @translation.css('div.dd-inner div.target a')[0].text
-
+    @translation = Nokogiri::HTML(open(url_trans)).css('div.dd-inner div.target a')[0]
+    if @translation
+      ret[:translation] = @translation.text
+    else
+      ret[:translation] =''
+    end
     @conjugation = Nokogiri::HTML(open(url))
     @conjugation.search('br').each do |n|
       n.replace("\n")
