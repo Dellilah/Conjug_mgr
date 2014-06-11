@@ -1,7 +1,7 @@
 class VerbsController < ApplicationController
   before_action :set_verb, only: [:show, :edit, :update, :destroy]
   before_action :set_tenses, only: [:new, :create, :show, :edit, :update, :download, :download_from_json, :look_for_conj, :practice, :practice_draw, :check_form]
-  before_filter :authenticate_user!, :except => [:show, :practice, :practice_draw, :check_form]
+  before_filter :authenticate_user!, :except => [:show, :practice, :practice_draw, :check_form, :index]
 
   # GET /verbs
   # GET /verbs.json
@@ -85,26 +85,25 @@ class VerbsController < ApplicationController
 
   def download
     page = params[:page].to_i
-    # while page < 75 do
-      a = download_conjugation(page)
-      @verbs_conj.each do |verb|
-        v = Verb.new(:infinitive => verb[:infinitive], :translation => verb[:translation], :group => verb[:group])
-        if v.save
-          @tenses.each_with_index do |tense, index|
-            @forms.each_with_index do |form, index2|
-              if(verb[tense][form].strip != '')
-                @form = Form.new(:content => verb[tense][form], :temp => index.to_i, :person => index2.to_i,:verb => v)
-                @form.save
-              end
+
+    a = download_conjugation(page)
+    @verbs_conj.each do |verb|
+      v = Verb.new(:infinitive => verb[:infinitive], :translation => verb[:translation], :group => verb[:group])
+      if v.save
+        @tenses.each_with_index do |tense, index|
+          @forms.each_with_index do |form, index2|
+            if(verb[tense][form].strip != '')
+              @form = Form.new(:content => verb[tense][form], :temp => index.to_i, :person => index2.to_i,:verb => v)
+              @form.save
             end
           end
         end
       end
-      File.open("public/temp_#{page}.json","w") do |f|
-        f.write(JSON.pretty_generate(@verbs_conj))
-      end
-      # page += 1
-    # end
+    end
+    File.open("public/temp_#{page}.json","w") do |f|
+      f.write(JSON.pretty_generate(@verbs_conj))
+    end
+
     @verbs = Verb.all
     respond_to do |format|
       format.html{ render action: 'index'}
@@ -141,20 +140,23 @@ class VerbsController < ApplicationController
   def download_from_json
     page = params[:page]
 
-    file = File.read("public/temp_#{page}.json")
-    verbs_conj = JSON.parse(file)
-    verbs_conj.each do |verb|
-      v = Verb.new(:infinitive => verb["infinitive"], :translation => verb["translation"], :group => verb["group"])
-      if v.save
-        @tenses.each_with_index do |tense, index|
-          @forms.each_with_index do |form, index2|
-            if(verb[tense.to_s][form.to_s].strip != '')
-              @form = Form.new(:content => verb[tense.to_s][form.to_s], :temp => index.to_i, :person => index2.to_i,:verb => v)
-              @form.save
+    for i in 0..10
+      file = File.read("public/temp_#{page}.json")
+      verbs_conj = JSON.parse(file)
+      verbs_conj.each do |verb|
+        v = Verb.new(:infinitive => verb["infinitive"], :translation => verb["translation"], :group => verb["group"])
+        if v.save
+          @tenses.each_with_index do |tense, index|
+            @forms.each_with_index do |form, index2|
+              if(verb[tense.to_s][form.to_s].strip != '')
+                @form = Form.new(:content => verb[tense.to_s][form.to_s], :temp => index.to_i, :person => index2.to_i,:verb => v)
+                @form.save
+              end
             end
           end
         end
       end
+      page = page+1
     end
 
     @verbs = Verb.all
@@ -181,6 +183,11 @@ class VerbsController < ApplicationController
     @verbs_to_pr =  Verb.find(:all, :conditions =>
       ["(`group` IN (?) AND `infinitive` NOT IN (?)) OR `infinitive` IN (?) ",
       @gr_to_pr, @excl_to_pr, @add_to_pr ])
+
+    # if current_user
+    #   @forms_ids = Form.find(:all, :conditions =>
+    #     ["(`temp` IN (?) AND `verb_id` IN (?)"]
+    #     )
 
     #drawing - person, tense, verb
     @t = @tenses_to_pr.sample
@@ -210,7 +217,7 @@ class VerbsController < ApplicationController
     @answer = params[:answer]
     @full_form = Form.where(:temp => @t_old, :person => @p_old, :verb_id => @v_old).first
     @correct = @full_form.content
-    if @answer == @correct
+    if @answer ==  @correct
       @result = 1
     else
       @result = 0

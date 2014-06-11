@@ -14,8 +14,8 @@ module Download
     end
 
     for i in 1..10
-      @verbs_conj[i-1] = Hash.new
       verb = verbs[((page.to_i - 1)*10)+i]
+      @verbs_conj[i-1] = Hash.new
       @verbs_conj[i-1] = download_verb_conjugation(verb)
     end
 
