@@ -1,6 +1,6 @@
 <%= form_tag("/practice", method: "post") do %>
-  <div class="row step">
-    <b>Step I: Choose tenses</b><br/>
+  <div class="row step choose_tense">
+    <b>Step I: Choose tenses</b> <button type="button" id="uncheck_all" data-check="1"> Uncheck all </button><br/>
     <br>
     <% @tenses.each_with_index do |tense, index| %>
       <%= check_box_tag 'tenses['+tense.to_s+']', index, checked=true%> <%= tense.to_s.capitalize.gsub(/[_]/, ' ')%>
