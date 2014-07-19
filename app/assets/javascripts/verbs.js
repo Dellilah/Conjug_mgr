@@ -20,10 +20,14 @@ window.onload = function(){
 
       }
     }, false);
+
+
   };
 
   var chars = document.querySelectorAll("div#special_char button");
   var input_ans = document.getElementById("answer");
+  input_ans.focus();
+  input_ans.setAttribute("autocomplete", "off");
 
   var add_char = function(){
     var val = this.innerHTML;

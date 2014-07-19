@@ -171,6 +171,10 @@ class VerbsController < ApplicationController
 
   def practice_draw
 
+    if !defined? params[:tenses] || (!defined? params[:groupes] && @excl_to_pr.empty? && @add_to_pr.empty?)
+      puts "NIC NIE WYBRANO"
+    end
+
     @tenses_to_pr = Array.new()
     params[:tenses].each do |key, val|
       @tenses_to_pr.push(val)

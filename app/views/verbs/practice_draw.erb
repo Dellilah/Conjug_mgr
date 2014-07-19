@@ -16,7 +16,7 @@
 
 <h2>Verb: <%= @v.infinitive %> </h2>
 <h2>Tense: <%= @tenses[@t.to_i].to_s.capitalize.gsub(/[_]/, ' ') %>          </h2>
-<div>
+<!-- <div> -->
   <h2> <%= @forms[@p.to_i].to_s.capitalize %>: </h2>
   <%= form_tag("/check_form", method: "post") do %>
 
