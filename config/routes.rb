@@ -17,6 +17,8 @@ ConjugMgr::Application.routes.draw do
 
   post '/check_form' => 'verbs#check_form'
 
+  post '/search' => 'verbs#search'
+
   get '/look_for/:verb' => 'verbs#look_for_conj'
 
   # The priority is based upon order of creation: first created -> highest priority.

@@ -112,6 +112,24 @@ class VerbsController < ApplicationController
 
   end
 
+  def search
+    search_form = params[:search]
+    @forms = Form.find(:all, :conditions => ["content LIKE ?", "%#{search_form}%"])
+    @verbs = Array.new()
+    if @forms
+      @forms.each_with_index do |form, index|
+        v = Verb.find(form.verb_id)
+        if not @verbs.include?(v)
+          @verbs.push(v)
+        end
+      end
+    end
+    puts @verbs
+
+  end
+
+
+
   def look_for_conj
     verb = download_verb_conjugation(params[:verb])
     v = Verb.new(:infinitive => verb[:infinitive], :translation => verb[:translation], :group => verb[:group])
