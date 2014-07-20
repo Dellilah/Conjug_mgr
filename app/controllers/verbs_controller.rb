@@ -156,7 +156,7 @@ class VerbsController < ApplicationController
   end
 
   def download_from_json
-    page = params[:page]
+    page = params[:page].to_i
 
     for i in 0..10
       file = File.read("public/temp_#{page}.json")
