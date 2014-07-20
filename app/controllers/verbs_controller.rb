@@ -1,6 +1,6 @@
 class VerbsController < ApplicationController
   before_action :set_verb, only: [:show, :edit, :update, :destroy]
-  before_action :set_tenses, only: [:new, :create, :show, :edit, :update, :download, :download_from_json, :look_for_conj, :practice, :practice_draw, :check_form]
+  before_action :set_tenses, only: [:new, :create, :show, :edit, :update, :download, :download_from_json, :look_for_conj, :practice, :practice_draw, :check_form, :search]
   before_filter :authenticate_user!, :except => [:show, :practice, :practice_draw, :check_form, :index]
 
   # GET /verbs
@@ -113,19 +113,35 @@ class VerbsController < ApplicationController
   end
 
   def search
-    search_form = params[:search]
-    @forms = Form.find(:all, :conditions => ["content LIKE ?", "%#{search_form}%"])
-    @verbs = Array.new()
-    if @forms
-      @forms.each_with_index do |form, index|
-        v = Verb.find(form.verb_id)
-        if not @verbs.include?(v)
-          @verbs.push(v)
-        end
+    @search_form = params[:search]
+    exact_forms = Form.where(content: @search_form)
+    similar_forms = Form.find(:all, :conditions => ["content LIKE ?", "%#{@search_form}%"])
+    similar_forms = similar_forms - exact_forms
+    # Posilkowe!!!
+    # dokladne dopasowania <=> dopasowania "podobne"
+    @exact_verbs = Array.new()
+    @similar_verbs = Array.new()
+
+    if exact_forms
+      exact_forms.each_with_index do |form, index|
+        # We need to know which verb and which tense is it
+        v = Array.new()
+        v.push(Verb.find(form.verb_id))
+        v.push(@tenses[form.temp])
+        v.push(@forms[form.person].to_s + " " +form.content)
+        @exact_verbs.push(v)
       end
     end
-    puts @verbs
-
+    if similar_forms
+      similar_forms.each_with_index do |form, index|
+        v = Array.new()
+        v.push(Verb.find(form.verb_id))
+        v.push(@tenses[form.temp])
+        v.push(@forms[form.person].to_s + " " +form.content)
+        @similar_verbs.push(v)
+      end
+    end
+    
   end
 
 
