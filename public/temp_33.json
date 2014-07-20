@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "caracoler",
+    "présent": {
+      "je": "caracole",
+      "tu": "caracoles",
+      "il": "caracole",
+      "nous": "caracolons",
+      "vous": "caracolez",
+      "ils": "caracolent"
+    },
+    "passé_composé": {
+      "je": "ai caracolé",
+      "tu": "as caracolé",
+      "il": "a caracolé",
+      "nous": "avons caracolé",
+      "vous": "avez caracolé",
+      "ils": "ont caracolé"
+    },
+    "imparfait": {
+      "je": "caracolais",
+      "tu": "caracolais",
+      "il": "caracolait",
+      "nous": "caracolions",
+      "vous": "caracoliez",
+      "ils": "caracolaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais caracolé",
+      "tu": "avais caracolé",
+      "il": "avait caracolé",
+      "nous": "avions caracolé",
+      "vous": "aviez caracolé",
+      "ils": "avaient caracolé"
+    },
+    "passé_simple": {
+      "je": "caracolai",
+      "tu": "caracolas",
+      "il": "caracola",
+      "nous": "caracolâmes",
+      "vous": "caracolâtes",
+      "ils": "caracolèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus caracolé",
+      "tu": "eus caracolé",
+      "il": "eut caracolé",
+      "nous": "eûmes caracolé",
+      "vous": "eûtes caracolé",
+      "ils": "eurent caracolé"
+    },
+    "futur_simple": {
+      "je": "caracolerai",
+      "tu": "caracoleras",
+      "il": "caracolera",
+      "nous": "caracolerons",
+      "vous": "caracolerez",
+      "ils": "caracoleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai caracolé",
+      "tu": "auras caracolé",
+      "il": "aura caracolé",
+      "nous": "aurons caracolé",
+      "vous": "aurez caracolé",
+      "ils": "auront caracolé"
+    },
+    "subjonctif_présent": {
+      "je": "caracole",
+      "tu": "caracoles",
+      "il": "caracole",
+      "nous": "caracolions",
+      "vous": "caracoliez",
+      "ils": "caracolent"
+    },
+    "subjonctif_passé": {
+      "je": "aie caracolé",
+      "tu": "aies caracolé",
+      "il": "ait caracolé",
+      "nous": "ayons caracolé",
+      "vous": "ayez caracolé",
+      "ils": "aient caracolé"
+    },
+    "subjonctif_imparfait": {
+      "je": "caracolasse",
+      "tu": "caracolasses",
+      "il": "caracolât",
+      "nous": "caracolassions",
+      "vous": "caracolassiez",
+      "ils": "caracolassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse caracolé",
+      "tu": "eusses caracolé",
+      "il": "eût caracolé",
+      "nous": "eussions caracolé",
+      "vous": "eussiez caracolé",
+      "ils": "eussent caracolé"
+    },
+    "conditionnel_présent": {
+      "je": "caracolerais",
+      "tu": "caracolerais",
+      "il": "caracolerait",
+      "nous": "caracolerions",
+      "vous": "caracoleriez",
+      "ils": "caracoleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais caracolé",
+      "tu": "aurais caracolé",
+      "il": "aurait caracolé",
+      "nous": "aurions caracolé",
+      "vous": "auriez caracolé",
+      "ils": "auraient caracolé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse caracolé",
+      "tu": "eusses caracolé",
+      "il": "eût caracolé",
+      "nous": "eussions caracolé",
+      "vous": "eussiez caracolé",
+      "ils": "eussent caracolé"
+    },
+    "translation": "werbować",
+    "group": 1
+  },
+  {
+    "infinitive": "caractériser",
+    "présent": {
+      "je": "caractérise",
+      "tu": "caractérises",
+      "il": "caractérise",
+      "nous": "caractérisons",
+      "vous": "caractérisez",
+      "ils": "caractérisent"
+    },
+    "passé_composé": {
+      "je": "ai caractérisé",
+      "tu": "as caractérisé",
+      "il": "a caractérisé",
+      "nous": "avons caractérisé",
+      "vous": "avez caractérisé",
+      "ils": "ont caractérisé"
+    },
+    "imparfait": {
+      "je": "caractérisais",
+      "tu": "caractérisais",
+      "il": "caractérisait",
+      "nous": "caractérisions",
+      "vous": "caractérisiez",
+      "ils": "caractérisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais caractérisé",
+      "tu": "avais caractérisé",
+      "il": "avait caractérisé",
+      "nous": "avions caractérisé",
+      "vous": "aviez caractérisé",
+      "ils": "avaient caractérisé"
+    },
+    "passé_simple": {
+      "je": "caractérisai",
+      "tu": "caractérisas",
+      "il": "caractérisa",
+      "nous": "caractérisâmes",
+      "vous": "caractérisâtes",
+      "ils": "caractérisèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus caractérisé",
+      "tu": "eus caractérisé",
+      "il": "eut caractérisé",
+      "nous": "eûmes caractérisé",
+      "vous": "eûtes caractérisé",
+      "ils": "eurent caractérisé"
+    },
+    "futur_simple": {
+      "je": "caractériserai",
+      "tu": "caractériseras",
+      "il": "caractérisera",
+      "nous": "caractériserons",
+      "vous": "caractériserez",
+      "ils": "caractériseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai caractérisé",
+      "tu": "auras caractérisé",
+      "il": "aura caractérisé",
+      "nous": "aurons caractérisé",
+      "vous": "aurez caractérisé",
+      "ils": "auront caractérisé"
+    },
+    "subjonctif_présent": {
+      "je": "caractérise",
+      "tu": "caractérises",
+      "il": "caractérise",
+      "nous": "caractérisions",
+      "vous": "caractérisiez",
+      "ils": "caractérisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie caractérisé",
+      "tu": "aies caractérisé",
+      "il": "ait caractérisé",
+      "nous": "ayons caractérisé",
+      "vous": "ayez caractérisé",
+      "ils": "aient caractérisé"
+    },
+    "subjonctif_imparfait": {
+      "je": "caractérisasse",
+      "tu": "caractérisasses",
+      "il": "caractérisât",
+      "nous": "caractérisassions",
+      "vous": "caractérisassiez",
+      "ils": "caractérisassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse caractérisé",
+      "tu": "eusses caractérisé",
+      "il": "eût caractérisé",
+      "nous": "eussions caractérisé",
+      "vous": "eussiez caractérisé",
+      "ils": "eussent caractérisé"
+    },
+    "conditionnel_présent": {
+      "je": "caractériserais",
+      "tu": "caractériserais",
+      "il": "caractériserait",
+      "nous": "caractériserions",
+      "vous": "caractériseriez",
+      "ils": "caractériseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais caractérisé",
+      "tu": "aurais caractérisé",
+      "il": "aurait caractérisé",
+      "nous": "aurions caractérisé",
+      "vous": "auriez caractérisé",
+      "ils": "auraient caractérisé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse caractérisé",
+      "tu": "eusses caractérisé",
+      "il": "eût caractérisé",
+      "nous": "eussions caractérisé",
+      "vous": "eussiez caractérisé",
+      "ils": "eussent caractérisé"
+    },
+    "translation": "charakteryzować",
+    "group": 1
+  },
+  {
+    "infinitive": "caresser",
+    "présent": {
+      "je": "caresse",
+      "tu": "caresses",
+      "il": "caresse",
+      "nous": "caressons",
+      "vous": "caressez",
+      "ils": "caressent"
+    },
+    "passé_composé": {
+      "je": "ai caressé",
+      "tu": "as caressé",
+      "il": "a caressé",
+      "nous": "avons caressé",
+      "vous": "avez caressé",
+      "ils": "ont caressé"
+    },
+    "imparfait": {
+      "je": "caressais",
+      "tu": "caressais",
+      "il": "caressait",
+      "nous": "caressions",
+      "vous": "caressiez",
+      "ils": "caressaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais caressé",
+      "tu": "avais caressé",
+      "il": "avait caressé",
+      "nous": "avions caressé",
+      "vous": "aviez caressé",
+      "ils": "avaient caressé"
+    },
+    "passé_simple": {
+      "je": "caressai",
+      "tu": "caressas",
+      "il": "caressa",
+      "nous": "caressâmes",
+      "vous": "caressâtes",
+      "ils": "caressèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus caressé",
+      "tu": "eus caressé",
+      "il": "eut caressé",
+      "nous": "eûmes caressé",
+      "vous": "eûtes caressé",
+      "ils": "eurent caressé"
+    },
+    "futur_simple": {
+      "je": "caresserai",
+      "tu": "caresseras",
+      "il": "caressera",
+      "nous": "caresserons",
+      "vous": "caresserez",
+      "ils": "caresseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai caressé",
+      "tu": "auras caressé",
+      "il": "aura caressé",
+      "nous": "aurons caressé",
+      "vous": "aurez caressé",
+      "ils": "auront caressé"
+    },
+    "subjonctif_présent": {
+      "je": "caresse",
+      "tu": "caresses",
+      "il": "caresse",
+      "nous": "caressions",
+      "vous": "caressiez",
+      "ils": "caressent"
+    },
+    "subjonctif_passé": {
+      "je": "aie caressé",
+      "tu": "aies caressé",
+      "il": "ait caressé",
+      "nous": "ayons caressé",
+      "vous": "ayez caressé",
+      "ils": "aient caressé"
+    },
+    "subjonctif_imparfait": {
+      "je": "caressasse",
+      "tu": "caressasses",
+      "il": "caressât",
+      "nous": "caressassions",
+      "vous": "caressassiez",
+      "ils": "caressassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse caressé",
+      "tu": "eusses caressé",
+      "il": "eût caressé",
+      "nous": "eussions caressé",
+      "vous": "eussiez caressé",
+      "ils": "eussent caressé"
+    },
+    "conditionnel_présent": {
+      "je": "caresserais",
+      "tu": "caresserais",
+      "il": "caresserait",
+      "nous": "caresserions",
+      "vous": "caresseriez",
+      "ils": "caresseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais caressé",
+      "tu": "aurais caressé",
+      "il": "aurait caressé",
+      "nous": "aurions caressé",
+      "vous": "auriez caressé",
+      "ils": "auraient caressé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse caressé",
+      "tu": "eusses caressé",
+      "il": "eût caressé",
+      "nous": "eussions caressé",
+      "vous": "eussiez caressé",
+      "ils": "eussent caressé"
+    },
+    "translation": "pieścić",
+    "group": 1
+  },
+  {
+    "infinitive": "carreler",
+    "présent": {
+      "je": "carrelle",
+      "tu": "carrelles",
+      "il": "carrelle",
+      "nous": "carrelons",
+      "vous": "carrelez",
+      "ils": "carrellent"
+    },
+    "passé_composé": {
+      "je": "ai carrelé",
+      "tu": "as carrelé",
+      "il": "a carrelé",
+      "nous": "avons carrelé",
+      "vous": "avez carrelé",
+      "ils": "ont carrelé"
+    },
+    "imparfait": {
+      "je": "carrelais",
+      "tu": "carrelais",
+      "il": "carrelait",
+      "nous": "carrelions",
+      "vous": "carreliez",
+      "ils": "carrelaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais carrelé",
+      "tu": "avais carrelé",
+      "il": "avait carrelé",
+      "nous": "avions carrelé",
+      "vous": "aviez carrelé",
+      "ils": "avaient carrelé"
+    },
+    "passé_simple": {
+      "je": "carrelai",
+      "tu": "carrelas",
+      "il": "carrela",
+      "nous": "carrelâmes",
+      "vous": "carrelâtes",
+      "ils": "carrelèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus carrelé",
+      "tu": "eus carrelé",
+      "il": "eut carrelé",
+      "nous": "eûmes carrelé",
+      "vous": "eûtes carrelé",
+      "ils": "eurent carrelé"
+    },
+    "futur_simple": {
+      "je": "carrellerai",
+      "tu": "carrelleras",
+      "il": "carrellera",
+      "nous": "carrellerons",
+      "vous": "carrellerez",
+      "ils": "carrelleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai carrelé",
+      "tu": "auras carrelé",
+      "il": "aura carrelé",
+      "nous": "aurons carrelé",
+      "vous": "aurez carrelé",
+      "ils": "auront carrelé"
+    },
+    "subjonctif_présent": {
+      "je": "carrelle",
+      "tu": "carrelles",
+      "il": "carrelle",
+      "nous": "carrelions",
+      "vous": "carreliez",
+      "ils": "carrellent"
+    },
+    "subjonctif_passé": {
+      "je": "aie carrelé",
+      "tu": "aies carrelé",
+      "il": "ait carrelé",
+      "nous": "ayons carrelé",
+      "vous": "ayez carrelé",
+      "ils": "aient carrelé"
+    },
+    "subjonctif_imparfait": {
+      "je": "carrelasse",
+      "tu": "carrelasses",
+      "il": "carrelât",
+      "nous": "carrelassions",
+      "vous": "carrelassiez",
+      "ils": "carrelassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse carrelé",
+      "tu": "eusses carrelé",
+      "il": "eût carrelé",
+      "nous": "eussions carrelé",
+      "vous": "eussiez carrelé",
+      "ils": "eussent carrelé"
+    },
+    "conditionnel_présent": {
+      "je": "carrellerais",
+      "tu": "carrellerais",
+      "il": "carrellerait",
+      "nous": "carrellerions",
+      "vous": "carrelleriez",
+      "ils": "carrelleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais carrelé",
+      "tu": "aurais carrelé",
+      "il": "aurait carrelé",
+      "nous": "aurions carrelé",
+      "vous": "auriez carrelé",
+      "ils": "auraient carrelé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse carrelé",
+      "tu": "eusses carrelé",
+      "il": "eût carrelé",
+      "nous": "eussions carrelé",
+      "vous": "eussiez carrelé",
+      "ils": "eussent carrelé"
+    },
+    "translation": "wykładać",
+    "group": 1
+  },
+  {
+    "infinitive": "caser",
+    "présent": {
+      "je": "case",
+      "tu": "cases",
+      "il": "case",
+      "nous": "casons",
+      "vous": "casez",
+      "ils": "casent"
+    },
+    "passé_composé": {
+      "je": "ai casé",
+      "tu": "as casé",
+      "il": "a casé",
+      "nous": "avons casé",
+      "vous": "avez casé",
+      "ils": "ont casé"
+    },
+    "imparfait": {
+      "je": "casais",
+      "tu": "casais",
+      "il": "casait",
+      "nous": "casions",
+      "vous": "casiez",
+      "ils": "casaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais casé",
+      "tu": "avais casé",
+      "il": "avait casé",
+      "nous": "avions casé",
+      "vous": "aviez casé",
+      "ils": "avaient casé"
+    },
+    "passé_simple": {
+      "je": "casai",
+      "tu": "casas",
+      "il": "casa",
+      "nous": "casâmes",
+      "vous": "casâtes",
+      "ils": "casèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus casé",
+      "tu": "eus casé",
+      "il": "eut casé",
+      "nous": "eûmes casé",
+      "vous": "eûtes casé",
+      "ils": "eurent casé"
+    },
+    "futur_simple": {
+      "je": "caserai",
+      "tu": "caseras",
+      "il": "casera",
+      "nous": "caserons",
+      "vous": "caserez",
+      "ils": "caseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai casé",
+      "tu": "auras casé",
+      "il": "aura casé",
+      "nous": "aurons casé",
+      "vous": "aurez casé",
+      "ils": "auront casé"
+    },
+    "subjonctif_présent": {
+      "je": "case",
+      "tu": "cases",
+      "il": "case",
+      "nous": "casions",
+      "vous": "casiez",
+      "ils": "casent"
+    },
+    "subjonctif_passé": {
+      "je": "aie casé",
+      "tu": "aies casé",
+      "il": "ait casé",
+      "nous": "ayons casé",
+      "vous": "ayez casé",
+      "ils": "aient casé"
+    },
+    "subjonctif_imparfait": {
+      "je": "casasse",
+      "tu": "casasses",
+      "il": "casât",
+      "nous": "casassions",
+      "vous": "casassiez",
+      "ils": "casassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse casé",
+      "tu": "eusses casé",
+      "il": "eût casé",
+      "nous": "eussions casé",
+      "vous": "eussiez casé",
+      "ils": "eussent casé"
+    },
+    "conditionnel_présent": {
+      "je": "caserais",
+      "tu": "caserais",
+      "il": "caserait",
+      "nous": "caserions",
+      "vous": "caseriez",
+      "ils": "caseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais casé",
+      "tu": "aurais casé",
+      "il": "aurait casé",
+      "nous": "aurions casé",
+      "vous": "auriez casé",
+      "ils": "auraient casé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse casé",
+      "tu": "eusses casé",
+      "il": "eût casé",
+      "nous": "eussions casé",
+      "vous": "eussiez casé",
+      "ils": "eussent casé"
+    },
+    "translation": "układać",
+    "group": 1
+  },
+  {
+    "infinitive": "casser",
+    "présent": {
+      "je": "casse",
+      "tu": "casses",
+      "il": "casse",
+      "nous": "cassons",
+      "vous": "cassez",
+      "ils": "cassent"
+    },
+    "passé_composé": {
+      "je": "ai cassé",
+      "tu": "as cassé",
+      "il": "a cassé",
+      "nous": "avons cassé",
+      "vous": "avez cassé",
+      "ils": "ont cassé"
+    },
+    "imparfait": {
+      "je": "cassais",
+      "tu": "cassais",
+      "il": "cassait",
+      "nous": "cassions",
+      "vous": "cassiez",
+      "ils": "cassaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais cassé",
+      "tu": "avais cassé",
+      "il": "avait cassé",
+      "nous": "avions cassé",
+      "vous": "aviez cassé",
+      "ils": "avaient cassé"
+    },
+    "passé_simple": {
+      "je": "cassai",
+      "tu": "cassas",
+      "il": "cassa",
+      "nous": "cassâmes",
+      "vous": "cassâtes",
+      "ils": "cassèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus cassé",
+      "tu": "eus cassé",
+      "il": "eut cassé",
+      "nous": "eûmes cassé",
+      "vous": "eûtes cassé",
+      "ils": "eurent cassé"
+    },
+    "futur_simple": {
+      "je": "casserai",
+      "tu": "casseras",
+      "il": "cassera",
+      "nous": "casserons",
+      "vous": "casserez",
+      "ils": "casseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai cassé",
+      "tu": "auras cassé",
+      "il": "aura cassé",
+      "nous": "aurons cassé",
+      "vous": "aurez cassé",
+      "ils": "auront cassé"
+    },
+    "subjonctif_présent": {
+      "je": "casse",
+      "tu": "casses",
+      "il": "casse",
+      "nous": "cassions",
+      "vous": "cassiez",
+      "ils": "cassent"
+    },
+    "subjonctif_passé": {
+      "je": "aie cassé",
+      "tu": "aies cassé",
+      "il": "ait cassé",
+      "nous": "ayons cassé",
+      "vous": "ayez cassé",
+      "ils": "aient cassé"
+    },
+    "subjonctif_imparfait": {
+      "je": "cassasse",
+      "tu": "cassasses",
+      "il": "cassât",
+      "nous": "cassassions",
+      "vous": "cassassiez",
+      "ils": "cassassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse cassé",
+      "tu": "eusses cassé",
+      "il": "eût cassé",
+      "nous": "eussions cassé",
+      "vous": "eussiez cassé",
+      "ils": "eussent cassé"
+    },
+    "conditionnel_présent": {
+      "je": "casserais",
+      "tu": "casserais",
+      "il": "casserait",
+      "nous": "casserions",
+      "vous": "casseriez",
+      "ils": "casseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais cassé",
+      "tu": "aurais cassé",
+      "il": "aurait cassé",
+      "nous": "aurions cassé",
+      "vous": "auriez cassé",
+      "ils": "auraient cassé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse cassé",
+      "tu": "eusses cassé",
+      "il": "eût cassé",
+      "nous": "eussions cassé",
+      "vous": "eussiez cassé",
+      "ils": "eussent cassé"
+    },
+    "translation": "stłuc",
+    "group": 1
+  },
+  {
+    "infinitive": "causer",
+    "présent": {
+      "je": "cause",
+      "tu": "causes",
+      "il": "cause",
+      "nous": "causons",
+      "vous": "causez",
+      "ils": "causent"
+    },
+    "passé_composé": {
+      "je": "ai causé",
+      "tu": "as causé",
+      "il": "a causé",
+      "nous": "avons causé",
+      "vous": "avez causé",
+      "ils": "ont causé"
+    },
+    "imparfait": {
+      "je": "causais",
+      "tu": "causais",
+      "il": "causait",
+      "nous": "causions",
+      "vous": "causiez",
+      "ils": "causaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais causé",
+      "tu": "avais causé",
+      "il": "avait causé",
+      "nous": "avions causé",
+      "vous": "aviez causé",
+      "ils": "avaient causé"
+    },
+    "passé_simple": {
+      "je": "causai",
+      "tu": "causas",
+      "il": "causa",
+      "nous": "causâmes",
+      "vous": "causâtes",
+      "ils": "causèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus causé",
+      "tu": "eus causé",
+      "il": "eut causé",
+      "nous": "eûmes causé",
+      "vous": "eûtes causé",
+      "ils": "eurent causé"
+    },
+    "futur_simple": {
+      "je": "causerai",
+      "tu": "causeras",
+      "il": "causera",
+      "nous": "causerons",
+      "vous": "causerez",
+      "ils": "causeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai causé",
+      "tu": "auras causé",
+      "il": "aura causé",
+      "nous": "aurons causé",
+      "vous": "aurez causé",
+      "ils": "auront causé"
+    },
+    "subjonctif_présent": {
+      "je": "cause",
+      "tu": "causes",
+      "il": "cause",
+      "nous": "causions",
+      "vous": "causiez",
+      "ils": "causent"
+    },
+    "subjonctif_passé": {
+      "je": "aie causé",
+      "tu": "aies causé",
+      "il": "ait causé",
+      "nous": "ayons causé",
+      "vous": "ayez causé",
+      "ils": "aient causé"
+    },
+    "subjonctif_imparfait": {
+      "je": "causasse",
+      "tu": "causasses",
+      "il": "causât",
+      "nous": "causassions",
+      "vous": "causassiez",
+      "ils": "causassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse causé",
+      "tu": "eusses causé",
+      "il": "eût causé",
+      "nous": "eussions causé",
+      "vous": "eussiez causé",
+      "ils": "eussent causé"
+    },
+    "conditionnel_présent": {
+      "je": "causerais",
+      "tu": "causerais",
+      "il": "causerait",
+      "nous": "causerions",
+      "vous": "causeriez",
+      "ils": "causeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais causé",
+      "tu": "aurais causé",
+      "il": "aurait causé",
+      "nous": "aurions causé",
+      "vous": "auriez causé",
+      "ils": "auraient causé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse causé",
+      "tu": "eusses causé",
+      "il": "eût causé",
+      "nous": "eussions causé",
+      "vous": "eussiez causé",
+      "ils": "eussent causé"
+    },
+    "translation": "powodować",
+    "group": 1
+  },
+  {
+    "infinitive": "caver",
+    "présent": {
+      "je": "cave",
+      "tu": "caves",
+      "il": "cave",
+      "nous": "cavons",
+      "vous": "cavez",
+      "ils": "cavent"
+    },
+    "passé_composé": {
+      "je": "ai cavé",
+      "tu": "as cavé",
+      "il": "a cavé",
+      "nous": "avons cavé",
+      "vous": "avez cavé",
+      "ils": "ont cavé"
+    },
+    "imparfait": {
+      "je": "cavais",
+      "tu": "cavais",
+      "il": "cavait",
+      "nous": "cavions",
+      "vous": "caviez",
+      "ils": "cavaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais cavé",
+      "tu": "avais cavé",
+      "il": "avait cavé",
+      "nous": "avions cavé",
+      "vous": "aviez cavé",
+      "ils": "avaient cavé"
+    },
+    "passé_simple": {
+      "je": "cavai",
+      "tu": "cavas",
+      "il": "cava",
+      "nous": "cavâmes",
+      "vous": "cavâtes",
+      "ils": "cavèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus cavé",
+      "tu": "eus cavé",
+      "il": "eut cavé",
+      "nous": "eûmes cavé",
+      "vous": "eûtes cavé",
+      "ils": "eurent cavé"
+    },
+    "futur_simple": {
+      "je": "caverai",
+      "tu": "caveras",
+      "il": "cavera",
+      "nous": "caverons",
+      "vous": "caverez",
+      "ils": "caveront"
+    },
+    "futur_antérieur": {
+      "je": "aurai cavé",
+      "tu": "auras cavé",
+      "il": "aura cavé",
+      "nous": "aurons cavé",
+      "vous": "aurez cavé",
+      "ils": "auront cavé"
+    },
+    "subjonctif_présent": {
+      "je": "cave",
+      "tu": "caves",
+      "il": "cave",
+      "nous": "cavions",
+      "vous": "caviez",
+      "ils": "cavent"
+    },
+    "subjonctif_passé": {
+      "je": "aie cavé",
+      "tu": "aies cavé",
+      "il": "ait cavé",
+      "nous": "ayons cavé",
+      "vous": "ayez cavé",
+      "ils": "aient cavé"
+    },
+    "subjonctif_imparfait": {
+      "je": "cavasse",
+      "tu": "cavasses",
+      "il": "cavât",
+      "nous": "cavassions",
+      "vous": "cavassiez",
+      "ils": "cavassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse cavé",
+      "tu": "eusses cavé",
+      "il": "eût cavé",
+      "nous": "eussions cavé",
+      "vous": "eussiez cavé",
+      "ils": "eussent cavé"
+    },
+    "conditionnel_présent": {
+      "je": "caverais",
+      "tu": "caverais",
+      "il": "caverait",
+      "nous": "caverions",
+      "vous": "caveriez",
+      "ils": "caveraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais cavé",
+      "tu": "aurais cavé",
+      "il": "aurait cavé",
+      "nous": "aurions cavé",
+      "vous": "auriez cavé",
+      "ils": "auraient cavé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse cavé",
+      "tu": "eusses cavé",
+      "il": "eût cavé",
+      "nous": "eussions cavé",
+      "vous": "eussiez cavé",
+      "ils": "eussent cavé"
+    },
+    "translation": "ślinić",
+    "group": 1
+  },
+  {
+    "infinitive": "céder",
+    "présent": {
+      "je": "cède",
+      "tu": "cèdes",
+      "il": "cède",
+      "nous": "cédons",
+      "vous": "cédez",
+      "ils": "cèdent"
+    },
+    "passé_composé": {
+      "je": "ai cédé",
+      "tu": "as cédé",
+      "il": "a cédé",
+      "nous": "avons cédé",
+      "vous": "avez cédé",
+      "ils": "ont cédé"
+    },
+    "imparfait": {
+      "je": "cédais",
+      "tu": "cédais",
+      "il": "cédait",
+      "nous": "cédions",
+      "vous": "cédiez",
+      "ils": "cédaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais cédé",
+      "tu": "avais cédé",
+      "il": "avait cédé",
+      "nous": "avions cédé",
+      "vous": "aviez cédé",
+      "ils": "avaient cédé"
+    },
+    "passé_simple": {
+      "je": "cédai",
+      "tu": "cédas",
+      "il": "céda",
+      "nous": "cédâmes",
+      "vous": "cédâtes",
+      "ils": "cédèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus cédé",
+      "tu": "eus cédé",
+      "il": "eut cédé",
+      "nous": "eûmes cédé",
+      "vous": "eûtes cédé",
+      "ils": "eurent cédé"
+    },
+    "futur_simple": {
+      "je": "céderai",
+      "tu": "céderas",
+      "il": "cédera",
+      "nous": "céderons",
+      "vous": "céderez",
+      "ils": "céderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai cédé",
+      "tu": "auras cédé",
+      "il": "aura cédé",
+      "nous": "aurons cédé",
+      "vous": "aurez cédé",
+      "ils": "auront cédé"
+    },
+    "subjonctif_présent": {
+      "je": "cède",
+      "tu": "cèdes",
+      "il": "cède",
+      "nous": "cédions",
+      "vous": "cédiez",
+      "ils": "cèdent"
+    },
+    "subjonctif_passé": {
+      "je": "aie cédé",
+      "tu": "aies cédé",
+      "il": "ait cédé",
+      "nous": "ayons cédé",
+      "vous": "ayez cédé",
+      "ils": "aient cédé"
+    },
+    "subjonctif_imparfait": {
+      "je": "cédasse",
+      "tu": "cédasses",
+      "il": "cédât",
+      "nous": "cédassions",
+      "vous": "cédassiez",
+      "ils": "cédassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse cédé",
+      "tu": "eusses cédé",
+      "il": "eût cédé",
+      "nous": "eussions cédé",
+      "vous": "eussiez cédé",
+      "ils": "eussent cédé"
+    },
+    "conditionnel_présent": {
+      "je": "céderais",
+      "tu": "céderais",
+      "il": "céderait",
+      "nous": "céderions",
+      "vous": "céderiez",
+      "ils": "céderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais cédé",
+      "tu": "aurais cédé",
+      "il": "aurait cédé",
+      "nous": "aurions cédé",
+      "vous": "auriez cédé",
+      "ils": "auraient cédé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse cédé",
+      "tu": "eusses cédé",
+      "il": "eût cédé",
+      "nous": "eussions cédé",
+      "vous": "eussiez cédé",
+      "ils": "eussent cédé"
+    },
+    "translation": "ustępować",
+    "group": 1
+  },
+  {
+    "infinitive": "ceindre",
+    "présent": {
+      "je": "ceins",
+      "tu": "ceins",
+      "il": "ceint",
+      "nous": "ceignons",
+      "vous": "ceignez",
+      "ils": "ceignent"
+    },
+    "passé_composé": {
+      "je": "ai ceint",
+      "tu": "as ceint",
+      "il": "a ceint",
+      "nous": "avons ceint",
+      "vous": "avez ceint",
+      "ils": "ont ceint"
+    },
+    "imparfait": {
+      "je": "ceignais",
+      "tu": "ceignais",
+      "il": "ceignait",
+      "nous": "ceignions",
+      "vous": "ceigniez",
+      "ils": "ceignaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ceint",
+      "tu": "avais ceint",
+      "il": "avait ceint",
+      "nous": "avions ceint",
+      "vous": "aviez ceint",
+      "ils": "avaient ceint"
+    },
+    "passé_simple": {
+      "je": "ceignis",
+      "tu": "ceignis",
+      "il": "ceignit",
+      "nous": "ceignîmes",
+      "vous": "ceignîtes",
+      "ils": "ceignirent"
+    },
+    "passé_antérieur": {
+      "je": "eus ceint",
+      "tu": "eus ceint",
+      "il": "eut ceint",
+      "nous": "eûmes ceint",
+      "vous": "eûtes ceint",
+      "ils": "eurent ceint"
+    },
+    "futur_simple": {
+      "je": "ceindrai",
+      "tu": "ceindras",
+      "il": "ceindra",
+      "nous": "ceindrons",
+      "vous": "ceindrez",
+      "ils": "ceindront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ceint",
+      "tu": "auras ceint",
+      "il": "aura ceint",
+      "nous": "aurons ceint",
+      "vous": "aurez ceint",
+      "ils": "auront ceint"
+    },
+    "subjonctif_présent": {
+      "je": "ceigne",
+      "tu": "ceignes",
+      "il": "ceigne",
+      "nous": "ceignions",
+      "vous": "ceigniez",
+      "ils": "ceignent"
+    },
+    "subjonctif_passé": {
+      "je": "aie ceint",
+      "tu": "aies ceint",
+      "il": "ait ceint",
+      "nous": "ayons ceint",
+      "vous": "ayez ceint",
+      "ils": "aient ceint"
+    },
+    "subjonctif_imparfait": {
+      "je": "ceignisse",
+      "tu": "ceignisses",
+      "il": "ceignît",
+      "nous": "ceignissions",
+      "vous": "ceignissiez",
+      "ils": "ceignissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ceint",
+      "tu": "eusses ceint",
+      "il": "eût ceint",
+      "nous": "eussions ceint",
+      "vous": "eussiez ceint",
+      "ils": "eussent ceint"
+    },
+    "conditionnel_présent": {
+      "je": "ceindrais",
+      "tu": "ceindrais",
+      "il": "ceindrait",
+      "nous": "ceindrions",
+      "vous": "ceindriez",
+      "ils": "ceindraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ceint",
+      "tu": "aurais ceint",
+      "il": "aurait ceint",
+      "nous": "aurions ceint",
+      "vous": "auriez ceint",
+      "ils": "auraient ceint"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ceint",
+      "tu": "eusses ceint",
+      "il": "eût ceint",
+      "nous": "eussions ceint",
+      "vous": "eussiez ceint",
+      "ils": "eussent ceint"
+    },
+    "translation": "malować",
+    "group": 3
+  }
+]

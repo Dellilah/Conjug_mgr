@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "revendre",
+    "présent": {
+      "je": "revends",
+      "tu": "revends",
+      "il": "revend",
+      "nous": "revendons",
+      "vous": "revendez",
+      "ils": "revendent"
+    },
+    "passé_composé": {
+      "je": "ai revendu",
+      "tu": "as revendu",
+      "il": "a revendu",
+      "nous": "avons revendu",
+      "vous": "avez revendu",
+      "ils": "ont revendu"
+    },
+    "imparfait": {
+      "je": "revendais",
+      "tu": "revendais",
+      "il": "revendait",
+      "nous": "revendions",
+      "vous": "revendiez",
+      "ils": "revendaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais revendu",
+      "tu": "avais revendu",
+      "il": "avait revendu",
+      "nous": "avions revendu",
+      "vous": "aviez revendu",
+      "ils": "avaient revendu"
+    },
+    "passé_simple": {
+      "je": "revendis",
+      "tu": "revendis",
+      "il": "revendit",
+      "nous": "revendîmes",
+      "vous": "revendîtes",
+      "ils": "revendirent"
+    },
+    "passé_antérieur": {
+      "je": "eus revendu",
+      "tu": "eus revendu",
+      "il": "eut revendu",
+      "nous": "eûmes revendu",
+      "vous": "eûtes revendu",
+      "ils": "eurent revendu"
+    },
+    "futur_simple": {
+      "je": "revendrai",
+      "tu": "revendras",
+      "il": "revendra",
+      "nous": "revendrons",
+      "vous": "revendrez",
+      "ils": "revendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai revendu",
+      "tu": "auras revendu",
+      "il": "aura revendu",
+      "nous": "aurons revendu",
+      "vous": "aurez revendu",
+      "ils": "auront revendu"
+    },
+    "subjonctif_présent": {
+      "je": "revende",
+      "tu": "revendes",
+      "il": "revende",
+      "nous": "revendions",
+      "vous": "revendiez",
+      "ils": "revendent"
+    },
+    "subjonctif_passé": {
+      "je": "aie revendu",
+      "tu": "aies revendu",
+      "il": "ait revendu",
+      "nous": "ayons revendu",
+      "vous": "ayez revendu",
+      "ils": "aient revendu"
+    },
+    "subjonctif_imparfait": {
+      "je": "revendisse",
+      "tu": "revendisses",
+      "il": "revendît",
+      "nous": "revendissions",
+      "vous": "revendissiez",
+      "ils": "revendissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse revendu",
+      "tu": "eusses revendu",
+      "il": "eût revendu",
+      "nous": "eussions revendu",
+      "vous": "eussiez revendu",
+      "ils": "eussent revendu"
+    },
+    "conditionnel_présent": {
+      "je": "revendrais",
+      "tu": "revendrais",
+      "il": "revendrait",
+      "nous": "revendrions",
+      "vous": "revendriez",
+      "ils": "revendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais revendu",
+      "tu": "aurais revendu",
+      "il": "aurait revendu",
+      "nous": "aurions revendu",
+      "vous": "auriez revendu",
+      "ils": "auraient revendu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse revendu",
+      "tu": "eusses revendu",
+      "il": "eût revendu",
+      "nous": "eussions revendu",
+      "vous": "eussiez revendu",
+      "ils": "eussent revendu"
+    },
+    "translation": "odsprzedawać",
+    "group": 3
+  },
+  {
+    "infinitive": "revenir",
+    "présent": {
+      "je": "reviens",
+      "tu": "reviens",
+      "il": "revient",
+      "nous": "revenons",
+      "vous": "revenez",
+      "ils": "reviennent"
+    },
+    "passé_composé": {
+      "je": "suis revenu",
+      "tu": "es revenu",
+      "il": "est revenu",
+      "nous": "sommes revenus",
+      "vous": "êtes revenus",
+      "ils": "sont revenus"
+    },
+    "imparfait": {
+      "je": "revenais",
+      "tu": "revenais",
+      "il": "revenait",
+      "nous": "revenions",
+      "vous": "reveniez",
+      "ils": "revenaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais revenu",
+      "tu": "étais revenu",
+      "il": "était revenu",
+      "nous": "étions revenus",
+      "vous": "étiez revenus",
+      "ils": "étaient revenus"
+    },
+    "passé_simple": {
+      "je": "revins",
+      "tu": "revins",
+      "il": "revint",
+      "nous": "revînmes",
+      "vous": "revîntes",
+      "ils": "revinrent"
+    },
+    "passé_antérieur": {
+      "je": "fus revenu",
+      "tu": "fus revenu",
+      "il": "fut revenu",
+      "nous": "fûmes revenus",
+      "vous": "fûtes revenus",
+      "ils": "furent revenus"
+    },
+    "futur_simple": {
+      "je": "reviendrai",
+      "tu": "reviendras",
+      "il": "reviendra",
+      "nous": "reviendrons",
+      "vous": "reviendrez",
+      "ils": "reviendront"
+    },
+    "futur_antérieur": {
+      "je": "serai revenu",
+      "tu": "seras revenu",
+      "il": "sera revenu",
+      "nous": "serons revenus",
+      "vous": "serez revenus",
+      "ils": "seront revenus"
+    },
+    "subjonctif_présent": {
+      "je": "revienne",
+      "tu": "reviennes",
+      "il": "revienne",
+      "nous": "revenions",
+      "vous": "reveniez",
+      "ils": "reviennent"
+    },
+    "subjonctif_passé": {
+      "je": "sois revenu",
+      "tu": "sois revenu",
+      "il": "soit revenu",
+      "nous": "soyons revenus",
+      "vous": "soyez revenus",
+      "ils": "soient revenus"
+    },
+    "subjonctif_imparfait": {
+      "je": "revinsse",
+      "tu": "revinsses",
+      "il": "revînt",
+      "nous": "revinssions",
+      "vous": "revinssiez",
+      "ils": "revinssent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "fusse revenu",
+      "tu": "fusses revenu",
+      "il": "fût revenu",
+      "nous": "fussions revenus",
+      "vous": "fussiez revenus",
+      "ils": "fussent revenus"
+    },
+    "conditionnel_présent": {
+      "je": "reviendrais",
+      "tu": "reviendrais",
+      "il": "reviendrait",
+      "nous": "reviendrions",
+      "vous": "reviendriez",
+      "ils": "reviendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "serais revenu",
+      "tu": "serais revenu",
+      "il": "serait revenu",
+      "nous": "serions revenus",
+      "vous": "seriez revenus",
+      "ils": "seraient revenus"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "fusse revenu",
+      "tu": "fusses revenu",
+      "il": "fût revenu",
+      "nous": "fussions revenus",
+      "vous": "fussiez revenus",
+      "ils": "fussent revenus"
+    },
+    "translation": "wracać",
+    "group": 3
+  },
+  {
+    "infinitive": "rêver",
+    "présent": {
+      "je": "rêve",
+      "tu": "rêves",
+      "il": "rêve",
+      "nous": "rêvons",
+      "vous": "rêvez",
+      "ils": "rêvent"
+    },
+    "passé_composé": {
+      "je": "ai rêvé",
+      "tu": "as rêvé",
+      "il": "a rêvé",
+      "nous": "avons rêvé",
+      "vous": "avez rêvé",
+      "ils": "ont rêvé"
+    },
+    "imparfait": {
+      "je": "rêvais",
+      "tu": "rêvais",
+      "il": "rêvait",
+      "nous": "rêvions",
+      "vous": "rêviez",
+      "ils": "rêvaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais rêvé",
+      "tu": "avais rêvé",
+      "il": "avait rêvé",
+      "nous": "avions rêvé",
+      "vous": "aviez rêvé",
+      "ils": "avaient rêvé"
+    },
+    "passé_simple": {
+      "je": "rêvai",
+      "tu": "rêvas",
+      "il": "rêva",
+      "nous": "rêvâmes",
+      "vous": "rêvâtes",
+      "ils": "rêvèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus rêvé",
+      "tu": "eus rêvé",
+      "il": "eut rêvé",
+      "nous": "eûmes rêvé",
+      "vous": "eûtes rêvé",
+      "ils": "eurent rêvé"
+    },
+    "futur_simple": {
+      "je": "rêverai",
+      "tu": "rêveras",
+      "il": "rêvera",
+      "nous": "rêverons",
+      "vous": "rêverez",
+      "ils": "rêveront"
+    },
+    "futur_antérieur": {
+      "je": "aurai rêvé",
+      "tu": "auras rêvé",
+      "il": "aura rêvé",
+      "nous": "aurons rêvé",
+      "vous": "aurez rêvé",
+      "ils": "auront rêvé"
+    },
+    "subjonctif_présent": {
+      "je": "rêve",
+      "tu": "rêves",
+      "il": "rêve",
+      "nous": "rêvions",
+      "vous": "rêviez",
+      "ils": "rêvent"
+    },
+    "subjonctif_passé": {
+      "je": "aie rêvé",
+      "tu": "aies rêvé",
+      "il": "ait rêvé",
+      "nous": "ayons rêvé",
+      "vous": "ayez rêvé",
+      "ils": "aient rêvé"
+    },
+    "subjonctif_imparfait": {
+      "je": "rêvasse",
+      "tu": "rêvasses",
+      "il": "rêvât",
+      "nous": "rêvassions",
+      "vous": "rêvassiez",
+      "ils": "rêvassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse rêvé",
+      "tu": "eusses rêvé",
+      "il": "eût rêvé",
+      "nous": "eussions rêvé",
+      "vous": "eussiez rêvé",
+      "ils": "eussent rêvé"
+    },
+    "conditionnel_présent": {
+      "je": "rêverais",
+      "tu": "rêverais",
+      "il": "rêverait",
+      "nous": "rêverions",
+      "vous": "rêveriez",
+      "ils": "rêveraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais rêvé",
+      "tu": "aurais rêvé",
+      "il": "aurait rêvé",
+      "nous": "aurions rêvé",
+      "vous": "auriez rêvé",
+      "ils": "auraient rêvé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse rêvé",
+      "tu": "eusses rêvé",
+      "il": "eût rêvé",
+      "nous": "eussions rêvé",
+      "vous": "eussiez rêvé",
+      "ils": "eussent rêvé"
+    },
+    "translation": "marzyć",
+    "group": 1
+  },
+  {
+    "infinitive": "revêtir",
+    "présent": {
+      "je": "revêts",
+      "tu": "revêts",
+      "il": "revêt",
+      "nous": "revêtons",
+      "vous": "revêtez",
+      "ils": "revêtent"
+    },
+    "passé_composé": {
+      "je": "ai revêtu",
+      "tu": "as revêtu",
+      "il": "a revêtu",
+      "nous": "avons revêtu",
+      "vous": "avez revêtu",
+      "ils": "ont revêtu"
+    },
+    "imparfait": {
+      "je": "revêtais",
+      "tu": "revêtais",
+      "il": "revêtait",
+      "nous": "revêtions",
+      "vous": "revêtiez",
+      "ils": "revêtaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais revêtu",
+      "tu": "avais revêtu",
+      "il": "avait revêtu",
+      "nous": "avions revêtu",
+      "vous": "aviez revêtu",
+      "ils": "avaient revêtu"
+    },
+    "passé_simple": {
+      "je": "revêtis",
+      "tu": "revêtis",
+      "il": "revêtit",
+      "nous": "revêtîmes",
+      "vous": "revêtîtes",
+      "ils": "revêtirent"
+    },
+    "passé_antérieur": {
+      "je": "eus revêtu",
+      "tu": "eus revêtu",
+      "il": "eut revêtu",
+      "nous": "eûmes revêtu",
+      "vous": "eûtes revêtu",
+      "ils": "eurent revêtu"
+    },
+    "futur_simple": {
+      "je": "revêtirai",
+      "tu": "revêtiras",
+      "il": "revêtira",
+      "nous": "revêtirons",
+      "vous": "revêtirez",
+      "ils": "revêtiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai revêtu",
+      "tu": "auras revêtu",
+      "il": "aura revêtu",
+      "nous": "aurons revêtu",
+      "vous": "aurez revêtu",
+      "ils": "auront revêtu"
+    },
+    "subjonctif_présent": {
+      "je": "revête",
+      "tu": "revêtes",
+      "il": "revête",
+      "nous": "revêtions",
+      "vous": "revêtiez",
+      "ils": "revêtent"
+    },
+    "subjonctif_passé": {
+      "je": "aie revêtu",
+      "tu": "aies revêtu",
+      "il": "ait revêtu",
+      "nous": "ayons revêtu",
+      "vous": "ayez revêtu",
+      "ils": "aient revêtu"
+    },
+    "subjonctif_imparfait": {
+      "je": "revêtisse",
+      "tu": "revêtisses",
+      "il": "revêtît",
+      "nous": "revêtissions",
+      "vous": "revêtissiez",
+      "ils": "revêtissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse revêtu",
+      "tu": "eusses revêtu",
+      "il": "eût revêtu",
+      "nous": "eussions revêtu",
+      "vous": "eussiez revêtu",
+      "ils": "eussent revêtu"
+    },
+    "conditionnel_présent": {
+      "je": "revêtirais",
+      "tu": "revêtirais",
+      "il": "revêtirait",
+      "nous": "revêtirions",
+      "vous": "revêtiriez",
+      "ils": "revêtiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais revêtu",
+      "tu": "aurais revêtu",
+      "il": "aurait revêtu",
+      "nous": "aurions revêtu",
+      "vous": "auriez revêtu",
+      "ils": "auraient revêtu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse revêtu",
+      "tu": "eusses revêtu",
+      "il": "eût revêtu",
+      "nous": "eussions revêtu",
+      "vous": "eussiez revêtu",
+      "ils": "eussent revêtu"
+    },
+    "translation": "revêtir",
+    "group": 3
+  },
+  {
+    "infinitive": "réviser",
+    "présent": {
+      "je": "révise",
+      "tu": "révises",
+      "il": "révise",
+      "nous": "révisons",
+      "vous": "révisez",
+      "ils": "révisent"
+    },
+    "passé_composé": {
+      "je": "ai révisé",
+      "tu": "as révisé",
+      "il": "a révisé",
+      "nous": "avons révisé",
+      "vous": "avez révisé",
+      "ils": "ont révisé"
+    },
+    "imparfait": {
+      "je": "révisais",
+      "tu": "révisais",
+      "il": "révisait",
+      "nous": "révisions",
+      "vous": "révisiez",
+      "ils": "révisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais révisé",
+      "tu": "avais révisé",
+      "il": "avait révisé",
+      "nous": "avions révisé",
+      "vous": "aviez révisé",
+      "ils": "avaient révisé"
+    },
+    "passé_simple": {
+      "je": "révisai",
+      "tu": "révisas",
+      "il": "révisa",
+      "nous": "révisâmes",
+      "vous": "révisâtes",
+      "ils": "révisèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus révisé",
+      "tu": "eus révisé",
+      "il": "eut révisé",
+      "nous": "eûmes révisé",
+      "vous": "eûtes révisé",
+      "ils": "eurent révisé"
+    },
+    "futur_simple": {
+      "je": "réviserai",
+      "tu": "réviseras",
+      "il": "révisera",
+      "nous": "réviserons",
+      "vous": "réviserez",
+      "ils": "réviseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai révisé",
+      "tu": "auras révisé",
+      "il": "aura révisé",
+      "nous": "aurons révisé",
+      "vous": "aurez révisé",
+      "ils": "auront révisé"
+    },
+    "subjonctif_présent": {
+      "je": "révise",
+      "tu": "révises",
+      "il": "révise",
+      "nous": "révisions",
+      "vous": "révisiez",
+      "ils": "révisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie révisé",
+      "tu": "aies révisé",
+      "il": "ait révisé",
+      "nous": "ayons révisé",
+      "vous": "ayez révisé",
+      "ils": "aient révisé"
+    },
+    "subjonctif_imparfait": {
+      "je": "révisasse",
+      "tu": "révisasses",
+      "il": "révisât",
+      "nous": "révisassions",
+      "vous": "révisassiez",
+      "ils": "révisassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse révisé",
+      "tu": "eusses révisé",
+      "il": "eût révisé",
+      "nous": "eussions révisé",
+      "vous": "eussiez révisé",
+      "ils": "eussent révisé"
+    },
+    "conditionnel_présent": {
+      "je": "réviserais",
+      "tu": "réviserais",
+      "il": "réviserait",
+      "nous": "réviserions",
+      "vous": "réviseriez",
+      "ils": "réviseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais révisé",
+      "tu": "aurais révisé",
+      "il": "aurait révisé",
+      "nous": "aurions révisé",
+      "vous": "auriez révisé",
+      "ils": "auraient révisé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse révisé",
+      "tu": "eusses révisé",
+      "il": "eût révisé",
+      "nous": "eussions révisé",
+      "vous": "eussiez révisé",
+      "ils": "eussent révisé"
+    },
+    "translation": "powtarzać",
+    "group": 1
+  },
+  {
+    "infinitive": "revivre",
+    "présent": {
+      "je": "revis",
+      "tu": "revis",
+      "il": "revit",
+      "nous": "revivons",
+      "vous": "revivez",
+      "ils": "revivent"
+    },
+    "passé_composé": {
+      "je": "ai revécu",
+      "tu": "as revécu",
+      "il": "a revécu",
+      "nous": "avons revécu",
+      "vous": "avez revécu",
+      "ils": "ont revécu"
+    },
+    "imparfait": {
+      "je": "revivais",
+      "tu": "revivais",
+      "il": "revivait",
+      "nous": "revivions",
+      "vous": "reviviez",
+      "ils": "revivaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais revécu",
+      "tu": "avais revécu",
+      "il": "avait revécu",
+      "nous": "avions revécu",
+      "vous": "aviez revécu",
+      "ils": "avaient revécu"
+    },
+    "passé_simple": {
+      "je": "revécus",
+      "tu": "revécus",
+      "il": "revécut",
+      "nous": "revécûmes",
+      "vous": "revécûtes",
+      "ils": "revécurent"
+    },
+    "passé_antérieur": {
+      "je": "eus revécu",
+      "tu": "eus revécu",
+      "il": "eut revécu",
+      "nous": "eûmes revécu",
+      "vous": "eûtes revécu",
+      "ils": "eurent revécu"
+    },
+    "futur_simple": {
+      "je": "revivrai",
+      "tu": "revivras",
+      "il": "revivra",
+      "nous": "revivrons",
+      "vous": "revivrez",
+      "ils": "revivront"
+    },
+    "futur_antérieur": {
+      "je": "aurai revécu",
+      "tu": "auras revécu",
+      "il": "aura revécu",
+      "nous": "aurons revécu",
+      "vous": "aurez revécu",
+      "ils": "auront revécu"
+    },
+    "subjonctif_présent": {
+      "je": "revive",
+      "tu": "revives",
+      "il": "revive",
+      "nous": "revivions",
+      "vous": "reviviez",
+      "ils": "revivent"
+    },
+    "subjonctif_passé": {
+      "je": "aie revécu",
+      "tu": "aies revécu",
+      "il": "ait revécu",
+      "nous": "ayons revécu",
+      "vous": "ayez revécu",
+      "ils": "aient revécu"
+    },
+    "subjonctif_imparfait": {
+      "je": "revécusse",
+      "tu": "revécusses",
+      "il": "revécût",
+      "nous": "revécussions",
+      "vous": "revécussiez",
+      "ils": "revécussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse revécu",
+      "tu": "eusses revécu",
+      "il": "eût revécu",
+      "nous": "eussions revécu",
+      "vous": "eussiez revécu",
+      "ils": "eussent revécu"
+    },
+    "conditionnel_présent": {
+      "je": "revivrais",
+      "tu": "revivrais",
+      "il": "revivrait",
+      "nous": "revivrions",
+      "vous": "revivriez",
+      "ils": "revivraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais revécu",
+      "tu": "aurais revécu",
+      "il": "aurait revécu",
+      "nous": "aurions revécu",
+      "vous": "auriez revécu",
+      "ils": "auraient revécu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse revécu",
+      "tu": "eusses revécu",
+      "il": "eût revécu",
+      "nous": "eussions revécu",
+      "vous": "eussiez revécu",
+      "ils": "eussent revécu"
+    },
+    "translation": "ożywać",
+    "group": 3
+  },
+  {
+    "infinitive": "revoir",
+    "présent": {
+      "je": "revois",
+      "tu": "revois",
+      "il": "revoit",
+      "nous": "revoyons",
+      "vous": "revoyez",
+      "ils": "revoient"
+    },
+    "passé_composé": {
+      "je": "ai revu",
+      "tu": "as revu",
+      "il": "a revu",
+      "nous": "avons revu",
+      "vous": "avez revu",
+      "ils": "ont revu"
+    },
+    "imparfait": {
+      "je": "revoyais",
+      "tu": "revoyais",
+      "il": "revoyait",
+      "nous": "revoyions",
+      "vous": "revoyiez",
+      "ils": "revoyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais revu",
+      "tu": "avais revu",
+      "il": "avait revu",
+      "nous": "avions revu",
+      "vous": "aviez revu",
+      "ils": "avaient revu"
+    },
+    "passé_simple": {
+      "je": "revis",
+      "tu": "revis",
+      "il": "revit",
+      "nous": "revîmes",
+      "vous": "revîtes",
+      "ils": "revirent"
+    },
+    "passé_antérieur": {
+      "je": "eus revu",
+      "tu": "eus revu",
+      "il": "eut revu",
+      "nous": "eûmes revu",
+      "vous": "eûtes revu",
+      "ils": "eurent revu"
+    },
+    "futur_simple": {
+      "je": "reverrai",
+      "tu": "reverras",
+      "il": "reverra",
+      "nous": "reverrons",
+      "vous": "reverrez",
+      "ils": "reverront"
+    },
+    "futur_antérieur": {
+      "je": "aurai revu",
+      "tu": "auras revu",
+      "il": "aura revu",
+      "nous": "aurons revu",
+      "vous": "aurez revu",
+      "ils": "auront revu"
+    },
+    "subjonctif_présent": {
+      "je": "revoie",
+      "tu": "revoies",
+      "il": "revoie",
+      "nous": "revoyions",
+      "vous": "revoyiez",
+      "ils": "revoient"
+    },
+    "subjonctif_passé": {
+      "je": "aie revu",
+      "tu": "aies revu",
+      "il": "ait revu",
+      "nous": "ayons revu",
+      "vous": "ayez revu",
+      "ils": "aient revu"
+    },
+    "subjonctif_imparfait": {
+      "je": "revisse",
+      "tu": "revisses",
+      "il": "revît",
+      "nous": "revissions",
+      "vous": "revissiez",
+      "ils": "revissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse revu",
+      "tu": "eusses revu",
+      "il": "eût revu",
+      "nous": "eussions revu",
+      "vous": "eussiez revu",
+      "ils": "eussent revu"
+    },
+    "conditionnel_présent": {
+      "je": "reverrais",
+      "tu": "reverrais",
+      "il": "reverrait",
+      "nous": "reverrions",
+      "vous": "reverriez",
+      "ils": "reverraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais revu",
+      "tu": "aurais revu",
+      "il": "aurait revu",
+      "nous": "aurions revu",
+      "vous": "auriez revu",
+      "ils": "auraient revu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse revu",
+      "tu": "eusses revu",
+      "il": "eût revu",
+      "nous": "eussions revu",
+      "vous": "eussiez revu",
+      "ils": "eussent revu"
+    },
+    "translation": "widzieć",
+    "group": 3
+  },
+  {
+    "infinitive": "revouloir",
+    "présent": {
+      "je": "reveux",
+      "tu": "reveux",
+      "il": "reveut",
+      "nous": "revoulons",
+      "vous": "revoulez",
+      "ils": "reveulent"
+    },
+    "passé_composé": {
+      "je": "ai revoulu",
+      "tu": "as revoulu",
+      "il": "a revoulu",
+      "nous": "avons revoulu",
+      "vous": "avez revoulu",
+      "ils": "ont revoulu"
+    },
+    "imparfait": {
+      "je": "revoulais",
+      "tu": "revoulais",
+      "il": "revoulait",
+      "nous": "revoulions",
+      "vous": "revouliez",
+      "ils": "revoulaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais revoulu",
+      "tu": "avais revoulu",
+      "il": "avait revoulu",
+      "nous": "avions revoulu",
+      "vous": "aviez revoulu",
+      "ils": "avaient revoulu"
+    },
+    "passé_simple": {
+      "je": "revoulus",
+      "tu": "revoulus",
+      "il": "revoulut",
+      "nous": "revoulûmes",
+      "vous": "revoulûtes",
+      "ils": "revoulurent"
+    },
+    "passé_antérieur": {
+      "je": "eus revoulu",
+      "tu": "eus revoulu",
+      "il": "eut revoulu",
+      "nous": "eûmes revoulu",
+      "vous": "eûtes revoulu",
+      "ils": "eurent revoulu"
+    },
+    "futur_simple": {
+      "je": "revoudrai",
+      "tu": "revoudras",
+      "il": "revoudra",
+      "nous": "revoudrons",
+      "vous": "revoudrez",
+      "ils": "revoudront"
+    },
+    "futur_antérieur": {
+      "je": "aurai revoulu",
+      "tu": "auras revoulu",
+      "il": "aura revoulu",
+      "nous": "aurons revoulu",
+      "vous": "aurez revoulu",
+      "ils": "auront revoulu"
+    },
+    "subjonctif_présent": {
+      "je": "reveuille",
+      "tu": "reveuilles",
+      "il": "reveuille",
+      "nous": "revoulions",
+      "vous": "revouliez",
+      "ils": "reveuillent"
+    },
+    "subjonctif_passé": {
+      "je": "aie revoulu",
+      "tu": "aies revoulu",
+      "il": "ait revoulu",
+      "nous": "ayons revoulu",
+      "vous": "ayez revoulu",
+      "ils": "aient revoulu"
+    },
+    "subjonctif_imparfait": {
+      "je": "revoulusse",
+      "tu": "revoulusses",
+      "il": "revoulût",
+      "nous": "revoulussions",
+      "vous": "revoulussiez",
+      "ils": "revoulussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse revoulu",
+      "tu": "eusses revoulu",
+      "il": "eût revoulu",
+      "nous": "eussions revoulu",
+      "vous": "eussiez revoulu",
+      "ils": "eussent revoulu"
+    },
+    "conditionnel_présent": {
+      "je": "revoudrais",
+      "tu": "revoudrais",
+      "il": "revoudrait",
+      "nous": "revoudrions",
+      "vous": "revoudriez",
+      "ils": "revoudraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais revoulu",
+      "tu": "aurais revoulu",
+      "il": "aurait revoulu",
+      "nous": "aurions revoulu",
+      "vous": "auriez revoulu",
+      "ils": "auraient revoulu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse revoulu",
+      "tu": "eusses revoulu",
+      "il": "eût revoulu",
+      "nous": "eussions revoulu",
+      "vous": "eussiez revoulu",
+      "ils": "eussent revoulu"
+    },
+    "translation": "chcieć",
+    "group": 3
+  },
+  {
+    "infinitive": "rigoler",
+    "présent": {
+      "je": "rigole",
+      "tu": "rigoles",
+      "il": "rigole",
+      "nous": "rigolons",
+      "vous": "rigolez",
+      "ils": "rigolent"
+    },
+    "passé_composé": {
+      "je": "ai rigolé",
+      "tu": "as rigolé",
+      "il": "a rigolé",
+      "nous": "avons rigolé",
+      "vous": "avez rigolé",
+      "ils": "ont rigolé"
+    },
+    "imparfait": {
+      "je": "rigolais",
+      "tu": "rigolais",
+      "il": "rigolait",
+      "nous": "rigolions",
+      "vous": "rigoliez",
+      "ils": "rigolaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais rigolé",
+      "tu": "avais rigolé",
+      "il": "avait rigolé",
+      "nous": "avions rigolé",
+      "vous": "aviez rigolé",
+      "ils": "avaient rigolé"
+    },
+    "passé_simple": {
+      "je": "rigolai",
+      "tu": "rigolas",
+      "il": "rigola",
+      "nous": "rigolâmes",
+      "vous": "rigolâtes",
+      "ils": "rigolèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus rigolé",
+      "tu": "eus rigolé",
+      "il": "eut rigolé",
+      "nous": "eûmes rigolé",
+      "vous": "eûtes rigolé",
+      "ils": "eurent rigolé"
+    },
+    "futur_simple": {
+      "je": "rigolerai",
+      "tu": "rigoleras",
+      "il": "rigolera",
+      "nous": "rigolerons",
+      "vous": "rigolerez",
+      "ils": "rigoleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai rigolé",
+      "tu": "auras rigolé",
+      "il": "aura rigolé",
+      "nous": "aurons rigolé",
+      "vous": "aurez rigolé",
+      "ils": "auront rigolé"
+    },
+    "subjonctif_présent": {
+      "je": "rigole",
+      "tu": "rigoles",
+      "il": "rigole",
+      "nous": "rigolions",
+      "vous": "rigoliez",
+      "ils": "rigolent"
+    },
+    "subjonctif_passé": {
+      "je": "aie rigolé",
+      "tu": "aies rigolé",
+      "il": "ait rigolé",
+      "nous": "ayons rigolé",
+      "vous": "ayez rigolé",
+      "ils": "aient rigolé"
+    },
+    "subjonctif_imparfait": {
+      "je": "rigolasse",
+      "tu": "rigolasses",
+      "il": "rigolât",
+      "nous": "rigolassions",
+      "vous": "rigolassiez",
+      "ils": "rigolassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse rigolé",
+      "tu": "eusses rigolé",
+      "il": "eût rigolé",
+      "nous": "eussions rigolé",
+      "vous": "eussiez rigolé",
+      "ils": "eussent rigolé"
+    },
+    "conditionnel_présent": {
+      "je": "rigolerais",
+      "tu": "rigolerais",
+      "il": "rigolerait",
+      "nous": "rigolerions",
+      "vous": "rigoleriez",
+      "ils": "rigoleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais rigolé",
+      "tu": "aurais rigolé",
+      "il": "aurait rigolé",
+      "nous": "aurions rigolé",
+      "vous": "auriez rigolé",
+      "ils": "auraient rigolé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse rigolé",
+      "tu": "eusses rigolé",
+      "il": "eût rigolé",
+      "nous": "eussions rigolé",
+      "vous": "eussiez rigolé",
+      "ils": "eussent rigolé"
+    },
+    "translation": "pośmiać",
+    "group": 1
+  },
+  {
+    "infinitive": "rimer",
+    "présent": {
+      "je": "rime",
+      "tu": "rimes",
+      "il": "rime",
+      "nous": "rimons",
+      "vous": "rimez",
+      "ils": "riment"
+    },
+    "passé_composé": {
+      "je": "ai rimé",
+      "tu": "as rimé",
+      "il": "a rimé",
+      "nous": "avons rimé",
+      "vous": "avez rimé",
+      "ils": "ont rimé"
+    },
+    "imparfait": {
+      "je": "rimais",
+      "tu": "rimais",
+      "il": "rimait",
+      "nous": "rimions",
+      "vous": "rimiez",
+      "ils": "rimaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais rimé",
+      "tu": "avais rimé",
+      "il": "avait rimé",
+      "nous": "avions rimé",
+      "vous": "aviez rimé",
+      "ils": "avaient rimé"
+    },
+    "passé_simple": {
+      "je": "rimai",
+      "tu": "rimas",
+      "il": "rima",
+      "nous": "rimâmes",
+      "vous": "rimâtes",
+      "ils": "rimèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus rimé",
+      "tu": "eus rimé",
+      "il": "eut rimé",
+      "nous": "eûmes rimé",
+      "vous": "eûtes rimé",
+      "ils": "eurent rimé"
+    },
+    "futur_simple": {
+      "je": "rimerai",
+      "tu": "rimeras",
+      "il": "rimera",
+      "nous": "rimerons",
+      "vous": "rimerez",
+      "ils": "rimeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai rimé",
+      "tu": "auras rimé",
+      "il": "aura rimé",
+      "nous": "aurons rimé",
+      "vous": "aurez rimé",
+      "ils": "auront rimé"
+    },
+    "subjonctif_présent": {
+      "je": "rime",
+      "tu": "rimes",
+      "il": "rime",
+      "nous": "rimions",
+      "vous": "rimiez",
+      "ils": "riment"
+    },
+    "subjonctif_passé": {
+      "je": "aie rimé",
+      "tu": "aies rimé",
+      "il": "ait rimé",
+      "nous": "ayons rimé",
+      "vous": "ayez rimé",
+      "ils": "aient rimé"
+    },
+    "subjonctif_imparfait": {
+      "je": "rimasse",
+      "tu": "rimasses",
+      "il": "rimât",
+      "nous": "rimassions",
+      "vous": "rimassiez",
+      "ils": "rimassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse rimé",
+      "tu": "eusses rimé",
+      "il": "eût rimé",
+      "nous": "eussions rimé",
+      "vous": "eussiez rimé",
+      "ils": "eussent rimé"
+    },
+    "conditionnel_présent": {
+      "je": "rimerais",
+      "tu": "rimerais",
+      "il": "rimerait",
+      "nous": "rimerions",
+      "vous": "rimeriez",
+      "ils": "rimeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais rimé",
+      "tu": "aurais rimé",
+      "il": "aurait rimé",
+      "nous": "aurions rimé",
+      "vous": "auriez rimé",
+      "ils": "auraient rimé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse rimé",
+      "tu": "eusses rimé",
+      "il": "eût rimé",
+      "nous": "eussions rimé",
+      "vous": "eussiez rimé",
+      "ils": "eussent rimé"
+    },
+    "translation": "rymować",
+    "group": 1
+  }
+]

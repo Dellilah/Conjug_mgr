@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "effacer",
+    "présent": {
+      "je": "efface",
+      "tu": "effaces",
+      "il": "efface",
+      "nous": "effaçons",
+      "vous": "effacez",
+      "ils": "effacent"
+    },
+    "passé_composé": {
+      "je": "ai effacé",
+      "tu": "as effacé",
+      "il": "a effacé",
+      "nous": "avons effacé",
+      "vous": "avez effacé",
+      "ils": "ont effacé"
+    },
+    "imparfait": {
+      "je": "effaçais",
+      "tu": "effaçais",
+      "il": "effaçait",
+      "nous": "effacions",
+      "vous": "effaciez",
+      "ils": "effaçaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais effacé",
+      "tu": "avais effacé",
+      "il": "avait effacé",
+      "nous": "avions effacé",
+      "vous": "aviez effacé",
+      "ils": "avaient effacé"
+    },
+    "passé_simple": {
+      "je": "effaçai",
+      "tu": "effaças",
+      "il": "effaça",
+      "nous": "effaçâmes",
+      "vous": "effaçâtes",
+      "ils": "effacèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus effacé",
+      "tu": "eus effacé",
+      "il": "eut effacé",
+      "nous": "eûmes effacé",
+      "vous": "eûtes effacé",
+      "ils": "eurent effacé"
+    },
+    "futur_simple": {
+      "je": "effacerai",
+      "tu": "effaceras",
+      "il": "effacera",
+      "nous": "effacerons",
+      "vous": "effacerez",
+      "ils": "effaceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai effacé",
+      "tu": "auras effacé",
+      "il": "aura effacé",
+      "nous": "aurons effacé",
+      "vous": "aurez effacé",
+      "ils": "auront effacé"
+    },
+    "subjonctif_présent": {
+      "je": "efface",
+      "tu": "effaces",
+      "il": "efface",
+      "nous": "effacions",
+      "vous": "effaciez",
+      "ils": "effacent"
+    },
+    "subjonctif_passé": {
+      "je": "aie effacé",
+      "tu": "aies effacé",
+      "il": "ait effacé",
+      "nous": "ayons effacé",
+      "vous": "ayez effacé",
+      "ils": "aient effacé"
+    },
+    "subjonctif_imparfait": {
+      "je": "effaçasse",
+      "tu": "effaçasses",
+      "il": "effaçât",
+      "nous": "effaçassions",
+      "vous": "effaçassiez",
+      "ils": "effaçassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse effacé",
+      "tu": "eusses effacé",
+      "il": "eût effacé",
+      "nous": "eussions effacé",
+      "vous": "eussiez effacé",
+      "ils": "eussent effacé"
+    },
+    "conditionnel_présent": {
+      "je": "effacerais",
+      "tu": "effacerais",
+      "il": "effacerait",
+      "nous": "effacerions",
+      "vous": "effaceriez",
+      "ils": "effaceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais effacé",
+      "tu": "aurais effacé",
+      "il": "aurait effacé",
+      "nous": "aurions effacé",
+      "vous": "auriez effacé",
+      "ils": "auraient effacé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse effacé",
+      "tu": "eusses effacé",
+      "il": "eût effacé",
+      "nous": "eussions effacé",
+      "vous": "eussiez effacé",
+      "ils": "eussent effacé"
+    },
+    "translation": "wykreślać",
+    "group": 1
+  },
+  {
+    "infinitive": "effectuer",
+    "présent": {
+      "je": "effectue",
+      "tu": "effectues",
+      "il": "effectue",
+      "nous": "effectuons",
+      "vous": "effectuez",
+      "ils": "effectuent"
+    },
+    "passé_composé": {
+      "je": "ai effectué",
+      "tu": "as effectué",
+      "il": "a effectué",
+      "nous": "avons effectué",
+      "vous": "avez effectué",
+      "ils": "ont effectué"
+    },
+    "imparfait": {
+      "je": "effectuais",
+      "tu": "effectuais",
+      "il": "effectuait",
+      "nous": "effectuions",
+      "vous": "effectuiez",
+      "ils": "effectuaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais effectué",
+      "tu": "avais effectué",
+      "il": "avait effectué",
+      "nous": "avions effectué",
+      "vous": "aviez effectué",
+      "ils": "avaient effectué"
+    },
+    "passé_simple": {
+      "je": "effectuai",
+      "tu": "effectuas",
+      "il": "effectua",
+      "nous": "effectuâmes",
+      "vous": "effectuâtes",
+      "ils": "effectuèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus effectué",
+      "tu": "eus effectué",
+      "il": "eut effectué",
+      "nous": "eûmes effectué",
+      "vous": "eûtes effectué",
+      "ils": "eurent effectué"
+    },
+    "futur_simple": {
+      "je": "effectuerai",
+      "tu": "effectueras",
+      "il": "effectuera",
+      "nous": "effectuerons",
+      "vous": "effectuerez",
+      "ils": "effectueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai effectué",
+      "tu": "auras effectué",
+      "il": "aura effectué",
+      "nous": "aurons effectué",
+      "vous": "aurez effectué",
+      "ils": "auront effectué"
+    },
+    "subjonctif_présent": {
+      "je": "effectue",
+      "tu": "effectues",
+      "il": "effectue",
+      "nous": "effectuions",
+      "vous": "effectuiez",
+      "ils": "effectuent"
+    },
+    "subjonctif_passé": {
+      "je": "aie effectué",
+      "tu": "aies effectué",
+      "il": "ait effectué",
+      "nous": "ayons effectué",
+      "vous": "ayez effectué",
+      "ils": "aient effectué"
+    },
+    "subjonctif_imparfait": {
+      "je": "effectuasse",
+      "tu": "effectuasses",
+      "il": "effectuât",
+      "nous": "effectuassions",
+      "vous": "effectuassiez",
+      "ils": "effectuassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse effectué",
+      "tu": "eusses effectué",
+      "il": "eût effectué",
+      "nous": "eussions effectué",
+      "vous": "eussiez effectué",
+      "ils": "eussent effectué"
+    },
+    "conditionnel_présent": {
+      "je": "effectuerais",
+      "tu": "effectuerais",
+      "il": "effectuerait",
+      "nous": "effectuerions",
+      "vous": "effectueriez",
+      "ils": "effectueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais effectué",
+      "tu": "aurais effectué",
+      "il": "aurait effectué",
+      "nous": "aurions effectué",
+      "vous": "auriez effectué",
+      "ils": "auraient effectué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse effectué",
+      "tu": "eusses effectué",
+      "il": "eût effectué",
+      "nous": "eussions effectué",
+      "vous": "eussiez effectué",
+      "ils": "eussent effectué"
+    },
+    "translation": "wykonywać",
+    "group": 1
+  },
+  {
+    "infinitive": "effleurer",
+    "présent": {
+      "je": "effleure",
+      "tu": "effleures",
+      "il": "effleure",
+      "nous": "effleurons",
+      "vous": "effleurez",
+      "ils": "effleurent"
+    },
+    "passé_composé": {
+      "je": "ai effleuré",
+      "tu": "as effleuré",
+      "il": "a effleuré",
+      "nous": "avons effleuré",
+      "vous": "avez effleuré",
+      "ils": "ont effleuré"
+    },
+    "imparfait": {
+      "je": "effleurais",
+      "tu": "effleurais",
+      "il": "effleurait",
+      "nous": "effleurions",
+      "vous": "effleuriez",
+      "ils": "effleuraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais effleuré",
+      "tu": "avais effleuré",
+      "il": "avait effleuré",
+      "nous": "avions effleuré",
+      "vous": "aviez effleuré",
+      "ils": "avaient effleuré"
+    },
+    "passé_simple": {
+      "je": "effleurai",
+      "tu": "effleuras",
+      "il": "effleura",
+      "nous": "effleurâmes",
+      "vous": "effleurâtes",
+      "ils": "effleurèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus effleuré",
+      "tu": "eus effleuré",
+      "il": "eut effleuré",
+      "nous": "eûmes effleuré",
+      "vous": "eûtes effleuré",
+      "ils": "eurent effleuré"
+    },
+    "futur_simple": {
+      "je": "effleurerai",
+      "tu": "effleureras",
+      "il": "effleurera",
+      "nous": "effleurerons",
+      "vous": "effleurerez",
+      "ils": "effleureront"
+    },
+    "futur_antérieur": {
+      "je": "aurai effleuré",
+      "tu": "auras effleuré",
+      "il": "aura effleuré",
+      "nous": "aurons effleuré",
+      "vous": "aurez effleuré",
+      "ils": "auront effleuré"
+    },
+    "subjonctif_présent": {
+      "je": "effleure",
+      "tu": "effleures",
+      "il": "effleure",
+      "nous": "effleurions",
+      "vous": "effleuriez",
+      "ils": "effleurent"
+    },
+    "subjonctif_passé": {
+      "je": "aie effleuré",
+      "tu": "aies effleuré",
+      "il": "ait effleuré",
+      "nous": "ayons effleuré",
+      "vous": "ayez effleuré",
+      "ils": "aient effleuré"
+    },
+    "subjonctif_imparfait": {
+      "je": "effleurasse",
+      "tu": "effleurasses",
+      "il": "effleurât",
+      "nous": "effleurassions",
+      "vous": "effleurassiez",
+      "ils": "effleurassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse effleuré",
+      "tu": "eusses effleuré",
+      "il": "eût effleuré",
+      "nous": "eussions effleuré",
+      "vous": "eussiez effleuré",
+      "ils": "eussent effleuré"
+    },
+    "conditionnel_présent": {
+      "je": "effleurerais",
+      "tu": "effleurerais",
+      "il": "effleurerait",
+      "nous": "effleurerions",
+      "vous": "effleureriez",
+      "ils": "effleureraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais effleuré",
+      "tu": "aurais effleuré",
+      "il": "aurait effleuré",
+      "nous": "aurions effleuré",
+      "vous": "auriez effleuré",
+      "ils": "auraient effleuré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse effleuré",
+      "tu": "eusses effleuré",
+      "il": "eût effleuré",
+      "nous": "eussions effleuré",
+      "vous": "eussiez effleuré",
+      "ils": "eussent effleuré"
+    },
+    "translation": "muskać",
+    "group": 1
+  },
+  {
+    "infinitive": "effondrer",
+    "présent": {
+      "je": "effondre",
+      "tu": "effondres",
+      "il": "effondre",
+      "nous": "effondrons",
+      "vous": "effondrez",
+      "ils": "effondrent"
+    },
+    "passé_composé": {
+      "je": "ai effondré",
+      "tu": "as effondré",
+      "il": "a effondré",
+      "nous": "avons effondré",
+      "vous": "avez effondré",
+      "ils": "ont effondré"
+    },
+    "imparfait": {
+      "je": "effondrais",
+      "tu": "effondrais",
+      "il": "effondrait",
+      "nous": "effondrions",
+      "vous": "effondriez",
+      "ils": "effondraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais effondré",
+      "tu": "avais effondré",
+      "il": "avait effondré",
+      "nous": "avions effondré",
+      "vous": "aviez effondré",
+      "ils": "avaient effondré"
+    },
+    "passé_simple": {
+      "je": "effondrai",
+      "tu": "effondras",
+      "il": "effondra",
+      "nous": "effondrâmes",
+      "vous": "effondrâtes",
+      "ils": "effondrèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus effondré",
+      "tu": "eus effondré",
+      "il": "eut effondré",
+      "nous": "eûmes effondré",
+      "vous": "eûtes effondré",
+      "ils": "eurent effondré"
+    },
+    "futur_simple": {
+      "je": "effondrerai",
+      "tu": "effondreras",
+      "il": "effondrera",
+      "nous": "effondrerons",
+      "vous": "effondrerez",
+      "ils": "effondreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai effondré",
+      "tu": "auras effondré",
+      "il": "aura effondré",
+      "nous": "aurons effondré",
+      "vous": "aurez effondré",
+      "ils": "auront effondré"
+    },
+    "subjonctif_présent": {
+      "je": "effondre",
+      "tu": "effondres",
+      "il": "effondre",
+      "nous": "effondrions",
+      "vous": "effondriez",
+      "ils": "effondrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie effondré",
+      "tu": "aies effondré",
+      "il": "ait effondré",
+      "nous": "ayons effondré",
+      "vous": "ayez effondré",
+      "ils": "aient effondré"
+    },
+    "subjonctif_imparfait": {
+      "je": "effondrasse",
+      "tu": "effondrasses",
+      "il": "effondrât",
+      "nous": "effondrassions",
+      "vous": "effondrassiez",
+      "ils": "effondrassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse effondré",
+      "tu": "eusses effondré",
+      "il": "eût effondré",
+      "nous": "eussions effondré",
+      "vous": "eussiez effondré",
+      "ils": "eussent effondré"
+    },
+    "conditionnel_présent": {
+      "je": "effondrerais",
+      "tu": "effondrerais",
+      "il": "effondrerait",
+      "nous": "effondrerions",
+      "vous": "effondreriez",
+      "ils": "effondreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais effondré",
+      "tu": "aurais effondré",
+      "il": "aurait effondré",
+      "nous": "aurions effondré",
+      "vous": "auriez effondré",
+      "ils": "auraient effondré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse effondré",
+      "tu": "eusses effondré",
+      "il": "eût effondré",
+      "nous": "eussions effondré",
+      "vous": "eussiez effondré",
+      "ils": "eussent effondré"
+    },
+    "translation": "zawalić",
+    "group": 1
+  },
+  {
+    "infinitive": "efforcer",
+    "présent": {
+      "je": "efforce",
+      "tu": "efforces",
+      "il": "efforce",
+      "nous": "nous efforçons",
+      "vous": "vous efforcez",
+      "ils": "efforcent"
+    },
+    "passé_composé": {
+      "je": "me suis efforcé",
+      "tu": "es efforcé",
+      "il": "est efforcé",
+      "nous": "nous sommes efforcés",
+      "vous": "vous êtes efforcés",
+      "ils": "se sont efforcés"
+    },
+    "imparfait": {
+      "je": "efforçais",
+      "tu": "efforçais",
+      "il": "efforçait",
+      "nous": "nous efforcions",
+      "vous": "vous efforciez",
+      "ils": "efforçaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais efforcé",
+      "tu": "étais efforcé",
+      "il": "était efforcé",
+      "nous": "nous étions efforcés",
+      "vous": "vous étiez efforcés",
+      "ils": "étaient efforcés"
+    },
+    "passé_simple": {
+      "je": "efforçai",
+      "tu": "efforças",
+      "il": "efforça",
+      "nous": "nous efforçâmes",
+      "vous": "vous efforçâtes",
+      "ils": "efforcèrent"
+    },
+    "passé_antérieur": {
+      "je": "me fus efforcé",
+      "tu": "te fus efforcé",
+      "il": "se fut efforcé",
+      "nous": "nous fûmes efforcés",
+      "vous": "vous fûtes efforcés",
+      "ils": "se furent efforcés"
+    },
+    "futur_simple": {
+      "je": "efforcerai",
+      "tu": "efforceras",
+      "il": "efforcera",
+      "nous": "nous efforcerons",
+      "vous": "vous efforcerez",
+      "ils": "efforceront"
+    },
+    "futur_antérieur": {
+      "je": "me serai efforcé",
+      "tu": "te seras efforcé",
+      "il": "se sera efforcé",
+      "nous": "nous serons efforcés",
+      "vous": "vous serez efforcés",
+      "ils": "se seront efforcés"
+    },
+    "subjonctif_présent": {
+      "je": "efforce",
+      "tu": "efforces",
+      "il": "efforce",
+      "nous": "nous efforcions",
+      "vous": "vous efforciez",
+      "ils": "efforcent"
+    },
+    "subjonctif_passé": {
+      "je": "me sois efforcé",
+      "tu": "te sois efforcé",
+      "il": "se soit efforcé",
+      "nous": "nous soyons efforcés",
+      "vous": "vous soyez efforcés",
+      "ils": "se soient efforcés"
+    },
+    "subjonctif_imparfait": {
+      "je": "efforçasse",
+      "tu": "efforçasses",
+      "il": "efforçât",
+      "nous": "nous efforçassions",
+      "vous": "vous efforçassiez",
+      "ils": "efforçassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse efforcé",
+      "tu": "te fusses efforcé",
+      "il": "se fût efforcé",
+      "nous": "nous fussions efforcés",
+      "vous": "vous fussiez efforcés",
+      "ils": "se fussent efforcés"
+    },
+    "conditionnel_présent": {
+      "je": "efforcerais",
+      "tu": "efforcerais",
+      "il": "efforcerait",
+      "nous": "nous efforcerions",
+      "vous": "vous efforceriez",
+      "ils": "efforceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais efforcé",
+      "tu": "te serais efforcé",
+      "il": "se serait efforcé",
+      "nous": "nous serions efforcés",
+      "vous": "vous seriez efforcés",
+      "ils": "se seraient efforcés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse efforcé",
+      "tu": "te fusses efforcé",
+      "il": "se fût efforcé",
+      "nous": "nous fussions efforcés",
+      "vous": "vous fussiez efforcés",
+      "ils": "se fussent efforcés"
+    },
+    "translation": "zmuszać",
+    "group": 1
+  },
+  {
+    "infinitive": "effrayer",
+    "présent": {
+      "je": "effraie",
+      "tu": "effraies",
+      "il": "effraie",
+      "nous": "effrayons",
+      "vous": "effrayez",
+      "ils": "effraient"
+    },
+    "passé_composé": {
+      "je": "ai effrayé",
+      "tu": "as effrayé",
+      "il": "a effrayé",
+      "nous": "avons effrayé",
+      "vous": "avez effrayé",
+      "ils": "ont effrayé"
+    },
+    "imparfait": {
+      "je": "effrayais",
+      "tu": "effrayais",
+      "il": "effrayait",
+      "nous": "effrayions",
+      "vous": "effrayiez",
+      "ils": "effrayaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais effrayé",
+      "tu": "avais effrayé",
+      "il": "avait effrayé",
+      "nous": "avions effrayé",
+      "vous": "aviez effrayé",
+      "ils": "avaient effrayé"
+    },
+    "passé_simple": {
+      "je": "effrayai",
+      "tu": "effrayas",
+      "il": "effraya",
+      "nous": "effrayâmes",
+      "vous": "effrayâtes",
+      "ils": "effrayèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus effrayé",
+      "tu": "eus effrayé",
+      "il": "eut effrayé",
+      "nous": "eûmes effrayé",
+      "vous": "eûtes effrayé",
+      "ils": "eurent effrayé"
+    },
+    "futur_simple": {
+      "je": "effraierai",
+      "tu": "effraieras",
+      "il": "effraiera",
+      "nous": "effraierons",
+      "vous": "effraierez",
+      "ils": "effraieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai effrayé",
+      "tu": "auras effrayé",
+      "il": "aura effrayé",
+      "nous": "aurons effrayé",
+      "vous": "aurez effrayé",
+      "ils": "auront effrayé"
+    },
+    "subjonctif_présent": {
+      "je": "effraie",
+      "tu": "effraies",
+      "il": "effraie",
+      "nous": "effrayions",
+      "vous": "effrayiez",
+      "ils": "effraient"
+    },
+    "subjonctif_passé": {
+      "je": "aie effrayé",
+      "tu": "aies effrayé",
+      "il": "ait effrayé",
+      "nous": "ayons effrayé",
+      "vous": "ayez effrayé",
+      "ils": "aient effrayé"
+    },
+    "subjonctif_imparfait": {
+      "je": "effrayasse",
+      "tu": "effrayasses",
+      "il": "effrayât",
+      "nous": "effrayassions",
+      "vous": "effrayassiez",
+      "ils": "effrayassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse effrayé",
+      "tu": "eusses effrayé",
+      "il": "eût effrayé",
+      "nous": "eussions effrayé",
+      "vous": "eussiez effrayé",
+      "ils": "eussent effrayé"
+    },
+    "conditionnel_présent": {
+      "je": "effraierais",
+      "tu": "effraierais",
+      "il": "effraierait",
+      "nous": "effraierions",
+      "vous": "effraieriez",
+      "ils": "effraieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais effrayé",
+      "tu": "aurais effrayé",
+      "il": "aurait effrayé",
+      "nous": "aurions effrayé",
+      "vous": "auriez effrayé",
+      "ils": "auraient effrayé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse effrayé",
+      "tu": "eusses effrayé",
+      "il": "eût effrayé",
+      "nous": "eussions effrayé",
+      "vous": "eussiez effrayé",
+      "ils": "eussent effrayé"
+    },
+    "translation": "przerażać",
+    "group": 1
+  },
+  {
+    "infinitive": "égaler",
+    "présent": {
+      "je": "égale",
+      "tu": "égales",
+      "il": "égale",
+      "nous": "égalons",
+      "vous": "égalez",
+      "ils": "égalent"
+    },
+    "passé_composé": {
+      "je": "ai égalé",
+      "tu": "as égalé",
+      "il": "a égalé",
+      "nous": "avons égalé",
+      "vous": "avez égalé",
+      "ils": "ont égalé"
+    },
+    "imparfait": {
+      "je": "égalais",
+      "tu": "égalais",
+      "il": "égalait",
+      "nous": "égalions",
+      "vous": "égaliez",
+      "ils": "égalaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais égalé",
+      "tu": "avais égalé",
+      "il": "avait égalé",
+      "nous": "avions égalé",
+      "vous": "aviez égalé",
+      "ils": "avaient égalé"
+    },
+    "passé_simple": {
+      "je": "égalai",
+      "tu": "égalas",
+      "il": "égala",
+      "nous": "égalâmes",
+      "vous": "égalâtes",
+      "ils": "égalèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus égalé",
+      "tu": "eus égalé",
+      "il": "eut égalé",
+      "nous": "eûmes égalé",
+      "vous": "eûtes égalé",
+      "ils": "eurent égalé"
+    },
+    "futur_simple": {
+      "je": "égalerai",
+      "tu": "égaleras",
+      "il": "égalera",
+      "nous": "égalerons",
+      "vous": "égalerez",
+      "ils": "égaleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai égalé",
+      "tu": "auras égalé",
+      "il": "aura égalé",
+      "nous": "aurons égalé",
+      "vous": "aurez égalé",
+      "ils": "auront égalé"
+    },
+    "subjonctif_présent": {
+      "je": "égale",
+      "tu": "égales",
+      "il": "égale",
+      "nous": "égalions",
+      "vous": "égaliez",
+      "ils": "égalent"
+    },
+    "subjonctif_passé": {
+      "je": "aie égalé",
+      "tu": "aies égalé",
+      "il": "ait égalé",
+      "nous": "ayons égalé",
+      "vous": "ayez égalé",
+      "ils": "aient égalé"
+    },
+    "subjonctif_imparfait": {
+      "je": "égalasse",
+      "tu": "égalasses",
+      "il": "égalât",
+      "nous": "égalassions",
+      "vous": "égalassiez",
+      "ils": "égalassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse égalé",
+      "tu": "eusses égalé",
+      "il": "eût égalé",
+      "nous": "eussions égalé",
+      "vous": "eussiez égalé",
+      "ils": "eussent égalé"
+    },
+    "conditionnel_présent": {
+      "je": "égalerais",
+      "tu": "égalerais",
+      "il": "égalerait",
+      "nous": "égalerions",
+      "vous": "égaleriez",
+      "ils": "égaleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais égalé",
+      "tu": "aurais égalé",
+      "il": "aurait égalé",
+      "nous": "aurions égalé",
+      "vous": "auriez égalé",
+      "ils": "auraient égalé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse égalé",
+      "tu": "eusses égalé",
+      "il": "eût égalé",
+      "nous": "eussions égalé",
+      "vous": "eussiez égalé",
+      "ils": "eussent égalé"
+    },
+    "translation": "dwa",
+    "group": 1
+  },
+  {
+    "infinitive": "égarer",
+    "présent": {
+      "je": "égare",
+      "tu": "égares",
+      "il": "égare",
+      "nous": "égarons",
+      "vous": "égarez",
+      "ils": "égarent"
+    },
+    "passé_composé": {
+      "je": "ai égaré",
+      "tu": "as égaré",
+      "il": "a égaré",
+      "nous": "avons égaré",
+      "vous": "avez égaré",
+      "ils": "ont égaré"
+    },
+    "imparfait": {
+      "je": "égarais",
+      "tu": "égarais",
+      "il": "égarait",
+      "nous": "égarions",
+      "vous": "égariez",
+      "ils": "égaraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais égaré",
+      "tu": "avais égaré",
+      "il": "avait égaré",
+      "nous": "avions égaré",
+      "vous": "aviez égaré",
+      "ils": "avaient égaré"
+    },
+    "passé_simple": {
+      "je": "égarai",
+      "tu": "égaras",
+      "il": "égara",
+      "nous": "égarâmes",
+      "vous": "égarâtes",
+      "ils": "égarèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus égaré",
+      "tu": "eus égaré",
+      "il": "eut égaré",
+      "nous": "eûmes égaré",
+      "vous": "eûtes égaré",
+      "ils": "eurent égaré"
+    },
+    "futur_simple": {
+      "je": "égarerai",
+      "tu": "égareras",
+      "il": "égarera",
+      "nous": "égarerons",
+      "vous": "égarerez",
+      "ils": "égareront"
+    },
+    "futur_antérieur": {
+      "je": "aurai égaré",
+      "tu": "auras égaré",
+      "il": "aura égaré",
+      "nous": "aurons égaré",
+      "vous": "aurez égaré",
+      "ils": "auront égaré"
+    },
+    "subjonctif_présent": {
+      "je": "égare",
+      "tu": "égares",
+      "il": "égare",
+      "nous": "égarions",
+      "vous": "égariez",
+      "ils": "égarent"
+    },
+    "subjonctif_passé": {
+      "je": "aie égaré",
+      "tu": "aies égaré",
+      "il": "ait égaré",
+      "nous": "ayons égaré",
+      "vous": "ayez égaré",
+      "ils": "aient égaré"
+    },
+    "subjonctif_imparfait": {
+      "je": "égarasse",
+      "tu": "égarasses",
+      "il": "égarât",
+      "nous": "égarassions",
+      "vous": "égarassiez",
+      "ils": "égarassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse égaré",
+      "tu": "eusses égaré",
+      "il": "eût égaré",
+      "nous": "eussions égaré",
+      "vous": "eussiez égaré",
+      "ils": "eussent égaré"
+    },
+    "conditionnel_présent": {
+      "je": "égarerais",
+      "tu": "égarerais",
+      "il": "égarerait",
+      "nous": "égarerions",
+      "vous": "égareriez",
+      "ils": "égareraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais égaré",
+      "tu": "aurais égaré",
+      "il": "aurait égaré",
+      "nous": "aurions égaré",
+      "vous": "auriez égaré",
+      "ils": "auraient égaré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse égaré",
+      "tu": "eusses égaré",
+      "il": "eût égaré",
+      "nous": "eussions égaré",
+      "vous": "eussiez égaré",
+      "ils": "eussent égaré"
+    },
+    "translation": "zwodzić",
+    "group": 1
+  },
+  {
+    "infinitive": "égayer",
+    "présent": {
+      "je": "égaie",
+      "tu": "égaies",
+      "il": "égaie",
+      "nous": "égayons",
+      "vous": "égayez",
+      "ils": "égaient"
+    },
+    "passé_composé": {
+      "je": "ai égayé",
+      "tu": "as égayé",
+      "il": "a égayé",
+      "nous": "avons égayé",
+      "vous": "avez égayé",
+      "ils": "ont égayé"
+    },
+    "imparfait": {
+      "je": "égayais",
+      "tu": "égayais",
+      "il": "égayait",
+      "nous": "égayions",
+      "vous": "égayiez",
+      "ils": "égayaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais égayé",
+      "tu": "avais égayé",
+      "il": "avait égayé",
+      "nous": "avions égayé",
+      "vous": "aviez égayé",
+      "ils": "avaient égayé"
+    },
+    "passé_simple": {
+      "je": "égayai",
+      "tu": "égayas",
+      "il": "égaya",
+      "nous": "égayâmes",
+      "vous": "égayâtes",
+      "ils": "égayèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus égayé",
+      "tu": "eus égayé",
+      "il": "eut égayé",
+      "nous": "eûmes égayé",
+      "vous": "eûtes égayé",
+      "ils": "eurent égayé"
+    },
+    "futur_simple": {
+      "je": "égaierai",
+      "tu": "égaieras",
+      "il": "égaiera",
+      "nous": "égaierons",
+      "vous": "égaierez",
+      "ils": "égaieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai égayé",
+      "tu": "auras égayé",
+      "il": "aura égayé",
+      "nous": "aurons égayé",
+      "vous": "aurez égayé",
+      "ils": "auront égayé"
+    },
+    "subjonctif_présent": {
+      "je": "égaie",
+      "tu": "égaies",
+      "il": "égaie",
+      "nous": "égayions",
+      "vous": "égayiez",
+      "ils": "égaient"
+    },
+    "subjonctif_passé": {
+      "je": "aie égayé",
+      "tu": "aies égayé",
+      "il": "ait égayé",
+      "nous": "ayons égayé",
+      "vous": "ayez égayé",
+      "ils": "aient égayé"
+    },
+    "subjonctif_imparfait": {
+      "je": "égayasse",
+      "tu": "égayasses",
+      "il": "égayât",
+      "nous": "égayassions",
+      "vous": "égayassiez",
+      "ils": "égayassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse égayé",
+      "tu": "eusses égayé",
+      "il": "eût égayé",
+      "nous": "eussions égayé",
+      "vous": "eussiez égayé",
+      "ils": "eussent égayé"
+    },
+    "conditionnel_présent": {
+      "je": "égaierais",
+      "tu": "égaierais",
+      "il": "égaierait",
+      "nous": "égaierions",
+      "vous": "égaieriez",
+      "ils": "égaieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais égayé",
+      "tu": "aurais égayé",
+      "il": "aurait égayé",
+      "nous": "aurions égayé",
+      "vous": "auriez égayé",
+      "ils": "auraient égayé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse égayé",
+      "tu": "eusses égayé",
+      "il": "eût égayé",
+      "nous": "eussions égayé",
+      "vous": "eussiez égayé",
+      "ils": "eussent égayé"
+    },
+    "translation": "s’",
+    "group": 1
+  },
+  {
+    "infinitive": "égoutter",
+    "présent": {
+      "je": "égoutte",
+      "tu": "égouttes",
+      "il": "égoutte",
+      "nous": "égouttons",
+      "vous": "égouttez",
+      "ils": "égouttent"
+    },
+    "passé_composé": {
+      "je": "ai égoutté",
+      "tu": "as égoutté",
+      "il": "a égoutté",
+      "nous": "avons égoutté",
+      "vous": "avez égoutté",
+      "ils": "ont égoutté"
+    },
+    "imparfait": {
+      "je": "égouttais",
+      "tu": "égouttais",
+      "il": "égouttait",
+      "nous": "égouttions",
+      "vous": "égouttiez",
+      "ils": "égouttaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais égoutté",
+      "tu": "avais égoutté",
+      "il": "avait égoutté",
+      "nous": "avions égoutté",
+      "vous": "aviez égoutté",
+      "ils": "avaient égoutté"
+    },
+    "passé_simple": {
+      "je": "égouttai",
+      "tu": "égouttas",
+      "il": "égoutta",
+      "nous": "égouttâmes",
+      "vous": "égouttâtes",
+      "ils": "égouttèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus égoutté",
+      "tu": "eus égoutté",
+      "il": "eut égoutté",
+      "nous": "eûmes égoutté",
+      "vous": "eûtes égoutté",
+      "ils": "eurent égoutté"
+    },
+    "futur_simple": {
+      "je": "égoutterai",
+      "tu": "égoutteras",
+      "il": "égouttera",
+      "nous": "égoutterons",
+      "vous": "égoutterez",
+      "ils": "égoutteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai égoutté",
+      "tu": "auras égoutté",
+      "il": "aura égoutté",
+      "nous": "aurons égoutté",
+      "vous": "aurez égoutté",
+      "ils": "auront égoutté"
+    },
+    "subjonctif_présent": {
+      "je": "égoutte",
+      "tu": "égouttes",
+      "il": "égoutte",
+      "nous": "égouttions",
+      "vous": "égouttiez",
+      "ils": "égouttent"
+    },
+    "subjonctif_passé": {
+      "je": "aie égoutté",
+      "tu": "aies égoutté",
+      "il": "ait égoutté",
+      "nous": "ayons égoutté",
+      "vous": "ayez égoutté",
+      "ils": "aient égoutté"
+    },
+    "subjonctif_imparfait": {
+      "je": "égouttasse",
+      "tu": "égouttasses",
+      "il": "égouttât",
+      "nous": "égouttassions",
+      "vous": "égouttassiez",
+      "ils": "égouttassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse égoutté",
+      "tu": "eusses égoutté",
+      "il": "eût égoutté",
+      "nous": "eussions égoutté",
+      "vous": "eussiez égoutté",
+      "ils": "eussent égoutté"
+    },
+    "conditionnel_présent": {
+      "je": "égoutterais",
+      "tu": "égoutterais",
+      "il": "égoutterait",
+      "nous": "égoutterions",
+      "vous": "égoutteriez",
+      "ils": "égoutteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais égoutté",
+      "tu": "aurais égoutté",
+      "il": "aurait égoutté",
+      "nous": "aurions égoutté",
+      "vous": "auriez égoutté",
+      "ils": "auraient égoutté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse égoutté",
+      "tu": "eusses égoutté",
+      "il": "eût égoutté",
+      "nous": "eussions égoutté",
+      "vous": "eussiez égoutté",
+      "ils": "eussent égoutté"
+    },
+    "translation": "osuszać",
+    "group": 1
+  }
+]

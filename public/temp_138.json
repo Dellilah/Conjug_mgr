@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "pencher",
+    "présent": {
+      "je": "penche",
+      "tu": "penches",
+      "il": "penche",
+      "nous": "penchons",
+      "vous": "penchez",
+      "ils": "penchent"
+    },
+    "passé_composé": {
+      "je": "ai penché",
+      "tu": "as penché",
+      "il": "a penché",
+      "nous": "avons penché",
+      "vous": "avez penché",
+      "ils": "ont penché"
+    },
+    "imparfait": {
+      "je": "penchais",
+      "tu": "penchais",
+      "il": "penchait",
+      "nous": "penchions",
+      "vous": "penchiez",
+      "ils": "penchaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais penché",
+      "tu": "avais penché",
+      "il": "avait penché",
+      "nous": "avions penché",
+      "vous": "aviez penché",
+      "ils": "avaient penché"
+    },
+    "passé_simple": {
+      "je": "penchai",
+      "tu": "penchas",
+      "il": "pencha",
+      "nous": "penchâmes",
+      "vous": "penchâtes",
+      "ils": "penchèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus penché",
+      "tu": "eus penché",
+      "il": "eut penché",
+      "nous": "eûmes penché",
+      "vous": "eûtes penché",
+      "ils": "eurent penché"
+    },
+    "futur_simple": {
+      "je": "pencherai",
+      "tu": "pencheras",
+      "il": "penchera",
+      "nous": "pencherons",
+      "vous": "pencherez",
+      "ils": "pencheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai penché",
+      "tu": "auras penché",
+      "il": "aura penché",
+      "nous": "aurons penché",
+      "vous": "aurez penché",
+      "ils": "auront penché"
+    },
+    "subjonctif_présent": {
+      "je": "penche",
+      "tu": "penches",
+      "il": "penche",
+      "nous": "penchions",
+      "vous": "penchiez",
+      "ils": "penchent"
+    },
+    "subjonctif_passé": {
+      "je": "aie penché",
+      "tu": "aies penché",
+      "il": "ait penché",
+      "nous": "ayons penché",
+      "vous": "ayez penché",
+      "ils": "aient penché"
+    },
+    "subjonctif_imparfait": {
+      "je": "penchasse",
+      "tu": "penchasses",
+      "il": "penchât",
+      "nous": "penchassions",
+      "vous": "penchassiez",
+      "ils": "penchassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse penché",
+      "tu": "eusses penché",
+      "il": "eût penché",
+      "nous": "eussions penché",
+      "vous": "eussiez penché",
+      "ils": "eussent penché"
+    },
+    "conditionnel_présent": {
+      "je": "pencherais",
+      "tu": "pencherais",
+      "il": "pencherait",
+      "nous": "pencherions",
+      "vous": "pencheriez",
+      "ils": "pencheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais penché",
+      "tu": "aurais penché",
+      "il": "aurait penché",
+      "nous": "aurions penché",
+      "vous": "auriez penché",
+      "ils": "auraient penché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse penché",
+      "tu": "eusses penché",
+      "il": "eût penché",
+      "nous": "eussions penché",
+      "vous": "eussiez penché",
+      "ils": "eussent penché"
+    },
+    "translation": "przechylić",
+    "group": 1
+  },
+  {
+    "infinitive": "pendre",
+    "présent": {
+      "je": "pends",
+      "tu": "pends",
+      "il": "pend",
+      "nous": "pendons",
+      "vous": "pendez",
+      "ils": "pendent"
+    },
+    "passé_composé": {
+      "je": "ai pendu",
+      "tu": "as pendu",
+      "il": "a pendu",
+      "nous": "avons pendu",
+      "vous": "avez pendu",
+      "ils": "ont pendu"
+    },
+    "imparfait": {
+      "je": "pendais",
+      "tu": "pendais",
+      "il": "pendait",
+      "nous": "pendions",
+      "vous": "pendiez",
+      "ils": "pendaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais pendu",
+      "tu": "avais pendu",
+      "il": "avait pendu",
+      "nous": "avions pendu",
+      "vous": "aviez pendu",
+      "ils": "avaient pendu"
+    },
+    "passé_simple": {
+      "je": "pendis",
+      "tu": "pendis",
+      "il": "pendit",
+      "nous": "pendîmes",
+      "vous": "pendîtes",
+      "ils": "pendirent"
+    },
+    "passé_antérieur": {
+      "je": "eus pendu",
+      "tu": "eus pendu",
+      "il": "eut pendu",
+      "nous": "eûmes pendu",
+      "vous": "eûtes pendu",
+      "ils": "eurent pendu"
+    },
+    "futur_simple": {
+      "je": "pendrai",
+      "tu": "pendras",
+      "il": "pendra",
+      "nous": "pendrons",
+      "vous": "pendrez",
+      "ils": "pendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai pendu",
+      "tu": "auras pendu",
+      "il": "aura pendu",
+      "nous": "aurons pendu",
+      "vous": "aurez pendu",
+      "ils": "auront pendu"
+    },
+    "subjonctif_présent": {
+      "je": "pende",
+      "tu": "pendes",
+      "il": "pende",
+      "nous": "pendions",
+      "vous": "pendiez",
+      "ils": "pendent"
+    },
+    "subjonctif_passé": {
+      "je": "aie pendu",
+      "tu": "aies pendu",
+      "il": "ait pendu",
+      "nous": "ayons pendu",
+      "vous": "ayez pendu",
+      "ils": "aient pendu"
+    },
+    "subjonctif_imparfait": {
+      "je": "pendisse",
+      "tu": "pendisses",
+      "il": "pendît",
+      "nous": "pendissions",
+      "vous": "pendissiez",
+      "ils": "pendissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse pendu",
+      "tu": "eusses pendu",
+      "il": "eût pendu",
+      "nous": "eussions pendu",
+      "vous": "eussiez pendu",
+      "ils": "eussent pendu"
+    },
+    "conditionnel_présent": {
+      "je": "pendrais",
+      "tu": "pendrais",
+      "il": "pendrait",
+      "nous": "pendrions",
+      "vous": "pendriez",
+      "ils": "pendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais pendu",
+      "tu": "aurais pendu",
+      "il": "aurait pendu",
+      "nous": "aurions pendu",
+      "vous": "auriez pendu",
+      "ils": "auraient pendu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse pendu",
+      "tu": "eusses pendu",
+      "il": "eût pendu",
+      "nous": "eussions pendu",
+      "vous": "eussiez pendu",
+      "ils": "eussent pendu"
+    },
+    "translation": "wisieć",
+    "group": 3
+  },
+  {
+    "infinitive": "pénétrer",
+    "présent": {
+      "je": "pénètre",
+      "tu": "pénètres",
+      "il": "pénètre",
+      "nous": "pénétrons",
+      "vous": "pénétrez",
+      "ils": "pénètrent"
+    },
+    "passé_composé": {
+      "je": "ai pénétré",
+      "tu": "as pénétré",
+      "il": "a pénétré",
+      "nous": "avons pénétré",
+      "vous": "avez pénétré",
+      "ils": "ont pénétré"
+    },
+    "imparfait": {
+      "je": "pénétrais",
+      "tu": "pénétrais",
+      "il": "pénétrait",
+      "nous": "pénétrions",
+      "vous": "pénétriez",
+      "ils": "pénétraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais pénétré",
+      "tu": "avais pénétré",
+      "il": "avait pénétré",
+      "nous": "avions pénétré",
+      "vous": "aviez pénétré",
+      "ils": "avaient pénétré"
+    },
+    "passé_simple": {
+      "je": "pénétrai",
+      "tu": "pénétras",
+      "il": "pénétra",
+      "nous": "pénétrâmes",
+      "vous": "pénétrâtes",
+      "ils": "pénétrèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus pénétré",
+      "tu": "eus pénétré",
+      "il": "eut pénétré",
+      "nous": "eûmes pénétré",
+      "vous": "eûtes pénétré",
+      "ils": "eurent pénétré"
+    },
+    "futur_simple": {
+      "je": "pénétrerai",
+      "tu": "pénétreras",
+      "il": "pénétrera",
+      "nous": "pénétrerons",
+      "vous": "pénétrerez",
+      "ils": "pénétreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai pénétré",
+      "tu": "auras pénétré",
+      "il": "aura pénétré",
+      "nous": "aurons pénétré",
+      "vous": "aurez pénétré",
+      "ils": "auront pénétré"
+    },
+    "subjonctif_présent": {
+      "je": "pénètre",
+      "tu": "pénètres",
+      "il": "pénètre",
+      "nous": "pénétrions",
+      "vous": "pénétriez",
+      "ils": "pénètrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie pénétré",
+      "tu": "aies pénétré",
+      "il": "ait pénétré",
+      "nous": "ayons pénétré",
+      "vous": "ayez pénétré",
+      "ils": "aient pénétré"
+    },
+    "subjonctif_imparfait": {
+      "je": "pénétrasse",
+      "tu": "pénétrasses",
+      "il": "pénétrât",
+      "nous": "pénétrassions",
+      "vous": "pénétrassiez",
+      "ils": "pénétrassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse pénétré",
+      "tu": "eusses pénétré",
+      "il": "eût pénétré",
+      "nous": "eussions pénétré",
+      "vous": "eussiez pénétré",
+      "ils": "eussent pénétré"
+    },
+    "conditionnel_présent": {
+      "je": "pénétrerais",
+      "tu": "pénétrerais",
+      "il": "pénétrerait",
+      "nous": "pénétrerions",
+      "vous": "pénétreriez",
+      "ils": "pénétreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais pénétré",
+      "tu": "aurais pénétré",
+      "il": "aurait pénétré",
+      "nous": "aurions pénétré",
+      "vous": "auriez pénétré",
+      "ils": "auraient pénétré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse pénétré",
+      "tu": "eusses pénétré",
+      "il": "eût pénétré",
+      "nous": "eussions pénétré",
+      "vous": "eussiez pénétré",
+      "ils": "eussent pénétré"
+    },
+    "translation": "przenikać",
+    "group": 1
+  },
+  {
+    "infinitive": "penser",
+    "présent": {
+      "je": "pense",
+      "tu": "penses",
+      "il": "pense",
+      "nous": "pensons",
+      "vous": "pensez",
+      "ils": "pensent"
+    },
+    "passé_composé": {
+      "je": "ai pensé",
+      "tu": "as pensé",
+      "il": "a pensé",
+      "nous": "avons pensé",
+      "vous": "avez pensé",
+      "ils": "ont pensé"
+    },
+    "imparfait": {
+      "je": "pensais",
+      "tu": "pensais",
+      "il": "pensait",
+      "nous": "pensions",
+      "vous": "pensiez",
+      "ils": "pensaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais pensé",
+      "tu": "avais pensé",
+      "il": "avait pensé",
+      "nous": "avions pensé",
+      "vous": "aviez pensé",
+      "ils": "avaient pensé"
+    },
+    "passé_simple": {
+      "je": "pensai",
+      "tu": "pensas",
+      "il": "pensa",
+      "nous": "pensâmes",
+      "vous": "pensâtes",
+      "ils": "pensèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus pensé",
+      "tu": "eus pensé",
+      "il": "eut pensé",
+      "nous": "eûmes pensé",
+      "vous": "eûtes pensé",
+      "ils": "eurent pensé"
+    },
+    "futur_simple": {
+      "je": "penserai",
+      "tu": "penseras",
+      "il": "pensera",
+      "nous": "penserons",
+      "vous": "penserez",
+      "ils": "penseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai pensé",
+      "tu": "auras pensé",
+      "il": "aura pensé",
+      "nous": "aurons pensé",
+      "vous": "aurez pensé",
+      "ils": "auront pensé"
+    },
+    "subjonctif_présent": {
+      "je": "pense",
+      "tu": "penses",
+      "il": "pense",
+      "nous": "pensions",
+      "vous": "pensiez",
+      "ils": "pensent"
+    },
+    "subjonctif_passé": {
+      "je": "aie pensé",
+      "tu": "aies pensé",
+      "il": "ait pensé",
+      "nous": "ayons pensé",
+      "vous": "ayez pensé",
+      "ils": "aient pensé"
+    },
+    "subjonctif_imparfait": {
+      "je": "pensasse",
+      "tu": "pensasses",
+      "il": "pensât",
+      "nous": "pensassions",
+      "vous": "pensassiez",
+      "ils": "pensassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse pensé",
+      "tu": "eusses pensé",
+      "il": "eût pensé",
+      "nous": "eussions pensé",
+      "vous": "eussiez pensé",
+      "ils": "eussent pensé"
+    },
+    "conditionnel_présent": {
+      "je": "penserais",
+      "tu": "penserais",
+      "il": "penserait",
+      "nous": "penserions",
+      "vous": "penseriez",
+      "ils": "penseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais pensé",
+      "tu": "aurais pensé",
+      "il": "aurait pensé",
+      "nous": "aurions pensé",
+      "vous": "auriez pensé",
+      "ils": "auraient pensé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse pensé",
+      "tu": "eusses pensé",
+      "il": "eût pensé",
+      "nous": "eussions pensé",
+      "vous": "eussiez pensé",
+      "ils": "eussent pensé"
+    },
+    "translation": "myśleć",
+    "group": 1
+  },
+  {
+    "infinitive": "percer",
+    "présent": {
+      "je": "perce",
+      "tu": "perces",
+      "il": "perce",
+      "nous": "perçons",
+      "vous": "percez",
+      "ils": "percent"
+    },
+    "passé_composé": {
+      "je": "ai percé",
+      "tu": "as percé",
+      "il": "a percé",
+      "nous": "avons percé",
+      "vous": "avez percé",
+      "ils": "ont percé"
+    },
+    "imparfait": {
+      "je": "perçais",
+      "tu": "perçais",
+      "il": "perçait",
+      "nous": "percions",
+      "vous": "perciez",
+      "ils": "perçaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais percé",
+      "tu": "avais percé",
+      "il": "avait percé",
+      "nous": "avions percé",
+      "vous": "aviez percé",
+      "ils": "avaient percé"
+    },
+    "passé_simple": {
+      "je": "perçai",
+      "tu": "perças",
+      "il": "perça",
+      "nous": "perçâmes",
+      "vous": "perçâtes",
+      "ils": "percèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus percé",
+      "tu": "eus percé",
+      "il": "eut percé",
+      "nous": "eûmes percé",
+      "vous": "eûtes percé",
+      "ils": "eurent percé"
+    },
+    "futur_simple": {
+      "je": "percerai",
+      "tu": "perceras",
+      "il": "percera",
+      "nous": "percerons",
+      "vous": "percerez",
+      "ils": "perceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai percé",
+      "tu": "auras percé",
+      "il": "aura percé",
+      "nous": "aurons percé",
+      "vous": "aurez percé",
+      "ils": "auront percé"
+    },
+    "subjonctif_présent": {
+      "je": "perce",
+      "tu": "perces",
+      "il": "perce",
+      "nous": "percions",
+      "vous": "perciez",
+      "ils": "percent"
+    },
+    "subjonctif_passé": {
+      "je": "aie percé",
+      "tu": "aies percé",
+      "il": "ait percé",
+      "nous": "ayons percé",
+      "vous": "ayez percé",
+      "ils": "aient percé"
+    },
+    "subjonctif_imparfait": {
+      "je": "perçasse",
+      "tu": "perçasses",
+      "il": "perçât",
+      "nous": "perçassions",
+      "vous": "perçassiez",
+      "ils": "perçassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse percé",
+      "tu": "eusses percé",
+      "il": "eût percé",
+      "nous": "eussions percé",
+      "vous": "eussiez percé",
+      "ils": "eussent percé"
+    },
+    "conditionnel_présent": {
+      "je": "percerais",
+      "tu": "percerais",
+      "il": "percerait",
+      "nous": "percerions",
+      "vous": "perceriez",
+      "ils": "perceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais percé",
+      "tu": "aurais percé",
+      "il": "aurait percé",
+      "nous": "aurions percé",
+      "vous": "auriez percé",
+      "ils": "auraient percé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse percé",
+      "tu": "eusses percé",
+      "il": "eût percé",
+      "nous": "eussions percé",
+      "vous": "eussiez percé",
+      "ils": "eussent percé"
+    },
+    "translation": "wyrzynać",
+    "group": 1
+  },
+  {
+    "infinitive": "percevoir",
+    "présent": {
+      "je": "perçois",
+      "tu": "perçois",
+      "il": "perçoit",
+      "nous": "percevons",
+      "vous": "percevez",
+      "ils": "perçoivent"
+    },
+    "passé_composé": {
+      "je": "ai perçu",
+      "tu": "as perçu",
+      "il": "a perçu",
+      "nous": "avons perçu",
+      "vous": "avez perçu",
+      "ils": "ont perçu"
+    },
+    "imparfait": {
+      "je": "percevais",
+      "tu": "percevais",
+      "il": "percevait",
+      "nous": "percevions",
+      "vous": "perceviez",
+      "ils": "percevaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais perçu",
+      "tu": "avais perçu",
+      "il": "avait perçu",
+      "nous": "avions perçu",
+      "vous": "aviez perçu",
+      "ils": "avaient perçu"
+    },
+    "passé_simple": {
+      "je": "perçus",
+      "tu": "perçus",
+      "il": "perçut",
+      "nous": "perçûmes",
+      "vous": "perçûtes",
+      "ils": "perçurent"
+    },
+    "passé_antérieur": {
+      "je": "eus perçu",
+      "tu": "eus perçu",
+      "il": "eut perçu",
+      "nous": "eûmes perçu",
+      "vous": "eûtes perçu",
+      "ils": "eurent perçu"
+    },
+    "futur_simple": {
+      "je": "percevrai",
+      "tu": "percevras",
+      "il": "percevra",
+      "nous": "percevrons",
+      "vous": "percevrez",
+      "ils": "percevront"
+    },
+    "futur_antérieur": {
+      "je": "aurai perçu",
+      "tu": "auras perçu",
+      "il": "aura perçu",
+      "nous": "aurons perçu",
+      "vous": "aurez perçu",
+      "ils": "auront perçu"
+    },
+    "subjonctif_présent": {
+      "je": "perçoive",
+      "tu": "perçoives",
+      "il": "perçoive",
+      "nous": "percevions",
+      "vous": "perceviez",
+      "ils": "perçoivent"
+    },
+    "subjonctif_passé": {
+      "je": "aie perçu",
+      "tu": "aies perçu",
+      "il": "ait perçu",
+      "nous": "ayons perçu",
+      "vous": "ayez perçu",
+      "ils": "aient perçu"
+    },
+    "subjonctif_imparfait": {
+      "je": "perçusse",
+      "tu": "perçusses",
+      "il": "perçût",
+      "nous": "perçussions",
+      "vous": "perçussiez",
+      "ils": "perçussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse perçu",
+      "tu": "eusses perçu",
+      "il": "eût perçu",
+      "nous": "eussions perçu",
+      "vous": "eussiez perçu",
+      "ils": "eussent perçu"
+    },
+    "conditionnel_présent": {
+      "je": "percevrais",
+      "tu": "percevrais",
+      "il": "percevrait",
+      "nous": "percevrions",
+      "vous": "percevriez",
+      "ils": "percevraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais perçu",
+      "tu": "aurais perçu",
+      "il": "aurait perçu",
+      "nous": "aurions perçu",
+      "vous": "auriez perçu",
+      "ils": "auraient perçu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse perçu",
+      "tu": "eusses perçu",
+      "il": "eût perçu",
+      "nous": "eussions perçu",
+      "vous": "eussiez perçu",
+      "ils": "eussent perçu"
+    },
+    "translation": "spostrzegać",
+    "group": 3
+  },
+  {
+    "infinitive": "perdre",
+    "présent": {
+      "je": "perds",
+      "tu": "perds",
+      "il": "perd",
+      "nous": "perdons",
+      "vous": "perdez",
+      "ils": "perdent"
+    },
+    "passé_composé": {
+      "je": "ai perdu",
+      "tu": "as perdu",
+      "il": "a perdu",
+      "nous": "avons perdu",
+      "vous": "avez perdu",
+      "ils": "ont perdu"
+    },
+    "imparfait": {
+      "je": "perdais",
+      "tu": "perdais",
+      "il": "perdait",
+      "nous": "perdions",
+      "vous": "perdiez",
+      "ils": "perdaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais perdu",
+      "tu": "avais perdu",
+      "il": "avait perdu",
+      "nous": "avions perdu",
+      "vous": "aviez perdu",
+      "ils": "avaient perdu"
+    },
+    "passé_simple": {
+      "je": "perdis",
+      "tu": "perdis",
+      "il": "perdit",
+      "nous": "perdîmes",
+      "vous": "perdîtes",
+      "ils": "perdirent"
+    },
+    "passé_antérieur": {
+      "je": "eus perdu",
+      "tu": "eus perdu",
+      "il": "eut perdu",
+      "nous": "eûmes perdu",
+      "vous": "eûtes perdu",
+      "ils": "eurent perdu"
+    },
+    "futur_simple": {
+      "je": "perdrai",
+      "tu": "perdras",
+      "il": "perdra",
+      "nous": "perdrons",
+      "vous": "perdrez",
+      "ils": "perdront"
+    },
+    "futur_antérieur": {
+      "je": "aurai perdu",
+      "tu": "auras perdu",
+      "il": "aura perdu",
+      "nous": "aurons perdu",
+      "vous": "aurez perdu",
+      "ils": "auront perdu"
+    },
+    "subjonctif_présent": {
+      "je": "perde",
+      "tu": "perdes",
+      "il": "perde",
+      "nous": "perdions",
+      "vous": "perdiez",
+      "ils": "perdent"
+    },
+    "subjonctif_passé": {
+      "je": "aie perdu",
+      "tu": "aies perdu",
+      "il": "ait perdu",
+      "nous": "ayons perdu",
+      "vous": "ayez perdu",
+      "ils": "aient perdu"
+    },
+    "subjonctif_imparfait": {
+      "je": "perdisse",
+      "tu": "perdisses",
+      "il": "perdît",
+      "nous": "perdissions",
+      "vous": "perdissiez",
+      "ils": "perdissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse perdu",
+      "tu": "eusses perdu",
+      "il": "eût perdu",
+      "nous": "eussions perdu",
+      "vous": "eussiez perdu",
+      "ils": "eussent perdu"
+    },
+    "conditionnel_présent": {
+      "je": "perdrais",
+      "tu": "perdrais",
+      "il": "perdrait",
+      "nous": "perdrions",
+      "vous": "perdriez",
+      "ils": "perdraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais perdu",
+      "tu": "aurais perdu",
+      "il": "aurait perdu",
+      "nous": "aurions perdu",
+      "vous": "auriez perdu",
+      "ils": "auraient perdu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse perdu",
+      "tu": "eusses perdu",
+      "il": "eût perdu",
+      "nous": "eussions perdu",
+      "vous": "eussiez perdu",
+      "ils": "eussent perdu"
+    },
+    "translation": "przegrywać",
+    "group": 3
+  },
+  {
+    "infinitive": "perdurer",
+    "présent": {
+      "je": "perdure",
+      "tu": "perdures",
+      "il": "perdure",
+      "nous": "perdurons",
+      "vous": "perdurez",
+      "ils": "perdurent"
+    },
+    "passé_composé": {
+      "je": "ai perduré",
+      "tu": "as perduré",
+      "il": "a perduré",
+      "nous": "avons perduré",
+      "vous": "avez perduré",
+      "ils": "ont perduré"
+    },
+    "imparfait": {
+      "je": "perdurais",
+      "tu": "perdurais",
+      "il": "perdurait",
+      "nous": "perdurions",
+      "vous": "perduriez",
+      "ils": "perduraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais perduré",
+      "tu": "avais perduré",
+      "il": "avait perduré",
+      "nous": "avions perduré",
+      "vous": "aviez perduré",
+      "ils": "avaient perduré"
+    },
+    "passé_simple": {
+      "je": "perdurai",
+      "tu": "perduras",
+      "il": "perdura",
+      "nous": "perdurâmes",
+      "vous": "perdurâtes",
+      "ils": "perdurèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus perduré",
+      "tu": "eus perduré",
+      "il": "eut perduré",
+      "nous": "eûmes perduré",
+      "vous": "eûtes perduré",
+      "ils": "eurent perduré"
+    },
+    "futur_simple": {
+      "je": "perdurerai",
+      "tu": "perdureras",
+      "il": "perdurera",
+      "nous": "perdurerons",
+      "vous": "perdurerez",
+      "ils": "perdureront"
+    },
+    "futur_antérieur": {
+      "je": "aurai perduré",
+      "tu": "auras perduré",
+      "il": "aura perduré",
+      "nous": "aurons perduré",
+      "vous": "aurez perduré",
+      "ils": "auront perduré"
+    },
+    "subjonctif_présent": {
+      "je": "perdure",
+      "tu": "perdures",
+      "il": "perdure",
+      "nous": "perdurions",
+      "vous": "perduriez",
+      "ils": "perdurent"
+    },
+    "subjonctif_passé": {
+      "je": "aie perduré",
+      "tu": "aies perduré",
+      "il": "ait perduré",
+      "nous": "ayons perduré",
+      "vous": "ayez perduré",
+      "ils": "aient perduré"
+    },
+    "subjonctif_imparfait": {
+      "je": "perdurasse",
+      "tu": "perdurasses",
+      "il": "perdurât",
+      "nous": "perdurassions",
+      "vous": "perdurassiez",
+      "ils": "perdurassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse perduré",
+      "tu": "eusses perduré",
+      "il": "eût perduré",
+      "nous": "eussions perduré",
+      "vous": "eussiez perduré",
+      "ils": "eussent perduré"
+    },
+    "conditionnel_présent": {
+      "je": "perdurerais",
+      "tu": "perdurerais",
+      "il": "perdurerait",
+      "nous": "perdurerions",
+      "vous": "perdureriez",
+      "ils": "perdureraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais perduré",
+      "tu": "aurais perduré",
+      "il": "aurait perduré",
+      "nous": "aurions perduré",
+      "vous": "auriez perduré",
+      "ils": "auraient perduré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse perduré",
+      "tu": "eusses perduré",
+      "il": "eût perduré",
+      "nous": "eussions perduré",
+      "vous": "eussiez perduré",
+      "ils": "eussent perduré"
+    },
+    "translation": "perforować",
+    "group": 1
+  },
+  {
+    "infinitive": "pérenniser",
+    "présent": {
+      "je": "pérennise",
+      "tu": "pérennises",
+      "il": "pérennise",
+      "nous": "pérennisons",
+      "vous": "pérennisez",
+      "ils": "pérennisent"
+    },
+    "passé_composé": {
+      "je": "ai pérennisé",
+      "tu": "as pérennisé",
+      "il": "a pérennisé",
+      "nous": "avons pérennisé",
+      "vous": "avez pérennisé",
+      "ils": "ont pérennisé"
+    },
+    "imparfait": {
+      "je": "pérennisais",
+      "tu": "pérennisais",
+      "il": "pérennisait",
+      "nous": "pérennisions",
+      "vous": "pérennisiez",
+      "ils": "pérennisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais pérennisé",
+      "tu": "avais pérennisé",
+      "il": "avait pérennisé",
+      "nous": "avions pérennisé",
+      "vous": "aviez pérennisé",
+      "ils": "avaient pérennisé"
+    },
+    "passé_simple": {
+      "je": "pérennisai",
+      "tu": "pérennisas",
+      "il": "pérennisa",
+      "nous": "pérennisâmes",
+      "vous": "pérennisâtes",
+      "ils": "pérennisèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus pérennisé",
+      "tu": "eus pérennisé",
+      "il": "eut pérennisé",
+      "nous": "eûmes pérennisé",
+      "vous": "eûtes pérennisé",
+      "ils": "eurent pérennisé"
+    },
+    "futur_simple": {
+      "je": "pérenniserai",
+      "tu": "pérenniseras",
+      "il": "pérennisera",
+      "nous": "pérenniserons",
+      "vous": "pérenniserez",
+      "ils": "pérenniseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai pérennisé",
+      "tu": "auras pérennisé",
+      "il": "aura pérennisé",
+      "nous": "aurons pérennisé",
+      "vous": "aurez pérennisé",
+      "ils": "auront pérennisé"
+    },
+    "subjonctif_présent": {
+      "je": "pérennise",
+      "tu": "pérennises",
+      "il": "pérennise",
+      "nous": "pérennisions",
+      "vous": "pérennisiez",
+      "ils": "pérennisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie pérennisé",
+      "tu": "aies pérennisé",
+      "il": "ait pérennisé",
+      "nous": "ayons pérennisé",
+      "vous": "ayez pérennisé",
+      "ils": "aient pérennisé"
+    },
+    "subjonctif_imparfait": {
+      "je": "pérennisasse",
+      "tu": "pérennisasses",
+      "il": "pérennisât",
+      "nous": "pérennisassions",
+      "vous": "pérennisassiez",
+      "ils": "pérennisassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse pérennisé",
+      "tu": "eusses pérennisé",
+      "il": "eût pérennisé",
+      "nous": "eussions pérennisé",
+      "vous": "eussiez pérennisé",
+      "ils": "eussent pérennisé"
+    },
+    "conditionnel_présent": {
+      "je": "pérenniserais",
+      "tu": "pérenniserais",
+      "il": "pérenniserait",
+      "nous": "pérenniserions",
+      "vous": "pérenniseriez",
+      "ils": "pérenniseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais pérennisé",
+      "tu": "aurais pérennisé",
+      "il": "aurait pérennisé",
+      "nous": "aurions pérennisé",
+      "vous": "auriez pérennisé",
+      "ils": "auraient pérennisé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse pérennisé",
+      "tu": "eusses pérennisé",
+      "il": "eût pérennisé",
+      "nous": "eussions pérennisé",
+      "vous": "eussiez pérennisé",
+      "ils": "eussent pérennisé"
+    },
+    "translation": "tyranizować",
+    "group": 1
+  },
+  {
+    "infinitive": "périr",
+    "présent": {
+      "je": "péris",
+      "tu": "péris",
+      "il": "périt",
+      "nous": "périssons",
+      "vous": "périssez",
+      "ils": "périssent"
+    },
+    "passé_composé": {
+      "je": "ai péri",
+      "tu": "as péri",
+      "il": "a péri",
+      "nous": "avons péri",
+      "vous": "avez péri",
+      "ils": "ont péri"
+    },
+    "imparfait": {
+      "je": "périssais",
+      "tu": "périssais",
+      "il": "périssait",
+      "nous": "périssions",
+      "vous": "périssiez",
+      "ils": "périssaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais péri",
+      "tu": "avais péri",
+      "il": "avait péri",
+      "nous": "avions péri",
+      "vous": "aviez péri",
+      "ils": "avaient péri"
+    },
+    "passé_simple": {
+      "je": "péris",
+      "tu": "péris",
+      "il": "périt",
+      "nous": "pérîmes",
+      "vous": "pérîtes",
+      "ils": "périrent"
+    },
+    "passé_antérieur": {
+      "je": "eus péri",
+      "tu": "eus péri",
+      "il": "eut péri",
+      "nous": "eûmes péri",
+      "vous": "eûtes péri",
+      "ils": "eurent péri"
+    },
+    "futur_simple": {
+      "je": "périrai",
+      "tu": "périras",
+      "il": "périra",
+      "nous": "périrons",
+      "vous": "périrez",
+      "ils": "périront"
+    },
+    "futur_antérieur": {
+      "je": "aurai péri",
+      "tu": "auras péri",
+      "il": "aura péri",
+      "nous": "aurons péri",
+      "vous": "aurez péri",
+      "ils": "auront péri"
+    },
+    "subjonctif_présent": {
+      "je": "périsse",
+      "tu": "périsses",
+      "il": "périsse",
+      "nous": "périssions",
+      "vous": "périssiez",
+      "ils": "périssent"
+    },
+    "subjonctif_passé": {
+      "je": "aie péri",
+      "tu": "aies péri",
+      "il": "ait péri",
+      "nous": "ayons péri",
+      "vous": "ayez péri",
+      "ils": "aient péri"
+    },
+    "subjonctif_imparfait": {
+      "je": "périsse",
+      "tu": "périsses",
+      "il": "pérît",
+      "nous": "périssions",
+      "vous": "périssiez",
+      "ils": "périssent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse péri",
+      "tu": "eusses péri",
+      "il": "eût péri",
+      "nous": "eussions péri",
+      "vous": "eussiez péri",
+      "ils": "eussent péri"
+    },
+    "conditionnel_présent": {
+      "je": "périrais",
+      "tu": "périrais",
+      "il": "périrait",
+      "nous": "péririons",
+      "vous": "péririez",
+      "ils": "périraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais péri",
+      "tu": "aurais péri",
+      "il": "aurait péri",
+      "nous": "aurions péri",
+      "vous": "auriez péri",
+      "ils": "auraient péri"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse péri",
+      "tu": "eusses péri",
+      "il": "eût péri",
+      "nous": "eussions péri",
+      "vous": "eussiez péri",
+      "ils": "eussent péri"
+    },
+    "translation": "périr",
+    "group": 2
+  }
+]

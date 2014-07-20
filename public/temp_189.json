@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "tirer",
+    "présent": {
+      "je": "tire",
+      "tu": "tires",
+      "il": "tire",
+      "nous": "tirons",
+      "vous": "tirez",
+      "ils": "tirent"
+    },
+    "passé_composé": {
+      "je": "ai tiré",
+      "tu": "as tiré",
+      "il": "a tiré",
+      "nous": "avons tiré",
+      "vous": "avez tiré",
+      "ils": "ont tiré"
+    },
+    "imparfait": {
+      "je": "tirais",
+      "tu": "tirais",
+      "il": "tirait",
+      "nous": "tirions",
+      "vous": "tiriez",
+      "ils": "tiraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais tiré",
+      "tu": "avais tiré",
+      "il": "avait tiré",
+      "nous": "avions tiré",
+      "vous": "aviez tiré",
+      "ils": "avaient tiré"
+    },
+    "passé_simple": {
+      "je": "tirai",
+      "tu": "tiras",
+      "il": "tira",
+      "nous": "tirâmes",
+      "vous": "tirâtes",
+      "ils": "tirèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus tiré",
+      "tu": "eus tiré",
+      "il": "eut tiré",
+      "nous": "eûmes tiré",
+      "vous": "eûtes tiré",
+      "ils": "eurent tiré"
+    },
+    "futur_simple": {
+      "je": "tirerai",
+      "tu": "tireras",
+      "il": "tirera",
+      "nous": "tirerons",
+      "vous": "tirerez",
+      "ils": "tireront"
+    },
+    "futur_antérieur": {
+      "je": "aurai tiré",
+      "tu": "auras tiré",
+      "il": "aura tiré",
+      "nous": "aurons tiré",
+      "vous": "aurez tiré",
+      "ils": "auront tiré"
+    },
+    "subjonctif_présent": {
+      "je": "tire",
+      "tu": "tires",
+      "il": "tire",
+      "nous": "tirions",
+      "vous": "tiriez",
+      "ils": "tirent"
+    },
+    "subjonctif_passé": {
+      "je": "aie tiré",
+      "tu": "aies tiré",
+      "il": "ait tiré",
+      "nous": "ayons tiré",
+      "vous": "ayez tiré",
+      "ils": "aient tiré"
+    },
+    "subjonctif_imparfait": {
+      "je": "tirasse",
+      "tu": "tirasses",
+      "il": "tirât",
+      "nous": "tirassions",
+      "vous": "tirassiez",
+      "ils": "tirassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse tiré",
+      "tu": "eusses tiré",
+      "il": "eût tiré",
+      "nous": "eussions tiré",
+      "vous": "eussiez tiré",
+      "ils": "eussent tiré"
+    },
+    "conditionnel_présent": {
+      "je": "tirerais",
+      "tu": "tirerais",
+      "il": "tirerait",
+      "nous": "tirerions",
+      "vous": "tireriez",
+      "ils": "tireraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais tiré",
+      "tu": "aurais tiré",
+      "il": "aurait tiré",
+      "nous": "aurions tiré",
+      "vous": "auriez tiré",
+      "ils": "auraient tiré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse tiré",
+      "tu": "eusses tiré",
+      "il": "eût tiré",
+      "nous": "eussions tiré",
+      "vous": "eussiez tiré",
+      "ils": "eussent tiré"
+    },
+    "translation": "ciągnąć",
+    "group": 1
+  },
+  {
+    "infinitive": "titiller",
+    "présent": {
+      "je": "titille",
+      "tu": "titilles",
+      "il": "titille",
+      "nous": "titillons",
+      "vous": "titillez",
+      "ils": "titillent"
+    },
+    "passé_composé": {
+      "je": "ai titillé",
+      "tu": "as titillé",
+      "il": "a titillé",
+      "nous": "avons titillé",
+      "vous": "avez titillé",
+      "ils": "ont titillé"
+    },
+    "imparfait": {
+      "je": "titillais",
+      "tu": "titillais",
+      "il": "titillait",
+      "nous": "titillions",
+      "vous": "titilliez",
+      "ils": "titillaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais titillé",
+      "tu": "avais titillé",
+      "il": "avait titillé",
+      "nous": "avions titillé",
+      "vous": "aviez titillé",
+      "ils": "avaient titillé"
+    },
+    "passé_simple": {
+      "je": "titillai",
+      "tu": "titillas",
+      "il": "titilla",
+      "nous": "titillâmes",
+      "vous": "titillâtes",
+      "ils": "titillèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus titillé",
+      "tu": "eus titillé",
+      "il": "eut titillé",
+      "nous": "eûmes titillé",
+      "vous": "eûtes titillé",
+      "ils": "eurent titillé"
+    },
+    "futur_simple": {
+      "je": "titillerai",
+      "tu": "titilleras",
+      "il": "titillera",
+      "nous": "titillerons",
+      "vous": "titillerez",
+      "ils": "titilleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai titillé",
+      "tu": "auras titillé",
+      "il": "aura titillé",
+      "nous": "aurons titillé",
+      "vous": "aurez titillé",
+      "ils": "auront titillé"
+    },
+    "subjonctif_présent": {
+      "je": "titille",
+      "tu": "titilles",
+      "il": "titille",
+      "nous": "titillions",
+      "vous": "titilliez",
+      "ils": "titillent"
+    },
+    "subjonctif_passé": {
+      "je": "aie titillé",
+      "tu": "aies titillé",
+      "il": "ait titillé",
+      "nous": "ayons titillé",
+      "vous": "ayez titillé",
+      "ils": "aient titillé"
+    },
+    "subjonctif_imparfait": {
+      "je": "titillasse",
+      "tu": "titillasses",
+      "il": "titillât",
+      "nous": "titillassions",
+      "vous": "titillassiez",
+      "ils": "titillassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse titillé",
+      "tu": "eusses titillé",
+      "il": "eût titillé",
+      "nous": "eussions titillé",
+      "vous": "eussiez titillé",
+      "ils": "eussent titillé"
+    },
+    "conditionnel_présent": {
+      "je": "titillerais",
+      "tu": "titillerais",
+      "il": "titillerait",
+      "nous": "titillerions",
+      "vous": "titilleriez",
+      "ils": "titilleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais titillé",
+      "tu": "aurais titillé",
+      "il": "aurait titillé",
+      "nous": "aurions titillé",
+      "vous": "auriez titillé",
+      "ils": "auraient titillé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse titillé",
+      "tu": "eusses titillé",
+      "il": "eût titillé",
+      "nous": "eussions titillé",
+      "vous": "eussiez titillé",
+      "ils": "eussent titillé"
+    },
+    "translation": "stymulować",
+    "group": 1
+  },
+  {
+    "infinitive": "toiler",
+    "présent": {
+      "je": "toile",
+      "tu": "toiles",
+      "il": "toile",
+      "nous": "toilons",
+      "vous": "toilez",
+      "ils": "toilent"
+    },
+    "passé_composé": {
+      "je": "ai toilé",
+      "tu": "as toilé",
+      "il": "a toilé",
+      "nous": "avons toilé",
+      "vous": "avez toilé",
+      "ils": "ont toilé"
+    },
+    "imparfait": {
+      "je": "toilais",
+      "tu": "toilais",
+      "il": "toilait",
+      "nous": "toilions",
+      "vous": "toiliez",
+      "ils": "toilaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais toilé",
+      "tu": "avais toilé",
+      "il": "avait toilé",
+      "nous": "avions toilé",
+      "vous": "aviez toilé",
+      "ils": "avaient toilé"
+    },
+    "passé_simple": {
+      "je": "toilai",
+      "tu": "toilas",
+      "il": "toila",
+      "nous": "toilâmes",
+      "vous": "toilâtes",
+      "ils": "toilèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus toilé",
+      "tu": "eus toilé",
+      "il": "eut toilé",
+      "nous": "eûmes toilé",
+      "vous": "eûtes toilé",
+      "ils": "eurent toilé"
+    },
+    "futur_simple": {
+      "je": "toilerai",
+      "tu": "toileras",
+      "il": "toilera",
+      "nous": "toilerons",
+      "vous": "toilerez",
+      "ils": "toileront"
+    },
+    "futur_antérieur": {
+      "je": "aurai toilé",
+      "tu": "auras toilé",
+      "il": "aura toilé",
+      "nous": "aurons toilé",
+      "vous": "aurez toilé",
+      "ils": "auront toilé"
+    },
+    "subjonctif_présent": {
+      "je": "toile",
+      "tu": "toiles",
+      "il": "toile",
+      "nous": "toilions",
+      "vous": "toiliez",
+      "ils": "toilent"
+    },
+    "subjonctif_passé": {
+      "je": "aie toilé",
+      "tu": "aies toilé",
+      "il": "ait toilé",
+      "nous": "ayons toilé",
+      "vous": "ayez toilé",
+      "ils": "aient toilé"
+    },
+    "subjonctif_imparfait": {
+      "je": "toilasse",
+      "tu": "toilasses",
+      "il": "toilât",
+      "nous": "toilassions",
+      "vous": "toilassiez",
+      "ils": "toilassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse toilé",
+      "tu": "eusses toilé",
+      "il": "eût toilé",
+      "nous": "eussions toilé",
+      "vous": "eussiez toilé",
+      "ils": "eussent toilé"
+    },
+    "conditionnel_présent": {
+      "je": "toilerais",
+      "tu": "toilerais",
+      "il": "toilerait",
+      "nous": "toilerions",
+      "vous": "toileriez",
+      "ils": "toileraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais toilé",
+      "tu": "aurais toilé",
+      "il": "aurait toilé",
+      "nous": "aurions toilé",
+      "vous": "auriez toilé",
+      "ils": "auraient toilé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse toilé",
+      "tu": "eusses toilé",
+      "il": "eût toilé",
+      "nous": "eussions toilé",
+      "vous": "eussiez toilé",
+      "ils": "eussent toilé"
+    },
+    "translation": "płótno",
+    "group": 1
+  },
+  {
+    "infinitive": "toiser",
+    "présent": {
+      "je": "toise",
+      "tu": "toises",
+      "il": "toise",
+      "nous": "toisons",
+      "vous": "toisez",
+      "ils": "toisent"
+    },
+    "passé_composé": {
+      "je": "ai toisé",
+      "tu": "as toisé",
+      "il": "a toisé",
+      "nous": "avons toisé",
+      "vous": "avez toisé",
+      "ils": "ont toisé"
+    },
+    "imparfait": {
+      "je": "toisais",
+      "tu": "toisais",
+      "il": "toisait",
+      "nous": "toisions",
+      "vous": "toisiez",
+      "ils": "toisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais toisé",
+      "tu": "avais toisé",
+      "il": "avait toisé",
+      "nous": "avions toisé",
+      "vous": "aviez toisé",
+      "ils": "avaient toisé"
+    },
+    "passé_simple": {
+      "je": "toisai",
+      "tu": "toisas",
+      "il": "toisa",
+      "nous": "toisâmes",
+      "vous": "toisâtes",
+      "ils": "toisèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus toisé",
+      "tu": "eus toisé",
+      "il": "eut toisé",
+      "nous": "eûmes toisé",
+      "vous": "eûtes toisé",
+      "ils": "eurent toisé"
+    },
+    "futur_simple": {
+      "je": "toiserai",
+      "tu": "toiseras",
+      "il": "toisera",
+      "nous": "toiserons",
+      "vous": "toiserez",
+      "ils": "toiseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai toisé",
+      "tu": "auras toisé",
+      "il": "aura toisé",
+      "nous": "aurons toisé",
+      "vous": "aurez toisé",
+      "ils": "auront toisé"
+    },
+    "subjonctif_présent": {
+      "je": "toise",
+      "tu": "toises",
+      "il": "toise",
+      "nous": "toisions",
+      "vous": "toisiez",
+      "ils": "toisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie toisé",
+      "tu": "aies toisé",
+      "il": "ait toisé",
+      "nous": "ayons toisé",
+      "vous": "ayez toisé",
+      "ils": "aient toisé"
+    },
+    "subjonctif_imparfait": {
+      "je": "toisasse",
+      "tu": "toisasses",
+      "il": "toisât",
+      "nous": "toisassions",
+      "vous": "toisassiez",
+      "ils": "toisassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse toisé",
+      "tu": "eusses toisé",
+      "il": "eût toisé",
+      "nous": "eussions toisé",
+      "vous": "eussiez toisé",
+      "ils": "eussent toisé"
+    },
+    "conditionnel_présent": {
+      "je": "toiserais",
+      "tu": "toiserais",
+      "il": "toiserait",
+      "nous": "toiserions",
+      "vous": "toiseriez",
+      "ils": "toiseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais toisé",
+      "tu": "aurais toisé",
+      "il": "aurait toisé",
+      "nous": "aurions toisé",
+      "vous": "auriez toisé",
+      "ils": "auraient toisé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse toisé",
+      "tu": "eusses toisé",
+      "il": "eût toisé",
+      "nous": "eussions toisé",
+      "vous": "eussiez toisé",
+      "ils": "eussent toisé"
+    },
+    "translation": "mierzyć",
+    "group": 1
+  },
+  {
+    "infinitive": "tolérer",
+    "présent": {
+      "je": "tolère",
+      "tu": "tolères",
+      "il": "tolère",
+      "nous": "tolérons",
+      "vous": "tolérez",
+      "ils": "tolèrent"
+    },
+    "passé_composé": {
+      "je": "ai toléré",
+      "tu": "as toléré",
+      "il": "a toléré",
+      "nous": "avons toléré",
+      "vous": "avez toléré",
+      "ils": "ont toléré"
+    },
+    "imparfait": {
+      "je": "tolérais",
+      "tu": "tolérais",
+      "il": "tolérait",
+      "nous": "tolérions",
+      "vous": "tolériez",
+      "ils": "toléraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais toléré",
+      "tu": "avais toléré",
+      "il": "avait toléré",
+      "nous": "avions toléré",
+      "vous": "aviez toléré",
+      "ils": "avaient toléré"
+    },
+    "passé_simple": {
+      "je": "tolérai",
+      "tu": "toléras",
+      "il": "toléra",
+      "nous": "tolérâmes",
+      "vous": "tolérâtes",
+      "ils": "tolérèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus toléré",
+      "tu": "eus toléré",
+      "il": "eut toléré",
+      "nous": "eûmes toléré",
+      "vous": "eûtes toléré",
+      "ils": "eurent toléré"
+    },
+    "futur_simple": {
+      "je": "tolérerai",
+      "tu": "toléreras",
+      "il": "tolérera",
+      "nous": "tolérerons",
+      "vous": "tolérerez",
+      "ils": "toléreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai toléré",
+      "tu": "auras toléré",
+      "il": "aura toléré",
+      "nous": "aurons toléré",
+      "vous": "aurez toléré",
+      "ils": "auront toléré"
+    },
+    "subjonctif_présent": {
+      "je": "tolère",
+      "tu": "tolères",
+      "il": "tolère",
+      "nous": "tolérions",
+      "vous": "tolériez",
+      "ils": "tolèrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie toléré",
+      "tu": "aies toléré",
+      "il": "ait toléré",
+      "nous": "ayons toléré",
+      "vous": "ayez toléré",
+      "ils": "aient toléré"
+    },
+    "subjonctif_imparfait": {
+      "je": "tolérasse",
+      "tu": "tolérasses",
+      "il": "tolérât",
+      "nous": "tolérassions",
+      "vous": "tolérassiez",
+      "ils": "tolérassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse toléré",
+      "tu": "eusses toléré",
+      "il": "eût toléré",
+      "nous": "eussions toléré",
+      "vous": "eussiez toléré",
+      "ils": "eussent toléré"
+    },
+    "conditionnel_présent": {
+      "je": "tolérerais",
+      "tu": "tolérerais",
+      "il": "tolérerait",
+      "nous": "tolérerions",
+      "vous": "toléreriez",
+      "ils": "toléreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais toléré",
+      "tu": "aurais toléré",
+      "il": "aurait toléré",
+      "nous": "aurions toléré",
+      "vous": "auriez toléré",
+      "ils": "auraient toléré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse toléré",
+      "tu": "eusses toléré",
+      "il": "eût toléré",
+      "nous": "eussions toléré",
+      "vous": "eussiez toléré",
+      "ils": "eussent toléré"
+    },
+    "translation": "tolerować",
+    "group": 1
+  },
+  {
+    "infinitive": "tomber",
+    "présent": {
+      "je": "tombe",
+      "tu": "tombes",
+      "il": "tombe",
+      "nous": "tombons",
+      "vous": "tombez",
+      "ils": "tombent"
+    },
+    "passé_composé": {
+      "je": "suis tombé",
+      "tu": "es tombé",
+      "il": "est tombé",
+      "nous": "sommes tombés",
+      "vous": "êtes tombés",
+      "ils": "sont tombés"
+    },
+    "imparfait": {
+      "je": "tombais",
+      "tu": "tombais",
+      "il": "tombait",
+      "nous": "tombions",
+      "vous": "tombiez",
+      "ils": "tombaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais tombé",
+      "tu": "étais tombé",
+      "il": "était tombé",
+      "nous": "étions tombés",
+      "vous": "étiez tombés",
+      "ils": "étaient tombés"
+    },
+    "passé_simple": {
+      "je": "tombai",
+      "tu": "tombas",
+      "il": "tomba",
+      "nous": "tombâmes",
+      "vous": "tombâtes",
+      "ils": "tombèrent"
+    },
+    "passé_antérieur": {
+      "je": "fus tombé",
+      "tu": "fus tombé",
+      "il": "fut tombé",
+      "nous": "fûmes tombés",
+      "vous": "fûtes tombés",
+      "ils": "furent tombés"
+    },
+    "futur_simple": {
+      "je": "tomberai",
+      "tu": "tomberas",
+      "il": "tombera",
+      "nous": "tomberons",
+      "vous": "tomberez",
+      "ils": "tomberont"
+    },
+    "futur_antérieur": {
+      "je": "serai tombé",
+      "tu": "seras tombé",
+      "il": "sera tombé",
+      "nous": "serons tombés",
+      "vous": "serez tombés",
+      "ils": "seront tombés"
+    },
+    "subjonctif_présent": {
+      "je": "tombe",
+      "tu": "tombes",
+      "il": "tombe",
+      "nous": "tombions",
+      "vous": "tombiez",
+      "ils": "tombent"
+    },
+    "subjonctif_passé": {
+      "je": "sois tombé",
+      "tu": "sois tombé",
+      "il": "soit tombé",
+      "nous": "soyons tombés",
+      "vous": "soyez tombés",
+      "ils": "soient tombés"
+    },
+    "subjonctif_imparfait": {
+      "je": "tombasse",
+      "tu": "tombasses",
+      "il": "tombât",
+      "nous": "tombassions",
+      "vous": "tombassiez",
+      "ils": "tombassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "fusse tombé",
+      "tu": "fusses tombé",
+      "il": "fût tombé",
+      "nous": "fussions tombés",
+      "vous": "fussiez tombés",
+      "ils": "fussent tombés"
+    },
+    "conditionnel_présent": {
+      "je": "tomberais",
+      "tu": "tomberais",
+      "il": "tomberait",
+      "nous": "tomberions",
+      "vous": "tomberiez",
+      "ils": "tomberaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "serais tombé",
+      "tu": "serais tombé",
+      "il": "serait tombé",
+      "nous": "serions tombés",
+      "vous": "seriez tombés",
+      "ils": "seraient tombés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "fusse tombé",
+      "tu": "fusses tombé",
+      "il": "fût tombé",
+      "nous": "fussions tombés",
+      "vous": "fussiez tombés",
+      "ils": "fussent tombés"
+    },
+    "translation": "upadać",
+    "group": 1
+  },
+  {
+    "infinitive": "tomer",
+    "présent": {
+      "je": "tome",
+      "tu": "tomes",
+      "il": "tome",
+      "nous": "tomons",
+      "vous": "tomez",
+      "ils": "toment"
+    },
+    "passé_composé": {
+      "je": "ai tomé",
+      "tu": "as tomé",
+      "il": "a tomé",
+      "nous": "avons tomé",
+      "vous": "avez tomé",
+      "ils": "ont tomé"
+    },
+    "imparfait": {
+      "je": "tomais",
+      "tu": "tomais",
+      "il": "tomait",
+      "nous": "tomions",
+      "vous": "tomiez",
+      "ils": "tomaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais tomé",
+      "tu": "avais tomé",
+      "il": "avait tomé",
+      "nous": "avions tomé",
+      "vous": "aviez tomé",
+      "ils": "avaient tomé"
+    },
+    "passé_simple": {
+      "je": "tomai",
+      "tu": "tomas",
+      "il": "toma",
+      "nous": "tomâmes",
+      "vous": "tomâtes",
+      "ils": "tomèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus tomé",
+      "tu": "eus tomé",
+      "il": "eut tomé",
+      "nous": "eûmes tomé",
+      "vous": "eûtes tomé",
+      "ils": "eurent tomé"
+    },
+    "futur_simple": {
+      "je": "tomerai",
+      "tu": "tomeras",
+      "il": "tomera",
+      "nous": "tomerons",
+      "vous": "tomerez",
+      "ils": "tomeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai tomé",
+      "tu": "auras tomé",
+      "il": "aura tomé",
+      "nous": "aurons tomé",
+      "vous": "aurez tomé",
+      "ils": "auront tomé"
+    },
+    "subjonctif_présent": {
+      "je": "tome",
+      "tu": "tomes",
+      "il": "tome",
+      "nous": "tomions",
+      "vous": "tomiez",
+      "ils": "toment"
+    },
+    "subjonctif_passé": {
+      "je": "aie tomé",
+      "tu": "aies tomé",
+      "il": "ait tomé",
+      "nous": "ayons tomé",
+      "vous": "ayez tomé",
+      "ils": "aient tomé"
+    },
+    "subjonctif_imparfait": {
+      "je": "tomasse",
+      "tu": "tomasses",
+      "il": "tomât",
+      "nous": "tomassions",
+      "vous": "tomassiez",
+      "ils": "tomassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse tomé",
+      "tu": "eusses tomé",
+      "il": "eût tomé",
+      "nous": "eussions tomé",
+      "vous": "eussiez tomé",
+      "ils": "eussent tomé"
+    },
+    "conditionnel_présent": {
+      "je": "tomerais",
+      "tu": "tomerais",
+      "il": "tomerait",
+      "nous": "tomerions",
+      "vous": "tomeriez",
+      "ils": "tomeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais tomé",
+      "tu": "aurais tomé",
+      "il": "aurait tomé",
+      "nous": "aurions tomé",
+      "vous": "auriez tomé",
+      "ils": "auraient tomé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse tomé",
+      "tu": "eusses tomé",
+      "il": "eût tomé",
+      "nous": "eussions tomé",
+      "vous": "eussiez tomé",
+      "ils": "eussent tomé"
+    },
+    "translation": "tom",
+    "group": 1
+  },
+  {
+    "infinitive": "tondre",
+    "présent": {
+      "je": "tonds",
+      "tu": "tonds",
+      "il": "tond",
+      "nous": "tondons",
+      "vous": "tondez",
+      "ils": "tondent"
+    },
+    "passé_composé": {
+      "je": "ai tondu",
+      "tu": "as tondu",
+      "il": "a tondu",
+      "nous": "avons tondu",
+      "vous": "avez tondu",
+      "ils": "ont tondu"
+    },
+    "imparfait": {
+      "je": "tondais",
+      "tu": "tondais",
+      "il": "tondait",
+      "nous": "tondions",
+      "vous": "tondiez",
+      "ils": "tondaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais tondu",
+      "tu": "avais tondu",
+      "il": "avait tondu",
+      "nous": "avions tondu",
+      "vous": "aviez tondu",
+      "ils": "avaient tondu"
+    },
+    "passé_simple": {
+      "je": "tondis",
+      "tu": "tondis",
+      "il": "tondit",
+      "nous": "tondîmes",
+      "vous": "tondîtes",
+      "ils": "tondirent"
+    },
+    "passé_antérieur": {
+      "je": "eus tondu",
+      "tu": "eus tondu",
+      "il": "eut tondu",
+      "nous": "eûmes tondu",
+      "vous": "eûtes tondu",
+      "ils": "eurent tondu"
+    },
+    "futur_simple": {
+      "je": "tondrai",
+      "tu": "tondras",
+      "il": "tondra",
+      "nous": "tondrons",
+      "vous": "tondrez",
+      "ils": "tondront"
+    },
+    "futur_antérieur": {
+      "je": "aurai tondu",
+      "tu": "auras tondu",
+      "il": "aura tondu",
+      "nous": "aurons tondu",
+      "vous": "aurez tondu",
+      "ils": "auront tondu"
+    },
+    "subjonctif_présent": {
+      "je": "tonde",
+      "tu": "tondes",
+      "il": "tonde",
+      "nous": "tondions",
+      "vous": "tondiez",
+      "ils": "tondent"
+    },
+    "subjonctif_passé": {
+      "je": "aie tondu",
+      "tu": "aies tondu",
+      "il": "ait tondu",
+      "nous": "ayons tondu",
+      "vous": "ayez tondu",
+      "ils": "aient tondu"
+    },
+    "subjonctif_imparfait": {
+      "je": "tondisse",
+      "tu": "tondisses",
+      "il": "tondît",
+      "nous": "tondissions",
+      "vous": "tondissiez",
+      "ils": "tondissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse tondu",
+      "tu": "eusses tondu",
+      "il": "eût tondu",
+      "nous": "eussions tondu",
+      "vous": "eussiez tondu",
+      "ils": "eussent tondu"
+    },
+    "conditionnel_présent": {
+      "je": "tondrais",
+      "tu": "tondrais",
+      "il": "tondrait",
+      "nous": "tondrions",
+      "vous": "tondriez",
+      "ils": "tondraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais tondu",
+      "tu": "aurais tondu",
+      "il": "aurait tondu",
+      "nous": "aurions tondu",
+      "vous": "auriez tondu",
+      "ils": "auraient tondu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse tondu",
+      "tu": "eusses tondu",
+      "il": "eût tondu",
+      "nous": "eussions tondu",
+      "vous": "eussiez tondu",
+      "ils": "eussent tondu"
+    },
+    "translation": "strzyc",
+    "group": 3
+  },
+  {
+    "infinitive": "tonner",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "tonne",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "a tonné",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "tonnait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "avait tonné",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "tonna",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "eut tonné",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "tonnera",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "aura tonné",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "tonne",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "ait tonné",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "tonnât",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "eût tonné",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "tonnerait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "aurait tonné",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "eût tonné",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "grzmi",
+    "group": 1
+  },
+  {
+    "infinitive": "toquer",
+    "présent": {
+      "je": "toque",
+      "tu": "toques",
+      "il": "toque",
+      "nous": "toquons",
+      "vous": "toquez",
+      "ils": "toquent"
+    },
+    "passé_composé": {
+      "je": "ai toqué",
+      "tu": "as toqué",
+      "il": "a toqué",
+      "nous": "avons toqué",
+      "vous": "avez toqué",
+      "ils": "ont toqué"
+    },
+    "imparfait": {
+      "je": "toquais",
+      "tu": "toquais",
+      "il": "toquait",
+      "nous": "toquions",
+      "vous": "toquiez",
+      "ils": "toquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais toqué",
+      "tu": "avais toqué",
+      "il": "avait toqué",
+      "nous": "avions toqué",
+      "vous": "aviez toqué",
+      "ils": "avaient toqué"
+    },
+    "passé_simple": {
+      "je": "toquai",
+      "tu": "toquas",
+      "il": "toqua",
+      "nous": "toquâmes",
+      "vous": "toquâtes",
+      "ils": "toquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus toqué",
+      "tu": "eus toqué",
+      "il": "eut toqué",
+      "nous": "eûmes toqué",
+      "vous": "eûtes toqué",
+      "ils": "eurent toqué"
+    },
+    "futur_simple": {
+      "je": "toquerai",
+      "tu": "toqueras",
+      "il": "toquera",
+      "nous": "toquerons",
+      "vous": "toquerez",
+      "ils": "toqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai toqué",
+      "tu": "auras toqué",
+      "il": "aura toqué",
+      "nous": "aurons toqué",
+      "vous": "aurez toqué",
+      "ils": "auront toqué"
+    },
+    "subjonctif_présent": {
+      "je": "toque",
+      "tu": "toques",
+      "il": "toque",
+      "nous": "toquions",
+      "vous": "toquiez",
+      "ils": "toquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie toqué",
+      "tu": "aies toqué",
+      "il": "ait toqué",
+      "nous": "ayons toqué",
+      "vous": "ayez toqué",
+      "ils": "aient toqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "toquasse",
+      "tu": "toquasses",
+      "il": "toquât",
+      "nous": "toquassions",
+      "vous": "toquassiez",
+      "ils": "toquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse toqué",
+      "tu": "eusses toqué",
+      "il": "eût toqué",
+      "nous": "eussions toqué",
+      "vous": "eussiez toqué",
+      "ils": "eussent toqué"
+    },
+    "conditionnel_présent": {
+      "je": "toquerais",
+      "tu": "toquerais",
+      "il": "toquerait",
+      "nous": "toquerions",
+      "vous": "toqueriez",
+      "ils": "toqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais toqué",
+      "tu": "aurais toqué",
+      "il": "aurait toqué",
+      "nous": "aurions toqué",
+      "vous": "auriez toqué",
+      "ils": "auraient toqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse toqué",
+      "tu": "eusses toqué",
+      "il": "eût toqué",
+      "nous": "eussions toqué",
+      "vous": "eussiez toqué",
+      "ils": "eussent toqué"
+    },
+    "translation": "zamieniać",
+    "group": 1
+  }
+]

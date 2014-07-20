@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "aménager",
+    "présent": {
+      "je": "aménage",
+      "tu": "aménages",
+      "il": "aménage",
+      "nous": "aménageons",
+      "vous": "aménagez",
+      "ils": "aménagent"
+    },
+    "passé_composé": {
+      "je": "ai aménagé",
+      "tu": "as aménagé",
+      "il": "a aménagé",
+      "nous": "avons aménagé",
+      "vous": "avez aménagé",
+      "ils": "ont aménagé"
+    },
+    "imparfait": {
+      "je": "aménageais",
+      "tu": "aménageais",
+      "il": "aménageait",
+      "nous": "aménagions",
+      "vous": "aménagiez",
+      "ils": "aménageaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais aménagé",
+      "tu": "avais aménagé",
+      "il": "avait aménagé",
+      "nous": "avions aménagé",
+      "vous": "aviez aménagé",
+      "ils": "avaient aménagé"
+    },
+    "passé_simple": {
+      "je": "aménageai",
+      "tu": "aménageas",
+      "il": "aménagea",
+      "nous": "aménageâmes",
+      "vous": "aménageâtes",
+      "ils": "aménagèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus aménagé",
+      "tu": "eus aménagé",
+      "il": "eut aménagé",
+      "nous": "eûmes aménagé",
+      "vous": "eûtes aménagé",
+      "ils": "eurent aménagé"
+    },
+    "futur_simple": {
+      "je": "aménagerai",
+      "tu": "aménageras",
+      "il": "aménagera",
+      "nous": "aménagerons",
+      "vous": "aménagerez",
+      "ils": "aménageront"
+    },
+    "futur_antérieur": {
+      "je": "aurai aménagé",
+      "tu": "auras aménagé",
+      "il": "aura aménagé",
+      "nous": "aurons aménagé",
+      "vous": "aurez aménagé",
+      "ils": "auront aménagé"
+    },
+    "subjonctif_présent": {
+      "je": "aménage",
+      "tu": "aménages",
+      "il": "aménage",
+      "nous": "aménagions",
+      "vous": "aménagiez",
+      "ils": "aménagent"
+    },
+    "subjonctif_passé": {
+      "je": "aie aménagé",
+      "tu": "aies aménagé",
+      "il": "ait aménagé",
+      "nous": "ayons aménagé",
+      "vous": "ayez aménagé",
+      "ils": "aient aménagé"
+    },
+    "subjonctif_imparfait": {
+      "je": "aménageasse",
+      "tu": "aménageasses",
+      "il": "aménageât",
+      "nous": "aménageassions",
+      "vous": "aménageassiez",
+      "ils": "aménageassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse aménagé",
+      "tu": "eusses aménagé",
+      "il": "eût aménagé",
+      "nous": "eussions aménagé",
+      "vous": "eussiez aménagé",
+      "ils": "eussent aménagé"
+    },
+    "conditionnel_présent": {
+      "je": "aménagerais",
+      "tu": "aménagerais",
+      "il": "aménagerait",
+      "nous": "aménagerions",
+      "vous": "aménageriez",
+      "ils": "aménageraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais aménagé",
+      "tu": "aurais aménagé",
+      "il": "aurait aménagé",
+      "nous": "aurions aménagé",
+      "vous": "auriez aménagé",
+      "ils": "auraient aménagé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse aménagé",
+      "tu": "eusses aménagé",
+      "il": "eût aménagé",
+      "nous": "eussions aménagé",
+      "vous": "eussiez aménagé",
+      "ils": "eussent aménagé"
+    },
+    "translation": "urządzać",
+    "group": 1
+  },
+  {
+    "infinitive": "amener",
+    "présent": {
+      "je": "amène",
+      "tu": "amènes",
+      "il": "amène",
+      "nous": "amenons",
+      "vous": "amenez",
+      "ils": "amènent"
+    },
+    "passé_composé": {
+      "je": "ai amené",
+      "tu": "as amené",
+      "il": "a amené",
+      "nous": "avons amené",
+      "vous": "avez amené",
+      "ils": "ont amené"
+    },
+    "imparfait": {
+      "je": "amenais",
+      "tu": "amenais",
+      "il": "amenait",
+      "nous": "amenions",
+      "vous": "ameniez",
+      "ils": "amenaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais amené",
+      "tu": "avais amené",
+      "il": "avait amené",
+      "nous": "avions amené",
+      "vous": "aviez amené",
+      "ils": "avaient amené"
+    },
+    "passé_simple": {
+      "je": "amenai",
+      "tu": "amenas",
+      "il": "amena",
+      "nous": "amenâmes",
+      "vous": "amenâtes",
+      "ils": "amenèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus amené",
+      "tu": "eus amené",
+      "il": "eut amené",
+      "nous": "eûmes amené",
+      "vous": "eûtes amené",
+      "ils": "eurent amené"
+    },
+    "futur_simple": {
+      "je": "amènerai",
+      "tu": "amèneras",
+      "il": "amènera",
+      "nous": "amènerons",
+      "vous": "amènerez",
+      "ils": "amèneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai amené",
+      "tu": "auras amené",
+      "il": "aura amené",
+      "nous": "aurons amené",
+      "vous": "aurez amené",
+      "ils": "auront amené"
+    },
+    "subjonctif_présent": {
+      "je": "amène",
+      "tu": "amènes",
+      "il": "amène",
+      "nous": "amenions",
+      "vous": "ameniez",
+      "ils": "amènent"
+    },
+    "subjonctif_passé": {
+      "je": "aie amené",
+      "tu": "aies amené",
+      "il": "ait amené",
+      "nous": "ayons amené",
+      "vous": "ayez amené",
+      "ils": "aient amené"
+    },
+    "subjonctif_imparfait": {
+      "je": "amenasse",
+      "tu": "amenasses",
+      "il": "amenât",
+      "nous": "amenassions",
+      "vous": "amenassiez",
+      "ils": "amenassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse amené",
+      "tu": "eusses amené",
+      "il": "eût amené",
+      "nous": "eussions amené",
+      "vous": "eussiez amené",
+      "ils": "eussent amené"
+    },
+    "conditionnel_présent": {
+      "je": "amènerais",
+      "tu": "amènerais",
+      "il": "amènerait",
+      "nous": "amènerions",
+      "vous": "amèneriez",
+      "ils": "amèneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais amené",
+      "tu": "aurais amené",
+      "il": "aurait amené",
+      "nous": "aurions amené",
+      "vous": "auriez amené",
+      "ils": "auraient amené"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse amené",
+      "tu": "eusses amené",
+      "il": "eût amené",
+      "nous": "eussions amené",
+      "vous": "eussiez amené",
+      "ils": "eussent amené"
+    },
+    "translation": "przyprowadzić",
+    "group": 1
+  },
+  {
+    "infinitive": "amenuiser",
+    "présent": {
+      "je": "amenuise",
+      "tu": "amenuises",
+      "il": "amenuise",
+      "nous": "amenuisons",
+      "vous": "amenuisez",
+      "ils": "amenuisent"
+    },
+    "passé_composé": {
+      "je": "ai amenuisé",
+      "tu": "as amenuisé",
+      "il": "a amenuisé",
+      "nous": "avons amenuisé",
+      "vous": "avez amenuisé",
+      "ils": "ont amenuisé"
+    },
+    "imparfait": {
+      "je": "amenuisais",
+      "tu": "amenuisais",
+      "il": "amenuisait",
+      "nous": "amenuisions",
+      "vous": "amenuisiez",
+      "ils": "amenuisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais amenuisé",
+      "tu": "avais amenuisé",
+      "il": "avait amenuisé",
+      "nous": "avions amenuisé",
+      "vous": "aviez amenuisé",
+      "ils": "avaient amenuisé"
+    },
+    "passé_simple": {
+      "je": "amenuisai",
+      "tu": "amenuisas",
+      "il": "amenuisa",
+      "nous": "amenuisâmes",
+      "vous": "amenuisâtes",
+      "ils": "amenuisèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus amenuisé",
+      "tu": "eus amenuisé",
+      "il": "eut amenuisé",
+      "nous": "eûmes amenuisé",
+      "vous": "eûtes amenuisé",
+      "ils": "eurent amenuisé"
+    },
+    "futur_simple": {
+      "je": "amenuiserai",
+      "tu": "amenuiseras",
+      "il": "amenuisera",
+      "nous": "amenuiserons",
+      "vous": "amenuiserez",
+      "ils": "amenuiseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai amenuisé",
+      "tu": "auras amenuisé",
+      "il": "aura amenuisé",
+      "nous": "aurons amenuisé",
+      "vous": "aurez amenuisé",
+      "ils": "auront amenuisé"
+    },
+    "subjonctif_présent": {
+      "je": "amenuise",
+      "tu": "amenuises",
+      "il": "amenuise",
+      "nous": "amenuisions",
+      "vous": "amenuisiez",
+      "ils": "amenuisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie amenuisé",
+      "tu": "aies amenuisé",
+      "il": "ait amenuisé",
+      "nous": "ayons amenuisé",
+      "vous": "ayez amenuisé",
+      "ils": "aient amenuisé"
+    },
+    "subjonctif_imparfait": {
+      "je": "amenuisasse",
+      "tu": "amenuisasses",
+      "il": "amenuisât",
+      "nous": "amenuisassions",
+      "vous": "amenuisassiez",
+      "ils": "amenuisassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse amenuisé",
+      "tu": "eusses amenuisé",
+      "il": "eût amenuisé",
+      "nous": "eussions amenuisé",
+      "vous": "eussiez amenuisé",
+      "ils": "eussent amenuisé"
+    },
+    "conditionnel_présent": {
+      "je": "amenuiserais",
+      "tu": "amenuiserais",
+      "il": "amenuiserait",
+      "nous": "amenuiserions",
+      "vous": "amenuiseriez",
+      "ils": "amenuiseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais amenuisé",
+      "tu": "aurais amenuisé",
+      "il": "aurait amenuisé",
+      "nous": "aurions amenuisé",
+      "vous": "auriez amenuisé",
+      "ils": "auraient amenuisé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse amenuisé",
+      "tu": "eusses amenuisé",
+      "il": "eût amenuisé",
+      "nous": "eussions amenuisé",
+      "vous": "eussiez amenuisé",
+      "ils": "eussent amenuisé"
+    },
+    "translation": "zmniejszać",
+    "group": 1
+  },
+  {
+    "infinitive": "amerrir",
+    "présent": {
+      "je": "amerris",
+      "tu": "amerris",
+      "il": "amerrit",
+      "nous": "amerrissons",
+      "vous": "amerrissez",
+      "ils": "amerrissent"
+    },
+    "passé_composé": {
+      "je": "ai amerri",
+      "tu": "as amerri",
+      "il": "a amerri",
+      "nous": "avons amerri",
+      "vous": "avez amerri",
+      "ils": "ont amerri"
+    },
+    "imparfait": {
+      "je": "amerrissais",
+      "tu": "amerrissais",
+      "il": "amerrissait",
+      "nous": "amerrissions",
+      "vous": "amerrissiez",
+      "ils": "amerrissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais amerri",
+      "tu": "avais amerri",
+      "il": "avait amerri",
+      "nous": "avions amerri",
+      "vous": "aviez amerri",
+      "ils": "avaient amerri"
+    },
+    "passé_simple": {
+      "je": "amerris",
+      "tu": "amerris",
+      "il": "amerrit",
+      "nous": "amerrîmes",
+      "vous": "amerrîtes",
+      "ils": "amerrirent"
+    },
+    "passé_antérieur": {
+      "je": "eus amerri",
+      "tu": "eus amerri",
+      "il": "eut amerri",
+      "nous": "eûmes amerri",
+      "vous": "eûtes amerri",
+      "ils": "eurent amerri"
+    },
+    "futur_simple": {
+      "je": "amerrirai",
+      "tu": "amerriras",
+      "il": "amerrira",
+      "nous": "amerrirons",
+      "vous": "amerrirez",
+      "ils": "amerriront"
+    },
+    "futur_antérieur": {
+      "je": "aurai amerri",
+      "tu": "auras amerri",
+      "il": "aura amerri",
+      "nous": "aurons amerri",
+      "vous": "aurez amerri",
+      "ils": "auront amerri"
+    },
+    "subjonctif_présent": {
+      "je": "amerrisse",
+      "tu": "amerrisses",
+      "il": "amerrisse",
+      "nous": "amerrissions",
+      "vous": "amerrissiez",
+      "ils": "amerrissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie amerri",
+      "tu": "aies amerri",
+      "il": "ait amerri",
+      "nous": "ayons amerri",
+      "vous": "ayez amerri",
+      "ils": "aient amerri"
+    },
+    "subjonctif_imparfait": {
+      "je": "amerrisse",
+      "tu": "amerrisses",
+      "il": "amerrît",
+      "nous": "amerrissions",
+      "vous": "amerrissiez",
+      "ils": "amerrissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse amerri",
+      "tu": "eusses amerri",
+      "il": "eût amerri",
+      "nous": "eussions amerri",
+      "vous": "eussiez amerri",
+      "ils": "eussent amerri"
+    },
+    "conditionnel_présent": {
+      "je": "amerrirais",
+      "tu": "amerrirais",
+      "il": "amerrirait",
+      "nous": "amerririons",
+      "vous": "amerririez",
+      "ils": "amerriraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais amerri",
+      "tu": "aurais amerri",
+      "il": "aurait amerri",
+      "nous": "aurions amerri",
+      "vous": "auriez amerri",
+      "ils": "auraient amerri"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse amerri",
+      "tu": "eusses amerri",
+      "il": "eût amerri",
+      "nous": "eussions amerri",
+      "vous": "eussiez amerri",
+      "ils": "eussent amerri"
+    },
+    "translation": "wodować",
+    "group": 2
+  },
+  {
+    "infinitive": "amoindrir",
+    "présent": {
+      "je": "amoindris",
+      "tu": "amoindris",
+      "il": "amoindrit",
+      "nous": "amoindrissons",
+      "vous": "amoindrissez",
+      "ils": "amoindrissent"
+    },
+    "passé_composé": {
+      "je": "ai amoindri",
+      "tu": "as amoindri",
+      "il": "a amoindri",
+      "nous": "avons amoindri",
+      "vous": "avez amoindri",
+      "ils": "ont amoindri"
+    },
+    "imparfait": {
+      "je": "amoindrissais",
+      "tu": "amoindrissais",
+      "il": "amoindrissait",
+      "nous": "amoindrissions",
+      "vous": "amoindrissiez",
+      "ils": "amoindrissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais amoindri",
+      "tu": "avais amoindri",
+      "il": "avait amoindri",
+      "nous": "avions amoindri",
+      "vous": "aviez amoindri",
+      "ils": "avaient amoindri"
+    },
+    "passé_simple": {
+      "je": "amoindris",
+      "tu": "amoindris",
+      "il": "amoindrit",
+      "nous": "amoindrîmes",
+      "vous": "amoindrîtes",
+      "ils": "amoindrirent"
+    },
+    "passé_antérieur": {
+      "je": "eus amoindri",
+      "tu": "eus amoindri",
+      "il": "eut amoindri",
+      "nous": "eûmes amoindri",
+      "vous": "eûtes amoindri",
+      "ils": "eurent amoindri"
+    },
+    "futur_simple": {
+      "je": "amoindrirai",
+      "tu": "amoindriras",
+      "il": "amoindrira",
+      "nous": "amoindrirons",
+      "vous": "amoindrirez",
+      "ils": "amoindriront"
+    },
+    "futur_antérieur": {
+      "je": "aurai amoindri",
+      "tu": "auras amoindri",
+      "il": "aura amoindri",
+      "nous": "aurons amoindri",
+      "vous": "aurez amoindri",
+      "ils": "auront amoindri"
+    },
+    "subjonctif_présent": {
+      "je": "amoindrisse",
+      "tu": "amoindrisses",
+      "il": "amoindrisse",
+      "nous": "amoindrissions",
+      "vous": "amoindrissiez",
+      "ils": "amoindrissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie amoindri",
+      "tu": "aies amoindri",
+      "il": "ait amoindri",
+      "nous": "ayons amoindri",
+      "vous": "ayez amoindri",
+      "ils": "aient amoindri"
+    },
+    "subjonctif_imparfait": {
+      "je": "amoindrisse",
+      "tu": "amoindrisses",
+      "il": "amoindrît",
+      "nous": "amoindrissions",
+      "vous": "amoindrissiez",
+      "ils": "amoindrissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse amoindri",
+      "tu": "eusses amoindri",
+      "il": "eût amoindri",
+      "nous": "eussions amoindri",
+      "vous": "eussiez amoindri",
+      "ils": "eussent amoindri"
+    },
+    "conditionnel_présent": {
+      "je": "amoindrirais",
+      "tu": "amoindrirais",
+      "il": "amoindrirait",
+      "nous": "amoindririons",
+      "vous": "amoindririez",
+      "ils": "amoindriraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais amoindri",
+      "tu": "aurais amoindri",
+      "il": "aurait amoindri",
+      "nous": "aurions amoindri",
+      "vous": "auriez amoindri",
+      "ils": "auraient amoindri"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse amoindri",
+      "tu": "eusses amoindri",
+      "il": "eût amoindri",
+      "nous": "eussions amoindri",
+      "vous": "eussiez amoindri",
+      "ils": "eussent amoindri"
+    },
+    "translation": "umniejszać",
+    "group": 2
+  },
+  {
+    "infinitive": "amonceler",
+    "présent": {
+      "je": "amoncelle",
+      "tu": "amoncelles",
+      "il": "amoncelle",
+      "nous": "amoncelons",
+      "vous": "amoncelez",
+      "ils": "amoncellent"
+    },
+    "passé_composé": {
+      "je": "ai amoncelé",
+      "tu": "as amoncelé",
+      "il": "a amoncelé",
+      "nous": "avons amoncelé",
+      "vous": "avez amoncelé",
+      "ils": "ont amoncelé"
+    },
+    "imparfait": {
+      "je": "amoncelais",
+      "tu": "amoncelais",
+      "il": "amoncelait",
+      "nous": "amoncelions",
+      "vous": "amonceliez",
+      "ils": "amoncelaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais amoncelé",
+      "tu": "avais amoncelé",
+      "il": "avait amoncelé",
+      "nous": "avions amoncelé",
+      "vous": "aviez amoncelé",
+      "ils": "avaient amoncelé"
+    },
+    "passé_simple": {
+      "je": "amoncelai",
+      "tu": "amoncelas",
+      "il": "amoncela",
+      "nous": "amoncelâmes",
+      "vous": "amoncelâtes",
+      "ils": "amoncelèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus amoncelé",
+      "tu": "eus amoncelé",
+      "il": "eut amoncelé",
+      "nous": "eûmes amoncelé",
+      "vous": "eûtes amoncelé",
+      "ils": "eurent amoncelé"
+    },
+    "futur_simple": {
+      "je": "amoncellerai",
+      "tu": "amoncelleras",
+      "il": "amoncellera",
+      "nous": "amoncellerons",
+      "vous": "amoncellerez",
+      "ils": "amoncelleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai amoncelé",
+      "tu": "auras amoncelé",
+      "il": "aura amoncelé",
+      "nous": "aurons amoncelé",
+      "vous": "aurez amoncelé",
+      "ils": "auront amoncelé"
+    },
+    "subjonctif_présent": {
+      "je": "amoncelle",
+      "tu": "amoncelles",
+      "il": "amoncelle",
+      "nous": "amoncelions",
+      "vous": "amonceliez",
+      "ils": "amoncellent"
+    },
+    "subjonctif_passé": {
+      "je": "aie amoncelé",
+      "tu": "aies amoncelé",
+      "il": "ait amoncelé",
+      "nous": "ayons amoncelé",
+      "vous": "ayez amoncelé",
+      "ils": "aient amoncelé"
+    },
+    "subjonctif_imparfait": {
+      "je": "amoncelasse",
+      "tu": "amoncelasses",
+      "il": "amoncelât",
+      "nous": "amoncelassions",
+      "vous": "amoncelassiez",
+      "ils": "amoncelassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse amoncelé",
+      "tu": "eusses amoncelé",
+      "il": "eût amoncelé",
+      "nous": "eussions amoncelé",
+      "vous": "eussiez amoncelé",
+      "ils": "eussent amoncelé"
+    },
+    "conditionnel_présent": {
+      "je": "amoncellerais",
+      "tu": "amoncellerais",
+      "il": "amoncellerait",
+      "nous": "amoncellerions",
+      "vous": "amoncelleriez",
+      "ils": "amoncelleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais amoncelé",
+      "tu": "aurais amoncelé",
+      "il": "aurait amoncelé",
+      "nous": "aurions amoncelé",
+      "vous": "auriez amoncelé",
+      "ils": "auraient amoncelé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse amoncelé",
+      "tu": "eusses amoncelé",
+      "il": "eût amoncelé",
+      "nous": "eussions amoncelé",
+      "vous": "eussiez amoncelé",
+      "ils": "eussent amoncelé"
+    },
+    "translation": "dzielić",
+    "group": 1
+  },
+  {
+    "infinitive": "amorcer",
+    "présent": {
+      "je": "amorce",
+      "tu": "amorces",
+      "il": "amorce",
+      "nous": "amorçons",
+      "vous": "amorcez",
+      "ils": "amorcent"
+    },
+    "passé_composé": {
+      "je": "ai amorcé",
+      "tu": "as amorcé",
+      "il": "a amorcé",
+      "nous": "avons amorcé",
+      "vous": "avez amorcé",
+      "ils": "ont amorcé"
+    },
+    "imparfait": {
+      "je": "amorçais",
+      "tu": "amorçais",
+      "il": "amorçait",
+      "nous": "amorcions",
+      "vous": "amorciez",
+      "ils": "amorçaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais amorcé",
+      "tu": "avais amorcé",
+      "il": "avait amorcé",
+      "nous": "avions amorcé",
+      "vous": "aviez amorcé",
+      "ils": "avaient amorcé"
+    },
+    "passé_simple": {
+      "je": "amorçai",
+      "tu": "amorças",
+      "il": "amorça",
+      "nous": "amorçâmes",
+      "vous": "amorçâtes",
+      "ils": "amorcèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus amorcé",
+      "tu": "eus amorcé",
+      "il": "eut amorcé",
+      "nous": "eûmes amorcé",
+      "vous": "eûtes amorcé",
+      "ils": "eurent amorcé"
+    },
+    "futur_simple": {
+      "je": "amorcerai",
+      "tu": "amorceras",
+      "il": "amorcera",
+      "nous": "amorcerons",
+      "vous": "amorcerez",
+      "ils": "amorceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai amorcé",
+      "tu": "auras amorcé",
+      "il": "aura amorcé",
+      "nous": "aurons amorcé",
+      "vous": "aurez amorcé",
+      "ils": "auront amorcé"
+    },
+    "subjonctif_présent": {
+      "je": "amorce",
+      "tu": "amorces",
+      "il": "amorce",
+      "nous": "amorcions",
+      "vous": "amorciez",
+      "ils": "amorcent"
+    },
+    "subjonctif_passé": {
+      "je": "aie amorcé",
+      "tu": "aies amorcé",
+      "il": "ait amorcé",
+      "nous": "ayons amorcé",
+      "vous": "ayez amorcé",
+      "ils": "aient amorcé"
+    },
+    "subjonctif_imparfait": {
+      "je": "amorçasse",
+      "tu": "amorçasses",
+      "il": "amorçât",
+      "nous": "amorçassions",
+      "vous": "amorçassiez",
+      "ils": "amorçassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse amorcé",
+      "tu": "eusses amorcé",
+      "il": "eût amorcé",
+      "nous": "eussions amorcé",
+      "vous": "eussiez amorcé",
+      "ils": "eussent amorcé"
+    },
+    "conditionnel_présent": {
+      "je": "amorcerais",
+      "tu": "amorcerais",
+      "il": "amorcerait",
+      "nous": "amorcerions",
+      "vous": "amorceriez",
+      "ils": "amorceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais amorcé",
+      "tu": "aurais amorcé",
+      "il": "aurait amorcé",
+      "nous": "aurions amorcé",
+      "vous": "auriez amorcé",
+      "ils": "auraient amorcé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse amorcé",
+      "tu": "eusses amorcé",
+      "il": "eût amorcé",
+      "nous": "eussions amorcé",
+      "vous": "eussiez amorcé",
+      "ils": "eussent amorcé"
+    },
+    "translation": "załadować",
+    "group": 1
+  },
+  {
+    "infinitive": "amortir",
+    "présent": {
+      "je": "amortis",
+      "tu": "amortis",
+      "il": "amortit",
+      "nous": "amortissons",
+      "vous": "amortissez",
+      "ils": "amortissent"
+    },
+    "passé_composé": {
+      "je": "ai amorti",
+      "tu": "as amorti",
+      "il": "a amorti",
+      "nous": "avons amorti",
+      "vous": "avez amorti",
+      "ils": "ont amorti"
+    },
+    "imparfait": {
+      "je": "amortissais",
+      "tu": "amortissais",
+      "il": "amortissait",
+      "nous": "amortissions",
+      "vous": "amortissiez",
+      "ils": "amortissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais amorti",
+      "tu": "avais amorti",
+      "il": "avait amorti",
+      "nous": "avions amorti",
+      "vous": "aviez amorti",
+      "ils": "avaient amorti"
+    },
+    "passé_simple": {
+      "je": "amortis",
+      "tu": "amortis",
+      "il": "amortit",
+      "nous": "amortîmes",
+      "vous": "amortîtes",
+      "ils": "amortirent"
+    },
+    "passé_antérieur": {
+      "je": "eus amorti",
+      "tu": "eus amorti",
+      "il": "eut amorti",
+      "nous": "eûmes amorti",
+      "vous": "eûtes amorti",
+      "ils": "eurent amorti"
+    },
+    "futur_simple": {
+      "je": "amortirai",
+      "tu": "amortiras",
+      "il": "amortira",
+      "nous": "amortirons",
+      "vous": "amortirez",
+      "ils": "amortiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai amorti",
+      "tu": "auras amorti",
+      "il": "aura amorti",
+      "nous": "aurons amorti",
+      "vous": "aurez amorti",
+      "ils": "auront amorti"
+    },
+    "subjonctif_présent": {
+      "je": "amortisse",
+      "tu": "amortisses",
+      "il": "amortisse",
+      "nous": "amortissions",
+      "vous": "amortissiez",
+      "ils": "amortissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie amorti",
+      "tu": "aies amorti",
+      "il": "ait amorti",
+      "nous": "ayons amorti",
+      "vous": "ayez amorti",
+      "ils": "aient amorti"
+    },
+    "subjonctif_imparfait": {
+      "je": "amortisse",
+      "tu": "amortisses",
+      "il": "amortît",
+      "nous": "amortissions",
+      "vous": "amortissiez",
+      "ils": "amortissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse amorti",
+      "tu": "eusses amorti",
+      "il": "eût amorti",
+      "nous": "eussions amorti",
+      "vous": "eussiez amorti",
+      "ils": "eussent amorti"
+    },
+    "conditionnel_présent": {
+      "je": "amortirais",
+      "tu": "amortirais",
+      "il": "amortirait",
+      "nous": "amortirions",
+      "vous": "amortiriez",
+      "ils": "amortiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais amorti",
+      "tu": "aurais amorti",
+      "il": "aurait amorti",
+      "nous": "aurions amorti",
+      "vous": "auriez amorti",
+      "ils": "auraient amorti"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse amorti",
+      "tu": "eusses amorti",
+      "il": "eût amorti",
+      "nous": "eussions amorti",
+      "vous": "eussiez amorti",
+      "ils": "eussent amorti"
+    },
+    "translation": "tłumić",
+    "group": 2
+  },
+  {
+    "infinitive": "amourer",
+    "présent": {
+      "je": "amoure",
+      "tu": "amoures",
+      "il": "amoure",
+      "nous": "amourons",
+      "vous": "amourez",
+      "ils": "amourent"
+    },
+    "passé_composé": {
+      "je": "ai amouré",
+      "tu": "as amouré",
+      "il": "a amouré",
+      "nous": "avons amouré",
+      "vous": "avez amouré",
+      "ils": "ont amouré"
+    },
+    "imparfait": {
+      "je": "amourais",
+      "tu": "amourais",
+      "il": "amourait",
+      "nous": "amourions",
+      "vous": "amouriez",
+      "ils": "amouraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais amouré",
+      "tu": "avais amouré",
+      "il": "avait amouré",
+      "nous": "avions amouré",
+      "vous": "aviez amouré",
+      "ils": "avaient amouré"
+    },
+    "passé_simple": {
+      "je": "amourai",
+      "tu": "amouras",
+      "il": "amoura",
+      "nous": "amourâmes",
+      "vous": "amourâtes",
+      "ils": "amourèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus amouré",
+      "tu": "eus amouré",
+      "il": "eut amouré",
+      "nous": "eûmes amouré",
+      "vous": "eûtes amouré",
+      "ils": "eurent amouré"
+    },
+    "futur_simple": {
+      "je": "amourerai",
+      "tu": "amoureras",
+      "il": "amourera",
+      "nous": "amourerons",
+      "vous": "amourerez",
+      "ils": "amoureront"
+    },
+    "futur_antérieur": {
+      "je": "aurai amouré",
+      "tu": "auras amouré",
+      "il": "aura amouré",
+      "nous": "aurons amouré",
+      "vous": "aurez amouré",
+      "ils": "auront amouré"
+    },
+    "subjonctif_présent": {
+      "je": "amoure",
+      "tu": "amoures",
+      "il": "amoure",
+      "nous": "amourions",
+      "vous": "amouriez",
+      "ils": "amourent"
+    },
+    "subjonctif_passé": {
+      "je": "aie amouré",
+      "tu": "aies amouré",
+      "il": "ait amouré",
+      "nous": "ayons amouré",
+      "vous": "ayez amouré",
+      "ils": "aient amouré"
+    },
+    "subjonctif_imparfait": {
+      "je": "amourasse",
+      "tu": "amourasses",
+      "il": "amourât",
+      "nous": "amourassions",
+      "vous": "amourassiez",
+      "ils": "amourassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse amouré",
+      "tu": "eusses amouré",
+      "il": "eût amouré",
+      "nous": "eussions amouré",
+      "vous": "eussiez amouré",
+      "ils": "eussent amouré"
+    },
+    "conditionnel_présent": {
+      "je": "amourerais",
+      "tu": "amourerais",
+      "il": "amourerait",
+      "nous": "amourerions",
+      "vous": "amoureriez",
+      "ils": "amoureraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais amouré",
+      "tu": "aurais amouré",
+      "il": "aurait amouré",
+      "nous": "aurions amouré",
+      "vous": "auriez amouré",
+      "ils": "auraient amouré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse amouré",
+      "tu": "eusses amouré",
+      "il": "eût amouré",
+      "nous": "eussions amouré",
+      "vous": "eussiez amouré",
+      "ils": "eussent amouré"
+    },
+    "translation": "być",
+    "group": 1
+  },
+  {
+    "infinitive": "amplifier",
+    "présent": {
+      "je": "amplifie",
+      "tu": "amplifies",
+      "il": "amplifie",
+      "nous": "amplifions",
+      "vous": "amplifiez",
+      "ils": "amplifient"
+    },
+    "passé_composé": {
+      "je": "ai amplifié",
+      "tu": "as amplifié",
+      "il": "a amplifié",
+      "nous": "avons amplifié",
+      "vous": "avez amplifié",
+      "ils": "ont amplifié"
+    },
+    "imparfait": {
+      "je": "amplifiais",
+      "tu": "amplifiais",
+      "il": "amplifiait",
+      "nous": "amplifiions",
+      "vous": "amplifiiez",
+      "ils": "amplifiaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais amplifié",
+      "tu": "avais amplifié",
+      "il": "avait amplifié",
+      "nous": "avions amplifié",
+      "vous": "aviez amplifié",
+      "ils": "avaient amplifié"
+    },
+    "passé_simple": {
+      "je": "amplifiai",
+      "tu": "amplifias",
+      "il": "amplifia",
+      "nous": "amplifiâmes",
+      "vous": "amplifiâtes",
+      "ils": "amplifièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus amplifié",
+      "tu": "eus amplifié",
+      "il": "eut amplifié",
+      "nous": "eûmes amplifié",
+      "vous": "eûtes amplifié",
+      "ils": "eurent amplifié"
+    },
+    "futur_simple": {
+      "je": "amplifierai",
+      "tu": "amplifieras",
+      "il": "amplifiera",
+      "nous": "amplifierons",
+      "vous": "amplifierez",
+      "ils": "amplifieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai amplifié",
+      "tu": "auras amplifié",
+      "il": "aura amplifié",
+      "nous": "aurons amplifié",
+      "vous": "aurez amplifié",
+      "ils": "auront amplifié"
+    },
+    "subjonctif_présent": {
+      "je": "amplifie",
+      "tu": "amplifies",
+      "il": "amplifie",
+      "nous": "amplifiions",
+      "vous": "amplifiiez",
+      "ils": "amplifient"
+    },
+    "subjonctif_passé": {
+      "je": "aie amplifié",
+      "tu": "aies amplifié",
+      "il": "ait amplifié",
+      "nous": "ayons amplifié",
+      "vous": "ayez amplifié",
+      "ils": "aient amplifié"
+    },
+    "subjonctif_imparfait": {
+      "je": "amplifiasse",
+      "tu": "amplifiasses",
+      "il": "amplifiât",
+      "nous": "amplifiassions",
+      "vous": "amplifiassiez",
+      "ils": "amplifiassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse amplifié",
+      "tu": "eusses amplifié",
+      "il": "eût amplifié",
+      "nous": "eussions amplifié",
+      "vous": "eussiez amplifié",
+      "ils": "eussent amplifié"
+    },
+    "conditionnel_présent": {
+      "je": "amplifierais",
+      "tu": "amplifierais",
+      "il": "amplifierait",
+      "nous": "amplifierions",
+      "vous": "amplifieriez",
+      "ils": "amplifieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais amplifié",
+      "tu": "aurais amplifié",
+      "il": "aurait amplifié",
+      "nous": "aurions amplifié",
+      "vous": "auriez amplifié",
+      "ils": "auraient amplifié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse amplifié",
+      "tu": "eusses amplifié",
+      "il": "eût amplifié",
+      "nous": "eussions amplifié",
+      "vous": "eussiez amplifié",
+      "ils": "eussent amplifié"
+    },
+    "translation": "powiększać",
+    "group": 1
+  }
+]

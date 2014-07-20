@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "parvenir",
+    "présent": {
+      "je": "parviens",
+      "tu": "parviens",
+      "il": "parvient",
+      "nous": "parvenons",
+      "vous": "parvenez",
+      "ils": "parviennent"
+    },
+    "passé_composé": {
+      "je": "suis parvenu",
+      "tu": "es parvenu",
+      "il": "est parvenu",
+      "nous": "sommes parvenus",
+      "vous": "êtes parvenus",
+      "ils": "sont parvenus"
+    },
+    "imparfait": {
+      "je": "parvenais",
+      "tu": "parvenais",
+      "il": "parvenait",
+      "nous": "parvenions",
+      "vous": "parveniez",
+      "ils": "parvenaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais parvenu",
+      "tu": "étais parvenu",
+      "il": "était parvenu",
+      "nous": "étions parvenus",
+      "vous": "étiez parvenus",
+      "ils": "étaient parvenus"
+    },
+    "passé_simple": {
+      "je": "parvins",
+      "tu": "parvins",
+      "il": "parvint",
+      "nous": "parvînmes",
+      "vous": "parvîntes",
+      "ils": "parvinrent"
+    },
+    "passé_antérieur": {
+      "je": "fus parvenu",
+      "tu": "fus parvenu",
+      "il": "fut parvenu",
+      "nous": "fûmes parvenus",
+      "vous": "fûtes parvenus",
+      "ils": "furent parvenus"
+    },
+    "futur_simple": {
+      "je": "parviendrai",
+      "tu": "parviendras",
+      "il": "parviendra",
+      "nous": "parviendrons",
+      "vous": "parviendrez",
+      "ils": "parviendront"
+    },
+    "futur_antérieur": {
+      "je": "serai parvenu",
+      "tu": "seras parvenu",
+      "il": "sera parvenu",
+      "nous": "serons parvenus",
+      "vous": "serez parvenus",
+      "ils": "seront parvenus"
+    },
+    "subjonctif_présent": {
+      "je": "parvienne",
+      "tu": "parviennes",
+      "il": "parvienne",
+      "nous": "parvenions",
+      "vous": "parveniez",
+      "ils": "parviennent"
+    },
+    "subjonctif_passé": {
+      "je": "sois parvenu",
+      "tu": "sois parvenu",
+      "il": "soit parvenu",
+      "nous": "soyons parvenus",
+      "vous": "soyez parvenus",
+      "ils": "soient parvenus"
+    },
+    "subjonctif_imparfait": {
+      "je": "parvinsse",
+      "tu": "parvinsses",
+      "il": "parvînt",
+      "nous": "parvinssions",
+      "vous": "parvinssiez",
+      "ils": "parvinssent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "fusse parvenu",
+      "tu": "fusses parvenu",
+      "il": "fût parvenu",
+      "nous": "fussions parvenus",
+      "vous": "fussiez parvenus",
+      "ils": "fussent parvenus"
+    },
+    "conditionnel_présent": {
+      "je": "parviendrais",
+      "tu": "parviendrais",
+      "il": "parviendrait",
+      "nous": "parviendrions",
+      "vous": "parviendriez",
+      "ils": "parviendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "serais parvenu",
+      "tu": "serais parvenu",
+      "il": "serait parvenu",
+      "nous": "serions parvenus",
+      "vous": "seriez parvenus",
+      "ils": "seraient parvenus"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "fusse parvenu",
+      "tu": "fusses parvenu",
+      "il": "fût parvenu",
+      "nous": "fussions parvenus",
+      "vous": "fussiez parvenus",
+      "ils": "fussent parvenus"
+    },
+    "translation": "parvenir",
+    "group": 3
+  },
+  {
+    "infinitive": "passer",
+    "présent": {
+      "je": "passe",
+      "tu": "passes",
+      "il": "passe",
+      "nous": "passons",
+      "vous": "passez",
+      "ils": "passent"
+    },
+    "passé_composé": {
+      "je": "ai passé",
+      "tu": "as passé",
+      "il": "a passé",
+      "nous": "avons passé",
+      "vous": "avez passé",
+      "ils": "ont passé"
+    },
+    "imparfait": {
+      "je": "passais",
+      "tu": "passais",
+      "il": "passait",
+      "nous": "passions",
+      "vous": "passiez",
+      "ils": "passaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais passé",
+      "tu": "avais passé",
+      "il": "avait passé",
+      "nous": "avions passé",
+      "vous": "aviez passé",
+      "ils": "avaient passé"
+    },
+    "passé_simple": {
+      "je": "passai",
+      "tu": "passas",
+      "il": "passa",
+      "nous": "passâmes",
+      "vous": "passâtes",
+      "ils": "passèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus passé",
+      "tu": "eus passé",
+      "il": "eut passé",
+      "nous": "eûmes passé",
+      "vous": "eûtes passé",
+      "ils": "eurent passé"
+    },
+    "futur_simple": {
+      "je": "passerai",
+      "tu": "passeras",
+      "il": "passera",
+      "nous": "passerons",
+      "vous": "passerez",
+      "ils": "passeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai passé",
+      "tu": "auras passé",
+      "il": "aura passé",
+      "nous": "aurons passé",
+      "vous": "aurez passé",
+      "ils": "auront passé"
+    },
+    "subjonctif_présent": {
+      "je": "passe",
+      "tu": "passes",
+      "il": "passe",
+      "nous": "passions",
+      "vous": "passiez",
+      "ils": "passent"
+    },
+    "subjonctif_passé": {
+      "je": "aie passé",
+      "tu": "aies passé",
+      "il": "ait passé",
+      "nous": "ayons passé",
+      "vous": "ayez passé",
+      "ils": "aient passé"
+    },
+    "subjonctif_imparfait": {
+      "je": "passasse",
+      "tu": "passasses",
+      "il": "passât",
+      "nous": "passassions",
+      "vous": "passassiez",
+      "ils": "passassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse passé",
+      "tu": "eusses passé",
+      "il": "eût passé",
+      "nous": "eussions passé",
+      "vous": "eussiez passé",
+      "ils": "eussent passé"
+    },
+    "conditionnel_présent": {
+      "je": "passerais",
+      "tu": "passerais",
+      "il": "passerait",
+      "nous": "passerions",
+      "vous": "passeriez",
+      "ils": "passeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais passé",
+      "tu": "aurais passé",
+      "il": "aurait passé",
+      "nous": "aurions passé",
+      "vous": "auriez passé",
+      "ils": "auraient passé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse passé",
+      "tu": "eusses passé",
+      "il": "eût passé",
+      "nous": "eussions passé",
+      "vous": "eussiez passé",
+      "ils": "eussent passé"
+    },
+    "translation": "przechodzić",
+    "group": 1
+  },
+  {
+    "infinitive": "passionner",
+    "présent": {
+      "je": "passionne",
+      "tu": "passionnes",
+      "il": "passionne",
+      "nous": "passionnons",
+      "vous": "passionnez",
+      "ils": "passionnent"
+    },
+    "passé_composé": {
+      "je": "ai passionné",
+      "tu": "as passionné",
+      "il": "a passionné",
+      "nous": "avons passionné",
+      "vous": "avez passionné",
+      "ils": "ont passionné"
+    },
+    "imparfait": {
+      "je": "passionnais",
+      "tu": "passionnais",
+      "il": "passionnait",
+      "nous": "passionnions",
+      "vous": "passionniez",
+      "ils": "passionnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais passionné",
+      "tu": "avais passionné",
+      "il": "avait passionné",
+      "nous": "avions passionné",
+      "vous": "aviez passionné",
+      "ils": "avaient passionné"
+    },
+    "passé_simple": {
+      "je": "passionnai",
+      "tu": "passionnas",
+      "il": "passionna",
+      "nous": "passionnâmes",
+      "vous": "passionnâtes",
+      "ils": "passionnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus passionné",
+      "tu": "eus passionné",
+      "il": "eut passionné",
+      "nous": "eûmes passionné",
+      "vous": "eûtes passionné",
+      "ils": "eurent passionné"
+    },
+    "futur_simple": {
+      "je": "passionnerai",
+      "tu": "passionneras",
+      "il": "passionnera",
+      "nous": "passionnerons",
+      "vous": "passionnerez",
+      "ils": "passionneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai passionné",
+      "tu": "auras passionné",
+      "il": "aura passionné",
+      "nous": "aurons passionné",
+      "vous": "aurez passionné",
+      "ils": "auront passionné"
+    },
+    "subjonctif_présent": {
+      "je": "passionne",
+      "tu": "passionnes",
+      "il": "passionne",
+      "nous": "passionnions",
+      "vous": "passionniez",
+      "ils": "passionnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie passionné",
+      "tu": "aies passionné",
+      "il": "ait passionné",
+      "nous": "ayons passionné",
+      "vous": "ayez passionné",
+      "ils": "aient passionné"
+    },
+    "subjonctif_imparfait": {
+      "je": "passionnasse",
+      "tu": "passionnasses",
+      "il": "passionnât",
+      "nous": "passionnassions",
+      "vous": "passionnassiez",
+      "ils": "passionnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse passionné",
+      "tu": "eusses passionné",
+      "il": "eût passionné",
+      "nous": "eussions passionné",
+      "vous": "eussiez passionné",
+      "ils": "eussent passionné"
+    },
+    "conditionnel_présent": {
+      "je": "passionnerais",
+      "tu": "passionnerais",
+      "il": "passionnerait",
+      "nous": "passionnerions",
+      "vous": "passionneriez",
+      "ils": "passionneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais passionné",
+      "tu": "aurais passionné",
+      "il": "aurait passionné",
+      "nous": "aurions passionné",
+      "vous": "auriez passionné",
+      "ils": "auraient passionné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse passionné",
+      "tu": "eusses passionné",
+      "il": "eût passionné",
+      "nous": "eussions passionné",
+      "vous": "eussiez passionné",
+      "ils": "eussent passionné"
+    },
+    "translation": "wzbudzać",
+    "group": 1
+  },
+  {
+    "infinitive": "pâter",
+    "présent": {
+      "je": "pâte",
+      "tu": "pâtes",
+      "il": "pâte",
+      "nous": "pâtons",
+      "vous": "pâtez",
+      "ils": "pâtent"
+    },
+    "passé_composé": {
+      "je": "ai pâté",
+      "tu": "as pâté",
+      "il": "a pâté",
+      "nous": "avons pâté",
+      "vous": "avez pâté",
+      "ils": "ont pâté"
+    },
+    "imparfait": {
+      "je": "pâtais",
+      "tu": "pâtais",
+      "il": "pâtait",
+      "nous": "pâtions",
+      "vous": "pâtiez",
+      "ils": "pâtaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais pâté",
+      "tu": "avais pâté",
+      "il": "avait pâté",
+      "nous": "avions pâté",
+      "vous": "aviez pâté",
+      "ils": "avaient pâté"
+    },
+    "passé_simple": {
+      "je": "pâtai",
+      "tu": "pâtas",
+      "il": "pâta",
+      "nous": "pâtâmes",
+      "vous": "pâtâtes",
+      "ils": "pâtèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus pâté",
+      "tu": "eus pâté",
+      "il": "eut pâté",
+      "nous": "eûmes pâté",
+      "vous": "eûtes pâté",
+      "ils": "eurent pâté"
+    },
+    "futur_simple": {
+      "je": "pâterai",
+      "tu": "pâteras",
+      "il": "pâtera",
+      "nous": "pâterons",
+      "vous": "pâterez",
+      "ils": "pâteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai pâté",
+      "tu": "auras pâté",
+      "il": "aura pâté",
+      "nous": "aurons pâté",
+      "vous": "aurez pâté",
+      "ils": "auront pâté"
+    },
+    "subjonctif_présent": {
+      "je": "pâte",
+      "tu": "pâtes",
+      "il": "pâte",
+      "nous": "pâtions",
+      "vous": "pâtiez",
+      "ils": "pâtent"
+    },
+    "subjonctif_passé": {
+      "je": "aie pâté",
+      "tu": "aies pâté",
+      "il": "ait pâté",
+      "nous": "ayons pâté",
+      "vous": "ayez pâté",
+      "ils": "aient pâté"
+    },
+    "subjonctif_imparfait": {
+      "je": "pâtasse",
+      "tu": "pâtasses",
+      "il": "pâtât",
+      "nous": "pâtassions",
+      "vous": "pâtassiez",
+      "ils": "pâtassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse pâté",
+      "tu": "eusses pâté",
+      "il": "eût pâté",
+      "nous": "eussions pâté",
+      "vous": "eussiez pâté",
+      "ils": "eussent pâté"
+    },
+    "conditionnel_présent": {
+      "je": "pâterais",
+      "tu": "pâterais",
+      "il": "pâterait",
+      "nous": "pâterions",
+      "vous": "pâteriez",
+      "ils": "pâteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais pâté",
+      "tu": "aurais pâté",
+      "il": "aurait pâté",
+      "nous": "aurions pâté",
+      "vous": "auriez pâté",
+      "ils": "auraient pâté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse pâté",
+      "tu": "eusses pâté",
+      "il": "eût pâté",
+      "nous": "eussions pâté",
+      "vous": "eussiez pâté",
+      "ils": "eussent pâté"
+    },
+    "translation": "wprawiać",
+    "group": 1
+  },
+  {
+    "infinitive": "patienter",
+    "présent": {
+      "je": "patiente",
+      "tu": "patientes",
+      "il": "patiente",
+      "nous": "patientons",
+      "vous": "patientez",
+      "ils": "patientent"
+    },
+    "passé_composé": {
+      "je": "ai patienté",
+      "tu": "as patienté",
+      "il": "a patienté",
+      "nous": "avons patienté",
+      "vous": "avez patienté",
+      "ils": "ont patienté"
+    },
+    "imparfait": {
+      "je": "patientais",
+      "tu": "patientais",
+      "il": "patientait",
+      "nous": "patientions",
+      "vous": "patientiez",
+      "ils": "patientaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais patienté",
+      "tu": "avais patienté",
+      "il": "avait patienté",
+      "nous": "avions patienté",
+      "vous": "aviez patienté",
+      "ils": "avaient patienté"
+    },
+    "passé_simple": {
+      "je": "patientai",
+      "tu": "patientas",
+      "il": "patienta",
+      "nous": "patientâmes",
+      "vous": "patientâtes",
+      "ils": "patientèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus patienté",
+      "tu": "eus patienté",
+      "il": "eut patienté",
+      "nous": "eûmes patienté",
+      "vous": "eûtes patienté",
+      "ils": "eurent patienté"
+    },
+    "futur_simple": {
+      "je": "patienterai",
+      "tu": "patienteras",
+      "il": "patientera",
+      "nous": "patienterons",
+      "vous": "patienterez",
+      "ils": "patienteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai patienté",
+      "tu": "auras patienté",
+      "il": "aura patienté",
+      "nous": "aurons patienté",
+      "vous": "aurez patienté",
+      "ils": "auront patienté"
+    },
+    "subjonctif_présent": {
+      "je": "patiente",
+      "tu": "patientes",
+      "il": "patiente",
+      "nous": "patientions",
+      "vous": "patientiez",
+      "ils": "patientent"
+    },
+    "subjonctif_passé": {
+      "je": "aie patienté",
+      "tu": "aies patienté",
+      "il": "ait patienté",
+      "nous": "ayons patienté",
+      "vous": "ayez patienté",
+      "ils": "aient patienté"
+    },
+    "subjonctif_imparfait": {
+      "je": "patientasse",
+      "tu": "patientasses",
+      "il": "patientât",
+      "nous": "patientassions",
+      "vous": "patientassiez",
+      "ils": "patientassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse patienté",
+      "tu": "eusses patienté",
+      "il": "eût patienté",
+      "nous": "eussions patienté",
+      "vous": "eussiez patienté",
+      "ils": "eussent patienté"
+    },
+    "conditionnel_présent": {
+      "je": "patienterais",
+      "tu": "patienterais",
+      "il": "patienterait",
+      "nous": "patienterions",
+      "vous": "patienteriez",
+      "ils": "patienteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais patienté",
+      "tu": "aurais patienté",
+      "il": "aurait patienté",
+      "nous": "aurions patienté",
+      "vous": "auriez patienté",
+      "ils": "auraient patienté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse patienté",
+      "tu": "eusses patienté",
+      "il": "eût patienté",
+      "nous": "eussions patienté",
+      "vous": "eussiez patienté",
+      "ils": "eussent patienté"
+    },
+    "translation": "czekać",
+    "group": 1
+  },
+  {
+    "infinitive": "patiner",
+    "présent": {
+      "je": "patine",
+      "tu": "patines",
+      "il": "patine",
+      "nous": "patinons",
+      "vous": "patinez",
+      "ils": "patinent"
+    },
+    "passé_composé": {
+      "je": "ai patiné",
+      "tu": "as patiné",
+      "il": "a patiné",
+      "nous": "avons patiné",
+      "vous": "avez patiné",
+      "ils": "ont patiné"
+    },
+    "imparfait": {
+      "je": "patinais",
+      "tu": "patinais",
+      "il": "patinait",
+      "nous": "patinions",
+      "vous": "patiniez",
+      "ils": "patinaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais patiné",
+      "tu": "avais patiné",
+      "il": "avait patiné",
+      "nous": "avions patiné",
+      "vous": "aviez patiné",
+      "ils": "avaient patiné"
+    },
+    "passé_simple": {
+      "je": "patinai",
+      "tu": "patinas",
+      "il": "patina",
+      "nous": "patinâmes",
+      "vous": "patinâtes",
+      "ils": "patinèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus patiné",
+      "tu": "eus patiné",
+      "il": "eut patiné",
+      "nous": "eûmes patiné",
+      "vous": "eûtes patiné",
+      "ils": "eurent patiné"
+    },
+    "futur_simple": {
+      "je": "patinerai",
+      "tu": "patineras",
+      "il": "patinera",
+      "nous": "patinerons",
+      "vous": "patinerez",
+      "ils": "patineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai patiné",
+      "tu": "auras patiné",
+      "il": "aura patiné",
+      "nous": "aurons patiné",
+      "vous": "aurez patiné",
+      "ils": "auront patiné"
+    },
+    "subjonctif_présent": {
+      "je": "patine",
+      "tu": "patines",
+      "il": "patine",
+      "nous": "patinions",
+      "vous": "patiniez",
+      "ils": "patinent"
+    },
+    "subjonctif_passé": {
+      "je": "aie patiné",
+      "tu": "aies patiné",
+      "il": "ait patiné",
+      "nous": "ayons patiné",
+      "vous": "ayez patiné",
+      "ils": "aient patiné"
+    },
+    "subjonctif_imparfait": {
+      "je": "patinasse",
+      "tu": "patinasses",
+      "il": "patinât",
+      "nous": "patinassions",
+      "vous": "patinassiez",
+      "ils": "patinassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse patiné",
+      "tu": "eusses patiné",
+      "il": "eût patiné",
+      "nous": "eussions patiné",
+      "vous": "eussiez patiné",
+      "ils": "eussent patiné"
+    },
+    "conditionnel_présent": {
+      "je": "patinerais",
+      "tu": "patinerais",
+      "il": "patinerait",
+      "nous": "patinerions",
+      "vous": "patineriez",
+      "ils": "patineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais patiné",
+      "tu": "aurais patiné",
+      "il": "aurait patiné",
+      "nous": "aurions patiné",
+      "vous": "auriez patiné",
+      "ils": "auraient patiné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse patiné",
+      "tu": "eusses patiné",
+      "il": "eût patiné",
+      "nous": "eussions patiné",
+      "vous": "eussiez patiné",
+      "ils": "eussent patiné"
+    },
+    "translation": "patiner",
+    "group": 1
+  },
+  {
+    "infinitive": "pâtir",
+    "présent": {
+      "je": "pâtis",
+      "tu": "pâtis",
+      "il": "pâtit",
+      "nous": "pâtissons",
+      "vous": "pâtissez",
+      "ils": "pâtissent"
+    },
+    "passé_composé": {
+      "je": "ai pâti",
+      "tu": "as pâti",
+      "il": "a pâti",
+      "nous": "avons pâti",
+      "vous": "avez pâti",
+      "ils": "ont pâti"
+    },
+    "imparfait": {
+      "je": "pâtissais",
+      "tu": "pâtissais",
+      "il": "pâtissait",
+      "nous": "pâtissions",
+      "vous": "pâtissiez",
+      "ils": "pâtissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais pâti",
+      "tu": "avais pâti",
+      "il": "avait pâti",
+      "nous": "avions pâti",
+      "vous": "aviez pâti",
+      "ils": "avaient pâti"
+    },
+    "passé_simple": {
+      "je": "pâtis",
+      "tu": "pâtis",
+      "il": "pâtit",
+      "nous": "pâtîmes",
+      "vous": "pâtîtes",
+      "ils": "pâtirent"
+    },
+    "passé_antérieur": {
+      "je": "eus pâti",
+      "tu": "eus pâti",
+      "il": "eut pâti",
+      "nous": "eûmes pâti",
+      "vous": "eûtes pâti",
+      "ils": "eurent pâti"
+    },
+    "futur_simple": {
+      "je": "pâtirai",
+      "tu": "pâtiras",
+      "il": "pâtira",
+      "nous": "pâtirons",
+      "vous": "pâtirez",
+      "ils": "pâtiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai pâti",
+      "tu": "auras pâti",
+      "il": "aura pâti",
+      "nous": "aurons pâti",
+      "vous": "aurez pâti",
+      "ils": "auront pâti"
+    },
+    "subjonctif_présent": {
+      "je": "pâtisse",
+      "tu": "pâtisses",
+      "il": "pâtisse",
+      "nous": "pâtissions",
+      "vous": "pâtissiez",
+      "ils": "pâtissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie pâti",
+      "tu": "aies pâti",
+      "il": "ait pâti",
+      "nous": "ayons pâti",
+      "vous": "ayez pâti",
+      "ils": "aient pâti"
+    },
+    "subjonctif_imparfait": {
+      "je": "pâtisse",
+      "tu": "pâtisses",
+      "il": "pâtît",
+      "nous": "pâtissions",
+      "vous": "pâtissiez",
+      "ils": "pâtissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse pâti",
+      "tu": "eusses pâti",
+      "il": "eût pâti",
+      "nous": "eussions pâti",
+      "vous": "eussiez pâti",
+      "ils": "eussent pâti"
+    },
+    "conditionnel_présent": {
+      "je": "pâtirais",
+      "tu": "pâtirais",
+      "il": "pâtirait",
+      "nous": "pâtirions",
+      "vous": "pâtiriez",
+      "ils": "pâtiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais pâti",
+      "tu": "aurais pâti",
+      "il": "aurait pâti",
+      "nous": "aurions pâti",
+      "vous": "auriez pâti",
+      "ils": "auraient pâti"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse pâti",
+      "tu": "eusses pâti",
+      "il": "eût pâti",
+      "nous": "eussions pâti",
+      "vous": "eussiez pâti",
+      "ils": "eussent pâti"
+    },
+    "translation": "odchodzić",
+    "group": 2
+  },
+  {
+    "infinitive": "pauser",
+    "présent": {
+      "je": "pause",
+      "tu": "pauses",
+      "il": "pause",
+      "nous": "pausons",
+      "vous": "pausez",
+      "ils": "pausent"
+    },
+    "passé_composé": {
+      "je": "ai pausé",
+      "tu": "as pausé",
+      "il": "a pausé",
+      "nous": "avons pausé",
+      "vous": "avez pausé",
+      "ils": "ont pausé"
+    },
+    "imparfait": {
+      "je": "pausais",
+      "tu": "pausais",
+      "il": "pausait",
+      "nous": "pausions",
+      "vous": "pausiez",
+      "ils": "pausaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais pausé",
+      "tu": "avais pausé",
+      "il": "avait pausé",
+      "nous": "avions pausé",
+      "vous": "aviez pausé",
+      "ils": "avaient pausé"
+    },
+    "passé_simple": {
+      "je": "pausai",
+      "tu": "pausas",
+      "il": "pausa",
+      "nous": "pausâmes",
+      "vous": "pausâtes",
+      "ils": "pausèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus pausé",
+      "tu": "eus pausé",
+      "il": "eut pausé",
+      "nous": "eûmes pausé",
+      "vous": "eûtes pausé",
+      "ils": "eurent pausé"
+    },
+    "futur_simple": {
+      "je": "pauserai",
+      "tu": "pauseras",
+      "il": "pausera",
+      "nous": "pauserons",
+      "vous": "pauserez",
+      "ils": "pauseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai pausé",
+      "tu": "auras pausé",
+      "il": "aura pausé",
+      "nous": "aurons pausé",
+      "vous": "aurez pausé",
+      "ils": "auront pausé"
+    },
+    "subjonctif_présent": {
+      "je": "pause",
+      "tu": "pauses",
+      "il": "pause",
+      "nous": "pausions",
+      "vous": "pausiez",
+      "ils": "pausent"
+    },
+    "subjonctif_passé": {
+      "je": "aie pausé",
+      "tu": "aies pausé",
+      "il": "ait pausé",
+      "nous": "ayons pausé",
+      "vous": "ayez pausé",
+      "ils": "aient pausé"
+    },
+    "subjonctif_imparfait": {
+      "je": "pausasse",
+      "tu": "pausasses",
+      "il": "pausât",
+      "nous": "pausassions",
+      "vous": "pausassiez",
+      "ils": "pausassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse pausé",
+      "tu": "eusses pausé",
+      "il": "eût pausé",
+      "nous": "eussions pausé",
+      "vous": "eussiez pausé",
+      "ils": "eussent pausé"
+    },
+    "conditionnel_présent": {
+      "je": "pauserais",
+      "tu": "pauserais",
+      "il": "pauserait",
+      "nous": "pauserions",
+      "vous": "pauseriez",
+      "ils": "pauseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais pausé",
+      "tu": "aurais pausé",
+      "il": "aurait pausé",
+      "nous": "aurions pausé",
+      "vous": "auriez pausé",
+      "ils": "auraient pausé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse pausé",
+      "tu": "eusses pausé",
+      "il": "eût pausé",
+      "nous": "eussions pausé",
+      "vous": "eussiez pausé",
+      "ils": "eussent pausé"
+    },
+    "translation": "pauza",
+    "group": 1
+  },
+  {
+    "infinitive": "paver",
+    "présent": {
+      "je": "pave",
+      "tu": "paves",
+      "il": "pave",
+      "nous": "pavons",
+      "vous": "pavez",
+      "ils": "pavent"
+    },
+    "passé_composé": {
+      "je": "ai pavé",
+      "tu": "as pavé",
+      "il": "a pavé",
+      "nous": "avons pavé",
+      "vous": "avez pavé",
+      "ils": "ont pavé"
+    },
+    "imparfait": {
+      "je": "pavais",
+      "tu": "pavais",
+      "il": "pavait",
+      "nous": "pavions",
+      "vous": "paviez",
+      "ils": "pavaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais pavé",
+      "tu": "avais pavé",
+      "il": "avait pavé",
+      "nous": "avions pavé",
+      "vous": "aviez pavé",
+      "ils": "avaient pavé"
+    },
+    "passé_simple": {
+      "je": "pavai",
+      "tu": "pavas",
+      "il": "pava",
+      "nous": "pavâmes",
+      "vous": "pavâtes",
+      "ils": "pavèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus pavé",
+      "tu": "eus pavé",
+      "il": "eut pavé",
+      "nous": "eûmes pavé",
+      "vous": "eûtes pavé",
+      "ils": "eurent pavé"
+    },
+    "futur_simple": {
+      "je": "paverai",
+      "tu": "paveras",
+      "il": "pavera",
+      "nous": "paverons",
+      "vous": "paverez",
+      "ils": "paveront"
+    },
+    "futur_antérieur": {
+      "je": "aurai pavé",
+      "tu": "auras pavé",
+      "il": "aura pavé",
+      "nous": "aurons pavé",
+      "vous": "aurez pavé",
+      "ils": "auront pavé"
+    },
+    "subjonctif_présent": {
+      "je": "pave",
+      "tu": "paves",
+      "il": "pave",
+      "nous": "pavions",
+      "vous": "paviez",
+      "ils": "pavent"
+    },
+    "subjonctif_passé": {
+      "je": "aie pavé",
+      "tu": "aies pavé",
+      "il": "ait pavé",
+      "nous": "ayons pavé",
+      "vous": "ayez pavé",
+      "ils": "aient pavé"
+    },
+    "subjonctif_imparfait": {
+      "je": "pavasse",
+      "tu": "pavasses",
+      "il": "pavât",
+      "nous": "pavassions",
+      "vous": "pavassiez",
+      "ils": "pavassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse pavé",
+      "tu": "eusses pavé",
+      "il": "eût pavé",
+      "nous": "eussions pavé",
+      "vous": "eussiez pavé",
+      "ils": "eussent pavé"
+    },
+    "conditionnel_présent": {
+      "je": "paverais",
+      "tu": "paverais",
+      "il": "paverait",
+      "nous": "paverions",
+      "vous": "paveriez",
+      "ils": "paveraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais pavé",
+      "tu": "aurais pavé",
+      "il": "aurait pavé",
+      "nous": "aurions pavé",
+      "vous": "auriez pavé",
+      "ils": "auraient pavé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse pavé",
+      "tu": "eusses pavé",
+      "il": "eût pavé",
+      "nous": "eussions pavé",
+      "vous": "eussiez pavé",
+      "ils": "eussent pavé"
+    },
+    "translation": "ślinić",
+    "group": 1
+  },
+  {
+    "infinitive": "payer",
+    "présent": {
+      "je": "paie",
+      "tu": "paies",
+      "il": "paie",
+      "nous": "payons",
+      "vous": "payez",
+      "ils": "paient"
+    },
+    "passé_composé": {
+      "je": "ai payé",
+      "tu": "as payé",
+      "il": "a payé",
+      "nous": "avons payé",
+      "vous": "avez payé",
+      "ils": "ont payé"
+    },
+    "imparfait": {
+      "je": "payais",
+      "tu": "payais",
+      "il": "payait",
+      "nous": "payions",
+      "vous": "payiez",
+      "ils": "payaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais payé",
+      "tu": "avais payé",
+      "il": "avait payé",
+      "nous": "avions payé",
+      "vous": "aviez payé",
+      "ils": "avaient payé"
+    },
+    "passé_simple": {
+      "je": "payai",
+      "tu": "payas",
+      "il": "paya",
+      "nous": "payâmes",
+      "vous": "payâtes",
+      "ils": "payèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus payé",
+      "tu": "eus payé",
+      "il": "eut payé",
+      "nous": "eûmes payé",
+      "vous": "eûtes payé",
+      "ils": "eurent payé"
+    },
+    "futur_simple": {
+      "je": "paierai",
+      "tu": "paieras",
+      "il": "paiera",
+      "nous": "paierons",
+      "vous": "paierez",
+      "ils": "paieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai payé",
+      "tu": "auras payé",
+      "il": "aura payé",
+      "nous": "aurons payé",
+      "vous": "aurez payé",
+      "ils": "auront payé"
+    },
+    "subjonctif_présent": {
+      "je": "paie",
+      "tu": "paies",
+      "il": "paie",
+      "nous": "payions",
+      "vous": "payiez",
+      "ils": "paient"
+    },
+    "subjonctif_passé": {
+      "je": "aie payé",
+      "tu": "aies payé",
+      "il": "ait payé",
+      "nous": "ayons payé",
+      "vous": "ayez payé",
+      "ils": "aient payé"
+    },
+    "subjonctif_imparfait": {
+      "je": "payasse",
+      "tu": "payasses",
+      "il": "payât",
+      "nous": "payassions",
+      "vous": "payassiez",
+      "ils": "payassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse payé",
+      "tu": "eusses payé",
+      "il": "eût payé",
+      "nous": "eussions payé",
+      "vous": "eussiez payé",
+      "ils": "eussent payé"
+    },
+    "conditionnel_présent": {
+      "je": "paierais",
+      "tu": "paierais",
+      "il": "paierait",
+      "nous": "paierions",
+      "vous": "paieriez",
+      "ils": "paieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais payé",
+      "tu": "aurais payé",
+      "il": "aurait payé",
+      "nous": "aurions payé",
+      "vous": "auriez payé",
+      "ils": "auraient payé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse payé",
+      "tu": "eusses payé",
+      "il": "eût payé",
+      "nous": "eussions payé",
+      "vous": "eussiez payé",
+      "ils": "eussent payé"
+    },
+    "translation": "opłacać",
+    "group": 1
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "énucléer",
+    "présent": {
+      "je": "énuclée",
+      "tu": "énuclées",
+      "il": "énuclée",
+      "nous": "énucléons",
+      "vous": "énucléez",
+      "ils": "énucléent"
+    },
+    "passé_composé": {
+      "je": "ai énucléé",
+      "tu": "as énucléé",
+      "il": "a énucléé",
+      "nous": "avons énucléé",
+      "vous": "avez énucléé",
+      "ils": "ont énucléé"
+    },
+    "imparfait": {
+      "je": "énucléais",
+      "tu": "énucléais",
+      "il": "énucléait",
+      "nous": "énucléions",
+      "vous": "énucléiez",
+      "ils": "énucléaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais énucléé",
+      "tu": "avais énucléé",
+      "il": "avait énucléé",
+      "nous": "avions énucléé",
+      "vous": "aviez énucléé",
+      "ils": "avaient énucléé"
+    },
+    "passé_simple": {
+      "je": "énucléai",
+      "tu": "énucléas",
+      "il": "énucléa",
+      "nous": "énucléâmes",
+      "vous": "énucléâtes",
+      "ils": "énucléèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus énucléé",
+      "tu": "eus énucléé",
+      "il": "eut énucléé",
+      "nous": "eûmes énucléé",
+      "vous": "eûtes énucléé",
+      "ils": "eurent énucléé"
+    },
+    "futur_simple": {
+      "je": "énucléerai",
+      "tu": "énucléeras",
+      "il": "énucléera",
+      "nous": "énucléerons",
+      "vous": "énucléerez",
+      "ils": "énucléeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai énucléé",
+      "tu": "auras énucléé",
+      "il": "aura énucléé",
+      "nous": "aurons énucléé",
+      "vous": "aurez énucléé",
+      "ils": "auront énucléé"
+    },
+    "subjonctif_présent": {
+      "je": "énuclée",
+      "tu": "énuclées",
+      "il": "énuclée",
+      "nous": "énucléions",
+      "vous": "énucléiez",
+      "ils": "énucléent"
+    },
+    "subjonctif_passé": {
+      "je": "aie énucléé",
+      "tu": "aies énucléé",
+      "il": "ait énucléé",
+      "nous": "ayons énucléé",
+      "vous": "ayez énucléé",
+      "ils": "aient énucléé"
+    },
+    "subjonctif_imparfait": {
+      "je": "énucléasse",
+      "tu": "énucléasses",
+      "il": "énucléât",
+      "nous": "énucléassions",
+      "vous": "énucléassiez",
+      "ils": "énucléassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse énucléé",
+      "tu": "eusses énucléé",
+      "il": "eût énucléé",
+      "nous": "eussions énucléé",
+      "vous": "eussiez énucléé",
+      "ils": "eussent énucléé"
+    },
+    "conditionnel_présent": {
+      "je": "énucléerais",
+      "tu": "énucléerais",
+      "il": "énucléerait",
+      "nous": "énucléerions",
+      "vous": "énucléeriez",
+      "ils": "énucléeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais énucléé",
+      "tu": "aurais énucléé",
+      "il": "aurait énucléé",
+      "nous": "aurions énucléé",
+      "vous": "auriez énucléé",
+      "ils": "auraient énucléé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse énucléé",
+      "tu": "eusses énucléé",
+      "il": "eût énucléé",
+      "nous": "eussions énucléé",
+      "vous": "eussiez énucléé",
+      "ils": "eussent énucléé"
+    },
+    "translation": "zapinać",
+    "group": 1
+  },
+  {
+    "infinitive": "énumérer",
+    "présent": {
+      "je": "énumère",
+      "tu": "énumères",
+      "il": "énumère",
+      "nous": "énumérons",
+      "vous": "énumérez",
+      "ils": "énumèrent"
+    },
+    "passé_composé": {
+      "je": "ai énuméré",
+      "tu": "as énuméré",
+      "il": "a énuméré",
+      "nous": "avons énuméré",
+      "vous": "avez énuméré",
+      "ils": "ont énuméré"
+    },
+    "imparfait": {
+      "je": "énumérais",
+      "tu": "énumérais",
+      "il": "énumérait",
+      "nous": "énumérions",
+      "vous": "énumériez",
+      "ils": "énuméraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais énuméré",
+      "tu": "avais énuméré",
+      "il": "avait énuméré",
+      "nous": "avions énuméré",
+      "vous": "aviez énuméré",
+      "ils": "avaient énuméré"
+    },
+    "passé_simple": {
+      "je": "énumérai",
+      "tu": "énuméras",
+      "il": "énuméra",
+      "nous": "énumérâmes",
+      "vous": "énumérâtes",
+      "ils": "énumérèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus énuméré",
+      "tu": "eus énuméré",
+      "il": "eut énuméré",
+      "nous": "eûmes énuméré",
+      "vous": "eûtes énuméré",
+      "ils": "eurent énuméré"
+    },
+    "futur_simple": {
+      "je": "énumérerai",
+      "tu": "énuméreras",
+      "il": "énumérera",
+      "nous": "énumérerons",
+      "vous": "énumérerez",
+      "ils": "énuméreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai énuméré",
+      "tu": "auras énuméré",
+      "il": "aura énuméré",
+      "nous": "aurons énuméré",
+      "vous": "aurez énuméré",
+      "ils": "auront énuméré"
+    },
+    "subjonctif_présent": {
+      "je": "énumère",
+      "tu": "énumères",
+      "il": "énumère",
+      "nous": "énumérions",
+      "vous": "énumériez",
+      "ils": "énumèrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie énuméré",
+      "tu": "aies énuméré",
+      "il": "ait énuméré",
+      "nous": "ayons énuméré",
+      "vous": "ayez énuméré",
+      "ils": "aient énuméré"
+    },
+    "subjonctif_imparfait": {
+      "je": "énumérasse",
+      "tu": "énumérasses",
+      "il": "énumérât",
+      "nous": "énumérassions",
+      "vous": "énumérassiez",
+      "ils": "énumérassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse énuméré",
+      "tu": "eusses énuméré",
+      "il": "eût énuméré",
+      "nous": "eussions énuméré",
+      "vous": "eussiez énuméré",
+      "ils": "eussent énuméré"
+    },
+    "conditionnel_présent": {
+      "je": "énumérerais",
+      "tu": "énumérerais",
+      "il": "énumérerait",
+      "nous": "énumérerions",
+      "vous": "énuméreriez",
+      "ils": "énuméreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais énuméré",
+      "tu": "aurais énuméré",
+      "il": "aurait énuméré",
+      "nous": "aurions énuméré",
+      "vous": "auriez énuméré",
+      "ils": "auraient énuméré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse énuméré",
+      "tu": "eusses énuméré",
+      "il": "eût énuméré",
+      "nous": "eussions énuméré",
+      "vous": "eussiez énuméré",
+      "ils": "eussent énuméré"
+    },
+    "translation": "wyliczać",
+    "group": 1
+  },
+  {
+    "infinitive": "envahir",
+    "présent": {
+      "je": "envahis",
+      "tu": "envahis",
+      "il": "envahit",
+      "nous": "envahissons",
+      "vous": "envahissez",
+      "ils": "envahissent"
+    },
+    "passé_composé": {
+      "je": "ai envahi",
+      "tu": "as envahi",
+      "il": "a envahi",
+      "nous": "avons envahi",
+      "vous": "avez envahi",
+      "ils": "ont envahi"
+    },
+    "imparfait": {
+      "je": "envahissais",
+      "tu": "envahissais",
+      "il": "envahissait",
+      "nous": "envahissions",
+      "vous": "envahissiez",
+      "ils": "envahissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais envahi",
+      "tu": "avais envahi",
+      "il": "avait envahi",
+      "nous": "avions envahi",
+      "vous": "aviez envahi",
+      "ils": "avaient envahi"
+    },
+    "passé_simple": {
+      "je": "envahis",
+      "tu": "envahis",
+      "il": "envahit",
+      "nous": "envahîmes",
+      "vous": "envahîtes",
+      "ils": "envahirent"
+    },
+    "passé_antérieur": {
+      "je": "eus envahi",
+      "tu": "eus envahi",
+      "il": "eut envahi",
+      "nous": "eûmes envahi",
+      "vous": "eûtes envahi",
+      "ils": "eurent envahi"
+    },
+    "futur_simple": {
+      "je": "envahirai",
+      "tu": "envahiras",
+      "il": "envahira",
+      "nous": "envahirons",
+      "vous": "envahirez",
+      "ils": "envahiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai envahi",
+      "tu": "auras envahi",
+      "il": "aura envahi",
+      "nous": "aurons envahi",
+      "vous": "aurez envahi",
+      "ils": "auront envahi"
+    },
+    "subjonctif_présent": {
+      "je": "envahisse",
+      "tu": "envahisses",
+      "il": "envahisse",
+      "nous": "envahissions",
+      "vous": "envahissiez",
+      "ils": "envahissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie envahi",
+      "tu": "aies envahi",
+      "il": "ait envahi",
+      "nous": "ayons envahi",
+      "vous": "ayez envahi",
+      "ils": "aient envahi"
+    },
+    "subjonctif_imparfait": {
+      "je": "envahisse",
+      "tu": "envahisses",
+      "il": "envahît",
+      "nous": "envahissions",
+      "vous": "envahissiez",
+      "ils": "envahissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse envahi",
+      "tu": "eusses envahi",
+      "il": "eût envahi",
+      "nous": "eussions envahi",
+      "vous": "eussiez envahi",
+      "ils": "eussent envahi"
+    },
+    "conditionnel_présent": {
+      "je": "envahirais",
+      "tu": "envahirais",
+      "il": "envahirait",
+      "nous": "envahirions",
+      "vous": "envahiriez",
+      "ils": "envahiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais envahi",
+      "tu": "aurais envahi",
+      "il": "aurait envahi",
+      "nous": "aurions envahi",
+      "vous": "auriez envahi",
+      "ils": "auraient envahi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse envahi",
+      "tu": "eusses envahi",
+      "il": "eût envahi",
+      "nous": "eussions envahi",
+      "vous": "eussiez envahi",
+      "ils": "eussent envahi"
+    },
+    "translation": "dokonywać",
+    "group": 2
+  },
+  {
+    "infinitive": "envelopper",
+    "présent": {
+      "je": "enveloppe",
+      "tu": "enveloppes",
+      "il": "enveloppe",
+      "nous": "enveloppons",
+      "vous": "enveloppez",
+      "ils": "enveloppent"
+    },
+    "passé_composé": {
+      "je": "ai enveloppé",
+      "tu": "as enveloppé",
+      "il": "a enveloppé",
+      "nous": "avons enveloppé",
+      "vous": "avez enveloppé",
+      "ils": "ont enveloppé"
+    },
+    "imparfait": {
+      "je": "enveloppais",
+      "tu": "enveloppais",
+      "il": "enveloppait",
+      "nous": "enveloppions",
+      "vous": "enveloppiez",
+      "ils": "enveloppaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais enveloppé",
+      "tu": "avais enveloppé",
+      "il": "avait enveloppé",
+      "nous": "avions enveloppé",
+      "vous": "aviez enveloppé",
+      "ils": "avaient enveloppé"
+    },
+    "passé_simple": {
+      "je": "enveloppai",
+      "tu": "enveloppas",
+      "il": "enveloppa",
+      "nous": "enveloppâmes",
+      "vous": "enveloppâtes",
+      "ils": "enveloppèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus enveloppé",
+      "tu": "eus enveloppé",
+      "il": "eut enveloppé",
+      "nous": "eûmes enveloppé",
+      "vous": "eûtes enveloppé",
+      "ils": "eurent enveloppé"
+    },
+    "futur_simple": {
+      "je": "envelopperai",
+      "tu": "envelopperas",
+      "il": "enveloppera",
+      "nous": "envelopperons",
+      "vous": "envelopperez",
+      "ils": "envelopperont"
+    },
+    "futur_antérieur": {
+      "je": "aurai enveloppé",
+      "tu": "auras enveloppé",
+      "il": "aura enveloppé",
+      "nous": "aurons enveloppé",
+      "vous": "aurez enveloppé",
+      "ils": "auront enveloppé"
+    },
+    "subjonctif_présent": {
+      "je": "enveloppe",
+      "tu": "enveloppes",
+      "il": "enveloppe",
+      "nous": "enveloppions",
+      "vous": "enveloppiez",
+      "ils": "enveloppent"
+    },
+    "subjonctif_passé": {
+      "je": "aie enveloppé",
+      "tu": "aies enveloppé",
+      "il": "ait enveloppé",
+      "nous": "ayons enveloppé",
+      "vous": "ayez enveloppé",
+      "ils": "aient enveloppé"
+    },
+    "subjonctif_imparfait": {
+      "je": "enveloppasse",
+      "tu": "enveloppasses",
+      "il": "enveloppât",
+      "nous": "enveloppassions",
+      "vous": "enveloppassiez",
+      "ils": "enveloppassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse enveloppé",
+      "tu": "eusses enveloppé",
+      "il": "eût enveloppé",
+      "nous": "eussions enveloppé",
+      "vous": "eussiez enveloppé",
+      "ils": "eussent enveloppé"
+    },
+    "conditionnel_présent": {
+      "je": "envelopperais",
+      "tu": "envelopperais",
+      "il": "envelopperait",
+      "nous": "envelopperions",
+      "vous": "envelopperiez",
+      "ils": "envelopperaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais enveloppé",
+      "tu": "aurais enveloppé",
+      "il": "aurait enveloppé",
+      "nous": "aurions enveloppé",
+      "vous": "auriez enveloppé",
+      "ils": "auraient enveloppé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse enveloppé",
+      "tu": "eusses enveloppé",
+      "il": "eût enveloppé",
+      "nous": "eussions enveloppé",
+      "vous": "eussiez enveloppé",
+      "ils": "eussent enveloppé"
+    },
+    "translation": "zawijać",
+    "group": 1
+  },
+  {
+    "infinitive": "envier",
+    "présent": {
+      "je": "envie",
+      "tu": "envies",
+      "il": "envie",
+      "nous": "envions",
+      "vous": "enviez",
+      "ils": "envient"
+    },
+    "passé_composé": {
+      "je": "ai envié",
+      "tu": "as envié",
+      "il": "a envié",
+      "nous": "avons envié",
+      "vous": "avez envié",
+      "ils": "ont envié"
+    },
+    "imparfait": {
+      "je": "enviais",
+      "tu": "enviais",
+      "il": "enviait",
+      "nous": "enviions",
+      "vous": "enviiez",
+      "ils": "enviaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais envié",
+      "tu": "avais envié",
+      "il": "avait envié",
+      "nous": "avions envié",
+      "vous": "aviez envié",
+      "ils": "avaient envié"
+    },
+    "passé_simple": {
+      "je": "enviai",
+      "tu": "envias",
+      "il": "envia",
+      "nous": "enviâmes",
+      "vous": "enviâtes",
+      "ils": "envièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus envié",
+      "tu": "eus envié",
+      "il": "eut envié",
+      "nous": "eûmes envié",
+      "vous": "eûtes envié",
+      "ils": "eurent envié"
+    },
+    "futur_simple": {
+      "je": "envierai",
+      "tu": "envieras",
+      "il": "enviera",
+      "nous": "envierons",
+      "vous": "envierez",
+      "ils": "envieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai envié",
+      "tu": "auras envié",
+      "il": "aura envié",
+      "nous": "aurons envié",
+      "vous": "aurez envié",
+      "ils": "auront envié"
+    },
+    "subjonctif_présent": {
+      "je": "envie",
+      "tu": "envies",
+      "il": "envie",
+      "nous": "enviions",
+      "vous": "enviiez",
+      "ils": "envient"
+    },
+    "subjonctif_passé": {
+      "je": "aie envié",
+      "tu": "aies envié",
+      "il": "ait envié",
+      "nous": "ayons envié",
+      "vous": "ayez envié",
+      "ils": "aient envié"
+    },
+    "subjonctif_imparfait": {
+      "je": "enviasse",
+      "tu": "enviasses",
+      "il": "enviât",
+      "nous": "enviassions",
+      "vous": "enviassiez",
+      "ils": "enviassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse envié",
+      "tu": "eusses envié",
+      "il": "eût envié",
+      "nous": "eussions envié",
+      "vous": "eussiez envié",
+      "ils": "eussent envié"
+    },
+    "conditionnel_présent": {
+      "je": "envierais",
+      "tu": "envierais",
+      "il": "envierait",
+      "nous": "envierions",
+      "vous": "envieriez",
+      "ils": "envieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais envié",
+      "tu": "aurais envié",
+      "il": "aurait envié",
+      "nous": "aurions envié",
+      "vous": "auriez envié",
+      "ils": "auraient envié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse envié",
+      "tu": "eusses envié",
+      "il": "eût envié",
+      "nous": "eussions envié",
+      "vous": "eussiez envié",
+      "ils": "eussent envié"
+    },
+    "translation": "zazdrościć",
+    "group": 1
+  },
+  {
+    "infinitive": "envisager",
+    "présent": {
+      "je": "envisage",
+      "tu": "envisages",
+      "il": "envisage",
+      "nous": "envisageons",
+      "vous": "envisagez",
+      "ils": "envisagent"
+    },
+    "passé_composé": {
+      "je": "ai envisagé",
+      "tu": "as envisagé",
+      "il": "a envisagé",
+      "nous": "avons envisagé",
+      "vous": "avez envisagé",
+      "ils": "ont envisagé"
+    },
+    "imparfait": {
+      "je": "envisageais",
+      "tu": "envisageais",
+      "il": "envisageait",
+      "nous": "envisagions",
+      "vous": "envisagiez",
+      "ils": "envisageaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais envisagé",
+      "tu": "avais envisagé",
+      "il": "avait envisagé",
+      "nous": "avions envisagé",
+      "vous": "aviez envisagé",
+      "ils": "avaient envisagé"
+    },
+    "passé_simple": {
+      "je": "envisageai",
+      "tu": "envisageas",
+      "il": "envisagea",
+      "nous": "envisageâmes",
+      "vous": "envisageâtes",
+      "ils": "envisagèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus envisagé",
+      "tu": "eus envisagé",
+      "il": "eut envisagé",
+      "nous": "eûmes envisagé",
+      "vous": "eûtes envisagé",
+      "ils": "eurent envisagé"
+    },
+    "futur_simple": {
+      "je": "envisagerai",
+      "tu": "envisageras",
+      "il": "envisagera",
+      "nous": "envisagerons",
+      "vous": "envisagerez",
+      "ils": "envisageront"
+    },
+    "futur_antérieur": {
+      "je": "aurai envisagé",
+      "tu": "auras envisagé",
+      "il": "aura envisagé",
+      "nous": "aurons envisagé",
+      "vous": "aurez envisagé",
+      "ils": "auront envisagé"
+    },
+    "subjonctif_présent": {
+      "je": "envisage",
+      "tu": "envisages",
+      "il": "envisage",
+      "nous": "envisagions",
+      "vous": "envisagiez",
+      "ils": "envisagent"
+    },
+    "subjonctif_passé": {
+      "je": "aie envisagé",
+      "tu": "aies envisagé",
+      "il": "ait envisagé",
+      "nous": "ayons envisagé",
+      "vous": "ayez envisagé",
+      "ils": "aient envisagé"
+    },
+    "subjonctif_imparfait": {
+      "je": "envisageasse",
+      "tu": "envisageasses",
+      "il": "envisageât",
+      "nous": "envisageassions",
+      "vous": "envisageassiez",
+      "ils": "envisageassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse envisagé",
+      "tu": "eusses envisagé",
+      "il": "eût envisagé",
+      "nous": "eussions envisagé",
+      "vous": "eussiez envisagé",
+      "ils": "eussent envisagé"
+    },
+    "conditionnel_présent": {
+      "je": "envisagerais",
+      "tu": "envisagerais",
+      "il": "envisagerait",
+      "nous": "envisagerions",
+      "vous": "envisageriez",
+      "ils": "envisageraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais envisagé",
+      "tu": "aurais envisagé",
+      "il": "aurait envisagé",
+      "nous": "aurions envisagé",
+      "vous": "auriez envisagé",
+      "ils": "auraient envisagé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse envisagé",
+      "tu": "eusses envisagé",
+      "il": "eût envisagé",
+      "nous": "eussions envisagé",
+      "vous": "eussiez envisagé",
+      "ils": "eussent envisagé"
+    },
+    "translation": "rozważać",
+    "group": 1
+  },
+  {
+    "infinitive": "envoler",
+    "présent": {
+      "je": "envole",
+      "tu": "envoles",
+      "il": "envole",
+      "nous": "nous envolons",
+      "vous": "vous envolez",
+      "ils": "envolent"
+    },
+    "passé_composé": {
+      "je": "me suis envolé",
+      "tu": "es envolé",
+      "il": "est envolé",
+      "nous": "nous sommes envolés",
+      "vous": "vous êtes envolés",
+      "ils": "se sont envolés"
+    },
+    "imparfait": {
+      "je": "envolais",
+      "tu": "envolais",
+      "il": "envolait",
+      "nous": "nous envolions",
+      "vous": "vous envoliez",
+      "ils": "envolaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais envolé",
+      "tu": "étais envolé",
+      "il": "était envolé",
+      "nous": "nous étions envolés",
+      "vous": "vous étiez envolés",
+      "ils": "étaient envolés"
+    },
+    "passé_simple": {
+      "je": "envolai",
+      "tu": "envolas",
+      "il": "envola",
+      "nous": "nous envolâmes",
+      "vous": "vous envolâtes",
+      "ils": "envolèrent"
+    },
+    "passé_antérieur": {
+      "je": "me fus envolé",
+      "tu": "te fus envolé",
+      "il": "se fut envolé",
+      "nous": "nous fûmes envolés",
+      "vous": "vous fûtes envolés",
+      "ils": "se furent envolés"
+    },
+    "futur_simple": {
+      "je": "envolerai",
+      "tu": "envoleras",
+      "il": "envolera",
+      "nous": "nous envolerons",
+      "vous": "vous envolerez",
+      "ils": "envoleront"
+    },
+    "futur_antérieur": {
+      "je": "me serai envolé",
+      "tu": "te seras envolé",
+      "il": "se sera envolé",
+      "nous": "nous serons envolés",
+      "vous": "vous serez envolés",
+      "ils": "se seront envolés"
+    },
+    "subjonctif_présent": {
+      "je": "envole",
+      "tu": "envoles",
+      "il": "envole",
+      "nous": "nous envolions",
+      "vous": "vous envoliez",
+      "ils": "envolent"
+    },
+    "subjonctif_passé": {
+      "je": "me sois envolé",
+      "tu": "te sois envolé",
+      "il": "se soit envolé",
+      "nous": "nous soyons envolés",
+      "vous": "vous soyez envolés",
+      "ils": "se soient envolés"
+    },
+    "subjonctif_imparfait": {
+      "je": "envolasse",
+      "tu": "envolasses",
+      "il": "envolât",
+      "nous": "nous envolassions",
+      "vous": "vous envolassiez",
+      "ils": "envolassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse envolé",
+      "tu": "te fusses envolé",
+      "il": "se fût envolé",
+      "nous": "nous fussions envolés",
+      "vous": "vous fussiez envolés",
+      "ils": "se fussent envolés"
+    },
+    "conditionnel_présent": {
+      "je": "envolerais",
+      "tu": "envolerais",
+      "il": "envolerait",
+      "nous": "nous envolerions",
+      "vous": "vous envoleriez",
+      "ils": "envoleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais envolé",
+      "tu": "te serais envolé",
+      "il": "se serait envolé",
+      "nous": "nous serions envolés",
+      "vous": "vous seriez envolés",
+      "ils": "se seraient envolés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse envolé",
+      "tu": "te fusses envolé",
+      "il": "se fût envolé",
+      "nous": "nous fussions envolés",
+      "vous": "vous fussiez envolés",
+      "ils": "se fussent envolés"
+    },
+    "translation": "odlatywać",
+    "group": 1
+  },
+  {
+    "infinitive": "envoyer",
+    "présent": {
+      "je": "envoie",
+      "tu": "envoies",
+      "il": "envoie",
+      "nous": "envoyons",
+      "vous": "envoyez",
+      "ils": "envoient"
+    },
+    "passé_composé": {
+      "je": "ai envoyé",
+      "tu": "as envoyé",
+      "il": "a envoyé",
+      "nous": "avons envoyé",
+      "vous": "avez envoyé",
+      "ils": "ont envoyé"
+    },
+    "imparfait": {
+      "je": "envoyais",
+      "tu": "envoyais",
+      "il": "envoyait",
+      "nous": "envoyions",
+      "vous": "envoyiez",
+      "ils": "envoyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais envoyé",
+      "tu": "avais envoyé",
+      "il": "avait envoyé",
+      "nous": "avions envoyé",
+      "vous": "aviez envoyé",
+      "ils": "avaient envoyé"
+    },
+    "passé_simple": {
+      "je": "envoyai",
+      "tu": "envoyas",
+      "il": "envoya",
+      "nous": "envoyâmes",
+      "vous": "envoyâtes",
+      "ils": "envoyèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus envoyé",
+      "tu": "eus envoyé",
+      "il": "eut envoyé",
+      "nous": "eûmes envoyé",
+      "vous": "eûtes envoyé",
+      "ils": "eurent envoyé"
+    },
+    "futur_simple": {
+      "je": "enverrai",
+      "tu": "enverras",
+      "il": "enverra",
+      "nous": "enverrons",
+      "vous": "enverrez",
+      "ils": "enverront"
+    },
+    "futur_antérieur": {
+      "je": "aurai envoyé",
+      "tu": "auras envoyé",
+      "il": "aura envoyé",
+      "nous": "aurons envoyé",
+      "vous": "aurez envoyé",
+      "ils": "auront envoyé"
+    },
+    "subjonctif_présent": {
+      "je": "envoie",
+      "tu": "envoies",
+      "il": "envoie",
+      "nous": "envoyions",
+      "vous": "envoyiez",
+      "ils": "envoient"
+    },
+    "subjonctif_passé": {
+      "je": "aie envoyé",
+      "tu": "aies envoyé",
+      "il": "ait envoyé",
+      "nous": "ayons envoyé",
+      "vous": "ayez envoyé",
+      "ils": "aient envoyé"
+    },
+    "subjonctif_imparfait": {
+      "je": "envoyasse",
+      "tu": "envoyasses",
+      "il": "envoyât",
+      "nous": "envoyassions",
+      "vous": "envoyassiez",
+      "ils": "envoyassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse envoyé",
+      "tu": "eusses envoyé",
+      "il": "eût envoyé",
+      "nous": "eussions envoyé",
+      "vous": "eussiez envoyé",
+      "ils": "eussent envoyé"
+    },
+    "conditionnel_présent": {
+      "je": "enverrais",
+      "tu": "enverrais",
+      "il": "enverrait",
+      "nous": "enverrions",
+      "vous": "enverriez",
+      "ils": "enverraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais envoyé",
+      "tu": "aurais envoyé",
+      "il": "aurait envoyé",
+      "nous": "aurions envoyé",
+      "vous": "auriez envoyé",
+      "ils": "auraient envoyé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse envoyé",
+      "tu": "eusses envoyé",
+      "il": "eût envoyé",
+      "nous": "eussions envoyé",
+      "vous": "eussiez envoyé",
+      "ils": "eussent envoyé"
+    },
+    "translation": "wysyłać",
+    "group": 1
+  },
+  {
+    "infinitive": "épaissir",
+    "présent": {
+      "je": "épaissis",
+      "tu": "épaissis",
+      "il": "épaissit",
+      "nous": "épaississons",
+      "vous": "épaississez",
+      "ils": "épaississent"
+    },
+    "passé_composé": {
+      "je": "ai épaissi",
+      "tu": "as épaissi",
+      "il": "a épaissi",
+      "nous": "avons épaissi",
+      "vous": "avez épaissi",
+      "ils": "ont épaissi"
+    },
+    "imparfait": {
+      "je": "épaississais",
+      "tu": "épaississais",
+      "il": "épaississait",
+      "nous": "épaississions",
+      "vous": "épaississiez",
+      "ils": "épaississaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais épaissi",
+      "tu": "avais épaissi",
+      "il": "avait épaissi",
+      "nous": "avions épaissi",
+      "vous": "aviez épaissi",
+      "ils": "avaient épaissi"
+    },
+    "passé_simple": {
+      "je": "épaissis",
+      "tu": "épaissis",
+      "il": "épaissit",
+      "nous": "épaissîmes",
+      "vous": "épaissîtes",
+      "ils": "épaissirent"
+    },
+    "passé_antérieur": {
+      "je": "eus épaissi",
+      "tu": "eus épaissi",
+      "il": "eut épaissi",
+      "nous": "eûmes épaissi",
+      "vous": "eûtes épaissi",
+      "ils": "eurent épaissi"
+    },
+    "futur_simple": {
+      "je": "épaissirai",
+      "tu": "épaissiras",
+      "il": "épaissira",
+      "nous": "épaissirons",
+      "vous": "épaissirez",
+      "ils": "épaissiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai épaissi",
+      "tu": "auras épaissi",
+      "il": "aura épaissi",
+      "nous": "aurons épaissi",
+      "vous": "aurez épaissi",
+      "ils": "auront épaissi"
+    },
+    "subjonctif_présent": {
+      "je": "épaississe",
+      "tu": "épaississes",
+      "il": "épaississe",
+      "nous": "épaississions",
+      "vous": "épaississiez",
+      "ils": "épaississent"
+    },
+    "subjonctif_passé": {
+      "je": "aie épaissi",
+      "tu": "aies épaissi",
+      "il": "ait épaissi",
+      "nous": "ayons épaissi",
+      "vous": "ayez épaissi",
+      "ils": "aient épaissi"
+    },
+    "subjonctif_imparfait": {
+      "je": "épaississe",
+      "tu": "épaississes",
+      "il": "épaissît",
+      "nous": "épaississions",
+      "vous": "épaississiez",
+      "ils": "épaississent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse épaissi",
+      "tu": "eusses épaissi",
+      "il": "eût épaissi",
+      "nous": "eussions épaissi",
+      "vous": "eussiez épaissi",
+      "ils": "eussent épaissi"
+    },
+    "conditionnel_présent": {
+      "je": "épaissirais",
+      "tu": "épaissirais",
+      "il": "épaissirait",
+      "nous": "épaissirions",
+      "vous": "épaissiriez",
+      "ils": "épaissiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais épaissi",
+      "tu": "aurais épaissi",
+      "il": "aurait épaissi",
+      "nous": "aurions épaissi",
+      "vous": "auriez épaissi",
+      "ils": "auraient épaissi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse épaissi",
+      "tu": "eusses épaissi",
+      "il": "eût épaissi",
+      "nous": "eussions épaissi",
+      "vous": "eussiez épaissi",
+      "ils": "eussent épaissi"
+    },
+    "translation": "gęstnieć",
+    "group": 2
+  },
+  {
+    "infinitive": "épandre",
+    "présent": {
+      "je": "épands",
+      "tu": "épands",
+      "il": "épand",
+      "nous": "épandons",
+      "vous": "épandez",
+      "ils": "épandent"
+    },
+    "passé_composé": {
+      "je": "ai épandu",
+      "tu": "as épandu",
+      "il": "a épandu",
+      "nous": "avons épandu",
+      "vous": "avez épandu",
+      "ils": "ont épandu"
+    },
+    "imparfait": {
+      "je": "épandais",
+      "tu": "épandais",
+      "il": "épandait",
+      "nous": "épandions",
+      "vous": "épandiez",
+      "ils": "épandaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais épandu",
+      "tu": "avais épandu",
+      "il": "avait épandu",
+      "nous": "avions épandu",
+      "vous": "aviez épandu",
+      "ils": "avaient épandu"
+    },
+    "passé_simple": {
+      "je": "épandis",
+      "tu": "épandis",
+      "il": "épandit",
+      "nous": "épandîmes",
+      "vous": "épandîtes",
+      "ils": "épandirent"
+    },
+    "passé_antérieur": {
+      "je": "eus épandu",
+      "tu": "eus épandu",
+      "il": "eut épandu",
+      "nous": "eûmes épandu",
+      "vous": "eûtes épandu",
+      "ils": "eurent épandu"
+    },
+    "futur_simple": {
+      "je": "épandrai",
+      "tu": "épandras",
+      "il": "épandra",
+      "nous": "épandrons",
+      "vous": "épandrez",
+      "ils": "épandront"
+    },
+    "futur_antérieur": {
+      "je": "aurai épandu",
+      "tu": "auras épandu",
+      "il": "aura épandu",
+      "nous": "aurons épandu",
+      "vous": "aurez épandu",
+      "ils": "auront épandu"
+    },
+    "subjonctif_présent": {
+      "je": "épande",
+      "tu": "épandes",
+      "il": "épande",
+      "nous": "épandions",
+      "vous": "épandiez",
+      "ils": "épandent"
+    },
+    "subjonctif_passé": {
+      "je": "aie épandu",
+      "tu": "aies épandu",
+      "il": "ait épandu",
+      "nous": "ayons épandu",
+      "vous": "ayez épandu",
+      "ils": "aient épandu"
+    },
+    "subjonctif_imparfait": {
+      "je": "épandisse",
+      "tu": "épandisses",
+      "il": "épandît",
+      "nous": "épandissions",
+      "vous": "épandissiez",
+      "ils": "épandissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse épandu",
+      "tu": "eusses épandu",
+      "il": "eût épandu",
+      "nous": "eussions épandu",
+      "vous": "eussiez épandu",
+      "ils": "eussent épandu"
+    },
+    "conditionnel_présent": {
+      "je": "épandrais",
+      "tu": "épandrais",
+      "il": "épandrait",
+      "nous": "épandrions",
+      "vous": "épandriez",
+      "ils": "épandraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais épandu",
+      "tu": "aurais épandu",
+      "il": "aurait épandu",
+      "nous": "aurions épandu",
+      "vous": "auriez épandu",
+      "ils": "auraient épandu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse épandu",
+      "tu": "eusses épandu",
+      "il": "eût épandu",
+      "nous": "eussions épandu",
+      "vous": "eussiez épandu",
+      "ils": "eussent épandu"
+    },
+    "translation": "épandre",
+    "group": 3
+  }
+]

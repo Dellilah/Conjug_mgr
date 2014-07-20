@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "convoquer",
+    "présent": {
+      "je": "convoque",
+      "tu": "convoques",
+      "il": "convoque",
+      "nous": "convoquons",
+      "vous": "convoquez",
+      "ils": "convoquent"
+    },
+    "passé_composé": {
+      "je": "ai convoqué",
+      "tu": "as convoqué",
+      "il": "a convoqué",
+      "nous": "avons convoqué",
+      "vous": "avez convoqué",
+      "ils": "ont convoqué"
+    },
+    "imparfait": {
+      "je": "convoquais",
+      "tu": "convoquais",
+      "il": "convoquait",
+      "nous": "convoquions",
+      "vous": "convoquiez",
+      "ils": "convoquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais convoqué",
+      "tu": "avais convoqué",
+      "il": "avait convoqué",
+      "nous": "avions convoqué",
+      "vous": "aviez convoqué",
+      "ils": "avaient convoqué"
+    },
+    "passé_simple": {
+      "je": "convoquai",
+      "tu": "convoquas",
+      "il": "convoqua",
+      "nous": "convoquâmes",
+      "vous": "convoquâtes",
+      "ils": "convoquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus convoqué",
+      "tu": "eus convoqué",
+      "il": "eut convoqué",
+      "nous": "eûmes convoqué",
+      "vous": "eûtes convoqué",
+      "ils": "eurent convoqué"
+    },
+    "futur_simple": {
+      "je": "convoquerai",
+      "tu": "convoqueras",
+      "il": "convoquera",
+      "nous": "convoquerons",
+      "vous": "convoquerez",
+      "ils": "convoqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai convoqué",
+      "tu": "auras convoqué",
+      "il": "aura convoqué",
+      "nous": "aurons convoqué",
+      "vous": "aurez convoqué",
+      "ils": "auront convoqué"
+    },
+    "subjonctif_présent": {
+      "je": "convoque",
+      "tu": "convoques",
+      "il": "convoque",
+      "nous": "convoquions",
+      "vous": "convoquiez",
+      "ils": "convoquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie convoqué",
+      "tu": "aies convoqué",
+      "il": "ait convoqué",
+      "nous": "ayons convoqué",
+      "vous": "ayez convoqué",
+      "ils": "aient convoqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "convoquasse",
+      "tu": "convoquasses",
+      "il": "convoquât",
+      "nous": "convoquassions",
+      "vous": "convoquassiez",
+      "ils": "convoquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse convoqué",
+      "tu": "eusses convoqué",
+      "il": "eût convoqué",
+      "nous": "eussions convoqué",
+      "vous": "eussiez convoqué",
+      "ils": "eussent convoqué"
+    },
+    "conditionnel_présent": {
+      "je": "convoquerais",
+      "tu": "convoquerais",
+      "il": "convoquerait",
+      "nous": "convoquerions",
+      "vous": "convoqueriez",
+      "ils": "convoqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais convoqué",
+      "tu": "aurais convoqué",
+      "il": "aurait convoqué",
+      "nous": "aurions convoqué",
+      "vous": "auriez convoqué",
+      "ils": "auraient convoqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse convoqué",
+      "tu": "eusses convoqué",
+      "il": "eût convoqué",
+      "nous": "eussions convoqué",
+      "vous": "eussiez convoqué",
+      "ils": "eussent convoqué"
+    },
+    "translation": "wzywać",
+    "group": 1
+  },
+  {
+    "infinitive": "convoyer",
+    "présent": {
+      "je": "convoie",
+      "tu": "convoies",
+      "il": "convoie",
+      "nous": "convoyons",
+      "vous": "convoyez",
+      "ils": "convoient"
+    },
+    "passé_composé": {
+      "je": "ai convoyé",
+      "tu": "as convoyé",
+      "il": "a convoyé",
+      "nous": "avons convoyé",
+      "vous": "avez convoyé",
+      "ils": "ont convoyé"
+    },
+    "imparfait": {
+      "je": "convoyais",
+      "tu": "convoyais",
+      "il": "convoyait",
+      "nous": "convoyions",
+      "vous": "convoyiez",
+      "ils": "convoyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais convoyé",
+      "tu": "avais convoyé",
+      "il": "avait convoyé",
+      "nous": "avions convoyé",
+      "vous": "aviez convoyé",
+      "ils": "avaient convoyé"
+    },
+    "passé_simple": {
+      "je": "convoyai",
+      "tu": "convoyas",
+      "il": "convoya",
+      "nous": "convoyâmes",
+      "vous": "convoyâtes",
+      "ils": "convoyèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus convoyé",
+      "tu": "eus convoyé",
+      "il": "eut convoyé",
+      "nous": "eûmes convoyé",
+      "vous": "eûtes convoyé",
+      "ils": "eurent convoyé"
+    },
+    "futur_simple": {
+      "je": "convoierai",
+      "tu": "convoieras",
+      "il": "convoiera",
+      "nous": "convoierons",
+      "vous": "convoierez",
+      "ils": "convoieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai convoyé",
+      "tu": "auras convoyé",
+      "il": "aura convoyé",
+      "nous": "aurons convoyé",
+      "vous": "aurez convoyé",
+      "ils": "auront convoyé"
+    },
+    "subjonctif_présent": {
+      "je": "convoie",
+      "tu": "convoies",
+      "il": "convoie",
+      "nous": "convoyions",
+      "vous": "convoyiez",
+      "ils": "convoient"
+    },
+    "subjonctif_passé": {
+      "je": "aie convoyé",
+      "tu": "aies convoyé",
+      "il": "ait convoyé",
+      "nous": "ayons convoyé",
+      "vous": "ayez convoyé",
+      "ils": "aient convoyé"
+    },
+    "subjonctif_imparfait": {
+      "je": "convoyasse",
+      "tu": "convoyasses",
+      "il": "convoyât",
+      "nous": "convoyassions",
+      "vous": "convoyassiez",
+      "ils": "convoyassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse convoyé",
+      "tu": "eusses convoyé",
+      "il": "eût convoyé",
+      "nous": "eussions convoyé",
+      "vous": "eussiez convoyé",
+      "ils": "eussent convoyé"
+    },
+    "conditionnel_présent": {
+      "je": "convoierais",
+      "tu": "convoierais",
+      "il": "convoierait",
+      "nous": "convoierions",
+      "vous": "convoieriez",
+      "ils": "convoieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais convoyé",
+      "tu": "aurais convoyé",
+      "il": "aurait convoyé",
+      "nous": "aurions convoyé",
+      "vous": "auriez convoyé",
+      "ils": "auraient convoyé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse convoyé",
+      "tu": "eusses convoyé",
+      "il": "eût convoyé",
+      "nous": "eussions convoyé",
+      "vous": "eussiez convoyé",
+      "ils": "eussent convoyé"
+    },
+    "translation": "convoyer",
+    "group": 1
+  },
+  {
+    "infinitive": "coopérer",
+    "présent": {
+      "je": "coopère",
+      "tu": "coopères",
+      "il": "coopère",
+      "nous": "coopérons",
+      "vous": "coopérez",
+      "ils": "coopèrent"
+    },
+    "passé_composé": {
+      "je": "ai coopéré",
+      "tu": "as coopéré",
+      "il": "a coopéré",
+      "nous": "avons coopéré",
+      "vous": "avez coopéré",
+      "ils": "ont coopéré"
+    },
+    "imparfait": {
+      "je": "coopérais",
+      "tu": "coopérais",
+      "il": "coopérait",
+      "nous": "coopérions",
+      "vous": "coopériez",
+      "ils": "coopéraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais coopéré",
+      "tu": "avais coopéré",
+      "il": "avait coopéré",
+      "nous": "avions coopéré",
+      "vous": "aviez coopéré",
+      "ils": "avaient coopéré"
+    },
+    "passé_simple": {
+      "je": "coopérai",
+      "tu": "coopéras",
+      "il": "coopéra",
+      "nous": "coopérâmes",
+      "vous": "coopérâtes",
+      "ils": "coopérèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus coopéré",
+      "tu": "eus coopéré",
+      "il": "eut coopéré",
+      "nous": "eûmes coopéré",
+      "vous": "eûtes coopéré",
+      "ils": "eurent coopéré"
+    },
+    "futur_simple": {
+      "je": "coopérerai",
+      "tu": "coopéreras",
+      "il": "coopérera",
+      "nous": "coopérerons",
+      "vous": "coopérerez",
+      "ils": "coopéreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai coopéré",
+      "tu": "auras coopéré",
+      "il": "aura coopéré",
+      "nous": "aurons coopéré",
+      "vous": "aurez coopéré",
+      "ils": "auront coopéré"
+    },
+    "subjonctif_présent": {
+      "je": "coopère",
+      "tu": "coopères",
+      "il": "coopère",
+      "nous": "coopérions",
+      "vous": "coopériez",
+      "ils": "coopèrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie coopéré",
+      "tu": "aies coopéré",
+      "il": "ait coopéré",
+      "nous": "ayons coopéré",
+      "vous": "ayez coopéré",
+      "ils": "aient coopéré"
+    },
+    "subjonctif_imparfait": {
+      "je": "coopérasse",
+      "tu": "coopérasses",
+      "il": "coopérât",
+      "nous": "coopérassions",
+      "vous": "coopérassiez",
+      "ils": "coopérassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse coopéré",
+      "tu": "eusses coopéré",
+      "il": "eût coopéré",
+      "nous": "eussions coopéré",
+      "vous": "eussiez coopéré",
+      "ils": "eussent coopéré"
+    },
+    "conditionnel_présent": {
+      "je": "coopérerais",
+      "tu": "coopérerais",
+      "il": "coopérerait",
+      "nous": "coopérerions",
+      "vous": "coopéreriez",
+      "ils": "coopéreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais coopéré",
+      "tu": "aurais coopéré",
+      "il": "aurait coopéré",
+      "nous": "aurions coopéré",
+      "vous": "auriez coopéré",
+      "ils": "auraient coopéré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse coopéré",
+      "tu": "eusses coopéré",
+      "il": "eût coopéré",
+      "nous": "eussions coopéré",
+      "vous": "eussiez coopéré",
+      "ils": "eussent coopéré"
+    },
+    "translation": "współpracować",
+    "group": 1
+  },
+  {
+    "infinitive": "coordonner",
+    "présent": {
+      "je": "coordonne",
+      "tu": "coordonnes",
+      "il": "coordonne",
+      "nous": "coordonnons",
+      "vous": "coordonnez",
+      "ils": "coordonnent"
+    },
+    "passé_composé": {
+      "je": "ai coordonné",
+      "tu": "as coordonné",
+      "il": "a coordonné",
+      "nous": "avons coordonné",
+      "vous": "avez coordonné",
+      "ils": "ont coordonné"
+    },
+    "imparfait": {
+      "je": "coordonnais",
+      "tu": "coordonnais",
+      "il": "coordonnait",
+      "nous": "coordonnions",
+      "vous": "coordonniez",
+      "ils": "coordonnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais coordonné",
+      "tu": "avais coordonné",
+      "il": "avait coordonné",
+      "nous": "avions coordonné",
+      "vous": "aviez coordonné",
+      "ils": "avaient coordonné"
+    },
+    "passé_simple": {
+      "je": "coordonnai",
+      "tu": "coordonnas",
+      "il": "coordonna",
+      "nous": "coordonnâmes",
+      "vous": "coordonnâtes",
+      "ils": "coordonnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus coordonné",
+      "tu": "eus coordonné",
+      "il": "eut coordonné",
+      "nous": "eûmes coordonné",
+      "vous": "eûtes coordonné",
+      "ils": "eurent coordonné"
+    },
+    "futur_simple": {
+      "je": "coordonnerai",
+      "tu": "coordonneras",
+      "il": "coordonnera",
+      "nous": "coordonnerons",
+      "vous": "coordonnerez",
+      "ils": "coordonneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai coordonné",
+      "tu": "auras coordonné",
+      "il": "aura coordonné",
+      "nous": "aurons coordonné",
+      "vous": "aurez coordonné",
+      "ils": "auront coordonné"
+    },
+    "subjonctif_présent": {
+      "je": "coordonne",
+      "tu": "coordonnes",
+      "il": "coordonne",
+      "nous": "coordonnions",
+      "vous": "coordonniez",
+      "ils": "coordonnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie coordonné",
+      "tu": "aies coordonné",
+      "il": "ait coordonné",
+      "nous": "ayons coordonné",
+      "vous": "ayez coordonné",
+      "ils": "aient coordonné"
+    },
+    "subjonctif_imparfait": {
+      "je": "coordonnasse",
+      "tu": "coordonnasses",
+      "il": "coordonnât",
+      "nous": "coordonnassions",
+      "vous": "coordonnassiez",
+      "ils": "coordonnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse coordonné",
+      "tu": "eusses coordonné",
+      "il": "eût coordonné",
+      "nous": "eussions coordonné",
+      "vous": "eussiez coordonné",
+      "ils": "eussent coordonné"
+    },
+    "conditionnel_présent": {
+      "je": "coordonnerais",
+      "tu": "coordonnerais",
+      "il": "coordonnerait",
+      "nous": "coordonnerions",
+      "vous": "coordonneriez",
+      "ils": "coordonneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais coordonné",
+      "tu": "aurais coordonné",
+      "il": "aurait coordonné",
+      "nous": "aurions coordonné",
+      "vous": "auriez coordonné",
+      "ils": "auraient coordonné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse coordonné",
+      "tu": "eusses coordonné",
+      "il": "eût coordonné",
+      "nous": "eussions coordonné",
+      "vous": "eussiez coordonné",
+      "ils": "eussent coordonné"
+    },
+    "translation": "koordynować",
+    "group": 1
+  },
+  {
+    "infinitive": "copier",
+    "présent": {
+      "je": "copie",
+      "tu": "copies",
+      "il": "copie",
+      "nous": "copions",
+      "vous": "copiez",
+      "ils": "copient"
+    },
+    "passé_composé": {
+      "je": "ai copié",
+      "tu": "as copié",
+      "il": "a copié",
+      "nous": "avons copié",
+      "vous": "avez copié",
+      "ils": "ont copié"
+    },
+    "imparfait": {
+      "je": "copiais",
+      "tu": "copiais",
+      "il": "copiait",
+      "nous": "copiions",
+      "vous": "copiiez",
+      "ils": "copiaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais copié",
+      "tu": "avais copié",
+      "il": "avait copié",
+      "nous": "avions copié",
+      "vous": "aviez copié",
+      "ils": "avaient copié"
+    },
+    "passé_simple": {
+      "je": "copiai",
+      "tu": "copias",
+      "il": "copia",
+      "nous": "copiâmes",
+      "vous": "copiâtes",
+      "ils": "copièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus copié",
+      "tu": "eus copié",
+      "il": "eut copié",
+      "nous": "eûmes copié",
+      "vous": "eûtes copié",
+      "ils": "eurent copié"
+    },
+    "futur_simple": {
+      "je": "copierai",
+      "tu": "copieras",
+      "il": "copiera",
+      "nous": "copierons",
+      "vous": "copierez",
+      "ils": "copieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai copié",
+      "tu": "auras copié",
+      "il": "aura copié",
+      "nous": "aurons copié",
+      "vous": "aurez copié",
+      "ils": "auront copié"
+    },
+    "subjonctif_présent": {
+      "je": "copie",
+      "tu": "copies",
+      "il": "copie",
+      "nous": "copiions",
+      "vous": "copiiez",
+      "ils": "copient"
+    },
+    "subjonctif_passé": {
+      "je": "aie copié",
+      "tu": "aies copié",
+      "il": "ait copié",
+      "nous": "ayons copié",
+      "vous": "ayez copié",
+      "ils": "aient copié"
+    },
+    "subjonctif_imparfait": {
+      "je": "copiasse",
+      "tu": "copiasses",
+      "il": "copiât",
+      "nous": "copiassions",
+      "vous": "copiassiez",
+      "ils": "copiassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse copié",
+      "tu": "eusses copié",
+      "il": "eût copié",
+      "nous": "eussions copié",
+      "vous": "eussiez copié",
+      "ils": "eussent copié"
+    },
+    "conditionnel_présent": {
+      "je": "copierais",
+      "tu": "copierais",
+      "il": "copierait",
+      "nous": "copierions",
+      "vous": "copieriez",
+      "ils": "copieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais copié",
+      "tu": "aurais copié",
+      "il": "aurait copié",
+      "nous": "aurions copié",
+      "vous": "auriez copié",
+      "ils": "auraient copié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse copié",
+      "tu": "eusses copié",
+      "il": "eût copié",
+      "nous": "eussions copié",
+      "vous": "eussiez copié",
+      "ils": "eussent copié"
+    },
+    "translation": "przepisywać",
+    "group": 1
+  },
+  {
+    "infinitive": "corréler",
+    "présent": {
+      "je": "corrèle",
+      "tu": "corrèles",
+      "il": "corrèle",
+      "nous": "corrélons",
+      "vous": "corrélez",
+      "ils": "corrèlent"
+    },
+    "passé_composé": {
+      "je": "ai corrélé",
+      "tu": "as corrélé",
+      "il": "a corrélé",
+      "nous": "avons corrélé",
+      "vous": "avez corrélé",
+      "ils": "ont corrélé"
+    },
+    "imparfait": {
+      "je": "corrélais",
+      "tu": "corrélais",
+      "il": "corrélait",
+      "nous": "corrélions",
+      "vous": "corréliez",
+      "ils": "corrélaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais corrélé",
+      "tu": "avais corrélé",
+      "il": "avait corrélé",
+      "nous": "avions corrélé",
+      "vous": "aviez corrélé",
+      "ils": "avaient corrélé"
+    },
+    "passé_simple": {
+      "je": "corrélai",
+      "tu": "corrélas",
+      "il": "corréla",
+      "nous": "corrélâmes",
+      "vous": "corrélâtes",
+      "ils": "corrélèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus corrélé",
+      "tu": "eus corrélé",
+      "il": "eut corrélé",
+      "nous": "eûmes corrélé",
+      "vous": "eûtes corrélé",
+      "ils": "eurent corrélé"
+    },
+    "futur_simple": {
+      "je": "corrélerai",
+      "tu": "corréleras",
+      "il": "corrélera",
+      "nous": "corrélerons",
+      "vous": "corrélerez",
+      "ils": "corréleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai corrélé",
+      "tu": "auras corrélé",
+      "il": "aura corrélé",
+      "nous": "aurons corrélé",
+      "vous": "aurez corrélé",
+      "ils": "auront corrélé"
+    },
+    "subjonctif_présent": {
+      "je": "corrèle",
+      "tu": "corrèles",
+      "il": "corrèle",
+      "nous": "corrélions",
+      "vous": "corréliez",
+      "ils": "corrèlent"
+    },
+    "subjonctif_passé": {
+      "je": "aie corrélé",
+      "tu": "aies corrélé",
+      "il": "ait corrélé",
+      "nous": "ayons corrélé",
+      "vous": "ayez corrélé",
+      "ils": "aient corrélé"
+    },
+    "subjonctif_imparfait": {
+      "je": "corrélasse",
+      "tu": "corrélasses",
+      "il": "corrélât",
+      "nous": "corrélassions",
+      "vous": "corrélassiez",
+      "ils": "corrélassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse corrélé",
+      "tu": "eusses corrélé",
+      "il": "eût corrélé",
+      "nous": "eussions corrélé",
+      "vous": "eussiez corrélé",
+      "ils": "eussent corrélé"
+    },
+    "conditionnel_présent": {
+      "je": "corrélerais",
+      "tu": "corrélerais",
+      "il": "corrélerait",
+      "nous": "corrélerions",
+      "vous": "corréleriez",
+      "ils": "corréleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais corrélé",
+      "tu": "aurais corrélé",
+      "il": "aurait corrélé",
+      "nous": "aurions corrélé",
+      "vous": "auriez corrélé",
+      "ils": "auraient corrélé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse corrélé",
+      "tu": "eusses corrélé",
+      "il": "eût corrélé",
+      "nous": "eussions corrélé",
+      "vous": "eussiez corrélé",
+      "ils": "eussent corrélé"
+    },
+    "translation": "wykładać",
+    "group": 1
+  },
+  {
+    "infinitive": "correspondre",
+    "présent": {
+      "je": "corresponds",
+      "tu": "corresponds",
+      "il": "correspond",
+      "nous": "correspondons",
+      "vous": "correspondez",
+      "ils": "correspondent"
+    },
+    "passé_composé": {
+      "je": "ai correspondu",
+      "tu": "as correspondu",
+      "il": "a correspondu",
+      "nous": "avons correspondu",
+      "vous": "avez correspondu",
+      "ils": "ont correspondu"
+    },
+    "imparfait": {
+      "je": "correspondais",
+      "tu": "correspondais",
+      "il": "correspondait",
+      "nous": "correspondions",
+      "vous": "correspondiez",
+      "ils": "correspondaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais correspondu",
+      "tu": "avais correspondu",
+      "il": "avait correspondu",
+      "nous": "avions correspondu",
+      "vous": "aviez correspondu",
+      "ils": "avaient correspondu"
+    },
+    "passé_simple": {
+      "je": "correspondis",
+      "tu": "correspondis",
+      "il": "correspondit",
+      "nous": "correspondîmes",
+      "vous": "correspondîtes",
+      "ils": "correspondirent"
+    },
+    "passé_antérieur": {
+      "je": "eus correspondu",
+      "tu": "eus correspondu",
+      "il": "eut correspondu",
+      "nous": "eûmes correspondu",
+      "vous": "eûtes correspondu",
+      "ils": "eurent correspondu"
+    },
+    "futur_simple": {
+      "je": "correspondrai",
+      "tu": "correspondras",
+      "il": "correspondra",
+      "nous": "correspondrons",
+      "vous": "correspondrez",
+      "ils": "correspondront"
+    },
+    "futur_antérieur": {
+      "je": "aurai correspondu",
+      "tu": "auras correspondu",
+      "il": "aura correspondu",
+      "nous": "aurons correspondu",
+      "vous": "aurez correspondu",
+      "ils": "auront correspondu"
+    },
+    "subjonctif_présent": {
+      "je": "corresponde",
+      "tu": "correspondes",
+      "il": "corresponde",
+      "nous": "correspondions",
+      "vous": "correspondiez",
+      "ils": "correspondent"
+    },
+    "subjonctif_passé": {
+      "je": "aie correspondu",
+      "tu": "aies correspondu",
+      "il": "ait correspondu",
+      "nous": "ayons correspondu",
+      "vous": "ayez correspondu",
+      "ils": "aient correspondu"
+    },
+    "subjonctif_imparfait": {
+      "je": "correspondisse",
+      "tu": "correspondisses",
+      "il": "correspondît",
+      "nous": "correspondissions",
+      "vous": "correspondissiez",
+      "ils": "correspondissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse correspondu",
+      "tu": "eusses correspondu",
+      "il": "eût correspondu",
+      "nous": "eussions correspondu",
+      "vous": "eussiez correspondu",
+      "ils": "eussent correspondu"
+    },
+    "conditionnel_présent": {
+      "je": "correspondrais",
+      "tu": "correspondrais",
+      "il": "correspondrait",
+      "nous": "correspondrions",
+      "vous": "correspondriez",
+      "ils": "correspondraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais correspondu",
+      "tu": "aurais correspondu",
+      "il": "aurait correspondu",
+      "nous": "aurions correspondu",
+      "vous": "auriez correspondu",
+      "ils": "auraient correspondu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse correspondu",
+      "tu": "eusses correspondu",
+      "il": "eût correspondu",
+      "nous": "eussions correspondu",
+      "vous": "eussiez correspondu",
+      "ils": "eussent correspondu"
+    },
+    "translation": "korespondować",
+    "group": 3
+  },
+  {
+    "infinitive": "corriger",
+    "présent": {
+      "je": "corrige",
+      "tu": "corriges",
+      "il": "corrige",
+      "nous": "corrigeons",
+      "vous": "corrigez",
+      "ils": "corrigent"
+    },
+    "passé_composé": {
+      "je": "ai corrigé",
+      "tu": "as corrigé",
+      "il": "a corrigé",
+      "nous": "avons corrigé",
+      "vous": "avez corrigé",
+      "ils": "ont corrigé"
+    },
+    "imparfait": {
+      "je": "corrigeais",
+      "tu": "corrigeais",
+      "il": "corrigeait",
+      "nous": "corrigions",
+      "vous": "corrigiez",
+      "ils": "corrigeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais corrigé",
+      "tu": "avais corrigé",
+      "il": "avait corrigé",
+      "nous": "avions corrigé",
+      "vous": "aviez corrigé",
+      "ils": "avaient corrigé"
+    },
+    "passé_simple": {
+      "je": "corrigeai",
+      "tu": "corrigeas",
+      "il": "corrigea",
+      "nous": "corrigeâmes",
+      "vous": "corrigeâtes",
+      "ils": "corrigèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus corrigé",
+      "tu": "eus corrigé",
+      "il": "eut corrigé",
+      "nous": "eûmes corrigé",
+      "vous": "eûtes corrigé",
+      "ils": "eurent corrigé"
+    },
+    "futur_simple": {
+      "je": "corrigerai",
+      "tu": "corrigeras",
+      "il": "corrigera",
+      "nous": "corrigerons",
+      "vous": "corrigerez",
+      "ils": "corrigeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai corrigé",
+      "tu": "auras corrigé",
+      "il": "aura corrigé",
+      "nous": "aurons corrigé",
+      "vous": "aurez corrigé",
+      "ils": "auront corrigé"
+    },
+    "subjonctif_présent": {
+      "je": "corrige",
+      "tu": "corriges",
+      "il": "corrige",
+      "nous": "corrigions",
+      "vous": "corrigiez",
+      "ils": "corrigent"
+    },
+    "subjonctif_passé": {
+      "je": "aie corrigé",
+      "tu": "aies corrigé",
+      "il": "ait corrigé",
+      "nous": "ayons corrigé",
+      "vous": "ayez corrigé",
+      "ils": "aient corrigé"
+    },
+    "subjonctif_imparfait": {
+      "je": "corrigeasse",
+      "tu": "corrigeasses",
+      "il": "corrigeât",
+      "nous": "corrigeassions",
+      "vous": "corrigeassiez",
+      "ils": "corrigeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse corrigé",
+      "tu": "eusses corrigé",
+      "il": "eût corrigé",
+      "nous": "eussions corrigé",
+      "vous": "eussiez corrigé",
+      "ils": "eussent corrigé"
+    },
+    "conditionnel_présent": {
+      "je": "corrigerais",
+      "tu": "corrigerais",
+      "il": "corrigerait",
+      "nous": "corrigerions",
+      "vous": "corrigeriez",
+      "ils": "corrigeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais corrigé",
+      "tu": "aurais corrigé",
+      "il": "aurait corrigé",
+      "nous": "aurions corrigé",
+      "vous": "auriez corrigé",
+      "ils": "auraient corrigé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse corrigé",
+      "tu": "eusses corrigé",
+      "il": "eût corrigé",
+      "nous": "eussions corrigé",
+      "vous": "eussiez corrigé",
+      "ils": "eussent corrigé"
+    },
+    "translation": "poprawiać",
+    "group": 1
+  },
+  {
+    "infinitive": "corroborer",
+    "présent": {
+      "je": "corrobore",
+      "tu": "corrobores",
+      "il": "corrobore",
+      "nous": "corroborons",
+      "vous": "corroborez",
+      "ils": "corroborent"
+    },
+    "passé_composé": {
+      "je": "ai corroboré",
+      "tu": "as corroboré",
+      "il": "a corroboré",
+      "nous": "avons corroboré",
+      "vous": "avez corroboré",
+      "ils": "ont corroboré"
+    },
+    "imparfait": {
+      "je": "corroborais",
+      "tu": "corroborais",
+      "il": "corroborait",
+      "nous": "corroborions",
+      "vous": "corroboriez",
+      "ils": "corroboraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais corroboré",
+      "tu": "avais corroboré",
+      "il": "avait corroboré",
+      "nous": "avions corroboré",
+      "vous": "aviez corroboré",
+      "ils": "avaient corroboré"
+    },
+    "passé_simple": {
+      "je": "corroborai",
+      "tu": "corroboras",
+      "il": "corrobora",
+      "nous": "corroborâmes",
+      "vous": "corroborâtes",
+      "ils": "corroborèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus corroboré",
+      "tu": "eus corroboré",
+      "il": "eut corroboré",
+      "nous": "eûmes corroboré",
+      "vous": "eûtes corroboré",
+      "ils": "eurent corroboré"
+    },
+    "futur_simple": {
+      "je": "corroborerai",
+      "tu": "corroboreras",
+      "il": "corroborera",
+      "nous": "corroborerons",
+      "vous": "corroborerez",
+      "ils": "corroboreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai corroboré",
+      "tu": "auras corroboré",
+      "il": "aura corroboré",
+      "nous": "aurons corroboré",
+      "vous": "aurez corroboré",
+      "ils": "auront corroboré"
+    },
+    "subjonctif_présent": {
+      "je": "corrobore",
+      "tu": "corrobores",
+      "il": "corrobore",
+      "nous": "corroborions",
+      "vous": "corroboriez",
+      "ils": "corroborent"
+    },
+    "subjonctif_passé": {
+      "je": "aie corroboré",
+      "tu": "aies corroboré",
+      "il": "ait corroboré",
+      "nous": "ayons corroboré",
+      "vous": "ayez corroboré",
+      "ils": "aient corroboré"
+    },
+    "subjonctif_imparfait": {
+      "je": "corroborasse",
+      "tu": "corroborasses",
+      "il": "corroborât",
+      "nous": "corroborassions",
+      "vous": "corroborassiez",
+      "ils": "corroborassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse corroboré",
+      "tu": "eusses corroboré",
+      "il": "eût corroboré",
+      "nous": "eussions corroboré",
+      "vous": "eussiez corroboré",
+      "ils": "eussent corroboré"
+    },
+    "conditionnel_présent": {
+      "je": "corroborerais",
+      "tu": "corroborerais",
+      "il": "corroborerait",
+      "nous": "corroborerions",
+      "vous": "corroboreriez",
+      "ils": "corroboreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais corroboré",
+      "tu": "aurais corroboré",
+      "il": "aurait corroboré",
+      "nous": "aurions corroboré",
+      "vous": "auriez corroboré",
+      "ils": "auraient corroboré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse corroboré",
+      "tu": "eusses corroboré",
+      "il": "eût corroboré",
+      "nous": "eussions corroboré",
+      "vous": "eussiez corroboré",
+      "ils": "eussent corroboré"
+    },
+    "translation": "korumpować",
+    "group": 1
+  },
+  {
+    "infinitive": "corrompre",
+    "présent": {
+      "je": "corromps",
+      "tu": "corromps",
+      "il": "corrompt",
+      "nous": "corrompons",
+      "vous": "corrompez",
+      "ils": "corrompent"
+    },
+    "passé_composé": {
+      "je": "ai corrompu",
+      "tu": "as corrompu",
+      "il": "a corrompu",
+      "nous": "avons corrompu",
+      "vous": "avez corrompu",
+      "ils": "ont corrompu"
+    },
+    "imparfait": {
+      "je": "corrompais",
+      "tu": "corrompais",
+      "il": "corrompait",
+      "nous": "corrompions",
+      "vous": "corrompiez",
+      "ils": "corrompaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais corrompu",
+      "tu": "avais corrompu",
+      "il": "avait corrompu",
+      "nous": "avions corrompu",
+      "vous": "aviez corrompu",
+      "ils": "avaient corrompu"
+    },
+    "passé_simple": {
+      "je": "corrompis",
+      "tu": "corrompis",
+      "il": "corrompit",
+      "nous": "corrompîmes",
+      "vous": "corrompîtes",
+      "ils": "corrompirent"
+    },
+    "passé_antérieur": {
+      "je": "eus corrompu",
+      "tu": "eus corrompu",
+      "il": "eut corrompu",
+      "nous": "eûmes corrompu",
+      "vous": "eûtes corrompu",
+      "ils": "eurent corrompu"
+    },
+    "futur_simple": {
+      "je": "corromprai",
+      "tu": "corrompras",
+      "il": "corrompra",
+      "nous": "corromprons",
+      "vous": "corromprez",
+      "ils": "corrompront"
+    },
+    "futur_antérieur": {
+      "je": "aurai corrompu",
+      "tu": "auras corrompu",
+      "il": "aura corrompu",
+      "nous": "aurons corrompu",
+      "vous": "aurez corrompu",
+      "ils": "auront corrompu"
+    },
+    "subjonctif_présent": {
+      "je": "corrompe",
+      "tu": "corrompes",
+      "il": "corrompe",
+      "nous": "corrompions",
+      "vous": "corrompiez",
+      "ils": "corrompent"
+    },
+    "subjonctif_passé": {
+      "je": "aie corrompu",
+      "tu": "aies corrompu",
+      "il": "ait corrompu",
+      "nous": "ayons corrompu",
+      "vous": "ayez corrompu",
+      "ils": "aient corrompu"
+    },
+    "subjonctif_imparfait": {
+      "je": "corrompisse",
+      "tu": "corrompisses",
+      "il": "corrompît",
+      "nous": "corrompissions",
+      "vous": "corrompissiez",
+      "ils": "corrompissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse corrompu",
+      "tu": "eusses corrompu",
+      "il": "eût corrompu",
+      "nous": "eussions corrompu",
+      "vous": "eussiez corrompu",
+      "ils": "eussent corrompu"
+    },
+    "conditionnel_présent": {
+      "je": "corromprais",
+      "tu": "corromprais",
+      "il": "corromprait",
+      "nous": "corromprions",
+      "vous": "corrompriez",
+      "ils": "corrompraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais corrompu",
+      "tu": "aurais corrompu",
+      "il": "aurait corrompu",
+      "nous": "aurions corrompu",
+      "vous": "auriez corrompu",
+      "ils": "auraient corrompu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse corrompu",
+      "tu": "eusses corrompu",
+      "il": "eût corrompu",
+      "nous": "eussions corrompu",
+      "vous": "eussiez corrompu",
+      "ils": "eussent corrompu"
+    },
+    "translation": "korumpować",
+    "group": 3
+  }
+]

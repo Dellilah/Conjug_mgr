@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "évacuer",
+    "présent": {
+      "je": "évacue",
+      "tu": "évacues",
+      "il": "évacue",
+      "nous": "évacuons",
+      "vous": "évacuez",
+      "ils": "évacuent"
+    },
+    "passé_composé": {
+      "je": "ai évacué",
+      "tu": "as évacué",
+      "il": "a évacué",
+      "nous": "avons évacué",
+      "vous": "avez évacué",
+      "ils": "ont évacué"
+    },
+    "imparfait": {
+      "je": "évacuais",
+      "tu": "évacuais",
+      "il": "évacuait",
+      "nous": "évacuions",
+      "vous": "évacuiez",
+      "ils": "évacuaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais évacué",
+      "tu": "avais évacué",
+      "il": "avait évacué",
+      "nous": "avions évacué",
+      "vous": "aviez évacué",
+      "ils": "avaient évacué"
+    },
+    "passé_simple": {
+      "je": "évacuai",
+      "tu": "évacuas",
+      "il": "évacua",
+      "nous": "évacuâmes",
+      "vous": "évacuâtes",
+      "ils": "évacuèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus évacué",
+      "tu": "eus évacué",
+      "il": "eut évacué",
+      "nous": "eûmes évacué",
+      "vous": "eûtes évacué",
+      "ils": "eurent évacué"
+    },
+    "futur_simple": {
+      "je": "évacuerai",
+      "tu": "évacueras",
+      "il": "évacuera",
+      "nous": "évacuerons",
+      "vous": "évacuerez",
+      "ils": "évacueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai évacué",
+      "tu": "auras évacué",
+      "il": "aura évacué",
+      "nous": "aurons évacué",
+      "vous": "aurez évacué",
+      "ils": "auront évacué"
+    },
+    "subjonctif_présent": {
+      "je": "évacue",
+      "tu": "évacues",
+      "il": "évacue",
+      "nous": "évacuions",
+      "vous": "évacuiez",
+      "ils": "évacuent"
+    },
+    "subjonctif_passé": {
+      "je": "aie évacué",
+      "tu": "aies évacué",
+      "il": "ait évacué",
+      "nous": "ayons évacué",
+      "vous": "ayez évacué",
+      "ils": "aient évacué"
+    },
+    "subjonctif_imparfait": {
+      "je": "évacuasse",
+      "tu": "évacuasses",
+      "il": "évacuât",
+      "nous": "évacuassions",
+      "vous": "évacuassiez",
+      "ils": "évacuassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse évacué",
+      "tu": "eusses évacué",
+      "il": "eût évacué",
+      "nous": "eussions évacué",
+      "vous": "eussiez évacué",
+      "ils": "eussent évacué"
+    },
+    "conditionnel_présent": {
+      "je": "évacuerais",
+      "tu": "évacuerais",
+      "il": "évacuerait",
+      "nous": "évacuerions",
+      "vous": "évacueriez",
+      "ils": "évacueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais évacué",
+      "tu": "aurais évacué",
+      "il": "aurait évacué",
+      "nous": "aurions évacué",
+      "vous": "auriez évacué",
+      "ils": "auraient évacué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse évacué",
+      "tu": "eusses évacué",
+      "il": "eût évacué",
+      "nous": "eussions évacué",
+      "vous": "eussiez évacué",
+      "ils": "eussent évacué"
+    },
+    "translation": "ewakuować",
+    "group": 1
+  },
+  {
+    "infinitive": "évader",
+    "présent": {
+      "je": "évade",
+      "tu": "évades",
+      "il": "évade",
+      "nous": "nous évadons",
+      "vous": "vous évadez",
+      "ils": "évadent"
+    },
+    "passé_composé": {
+      "je": "me suis évadé",
+      "tu": "es évadé",
+      "il": "est évadé",
+      "nous": "nous sommes évadés",
+      "vous": "vous êtes évadés",
+      "ils": "se sont évadés"
+    },
+    "imparfait": {
+      "je": "évadais",
+      "tu": "évadais",
+      "il": "évadait",
+      "nous": "nous évadions",
+      "vous": "vous évadiez",
+      "ils": "évadaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais évadé",
+      "tu": "étais évadé",
+      "il": "était évadé",
+      "nous": "nous étions évadés",
+      "vous": "vous étiez évadés",
+      "ils": "étaient évadés"
+    },
+    "passé_simple": {
+      "je": "évadai",
+      "tu": "évadas",
+      "il": "évada",
+      "nous": "nous évadâmes",
+      "vous": "vous évadâtes",
+      "ils": "évadèrent"
+    },
+    "passé_antérieur": {
+      "je": "me fus évadé",
+      "tu": "te fus évadé",
+      "il": "se fut évadé",
+      "nous": "nous fûmes évadés",
+      "vous": "vous fûtes évadés",
+      "ils": "se furent évadés"
+    },
+    "futur_simple": {
+      "je": "évaderai",
+      "tu": "évaderas",
+      "il": "évadera",
+      "nous": "nous évaderons",
+      "vous": "vous évaderez",
+      "ils": "évaderont"
+    },
+    "futur_antérieur": {
+      "je": "me serai évadé",
+      "tu": "te seras évadé",
+      "il": "se sera évadé",
+      "nous": "nous serons évadés",
+      "vous": "vous serez évadés",
+      "ils": "se seront évadés"
+    },
+    "subjonctif_présent": {
+      "je": "évade",
+      "tu": "évades",
+      "il": "évade",
+      "nous": "nous évadions",
+      "vous": "vous évadiez",
+      "ils": "évadent"
+    },
+    "subjonctif_passé": {
+      "je": "me sois évadé",
+      "tu": "te sois évadé",
+      "il": "se soit évadé",
+      "nous": "nous soyons évadés",
+      "vous": "vous soyez évadés",
+      "ils": "se soient évadés"
+    },
+    "subjonctif_imparfait": {
+      "je": "évadasse",
+      "tu": "évadasses",
+      "il": "évadât",
+      "nous": "nous évadassions",
+      "vous": "vous évadassiez",
+      "ils": "évadassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse évadé",
+      "tu": "te fusses évadé",
+      "il": "se fût évadé",
+      "nous": "nous fussions évadés",
+      "vous": "vous fussiez évadés",
+      "ils": "se fussent évadés"
+    },
+    "conditionnel_présent": {
+      "je": "évaderais",
+      "tu": "évaderais",
+      "il": "évaderait",
+      "nous": "nous évaderions",
+      "vous": "vous évaderiez",
+      "ils": "évaderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais évadé",
+      "tu": "te serais évadé",
+      "il": "se serait évadé",
+      "nous": "nous serions évadés",
+      "vous": "vous seriez évadés",
+      "ils": "se seraient évadés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse évadé",
+      "tu": "te fusses évadé",
+      "il": "se fût évadé",
+      "nous": "nous fussions évadés",
+      "vous": "vous fussiez évadés",
+      "ils": "se fussent évadés"
+    },
+    "translation": "zbiec",
+    "group": 1
+  },
+  {
+    "infinitive": "évaluer",
+    "présent": {
+      "je": "évalue",
+      "tu": "évalues",
+      "il": "évalue",
+      "nous": "évaluons",
+      "vous": "évaluez",
+      "ils": "évaluent"
+    },
+    "passé_composé": {
+      "je": "ai évalué",
+      "tu": "as évalué",
+      "il": "a évalué",
+      "nous": "avons évalué",
+      "vous": "avez évalué",
+      "ils": "ont évalué"
+    },
+    "imparfait": {
+      "je": "évaluais",
+      "tu": "évaluais",
+      "il": "évaluait",
+      "nous": "évaluions",
+      "vous": "évaluiez",
+      "ils": "évaluaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais évalué",
+      "tu": "avais évalué",
+      "il": "avait évalué",
+      "nous": "avions évalué",
+      "vous": "aviez évalué",
+      "ils": "avaient évalué"
+    },
+    "passé_simple": {
+      "je": "évaluai",
+      "tu": "évaluas",
+      "il": "évalua",
+      "nous": "évaluâmes",
+      "vous": "évaluâtes",
+      "ils": "évaluèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus évalué",
+      "tu": "eus évalué",
+      "il": "eut évalué",
+      "nous": "eûmes évalué",
+      "vous": "eûtes évalué",
+      "ils": "eurent évalué"
+    },
+    "futur_simple": {
+      "je": "évaluerai",
+      "tu": "évalueras",
+      "il": "évaluera",
+      "nous": "évaluerons",
+      "vous": "évaluerez",
+      "ils": "évalueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai évalué",
+      "tu": "auras évalué",
+      "il": "aura évalué",
+      "nous": "aurons évalué",
+      "vous": "aurez évalué",
+      "ils": "auront évalué"
+    },
+    "subjonctif_présent": {
+      "je": "évalue",
+      "tu": "évalues",
+      "il": "évalue",
+      "nous": "évaluions",
+      "vous": "évaluiez",
+      "ils": "évaluent"
+    },
+    "subjonctif_passé": {
+      "je": "aie évalué",
+      "tu": "aies évalué",
+      "il": "ait évalué",
+      "nous": "ayons évalué",
+      "vous": "ayez évalué",
+      "ils": "aient évalué"
+    },
+    "subjonctif_imparfait": {
+      "je": "évaluasse",
+      "tu": "évaluasses",
+      "il": "évaluât",
+      "nous": "évaluassions",
+      "vous": "évaluassiez",
+      "ils": "évaluassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse évalué",
+      "tu": "eusses évalué",
+      "il": "eût évalué",
+      "nous": "eussions évalué",
+      "vous": "eussiez évalué",
+      "ils": "eussent évalué"
+    },
+    "conditionnel_présent": {
+      "je": "évaluerais",
+      "tu": "évaluerais",
+      "il": "évaluerait",
+      "nous": "évaluerions",
+      "vous": "évalueriez",
+      "ils": "évalueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais évalué",
+      "tu": "aurais évalué",
+      "il": "aurait évalué",
+      "nous": "aurions évalué",
+      "vous": "auriez évalué",
+      "ils": "auraient évalué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse évalué",
+      "tu": "eusses évalué",
+      "il": "eût évalué",
+      "nous": "eussions évalué",
+      "vous": "eussiez évalué",
+      "ils": "eussent évalué"
+    },
+    "translation": "obliczać",
+    "group": 1
+  },
+  {
+    "infinitive": "évanouir",
+    "présent": {
+      "je": "évanouis",
+      "tu": "évanouis",
+      "il": "évanouit",
+      "nous": "nous évanouissons",
+      "vous": "vous évanouissez",
+      "ils": "évanouissent"
+    },
+    "passé_composé": {
+      "je": "me suis évanoui",
+      "tu": "es évanoui",
+      "il": "est évanoui",
+      "nous": "nous sommes évanouis",
+      "vous": "vous êtes évanouis",
+      "ils": "se sont évanouis"
+    },
+    "imparfait": {
+      "je": "évanouissais",
+      "tu": "évanouissais",
+      "il": "évanouissait",
+      "nous": "nous évanouissions",
+      "vous": "vous évanouissiez",
+      "ils": "évanouissaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais évanoui",
+      "tu": "étais évanoui",
+      "il": "était évanoui",
+      "nous": "nous étions évanouis",
+      "vous": "vous étiez évanouis",
+      "ils": "étaient évanouis"
+    },
+    "passé_simple": {
+      "je": "évanouis",
+      "tu": "évanouis",
+      "il": "évanouit",
+      "nous": "nous évanouîmes",
+      "vous": "vous évanouîtes",
+      "ils": "évanouirent"
+    },
+    "passé_antérieur": {
+      "je": "me fus évanoui",
+      "tu": "te fus évanoui",
+      "il": "se fut évanoui",
+      "nous": "nous fûmes évanouis",
+      "vous": "vous fûtes évanouis",
+      "ils": "se furent évanouis"
+    },
+    "futur_simple": {
+      "je": "évanouirai",
+      "tu": "évanouiras",
+      "il": "évanouira",
+      "nous": "nous évanouirons",
+      "vous": "vous évanouirez",
+      "ils": "évanouiront"
+    },
+    "futur_antérieur": {
+      "je": "me serai évanoui",
+      "tu": "te seras évanoui",
+      "il": "se sera évanoui",
+      "nous": "nous serons évanouis",
+      "vous": "vous serez évanouis",
+      "ils": "se seront évanouis"
+    },
+    "subjonctif_présent": {
+      "je": "évanouisse",
+      "tu": "évanouisses",
+      "il": "évanouisse",
+      "nous": "nous évanouissions",
+      "vous": "vous évanouissiez",
+      "ils": "évanouissent"
+    },
+    "subjonctif_passé": {
+      "je": "me sois évanoui",
+      "tu": "te sois évanoui",
+      "il": "se soit évanoui",
+      "nous": "nous soyons évanouis",
+      "vous": "vous soyez évanouis",
+      "ils": "se soient évanouis"
+    },
+    "subjonctif_imparfait": {
+      "je": "évanouisse",
+      "tu": "évanouisses",
+      "il": "évanouît",
+      "nous": "nous évanouissions",
+      "vous": "vous évanouissiez",
+      "ils": "évanouissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse évanoui",
+      "tu": "te fusses évanoui",
+      "il": "se fût évanoui",
+      "nous": "nous fussions évanouis",
+      "vous": "vous fussiez évanouis",
+      "ils": "se fussent évanouis"
+    },
+    "conditionnel_présent": {
+      "je": "évanouirais",
+      "tu": "évanouirais",
+      "il": "évanouirait",
+      "nous": "nous évanouirions",
+      "vous": "vous évanouiriez",
+      "ils": "évanouiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais évanoui",
+      "tu": "te serais évanoui",
+      "il": "se serait évanoui",
+      "nous": "nous serions évanouis",
+      "vous": "vous seriez évanouis",
+      "ils": "se seraient évanouis"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse évanoui",
+      "tu": "te fusses évanoui",
+      "il": "se fût évanoui",
+      "nous": "nous fussions évanouis",
+      "vous": "vous fussiez évanouis",
+      "ils": "se fussent évanouis"
+    },
+    "translation": "zemdleć",
+    "group": 2
+  },
+  {
+    "infinitive": "éveiller",
+    "présent": {
+      "je": "éveille",
+      "tu": "éveilles",
+      "il": "éveille",
+      "nous": "éveillons",
+      "vous": "éveillez",
+      "ils": "éveillent"
+    },
+    "passé_composé": {
+      "je": "ai éveillé",
+      "tu": "as éveillé",
+      "il": "a éveillé",
+      "nous": "avons éveillé",
+      "vous": "avez éveillé",
+      "ils": "ont éveillé"
+    },
+    "imparfait": {
+      "je": "éveillais",
+      "tu": "éveillais",
+      "il": "éveillait",
+      "nous": "éveillions",
+      "vous": "éveilliez",
+      "ils": "éveillaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais éveillé",
+      "tu": "avais éveillé",
+      "il": "avait éveillé",
+      "nous": "avions éveillé",
+      "vous": "aviez éveillé",
+      "ils": "avaient éveillé"
+    },
+    "passé_simple": {
+      "je": "éveillai",
+      "tu": "éveillas",
+      "il": "éveilla",
+      "nous": "éveillâmes",
+      "vous": "éveillâtes",
+      "ils": "éveillèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus éveillé",
+      "tu": "eus éveillé",
+      "il": "eut éveillé",
+      "nous": "eûmes éveillé",
+      "vous": "eûtes éveillé",
+      "ils": "eurent éveillé"
+    },
+    "futur_simple": {
+      "je": "éveillerai",
+      "tu": "éveilleras",
+      "il": "éveillera",
+      "nous": "éveillerons",
+      "vous": "éveillerez",
+      "ils": "éveilleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai éveillé",
+      "tu": "auras éveillé",
+      "il": "aura éveillé",
+      "nous": "aurons éveillé",
+      "vous": "aurez éveillé",
+      "ils": "auront éveillé"
+    },
+    "subjonctif_présent": {
+      "je": "éveille",
+      "tu": "éveilles",
+      "il": "éveille",
+      "nous": "éveillions",
+      "vous": "éveilliez",
+      "ils": "éveillent"
+    },
+    "subjonctif_passé": {
+      "je": "aie éveillé",
+      "tu": "aies éveillé",
+      "il": "ait éveillé",
+      "nous": "ayons éveillé",
+      "vous": "ayez éveillé",
+      "ils": "aient éveillé"
+    },
+    "subjonctif_imparfait": {
+      "je": "éveillasse",
+      "tu": "éveillasses",
+      "il": "éveillât",
+      "nous": "éveillassions",
+      "vous": "éveillassiez",
+      "ils": "éveillassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse éveillé",
+      "tu": "eusses éveillé",
+      "il": "eût éveillé",
+      "nous": "eussions éveillé",
+      "vous": "eussiez éveillé",
+      "ils": "eussent éveillé"
+    },
+    "conditionnel_présent": {
+      "je": "éveillerais",
+      "tu": "éveillerais",
+      "il": "éveillerait",
+      "nous": "éveillerions",
+      "vous": "éveilleriez",
+      "ils": "éveilleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais éveillé",
+      "tu": "aurais éveillé",
+      "il": "aurait éveillé",
+      "nous": "aurions éveillé",
+      "vous": "auriez éveillé",
+      "ils": "auraient éveillé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse éveillé",
+      "tu": "eusses éveillé",
+      "il": "eût éveillé",
+      "nous": "eussions éveillé",
+      "vous": "eussiez éveillé",
+      "ils": "eussent éveillé"
+    },
+    "translation": "rozbudzać",
+    "group": 1
+  },
+  {
+    "infinitive": "éviter",
+    "présent": {
+      "je": "évite",
+      "tu": "évites",
+      "il": "évite",
+      "nous": "évitons",
+      "vous": "évitez",
+      "ils": "évitent"
+    },
+    "passé_composé": {
+      "je": "ai évité",
+      "tu": "as évité",
+      "il": "a évité",
+      "nous": "avons évité",
+      "vous": "avez évité",
+      "ils": "ont évité"
+    },
+    "imparfait": {
+      "je": "évitais",
+      "tu": "évitais",
+      "il": "évitait",
+      "nous": "évitions",
+      "vous": "évitiez",
+      "ils": "évitaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais évité",
+      "tu": "avais évité",
+      "il": "avait évité",
+      "nous": "avions évité",
+      "vous": "aviez évité",
+      "ils": "avaient évité"
+    },
+    "passé_simple": {
+      "je": "évitai",
+      "tu": "évitas",
+      "il": "évita",
+      "nous": "évitâmes",
+      "vous": "évitâtes",
+      "ils": "évitèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus évité",
+      "tu": "eus évité",
+      "il": "eut évité",
+      "nous": "eûmes évité",
+      "vous": "eûtes évité",
+      "ils": "eurent évité"
+    },
+    "futur_simple": {
+      "je": "éviterai",
+      "tu": "éviteras",
+      "il": "évitera",
+      "nous": "éviterons",
+      "vous": "éviterez",
+      "ils": "éviteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai évité",
+      "tu": "auras évité",
+      "il": "aura évité",
+      "nous": "aurons évité",
+      "vous": "aurez évité",
+      "ils": "auront évité"
+    },
+    "subjonctif_présent": {
+      "je": "évite",
+      "tu": "évites",
+      "il": "évite",
+      "nous": "évitions",
+      "vous": "évitiez",
+      "ils": "évitent"
+    },
+    "subjonctif_passé": {
+      "je": "aie évité",
+      "tu": "aies évité",
+      "il": "ait évité",
+      "nous": "ayons évité",
+      "vous": "ayez évité",
+      "ils": "aient évité"
+    },
+    "subjonctif_imparfait": {
+      "je": "évitasse",
+      "tu": "évitasses",
+      "il": "évitât",
+      "nous": "évitassions",
+      "vous": "évitassiez",
+      "ils": "évitassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse évité",
+      "tu": "eusses évité",
+      "il": "eût évité",
+      "nous": "eussions évité",
+      "vous": "eussiez évité",
+      "ils": "eussent évité"
+    },
+    "conditionnel_présent": {
+      "je": "éviterais",
+      "tu": "éviterais",
+      "il": "éviterait",
+      "nous": "éviterions",
+      "vous": "éviteriez",
+      "ils": "éviteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais évité",
+      "tu": "aurais évité",
+      "il": "aurait évité",
+      "nous": "aurions évité",
+      "vous": "auriez évité",
+      "ils": "auraient évité"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse évité",
+      "tu": "eusses évité",
+      "il": "eût évité",
+      "nous": "eussions évité",
+      "vous": "eussiez évité",
+      "ils": "eussent évité"
+    },
+    "translation": "omijać",
+    "group": 1
+  },
+  {
+    "infinitive": "évoluer",
+    "présent": {
+      "je": "évolue",
+      "tu": "évolues",
+      "il": "évolue",
+      "nous": "évoluons",
+      "vous": "évoluez",
+      "ils": "évoluent"
+    },
+    "passé_composé": {
+      "je": "ai évolué",
+      "tu": "as évolué",
+      "il": "a évolué",
+      "nous": "avons évolué",
+      "vous": "avez évolué",
+      "ils": "ont évolué"
+    },
+    "imparfait": {
+      "je": "évoluais",
+      "tu": "évoluais",
+      "il": "évoluait",
+      "nous": "évoluions",
+      "vous": "évoluiez",
+      "ils": "évoluaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais évolué",
+      "tu": "avais évolué",
+      "il": "avait évolué",
+      "nous": "avions évolué",
+      "vous": "aviez évolué",
+      "ils": "avaient évolué"
+    },
+    "passé_simple": {
+      "je": "évoluai",
+      "tu": "évoluas",
+      "il": "évolua",
+      "nous": "évoluâmes",
+      "vous": "évoluâtes",
+      "ils": "évoluèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus évolué",
+      "tu": "eus évolué",
+      "il": "eut évolué",
+      "nous": "eûmes évolué",
+      "vous": "eûtes évolué",
+      "ils": "eurent évolué"
+    },
+    "futur_simple": {
+      "je": "évoluerai",
+      "tu": "évolueras",
+      "il": "évoluera",
+      "nous": "évoluerons",
+      "vous": "évoluerez",
+      "ils": "évolueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai évolué",
+      "tu": "auras évolué",
+      "il": "aura évolué",
+      "nous": "aurons évolué",
+      "vous": "aurez évolué",
+      "ils": "auront évolué"
+    },
+    "subjonctif_présent": {
+      "je": "évolue",
+      "tu": "évolues",
+      "il": "évolue",
+      "nous": "évoluions",
+      "vous": "évoluiez",
+      "ils": "évoluent"
+    },
+    "subjonctif_passé": {
+      "je": "aie évolué",
+      "tu": "aies évolué",
+      "il": "ait évolué",
+      "nous": "ayons évolué",
+      "vous": "ayez évolué",
+      "ils": "aient évolué"
+    },
+    "subjonctif_imparfait": {
+      "je": "évoluasse",
+      "tu": "évoluasses",
+      "il": "évoluât",
+      "nous": "évoluassions",
+      "vous": "évoluassiez",
+      "ils": "évoluassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse évolué",
+      "tu": "eusses évolué",
+      "il": "eût évolué",
+      "nous": "eussions évolué",
+      "vous": "eussiez évolué",
+      "ils": "eussent évolué"
+    },
+    "conditionnel_présent": {
+      "je": "évoluerais",
+      "tu": "évoluerais",
+      "il": "évoluerait",
+      "nous": "évoluerions",
+      "vous": "évolueriez",
+      "ils": "évolueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais évolué",
+      "tu": "aurais évolué",
+      "il": "aurait évolué",
+      "nous": "aurions évolué",
+      "vous": "auriez évolué",
+      "ils": "auraient évolué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse évolué",
+      "tu": "eusses évolué",
+      "il": "eût évolué",
+      "nous": "eussions évolué",
+      "vous": "eussiez évolué",
+      "ils": "eussent évolué"
+    },
+    "translation": "przeobrażać",
+    "group": 1
+  },
+  {
+    "infinitive": "évoquer",
+    "présent": {
+      "je": "évoque",
+      "tu": "évoques",
+      "il": "évoque",
+      "nous": "évoquons",
+      "vous": "évoquez",
+      "ils": "évoquent"
+    },
+    "passé_composé": {
+      "je": "ai évoqué",
+      "tu": "as évoqué",
+      "il": "a évoqué",
+      "nous": "avons évoqué",
+      "vous": "avez évoqué",
+      "ils": "ont évoqué"
+    },
+    "imparfait": {
+      "je": "évoquais",
+      "tu": "évoquais",
+      "il": "évoquait",
+      "nous": "évoquions",
+      "vous": "évoquiez",
+      "ils": "évoquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais évoqué",
+      "tu": "avais évoqué",
+      "il": "avait évoqué",
+      "nous": "avions évoqué",
+      "vous": "aviez évoqué",
+      "ils": "avaient évoqué"
+    },
+    "passé_simple": {
+      "je": "évoquai",
+      "tu": "évoquas",
+      "il": "évoqua",
+      "nous": "évoquâmes",
+      "vous": "évoquâtes",
+      "ils": "évoquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus évoqué",
+      "tu": "eus évoqué",
+      "il": "eut évoqué",
+      "nous": "eûmes évoqué",
+      "vous": "eûtes évoqué",
+      "ils": "eurent évoqué"
+    },
+    "futur_simple": {
+      "je": "évoquerai",
+      "tu": "évoqueras",
+      "il": "évoquera",
+      "nous": "évoquerons",
+      "vous": "évoquerez",
+      "ils": "évoqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai évoqué",
+      "tu": "auras évoqué",
+      "il": "aura évoqué",
+      "nous": "aurons évoqué",
+      "vous": "aurez évoqué",
+      "ils": "auront évoqué"
+    },
+    "subjonctif_présent": {
+      "je": "évoque",
+      "tu": "évoques",
+      "il": "évoque",
+      "nous": "évoquions",
+      "vous": "évoquiez",
+      "ils": "évoquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie évoqué",
+      "tu": "aies évoqué",
+      "il": "ait évoqué",
+      "nous": "ayons évoqué",
+      "vous": "ayez évoqué",
+      "ils": "aient évoqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "évoquasse",
+      "tu": "évoquasses",
+      "il": "évoquât",
+      "nous": "évoquassions",
+      "vous": "évoquassiez",
+      "ils": "évoquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse évoqué",
+      "tu": "eusses évoqué",
+      "il": "eût évoqué",
+      "nous": "eussions évoqué",
+      "vous": "eussiez évoqué",
+      "ils": "eussent évoqué"
+    },
+    "conditionnel_présent": {
+      "je": "évoquerais",
+      "tu": "évoquerais",
+      "il": "évoquerait",
+      "nous": "évoquerions",
+      "vous": "évoqueriez",
+      "ils": "évoqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais évoqué",
+      "tu": "aurais évoqué",
+      "il": "aurait évoqué",
+      "nous": "aurions évoqué",
+      "vous": "auriez évoqué",
+      "ils": "auraient évoqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse évoqué",
+      "tu": "eusses évoqué",
+      "il": "eût évoqué",
+      "nous": "eussions évoqué",
+      "vous": "eussiez évoqué",
+      "ils": "eussent évoqué"
+    },
+    "translation": "wspominać",
+    "group": 1
+  },
+  {
+    "infinitive": "exagérer",
+    "présent": {
+      "je": "exagère",
+      "tu": "exagères",
+      "il": "exagère",
+      "nous": "exagérons",
+      "vous": "exagérez",
+      "ils": "exagèrent"
+    },
+    "passé_composé": {
+      "je": "ai exagéré",
+      "tu": "as exagéré",
+      "il": "a exagéré",
+      "nous": "avons exagéré",
+      "vous": "avez exagéré",
+      "ils": "ont exagéré"
+    },
+    "imparfait": {
+      "je": "exagérais",
+      "tu": "exagérais",
+      "il": "exagérait",
+      "nous": "exagérions",
+      "vous": "exagériez",
+      "ils": "exagéraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais exagéré",
+      "tu": "avais exagéré",
+      "il": "avait exagéré",
+      "nous": "avions exagéré",
+      "vous": "aviez exagéré",
+      "ils": "avaient exagéré"
+    },
+    "passé_simple": {
+      "je": "exagérai",
+      "tu": "exagéras",
+      "il": "exagéra",
+      "nous": "exagérâmes",
+      "vous": "exagérâtes",
+      "ils": "exagérèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus exagéré",
+      "tu": "eus exagéré",
+      "il": "eut exagéré",
+      "nous": "eûmes exagéré",
+      "vous": "eûtes exagéré",
+      "ils": "eurent exagéré"
+    },
+    "futur_simple": {
+      "je": "exagérerai",
+      "tu": "exagéreras",
+      "il": "exagérera",
+      "nous": "exagérerons",
+      "vous": "exagérerez",
+      "ils": "exagéreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai exagéré",
+      "tu": "auras exagéré",
+      "il": "aura exagéré",
+      "nous": "aurons exagéré",
+      "vous": "aurez exagéré",
+      "ils": "auront exagéré"
+    },
+    "subjonctif_présent": {
+      "je": "exagère",
+      "tu": "exagères",
+      "il": "exagère",
+      "nous": "exagérions",
+      "vous": "exagériez",
+      "ils": "exagèrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie exagéré",
+      "tu": "aies exagéré",
+      "il": "ait exagéré",
+      "nous": "ayons exagéré",
+      "vous": "ayez exagéré",
+      "ils": "aient exagéré"
+    },
+    "subjonctif_imparfait": {
+      "je": "exagérasse",
+      "tu": "exagérasses",
+      "il": "exagérât",
+      "nous": "exagérassions",
+      "vous": "exagérassiez",
+      "ils": "exagérassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse exagéré",
+      "tu": "eusses exagéré",
+      "il": "eût exagéré",
+      "nous": "eussions exagéré",
+      "vous": "eussiez exagéré",
+      "ils": "eussent exagéré"
+    },
+    "conditionnel_présent": {
+      "je": "exagérerais",
+      "tu": "exagérerais",
+      "il": "exagérerait",
+      "nous": "exagérerions",
+      "vous": "exagéreriez",
+      "ils": "exagéreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais exagéré",
+      "tu": "aurais exagéré",
+      "il": "aurait exagéré",
+      "nous": "aurions exagéré",
+      "vous": "auriez exagéré",
+      "ils": "auraient exagéré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse exagéré",
+      "tu": "eusses exagéré",
+      "il": "eût exagéré",
+      "nous": "eussions exagéré",
+      "vous": "eussiez exagéré",
+      "ils": "eussent exagéré"
+    },
+    "translation": "wyolbrzymiać",
+    "group": 1
+  },
+  {
+    "infinitive": "examiner",
+    "présent": {
+      "je": "examine",
+      "tu": "examines",
+      "il": "examine",
+      "nous": "examinons",
+      "vous": "examinez",
+      "ils": "examinent"
+    },
+    "passé_composé": {
+      "je": "ai examiné",
+      "tu": "as examiné",
+      "il": "a examiné",
+      "nous": "avons examiné",
+      "vous": "avez examiné",
+      "ils": "ont examiné"
+    },
+    "imparfait": {
+      "je": "examinais",
+      "tu": "examinais",
+      "il": "examinait",
+      "nous": "examinions",
+      "vous": "examiniez",
+      "ils": "examinaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais examiné",
+      "tu": "avais examiné",
+      "il": "avait examiné",
+      "nous": "avions examiné",
+      "vous": "aviez examiné",
+      "ils": "avaient examiné"
+    },
+    "passé_simple": {
+      "je": "examinai",
+      "tu": "examinas",
+      "il": "examina",
+      "nous": "examinâmes",
+      "vous": "examinâtes",
+      "ils": "examinèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus examiné",
+      "tu": "eus examiné",
+      "il": "eut examiné",
+      "nous": "eûmes examiné",
+      "vous": "eûtes examiné",
+      "ils": "eurent examiné"
+    },
+    "futur_simple": {
+      "je": "examinerai",
+      "tu": "examineras",
+      "il": "examinera",
+      "nous": "examinerons",
+      "vous": "examinerez",
+      "ils": "examineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai examiné",
+      "tu": "auras examiné",
+      "il": "aura examiné",
+      "nous": "aurons examiné",
+      "vous": "aurez examiné",
+      "ils": "auront examiné"
+    },
+    "subjonctif_présent": {
+      "je": "examine",
+      "tu": "examines",
+      "il": "examine",
+      "nous": "examinions",
+      "vous": "examiniez",
+      "ils": "examinent"
+    },
+    "subjonctif_passé": {
+      "je": "aie examiné",
+      "tu": "aies examiné",
+      "il": "ait examiné",
+      "nous": "ayons examiné",
+      "vous": "ayez examiné",
+      "ils": "aient examiné"
+    },
+    "subjonctif_imparfait": {
+      "je": "examinasse",
+      "tu": "examinasses",
+      "il": "examinât",
+      "nous": "examinassions",
+      "vous": "examinassiez",
+      "ils": "examinassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse examiné",
+      "tu": "eusses examiné",
+      "il": "eût examiné",
+      "nous": "eussions examiné",
+      "vous": "eussiez examiné",
+      "ils": "eussent examiné"
+    },
+    "conditionnel_présent": {
+      "je": "examinerais",
+      "tu": "examinerais",
+      "il": "examinerait",
+      "nous": "examinerions",
+      "vous": "examineriez",
+      "ils": "examineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais examiné",
+      "tu": "aurais examiné",
+      "il": "aurait examiné",
+      "nous": "aurions examiné",
+      "vous": "auriez examiné",
+      "ils": "auraient examiné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse examiné",
+      "tu": "eusses examiné",
+      "il": "eût examiné",
+      "nous": "eussions examiné",
+      "vous": "eussiez examiné",
+      "ils": "eussent examiné"
+    },
+    "translation": "rozważać",
+    "group": 1
+  }
+]

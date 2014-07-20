@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "gronder",
+    "présent": {
+      "je": "gronde",
+      "tu": "grondes",
+      "il": "gronde",
+      "nous": "grondons",
+      "vous": "grondez",
+      "ils": "grondent"
+    },
+    "passé_composé": {
+      "je": "ai grondé",
+      "tu": "as grondé",
+      "il": "a grondé",
+      "nous": "avons grondé",
+      "vous": "avez grondé",
+      "ils": "ont grondé"
+    },
+    "imparfait": {
+      "je": "grondais",
+      "tu": "grondais",
+      "il": "grondait",
+      "nous": "grondions",
+      "vous": "grondiez",
+      "ils": "grondaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais grondé",
+      "tu": "avais grondé",
+      "il": "avait grondé",
+      "nous": "avions grondé",
+      "vous": "aviez grondé",
+      "ils": "avaient grondé"
+    },
+    "passé_simple": {
+      "je": "grondai",
+      "tu": "grondas",
+      "il": "gronda",
+      "nous": "grondâmes",
+      "vous": "grondâtes",
+      "ils": "grondèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus grondé",
+      "tu": "eus grondé",
+      "il": "eut grondé",
+      "nous": "eûmes grondé",
+      "vous": "eûtes grondé",
+      "ils": "eurent grondé"
+    },
+    "futur_simple": {
+      "je": "gronderai",
+      "tu": "gronderas",
+      "il": "grondera",
+      "nous": "gronderons",
+      "vous": "gronderez",
+      "ils": "gronderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai grondé",
+      "tu": "auras grondé",
+      "il": "aura grondé",
+      "nous": "aurons grondé",
+      "vous": "aurez grondé",
+      "ils": "auront grondé"
+    },
+    "subjonctif_présent": {
+      "je": "gronde",
+      "tu": "grondes",
+      "il": "gronde",
+      "nous": "grondions",
+      "vous": "grondiez",
+      "ils": "grondent"
+    },
+    "subjonctif_passé": {
+      "je": "aie grondé",
+      "tu": "aies grondé",
+      "il": "ait grondé",
+      "nous": "ayons grondé",
+      "vous": "ayez grondé",
+      "ils": "aient grondé"
+    },
+    "subjonctif_imparfait": {
+      "je": "grondasse",
+      "tu": "grondasses",
+      "il": "grondât",
+      "nous": "grondassions",
+      "vous": "grondassiez",
+      "ils": "grondassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse grondé",
+      "tu": "eusses grondé",
+      "il": "eût grondé",
+      "nous": "eussions grondé",
+      "vous": "eussiez grondé",
+      "ils": "eussent grondé"
+    },
+    "conditionnel_présent": {
+      "je": "gronderais",
+      "tu": "gronderais",
+      "il": "gronderait",
+      "nous": "gronderions",
+      "vous": "gronderiez",
+      "ils": "gronderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais grondé",
+      "tu": "aurais grondé",
+      "il": "aurait grondé",
+      "nous": "aurions grondé",
+      "vous": "auriez grondé",
+      "ils": "auraient grondé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse grondé",
+      "tu": "eusses grondé",
+      "il": "eût grondé",
+      "nous": "eussions grondé",
+      "vous": "eussiez grondé",
+      "ils": "eussent grondé"
+    },
+    "translation": "huczeć",
+    "group": 1
+  },
+  {
+    "infinitive": "grossir",
+    "présent": {
+      "je": "grossis",
+      "tu": "grossis",
+      "il": "grossit",
+      "nous": "grossissons",
+      "vous": "grossissez",
+      "ils": "grossissent"
+    },
+    "passé_composé": {
+      "je": "ai grossi",
+      "tu": "as grossi",
+      "il": "a grossi",
+      "nous": "avons grossi",
+      "vous": "avez grossi",
+      "ils": "ont grossi"
+    },
+    "imparfait": {
+      "je": "grossissais",
+      "tu": "grossissais",
+      "il": "grossissait",
+      "nous": "grossissions",
+      "vous": "grossissiez",
+      "ils": "grossissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais grossi",
+      "tu": "avais grossi",
+      "il": "avait grossi",
+      "nous": "avions grossi",
+      "vous": "aviez grossi",
+      "ils": "avaient grossi"
+    },
+    "passé_simple": {
+      "je": "grossis",
+      "tu": "grossis",
+      "il": "grossit",
+      "nous": "grossîmes",
+      "vous": "grossîtes",
+      "ils": "grossirent"
+    },
+    "passé_antérieur": {
+      "je": "eus grossi",
+      "tu": "eus grossi",
+      "il": "eut grossi",
+      "nous": "eûmes grossi",
+      "vous": "eûtes grossi",
+      "ils": "eurent grossi"
+    },
+    "futur_simple": {
+      "je": "grossirai",
+      "tu": "grossiras",
+      "il": "grossira",
+      "nous": "grossirons",
+      "vous": "grossirez",
+      "ils": "grossiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai grossi",
+      "tu": "auras grossi",
+      "il": "aura grossi",
+      "nous": "aurons grossi",
+      "vous": "aurez grossi",
+      "ils": "auront grossi"
+    },
+    "subjonctif_présent": {
+      "je": "grossisse",
+      "tu": "grossisses",
+      "il": "grossisse",
+      "nous": "grossissions",
+      "vous": "grossissiez",
+      "ils": "grossissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie grossi",
+      "tu": "aies grossi",
+      "il": "ait grossi",
+      "nous": "ayons grossi",
+      "vous": "ayez grossi",
+      "ils": "aient grossi"
+    },
+    "subjonctif_imparfait": {
+      "je": "grossisse",
+      "tu": "grossisses",
+      "il": "grossît",
+      "nous": "grossissions",
+      "vous": "grossissiez",
+      "ils": "grossissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse grossi",
+      "tu": "eusses grossi",
+      "il": "eût grossi",
+      "nous": "eussions grossi",
+      "vous": "eussiez grossi",
+      "ils": "eussent grossi"
+    },
+    "conditionnel_présent": {
+      "je": "grossirais",
+      "tu": "grossirais",
+      "il": "grossirait",
+      "nous": "grossirions",
+      "vous": "grossiriez",
+      "ils": "grossiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais grossi",
+      "tu": "aurais grossi",
+      "il": "aurait grossi",
+      "nous": "aurions grossi",
+      "vous": "auriez grossi",
+      "ils": "auraient grossi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse grossi",
+      "tu": "eusses grossi",
+      "il": "eût grossi",
+      "nous": "eussions grossi",
+      "vous": "eussiez grossi",
+      "ils": "eussent grossi"
+    },
+    "translation": "tyć",
+    "group": 2
+  },
+  {
+    "infinitive": "guérir",
+    "présent": {
+      "je": "guéris",
+      "tu": "guéris",
+      "il": "guérit",
+      "nous": "guérissons",
+      "vous": "guérissez",
+      "ils": "guérissent"
+    },
+    "passé_composé": {
+      "je": "ai guéri",
+      "tu": "as guéri",
+      "il": "a guéri",
+      "nous": "avons guéri",
+      "vous": "avez guéri",
+      "ils": "ont guéri"
+    },
+    "imparfait": {
+      "je": "guérissais",
+      "tu": "guérissais",
+      "il": "guérissait",
+      "nous": "guérissions",
+      "vous": "guérissiez",
+      "ils": "guérissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais guéri",
+      "tu": "avais guéri",
+      "il": "avait guéri",
+      "nous": "avions guéri",
+      "vous": "aviez guéri",
+      "ils": "avaient guéri"
+    },
+    "passé_simple": {
+      "je": "guéris",
+      "tu": "guéris",
+      "il": "guérit",
+      "nous": "guérîmes",
+      "vous": "guérîtes",
+      "ils": "guérirent"
+    },
+    "passé_antérieur": {
+      "je": "eus guéri",
+      "tu": "eus guéri",
+      "il": "eut guéri",
+      "nous": "eûmes guéri",
+      "vous": "eûtes guéri",
+      "ils": "eurent guéri"
+    },
+    "futur_simple": {
+      "je": "guérirai",
+      "tu": "guériras",
+      "il": "guérira",
+      "nous": "guérirons",
+      "vous": "guérirez",
+      "ils": "guériront"
+    },
+    "futur_antérieur": {
+      "je": "aurai guéri",
+      "tu": "auras guéri",
+      "il": "aura guéri",
+      "nous": "aurons guéri",
+      "vous": "aurez guéri",
+      "ils": "auront guéri"
+    },
+    "subjonctif_présent": {
+      "je": "guérisse",
+      "tu": "guérisses",
+      "il": "guérisse",
+      "nous": "guérissions",
+      "vous": "guérissiez",
+      "ils": "guérissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie guéri",
+      "tu": "aies guéri",
+      "il": "ait guéri",
+      "nous": "ayons guéri",
+      "vous": "ayez guéri",
+      "ils": "aient guéri"
+    },
+    "subjonctif_imparfait": {
+      "je": "guérisse",
+      "tu": "guérisses",
+      "il": "guérît",
+      "nous": "guérissions",
+      "vous": "guérissiez",
+      "ils": "guérissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse guéri",
+      "tu": "eusses guéri",
+      "il": "eût guéri",
+      "nous": "eussions guéri",
+      "vous": "eussiez guéri",
+      "ils": "eussent guéri"
+    },
+    "conditionnel_présent": {
+      "je": "guérirais",
+      "tu": "guérirais",
+      "il": "guérirait",
+      "nous": "guéririons",
+      "vous": "guéririez",
+      "ils": "guériraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais guéri",
+      "tu": "aurais guéri",
+      "il": "aurait guéri",
+      "nous": "aurions guéri",
+      "vous": "auriez guéri",
+      "ils": "auraient guéri"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse guéri",
+      "tu": "eusses guéri",
+      "il": "eût guéri",
+      "nous": "eussions guéri",
+      "vous": "eussiez guéri",
+      "ils": "eussent guéri"
+    },
+    "translation": "leczyć",
+    "group": 2
+  },
+  {
+    "infinitive": "guetter",
+    "présent": {
+      "je": "guette",
+      "tu": "guettes",
+      "il": "guette",
+      "nous": "guettons",
+      "vous": "guettez",
+      "ils": "guettent"
+    },
+    "passé_composé": {
+      "je": "ai guetté",
+      "tu": "as guetté",
+      "il": "a guetté",
+      "nous": "avons guetté",
+      "vous": "avez guetté",
+      "ils": "ont guetté"
+    },
+    "imparfait": {
+      "je": "guettais",
+      "tu": "guettais",
+      "il": "guettait",
+      "nous": "guettions",
+      "vous": "guettiez",
+      "ils": "guettaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais guetté",
+      "tu": "avais guetté",
+      "il": "avait guetté",
+      "nous": "avions guetté",
+      "vous": "aviez guetté",
+      "ils": "avaient guetté"
+    },
+    "passé_simple": {
+      "je": "guettai",
+      "tu": "guettas",
+      "il": "guetta",
+      "nous": "guettâmes",
+      "vous": "guettâtes",
+      "ils": "guettèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus guetté",
+      "tu": "eus guetté",
+      "il": "eut guetté",
+      "nous": "eûmes guetté",
+      "vous": "eûtes guetté",
+      "ils": "eurent guetté"
+    },
+    "futur_simple": {
+      "je": "guetterai",
+      "tu": "guetteras",
+      "il": "guettera",
+      "nous": "guetterons",
+      "vous": "guetterez",
+      "ils": "guetteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai guetté",
+      "tu": "auras guetté",
+      "il": "aura guetté",
+      "nous": "aurons guetté",
+      "vous": "aurez guetté",
+      "ils": "auront guetté"
+    },
+    "subjonctif_présent": {
+      "je": "guette",
+      "tu": "guettes",
+      "il": "guette",
+      "nous": "guettions",
+      "vous": "guettiez",
+      "ils": "guettent"
+    },
+    "subjonctif_passé": {
+      "je": "aie guetté",
+      "tu": "aies guetté",
+      "il": "ait guetté",
+      "nous": "ayons guetté",
+      "vous": "ayez guetté",
+      "ils": "aient guetté"
+    },
+    "subjonctif_imparfait": {
+      "je": "guettasse",
+      "tu": "guettasses",
+      "il": "guettât",
+      "nous": "guettassions",
+      "vous": "guettassiez",
+      "ils": "guettassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse guetté",
+      "tu": "eusses guetté",
+      "il": "eût guetté",
+      "nous": "eussions guetté",
+      "vous": "eussiez guetté",
+      "ils": "eussent guetté"
+    },
+    "conditionnel_présent": {
+      "je": "guetterais",
+      "tu": "guetterais",
+      "il": "guetterait",
+      "nous": "guetterions",
+      "vous": "guetteriez",
+      "ils": "guetteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais guetté",
+      "tu": "aurais guetté",
+      "il": "aurait guetté",
+      "nous": "aurions guetté",
+      "vous": "auriez guetté",
+      "ils": "auraient guetté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse guetté",
+      "tu": "eusses guetté",
+      "il": "eût guetté",
+      "nous": "eussions guetté",
+      "vous": "eussiez guetté",
+      "ils": "eussent guetté"
+    },
+    "translation": "czatować",
+    "group": 1
+  },
+  {
+    "infinitive": "gueuler",
+    "présent": {
+      "je": "gueule",
+      "tu": "gueules",
+      "il": "gueule",
+      "nous": "gueulons",
+      "vous": "gueulez",
+      "ils": "gueulent"
+    },
+    "passé_composé": {
+      "je": "ai gueulé",
+      "tu": "as gueulé",
+      "il": "a gueulé",
+      "nous": "avons gueulé",
+      "vous": "avez gueulé",
+      "ils": "ont gueulé"
+    },
+    "imparfait": {
+      "je": "gueulais",
+      "tu": "gueulais",
+      "il": "gueulait",
+      "nous": "gueulions",
+      "vous": "gueuliez",
+      "ils": "gueulaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais gueulé",
+      "tu": "avais gueulé",
+      "il": "avait gueulé",
+      "nous": "avions gueulé",
+      "vous": "aviez gueulé",
+      "ils": "avaient gueulé"
+    },
+    "passé_simple": {
+      "je": "gueulai",
+      "tu": "gueulas",
+      "il": "gueula",
+      "nous": "gueulâmes",
+      "vous": "gueulâtes",
+      "ils": "gueulèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus gueulé",
+      "tu": "eus gueulé",
+      "il": "eut gueulé",
+      "nous": "eûmes gueulé",
+      "vous": "eûtes gueulé",
+      "ils": "eurent gueulé"
+    },
+    "futur_simple": {
+      "je": "gueulerai",
+      "tu": "gueuleras",
+      "il": "gueulera",
+      "nous": "gueulerons",
+      "vous": "gueulerez",
+      "ils": "gueuleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai gueulé",
+      "tu": "auras gueulé",
+      "il": "aura gueulé",
+      "nous": "aurons gueulé",
+      "vous": "aurez gueulé",
+      "ils": "auront gueulé"
+    },
+    "subjonctif_présent": {
+      "je": "gueule",
+      "tu": "gueules",
+      "il": "gueule",
+      "nous": "gueulions",
+      "vous": "gueuliez",
+      "ils": "gueulent"
+    },
+    "subjonctif_passé": {
+      "je": "aie gueulé",
+      "tu": "aies gueulé",
+      "il": "ait gueulé",
+      "nous": "ayons gueulé",
+      "vous": "ayez gueulé",
+      "ils": "aient gueulé"
+    },
+    "subjonctif_imparfait": {
+      "je": "gueulasse",
+      "tu": "gueulasses",
+      "il": "gueulât",
+      "nous": "gueulassions",
+      "vous": "gueulassiez",
+      "ils": "gueulassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse gueulé",
+      "tu": "eusses gueulé",
+      "il": "eût gueulé",
+      "nous": "eussions gueulé",
+      "vous": "eussiez gueulé",
+      "ils": "eussent gueulé"
+    },
+    "conditionnel_présent": {
+      "je": "gueulerais",
+      "tu": "gueulerais",
+      "il": "gueulerait",
+      "nous": "gueulerions",
+      "vous": "gueuleriez",
+      "ils": "gueuleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais gueulé",
+      "tu": "aurais gueulé",
+      "il": "aurait gueulé",
+      "nous": "aurions gueulé",
+      "vous": "auriez gueulé",
+      "ils": "auraient gueulé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse gueulé",
+      "tu": "eusses gueulé",
+      "il": "eût gueulé",
+      "nous": "eussions gueulé",
+      "vous": "eussiez gueulé",
+      "ils": "eussent gueulé"
+    },
+    "translation": "wrzeszczeć",
+    "group": 1
+  },
+  {
+    "infinitive": "guider",
+    "présent": {
+      "je": "guide",
+      "tu": "guides",
+      "il": "guide",
+      "nous": "guidons",
+      "vous": "guidez",
+      "ils": "guident"
+    },
+    "passé_composé": {
+      "je": "ai guidé",
+      "tu": "as guidé",
+      "il": "a guidé",
+      "nous": "avons guidé",
+      "vous": "avez guidé",
+      "ils": "ont guidé"
+    },
+    "imparfait": {
+      "je": "guidais",
+      "tu": "guidais",
+      "il": "guidait",
+      "nous": "guidions",
+      "vous": "guidiez",
+      "ils": "guidaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais guidé",
+      "tu": "avais guidé",
+      "il": "avait guidé",
+      "nous": "avions guidé",
+      "vous": "aviez guidé",
+      "ils": "avaient guidé"
+    },
+    "passé_simple": {
+      "je": "guidai",
+      "tu": "guidas",
+      "il": "guida",
+      "nous": "guidâmes",
+      "vous": "guidâtes",
+      "ils": "guidèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus guidé",
+      "tu": "eus guidé",
+      "il": "eut guidé",
+      "nous": "eûmes guidé",
+      "vous": "eûtes guidé",
+      "ils": "eurent guidé"
+    },
+    "futur_simple": {
+      "je": "guiderai",
+      "tu": "guideras",
+      "il": "guidera",
+      "nous": "guiderons",
+      "vous": "guiderez",
+      "ils": "guideront"
+    },
+    "futur_antérieur": {
+      "je": "aurai guidé",
+      "tu": "auras guidé",
+      "il": "aura guidé",
+      "nous": "aurons guidé",
+      "vous": "aurez guidé",
+      "ils": "auront guidé"
+    },
+    "subjonctif_présent": {
+      "je": "guide",
+      "tu": "guides",
+      "il": "guide",
+      "nous": "guidions",
+      "vous": "guidiez",
+      "ils": "guident"
+    },
+    "subjonctif_passé": {
+      "je": "aie guidé",
+      "tu": "aies guidé",
+      "il": "ait guidé",
+      "nous": "ayons guidé",
+      "vous": "ayez guidé",
+      "ils": "aient guidé"
+    },
+    "subjonctif_imparfait": {
+      "je": "guidasse",
+      "tu": "guidasses",
+      "il": "guidât",
+      "nous": "guidassions",
+      "vous": "guidassiez",
+      "ils": "guidassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse guidé",
+      "tu": "eusses guidé",
+      "il": "eût guidé",
+      "nous": "eussions guidé",
+      "vous": "eussiez guidé",
+      "ils": "eussent guidé"
+    },
+    "conditionnel_présent": {
+      "je": "guiderais",
+      "tu": "guiderais",
+      "il": "guiderait",
+      "nous": "guiderions",
+      "vous": "guideriez",
+      "ils": "guideraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais guidé",
+      "tu": "aurais guidé",
+      "il": "aurait guidé",
+      "nous": "aurions guidé",
+      "vous": "auriez guidé",
+      "ils": "auraient guidé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse guidé",
+      "tu": "eusses guidé",
+      "il": "eût guidé",
+      "nous": "eussions guidé",
+      "vous": "eussiez guidé",
+      "ils": "eussent guidé"
+    },
+    "translation": "oprowadzać",
+    "group": 1
+  },
+  {
+    "infinitive": "habiliter",
+    "présent": {
+      "je": "habilite",
+      "tu": "habilites",
+      "il": "habilite",
+      "nous": "habilitons",
+      "vous": "habilitez",
+      "ils": "habilitent"
+    },
+    "passé_composé": {
+      "je": "ai habilité",
+      "tu": "as habilité",
+      "il": "a habilité",
+      "nous": "avons habilité",
+      "vous": "avez habilité",
+      "ils": "ont habilité"
+    },
+    "imparfait": {
+      "je": "habilitais",
+      "tu": "habilitais",
+      "il": "habilitait",
+      "nous": "habilitions",
+      "vous": "habilitiez",
+      "ils": "habilitaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais habilité",
+      "tu": "avais habilité",
+      "il": "avait habilité",
+      "nous": "avions habilité",
+      "vous": "aviez habilité",
+      "ils": "avaient habilité"
+    },
+    "passé_simple": {
+      "je": "habilitai",
+      "tu": "habilitas",
+      "il": "habilita",
+      "nous": "habilitâmes",
+      "vous": "habilitâtes",
+      "ils": "habilitèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus habilité",
+      "tu": "eus habilité",
+      "il": "eut habilité",
+      "nous": "eûmes habilité",
+      "vous": "eûtes habilité",
+      "ils": "eurent habilité"
+    },
+    "futur_simple": {
+      "je": "habiliterai",
+      "tu": "habiliteras",
+      "il": "habilitera",
+      "nous": "habiliterons",
+      "vous": "habiliterez",
+      "ils": "habiliteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai habilité",
+      "tu": "auras habilité",
+      "il": "aura habilité",
+      "nous": "aurons habilité",
+      "vous": "aurez habilité",
+      "ils": "auront habilité"
+    },
+    "subjonctif_présent": {
+      "je": "habilite",
+      "tu": "habilites",
+      "il": "habilite",
+      "nous": "habilitions",
+      "vous": "habilitiez",
+      "ils": "habilitent"
+    },
+    "subjonctif_passé": {
+      "je": "aie habilité",
+      "tu": "aies habilité",
+      "il": "ait habilité",
+      "nous": "ayons habilité",
+      "vous": "ayez habilité",
+      "ils": "aient habilité"
+    },
+    "subjonctif_imparfait": {
+      "je": "habilitasse",
+      "tu": "habilitasses",
+      "il": "habilitât",
+      "nous": "habilitassions",
+      "vous": "habilitassiez",
+      "ils": "habilitassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse habilité",
+      "tu": "eusses habilité",
+      "il": "eût habilité",
+      "nous": "eussions habilité",
+      "vous": "eussiez habilité",
+      "ils": "eussent habilité"
+    },
+    "conditionnel_présent": {
+      "je": "habiliterais",
+      "tu": "habiliterais",
+      "il": "habiliterait",
+      "nous": "habiliterions",
+      "vous": "habiliteriez",
+      "ils": "habiliteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais habilité",
+      "tu": "aurais habilité",
+      "il": "aurait habilité",
+      "nous": "aurions habilité",
+      "vous": "auriez habilité",
+      "ils": "auraient habilité"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse habilité",
+      "tu": "eusses habilité",
+      "il": "eût habilité",
+      "nous": "eussions habilité",
+      "vous": "eussiez habilité",
+      "ils": "eussent habilité"
+    },
+    "translation": "uprawniać",
+    "group": 1
+  },
+  {
+    "infinitive": "habiller",
+    "présent": {
+      "je": "habille",
+      "tu": "habilles",
+      "il": "habille",
+      "nous": "habillons",
+      "vous": "habillez",
+      "ils": "habillent"
+    },
+    "passé_composé": {
+      "je": "ai habillé",
+      "tu": "as habillé",
+      "il": "a habillé",
+      "nous": "avons habillé",
+      "vous": "avez habillé",
+      "ils": "ont habillé"
+    },
+    "imparfait": {
+      "je": "habillais",
+      "tu": "habillais",
+      "il": "habillait",
+      "nous": "habillions",
+      "vous": "habilliez",
+      "ils": "habillaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais habillé",
+      "tu": "avais habillé",
+      "il": "avait habillé",
+      "nous": "avions habillé",
+      "vous": "aviez habillé",
+      "ils": "avaient habillé"
+    },
+    "passé_simple": {
+      "je": "habillai",
+      "tu": "habillas",
+      "il": "habilla",
+      "nous": "habillâmes",
+      "vous": "habillâtes",
+      "ils": "habillèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus habillé",
+      "tu": "eus habillé",
+      "il": "eut habillé",
+      "nous": "eûmes habillé",
+      "vous": "eûtes habillé",
+      "ils": "eurent habillé"
+    },
+    "futur_simple": {
+      "je": "habillerai",
+      "tu": "habilleras",
+      "il": "habillera",
+      "nous": "habillerons",
+      "vous": "habillerez",
+      "ils": "habilleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai habillé",
+      "tu": "auras habillé",
+      "il": "aura habillé",
+      "nous": "aurons habillé",
+      "vous": "aurez habillé",
+      "ils": "auront habillé"
+    },
+    "subjonctif_présent": {
+      "je": "habille",
+      "tu": "habilles",
+      "il": "habille",
+      "nous": "habillions",
+      "vous": "habilliez",
+      "ils": "habillent"
+    },
+    "subjonctif_passé": {
+      "je": "aie habillé",
+      "tu": "aies habillé",
+      "il": "ait habillé",
+      "nous": "ayons habillé",
+      "vous": "ayez habillé",
+      "ils": "aient habillé"
+    },
+    "subjonctif_imparfait": {
+      "je": "habillasse",
+      "tu": "habillasses",
+      "il": "habillât",
+      "nous": "habillassions",
+      "vous": "habillassiez",
+      "ils": "habillassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse habillé",
+      "tu": "eusses habillé",
+      "il": "eût habillé",
+      "nous": "eussions habillé",
+      "vous": "eussiez habillé",
+      "ils": "eussent habillé"
+    },
+    "conditionnel_présent": {
+      "je": "habillerais",
+      "tu": "habillerais",
+      "il": "habillerait",
+      "nous": "habillerions",
+      "vous": "habilleriez",
+      "ils": "habilleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais habillé",
+      "tu": "aurais habillé",
+      "il": "aurait habillé",
+      "nous": "aurions habillé",
+      "vous": "auriez habillé",
+      "ils": "auraient habillé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse habillé",
+      "tu": "eusses habillé",
+      "il": "eût habillé",
+      "nous": "eussions habillé",
+      "vous": "eussiez habillé",
+      "ils": "eussent habillé"
+    },
+    "translation": "ubierać",
+    "group": 1
+  },
+  {
+    "infinitive": "habiter",
+    "présent": {
+      "je": "habite",
+      "tu": "habites",
+      "il": "habite",
+      "nous": "habitons",
+      "vous": "habitez",
+      "ils": "habitent"
+    },
+    "passé_composé": {
+      "je": "ai habité",
+      "tu": "as habité",
+      "il": "a habité",
+      "nous": "avons habité",
+      "vous": "avez habité",
+      "ils": "ont habité"
+    },
+    "imparfait": {
+      "je": "habitais",
+      "tu": "habitais",
+      "il": "habitait",
+      "nous": "habitions",
+      "vous": "habitiez",
+      "ils": "habitaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais habité",
+      "tu": "avais habité",
+      "il": "avait habité",
+      "nous": "avions habité",
+      "vous": "aviez habité",
+      "ils": "avaient habité"
+    },
+    "passé_simple": {
+      "je": "habitai",
+      "tu": "habitas",
+      "il": "habita",
+      "nous": "habitâmes",
+      "vous": "habitâtes",
+      "ils": "habitèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus habité",
+      "tu": "eus habité",
+      "il": "eut habité",
+      "nous": "eûmes habité",
+      "vous": "eûtes habité",
+      "ils": "eurent habité"
+    },
+    "futur_simple": {
+      "je": "habiterai",
+      "tu": "habiteras",
+      "il": "habitera",
+      "nous": "habiterons",
+      "vous": "habiterez",
+      "ils": "habiteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai habité",
+      "tu": "auras habité",
+      "il": "aura habité",
+      "nous": "aurons habité",
+      "vous": "aurez habité",
+      "ils": "auront habité"
+    },
+    "subjonctif_présent": {
+      "je": "habite",
+      "tu": "habites",
+      "il": "habite",
+      "nous": "habitions",
+      "vous": "habitiez",
+      "ils": "habitent"
+    },
+    "subjonctif_passé": {
+      "je": "aie habité",
+      "tu": "aies habité",
+      "il": "ait habité",
+      "nous": "ayons habité",
+      "vous": "ayez habité",
+      "ils": "aient habité"
+    },
+    "subjonctif_imparfait": {
+      "je": "habitasse",
+      "tu": "habitasses",
+      "il": "habitât",
+      "nous": "habitassions",
+      "vous": "habitassiez",
+      "ils": "habitassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse habité",
+      "tu": "eusses habité",
+      "il": "eût habité",
+      "nous": "eussions habité",
+      "vous": "eussiez habité",
+      "ils": "eussent habité"
+    },
+    "conditionnel_présent": {
+      "je": "habiterais",
+      "tu": "habiterais",
+      "il": "habiterait",
+      "nous": "habiterions",
+      "vous": "habiteriez",
+      "ils": "habiteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais habité",
+      "tu": "aurais habité",
+      "il": "aurait habité",
+      "nous": "aurions habité",
+      "vous": "auriez habité",
+      "ils": "auraient habité"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse habité",
+      "tu": "eusses habité",
+      "il": "eût habité",
+      "nous": "eussions habité",
+      "vous": "eussiez habité",
+      "ils": "eussent habité"
+    },
+    "translation": "mieszkać",
+    "group": 1
+  },
+  {
+    "infinitive": "habituer",
+    "présent": {
+      "je": "habitue",
+      "tu": "habitues",
+      "il": "habitue",
+      "nous": "habituons",
+      "vous": "habituez",
+      "ils": "habituent"
+    },
+    "passé_composé": {
+      "je": "ai habitué",
+      "tu": "as habitué",
+      "il": "a habitué",
+      "nous": "avons habitué",
+      "vous": "avez habitué",
+      "ils": "ont habitué"
+    },
+    "imparfait": {
+      "je": "habituais",
+      "tu": "habituais",
+      "il": "habituait",
+      "nous": "habituions",
+      "vous": "habituiez",
+      "ils": "habituaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais habitué",
+      "tu": "avais habitué",
+      "il": "avait habitué",
+      "nous": "avions habitué",
+      "vous": "aviez habitué",
+      "ils": "avaient habitué"
+    },
+    "passé_simple": {
+      "je": "habituai",
+      "tu": "habituas",
+      "il": "habitua",
+      "nous": "habituâmes",
+      "vous": "habituâtes",
+      "ils": "habituèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus habitué",
+      "tu": "eus habitué",
+      "il": "eut habitué",
+      "nous": "eûmes habitué",
+      "vous": "eûtes habitué",
+      "ils": "eurent habitué"
+    },
+    "futur_simple": {
+      "je": "habituerai",
+      "tu": "habitueras",
+      "il": "habituera",
+      "nous": "habituerons",
+      "vous": "habituerez",
+      "ils": "habitueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai habitué",
+      "tu": "auras habitué",
+      "il": "aura habitué",
+      "nous": "aurons habitué",
+      "vous": "aurez habitué",
+      "ils": "auront habitué"
+    },
+    "subjonctif_présent": {
+      "je": "habitue",
+      "tu": "habitues",
+      "il": "habitue",
+      "nous": "habituions",
+      "vous": "habituiez",
+      "ils": "habituent"
+    },
+    "subjonctif_passé": {
+      "je": "aie habitué",
+      "tu": "aies habitué",
+      "il": "ait habitué",
+      "nous": "ayons habitué",
+      "vous": "ayez habitué",
+      "ils": "aient habitué"
+    },
+    "subjonctif_imparfait": {
+      "je": "habituasse",
+      "tu": "habituasses",
+      "il": "habituât",
+      "nous": "habituassions",
+      "vous": "habituassiez",
+      "ils": "habituassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse habitué",
+      "tu": "eusses habitué",
+      "il": "eût habitué",
+      "nous": "eussions habitué",
+      "vous": "eussiez habitué",
+      "ils": "eussent habitué"
+    },
+    "conditionnel_présent": {
+      "je": "habituerais",
+      "tu": "habituerais",
+      "il": "habituerait",
+      "nous": "habituerions",
+      "vous": "habitueriez",
+      "ils": "habitueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais habitué",
+      "tu": "aurais habitué",
+      "il": "aurait habitué",
+      "nous": "aurions habitué",
+      "vous": "auriez habitué",
+      "ils": "auraient habitué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse habitué",
+      "tu": "eusses habitué",
+      "il": "eût habitué",
+      "nous": "eussions habitué",
+      "vous": "eussiez habitué",
+      "ils": "eussent habitué"
+    },
+    "translation": "przyzwyczajać",
+    "group": 1
+  }
+]

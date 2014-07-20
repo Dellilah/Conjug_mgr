@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "bronzer",
+    "présent": {
+      "je": "bronze",
+      "tu": "bronzes",
+      "il": "bronze",
+      "nous": "bronzons",
+      "vous": "bronzez",
+      "ils": "bronzent"
+    },
+    "passé_composé": {
+      "je": "ai bronzé",
+      "tu": "as bronzé",
+      "il": "a bronzé",
+      "nous": "avons bronzé",
+      "vous": "avez bronzé",
+      "ils": "ont bronzé"
+    },
+    "imparfait": {
+      "je": "bronzais",
+      "tu": "bronzais",
+      "il": "bronzait",
+      "nous": "bronzions",
+      "vous": "bronziez",
+      "ils": "bronzaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais bronzé",
+      "tu": "avais bronzé",
+      "il": "avait bronzé",
+      "nous": "avions bronzé",
+      "vous": "aviez bronzé",
+      "ils": "avaient bronzé"
+    },
+    "passé_simple": {
+      "je": "bronzai",
+      "tu": "bronzas",
+      "il": "bronza",
+      "nous": "bronzâmes",
+      "vous": "bronzâtes",
+      "ils": "bronzèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus bronzé",
+      "tu": "eus bronzé",
+      "il": "eut bronzé",
+      "nous": "eûmes bronzé",
+      "vous": "eûtes bronzé",
+      "ils": "eurent bronzé"
+    },
+    "futur_simple": {
+      "je": "bronzerai",
+      "tu": "bronzeras",
+      "il": "bronzera",
+      "nous": "bronzerons",
+      "vous": "bronzerez",
+      "ils": "bronzeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai bronzé",
+      "tu": "auras bronzé",
+      "il": "aura bronzé",
+      "nous": "aurons bronzé",
+      "vous": "aurez bronzé",
+      "ils": "auront bronzé"
+    },
+    "subjonctif_présent": {
+      "je": "bronze",
+      "tu": "bronzes",
+      "il": "bronze",
+      "nous": "bronzions",
+      "vous": "bronziez",
+      "ils": "bronzent"
+    },
+    "subjonctif_passé": {
+      "je": "aie bronzé",
+      "tu": "aies bronzé",
+      "il": "ait bronzé",
+      "nous": "ayons bronzé",
+      "vous": "ayez bronzé",
+      "ils": "aient bronzé"
+    },
+    "subjonctif_imparfait": {
+      "je": "bronzasse",
+      "tu": "bronzasses",
+      "il": "bronzât",
+      "nous": "bronzassions",
+      "vous": "bronzassiez",
+      "ils": "bronzassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse bronzé",
+      "tu": "eusses bronzé",
+      "il": "eût bronzé",
+      "nous": "eussions bronzé",
+      "vous": "eussiez bronzé",
+      "ils": "eussent bronzé"
+    },
+    "conditionnel_présent": {
+      "je": "bronzerais",
+      "tu": "bronzerais",
+      "il": "bronzerait",
+      "nous": "bronzerions",
+      "vous": "bronzeriez",
+      "ils": "bronzeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais bronzé",
+      "tu": "aurais bronzé",
+      "il": "aurait bronzé",
+      "nous": "aurions bronzé",
+      "vous": "auriez bronzé",
+      "ils": "auraient bronzé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse bronzé",
+      "tu": "eusses bronzé",
+      "il": "eût bronzé",
+      "nous": "eussions bronzé",
+      "vous": "eussiez bronzé",
+      "ils": "eussent bronzé"
+    },
+    "translation": "opalać",
+    "group": 1
+  },
+  {
+    "infinitive": "brosser",
+    "présent": {
+      "je": "brosse",
+      "tu": "brosses",
+      "il": "brosse",
+      "nous": "brossons",
+      "vous": "brossez",
+      "ils": "brossent"
+    },
+    "passé_composé": {
+      "je": "ai brossé",
+      "tu": "as brossé",
+      "il": "a brossé",
+      "nous": "avons brossé",
+      "vous": "avez brossé",
+      "ils": "ont brossé"
+    },
+    "imparfait": {
+      "je": "brossais",
+      "tu": "brossais",
+      "il": "brossait",
+      "nous": "brossions",
+      "vous": "brossiez",
+      "ils": "brossaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais brossé",
+      "tu": "avais brossé",
+      "il": "avait brossé",
+      "nous": "avions brossé",
+      "vous": "aviez brossé",
+      "ils": "avaient brossé"
+    },
+    "passé_simple": {
+      "je": "brossai",
+      "tu": "brossas",
+      "il": "brossa",
+      "nous": "brossâmes",
+      "vous": "brossâtes",
+      "ils": "brossèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus brossé",
+      "tu": "eus brossé",
+      "il": "eut brossé",
+      "nous": "eûmes brossé",
+      "vous": "eûtes brossé",
+      "ils": "eurent brossé"
+    },
+    "futur_simple": {
+      "je": "brosserai",
+      "tu": "brosseras",
+      "il": "brossera",
+      "nous": "brosserons",
+      "vous": "brosserez",
+      "ils": "brosseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai brossé",
+      "tu": "auras brossé",
+      "il": "aura brossé",
+      "nous": "aurons brossé",
+      "vous": "aurez brossé",
+      "ils": "auront brossé"
+    },
+    "subjonctif_présent": {
+      "je": "brosse",
+      "tu": "brosses",
+      "il": "brosse",
+      "nous": "brossions",
+      "vous": "brossiez",
+      "ils": "brossent"
+    },
+    "subjonctif_passé": {
+      "je": "aie brossé",
+      "tu": "aies brossé",
+      "il": "ait brossé",
+      "nous": "ayons brossé",
+      "vous": "ayez brossé",
+      "ils": "aient brossé"
+    },
+    "subjonctif_imparfait": {
+      "je": "brossasse",
+      "tu": "brossasses",
+      "il": "brossât",
+      "nous": "brossassions",
+      "vous": "brossassiez",
+      "ils": "brossassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse brossé",
+      "tu": "eusses brossé",
+      "il": "eût brossé",
+      "nous": "eussions brossé",
+      "vous": "eussiez brossé",
+      "ils": "eussent brossé"
+    },
+    "conditionnel_présent": {
+      "je": "brosserais",
+      "tu": "brosserais",
+      "il": "brosserait",
+      "nous": "brosserions",
+      "vous": "brosseriez",
+      "ils": "brosseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais brossé",
+      "tu": "aurais brossé",
+      "il": "aurait brossé",
+      "nous": "aurions brossé",
+      "vous": "auriez brossé",
+      "ils": "auraient brossé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse brossé",
+      "tu": "eusses brossé",
+      "il": "eût brossé",
+      "nous": "eussions brossé",
+      "vous": "eussiez brossé",
+      "ils": "eussent brossé"
+    },
+    "translation": "szczotkować",
+    "group": 1
+  },
+  {
+    "infinitive": "brouter",
+    "présent": {
+      "je": "broute",
+      "tu": "broutes",
+      "il": "broute",
+      "nous": "broutons",
+      "vous": "broutez",
+      "ils": "broutent"
+    },
+    "passé_composé": {
+      "je": "ai brouté",
+      "tu": "as brouté",
+      "il": "a brouté",
+      "nous": "avons brouté",
+      "vous": "avez brouté",
+      "ils": "ont brouté"
+    },
+    "imparfait": {
+      "je": "broutais",
+      "tu": "broutais",
+      "il": "broutait",
+      "nous": "broutions",
+      "vous": "broutiez",
+      "ils": "broutaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais brouté",
+      "tu": "avais brouté",
+      "il": "avait brouté",
+      "nous": "avions brouté",
+      "vous": "aviez brouté",
+      "ils": "avaient brouté"
+    },
+    "passé_simple": {
+      "je": "broutai",
+      "tu": "broutas",
+      "il": "brouta",
+      "nous": "broutâmes",
+      "vous": "broutâtes",
+      "ils": "broutèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus brouté",
+      "tu": "eus brouté",
+      "il": "eut brouté",
+      "nous": "eûmes brouté",
+      "vous": "eûtes brouté",
+      "ils": "eurent brouté"
+    },
+    "futur_simple": {
+      "je": "brouterai",
+      "tu": "brouteras",
+      "il": "broutera",
+      "nous": "brouterons",
+      "vous": "brouterez",
+      "ils": "brouteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai brouté",
+      "tu": "auras brouté",
+      "il": "aura brouté",
+      "nous": "aurons brouté",
+      "vous": "aurez brouté",
+      "ils": "auront brouté"
+    },
+    "subjonctif_présent": {
+      "je": "broute",
+      "tu": "broutes",
+      "il": "broute",
+      "nous": "broutions",
+      "vous": "broutiez",
+      "ils": "broutent"
+    },
+    "subjonctif_passé": {
+      "je": "aie brouté",
+      "tu": "aies brouté",
+      "il": "ait brouté",
+      "nous": "ayons brouté",
+      "vous": "ayez brouté",
+      "ils": "aient brouté"
+    },
+    "subjonctif_imparfait": {
+      "je": "broutasse",
+      "tu": "broutasses",
+      "il": "broutât",
+      "nous": "broutassions",
+      "vous": "broutassiez",
+      "ils": "broutassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse brouté",
+      "tu": "eusses brouté",
+      "il": "eût brouté",
+      "nous": "eussions brouté",
+      "vous": "eussiez brouté",
+      "ils": "eussent brouté"
+    },
+    "conditionnel_présent": {
+      "je": "brouterais",
+      "tu": "brouterais",
+      "il": "brouterait",
+      "nous": "brouterions",
+      "vous": "brouteriez",
+      "ils": "brouteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais brouté",
+      "tu": "aurais brouté",
+      "il": "aurait brouté",
+      "nous": "aurions brouté",
+      "vous": "auriez brouté",
+      "ils": "auraient brouté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse brouté",
+      "tu": "eusses brouté",
+      "il": "eût brouté",
+      "nous": "eussions brouté",
+      "vous": "eussiez brouté",
+      "ils": "eussent brouté"
+    },
+    "translation": "skubać",
+    "group": 1
+  },
+  {
+    "infinitive": "broyer",
+    "présent": {
+      "je": "broie",
+      "tu": "broies",
+      "il": "broie",
+      "nous": "broyons",
+      "vous": "broyez",
+      "ils": "broient"
+    },
+    "passé_composé": {
+      "je": "ai broyé",
+      "tu": "as broyé",
+      "il": "a broyé",
+      "nous": "avons broyé",
+      "vous": "avez broyé",
+      "ils": "ont broyé"
+    },
+    "imparfait": {
+      "je": "broyais",
+      "tu": "broyais",
+      "il": "broyait",
+      "nous": "broyions",
+      "vous": "broyiez",
+      "ils": "broyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais broyé",
+      "tu": "avais broyé",
+      "il": "avait broyé",
+      "nous": "avions broyé",
+      "vous": "aviez broyé",
+      "ils": "avaient broyé"
+    },
+    "passé_simple": {
+      "je": "broyai",
+      "tu": "broyas",
+      "il": "broya",
+      "nous": "broyâmes",
+      "vous": "broyâtes",
+      "ils": "broyèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus broyé",
+      "tu": "eus broyé",
+      "il": "eut broyé",
+      "nous": "eûmes broyé",
+      "vous": "eûtes broyé",
+      "ils": "eurent broyé"
+    },
+    "futur_simple": {
+      "je": "broierai",
+      "tu": "broieras",
+      "il": "broiera",
+      "nous": "broierons",
+      "vous": "broierez",
+      "ils": "broieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai broyé",
+      "tu": "auras broyé",
+      "il": "aura broyé",
+      "nous": "aurons broyé",
+      "vous": "aurez broyé",
+      "ils": "auront broyé"
+    },
+    "subjonctif_présent": {
+      "je": "broie",
+      "tu": "broies",
+      "il": "broie",
+      "nous": "broyions",
+      "vous": "broyiez",
+      "ils": "broient"
+    },
+    "subjonctif_passé": {
+      "je": "aie broyé",
+      "tu": "aies broyé",
+      "il": "ait broyé",
+      "nous": "ayons broyé",
+      "vous": "ayez broyé",
+      "ils": "aient broyé"
+    },
+    "subjonctif_imparfait": {
+      "je": "broyasse",
+      "tu": "broyasses",
+      "il": "broyât",
+      "nous": "broyassions",
+      "vous": "broyassiez",
+      "ils": "broyassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse broyé",
+      "tu": "eusses broyé",
+      "il": "eût broyé",
+      "nous": "eussions broyé",
+      "vous": "eussiez broyé",
+      "ils": "eussent broyé"
+    },
+    "conditionnel_présent": {
+      "je": "broierais",
+      "tu": "broierais",
+      "il": "broierait",
+      "nous": "broierions",
+      "vous": "broieriez",
+      "ils": "broieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais broyé",
+      "tu": "aurais broyé",
+      "il": "aurait broyé",
+      "nous": "aurions broyé",
+      "vous": "auriez broyé",
+      "ils": "auraient broyé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse broyé",
+      "tu": "eusses broyé",
+      "il": "eût broyé",
+      "nous": "eussions broyé",
+      "vous": "eussiez broyé",
+      "ils": "eussent broyé"
+    },
+    "translation": "rozdrabniać",
+    "group": 1
+  },
+  {
+    "infinitive": "bruire",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "bruit",
+      "nous": "-",
+      "vous": "-",
+      "ils": "bruissent"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "bruissait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "bruissaient"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "bruisse",
+      "nous": "-",
+      "vous": "-",
+      "ils": "bruissent"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "bruire",
+    "group": 3
+  },
+  {
+    "infinitive": "brûler",
+    "présent": {
+      "je": "brûle",
+      "tu": "brûles",
+      "il": "brûle",
+      "nous": "brûlons",
+      "vous": "brûlez",
+      "ils": "brûlent"
+    },
+    "passé_composé": {
+      "je": "ai brûlé",
+      "tu": "as brûlé",
+      "il": "a brûlé",
+      "nous": "avons brûlé",
+      "vous": "avez brûlé",
+      "ils": "ont brûlé"
+    },
+    "imparfait": {
+      "je": "brûlais",
+      "tu": "brûlais",
+      "il": "brûlait",
+      "nous": "brûlions",
+      "vous": "brûliez",
+      "ils": "brûlaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais brûlé",
+      "tu": "avais brûlé",
+      "il": "avait brûlé",
+      "nous": "avions brûlé",
+      "vous": "aviez brûlé",
+      "ils": "avaient brûlé"
+    },
+    "passé_simple": {
+      "je": "brûlai",
+      "tu": "brûlas",
+      "il": "brûla",
+      "nous": "brûlâmes",
+      "vous": "brûlâtes",
+      "ils": "brûlèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus brûlé",
+      "tu": "eus brûlé",
+      "il": "eut brûlé",
+      "nous": "eûmes brûlé",
+      "vous": "eûtes brûlé",
+      "ils": "eurent brûlé"
+    },
+    "futur_simple": {
+      "je": "brûlerai",
+      "tu": "brûleras",
+      "il": "brûlera",
+      "nous": "brûlerons",
+      "vous": "brûlerez",
+      "ils": "brûleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai brûlé",
+      "tu": "auras brûlé",
+      "il": "aura brûlé",
+      "nous": "aurons brûlé",
+      "vous": "aurez brûlé",
+      "ils": "auront brûlé"
+    },
+    "subjonctif_présent": {
+      "je": "brûle",
+      "tu": "brûles",
+      "il": "brûle",
+      "nous": "brûlions",
+      "vous": "brûliez",
+      "ils": "brûlent"
+    },
+    "subjonctif_passé": {
+      "je": "aie brûlé",
+      "tu": "aies brûlé",
+      "il": "ait brûlé",
+      "nous": "ayons brûlé",
+      "vous": "ayez brûlé",
+      "ils": "aient brûlé"
+    },
+    "subjonctif_imparfait": {
+      "je": "brûlasse",
+      "tu": "brûlasses",
+      "il": "brûlât",
+      "nous": "brûlassions",
+      "vous": "brûlassiez",
+      "ils": "brûlassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse brûlé",
+      "tu": "eusses brûlé",
+      "il": "eût brûlé",
+      "nous": "eussions brûlé",
+      "vous": "eussiez brûlé",
+      "ils": "eussent brûlé"
+    },
+    "conditionnel_présent": {
+      "je": "brûlerais",
+      "tu": "brûlerais",
+      "il": "brûlerait",
+      "nous": "brûlerions",
+      "vous": "brûleriez",
+      "ils": "brûleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais brûlé",
+      "tu": "aurais brûlé",
+      "il": "aurait brûlé",
+      "nous": "aurions brûlé",
+      "vous": "auriez brûlé",
+      "ils": "auraient brûlé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse brûlé",
+      "tu": "eusses brûlé",
+      "il": "eût brûlé",
+      "nous": "eussions brûlé",
+      "vous": "eussiez brûlé",
+      "ils": "eussent brûlé"
+    },
+    "translation": "palić",
+    "group": 1
+  },
+  {
+    "infinitive": "brumer",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "brume",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "a brumé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "brumait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "avait brumé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "bruma",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "eut brumé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "brumera",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "aura brumé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "brume",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "ait brumé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "brumât",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "eût brumé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "brumerait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "aurait brumé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "eût brumé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "mgiełka",
+    "group": 1
+  },
+  {
+    "infinitive": "brunir",
+    "présent": {
+      "je": "brunis",
+      "tu": "brunis",
+      "il": "brunit",
+      "nous": "brunissons",
+      "vous": "brunissez",
+      "ils": "brunissent"
+    },
+    "passé_composé": {
+      "je": "ai bruni",
+      "tu": "as bruni",
+      "il": "a bruni",
+      "nous": "avons bruni",
+      "vous": "avez bruni",
+      "ils": "ont bruni"
+    },
+    "imparfait": {
+      "je": "brunissais",
+      "tu": "brunissais",
+      "il": "brunissait",
+      "nous": "brunissions",
+      "vous": "brunissiez",
+      "ils": "brunissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais bruni",
+      "tu": "avais bruni",
+      "il": "avait bruni",
+      "nous": "avions bruni",
+      "vous": "aviez bruni",
+      "ils": "avaient bruni"
+    },
+    "passé_simple": {
+      "je": "brunis",
+      "tu": "brunis",
+      "il": "brunit",
+      "nous": "brunîmes",
+      "vous": "brunîtes",
+      "ils": "brunirent"
+    },
+    "passé_antérieur": {
+      "je": "eus bruni",
+      "tu": "eus bruni",
+      "il": "eut bruni",
+      "nous": "eûmes bruni",
+      "vous": "eûtes bruni",
+      "ils": "eurent bruni"
+    },
+    "futur_simple": {
+      "je": "brunirai",
+      "tu": "bruniras",
+      "il": "brunira",
+      "nous": "brunirons",
+      "vous": "brunirez",
+      "ils": "bruniront"
+    },
+    "futur_antérieur": {
+      "je": "aurai bruni",
+      "tu": "auras bruni",
+      "il": "aura bruni",
+      "nous": "aurons bruni",
+      "vous": "aurez bruni",
+      "ils": "auront bruni"
+    },
+    "subjonctif_présent": {
+      "je": "brunisse",
+      "tu": "brunisses",
+      "il": "brunisse",
+      "nous": "brunissions",
+      "vous": "brunissiez",
+      "ils": "brunissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie bruni",
+      "tu": "aies bruni",
+      "il": "ait bruni",
+      "nous": "ayons bruni",
+      "vous": "ayez bruni",
+      "ils": "aient bruni"
+    },
+    "subjonctif_imparfait": {
+      "je": "brunisse",
+      "tu": "brunisses",
+      "il": "brunît",
+      "nous": "brunissions",
+      "vous": "brunissiez",
+      "ils": "brunissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse bruni",
+      "tu": "eusses bruni",
+      "il": "eût bruni",
+      "nous": "eussions bruni",
+      "vous": "eussiez bruni",
+      "ils": "eussent bruni"
+    },
+    "conditionnel_présent": {
+      "je": "brunirais",
+      "tu": "brunirais",
+      "il": "brunirait",
+      "nous": "brunirions",
+      "vous": "bruniriez",
+      "ils": "bruniraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais bruni",
+      "tu": "aurais bruni",
+      "il": "aurait bruni",
+      "nous": "aurions bruni",
+      "vous": "auriez bruni",
+      "ils": "auraient bruni"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse bruni",
+      "tu": "eusses bruni",
+      "il": "eût bruni",
+      "nous": "eussions bruni",
+      "vous": "eussiez bruni",
+      "ils": "eussent bruni"
+    },
+    "translation": "ciemnieć",
+    "group": 2
+  },
+  {
+    "infinitive": "budgéter",
+    "présent": {
+      "je": "budgète",
+      "tu": "budgètes",
+      "il": "budgète",
+      "nous": "budgétons",
+      "vous": "budgétez",
+      "ils": "budgètent"
+    },
+    "passé_composé": {
+      "je": "ai budgété",
+      "tu": "as budgété",
+      "il": "a budgété",
+      "nous": "avons budgété",
+      "vous": "avez budgété",
+      "ils": "ont budgété"
+    },
+    "imparfait": {
+      "je": "budgétais",
+      "tu": "budgétais",
+      "il": "budgétait",
+      "nous": "budgétions",
+      "vous": "budgétiez",
+      "ils": "budgétaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais budgété",
+      "tu": "avais budgété",
+      "il": "avait budgété",
+      "nous": "avions budgété",
+      "vous": "aviez budgété",
+      "ils": "avaient budgété"
+    },
+    "passé_simple": {
+      "je": "budgétai",
+      "tu": "budgétas",
+      "il": "budgéta",
+      "nous": "budgétâmes",
+      "vous": "budgétâtes",
+      "ils": "budgétèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus budgété",
+      "tu": "eus budgété",
+      "il": "eut budgété",
+      "nous": "eûmes budgété",
+      "vous": "eûtes budgété",
+      "ils": "eurent budgété"
+    },
+    "futur_simple": {
+      "je": "budgéterai",
+      "tu": "budgéteras",
+      "il": "budgétera",
+      "nous": "budgéterons",
+      "vous": "budgéterez",
+      "ils": "budgéteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai budgété",
+      "tu": "auras budgété",
+      "il": "aura budgété",
+      "nous": "aurons budgété",
+      "vous": "aurez budgété",
+      "ils": "auront budgété"
+    },
+    "subjonctif_présent": {
+      "je": "budgète",
+      "tu": "budgètes",
+      "il": "budgète",
+      "nous": "budgétions",
+      "vous": "budgétiez",
+      "ils": "budgètent"
+    },
+    "subjonctif_passé": {
+      "je": "aie budgété",
+      "tu": "aies budgété",
+      "il": "ait budgété",
+      "nous": "ayons budgété",
+      "vous": "ayez budgété",
+      "ils": "aient budgété"
+    },
+    "subjonctif_imparfait": {
+      "je": "budgétasse",
+      "tu": "budgétasses",
+      "il": "budgétât",
+      "nous": "budgétassions",
+      "vous": "budgétassiez",
+      "ils": "budgétassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse budgété",
+      "tu": "eusses budgété",
+      "il": "eût budgété",
+      "nous": "eussions budgété",
+      "vous": "eussiez budgété",
+      "ils": "eussent budgété"
+    },
+    "conditionnel_présent": {
+      "je": "budgéterais",
+      "tu": "budgéterais",
+      "il": "budgéterait",
+      "nous": "budgéterions",
+      "vous": "budgéteriez",
+      "ils": "budgéteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais budgété",
+      "tu": "aurais budgété",
+      "il": "aurait budgété",
+      "nous": "aurions budgété",
+      "vous": "auriez budgété",
+      "ils": "auraient budgété"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse budgété",
+      "tu": "eusses budgété",
+      "il": "eût budgété",
+      "nous": "eussions budgété",
+      "vous": "eussiez budgété",
+      "ils": "eussent budgété"
+    },
+    "translation": "budżet",
+    "group": 1
+  },
+  {
+    "infinitive": "buriner",
+    "présent": {
+      "je": "burine",
+      "tu": "burines",
+      "il": "burine",
+      "nous": "burinons",
+      "vous": "burinez",
+      "ils": "burinent"
+    },
+    "passé_composé": {
+      "je": "ai buriné",
+      "tu": "as buriné",
+      "il": "a buriné",
+      "nous": "avons buriné",
+      "vous": "avez buriné",
+      "ils": "ont buriné"
+    },
+    "imparfait": {
+      "je": "burinais",
+      "tu": "burinais",
+      "il": "burinait",
+      "nous": "burinions",
+      "vous": "buriniez",
+      "ils": "burinaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais buriné",
+      "tu": "avais buriné",
+      "il": "avait buriné",
+      "nous": "avions buriné",
+      "vous": "aviez buriné",
+      "ils": "avaient buriné"
+    },
+    "passé_simple": {
+      "je": "burinai",
+      "tu": "burinas",
+      "il": "burina",
+      "nous": "burinâmes",
+      "vous": "burinâtes",
+      "ils": "burinèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus buriné",
+      "tu": "eus buriné",
+      "il": "eut buriné",
+      "nous": "eûmes buriné",
+      "vous": "eûtes buriné",
+      "ils": "eurent buriné"
+    },
+    "futur_simple": {
+      "je": "burinerai",
+      "tu": "burineras",
+      "il": "burinera",
+      "nous": "burinerons",
+      "vous": "burinerez",
+      "ils": "burineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai buriné",
+      "tu": "auras buriné",
+      "il": "aura buriné",
+      "nous": "aurons buriné",
+      "vous": "aurez buriné",
+      "ils": "auront buriné"
+    },
+    "subjonctif_présent": {
+      "je": "burine",
+      "tu": "burines",
+      "il": "burine",
+      "nous": "burinions",
+      "vous": "buriniez",
+      "ils": "burinent"
+    },
+    "subjonctif_passé": {
+      "je": "aie buriné",
+      "tu": "aies buriné",
+      "il": "ait buriné",
+      "nous": "ayons buriné",
+      "vous": "ayez buriné",
+      "ils": "aient buriné"
+    },
+    "subjonctif_imparfait": {
+      "je": "burinasse",
+      "tu": "burinasses",
+      "il": "burinât",
+      "nous": "burinassions",
+      "vous": "burinassiez",
+      "ils": "burinassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse buriné",
+      "tu": "eusses buriné",
+      "il": "eût buriné",
+      "nous": "eussions buriné",
+      "vous": "eussiez buriné",
+      "ils": "eussent buriné"
+    },
+    "conditionnel_présent": {
+      "je": "burinerais",
+      "tu": "burinerais",
+      "il": "burinerait",
+      "nous": "burinerions",
+      "vous": "burineriez",
+      "ils": "burineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais buriné",
+      "tu": "aurais buriné",
+      "il": "aurait buriné",
+      "nous": "aurions buriné",
+      "vous": "auriez buriné",
+      "ils": "auraient buriné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse buriné",
+      "tu": "eusses buriné",
+      "il": "eût buriné",
+      "nous": "eussions buriné",
+      "vous": "eussiez buriné",
+      "ils": "eussent buriné"
+    },
+    "translation": "oddawać",
+    "group": 1
+  }
+]

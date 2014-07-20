@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "baigner",
+    "présent": {
+      "je": "baigne",
+      "tu": "baignes",
+      "il": "baigne",
+      "nous": "baignons",
+      "vous": "baignez",
+      "ils": "baignent"
+    },
+    "passé_composé": {
+      "je": "ai baigné",
+      "tu": "as baigné",
+      "il": "a baigné",
+      "nous": "avons baigné",
+      "vous": "avez baigné",
+      "ils": "ont baigné"
+    },
+    "imparfait": {
+      "je": "baignais",
+      "tu": "baignais",
+      "il": "baignait",
+      "nous": "baignions",
+      "vous": "baigniez",
+      "ils": "baignaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais baigné",
+      "tu": "avais baigné",
+      "il": "avait baigné",
+      "nous": "avions baigné",
+      "vous": "aviez baigné",
+      "ils": "avaient baigné"
+    },
+    "passé_simple": {
+      "je": "baignai",
+      "tu": "baignas",
+      "il": "baigna",
+      "nous": "baignâmes",
+      "vous": "baignâtes",
+      "ils": "baignèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus baigné",
+      "tu": "eus baigné",
+      "il": "eut baigné",
+      "nous": "eûmes baigné",
+      "vous": "eûtes baigné",
+      "ils": "eurent baigné"
+    },
+    "futur_simple": {
+      "je": "baignerai",
+      "tu": "baigneras",
+      "il": "baignera",
+      "nous": "baignerons",
+      "vous": "baignerez",
+      "ils": "baigneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai baigné",
+      "tu": "auras baigné",
+      "il": "aura baigné",
+      "nous": "aurons baigné",
+      "vous": "aurez baigné",
+      "ils": "auront baigné"
+    },
+    "subjonctif_présent": {
+      "je": "baigne",
+      "tu": "baignes",
+      "il": "baigne",
+      "nous": "baignions",
+      "vous": "baigniez",
+      "ils": "baignent"
+    },
+    "subjonctif_passé": {
+      "je": "aie baigné",
+      "tu": "aies baigné",
+      "il": "ait baigné",
+      "nous": "ayons baigné",
+      "vous": "ayez baigné",
+      "ils": "aient baigné"
+    },
+    "subjonctif_imparfait": {
+      "je": "baignasse",
+      "tu": "baignasses",
+      "il": "baignât",
+      "nous": "baignassions",
+      "vous": "baignassiez",
+      "ils": "baignassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse baigné",
+      "tu": "eusses baigné",
+      "il": "eût baigné",
+      "nous": "eussions baigné",
+      "vous": "eussiez baigné",
+      "ils": "eussent baigné"
+    },
+    "conditionnel_présent": {
+      "je": "baignerais",
+      "tu": "baignerais",
+      "il": "baignerait",
+      "nous": "baignerions",
+      "vous": "baigneriez",
+      "ils": "baigneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais baigné",
+      "tu": "aurais baigné",
+      "il": "aurait baigné",
+      "nous": "aurions baigné",
+      "vous": "auriez baigné",
+      "ils": "auraient baigné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse baigné",
+      "tu": "eusses baigné",
+      "il": "eût baigné",
+      "nous": "eussions baigné",
+      "vous": "eussiez baigné",
+      "ils": "eussent baigné"
+    },
+    "translation": "kąpać",
+    "group": 1
+  },
+  {
+    "infinitive": "bailler",
+    "présent": {
+      "je": "baille",
+      "tu": "bailles",
+      "il": "baille",
+      "nous": "baillons",
+      "vous": "baillez",
+      "ils": "baillent"
+    },
+    "passé_composé": {
+      "je": "ai baillé",
+      "tu": "as baillé",
+      "il": "a baillé",
+      "nous": "avons baillé",
+      "vous": "avez baillé",
+      "ils": "ont baillé"
+    },
+    "imparfait": {
+      "je": "baillais",
+      "tu": "baillais",
+      "il": "baillait",
+      "nous": "baillions",
+      "vous": "bailliez",
+      "ils": "baillaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais baillé",
+      "tu": "avais baillé",
+      "il": "avait baillé",
+      "nous": "avions baillé",
+      "vous": "aviez baillé",
+      "ils": "avaient baillé"
+    },
+    "passé_simple": {
+      "je": "baillai",
+      "tu": "baillas",
+      "il": "bailla",
+      "nous": "baillâmes",
+      "vous": "baillâtes",
+      "ils": "baillèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus baillé",
+      "tu": "eus baillé",
+      "il": "eut baillé",
+      "nous": "eûmes baillé",
+      "vous": "eûtes baillé",
+      "ils": "eurent baillé"
+    },
+    "futur_simple": {
+      "je": "baillerai",
+      "tu": "bailleras",
+      "il": "baillera",
+      "nous": "baillerons",
+      "vous": "baillerez",
+      "ils": "bailleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai baillé",
+      "tu": "auras baillé",
+      "il": "aura baillé",
+      "nous": "aurons baillé",
+      "vous": "aurez baillé",
+      "ils": "auront baillé"
+    },
+    "subjonctif_présent": {
+      "je": "baille",
+      "tu": "bailles",
+      "il": "baille",
+      "nous": "baillions",
+      "vous": "bailliez",
+      "ils": "baillent"
+    },
+    "subjonctif_passé": {
+      "je": "aie baillé",
+      "tu": "aies baillé",
+      "il": "ait baillé",
+      "nous": "ayons baillé",
+      "vous": "ayez baillé",
+      "ils": "aient baillé"
+    },
+    "subjonctif_imparfait": {
+      "je": "baillasse",
+      "tu": "baillasses",
+      "il": "baillât",
+      "nous": "baillassions",
+      "vous": "baillassiez",
+      "ils": "baillassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse baillé",
+      "tu": "eusses baillé",
+      "il": "eût baillé",
+      "nous": "eussions baillé",
+      "vous": "eussiez baillé",
+      "ils": "eussent baillé"
+    },
+    "conditionnel_présent": {
+      "je": "baillerais",
+      "tu": "baillerais",
+      "il": "baillerait",
+      "nous": "baillerions",
+      "vous": "bailleriez",
+      "ils": "bailleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais baillé",
+      "tu": "aurais baillé",
+      "il": "aurait baillé",
+      "nous": "aurions baillé",
+      "vous": "auriez baillé",
+      "ils": "auraient baillé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse baillé",
+      "tu": "eusses baillé",
+      "il": "eût baillé",
+      "nous": "eussions baillé",
+      "vous": "eussiez baillé",
+      "ils": "eussent baillé"
+    },
+    "translation": "ziewać",
+    "group": 1
+  },
+  {
+    "infinitive": "bâiller",
+    "présent": {
+      "je": "baille",
+      "tu": "bailles",
+      "il": "baille",
+      "nous": "baillons",
+      "vous": "baillez",
+      "ils": "baillent"
+    },
+    "passé_composé": {
+      "je": "ai baillé",
+      "tu": "as baillé",
+      "il": "a baillé",
+      "nous": "avons baillé",
+      "vous": "avez baillé",
+      "ils": "ont baillé"
+    },
+    "imparfait": {
+      "je": "baillais",
+      "tu": "baillais",
+      "il": "baillait",
+      "nous": "baillions",
+      "vous": "bailliez",
+      "ils": "baillaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais baillé",
+      "tu": "avais baillé",
+      "il": "avait baillé",
+      "nous": "avions baillé",
+      "vous": "aviez baillé",
+      "ils": "avaient baillé"
+    },
+    "passé_simple": {
+      "je": "baillai",
+      "tu": "baillas",
+      "il": "bailla",
+      "nous": "baillâmes",
+      "vous": "baillâtes",
+      "ils": "baillèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus baillé",
+      "tu": "eus baillé",
+      "il": "eut baillé",
+      "nous": "eûmes baillé",
+      "vous": "eûtes baillé",
+      "ils": "eurent baillé"
+    },
+    "futur_simple": {
+      "je": "baillerai",
+      "tu": "bailleras",
+      "il": "baillera",
+      "nous": "baillerons",
+      "vous": "baillerez",
+      "ils": "bailleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai baillé",
+      "tu": "auras baillé",
+      "il": "aura baillé",
+      "nous": "aurons baillé",
+      "vous": "aurez baillé",
+      "ils": "auront baillé"
+    },
+    "subjonctif_présent": {
+      "je": "baille",
+      "tu": "bailles",
+      "il": "baille",
+      "nous": "baillions",
+      "vous": "bailliez",
+      "ils": "baillent"
+    },
+    "subjonctif_passé": {
+      "je": "aie baillé",
+      "tu": "aies baillé",
+      "il": "ait baillé",
+      "nous": "ayons baillé",
+      "vous": "ayez baillé",
+      "ils": "aient baillé"
+    },
+    "subjonctif_imparfait": {
+      "je": "baillasse",
+      "tu": "baillasses",
+      "il": "baillât",
+      "nous": "baillassions",
+      "vous": "baillassiez",
+      "ils": "baillassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse baillé",
+      "tu": "eusses baillé",
+      "il": "eût baillé",
+      "nous": "eussions baillé",
+      "vous": "eussiez baillé",
+      "ils": "eussent baillé"
+    },
+    "conditionnel_présent": {
+      "je": "baillerais",
+      "tu": "baillerais",
+      "il": "baillerait",
+      "nous": "baillerions",
+      "vous": "bailleriez",
+      "ils": "bailleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais baillé",
+      "tu": "aurais baillé",
+      "il": "aurait baillé",
+      "nous": "aurions baillé",
+      "vous": "auriez baillé",
+      "ils": "auraient baillé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse baillé",
+      "tu": "eusses baillé",
+      "il": "eût baillé",
+      "nous": "eussions baillé",
+      "vous": "eussiez baillé",
+      "ils": "eussent baillé"
+    },
+    "translation": "ziewać",
+    "group": 1
+  },
+  {
+    "infinitive": "baisser",
+    "présent": {
+      "je": "baisse",
+      "tu": "baisses",
+      "il": "baisse",
+      "nous": "baissons",
+      "vous": "baissez",
+      "ils": "baissent"
+    },
+    "passé_composé": {
+      "je": "ai baissé",
+      "tu": "as baissé",
+      "il": "a baissé",
+      "nous": "avons baissé",
+      "vous": "avez baissé",
+      "ils": "ont baissé"
+    },
+    "imparfait": {
+      "je": "baissais",
+      "tu": "baissais",
+      "il": "baissait",
+      "nous": "baissions",
+      "vous": "baissiez",
+      "ils": "baissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais baissé",
+      "tu": "avais baissé",
+      "il": "avait baissé",
+      "nous": "avions baissé",
+      "vous": "aviez baissé",
+      "ils": "avaient baissé"
+    },
+    "passé_simple": {
+      "je": "baissai",
+      "tu": "baissas",
+      "il": "baissa",
+      "nous": "baissâmes",
+      "vous": "baissâtes",
+      "ils": "baissèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus baissé",
+      "tu": "eus baissé",
+      "il": "eut baissé",
+      "nous": "eûmes baissé",
+      "vous": "eûtes baissé",
+      "ils": "eurent baissé"
+    },
+    "futur_simple": {
+      "je": "baisserai",
+      "tu": "baisseras",
+      "il": "baissera",
+      "nous": "baisserons",
+      "vous": "baisserez",
+      "ils": "baisseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai baissé",
+      "tu": "auras baissé",
+      "il": "aura baissé",
+      "nous": "aurons baissé",
+      "vous": "aurez baissé",
+      "ils": "auront baissé"
+    },
+    "subjonctif_présent": {
+      "je": "baisse",
+      "tu": "baisses",
+      "il": "baisse",
+      "nous": "baissions",
+      "vous": "baissiez",
+      "ils": "baissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie baissé",
+      "tu": "aies baissé",
+      "il": "ait baissé",
+      "nous": "ayons baissé",
+      "vous": "ayez baissé",
+      "ils": "aient baissé"
+    },
+    "subjonctif_imparfait": {
+      "je": "baissasse",
+      "tu": "baissasses",
+      "il": "baissât",
+      "nous": "baissassions",
+      "vous": "baissassiez",
+      "ils": "baissassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse baissé",
+      "tu": "eusses baissé",
+      "il": "eût baissé",
+      "nous": "eussions baissé",
+      "vous": "eussiez baissé",
+      "ils": "eussent baissé"
+    },
+    "conditionnel_présent": {
+      "je": "baisserais",
+      "tu": "baisserais",
+      "il": "baisserait",
+      "nous": "baisserions",
+      "vous": "baisseriez",
+      "ils": "baisseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais baissé",
+      "tu": "aurais baissé",
+      "il": "aurait baissé",
+      "nous": "aurions baissé",
+      "vous": "auriez baissé",
+      "ils": "auraient baissé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse baissé",
+      "tu": "eusses baissé",
+      "il": "eût baissé",
+      "nous": "eussions baissé",
+      "vous": "eussiez baissé",
+      "ils": "eussent baissé"
+    },
+    "translation": "opuszczać",
+    "group": 1
+  },
+  {
+    "infinitive": "balader",
+    "présent": {
+      "je": "balade",
+      "tu": "balades",
+      "il": "balade",
+      "nous": "baladons",
+      "vous": "baladez",
+      "ils": "baladent"
+    },
+    "passé_composé": {
+      "je": "ai baladé",
+      "tu": "as baladé",
+      "il": "a baladé",
+      "nous": "avons baladé",
+      "vous": "avez baladé",
+      "ils": "ont baladé"
+    },
+    "imparfait": {
+      "je": "baladais",
+      "tu": "baladais",
+      "il": "baladait",
+      "nous": "baladions",
+      "vous": "baladiez",
+      "ils": "baladaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais baladé",
+      "tu": "avais baladé",
+      "il": "avait baladé",
+      "nous": "avions baladé",
+      "vous": "aviez baladé",
+      "ils": "avaient baladé"
+    },
+    "passé_simple": {
+      "je": "baladai",
+      "tu": "baladas",
+      "il": "balada",
+      "nous": "baladâmes",
+      "vous": "baladâtes",
+      "ils": "baladèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus baladé",
+      "tu": "eus baladé",
+      "il": "eut baladé",
+      "nous": "eûmes baladé",
+      "vous": "eûtes baladé",
+      "ils": "eurent baladé"
+    },
+    "futur_simple": {
+      "je": "baladerai",
+      "tu": "baladeras",
+      "il": "baladera",
+      "nous": "baladerons",
+      "vous": "baladerez",
+      "ils": "baladeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai baladé",
+      "tu": "auras baladé",
+      "il": "aura baladé",
+      "nous": "aurons baladé",
+      "vous": "aurez baladé",
+      "ils": "auront baladé"
+    },
+    "subjonctif_présent": {
+      "je": "balade",
+      "tu": "balades",
+      "il": "balade",
+      "nous": "baladions",
+      "vous": "baladiez",
+      "ils": "baladent"
+    },
+    "subjonctif_passé": {
+      "je": "aie baladé",
+      "tu": "aies baladé",
+      "il": "ait baladé",
+      "nous": "ayons baladé",
+      "vous": "ayez baladé",
+      "ils": "aient baladé"
+    },
+    "subjonctif_imparfait": {
+      "je": "baladasse",
+      "tu": "baladasses",
+      "il": "baladât",
+      "nous": "baladassions",
+      "vous": "baladassiez",
+      "ils": "baladassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse baladé",
+      "tu": "eusses baladé",
+      "il": "eût baladé",
+      "nous": "eussions baladé",
+      "vous": "eussiez baladé",
+      "ils": "eussent baladé"
+    },
+    "conditionnel_présent": {
+      "je": "baladerais",
+      "tu": "baladerais",
+      "il": "baladerait",
+      "nous": "baladerions",
+      "vous": "baladeriez",
+      "ils": "baladeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais baladé",
+      "tu": "aurais baladé",
+      "il": "aurait baladé",
+      "nous": "aurions baladé",
+      "vous": "auriez baladé",
+      "ils": "auraient baladé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse baladé",
+      "tu": "eusses baladé",
+      "il": "eût baladé",
+      "nous": "eussions baladé",
+      "vous": "eussiez baladé",
+      "ils": "eussent baladé"
+    },
+    "translation": "włóczyć",
+    "group": 1
+  },
+  {
+    "infinitive": "balancer",
+    "présent": {
+      "je": "balance",
+      "tu": "balances",
+      "il": "balance",
+      "nous": "balançons",
+      "vous": "balancez",
+      "ils": "balancent"
+    },
+    "passé_composé": {
+      "je": "ai balancé",
+      "tu": "as balancé",
+      "il": "a balancé",
+      "nous": "avons balancé",
+      "vous": "avez balancé",
+      "ils": "ont balancé"
+    },
+    "imparfait": {
+      "je": "balançais",
+      "tu": "balançais",
+      "il": "balançait",
+      "nous": "balancions",
+      "vous": "balanciez",
+      "ils": "balançaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais balancé",
+      "tu": "avais balancé",
+      "il": "avait balancé",
+      "nous": "avions balancé",
+      "vous": "aviez balancé",
+      "ils": "avaient balancé"
+    },
+    "passé_simple": {
+      "je": "balançai",
+      "tu": "balanças",
+      "il": "balança",
+      "nous": "balançâmes",
+      "vous": "balançâtes",
+      "ils": "balancèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus balancé",
+      "tu": "eus balancé",
+      "il": "eut balancé",
+      "nous": "eûmes balancé",
+      "vous": "eûtes balancé",
+      "ils": "eurent balancé"
+    },
+    "futur_simple": {
+      "je": "balancerai",
+      "tu": "balanceras",
+      "il": "balancera",
+      "nous": "balancerons",
+      "vous": "balancerez",
+      "ils": "balanceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai balancé",
+      "tu": "auras balancé",
+      "il": "aura balancé",
+      "nous": "aurons balancé",
+      "vous": "aurez balancé",
+      "ils": "auront balancé"
+    },
+    "subjonctif_présent": {
+      "je": "balance",
+      "tu": "balances",
+      "il": "balance",
+      "nous": "balancions",
+      "vous": "balanciez",
+      "ils": "balancent"
+    },
+    "subjonctif_passé": {
+      "je": "aie balancé",
+      "tu": "aies balancé",
+      "il": "ait balancé",
+      "nous": "ayons balancé",
+      "vous": "ayez balancé",
+      "ils": "aient balancé"
+    },
+    "subjonctif_imparfait": {
+      "je": "balançasse",
+      "tu": "balançasses",
+      "il": "balançât",
+      "nous": "balançassions",
+      "vous": "balançassiez",
+      "ils": "balançassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse balancé",
+      "tu": "eusses balancé",
+      "il": "eût balancé",
+      "nous": "eussions balancé",
+      "vous": "eussiez balancé",
+      "ils": "eussent balancé"
+    },
+    "conditionnel_présent": {
+      "je": "balancerais",
+      "tu": "balancerais",
+      "il": "balancerait",
+      "nous": "balancerions",
+      "vous": "balanceriez",
+      "ils": "balanceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais balancé",
+      "tu": "aurais balancé",
+      "il": "aurait balancé",
+      "nous": "aurions balancé",
+      "vous": "auriez balancé",
+      "ils": "auraient balancé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse balancé",
+      "tu": "eusses balancé",
+      "il": "eût balancé",
+      "nous": "eussions balancé",
+      "vous": "eussiez balancé",
+      "ils": "eussent balancé"
+    },
+    "translation": "huśtać",
+    "group": 1
+  },
+  {
+    "infinitive": "balayer",
+    "présent": {
+      "je": "balaie",
+      "tu": "balaies",
+      "il": "balaie",
+      "nous": "balayons",
+      "vous": "balayez",
+      "ils": "balaient"
+    },
+    "passé_composé": {
+      "je": "ai balayé",
+      "tu": "as balayé",
+      "il": "a balayé",
+      "nous": "avons balayé",
+      "vous": "avez balayé",
+      "ils": "ont balayé"
+    },
+    "imparfait": {
+      "je": "balayais",
+      "tu": "balayais",
+      "il": "balayait",
+      "nous": "balayions",
+      "vous": "balayiez",
+      "ils": "balayaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais balayé",
+      "tu": "avais balayé",
+      "il": "avait balayé",
+      "nous": "avions balayé",
+      "vous": "aviez balayé",
+      "ils": "avaient balayé"
+    },
+    "passé_simple": {
+      "je": "balayai",
+      "tu": "balayas",
+      "il": "balaya",
+      "nous": "balayâmes",
+      "vous": "balayâtes",
+      "ils": "balayèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus balayé",
+      "tu": "eus balayé",
+      "il": "eut balayé",
+      "nous": "eûmes balayé",
+      "vous": "eûtes balayé",
+      "ils": "eurent balayé"
+    },
+    "futur_simple": {
+      "je": "balaierai",
+      "tu": "balaieras",
+      "il": "balaiera",
+      "nous": "balaierons",
+      "vous": "balaierez",
+      "ils": "balaieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai balayé",
+      "tu": "auras balayé",
+      "il": "aura balayé",
+      "nous": "aurons balayé",
+      "vous": "aurez balayé",
+      "ils": "auront balayé"
+    },
+    "subjonctif_présent": {
+      "je": "balaie",
+      "tu": "balaies",
+      "il": "balaie",
+      "nous": "balayions",
+      "vous": "balayiez",
+      "ils": "balaient"
+    },
+    "subjonctif_passé": {
+      "je": "aie balayé",
+      "tu": "aies balayé",
+      "il": "ait balayé",
+      "nous": "ayons balayé",
+      "vous": "ayez balayé",
+      "ils": "aient balayé"
+    },
+    "subjonctif_imparfait": {
+      "je": "balayasse",
+      "tu": "balayasses",
+      "il": "balayât",
+      "nous": "balayassions",
+      "vous": "balayassiez",
+      "ils": "balayassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse balayé",
+      "tu": "eusses balayé",
+      "il": "eût balayé",
+      "nous": "eussions balayé",
+      "vous": "eussiez balayé",
+      "ils": "eussent balayé"
+    },
+    "conditionnel_présent": {
+      "je": "balaierais",
+      "tu": "balaierais",
+      "il": "balaierait",
+      "nous": "balaierions",
+      "vous": "balaieriez",
+      "ils": "balaieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais balayé",
+      "tu": "aurais balayé",
+      "il": "aurait balayé",
+      "nous": "aurions balayé",
+      "vous": "auriez balayé",
+      "ils": "auraient balayé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse balayé",
+      "tu": "eusses balayé",
+      "il": "eût balayé",
+      "nous": "eussions balayé",
+      "vous": "eussiez balayé",
+      "ils": "eussent balayé"
+    },
+    "translation": "zamiatać",
+    "group": 1
+  },
+  {
+    "infinitive": "balbutier",
+    "présent": {
+      "je": "balbutie",
+      "tu": "balbuties",
+      "il": "balbutie",
+      "nous": "balbutions",
+      "vous": "balbutiez",
+      "ils": "balbutient"
+    },
+    "passé_composé": {
+      "je": "ai balbutié",
+      "tu": "as balbutié",
+      "il": "a balbutié",
+      "nous": "avons balbutié",
+      "vous": "avez balbutié",
+      "ils": "ont balbutié"
+    },
+    "imparfait": {
+      "je": "balbutiais",
+      "tu": "balbutiais",
+      "il": "balbutiait",
+      "nous": "balbutiions",
+      "vous": "balbutiiez",
+      "ils": "balbutiaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais balbutié",
+      "tu": "avais balbutié",
+      "il": "avait balbutié",
+      "nous": "avions balbutié",
+      "vous": "aviez balbutié",
+      "ils": "avaient balbutié"
+    },
+    "passé_simple": {
+      "je": "balbutiai",
+      "tu": "balbutias",
+      "il": "balbutia",
+      "nous": "balbutiâmes",
+      "vous": "balbutiâtes",
+      "ils": "balbutièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus balbutié",
+      "tu": "eus balbutié",
+      "il": "eut balbutié",
+      "nous": "eûmes balbutié",
+      "vous": "eûtes balbutié",
+      "ils": "eurent balbutié"
+    },
+    "futur_simple": {
+      "je": "balbutierai",
+      "tu": "balbutieras",
+      "il": "balbutiera",
+      "nous": "balbutierons",
+      "vous": "balbutierez",
+      "ils": "balbutieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai balbutié",
+      "tu": "auras balbutié",
+      "il": "aura balbutié",
+      "nous": "aurons balbutié",
+      "vous": "aurez balbutié",
+      "ils": "auront balbutié"
+    },
+    "subjonctif_présent": {
+      "je": "balbutie",
+      "tu": "balbuties",
+      "il": "balbutie",
+      "nous": "balbutiions",
+      "vous": "balbutiiez",
+      "ils": "balbutient"
+    },
+    "subjonctif_passé": {
+      "je": "aie balbutié",
+      "tu": "aies balbutié",
+      "il": "ait balbutié",
+      "nous": "ayons balbutié",
+      "vous": "ayez balbutié",
+      "ils": "aient balbutié"
+    },
+    "subjonctif_imparfait": {
+      "je": "balbutiasse",
+      "tu": "balbutiasses",
+      "il": "balbutiât",
+      "nous": "balbutiassions",
+      "vous": "balbutiassiez",
+      "ils": "balbutiassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse balbutié",
+      "tu": "eusses balbutié",
+      "il": "eût balbutié",
+      "nous": "eussions balbutié",
+      "vous": "eussiez balbutié",
+      "ils": "eussent balbutié"
+    },
+    "conditionnel_présent": {
+      "je": "balbutierais",
+      "tu": "balbutierais",
+      "il": "balbutierait",
+      "nous": "balbutierions",
+      "vous": "balbutieriez",
+      "ils": "balbutieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais balbutié",
+      "tu": "aurais balbutié",
+      "il": "aurait balbutié",
+      "nous": "aurions balbutié",
+      "vous": "auriez balbutié",
+      "ils": "auraient balbutié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse balbutié",
+      "tu": "eusses balbutié",
+      "il": "eût balbutié",
+      "nous": "eussions balbutié",
+      "vous": "eussiez balbutié",
+      "ils": "eussent balbutié"
+    },
+    "translation": "bełkotać",
+    "group": 1
+  },
+  {
+    "infinitive": "bander",
+    "présent": {
+      "je": "bande",
+      "tu": "bandes",
+      "il": "bande",
+      "nous": "bandons",
+      "vous": "bandez",
+      "ils": "bandent"
+    },
+    "passé_composé": {
+      "je": "ai bandé",
+      "tu": "as bandé",
+      "il": "a bandé",
+      "nous": "avons bandé",
+      "vous": "avez bandé",
+      "ils": "ont bandé"
+    },
+    "imparfait": {
+      "je": "bandais",
+      "tu": "bandais",
+      "il": "bandait",
+      "nous": "bandions",
+      "vous": "bandiez",
+      "ils": "bandaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais bandé",
+      "tu": "avais bandé",
+      "il": "avait bandé",
+      "nous": "avions bandé",
+      "vous": "aviez bandé",
+      "ils": "avaient bandé"
+    },
+    "passé_simple": {
+      "je": "bandai",
+      "tu": "bandas",
+      "il": "banda",
+      "nous": "bandâmes",
+      "vous": "bandâtes",
+      "ils": "bandèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus bandé",
+      "tu": "eus bandé",
+      "il": "eut bandé",
+      "nous": "eûmes bandé",
+      "vous": "eûtes bandé",
+      "ils": "eurent bandé"
+    },
+    "futur_simple": {
+      "je": "banderai",
+      "tu": "banderas",
+      "il": "bandera",
+      "nous": "banderons",
+      "vous": "banderez",
+      "ils": "banderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai bandé",
+      "tu": "auras bandé",
+      "il": "aura bandé",
+      "nous": "aurons bandé",
+      "vous": "aurez bandé",
+      "ils": "auront bandé"
+    },
+    "subjonctif_présent": {
+      "je": "bande",
+      "tu": "bandes",
+      "il": "bande",
+      "nous": "bandions",
+      "vous": "bandiez",
+      "ils": "bandent"
+    },
+    "subjonctif_passé": {
+      "je": "aie bandé",
+      "tu": "aies bandé",
+      "il": "ait bandé",
+      "nous": "ayons bandé",
+      "vous": "ayez bandé",
+      "ils": "aient bandé"
+    },
+    "subjonctif_imparfait": {
+      "je": "bandasse",
+      "tu": "bandasses",
+      "il": "bandât",
+      "nous": "bandassions",
+      "vous": "bandassiez",
+      "ils": "bandassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse bandé",
+      "tu": "eusses bandé",
+      "il": "eût bandé",
+      "nous": "eussions bandé",
+      "vous": "eussiez bandé",
+      "ils": "eussent bandé"
+    },
+    "conditionnel_présent": {
+      "je": "banderais",
+      "tu": "banderais",
+      "il": "banderait",
+      "nous": "banderions",
+      "vous": "banderiez",
+      "ils": "banderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais bandé",
+      "tu": "aurais bandé",
+      "il": "aurait bandé",
+      "nous": "aurions bandé",
+      "vous": "auriez bandé",
+      "ils": "auraient bandé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse bandé",
+      "tu": "eusses bandé",
+      "il": "eût bandé",
+      "nous": "eussions bandé",
+      "vous": "eussiez bandé",
+      "ils": "eussent bandé"
+    },
+    "translation": "bandażować",
+    "group": 1
+  },
+  {
+    "infinitive": "bannir",
+    "présent": {
+      "je": "bannis",
+      "tu": "bannis",
+      "il": "bannit",
+      "nous": "bannissons",
+      "vous": "bannissez",
+      "ils": "bannissent"
+    },
+    "passé_composé": {
+      "je": "ai banni",
+      "tu": "as banni",
+      "il": "a banni",
+      "nous": "avons banni",
+      "vous": "avez banni",
+      "ils": "ont banni"
+    },
+    "imparfait": {
+      "je": "bannissais",
+      "tu": "bannissais",
+      "il": "bannissait",
+      "nous": "bannissions",
+      "vous": "bannissiez",
+      "ils": "bannissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais banni",
+      "tu": "avais banni",
+      "il": "avait banni",
+      "nous": "avions banni",
+      "vous": "aviez banni",
+      "ils": "avaient banni"
+    },
+    "passé_simple": {
+      "je": "bannis",
+      "tu": "bannis",
+      "il": "bannit",
+      "nous": "bannîmes",
+      "vous": "bannîtes",
+      "ils": "bannirent"
+    },
+    "passé_antérieur": {
+      "je": "eus banni",
+      "tu": "eus banni",
+      "il": "eut banni",
+      "nous": "eûmes banni",
+      "vous": "eûtes banni",
+      "ils": "eurent banni"
+    },
+    "futur_simple": {
+      "je": "bannirai",
+      "tu": "banniras",
+      "il": "bannira",
+      "nous": "bannirons",
+      "vous": "bannirez",
+      "ils": "banniront"
+    },
+    "futur_antérieur": {
+      "je": "aurai banni",
+      "tu": "auras banni",
+      "il": "aura banni",
+      "nous": "aurons banni",
+      "vous": "aurez banni",
+      "ils": "auront banni"
+    },
+    "subjonctif_présent": {
+      "je": "bannisse",
+      "tu": "bannisses",
+      "il": "bannisse",
+      "nous": "bannissions",
+      "vous": "bannissiez",
+      "ils": "bannissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie banni",
+      "tu": "aies banni",
+      "il": "ait banni",
+      "nous": "ayons banni",
+      "vous": "ayez banni",
+      "ils": "aient banni"
+    },
+    "subjonctif_imparfait": {
+      "je": "bannisse",
+      "tu": "bannisses",
+      "il": "bannît",
+      "nous": "bannissions",
+      "vous": "bannissiez",
+      "ils": "bannissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse banni",
+      "tu": "eusses banni",
+      "il": "eût banni",
+      "nous": "eussions banni",
+      "vous": "eussiez banni",
+      "ils": "eussent banni"
+    },
+    "conditionnel_présent": {
+      "je": "bannirais",
+      "tu": "bannirais",
+      "il": "bannirait",
+      "nous": "bannirions",
+      "vous": "banniriez",
+      "ils": "banniraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais banni",
+      "tu": "aurais banni",
+      "il": "aurait banni",
+      "nous": "aurions banni",
+      "vous": "auriez banni",
+      "ils": "auraient banni"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse banni",
+      "tu": "eusses banni",
+      "il": "eût banni",
+      "nous": "eussions banni",
+      "vous": "eussiez banni",
+      "ils": "eussent banni"
+    },
+    "translation": "wygnać",
+    "group": 2
+  }
+]

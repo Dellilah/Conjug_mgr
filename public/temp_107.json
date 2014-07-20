@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "hâter",
+    "présent": {
+      "je": "hâte",
+      "tu": "hâtes",
+      "il": "hâte",
+      "nous": "hâtons",
+      "vous": "hâtez",
+      "ils": "hâtent"
+    },
+    "passé_composé": {
+      "je": "ai hâté",
+      "tu": "as hâté",
+      "il": "a hâté",
+      "nous": "avons hâté",
+      "vous": "avez hâté",
+      "ils": "ont hâté"
+    },
+    "imparfait": {
+      "je": "hâtais",
+      "tu": "hâtais",
+      "il": "hâtait",
+      "nous": "hâtions",
+      "vous": "hâtiez",
+      "ils": "hâtaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais hâté",
+      "tu": "avais hâté",
+      "il": "avait hâté",
+      "nous": "avions hâté",
+      "vous": "aviez hâté",
+      "ils": "avaient hâté"
+    },
+    "passé_simple": {
+      "je": "hâtai",
+      "tu": "hâtas",
+      "il": "hâta",
+      "nous": "hâtâmes",
+      "vous": "hâtâtes",
+      "ils": "hâtèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus hâté",
+      "tu": "eus hâté",
+      "il": "eut hâté",
+      "nous": "eûmes hâté",
+      "vous": "eûtes hâté",
+      "ils": "eurent hâté"
+    },
+    "futur_simple": {
+      "je": "hâterai",
+      "tu": "hâteras",
+      "il": "hâtera",
+      "nous": "hâterons",
+      "vous": "hâterez",
+      "ils": "hâteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai hâté",
+      "tu": "auras hâté",
+      "il": "aura hâté",
+      "nous": "aurons hâté",
+      "vous": "aurez hâté",
+      "ils": "auront hâté"
+    },
+    "subjonctif_présent": {
+      "je": "hâte",
+      "tu": "hâtes",
+      "il": "hâte",
+      "nous": "hâtions",
+      "vous": "hâtiez",
+      "ils": "hâtent"
+    },
+    "subjonctif_passé": {
+      "je": "aie hâté",
+      "tu": "aies hâté",
+      "il": "ait hâté",
+      "nous": "ayons hâté",
+      "vous": "ayez hâté",
+      "ils": "aient hâté"
+    },
+    "subjonctif_imparfait": {
+      "je": "hâtasse",
+      "tu": "hâtasses",
+      "il": "hâtât",
+      "nous": "hâtassions",
+      "vous": "hâtassiez",
+      "ils": "hâtassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse hâté",
+      "tu": "eusses hâté",
+      "il": "eût hâté",
+      "nous": "eussions hâté",
+      "vous": "eussiez hâté",
+      "ils": "eussent hâté"
+    },
+    "conditionnel_présent": {
+      "je": "hâterais",
+      "tu": "hâterais",
+      "il": "hâterait",
+      "nous": "hâterions",
+      "vous": "hâteriez",
+      "ils": "hâteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais hâté",
+      "tu": "aurais hâté",
+      "il": "aurait hâté",
+      "nous": "aurions hâté",
+      "vous": "auriez hâté",
+      "ils": "auraient hâté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse hâté",
+      "tu": "eusses hâté",
+      "il": "eût hâté",
+      "nous": "eussions hâté",
+      "vous": "eussiez hâté",
+      "ils": "eussent hâté"
+    },
+    "translation": "ponaglać",
+    "group": 1
+  },
+  {
+    "infinitive": "hausser",
+    "présent": {
+      "je": "hausse",
+      "tu": "hausses",
+      "il": "hausse",
+      "nous": "haussons",
+      "vous": "haussez",
+      "ils": "haussent"
+    },
+    "passé_composé": {
+      "je": "ai haussé",
+      "tu": "as haussé",
+      "il": "a haussé",
+      "nous": "avons haussé",
+      "vous": "avez haussé",
+      "ils": "ont haussé"
+    },
+    "imparfait": {
+      "je": "haussais",
+      "tu": "haussais",
+      "il": "haussait",
+      "nous": "haussions",
+      "vous": "haussiez",
+      "ils": "haussaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais haussé",
+      "tu": "avais haussé",
+      "il": "avait haussé",
+      "nous": "avions haussé",
+      "vous": "aviez haussé",
+      "ils": "avaient haussé"
+    },
+    "passé_simple": {
+      "je": "haussai",
+      "tu": "haussas",
+      "il": "haussa",
+      "nous": "haussâmes",
+      "vous": "haussâtes",
+      "ils": "haussèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus haussé",
+      "tu": "eus haussé",
+      "il": "eut haussé",
+      "nous": "eûmes haussé",
+      "vous": "eûtes haussé",
+      "ils": "eurent haussé"
+    },
+    "futur_simple": {
+      "je": "hausserai",
+      "tu": "hausseras",
+      "il": "haussera",
+      "nous": "hausserons",
+      "vous": "hausserez",
+      "ils": "hausseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai haussé",
+      "tu": "auras haussé",
+      "il": "aura haussé",
+      "nous": "aurons haussé",
+      "vous": "aurez haussé",
+      "ils": "auront haussé"
+    },
+    "subjonctif_présent": {
+      "je": "hausse",
+      "tu": "hausses",
+      "il": "hausse",
+      "nous": "haussions",
+      "vous": "haussiez",
+      "ils": "haussent"
+    },
+    "subjonctif_passé": {
+      "je": "aie haussé",
+      "tu": "aies haussé",
+      "il": "ait haussé",
+      "nous": "ayons haussé",
+      "vous": "ayez haussé",
+      "ils": "aient haussé"
+    },
+    "subjonctif_imparfait": {
+      "je": "haussasse",
+      "tu": "haussasses",
+      "il": "haussât",
+      "nous": "haussassions",
+      "vous": "haussassiez",
+      "ils": "haussassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse haussé",
+      "tu": "eusses haussé",
+      "il": "eût haussé",
+      "nous": "eussions haussé",
+      "vous": "eussiez haussé",
+      "ils": "eussent haussé"
+    },
+    "conditionnel_présent": {
+      "je": "hausserais",
+      "tu": "hausserais",
+      "il": "hausserait",
+      "nous": "hausserions",
+      "vous": "hausseriez",
+      "ils": "hausseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais haussé",
+      "tu": "aurais haussé",
+      "il": "aurait haussé",
+      "nous": "aurions haussé",
+      "vous": "auriez haussé",
+      "ils": "auraient haussé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse haussé",
+      "tu": "eusses haussé",
+      "il": "eût haussé",
+      "nous": "eussions haussé",
+      "vous": "eussiez haussé",
+      "ils": "eussent haussé"
+    },
+    "translation": "podnosić",
+    "group": 1
+  },
+  {
+    "infinitive": "haver",
+    "présent": {
+      "je": "have",
+      "tu": "haves",
+      "il": "have",
+      "nous": "havons",
+      "vous": "havez",
+      "ils": "havent"
+    },
+    "passé_composé": {
+      "je": "ai havé",
+      "tu": "as havé",
+      "il": "a havé",
+      "nous": "avons havé",
+      "vous": "avez havé",
+      "ils": "ont havé"
+    },
+    "imparfait": {
+      "je": "havais",
+      "tu": "havais",
+      "il": "havait",
+      "nous": "havions",
+      "vous": "haviez",
+      "ils": "havaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais havé",
+      "tu": "avais havé",
+      "il": "avait havé",
+      "nous": "avions havé",
+      "vous": "aviez havé",
+      "ils": "avaient havé"
+    },
+    "passé_simple": {
+      "je": "havai",
+      "tu": "havas",
+      "il": "hava",
+      "nous": "havâmes",
+      "vous": "havâtes",
+      "ils": "havèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus havé",
+      "tu": "eus havé",
+      "il": "eut havé",
+      "nous": "eûmes havé",
+      "vous": "eûtes havé",
+      "ils": "eurent havé"
+    },
+    "futur_simple": {
+      "je": "haverai",
+      "tu": "haveras",
+      "il": "havera",
+      "nous": "haverons",
+      "vous": "haverez",
+      "ils": "haveront"
+    },
+    "futur_antérieur": {
+      "je": "aurai havé",
+      "tu": "auras havé",
+      "il": "aura havé",
+      "nous": "aurons havé",
+      "vous": "aurez havé",
+      "ils": "auront havé"
+    },
+    "subjonctif_présent": {
+      "je": "have",
+      "tu": "haves",
+      "il": "have",
+      "nous": "havions",
+      "vous": "haviez",
+      "ils": "havent"
+    },
+    "subjonctif_passé": {
+      "je": "aie havé",
+      "tu": "aies havé",
+      "il": "ait havé",
+      "nous": "ayons havé",
+      "vous": "ayez havé",
+      "ils": "aient havé"
+    },
+    "subjonctif_imparfait": {
+      "je": "havasse",
+      "tu": "havasses",
+      "il": "havât",
+      "nous": "havassions",
+      "vous": "havassiez",
+      "ils": "havassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse havé",
+      "tu": "eusses havé",
+      "il": "eût havé",
+      "nous": "eussions havé",
+      "vous": "eussiez havé",
+      "ils": "eussent havé"
+    },
+    "conditionnel_présent": {
+      "je": "haverais",
+      "tu": "haverais",
+      "il": "haverait",
+      "nous": "haverions",
+      "vous": "haveriez",
+      "ils": "haveraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais havé",
+      "tu": "aurais havé",
+      "il": "aurait havé",
+      "nous": "aurions havé",
+      "vous": "auriez havé",
+      "ils": "auraient havé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse havé",
+      "tu": "eusses havé",
+      "il": "eût havé",
+      "nous": "eussions havé",
+      "vous": "eussiez havé",
+      "ils": "eussent havé"
+    },
+    "translation": "ślinić",
+    "group": 1
+  },
+  {
+    "infinitive": "havir",
+    "présent": {
+      "je": "havis",
+      "tu": "havis",
+      "il": "havit",
+      "nous": "havissons",
+      "vous": "havissez",
+      "ils": "havissent"
+    },
+    "passé_composé": {
+      "je": "ai havi",
+      "tu": "as havi",
+      "il": "a havi",
+      "nous": "avons havi",
+      "vous": "avez havi",
+      "ils": "ont havi"
+    },
+    "imparfait": {
+      "je": "havissais",
+      "tu": "havissais",
+      "il": "havissait",
+      "nous": "havissions",
+      "vous": "havissiez",
+      "ils": "havissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais havi",
+      "tu": "avais havi",
+      "il": "avait havi",
+      "nous": "avions havi",
+      "vous": "aviez havi",
+      "ils": "avaient havi"
+    },
+    "passé_simple": {
+      "je": "havis",
+      "tu": "havis",
+      "il": "havit",
+      "nous": "havîmes",
+      "vous": "havîtes",
+      "ils": "havirent"
+    },
+    "passé_antérieur": {
+      "je": "eus havi",
+      "tu": "eus havi",
+      "il": "eut havi",
+      "nous": "eûmes havi",
+      "vous": "eûtes havi",
+      "ils": "eurent havi"
+    },
+    "futur_simple": {
+      "je": "havirai",
+      "tu": "haviras",
+      "il": "havira",
+      "nous": "havirons",
+      "vous": "havirez",
+      "ils": "haviront"
+    },
+    "futur_antérieur": {
+      "je": "aurai havi",
+      "tu": "auras havi",
+      "il": "aura havi",
+      "nous": "aurons havi",
+      "vous": "aurez havi",
+      "ils": "auront havi"
+    },
+    "subjonctif_présent": {
+      "je": "havisse",
+      "tu": "havisses",
+      "il": "havisse",
+      "nous": "havissions",
+      "vous": "havissiez",
+      "ils": "havissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie havi",
+      "tu": "aies havi",
+      "il": "ait havi",
+      "nous": "ayons havi",
+      "vous": "ayez havi",
+      "ils": "aient havi"
+    },
+    "subjonctif_imparfait": {
+      "je": "havisse",
+      "tu": "havisses",
+      "il": "havît",
+      "nous": "havissions",
+      "vous": "havissiez",
+      "ils": "havissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse havi",
+      "tu": "eusses havi",
+      "il": "eût havi",
+      "nous": "eussions havi",
+      "vous": "eussiez havi",
+      "ils": "eussent havi"
+    },
+    "conditionnel_présent": {
+      "je": "havirais",
+      "tu": "havirais",
+      "il": "havirait",
+      "nous": "havirions",
+      "vous": "haviriez",
+      "ils": "haviraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais havi",
+      "tu": "aurais havi",
+      "il": "aurait havi",
+      "nous": "aurions havi",
+      "vous": "auriez havi",
+      "ils": "auraient havi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse havi",
+      "tu": "eusses havi",
+      "il": "eût havi",
+      "nous": "eussions havi",
+      "vous": "eussiez havi",
+      "ils": "eussent havi"
+    },
+    "translation": "wspinać",
+    "group": 2
+  },
+  {
+    "infinitive": "héberger",
+    "présent": {
+      "je": "héberge",
+      "tu": "héberges",
+      "il": "héberge",
+      "nous": "hébergeons",
+      "vous": "hébergez",
+      "ils": "hébergent"
+    },
+    "passé_composé": {
+      "je": "ai hébergé",
+      "tu": "as hébergé",
+      "il": "a hébergé",
+      "nous": "avons hébergé",
+      "vous": "avez hébergé",
+      "ils": "ont hébergé"
+    },
+    "imparfait": {
+      "je": "hébergeais",
+      "tu": "hébergeais",
+      "il": "hébergeait",
+      "nous": "hébergions",
+      "vous": "hébergiez",
+      "ils": "hébergeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais hébergé",
+      "tu": "avais hébergé",
+      "il": "avait hébergé",
+      "nous": "avions hébergé",
+      "vous": "aviez hébergé",
+      "ils": "avaient hébergé"
+    },
+    "passé_simple": {
+      "je": "hébergeai",
+      "tu": "hébergeas",
+      "il": "hébergea",
+      "nous": "hébergeâmes",
+      "vous": "hébergeâtes",
+      "ils": "hébergèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus hébergé",
+      "tu": "eus hébergé",
+      "il": "eut hébergé",
+      "nous": "eûmes hébergé",
+      "vous": "eûtes hébergé",
+      "ils": "eurent hébergé"
+    },
+    "futur_simple": {
+      "je": "hébergerai",
+      "tu": "hébergeras",
+      "il": "hébergera",
+      "nous": "hébergerons",
+      "vous": "hébergerez",
+      "ils": "hébergeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai hébergé",
+      "tu": "auras hébergé",
+      "il": "aura hébergé",
+      "nous": "aurons hébergé",
+      "vous": "aurez hébergé",
+      "ils": "auront hébergé"
+    },
+    "subjonctif_présent": {
+      "je": "héberge",
+      "tu": "héberges",
+      "il": "héberge",
+      "nous": "hébergions",
+      "vous": "hébergiez",
+      "ils": "hébergent"
+    },
+    "subjonctif_passé": {
+      "je": "aie hébergé",
+      "tu": "aies hébergé",
+      "il": "ait hébergé",
+      "nous": "ayons hébergé",
+      "vous": "ayez hébergé",
+      "ils": "aient hébergé"
+    },
+    "subjonctif_imparfait": {
+      "je": "hébergeasse",
+      "tu": "hébergeasses",
+      "il": "hébergeât",
+      "nous": "hébergeassions",
+      "vous": "hébergeassiez",
+      "ils": "hébergeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse hébergé",
+      "tu": "eusses hébergé",
+      "il": "eût hébergé",
+      "nous": "eussions hébergé",
+      "vous": "eussiez hébergé",
+      "ils": "eussent hébergé"
+    },
+    "conditionnel_présent": {
+      "je": "hébergerais",
+      "tu": "hébergerais",
+      "il": "hébergerait",
+      "nous": "hébergerions",
+      "vous": "hébergeriez",
+      "ils": "hébergeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais hébergé",
+      "tu": "aurais hébergé",
+      "il": "aurait hébergé",
+      "nous": "aurions hébergé",
+      "vous": "auriez hébergé",
+      "ils": "auraient hébergé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse hébergé",
+      "tu": "eusses hébergé",
+      "il": "eût hébergé",
+      "nous": "eussions hébergé",
+      "vous": "eussiez hébergé",
+      "ils": "eussent hébergé"
+    },
+    "translation": "przyjmować",
+    "group": 1
+  },
+  {
+    "infinitive": "héler",
+    "présent": {
+      "je": "hèle",
+      "tu": "hèles",
+      "il": "hèle",
+      "nous": "hélons",
+      "vous": "hélez",
+      "ils": "hèlent"
+    },
+    "passé_composé": {
+      "je": "ai hélé",
+      "tu": "as hélé",
+      "il": "a hélé",
+      "nous": "avons hélé",
+      "vous": "avez hélé",
+      "ils": "ont hélé"
+    },
+    "imparfait": {
+      "je": "hélais",
+      "tu": "hélais",
+      "il": "hélait",
+      "nous": "hélions",
+      "vous": "héliez",
+      "ils": "hélaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais hélé",
+      "tu": "avais hélé",
+      "il": "avait hélé",
+      "nous": "avions hélé",
+      "vous": "aviez hélé",
+      "ils": "avaient hélé"
+    },
+    "passé_simple": {
+      "je": "hélai",
+      "tu": "hélas",
+      "il": "héla",
+      "nous": "hélâmes",
+      "vous": "hélâtes",
+      "ils": "hélèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus hélé",
+      "tu": "eus hélé",
+      "il": "eut hélé",
+      "nous": "eûmes hélé",
+      "vous": "eûtes hélé",
+      "ils": "eurent hélé"
+    },
+    "futur_simple": {
+      "je": "hélerai",
+      "tu": "héleras",
+      "il": "hélera",
+      "nous": "hélerons",
+      "vous": "hélerez",
+      "ils": "héleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai hélé",
+      "tu": "auras hélé",
+      "il": "aura hélé",
+      "nous": "aurons hélé",
+      "vous": "aurez hélé",
+      "ils": "auront hélé"
+    },
+    "subjonctif_présent": {
+      "je": "hèle",
+      "tu": "hèles",
+      "il": "hèle",
+      "nous": "hélions",
+      "vous": "héliez",
+      "ils": "hèlent"
+    },
+    "subjonctif_passé": {
+      "je": "aie hélé",
+      "tu": "aies hélé",
+      "il": "ait hélé",
+      "nous": "ayons hélé",
+      "vous": "ayez hélé",
+      "ils": "aient hélé"
+    },
+    "subjonctif_imparfait": {
+      "je": "hélasse",
+      "tu": "hélasses",
+      "il": "hélât",
+      "nous": "hélassions",
+      "vous": "hélassiez",
+      "ils": "hélassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse hélé",
+      "tu": "eusses hélé",
+      "il": "eût hélé",
+      "nous": "eussions hélé",
+      "vous": "eussiez hélé",
+      "ils": "eussent hélé"
+    },
+    "conditionnel_présent": {
+      "je": "hélerais",
+      "tu": "hélerais",
+      "il": "hélerait",
+      "nous": "hélerions",
+      "vous": "héleriez",
+      "ils": "héleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais hélé",
+      "tu": "aurais hélé",
+      "il": "aurait hélé",
+      "nous": "aurions hélé",
+      "vous": "auriez hélé",
+      "ils": "auraient hélé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse hélé",
+      "tu": "eusses hélé",
+      "il": "eût hélé",
+      "nous": "eussions hélé",
+      "vous": "eussiez hélé",
+      "ils": "eussent hélé"
+    },
+    "translation": "wołać",
+    "group": 1
+  },
+  {
+    "infinitive": "hennir",
+    "présent": {
+      "je": "hennis",
+      "tu": "hennis",
+      "il": "hennit",
+      "nous": "hennissons",
+      "vous": "hennissez",
+      "ils": "hennissent"
+    },
+    "passé_composé": {
+      "je": "ai henni",
+      "tu": "as henni",
+      "il": "a henni",
+      "nous": "avons henni",
+      "vous": "avez henni",
+      "ils": "ont henni"
+    },
+    "imparfait": {
+      "je": "hennissais",
+      "tu": "hennissais",
+      "il": "hennissait",
+      "nous": "hennissions",
+      "vous": "hennissiez",
+      "ils": "hennissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais henni",
+      "tu": "avais henni",
+      "il": "avait henni",
+      "nous": "avions henni",
+      "vous": "aviez henni",
+      "ils": "avaient henni"
+    },
+    "passé_simple": {
+      "je": "hennis",
+      "tu": "hennis",
+      "il": "hennit",
+      "nous": "hennîmes",
+      "vous": "hennîtes",
+      "ils": "hennirent"
+    },
+    "passé_antérieur": {
+      "je": "eus henni",
+      "tu": "eus henni",
+      "il": "eut henni",
+      "nous": "eûmes henni",
+      "vous": "eûtes henni",
+      "ils": "eurent henni"
+    },
+    "futur_simple": {
+      "je": "hennirai",
+      "tu": "henniras",
+      "il": "hennira",
+      "nous": "hennirons",
+      "vous": "hennirez",
+      "ils": "henniront"
+    },
+    "futur_antérieur": {
+      "je": "aurai henni",
+      "tu": "auras henni",
+      "il": "aura henni",
+      "nous": "aurons henni",
+      "vous": "aurez henni",
+      "ils": "auront henni"
+    },
+    "subjonctif_présent": {
+      "je": "hennisse",
+      "tu": "hennisses",
+      "il": "hennisse",
+      "nous": "hennissions",
+      "vous": "hennissiez",
+      "ils": "hennissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie henni",
+      "tu": "aies henni",
+      "il": "ait henni",
+      "nous": "ayons henni",
+      "vous": "ayez henni",
+      "ils": "aient henni"
+    },
+    "subjonctif_imparfait": {
+      "je": "hennisse",
+      "tu": "hennisses",
+      "il": "hennît",
+      "nous": "hennissions",
+      "vous": "hennissiez",
+      "ils": "hennissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse henni",
+      "tu": "eusses henni",
+      "il": "eût henni",
+      "nous": "eussions henni",
+      "vous": "eussiez henni",
+      "ils": "eussent henni"
+    },
+    "conditionnel_présent": {
+      "je": "hennirais",
+      "tu": "hennirais",
+      "il": "hennirait",
+      "nous": "hennirions",
+      "vous": "henniriez",
+      "ils": "henniraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais henni",
+      "tu": "aurais henni",
+      "il": "aurait henni",
+      "nous": "aurions henni",
+      "vous": "auriez henni",
+      "ils": "auraient henni"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse henni",
+      "tu": "eusses henni",
+      "il": "eût henni",
+      "nous": "eussions henni",
+      "vous": "eussiez henni",
+      "ils": "eussent henni"
+    },
+    "translation": "rżeć",
+    "group": 2
+  },
+  {
+    "infinitive": "hériter",
+    "présent": {
+      "je": "hérite",
+      "tu": "hérites",
+      "il": "hérite",
+      "nous": "héritons",
+      "vous": "héritez",
+      "ils": "héritent"
+    },
+    "passé_composé": {
+      "je": "ai hérité",
+      "tu": "as hérité",
+      "il": "a hérité",
+      "nous": "avons hérité",
+      "vous": "avez hérité",
+      "ils": "ont hérité"
+    },
+    "imparfait": {
+      "je": "héritais",
+      "tu": "héritais",
+      "il": "héritait",
+      "nous": "héritions",
+      "vous": "héritiez",
+      "ils": "héritaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais hérité",
+      "tu": "avais hérité",
+      "il": "avait hérité",
+      "nous": "avions hérité",
+      "vous": "aviez hérité",
+      "ils": "avaient hérité"
+    },
+    "passé_simple": {
+      "je": "héritai",
+      "tu": "héritas",
+      "il": "hérita",
+      "nous": "héritâmes",
+      "vous": "héritâtes",
+      "ils": "héritèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus hérité",
+      "tu": "eus hérité",
+      "il": "eut hérité",
+      "nous": "eûmes hérité",
+      "vous": "eûtes hérité",
+      "ils": "eurent hérité"
+    },
+    "futur_simple": {
+      "je": "hériterai",
+      "tu": "hériteras",
+      "il": "héritera",
+      "nous": "hériterons",
+      "vous": "hériterez",
+      "ils": "hériteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai hérité",
+      "tu": "auras hérité",
+      "il": "aura hérité",
+      "nous": "aurons hérité",
+      "vous": "aurez hérité",
+      "ils": "auront hérité"
+    },
+    "subjonctif_présent": {
+      "je": "hérite",
+      "tu": "hérites",
+      "il": "hérite",
+      "nous": "héritions",
+      "vous": "héritiez",
+      "ils": "héritent"
+    },
+    "subjonctif_passé": {
+      "je": "aie hérité",
+      "tu": "aies hérité",
+      "il": "ait hérité",
+      "nous": "ayons hérité",
+      "vous": "ayez hérité",
+      "ils": "aient hérité"
+    },
+    "subjonctif_imparfait": {
+      "je": "héritasse",
+      "tu": "héritasses",
+      "il": "héritât",
+      "nous": "héritassions",
+      "vous": "héritassiez",
+      "ils": "héritassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse hérité",
+      "tu": "eusses hérité",
+      "il": "eût hérité",
+      "nous": "eussions hérité",
+      "vous": "eussiez hérité",
+      "ils": "eussent hérité"
+    },
+    "conditionnel_présent": {
+      "je": "hériterais",
+      "tu": "hériterais",
+      "il": "hériterait",
+      "nous": "hériterions",
+      "vous": "hériteriez",
+      "ils": "hériteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais hérité",
+      "tu": "aurais hérité",
+      "il": "aurait hérité",
+      "nous": "aurions hérité",
+      "vous": "auriez hérité",
+      "ils": "auraient hérité"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse hérité",
+      "tu": "eusses hérité",
+      "il": "eût hérité",
+      "nous": "eussions hérité",
+      "vous": "eussiez hérité",
+      "ils": "eussent hérité"
+    },
+    "translation": "dziedziczyć",
+    "group": 1
+  },
+  {
+    "infinitive": "hésiter",
+    "présent": {
+      "je": "hésite",
+      "tu": "hésites",
+      "il": "hésite",
+      "nous": "hésitons",
+      "vous": "hésitez",
+      "ils": "hésitent"
+    },
+    "passé_composé": {
+      "je": "ai hésité",
+      "tu": "as hésité",
+      "il": "a hésité",
+      "nous": "avons hésité",
+      "vous": "avez hésité",
+      "ils": "ont hésité"
+    },
+    "imparfait": {
+      "je": "hésitais",
+      "tu": "hésitais",
+      "il": "hésitait",
+      "nous": "hésitions",
+      "vous": "hésitiez",
+      "ils": "hésitaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais hésité",
+      "tu": "avais hésité",
+      "il": "avait hésité",
+      "nous": "avions hésité",
+      "vous": "aviez hésité",
+      "ils": "avaient hésité"
+    },
+    "passé_simple": {
+      "je": "hésitai",
+      "tu": "hésitas",
+      "il": "hésita",
+      "nous": "hésitâmes",
+      "vous": "hésitâtes",
+      "ils": "hésitèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus hésité",
+      "tu": "eus hésité",
+      "il": "eut hésité",
+      "nous": "eûmes hésité",
+      "vous": "eûtes hésité",
+      "ils": "eurent hésité"
+    },
+    "futur_simple": {
+      "je": "hésiterai",
+      "tu": "hésiteras",
+      "il": "hésitera",
+      "nous": "hésiterons",
+      "vous": "hésiterez",
+      "ils": "hésiteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai hésité",
+      "tu": "auras hésité",
+      "il": "aura hésité",
+      "nous": "aurons hésité",
+      "vous": "aurez hésité",
+      "ils": "auront hésité"
+    },
+    "subjonctif_présent": {
+      "je": "hésite",
+      "tu": "hésites",
+      "il": "hésite",
+      "nous": "hésitions",
+      "vous": "hésitiez",
+      "ils": "hésitent"
+    },
+    "subjonctif_passé": {
+      "je": "aie hésité",
+      "tu": "aies hésité",
+      "il": "ait hésité",
+      "nous": "ayons hésité",
+      "vous": "ayez hésité",
+      "ils": "aient hésité"
+    },
+    "subjonctif_imparfait": {
+      "je": "hésitasse",
+      "tu": "hésitasses",
+      "il": "hésitât",
+      "nous": "hésitassions",
+      "vous": "hésitassiez",
+      "ils": "hésitassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse hésité",
+      "tu": "eusses hésité",
+      "il": "eût hésité",
+      "nous": "eussions hésité",
+      "vous": "eussiez hésité",
+      "ils": "eussent hésité"
+    },
+    "conditionnel_présent": {
+      "je": "hésiterais",
+      "tu": "hésiterais",
+      "il": "hésiterait",
+      "nous": "hésiterions",
+      "vous": "hésiteriez",
+      "ils": "hésiteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais hésité",
+      "tu": "aurais hésité",
+      "il": "aurait hésité",
+      "nous": "aurions hésité",
+      "vous": "auriez hésité",
+      "ils": "auraient hésité"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse hésité",
+      "tu": "eusses hésité",
+      "il": "eût hésité",
+      "nous": "eussions hésité",
+      "vous": "eussiez hésité",
+      "ils": "eussent hésité"
+    },
+    "translation": "wahać",
+    "group": 1
+  },
+  {
+    "infinitive": "heurter",
+    "présent": {
+      "je": "heurte",
+      "tu": "heurtes",
+      "il": "heurte",
+      "nous": "heurtons",
+      "vous": "heurtez",
+      "ils": "heurtent"
+    },
+    "passé_composé": {
+      "je": "ai heurté",
+      "tu": "as heurté",
+      "il": "a heurté",
+      "nous": "avons heurté",
+      "vous": "avez heurté",
+      "ils": "ont heurté"
+    },
+    "imparfait": {
+      "je": "heurtais",
+      "tu": "heurtais",
+      "il": "heurtait",
+      "nous": "heurtions",
+      "vous": "heurtiez",
+      "ils": "heurtaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais heurté",
+      "tu": "avais heurté",
+      "il": "avait heurté",
+      "nous": "avions heurté",
+      "vous": "aviez heurté",
+      "ils": "avaient heurté"
+    },
+    "passé_simple": {
+      "je": "heurtai",
+      "tu": "heurtas",
+      "il": "heurta",
+      "nous": "heurtâmes",
+      "vous": "heurtâtes",
+      "ils": "heurtèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus heurté",
+      "tu": "eus heurté",
+      "il": "eut heurté",
+      "nous": "eûmes heurté",
+      "vous": "eûtes heurté",
+      "ils": "eurent heurté"
+    },
+    "futur_simple": {
+      "je": "heurterai",
+      "tu": "heurteras",
+      "il": "heurtera",
+      "nous": "heurterons",
+      "vous": "heurterez",
+      "ils": "heurteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai heurté",
+      "tu": "auras heurté",
+      "il": "aura heurté",
+      "nous": "aurons heurté",
+      "vous": "aurez heurté",
+      "ils": "auront heurté"
+    },
+    "subjonctif_présent": {
+      "je": "heurte",
+      "tu": "heurtes",
+      "il": "heurte",
+      "nous": "heurtions",
+      "vous": "heurtiez",
+      "ils": "heurtent"
+    },
+    "subjonctif_passé": {
+      "je": "aie heurté",
+      "tu": "aies heurté",
+      "il": "ait heurté",
+      "nous": "ayons heurté",
+      "vous": "ayez heurté",
+      "ils": "aient heurté"
+    },
+    "subjonctif_imparfait": {
+      "je": "heurtasse",
+      "tu": "heurtasses",
+      "il": "heurtât",
+      "nous": "heurtassions",
+      "vous": "heurtassiez",
+      "ils": "heurtassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse heurté",
+      "tu": "eusses heurté",
+      "il": "eût heurté",
+      "nous": "eussions heurté",
+      "vous": "eussiez heurté",
+      "ils": "eussent heurté"
+    },
+    "conditionnel_présent": {
+      "je": "heurterais",
+      "tu": "heurterais",
+      "il": "heurterait",
+      "nous": "heurterions",
+      "vous": "heurteriez",
+      "ils": "heurteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais heurté",
+      "tu": "aurais heurté",
+      "il": "aurait heurté",
+      "nous": "aurions heurté",
+      "vous": "auriez heurté",
+      "ils": "auraient heurté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse heurté",
+      "tu": "eusses heurté",
+      "il": "eût heurté",
+      "nous": "eussions heurté",
+      "vous": "eussiez heurté",
+      "ils": "eussent heurté"
+    },
+    "translation": "potrącić",
+    "group": 1
+  }
+]

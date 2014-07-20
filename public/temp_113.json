@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "intégrer",
+    "présent": {
+      "je": "intègre",
+      "tu": "intègres",
+      "il": "intègre",
+      "nous": "intégrons",
+      "vous": "intégrez",
+      "ils": "intègrent"
+    },
+    "passé_composé": {
+      "je": "ai intégré",
+      "tu": "as intégré",
+      "il": "a intégré",
+      "nous": "avons intégré",
+      "vous": "avez intégré",
+      "ils": "ont intégré"
+    },
+    "imparfait": {
+      "je": "intégrais",
+      "tu": "intégrais",
+      "il": "intégrait",
+      "nous": "intégrions",
+      "vous": "intégriez",
+      "ils": "intégraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais intégré",
+      "tu": "avais intégré",
+      "il": "avait intégré",
+      "nous": "avions intégré",
+      "vous": "aviez intégré",
+      "ils": "avaient intégré"
+    },
+    "passé_simple": {
+      "je": "intégrai",
+      "tu": "intégras",
+      "il": "intégra",
+      "nous": "intégrâmes",
+      "vous": "intégrâtes",
+      "ils": "intégrèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus intégré",
+      "tu": "eus intégré",
+      "il": "eut intégré",
+      "nous": "eûmes intégré",
+      "vous": "eûtes intégré",
+      "ils": "eurent intégré"
+    },
+    "futur_simple": {
+      "je": "intégrerai",
+      "tu": "intégreras",
+      "il": "intégrera",
+      "nous": "intégrerons",
+      "vous": "intégrerez",
+      "ils": "intégreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai intégré",
+      "tu": "auras intégré",
+      "il": "aura intégré",
+      "nous": "aurons intégré",
+      "vous": "aurez intégré",
+      "ils": "auront intégré"
+    },
+    "subjonctif_présent": {
+      "je": "intègre",
+      "tu": "intègres",
+      "il": "intègre",
+      "nous": "intégrions",
+      "vous": "intégriez",
+      "ils": "intègrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie intégré",
+      "tu": "aies intégré",
+      "il": "ait intégré",
+      "nous": "ayons intégré",
+      "vous": "ayez intégré",
+      "ils": "aient intégré"
+    },
+    "subjonctif_imparfait": {
+      "je": "intégrasse",
+      "tu": "intégrasses",
+      "il": "intégrât",
+      "nous": "intégrassions",
+      "vous": "intégrassiez",
+      "ils": "intégrassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse intégré",
+      "tu": "eusses intégré",
+      "il": "eût intégré",
+      "nous": "eussions intégré",
+      "vous": "eussiez intégré",
+      "ils": "eussent intégré"
+    },
+    "conditionnel_présent": {
+      "je": "intégrerais",
+      "tu": "intégrerais",
+      "il": "intégrerait",
+      "nous": "intégrerions",
+      "vous": "intégreriez",
+      "ils": "intégreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais intégré",
+      "tu": "aurais intégré",
+      "il": "aurait intégré",
+      "nous": "aurions intégré",
+      "vous": "auriez intégré",
+      "ils": "auraient intégré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse intégré",
+      "tu": "eusses intégré",
+      "il": "eût intégré",
+      "nous": "eussions intégré",
+      "vous": "eussiez intégré",
+      "ils": "eussent intégré"
+    },
+    "translation": "integrować",
+    "group": 1
+  },
+  {
+    "infinitive": "intensifier",
+    "présent": {
+      "je": "intensifie",
+      "tu": "intensifies",
+      "il": "intensifie",
+      "nous": "intensifions",
+      "vous": "intensifiez",
+      "ils": "intensifient"
+    },
+    "passé_composé": {
+      "je": "ai intensifié",
+      "tu": "as intensifié",
+      "il": "a intensifié",
+      "nous": "avons intensifié",
+      "vous": "avez intensifié",
+      "ils": "ont intensifié"
+    },
+    "imparfait": {
+      "je": "intensifiais",
+      "tu": "intensifiais",
+      "il": "intensifiait",
+      "nous": "intensifiions",
+      "vous": "intensifiiez",
+      "ils": "intensifiaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais intensifié",
+      "tu": "avais intensifié",
+      "il": "avait intensifié",
+      "nous": "avions intensifié",
+      "vous": "aviez intensifié",
+      "ils": "avaient intensifié"
+    },
+    "passé_simple": {
+      "je": "intensifiai",
+      "tu": "intensifias",
+      "il": "intensifia",
+      "nous": "intensifiâmes",
+      "vous": "intensifiâtes",
+      "ils": "intensifièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus intensifié",
+      "tu": "eus intensifié",
+      "il": "eut intensifié",
+      "nous": "eûmes intensifié",
+      "vous": "eûtes intensifié",
+      "ils": "eurent intensifié"
+    },
+    "futur_simple": {
+      "je": "intensifierai",
+      "tu": "intensifieras",
+      "il": "intensifiera",
+      "nous": "intensifierons",
+      "vous": "intensifierez",
+      "ils": "intensifieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai intensifié",
+      "tu": "auras intensifié",
+      "il": "aura intensifié",
+      "nous": "aurons intensifié",
+      "vous": "aurez intensifié",
+      "ils": "auront intensifié"
+    },
+    "subjonctif_présent": {
+      "je": "intensifie",
+      "tu": "intensifies",
+      "il": "intensifie",
+      "nous": "intensifiions",
+      "vous": "intensifiiez",
+      "ils": "intensifient"
+    },
+    "subjonctif_passé": {
+      "je": "aie intensifié",
+      "tu": "aies intensifié",
+      "il": "ait intensifié",
+      "nous": "ayons intensifié",
+      "vous": "ayez intensifié",
+      "ils": "aient intensifié"
+    },
+    "subjonctif_imparfait": {
+      "je": "intensifiasse",
+      "tu": "intensifiasses",
+      "il": "intensifiât",
+      "nous": "intensifiassions",
+      "vous": "intensifiassiez",
+      "ils": "intensifiassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse intensifié",
+      "tu": "eusses intensifié",
+      "il": "eût intensifié",
+      "nous": "eussions intensifié",
+      "vous": "eussiez intensifié",
+      "ils": "eussent intensifié"
+    },
+    "conditionnel_présent": {
+      "je": "intensifierais",
+      "tu": "intensifierais",
+      "il": "intensifierait",
+      "nous": "intensifierions",
+      "vous": "intensifieriez",
+      "ils": "intensifieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais intensifié",
+      "tu": "aurais intensifié",
+      "il": "aurait intensifié",
+      "nous": "aurions intensifié",
+      "vous": "auriez intensifié",
+      "ils": "auraient intensifié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse intensifié",
+      "tu": "eusses intensifié",
+      "il": "eût intensifié",
+      "nous": "eussions intensifié",
+      "vous": "eussiez intensifié",
+      "ils": "eussent intensifié"
+    },
+    "translation": "wzmacniać",
+    "group": 1
+  },
+  {
+    "infinitive": "interagir",
+    "présent": {
+      "je": "interagis",
+      "tu": "interagis",
+      "il": "interagit",
+      "nous": "interagissons",
+      "vous": "interagissez",
+      "ils": "interagissent"
+    },
+    "passé_composé": {
+      "je": "ai interagi",
+      "tu": "as interagi",
+      "il": "a interagi",
+      "nous": "avons interagi",
+      "vous": "avez interagi",
+      "ils": "ont interagi"
+    },
+    "imparfait": {
+      "je": "interagissais",
+      "tu": "interagissais",
+      "il": "interagissait",
+      "nous": "interagissions",
+      "vous": "interagissiez",
+      "ils": "interagissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais interagi",
+      "tu": "avais interagi",
+      "il": "avait interagi",
+      "nous": "avions interagi",
+      "vous": "aviez interagi",
+      "ils": "avaient interagi"
+    },
+    "passé_simple": {
+      "je": "interagis",
+      "tu": "interagis",
+      "il": "interagit",
+      "nous": "interagîmes",
+      "vous": "interagîtes",
+      "ils": "interagirent"
+    },
+    "passé_antérieur": {
+      "je": "eus interagi",
+      "tu": "eus interagi",
+      "il": "eut interagi",
+      "nous": "eûmes interagi",
+      "vous": "eûtes interagi",
+      "ils": "eurent interagi"
+    },
+    "futur_simple": {
+      "je": "interagirai",
+      "tu": "interagiras",
+      "il": "interagira",
+      "nous": "interagirons",
+      "vous": "interagirez",
+      "ils": "interagiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai interagi",
+      "tu": "auras interagi",
+      "il": "aura interagi",
+      "nous": "aurons interagi",
+      "vous": "aurez interagi",
+      "ils": "auront interagi"
+    },
+    "subjonctif_présent": {
+      "je": "interagisse",
+      "tu": "interagisses",
+      "il": "interagisse",
+      "nous": "interagissions",
+      "vous": "interagissiez",
+      "ils": "interagissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie interagi",
+      "tu": "aies interagi",
+      "il": "ait interagi",
+      "nous": "ayons interagi",
+      "vous": "ayez interagi",
+      "ils": "aient interagi"
+    },
+    "subjonctif_imparfait": {
+      "je": "interagisse",
+      "tu": "interagisses",
+      "il": "interagît",
+      "nous": "interagissions",
+      "vous": "interagissiez",
+      "ils": "interagissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse interagi",
+      "tu": "eusses interagi",
+      "il": "eût interagi",
+      "nous": "eussions interagi",
+      "vous": "eussiez interagi",
+      "ils": "eussent interagi"
+    },
+    "conditionnel_présent": {
+      "je": "interagirais",
+      "tu": "interagirais",
+      "il": "interagirait",
+      "nous": "interagirions",
+      "vous": "interagiriez",
+      "ils": "interagiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais interagi",
+      "tu": "aurais interagi",
+      "il": "aurait interagi",
+      "nous": "aurions interagi",
+      "vous": "auriez interagi",
+      "ils": "auraient interagi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse interagi",
+      "tu": "eusses interagi",
+      "il": "eût interagi",
+      "nous": "eussions interagi",
+      "vous": "eussiez interagi",
+      "ils": "eussent interagi"
+    },
+    "translation": "wypytywać",
+    "group": 2
+  },
+  {
+    "infinitive": "interdire",
+    "présent": {
+      "je": "interdis",
+      "tu": "interdis",
+      "il": "interdit",
+      "nous": "interdisons",
+      "vous": "interdisez",
+      "ils": "interdisent"
+    },
+    "passé_composé": {
+      "je": "ai interdit",
+      "tu": "as interdit",
+      "il": "a interdit",
+      "nous": "avons interdit",
+      "vous": "avez interdit",
+      "ils": "ont interdit"
+    },
+    "imparfait": {
+      "je": "interdisais",
+      "tu": "interdisais",
+      "il": "interdisait",
+      "nous": "interdisions",
+      "vous": "interdisiez",
+      "ils": "interdisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais interdit",
+      "tu": "avais interdit",
+      "il": "avait interdit",
+      "nous": "avions interdit",
+      "vous": "aviez interdit",
+      "ils": "avaient interdit"
+    },
+    "passé_simple": {
+      "je": "interdis",
+      "tu": "interdis",
+      "il": "interdit",
+      "nous": "interdîmes",
+      "vous": "interdîtes",
+      "ils": "interdirent"
+    },
+    "passé_antérieur": {
+      "je": "eus interdit",
+      "tu": "eus interdit",
+      "il": "eut interdit",
+      "nous": "eûmes interdit",
+      "vous": "eûtes interdit",
+      "ils": "eurent interdit"
+    },
+    "futur_simple": {
+      "je": "interdirai",
+      "tu": "interdiras",
+      "il": "interdira",
+      "nous": "interdirons",
+      "vous": "interdirez",
+      "ils": "interdiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai interdit",
+      "tu": "auras interdit",
+      "il": "aura interdit",
+      "nous": "aurons interdit",
+      "vous": "aurez interdit",
+      "ils": "auront interdit"
+    },
+    "subjonctif_présent": {
+      "je": "interdise",
+      "tu": "interdises",
+      "il": "interdise",
+      "nous": "interdisions",
+      "vous": "interdisiez",
+      "ils": "interdisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie interdit",
+      "tu": "aies interdit",
+      "il": "ait interdit",
+      "nous": "ayons interdit",
+      "vous": "ayez interdit",
+      "ils": "aient interdit"
+    },
+    "subjonctif_imparfait": {
+      "je": "interdisse",
+      "tu": "interdisses",
+      "il": "interdît",
+      "nous": "interdissions",
+      "vous": "interdissiez",
+      "ils": "interdissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse interdit",
+      "tu": "eusses interdit",
+      "il": "eût interdit",
+      "nous": "eussions interdit",
+      "vous": "eussiez interdit",
+      "ils": "eussent interdit"
+    },
+    "conditionnel_présent": {
+      "je": "interdirais",
+      "tu": "interdirais",
+      "il": "interdirait",
+      "nous": "interdirions",
+      "vous": "interdiriez",
+      "ils": "interdiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais interdit",
+      "tu": "aurais interdit",
+      "il": "aurait interdit",
+      "nous": "aurions interdit",
+      "vous": "auriez interdit",
+      "ils": "auraient interdit"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse interdit",
+      "tu": "eusses interdit",
+      "il": "eût interdit",
+      "nous": "eussions interdit",
+      "vous": "eussiez interdit",
+      "ils": "eussent interdit"
+    },
+    "translation": "zabraniać",
+    "group": 3
+  },
+  {
+    "infinitive": "intéresser",
+    "présent": {
+      "je": "intéresse",
+      "tu": "intéresses",
+      "il": "intéresse",
+      "nous": "intéressons",
+      "vous": "intéressez",
+      "ils": "intéressent"
+    },
+    "passé_composé": {
+      "je": "ai intéressé",
+      "tu": "as intéressé",
+      "il": "a intéressé",
+      "nous": "avons intéressé",
+      "vous": "avez intéressé",
+      "ils": "ont intéressé"
+    },
+    "imparfait": {
+      "je": "intéressais",
+      "tu": "intéressais",
+      "il": "intéressait",
+      "nous": "intéressions",
+      "vous": "intéressiez",
+      "ils": "intéressaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais intéressé",
+      "tu": "avais intéressé",
+      "il": "avait intéressé",
+      "nous": "avions intéressé",
+      "vous": "aviez intéressé",
+      "ils": "avaient intéressé"
+    },
+    "passé_simple": {
+      "je": "intéressai",
+      "tu": "intéressas",
+      "il": "intéressa",
+      "nous": "intéressâmes",
+      "vous": "intéressâtes",
+      "ils": "intéressèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus intéressé",
+      "tu": "eus intéressé",
+      "il": "eut intéressé",
+      "nous": "eûmes intéressé",
+      "vous": "eûtes intéressé",
+      "ils": "eurent intéressé"
+    },
+    "futur_simple": {
+      "je": "intéresserai",
+      "tu": "intéresseras",
+      "il": "intéressera",
+      "nous": "intéresserons",
+      "vous": "intéresserez",
+      "ils": "intéresseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai intéressé",
+      "tu": "auras intéressé",
+      "il": "aura intéressé",
+      "nous": "aurons intéressé",
+      "vous": "aurez intéressé",
+      "ils": "auront intéressé"
+    },
+    "subjonctif_présent": {
+      "je": "intéresse",
+      "tu": "intéresses",
+      "il": "intéresse",
+      "nous": "intéressions",
+      "vous": "intéressiez",
+      "ils": "intéressent"
+    },
+    "subjonctif_passé": {
+      "je": "aie intéressé",
+      "tu": "aies intéressé",
+      "il": "ait intéressé",
+      "nous": "ayons intéressé",
+      "vous": "ayez intéressé",
+      "ils": "aient intéressé"
+    },
+    "subjonctif_imparfait": {
+      "je": "intéressasse",
+      "tu": "intéressasses",
+      "il": "intéressât",
+      "nous": "intéressassions",
+      "vous": "intéressassiez",
+      "ils": "intéressassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse intéressé",
+      "tu": "eusses intéressé",
+      "il": "eût intéressé",
+      "nous": "eussions intéressé",
+      "vous": "eussiez intéressé",
+      "ils": "eussent intéressé"
+    },
+    "conditionnel_présent": {
+      "je": "intéresserais",
+      "tu": "intéresserais",
+      "il": "intéresserait",
+      "nous": "intéresserions",
+      "vous": "intéresseriez",
+      "ils": "intéresseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais intéressé",
+      "tu": "aurais intéressé",
+      "il": "aurait intéressé",
+      "nous": "aurions intéressé",
+      "vous": "auriez intéressé",
+      "ils": "auraient intéressé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse intéressé",
+      "tu": "eusses intéressé",
+      "il": "eût intéressé",
+      "nous": "eussions intéressé",
+      "vous": "eussiez intéressé",
+      "ils": "eussent intéressé"
+    },
+    "translation": "interesować",
+    "group": 1
+  },
+  {
+    "infinitive": "interférer",
+    "présent": {
+      "je": "interfère",
+      "tu": "interfères",
+      "il": "interfère",
+      "nous": "interférons",
+      "vous": "interférez",
+      "ils": "interfèrent"
+    },
+    "passé_composé": {
+      "je": "ai interféré",
+      "tu": "as interféré",
+      "il": "a interféré",
+      "nous": "avons interféré",
+      "vous": "avez interféré",
+      "ils": "ont interféré"
+    },
+    "imparfait": {
+      "je": "interférais",
+      "tu": "interférais",
+      "il": "interférait",
+      "nous": "interférions",
+      "vous": "interfériez",
+      "ils": "interféraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais interféré",
+      "tu": "avais interféré",
+      "il": "avait interféré",
+      "nous": "avions interféré",
+      "vous": "aviez interféré",
+      "ils": "avaient interféré"
+    },
+    "passé_simple": {
+      "je": "interférai",
+      "tu": "interféras",
+      "il": "interféra",
+      "nous": "interférâmes",
+      "vous": "interférâtes",
+      "ils": "interférèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus interféré",
+      "tu": "eus interféré",
+      "il": "eut interféré",
+      "nous": "eûmes interféré",
+      "vous": "eûtes interféré",
+      "ils": "eurent interféré"
+    },
+    "futur_simple": {
+      "je": "interférerai",
+      "tu": "interféreras",
+      "il": "interférera",
+      "nous": "interférerons",
+      "vous": "interférerez",
+      "ils": "interféreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai interféré",
+      "tu": "auras interféré",
+      "il": "aura interféré",
+      "nous": "aurons interféré",
+      "vous": "aurez interféré",
+      "ils": "auront interféré"
+    },
+    "subjonctif_présent": {
+      "je": "interfère",
+      "tu": "interfères",
+      "il": "interfère",
+      "nous": "interférions",
+      "vous": "interfériez",
+      "ils": "interfèrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie interféré",
+      "tu": "aies interféré",
+      "il": "ait interféré",
+      "nous": "ayons interféré",
+      "vous": "ayez interféré",
+      "ils": "aient interféré"
+    },
+    "subjonctif_imparfait": {
+      "je": "interférasse",
+      "tu": "interférasses",
+      "il": "interférât",
+      "nous": "interférassions",
+      "vous": "interférassiez",
+      "ils": "interférassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse interféré",
+      "tu": "eusses interféré",
+      "il": "eût interféré",
+      "nous": "eussions interféré",
+      "vous": "eussiez interféré",
+      "ils": "eussent interféré"
+    },
+    "conditionnel_présent": {
+      "je": "interférerais",
+      "tu": "interférerais",
+      "il": "interférerait",
+      "nous": "interférerions",
+      "vous": "interféreriez",
+      "ils": "interféreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais interféré",
+      "tu": "aurais interféré",
+      "il": "aurait interféré",
+      "nous": "aurions interféré",
+      "vous": "auriez interféré",
+      "ils": "auraient interféré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse interféré",
+      "tu": "eusses interféré",
+      "il": "eût interféré",
+      "nous": "eussions interféré",
+      "vous": "eussiez interféré",
+      "ils": "eussent interféré"
+    },
+    "translation": "interferować",
+    "group": 1
+  },
+  {
+    "infinitive": "interpeller",
+    "présent": {
+      "je": "interpelle",
+      "tu": "interpelles",
+      "il": "interpelle",
+      "nous": "interpellons",
+      "vous": "interpellez",
+      "ils": "interpellent"
+    },
+    "passé_composé": {
+      "je": "ai interpellé",
+      "tu": "as interpellé",
+      "il": "a interpellé",
+      "nous": "avons interpellé",
+      "vous": "avez interpellé",
+      "ils": "ont interpellé"
+    },
+    "imparfait": {
+      "je": "interpellais",
+      "tu": "interpellais",
+      "il": "interpellait",
+      "nous": "interpellions",
+      "vous": "interpelliez",
+      "ils": "interpellaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais interpellé",
+      "tu": "avais interpellé",
+      "il": "avait interpellé",
+      "nous": "avions interpellé",
+      "vous": "aviez interpellé",
+      "ils": "avaient interpellé"
+    },
+    "passé_simple": {
+      "je": "interpellai",
+      "tu": "interpellas",
+      "il": "interpella",
+      "nous": "interpellâmes",
+      "vous": "interpellâtes",
+      "ils": "interpellèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus interpellé",
+      "tu": "eus interpellé",
+      "il": "eut interpellé",
+      "nous": "eûmes interpellé",
+      "vous": "eûtes interpellé",
+      "ils": "eurent interpellé"
+    },
+    "futur_simple": {
+      "je": "interpellerai",
+      "tu": "interpelleras",
+      "il": "interpellera",
+      "nous": "interpellerons",
+      "vous": "interpellerez",
+      "ils": "interpelleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai interpellé",
+      "tu": "auras interpellé",
+      "il": "aura interpellé",
+      "nous": "aurons interpellé",
+      "vous": "aurez interpellé",
+      "ils": "auront interpellé"
+    },
+    "subjonctif_présent": {
+      "je": "interpelle",
+      "tu": "interpelles",
+      "il": "interpelle",
+      "nous": "interpellions",
+      "vous": "interpelliez",
+      "ils": "interpellent"
+    },
+    "subjonctif_passé": {
+      "je": "aie interpellé",
+      "tu": "aies interpellé",
+      "il": "ait interpellé",
+      "nous": "ayons interpellé",
+      "vous": "ayez interpellé",
+      "ils": "aient interpellé"
+    },
+    "subjonctif_imparfait": {
+      "je": "interpellasse",
+      "tu": "interpellasses",
+      "il": "interpellât",
+      "nous": "interpellassions",
+      "vous": "interpellassiez",
+      "ils": "interpellassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse interpellé",
+      "tu": "eusses interpellé",
+      "il": "eût interpellé",
+      "nous": "eussions interpellé",
+      "vous": "eussiez interpellé",
+      "ils": "eussent interpellé"
+    },
+    "conditionnel_présent": {
+      "je": "interpellerais",
+      "tu": "interpellerais",
+      "il": "interpellerait",
+      "nous": "interpellerions",
+      "vous": "interpelleriez",
+      "ils": "interpelleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais interpellé",
+      "tu": "aurais interpellé",
+      "il": "aurait interpellé",
+      "nous": "aurions interpellé",
+      "vous": "auriez interpellé",
+      "ils": "auraient interpellé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse interpellé",
+      "tu": "eusses interpellé",
+      "il": "eût interpellé",
+      "nous": "eussions interpellé",
+      "vous": "eussiez interpellé",
+      "ils": "eussent interpellé"
+    },
+    "translation": "wzywać",
+    "group": 1
+  },
+  {
+    "infinitive": "interpréter",
+    "présent": {
+      "je": "interprète",
+      "tu": "interprètes",
+      "il": "interprète",
+      "nous": "interprétons",
+      "vous": "interprétez",
+      "ils": "interprètent"
+    },
+    "passé_composé": {
+      "je": "ai interprété",
+      "tu": "as interprété",
+      "il": "a interprété",
+      "nous": "avons interprété",
+      "vous": "avez interprété",
+      "ils": "ont interprété"
+    },
+    "imparfait": {
+      "je": "interprétais",
+      "tu": "interprétais",
+      "il": "interprétait",
+      "nous": "interprétions",
+      "vous": "interprétiez",
+      "ils": "interprétaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais interprété",
+      "tu": "avais interprété",
+      "il": "avait interprété",
+      "nous": "avions interprété",
+      "vous": "aviez interprété",
+      "ils": "avaient interprété"
+    },
+    "passé_simple": {
+      "je": "interprétai",
+      "tu": "interprétas",
+      "il": "interpréta",
+      "nous": "interprétâmes",
+      "vous": "interprétâtes",
+      "ils": "interprétèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus interprété",
+      "tu": "eus interprété",
+      "il": "eut interprété",
+      "nous": "eûmes interprété",
+      "vous": "eûtes interprété",
+      "ils": "eurent interprété"
+    },
+    "futur_simple": {
+      "je": "interpréterai",
+      "tu": "interpréteras",
+      "il": "interprétera",
+      "nous": "interpréterons",
+      "vous": "interpréterez",
+      "ils": "interpréteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai interprété",
+      "tu": "auras interprété",
+      "il": "aura interprété",
+      "nous": "aurons interprété",
+      "vous": "aurez interprété",
+      "ils": "auront interprété"
+    },
+    "subjonctif_présent": {
+      "je": "interprète",
+      "tu": "interprètes",
+      "il": "interprète",
+      "nous": "interprétions",
+      "vous": "interprétiez",
+      "ils": "interprètent"
+    },
+    "subjonctif_passé": {
+      "je": "aie interprété",
+      "tu": "aies interprété",
+      "il": "ait interprété",
+      "nous": "ayons interprété",
+      "vous": "ayez interprété",
+      "ils": "aient interprété"
+    },
+    "subjonctif_imparfait": {
+      "je": "interprétasse",
+      "tu": "interprétasses",
+      "il": "interprétât",
+      "nous": "interprétassions",
+      "vous": "interprétassiez",
+      "ils": "interprétassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse interprété",
+      "tu": "eusses interprété",
+      "il": "eût interprété",
+      "nous": "eussions interprété",
+      "vous": "eussiez interprété",
+      "ils": "eussent interprété"
+    },
+    "conditionnel_présent": {
+      "je": "interpréterais",
+      "tu": "interpréterais",
+      "il": "interpréterait",
+      "nous": "interpréterions",
+      "vous": "interpréteriez",
+      "ils": "interpréteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais interprété",
+      "tu": "aurais interprété",
+      "il": "aurait interprété",
+      "nous": "aurions interprété",
+      "vous": "auriez interprété",
+      "ils": "auraient interprété"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse interprété",
+      "tu": "eusses interprété",
+      "il": "eût interprété",
+      "nous": "eussions interprété",
+      "vous": "eussiez interprété",
+      "ils": "eussent interprété"
+    },
+    "translation": "wykonywać",
+    "group": 1
+  },
+  {
+    "infinitive": "interroger",
+    "présent": {
+      "je": "interroge",
+      "tu": "interroges",
+      "il": "interroge",
+      "nous": "interrogeons",
+      "vous": "interrogez",
+      "ils": "interrogent"
+    },
+    "passé_composé": {
+      "je": "ai interrogé",
+      "tu": "as interrogé",
+      "il": "a interrogé",
+      "nous": "avons interrogé",
+      "vous": "avez interrogé",
+      "ils": "ont interrogé"
+    },
+    "imparfait": {
+      "je": "interrogeais",
+      "tu": "interrogeais",
+      "il": "interrogeait",
+      "nous": "interrogions",
+      "vous": "interrogiez",
+      "ils": "interrogeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais interrogé",
+      "tu": "avais interrogé",
+      "il": "avait interrogé",
+      "nous": "avions interrogé",
+      "vous": "aviez interrogé",
+      "ils": "avaient interrogé"
+    },
+    "passé_simple": {
+      "je": "interrogeai",
+      "tu": "interrogeas",
+      "il": "interrogea",
+      "nous": "interrogeâmes",
+      "vous": "interrogeâtes",
+      "ils": "interrogèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus interrogé",
+      "tu": "eus interrogé",
+      "il": "eut interrogé",
+      "nous": "eûmes interrogé",
+      "vous": "eûtes interrogé",
+      "ils": "eurent interrogé"
+    },
+    "futur_simple": {
+      "je": "interrogerai",
+      "tu": "interrogeras",
+      "il": "interrogera",
+      "nous": "interrogerons",
+      "vous": "interrogerez",
+      "ils": "interrogeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai interrogé",
+      "tu": "auras interrogé",
+      "il": "aura interrogé",
+      "nous": "aurons interrogé",
+      "vous": "aurez interrogé",
+      "ils": "auront interrogé"
+    },
+    "subjonctif_présent": {
+      "je": "interroge",
+      "tu": "interroges",
+      "il": "interroge",
+      "nous": "interrogions",
+      "vous": "interrogiez",
+      "ils": "interrogent"
+    },
+    "subjonctif_passé": {
+      "je": "aie interrogé",
+      "tu": "aies interrogé",
+      "il": "ait interrogé",
+      "nous": "ayons interrogé",
+      "vous": "ayez interrogé",
+      "ils": "aient interrogé"
+    },
+    "subjonctif_imparfait": {
+      "je": "interrogeasse",
+      "tu": "interrogeasses",
+      "il": "interrogeât",
+      "nous": "interrogeassions",
+      "vous": "interrogeassiez",
+      "ils": "interrogeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse interrogé",
+      "tu": "eusses interrogé",
+      "il": "eût interrogé",
+      "nous": "eussions interrogé",
+      "vous": "eussiez interrogé",
+      "ils": "eussent interrogé"
+    },
+    "conditionnel_présent": {
+      "je": "interrogerais",
+      "tu": "interrogerais",
+      "il": "interrogerait",
+      "nous": "interrogerions",
+      "vous": "interrogeriez",
+      "ils": "interrogeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais interrogé",
+      "tu": "aurais interrogé",
+      "il": "aurait interrogé",
+      "nous": "aurions interrogé",
+      "vous": "auriez interrogé",
+      "ils": "auraient interrogé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse interrogé",
+      "tu": "eusses interrogé",
+      "il": "eût interrogé",
+      "nous": "eussions interrogé",
+      "vous": "eussiez interrogé",
+      "ils": "eussent interrogé"
+    },
+    "translation": "wypytywać",
+    "group": 1
+  },
+  {
+    "infinitive": "interrompre",
+    "présent": {
+      "je": "interromps",
+      "tu": "interromps",
+      "il": "interrompt",
+      "nous": "interrompons",
+      "vous": "interrompez",
+      "ils": "interrompent"
+    },
+    "passé_composé": {
+      "je": "ai interrompu",
+      "tu": "as interrompu",
+      "il": "a interrompu",
+      "nous": "avons interrompu",
+      "vous": "avez interrompu",
+      "ils": "ont interrompu"
+    },
+    "imparfait": {
+      "je": "interrompais",
+      "tu": "interrompais",
+      "il": "interrompait",
+      "nous": "interrompions",
+      "vous": "interrompiez",
+      "ils": "interrompaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais interrompu",
+      "tu": "avais interrompu",
+      "il": "avait interrompu",
+      "nous": "avions interrompu",
+      "vous": "aviez interrompu",
+      "ils": "avaient interrompu"
+    },
+    "passé_simple": {
+      "je": "interrompis",
+      "tu": "interrompis",
+      "il": "interrompit",
+      "nous": "interrompîmes",
+      "vous": "interrompîtes",
+      "ils": "interrompirent"
+    },
+    "passé_antérieur": {
+      "je": "eus interrompu",
+      "tu": "eus interrompu",
+      "il": "eut interrompu",
+      "nous": "eûmes interrompu",
+      "vous": "eûtes interrompu",
+      "ils": "eurent interrompu"
+    },
+    "futur_simple": {
+      "je": "interromprai",
+      "tu": "interrompras",
+      "il": "interrompra",
+      "nous": "interromprons",
+      "vous": "interromprez",
+      "ils": "interrompront"
+    },
+    "futur_antérieur": {
+      "je": "aurai interrompu",
+      "tu": "auras interrompu",
+      "il": "aura interrompu",
+      "nous": "aurons interrompu",
+      "vous": "aurez interrompu",
+      "ils": "auront interrompu"
+    },
+    "subjonctif_présent": {
+      "je": "interrompe",
+      "tu": "interrompes",
+      "il": "interrompe",
+      "nous": "interrompions",
+      "vous": "interrompiez",
+      "ils": "interrompent"
+    },
+    "subjonctif_passé": {
+      "je": "aie interrompu",
+      "tu": "aies interrompu",
+      "il": "ait interrompu",
+      "nous": "ayons interrompu",
+      "vous": "ayez interrompu",
+      "ils": "aient interrompu"
+    },
+    "subjonctif_imparfait": {
+      "je": "interrompisse",
+      "tu": "interrompisses",
+      "il": "interrompît",
+      "nous": "interrompissions",
+      "vous": "interrompissiez",
+      "ils": "interrompissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse interrompu",
+      "tu": "eusses interrompu",
+      "il": "eût interrompu",
+      "nous": "eussions interrompu",
+      "vous": "eussiez interrompu",
+      "ils": "eussent interrompu"
+    },
+    "conditionnel_présent": {
+      "je": "interromprais",
+      "tu": "interromprais",
+      "il": "interromprait",
+      "nous": "interromprions",
+      "vous": "interrompriez",
+      "ils": "interrompraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais interrompu",
+      "tu": "aurais interrompu",
+      "il": "aurait interrompu",
+      "nous": "aurions interrompu",
+      "vous": "auriez interrompu",
+      "ils": "auraient interrompu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse interrompu",
+      "tu": "eusses interrompu",
+      "il": "eût interrompu",
+      "nous": "eussions interrompu",
+      "vous": "eussiez interrompu",
+      "ils": "eussent interrompu"
+    },
+    "translation": "przerywać",
+    "group": 3
+  }
+]

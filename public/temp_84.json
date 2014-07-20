@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "enterrer",
+    "présent": {
+      "je": "enterre",
+      "tu": "enterres",
+      "il": "enterre",
+      "nous": "enterrons",
+      "vous": "enterrez",
+      "ils": "enterrent"
+    },
+    "passé_composé": {
+      "je": "ai enterré",
+      "tu": "as enterré",
+      "il": "a enterré",
+      "nous": "avons enterré",
+      "vous": "avez enterré",
+      "ils": "ont enterré"
+    },
+    "imparfait": {
+      "je": "enterrais",
+      "tu": "enterrais",
+      "il": "enterrait",
+      "nous": "enterrions",
+      "vous": "enterriez",
+      "ils": "enterraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais enterré",
+      "tu": "avais enterré",
+      "il": "avait enterré",
+      "nous": "avions enterré",
+      "vous": "aviez enterré",
+      "ils": "avaient enterré"
+    },
+    "passé_simple": {
+      "je": "enterrai",
+      "tu": "enterras",
+      "il": "enterra",
+      "nous": "enterrâmes",
+      "vous": "enterrâtes",
+      "ils": "enterrèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus enterré",
+      "tu": "eus enterré",
+      "il": "eut enterré",
+      "nous": "eûmes enterré",
+      "vous": "eûtes enterré",
+      "ils": "eurent enterré"
+    },
+    "futur_simple": {
+      "je": "enterrerai",
+      "tu": "enterreras",
+      "il": "enterrera",
+      "nous": "enterrerons",
+      "vous": "enterrerez",
+      "ils": "enterreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai enterré",
+      "tu": "auras enterré",
+      "il": "aura enterré",
+      "nous": "aurons enterré",
+      "vous": "aurez enterré",
+      "ils": "auront enterré"
+    },
+    "subjonctif_présent": {
+      "je": "enterre",
+      "tu": "enterres",
+      "il": "enterre",
+      "nous": "enterrions",
+      "vous": "enterriez",
+      "ils": "enterrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie enterré",
+      "tu": "aies enterré",
+      "il": "ait enterré",
+      "nous": "ayons enterré",
+      "vous": "ayez enterré",
+      "ils": "aient enterré"
+    },
+    "subjonctif_imparfait": {
+      "je": "enterrasse",
+      "tu": "enterrasses",
+      "il": "enterrât",
+      "nous": "enterrassions",
+      "vous": "enterrassiez",
+      "ils": "enterrassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse enterré",
+      "tu": "eusses enterré",
+      "il": "eût enterré",
+      "nous": "eussions enterré",
+      "vous": "eussiez enterré",
+      "ils": "eussent enterré"
+    },
+    "conditionnel_présent": {
+      "je": "enterrerais",
+      "tu": "enterrerais",
+      "il": "enterrerait",
+      "nous": "enterrerions",
+      "vous": "enterreriez",
+      "ils": "enterreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais enterré",
+      "tu": "aurais enterré",
+      "il": "aurait enterré",
+      "nous": "aurions enterré",
+      "vous": "auriez enterré",
+      "ils": "auraient enterré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse enterré",
+      "tu": "eusses enterré",
+      "il": "eût enterré",
+      "nous": "eussions enterré",
+      "vous": "eussiez enterré",
+      "ils": "eussent enterré"
+    },
+    "translation": "pochować",
+    "group": 1
+  },
+  {
+    "infinitive": "enthousiasmer",
+    "présent": {
+      "je": "enthousiasme",
+      "tu": "enthousiasmes",
+      "il": "enthousiasme",
+      "nous": "enthousiasmons",
+      "vous": "enthousiasmez",
+      "ils": "enthousiasment"
+    },
+    "passé_composé": {
+      "je": "ai enthousiasmé",
+      "tu": "as enthousiasmé",
+      "il": "a enthousiasmé",
+      "nous": "avons enthousiasmé",
+      "vous": "avez enthousiasmé",
+      "ils": "ont enthousiasmé"
+    },
+    "imparfait": {
+      "je": "enthousiasmais",
+      "tu": "enthousiasmais",
+      "il": "enthousiasmait",
+      "nous": "enthousiasmions",
+      "vous": "enthousiasmiez",
+      "ils": "enthousiasmaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais enthousiasmé",
+      "tu": "avais enthousiasmé",
+      "il": "avait enthousiasmé",
+      "nous": "avions enthousiasmé",
+      "vous": "aviez enthousiasmé",
+      "ils": "avaient enthousiasmé"
+    },
+    "passé_simple": {
+      "je": "enthousiasmai",
+      "tu": "enthousiasmas",
+      "il": "enthousiasma",
+      "nous": "enthousiasmâmes",
+      "vous": "enthousiasmâtes",
+      "ils": "enthousiasmèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus enthousiasmé",
+      "tu": "eus enthousiasmé",
+      "il": "eut enthousiasmé",
+      "nous": "eûmes enthousiasmé",
+      "vous": "eûtes enthousiasmé",
+      "ils": "eurent enthousiasmé"
+    },
+    "futur_simple": {
+      "je": "enthousiasmerai",
+      "tu": "enthousiasmeras",
+      "il": "enthousiasmera",
+      "nous": "enthousiasmerons",
+      "vous": "enthousiasmerez",
+      "ils": "enthousiasmeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai enthousiasmé",
+      "tu": "auras enthousiasmé",
+      "il": "aura enthousiasmé",
+      "nous": "aurons enthousiasmé",
+      "vous": "aurez enthousiasmé",
+      "ils": "auront enthousiasmé"
+    },
+    "subjonctif_présent": {
+      "je": "enthousiasme",
+      "tu": "enthousiasmes",
+      "il": "enthousiasme",
+      "nous": "enthousiasmions",
+      "vous": "enthousiasmiez",
+      "ils": "enthousiasment"
+    },
+    "subjonctif_passé": {
+      "je": "aie enthousiasmé",
+      "tu": "aies enthousiasmé",
+      "il": "ait enthousiasmé",
+      "nous": "ayons enthousiasmé",
+      "vous": "ayez enthousiasmé",
+      "ils": "aient enthousiasmé"
+    },
+    "subjonctif_imparfait": {
+      "je": "enthousiasmasse",
+      "tu": "enthousiasmasses",
+      "il": "enthousiasmât",
+      "nous": "enthousiasmassions",
+      "vous": "enthousiasmassiez",
+      "ils": "enthousiasmassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse enthousiasmé",
+      "tu": "eusses enthousiasmé",
+      "il": "eût enthousiasmé",
+      "nous": "eussions enthousiasmé",
+      "vous": "eussiez enthousiasmé",
+      "ils": "eussent enthousiasmé"
+    },
+    "conditionnel_présent": {
+      "je": "enthousiasmerais",
+      "tu": "enthousiasmerais",
+      "il": "enthousiasmerait",
+      "nous": "enthousiasmerions",
+      "vous": "enthousiasmeriez",
+      "ils": "enthousiasmeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais enthousiasmé",
+      "tu": "aurais enthousiasmé",
+      "il": "aurait enthousiasmé",
+      "nous": "aurions enthousiasmé",
+      "vous": "auriez enthousiasmé",
+      "ils": "auraient enthousiasmé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse enthousiasmé",
+      "tu": "eusses enthousiasmé",
+      "il": "eût enthousiasmé",
+      "nous": "eussions enthousiasmé",
+      "vous": "eussiez enthousiasmé",
+      "ils": "eussent enthousiasmé"
+    },
+    "translation": "wprawiać",
+    "group": 1
+  },
+  {
+    "infinitive": "entourer",
+    "présent": {
+      "je": "entoure",
+      "tu": "entoures",
+      "il": "entoure",
+      "nous": "entourons",
+      "vous": "entourez",
+      "ils": "entourent"
+    },
+    "passé_composé": {
+      "je": "ai entouré",
+      "tu": "as entouré",
+      "il": "a entouré",
+      "nous": "avons entouré",
+      "vous": "avez entouré",
+      "ils": "ont entouré"
+    },
+    "imparfait": {
+      "je": "entourais",
+      "tu": "entourais",
+      "il": "entourait",
+      "nous": "entourions",
+      "vous": "entouriez",
+      "ils": "entouraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais entouré",
+      "tu": "avais entouré",
+      "il": "avait entouré",
+      "nous": "avions entouré",
+      "vous": "aviez entouré",
+      "ils": "avaient entouré"
+    },
+    "passé_simple": {
+      "je": "entourai",
+      "tu": "entouras",
+      "il": "entoura",
+      "nous": "entourâmes",
+      "vous": "entourâtes",
+      "ils": "entourèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus entouré",
+      "tu": "eus entouré",
+      "il": "eut entouré",
+      "nous": "eûmes entouré",
+      "vous": "eûtes entouré",
+      "ils": "eurent entouré"
+    },
+    "futur_simple": {
+      "je": "entourerai",
+      "tu": "entoureras",
+      "il": "entourera",
+      "nous": "entourerons",
+      "vous": "entourerez",
+      "ils": "entoureront"
+    },
+    "futur_antérieur": {
+      "je": "aurai entouré",
+      "tu": "auras entouré",
+      "il": "aura entouré",
+      "nous": "aurons entouré",
+      "vous": "aurez entouré",
+      "ils": "auront entouré"
+    },
+    "subjonctif_présent": {
+      "je": "entoure",
+      "tu": "entoures",
+      "il": "entoure",
+      "nous": "entourions",
+      "vous": "entouriez",
+      "ils": "entourent"
+    },
+    "subjonctif_passé": {
+      "je": "aie entouré",
+      "tu": "aies entouré",
+      "il": "ait entouré",
+      "nous": "ayons entouré",
+      "vous": "ayez entouré",
+      "ils": "aient entouré"
+    },
+    "subjonctif_imparfait": {
+      "je": "entourasse",
+      "tu": "entourasses",
+      "il": "entourât",
+      "nous": "entourassions",
+      "vous": "entourassiez",
+      "ils": "entourassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse entouré",
+      "tu": "eusses entouré",
+      "il": "eût entouré",
+      "nous": "eussions entouré",
+      "vous": "eussiez entouré",
+      "ils": "eussent entouré"
+    },
+    "conditionnel_présent": {
+      "je": "entourerais",
+      "tu": "entourerais",
+      "il": "entourerait",
+      "nous": "entourerions",
+      "vous": "entoureriez",
+      "ils": "entoureraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais entouré",
+      "tu": "aurais entouré",
+      "il": "aurait entouré",
+      "nous": "aurions entouré",
+      "vous": "auriez entouré",
+      "ils": "auraient entouré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse entouré",
+      "tu": "eusses entouré",
+      "il": "eût entouré",
+      "nous": "eussions entouré",
+      "vous": "eussiez entouré",
+      "ils": "eussent entouré"
+    },
+    "translation": "otaczać",
+    "group": 1
+  },
+  {
+    "infinitive": "entraîner",
+    "présent": {
+      "je": "entraîne",
+      "tu": "entraînes",
+      "il": "entraîne",
+      "nous": "entraînons",
+      "vous": "entraînez",
+      "ils": "entraînent"
+    },
+    "passé_composé": {
+      "je": "ai entraîné",
+      "tu": "as entraîné",
+      "il": "a entraîné",
+      "nous": "avons entraîné",
+      "vous": "avez entraîné",
+      "ils": "ont entraîné"
+    },
+    "imparfait": {
+      "je": "entraînais",
+      "tu": "entraînais",
+      "il": "entraînait",
+      "nous": "entraînions",
+      "vous": "entraîniez",
+      "ils": "entraînaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais entraîné",
+      "tu": "avais entraîné",
+      "il": "avait entraîné",
+      "nous": "avions entraîné",
+      "vous": "aviez entraîné",
+      "ils": "avaient entraîné"
+    },
+    "passé_simple": {
+      "je": "entraînai",
+      "tu": "entraînas",
+      "il": "entraîna",
+      "nous": "entraînâmes",
+      "vous": "entraînâtes",
+      "ils": "entraînèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus entraîné",
+      "tu": "eus entraîné",
+      "il": "eut entraîné",
+      "nous": "eûmes entraîné",
+      "vous": "eûtes entraîné",
+      "ils": "eurent entraîné"
+    },
+    "futur_simple": {
+      "je": "entraînerai",
+      "tu": "entraîneras",
+      "il": "entraînera",
+      "nous": "entraînerons",
+      "vous": "entraînerez",
+      "ils": "entraîneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai entraîné",
+      "tu": "auras entraîné",
+      "il": "aura entraîné",
+      "nous": "aurons entraîné",
+      "vous": "aurez entraîné",
+      "ils": "auront entraîné"
+    },
+    "subjonctif_présent": {
+      "je": "entraîne",
+      "tu": "entraînes",
+      "il": "entraîne",
+      "nous": "entraînions",
+      "vous": "entraîniez",
+      "ils": "entraînent"
+    },
+    "subjonctif_passé": {
+      "je": "aie entraîné",
+      "tu": "aies entraîné",
+      "il": "ait entraîné",
+      "nous": "ayons entraîné",
+      "vous": "ayez entraîné",
+      "ils": "aient entraîné"
+    },
+    "subjonctif_imparfait": {
+      "je": "entraînasse",
+      "tu": "entraînasses",
+      "il": "entraînât",
+      "nous": "entraînassions",
+      "vous": "entraînassiez",
+      "ils": "entraînassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse entraîné",
+      "tu": "eusses entraîné",
+      "il": "eût entraîné",
+      "nous": "eussions entraîné",
+      "vous": "eussiez entraîné",
+      "ils": "eussent entraîné"
+    },
+    "conditionnel_présent": {
+      "je": "entraînerais",
+      "tu": "entraînerais",
+      "il": "entraînerait",
+      "nous": "entraînerions",
+      "vous": "entraîneriez",
+      "ils": "entraîneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais entraîné",
+      "tu": "aurais entraîné",
+      "il": "aurait entraîné",
+      "nous": "aurions entraîné",
+      "vous": "auriez entraîné",
+      "ils": "auraient entraîné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse entraîné",
+      "tu": "eusses entraîné",
+      "il": "eût entraîné",
+      "nous": "eussions entraîné",
+      "vous": "eussiez entraîné",
+      "ils": "eussent entraîné"
+    },
+    "translation": "wiatr",
+    "group": 1
+  },
+  {
+    "infinitive": "entre-haïr",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "entre-hait",
+      "nous": "nous entre-haïssons",
+      "vous": "vous entre-haïssez",
+      "ils": "entre-haïssent"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "est entre-haï",
+      "nous": "nous sommes entre-haïs",
+      "vous": "vous êtes entre-haïs",
+      "ils": "se sont entre-haïs"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "entre-haïssait",
+      "nous": "nous entre-haïssions",
+      "vous": "vous entre-haïssiez",
+      "ils": "entre-haïssaient"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "était entre-haï",
+      "nous": "nous étions entre-haïs",
+      "vous": "vous étiez entre-haïs",
+      "ils": "étaient entre-haïs"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "entre-haït",
+      "nous": "nous entre-haïmes",
+      "vous": "vous entre-haïtes",
+      "ils": "entre-haïrent"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "se fut entre-haï",
+      "nous": "nous fûmes entre-haïs",
+      "vous": "vous fûtes entre-haïs",
+      "ils": "se furent entre-haïs"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "entre-haïra",
+      "nous": "nous entre-haïrons",
+      "vous": "vous entre-haïrez",
+      "ils": "entre-haïront"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "se sera entre-haï",
+      "nous": "nous serons entre-haïs",
+      "vous": "vous serez entre-haïs",
+      "ils": "se seront entre-haïs"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "entre-haïsse",
+      "nous": "nous entre-haïssions",
+      "vous": "vous entre-haïssiez",
+      "ils": "entre-haïssent"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "se soit entre-haï",
+      "nous": "nous soyons entre-haïs",
+      "vous": "vous soyez entre-haïs",
+      "ils": "se soient entre-haïs"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "entre-haït",
+      "nous": "nous entre-haïssions",
+      "vous": "vous entre-haïssiez",
+      "ils": "entre-haïssent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "se fût entre-haï",
+      "nous": "nous fussions entre-haïs",
+      "vous": "vous fussiez entre-haïs",
+      "ils": "se fussent entre-haïs"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "entre-haïrait",
+      "nous": "nous entre-haïrions",
+      "vous": "vous entre-haïriez",
+      "ils": "entre-haïraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "se serait entre-haï",
+      "nous": "nous serions entre-haïs",
+      "vous": "vous seriez entre-haïs",
+      "ils": "se seraient entre-haïs"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "se fût entre-haï",
+      "nous": "nous fussions entre-haïs",
+      "vous": "vous fussiez entre-haïs",
+      "ils": "se fussent entre-haïs"
+    },
+    "translation": "ledwo",
+    "group": 2
+  },
+  {
+    "infinitive": "entreprendre",
+    "présent": {
+      "je": "entreprends",
+      "tu": "entreprends",
+      "il": "entreprend",
+      "nous": "entreprenons",
+      "vous": "entreprenez",
+      "ils": "entreprennent"
+    },
+    "passé_composé": {
+      "je": "ai entrepris",
+      "tu": "as entrepris",
+      "il": "a entrepris",
+      "nous": "avons entrepris",
+      "vous": "avez entrepris",
+      "ils": "ont entrepris"
+    },
+    "imparfait": {
+      "je": "entreprenais",
+      "tu": "entreprenais",
+      "il": "entreprenait",
+      "nous": "entreprenions",
+      "vous": "entrepreniez",
+      "ils": "entreprenaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais entrepris",
+      "tu": "avais entrepris",
+      "il": "avait entrepris",
+      "nous": "avions entrepris",
+      "vous": "aviez entrepris",
+      "ils": "avaient entrepris"
+    },
+    "passé_simple": {
+      "je": "entrepris",
+      "tu": "entrepris",
+      "il": "entreprit",
+      "nous": "entreprîmes",
+      "vous": "entreprîtes",
+      "ils": "entreprirent"
+    },
+    "passé_antérieur": {
+      "je": "eus entrepris",
+      "tu": "eus entrepris",
+      "il": "eut entrepris",
+      "nous": "eûmes entrepris",
+      "vous": "eûtes entrepris",
+      "ils": "eurent entrepris"
+    },
+    "futur_simple": {
+      "je": "entreprendrai",
+      "tu": "entreprendras",
+      "il": "entreprendra",
+      "nous": "entreprendrons",
+      "vous": "entreprendrez",
+      "ils": "entreprendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai entrepris",
+      "tu": "auras entrepris",
+      "il": "aura entrepris",
+      "nous": "aurons entrepris",
+      "vous": "aurez entrepris",
+      "ils": "auront entrepris"
+    },
+    "subjonctif_présent": {
+      "je": "entreprenne",
+      "tu": "entreprennes",
+      "il": "entreprenne",
+      "nous": "entreprenions",
+      "vous": "entrepreniez",
+      "ils": "entreprennent"
+    },
+    "subjonctif_passé": {
+      "je": "aie entrepris",
+      "tu": "aies entrepris",
+      "il": "ait entrepris",
+      "nous": "ayons entrepris",
+      "vous": "ayez entrepris",
+      "ils": "aient entrepris"
+    },
+    "subjonctif_imparfait": {
+      "je": "entreprisse",
+      "tu": "entreprisses",
+      "il": "entreprît",
+      "nous": "entreprissions",
+      "vous": "entreprissiez",
+      "ils": "entreprissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse entrepris",
+      "tu": "eusses entrepris",
+      "il": "eût entrepris",
+      "nous": "eussions entrepris",
+      "vous": "eussiez entrepris",
+      "ils": "eussent entrepris"
+    },
+    "conditionnel_présent": {
+      "je": "entreprendrais",
+      "tu": "entreprendrais",
+      "il": "entreprendrait",
+      "nous": "entreprendrions",
+      "vous": "entreprendriez",
+      "ils": "entreprendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais entrepris",
+      "tu": "aurais entrepris",
+      "il": "aurait entrepris",
+      "nous": "aurions entrepris",
+      "vous": "auriez entrepris",
+      "ils": "auraient entrepris"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse entrepris",
+      "tu": "eusses entrepris",
+      "il": "eût entrepris",
+      "nous": "eussions entrepris",
+      "vous": "eussiez entrepris",
+      "ils": "eussent entrepris"
+    },
+    "translation": "przedsiębrać",
+    "group": 3
+  },
+  {
+    "infinitive": "entrer",
+    "présent": {
+      "je": "entre",
+      "tu": "entres",
+      "il": "entre",
+      "nous": "entrons",
+      "vous": "entrez",
+      "ils": "entrent"
+    },
+    "passé_composé": {
+      "je": "suis entré",
+      "tu": "es entré",
+      "il": "est entré",
+      "nous": "sommes entrés",
+      "vous": "êtes entrés",
+      "ils": "sont entrés"
+    },
+    "imparfait": {
+      "je": "entrais",
+      "tu": "entrais",
+      "il": "entrait",
+      "nous": "entrions",
+      "vous": "entriez",
+      "ils": "entraient"
+    },
+    "plus_que_parfait": {
+      "je": "étais entré",
+      "tu": "étais entré",
+      "il": "était entré",
+      "nous": "étions entrés",
+      "vous": "étiez entrés",
+      "ils": "étaient entrés"
+    },
+    "passé_simple": {
+      "je": "entrai",
+      "tu": "entras",
+      "il": "entra",
+      "nous": "entrâmes",
+      "vous": "entrâtes",
+      "ils": "entrèrent"
+    },
+    "passé_antérieur": {
+      "je": "fus entré",
+      "tu": "fus entré",
+      "il": "fut entré",
+      "nous": "fûmes entrés",
+      "vous": "fûtes entrés",
+      "ils": "furent entrés"
+    },
+    "futur_simple": {
+      "je": "entrerai",
+      "tu": "entreras",
+      "il": "entrera",
+      "nous": "entrerons",
+      "vous": "entrerez",
+      "ils": "entreront"
+    },
+    "futur_antérieur": {
+      "je": "serai entré",
+      "tu": "seras entré",
+      "il": "sera entré",
+      "nous": "serons entrés",
+      "vous": "serez entrés",
+      "ils": "seront entrés"
+    },
+    "subjonctif_présent": {
+      "je": "entre",
+      "tu": "entres",
+      "il": "entre",
+      "nous": "entrions",
+      "vous": "entriez",
+      "ils": "entrent"
+    },
+    "subjonctif_passé": {
+      "je": "sois entré",
+      "tu": "sois entré",
+      "il": "soit entré",
+      "nous": "soyons entrés",
+      "vous": "soyez entrés",
+      "ils": "soient entrés"
+    },
+    "subjonctif_imparfait": {
+      "je": "entrasse",
+      "tu": "entrasses",
+      "il": "entrât",
+      "nous": "entrassions",
+      "vous": "entrassiez",
+      "ils": "entrassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "fusse entré",
+      "tu": "fusses entré",
+      "il": "fût entré",
+      "nous": "fussions entrés",
+      "vous": "fussiez entrés",
+      "ils": "fussent entrés"
+    },
+    "conditionnel_présent": {
+      "je": "entrerais",
+      "tu": "entrerais",
+      "il": "entrerait",
+      "nous": "entrerions",
+      "vous": "entreriez",
+      "ils": "entreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "serais entré",
+      "tu": "serais entré",
+      "il": "serait entré",
+      "nous": "serions entrés",
+      "vous": "seriez entrés",
+      "ils": "seraient entrés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "fusse entré",
+      "tu": "fusses entré",
+      "il": "fût entré",
+      "nous": "fussions entrés",
+      "vous": "fussiez entrés",
+      "ils": "fussent entrés"
+    },
+    "translation": "wchodzić",
+    "group": 1
+  },
+  {
+    "infinitive": "entretenir",
+    "présent": {
+      "je": "entretiens",
+      "tu": "entretiens",
+      "il": "entretient",
+      "nous": "entretenons",
+      "vous": "entretenez",
+      "ils": "entretiennent"
+    },
+    "passé_composé": {
+      "je": "ai entretenu",
+      "tu": "as entretenu",
+      "il": "a entretenu",
+      "nous": "avons entretenu",
+      "vous": "avez entretenu",
+      "ils": "ont entretenu"
+    },
+    "imparfait": {
+      "je": "entretenais",
+      "tu": "entretenais",
+      "il": "entretenait",
+      "nous": "entretenions",
+      "vous": "entreteniez",
+      "ils": "entretenaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais entretenu",
+      "tu": "avais entretenu",
+      "il": "avait entretenu",
+      "nous": "avions entretenu",
+      "vous": "aviez entretenu",
+      "ils": "avaient entretenu"
+    },
+    "passé_simple": {
+      "je": "entretins",
+      "tu": "entretins",
+      "il": "entretint",
+      "nous": "entretînmes",
+      "vous": "entretîntes",
+      "ils": "entretinrent"
+    },
+    "passé_antérieur": {
+      "je": "eus entretenu",
+      "tu": "eus entretenu",
+      "il": "eut entretenu",
+      "nous": "eûmes entretenu",
+      "vous": "eûtes entretenu",
+      "ils": "eurent entretenu"
+    },
+    "futur_simple": {
+      "je": "entretiendrai",
+      "tu": "entretiendras",
+      "il": "entretiendra",
+      "nous": "entretiendrons",
+      "vous": "entretiendrez",
+      "ils": "entretiendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai entretenu",
+      "tu": "auras entretenu",
+      "il": "aura entretenu",
+      "nous": "aurons entretenu",
+      "vous": "aurez entretenu",
+      "ils": "auront entretenu"
+    },
+    "subjonctif_présent": {
+      "je": "entretienne",
+      "tu": "entretiennes",
+      "il": "entretienne",
+      "nous": "entretenions",
+      "vous": "entreteniez",
+      "ils": "entretiennent"
+    },
+    "subjonctif_passé": {
+      "je": "aie entretenu",
+      "tu": "aies entretenu",
+      "il": "ait entretenu",
+      "nous": "ayons entretenu",
+      "vous": "ayez entretenu",
+      "ils": "aient entretenu"
+    },
+    "subjonctif_imparfait": {
+      "je": "entretinsse",
+      "tu": "entretinsses",
+      "il": "entretînt",
+      "nous": "entretinssions",
+      "vous": "entretinssiez",
+      "ils": "entretinssent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse entretenu",
+      "tu": "eusses entretenu",
+      "il": "eût entretenu",
+      "nous": "eussions entretenu",
+      "vous": "eussiez entretenu",
+      "ils": "eussent entretenu"
+    },
+    "conditionnel_présent": {
+      "je": "entretiendrais",
+      "tu": "entretiendrais",
+      "il": "entretiendrait",
+      "nous": "entretiendrions",
+      "vous": "entretiendriez",
+      "ils": "entretiendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais entretenu",
+      "tu": "aurais entretenu",
+      "il": "aurait entretenu",
+      "nous": "aurions entretenu",
+      "vous": "auriez entretenu",
+      "ils": "auraient entretenu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse entretenu",
+      "tu": "eusses entretenu",
+      "il": "eût entretenu",
+      "nous": "eussions entretenu",
+      "vous": "eussiez entretenu",
+      "ils": "eussent entretenu"
+    },
+    "translation": "utrzymywać",
+    "group": 3
+  },
+  {
+    "infinitive": "entrevoir",
+    "présent": {
+      "je": "entrevois",
+      "tu": "entrevois",
+      "il": "entrevoit",
+      "nous": "entrevoyons",
+      "vous": "entrevoyez",
+      "ils": "entrevoient"
+    },
+    "passé_composé": {
+      "je": "ai entrevu",
+      "tu": "as entrevu",
+      "il": "a entrevu",
+      "nous": "avons entrevu",
+      "vous": "avez entrevu",
+      "ils": "ont entrevu"
+    },
+    "imparfait": {
+      "je": "entrevoyais",
+      "tu": "entrevoyais",
+      "il": "entrevoyait",
+      "nous": "entrevoyions",
+      "vous": "entrevoyiez",
+      "ils": "entrevoyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais entrevu",
+      "tu": "avais entrevu",
+      "il": "avait entrevu",
+      "nous": "avions entrevu",
+      "vous": "aviez entrevu",
+      "ils": "avaient entrevu"
+    },
+    "passé_simple": {
+      "je": "entrevis",
+      "tu": "entrevis",
+      "il": "entrevit",
+      "nous": "entrevîmes",
+      "vous": "entrevîtes",
+      "ils": "entrevirent"
+    },
+    "passé_antérieur": {
+      "je": "eus entrevu",
+      "tu": "eus entrevu",
+      "il": "eut entrevu",
+      "nous": "eûmes entrevu",
+      "vous": "eûtes entrevu",
+      "ils": "eurent entrevu"
+    },
+    "futur_simple": {
+      "je": "entreverrai",
+      "tu": "entreverras",
+      "il": "entreverra",
+      "nous": "entreverrons",
+      "vous": "entreverrez",
+      "ils": "entreverront"
+    },
+    "futur_antérieur": {
+      "je": "aurai entrevu",
+      "tu": "auras entrevu",
+      "il": "aura entrevu",
+      "nous": "aurons entrevu",
+      "vous": "aurez entrevu",
+      "ils": "auront entrevu"
+    },
+    "subjonctif_présent": {
+      "je": "entrevoie",
+      "tu": "entrevoies",
+      "il": "entrevoie",
+      "nous": "entrevoyions",
+      "vous": "entrevoyiez",
+      "ils": "entrevoient"
+    },
+    "subjonctif_passé": {
+      "je": "aie entrevu",
+      "tu": "aies entrevu",
+      "il": "ait entrevu",
+      "nous": "ayons entrevu",
+      "vous": "ayez entrevu",
+      "ils": "aient entrevu"
+    },
+    "subjonctif_imparfait": {
+      "je": "entrevisse",
+      "tu": "entrevisses",
+      "il": "entrevît",
+      "nous": "entrevissions",
+      "vous": "entrevissiez",
+      "ils": "entrevissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse entrevu",
+      "tu": "eusses entrevu",
+      "il": "eût entrevu",
+      "nous": "eussions entrevu",
+      "vous": "eussiez entrevu",
+      "ils": "eussent entrevu"
+    },
+    "conditionnel_présent": {
+      "je": "entreverrais",
+      "tu": "entreverrais",
+      "il": "entreverrait",
+      "nous": "entreverrions",
+      "vous": "entreverriez",
+      "ils": "entreverraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais entrevu",
+      "tu": "aurais entrevu",
+      "il": "aurait entrevu",
+      "nous": "aurions entrevu",
+      "vous": "auriez entrevu",
+      "ils": "auraient entrevu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse entrevu",
+      "tu": "eusses entrevu",
+      "il": "eût entrevu",
+      "nous": "eussions entrevu",
+      "vous": "eussiez entrevu",
+      "ils": "eussent entrevu"
+    },
+    "translation": "ledwo",
+    "group": 3
+  },
+  {
+    "infinitive": "entrouvrir",
+    "présent": {
+      "je": "entrouvre",
+      "tu": "entrouvres",
+      "il": "entrouvre",
+      "nous": "entrouvrons",
+      "vous": "entrouvrez",
+      "ils": "entrouvrent"
+    },
+    "passé_composé": {
+      "je": "ai entrouvert",
+      "tu": "as entrouvert",
+      "il": "a entrouvert",
+      "nous": "avons entrouvert",
+      "vous": "avez entrouvert",
+      "ils": "ont entrouvert"
+    },
+    "imparfait": {
+      "je": "entrouvrais",
+      "tu": "entrouvrais",
+      "il": "entrouvrait",
+      "nous": "entrouvrions",
+      "vous": "entrouvriez",
+      "ils": "entrouvraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais entrouvert",
+      "tu": "avais entrouvert",
+      "il": "avait entrouvert",
+      "nous": "avions entrouvert",
+      "vous": "aviez entrouvert",
+      "ils": "avaient entrouvert"
+    },
+    "passé_simple": {
+      "je": "entrouvris",
+      "tu": "entrouvris",
+      "il": "entrouvrit",
+      "nous": "entrouvrîmes",
+      "vous": "entrouvrîtes",
+      "ils": "entrouvrirent"
+    },
+    "passé_antérieur": {
+      "je": "eus entrouvert",
+      "tu": "eus entrouvert",
+      "il": "eut entrouvert",
+      "nous": "eûmes entrouvert",
+      "vous": "eûtes entrouvert",
+      "ils": "eurent entrouvert"
+    },
+    "futur_simple": {
+      "je": "entrouvrirai",
+      "tu": "entrouvriras",
+      "il": "entrouvrira",
+      "nous": "entrouvrirons",
+      "vous": "entrouvrirez",
+      "ils": "entrouvriront"
+    },
+    "futur_antérieur": {
+      "je": "aurai entrouvert",
+      "tu": "auras entrouvert",
+      "il": "aura entrouvert",
+      "nous": "aurons entrouvert",
+      "vous": "aurez entrouvert",
+      "ils": "auront entrouvert"
+    },
+    "subjonctif_présent": {
+      "je": "entrouvre",
+      "tu": "entrouvres",
+      "il": "entrouvre",
+      "nous": "entrouvrions",
+      "vous": "entrouvriez",
+      "ils": "entrouvrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie entrouvert",
+      "tu": "aies entrouvert",
+      "il": "ait entrouvert",
+      "nous": "ayons entrouvert",
+      "vous": "ayez entrouvert",
+      "ils": "aient entrouvert"
+    },
+    "subjonctif_imparfait": {
+      "je": "entrouvrisse",
+      "tu": "entrouvrisses",
+      "il": "entrouvrît",
+      "nous": "entrouvrissions",
+      "vous": "entrouvrissiez",
+      "ils": "entrouvrissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse entrouvert",
+      "tu": "eusses entrouvert",
+      "il": "eût entrouvert",
+      "nous": "eussions entrouvert",
+      "vous": "eussiez entrouvert",
+      "ils": "eussent entrouvert"
+    },
+    "conditionnel_présent": {
+      "je": "entrouvrirais",
+      "tu": "entrouvrirais",
+      "il": "entrouvrirait",
+      "nous": "entrouvririons",
+      "vous": "entrouvririez",
+      "ils": "entrouvriraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais entrouvert",
+      "tu": "aurais entrouvert",
+      "il": "aurait entrouvert",
+      "nous": "aurions entrouvert",
+      "vous": "auriez entrouvert",
+      "ils": "auraient entrouvert"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse entrouvert",
+      "tu": "eusses entrouvert",
+      "il": "eût entrouvert",
+      "nous": "eussions entrouvert",
+      "vous": "eussiez entrouvert",
+      "ils": "eussent entrouvert"
+    },
+    "translation": "uchylać",
+    "group": 3
+  }
+]

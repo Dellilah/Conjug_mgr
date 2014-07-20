@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "commander",
+    "présent": {
+      "je": "commande",
+      "tu": "commandes",
+      "il": "commande",
+      "nous": "commandons",
+      "vous": "commandez",
+      "ils": "commandent"
+    },
+    "passé_composé": {
+      "je": "ai commandé",
+      "tu": "as commandé",
+      "il": "a commandé",
+      "nous": "avons commandé",
+      "vous": "avez commandé",
+      "ils": "ont commandé"
+    },
+    "imparfait": {
+      "je": "commandais",
+      "tu": "commandais",
+      "il": "commandait",
+      "nous": "commandions",
+      "vous": "commandiez",
+      "ils": "commandaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais commandé",
+      "tu": "avais commandé",
+      "il": "avait commandé",
+      "nous": "avions commandé",
+      "vous": "aviez commandé",
+      "ils": "avaient commandé"
+    },
+    "passé_simple": {
+      "je": "commandai",
+      "tu": "commandas",
+      "il": "commanda",
+      "nous": "commandâmes",
+      "vous": "commandâtes",
+      "ils": "commandèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus commandé",
+      "tu": "eus commandé",
+      "il": "eut commandé",
+      "nous": "eûmes commandé",
+      "vous": "eûtes commandé",
+      "ils": "eurent commandé"
+    },
+    "futur_simple": {
+      "je": "commanderai",
+      "tu": "commanderas",
+      "il": "commandera",
+      "nous": "commanderons",
+      "vous": "commanderez",
+      "ils": "commanderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai commandé",
+      "tu": "auras commandé",
+      "il": "aura commandé",
+      "nous": "aurons commandé",
+      "vous": "aurez commandé",
+      "ils": "auront commandé"
+    },
+    "subjonctif_présent": {
+      "je": "commande",
+      "tu": "commandes",
+      "il": "commande",
+      "nous": "commandions",
+      "vous": "commandiez",
+      "ils": "commandent"
+    },
+    "subjonctif_passé": {
+      "je": "aie commandé",
+      "tu": "aies commandé",
+      "il": "ait commandé",
+      "nous": "ayons commandé",
+      "vous": "ayez commandé",
+      "ils": "aient commandé"
+    },
+    "subjonctif_imparfait": {
+      "je": "commandasse",
+      "tu": "commandasses",
+      "il": "commandât",
+      "nous": "commandassions",
+      "vous": "commandassiez",
+      "ils": "commandassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse commandé",
+      "tu": "eusses commandé",
+      "il": "eût commandé",
+      "nous": "eussions commandé",
+      "vous": "eussiez commandé",
+      "ils": "eussent commandé"
+    },
+    "conditionnel_présent": {
+      "je": "commanderais",
+      "tu": "commanderais",
+      "il": "commanderait",
+      "nous": "commanderions",
+      "vous": "commanderiez",
+      "ils": "commanderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais commandé",
+      "tu": "aurais commandé",
+      "il": "aurait commandé",
+      "nous": "aurions commandé",
+      "vous": "auriez commandé",
+      "ils": "auraient commandé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse commandé",
+      "tu": "eusses commandé",
+      "il": "eût commandé",
+      "nous": "eussions commandé",
+      "vous": "eussiez commandé",
+      "ils": "eussent commandé"
+    },
+    "translation": "składać",
+    "group": 1
+  },
+  {
+    "infinitive": "commencer",
+    "présent": {
+      "je": "commence",
+      "tu": "commences",
+      "il": "commence",
+      "nous": "commençons",
+      "vous": "commencez",
+      "ils": "commencent"
+    },
+    "passé_composé": {
+      "je": "ai commencé",
+      "tu": "as commencé",
+      "il": "a commencé",
+      "nous": "avons commencé",
+      "vous": "avez commencé",
+      "ils": "ont commencé"
+    },
+    "imparfait": {
+      "je": "commençais",
+      "tu": "commençais",
+      "il": "commençait",
+      "nous": "commencions",
+      "vous": "commenciez",
+      "ils": "commençaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais commencé",
+      "tu": "avais commencé",
+      "il": "avait commencé",
+      "nous": "avions commencé",
+      "vous": "aviez commencé",
+      "ils": "avaient commencé"
+    },
+    "passé_simple": {
+      "je": "commençai",
+      "tu": "commenças",
+      "il": "commença",
+      "nous": "commençâmes",
+      "vous": "commençâtes",
+      "ils": "commencèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus commencé",
+      "tu": "eus commencé",
+      "il": "eut commencé",
+      "nous": "eûmes commencé",
+      "vous": "eûtes commencé",
+      "ils": "eurent commencé"
+    },
+    "futur_simple": {
+      "je": "commencerai",
+      "tu": "commenceras",
+      "il": "commencera",
+      "nous": "commencerons",
+      "vous": "commencerez",
+      "ils": "commenceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai commencé",
+      "tu": "auras commencé",
+      "il": "aura commencé",
+      "nous": "aurons commencé",
+      "vous": "aurez commencé",
+      "ils": "auront commencé"
+    },
+    "subjonctif_présent": {
+      "je": "commence",
+      "tu": "commences",
+      "il": "commence",
+      "nous": "commencions",
+      "vous": "commenciez",
+      "ils": "commencent"
+    },
+    "subjonctif_passé": {
+      "je": "aie commencé",
+      "tu": "aies commencé",
+      "il": "ait commencé",
+      "nous": "ayons commencé",
+      "vous": "ayez commencé",
+      "ils": "aient commencé"
+    },
+    "subjonctif_imparfait": {
+      "je": "commençasse",
+      "tu": "commençasses",
+      "il": "commençât",
+      "nous": "commençassions",
+      "vous": "commençassiez",
+      "ils": "commençassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse commencé",
+      "tu": "eusses commencé",
+      "il": "eût commencé",
+      "nous": "eussions commencé",
+      "vous": "eussiez commencé",
+      "ils": "eussent commencé"
+    },
+    "conditionnel_présent": {
+      "je": "commencerais",
+      "tu": "commencerais",
+      "il": "commencerait",
+      "nous": "commencerions",
+      "vous": "commenceriez",
+      "ils": "commenceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais commencé",
+      "tu": "aurais commencé",
+      "il": "aurait commencé",
+      "nous": "aurions commencé",
+      "vous": "auriez commencé",
+      "ils": "auraient commencé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse commencé",
+      "tu": "eusses commencé",
+      "il": "eût commencé",
+      "nous": "eussions commencé",
+      "vous": "eussiez commencé",
+      "ils": "eussent commencé"
+    },
+    "translation": "rozpoczynać",
+    "group": 1
+  },
+  {
+    "infinitive": "commenter",
+    "présent": {
+      "je": "commente",
+      "tu": "commentes",
+      "il": "commente",
+      "nous": "commentons",
+      "vous": "commentez",
+      "ils": "commentent"
+    },
+    "passé_composé": {
+      "je": "ai commenté",
+      "tu": "as commenté",
+      "il": "a commenté",
+      "nous": "avons commenté",
+      "vous": "avez commenté",
+      "ils": "ont commenté"
+    },
+    "imparfait": {
+      "je": "commentais",
+      "tu": "commentais",
+      "il": "commentait",
+      "nous": "commentions",
+      "vous": "commentiez",
+      "ils": "commentaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais commenté",
+      "tu": "avais commenté",
+      "il": "avait commenté",
+      "nous": "avions commenté",
+      "vous": "aviez commenté",
+      "ils": "avaient commenté"
+    },
+    "passé_simple": {
+      "je": "commentai",
+      "tu": "commentas",
+      "il": "commenta",
+      "nous": "commentâmes",
+      "vous": "commentâtes",
+      "ils": "commentèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus commenté",
+      "tu": "eus commenté",
+      "il": "eut commenté",
+      "nous": "eûmes commenté",
+      "vous": "eûtes commenté",
+      "ils": "eurent commenté"
+    },
+    "futur_simple": {
+      "je": "commenterai",
+      "tu": "commenteras",
+      "il": "commentera",
+      "nous": "commenterons",
+      "vous": "commenterez",
+      "ils": "commenteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai commenté",
+      "tu": "auras commenté",
+      "il": "aura commenté",
+      "nous": "aurons commenté",
+      "vous": "aurez commenté",
+      "ils": "auront commenté"
+    },
+    "subjonctif_présent": {
+      "je": "commente",
+      "tu": "commentes",
+      "il": "commente",
+      "nous": "commentions",
+      "vous": "commentiez",
+      "ils": "commentent"
+    },
+    "subjonctif_passé": {
+      "je": "aie commenté",
+      "tu": "aies commenté",
+      "il": "ait commenté",
+      "nous": "ayons commenté",
+      "vous": "ayez commenté",
+      "ils": "aient commenté"
+    },
+    "subjonctif_imparfait": {
+      "je": "commentasse",
+      "tu": "commentasses",
+      "il": "commentât",
+      "nous": "commentassions",
+      "vous": "commentassiez",
+      "ils": "commentassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse commenté",
+      "tu": "eusses commenté",
+      "il": "eût commenté",
+      "nous": "eussions commenté",
+      "vous": "eussiez commenté",
+      "ils": "eussent commenté"
+    },
+    "conditionnel_présent": {
+      "je": "commenterais",
+      "tu": "commenterais",
+      "il": "commenterait",
+      "nous": "commenterions",
+      "vous": "commenteriez",
+      "ils": "commenteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais commenté",
+      "tu": "aurais commenté",
+      "il": "aurait commenté",
+      "nous": "aurions commenté",
+      "vous": "auriez commenté",
+      "ils": "auraient commenté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse commenté",
+      "tu": "eusses commenté",
+      "il": "eût commenté",
+      "nous": "eussions commenté",
+      "vous": "eussiez commenté",
+      "ils": "eussent commenté"
+    },
+    "translation": "komentować",
+    "group": 1
+  },
+  {
+    "infinitive": "commercer",
+    "présent": {
+      "je": "commerce",
+      "tu": "commerces",
+      "il": "commerce",
+      "nous": "commerçons",
+      "vous": "commercez",
+      "ils": "commercent"
+    },
+    "passé_composé": {
+      "je": "ai commercé",
+      "tu": "as commercé",
+      "il": "a commercé",
+      "nous": "avons commercé",
+      "vous": "avez commercé",
+      "ils": "ont commercé"
+    },
+    "imparfait": {
+      "je": "commerçais",
+      "tu": "commerçais",
+      "il": "commerçait",
+      "nous": "commercions",
+      "vous": "commerciez",
+      "ils": "commerçaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais commercé",
+      "tu": "avais commercé",
+      "il": "avait commercé",
+      "nous": "avions commercé",
+      "vous": "aviez commercé",
+      "ils": "avaient commercé"
+    },
+    "passé_simple": {
+      "je": "commerçai",
+      "tu": "commerças",
+      "il": "commerça",
+      "nous": "commerçâmes",
+      "vous": "commerçâtes",
+      "ils": "commercèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus commercé",
+      "tu": "eus commercé",
+      "il": "eut commercé",
+      "nous": "eûmes commercé",
+      "vous": "eûtes commercé",
+      "ils": "eurent commercé"
+    },
+    "futur_simple": {
+      "je": "commercerai",
+      "tu": "commerceras",
+      "il": "commercera",
+      "nous": "commercerons",
+      "vous": "commercerez",
+      "ils": "commerceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai commercé",
+      "tu": "auras commercé",
+      "il": "aura commercé",
+      "nous": "aurons commercé",
+      "vous": "aurez commercé",
+      "ils": "auront commercé"
+    },
+    "subjonctif_présent": {
+      "je": "commerce",
+      "tu": "commerces",
+      "il": "commerce",
+      "nous": "commercions",
+      "vous": "commerciez",
+      "ils": "commercent"
+    },
+    "subjonctif_passé": {
+      "je": "aie commercé",
+      "tu": "aies commercé",
+      "il": "ait commercé",
+      "nous": "ayons commercé",
+      "vous": "ayez commercé",
+      "ils": "aient commercé"
+    },
+    "subjonctif_imparfait": {
+      "je": "commerçasse",
+      "tu": "commerçasses",
+      "il": "commerçât",
+      "nous": "commerçassions",
+      "vous": "commerçassiez",
+      "ils": "commerçassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse commercé",
+      "tu": "eusses commercé",
+      "il": "eût commercé",
+      "nous": "eussions commercé",
+      "vous": "eussiez commercé",
+      "ils": "eussent commercé"
+    },
+    "conditionnel_présent": {
+      "je": "commercerais",
+      "tu": "commercerais",
+      "il": "commercerait",
+      "nous": "commercerions",
+      "vous": "commerceriez",
+      "ils": "commerceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais commercé",
+      "tu": "aurais commercé",
+      "il": "aurait commercé",
+      "nous": "aurions commercé",
+      "vous": "auriez commercé",
+      "ils": "auraient commercé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse commercé",
+      "tu": "eusses commercé",
+      "il": "eût commercé",
+      "nous": "eussions commercé",
+      "vous": "eussiez commercé",
+      "ils": "eussent commercé"
+    },
+    "translation": "handel",
+    "group": 1
+  },
+  {
+    "infinitive": "commettre",
+    "présent": {
+      "je": "commets",
+      "tu": "commets",
+      "il": "commet",
+      "nous": "commettons",
+      "vous": "commettez",
+      "ils": "commettent"
+    },
+    "passé_composé": {
+      "je": "ai commis",
+      "tu": "as commis",
+      "il": "a commis",
+      "nous": "avons commis",
+      "vous": "avez commis",
+      "ils": "ont commis"
+    },
+    "imparfait": {
+      "je": "commettais",
+      "tu": "commettais",
+      "il": "commettait",
+      "nous": "commettions",
+      "vous": "commettiez",
+      "ils": "commettaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais commis",
+      "tu": "avais commis",
+      "il": "avait commis",
+      "nous": "avions commis",
+      "vous": "aviez commis",
+      "ils": "avaient commis"
+    },
+    "passé_simple": {
+      "je": "commis",
+      "tu": "commis",
+      "il": "commit",
+      "nous": "commîmes",
+      "vous": "commîtes",
+      "ils": "commirent"
+    },
+    "passé_antérieur": {
+      "je": "eus commis",
+      "tu": "eus commis",
+      "il": "eut commis",
+      "nous": "eûmes commis",
+      "vous": "eûtes commis",
+      "ils": "eurent commis"
+    },
+    "futur_simple": {
+      "je": "commettrai",
+      "tu": "commettras",
+      "il": "commettra",
+      "nous": "commettrons",
+      "vous": "commettrez",
+      "ils": "commettront"
+    },
+    "futur_antérieur": {
+      "je": "aurai commis",
+      "tu": "auras commis",
+      "il": "aura commis",
+      "nous": "aurons commis",
+      "vous": "aurez commis",
+      "ils": "auront commis"
+    },
+    "subjonctif_présent": {
+      "je": "commette",
+      "tu": "commettes",
+      "il": "commette",
+      "nous": "commettions",
+      "vous": "commettiez",
+      "ils": "commettent"
+    },
+    "subjonctif_passé": {
+      "je": "aie commis",
+      "tu": "aies commis",
+      "il": "ait commis",
+      "nous": "ayons commis",
+      "vous": "ayez commis",
+      "ils": "aient commis"
+    },
+    "subjonctif_imparfait": {
+      "je": "commisse",
+      "tu": "commisses",
+      "il": "commît",
+      "nous": "commissions",
+      "vous": "commissiez",
+      "ils": "commissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse commis",
+      "tu": "eusses commis",
+      "il": "eût commis",
+      "nous": "eussions commis",
+      "vous": "eussiez commis",
+      "ils": "eussent commis"
+    },
+    "conditionnel_présent": {
+      "je": "commettrais",
+      "tu": "commettrais",
+      "il": "commettrait",
+      "nous": "commettrions",
+      "vous": "commettriez",
+      "ils": "commettraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais commis",
+      "tu": "aurais commis",
+      "il": "aurait commis",
+      "nous": "aurions commis",
+      "vous": "auriez commis",
+      "ils": "auraient commis"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse commis",
+      "tu": "eusses commis",
+      "il": "eût commis",
+      "nous": "eussions commis",
+      "vous": "eussiez commis",
+      "ils": "eussent commis"
+    },
+    "translation": "popełniać",
+    "group": 3
+  },
+  {
+    "infinitive": "communiquer",
+    "présent": {
+      "je": "communique",
+      "tu": "communiques",
+      "il": "communique",
+      "nous": "communiquons",
+      "vous": "communiquez",
+      "ils": "communiquent"
+    },
+    "passé_composé": {
+      "je": "ai communiqué",
+      "tu": "as communiqué",
+      "il": "a communiqué",
+      "nous": "avons communiqué",
+      "vous": "avez communiqué",
+      "ils": "ont communiqué"
+    },
+    "imparfait": {
+      "je": "communiquais",
+      "tu": "communiquais",
+      "il": "communiquait",
+      "nous": "communiquions",
+      "vous": "communiquiez",
+      "ils": "communiquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais communiqué",
+      "tu": "avais communiqué",
+      "il": "avait communiqué",
+      "nous": "avions communiqué",
+      "vous": "aviez communiqué",
+      "ils": "avaient communiqué"
+    },
+    "passé_simple": {
+      "je": "communiquai",
+      "tu": "communiquas",
+      "il": "communiqua",
+      "nous": "communiquâmes",
+      "vous": "communiquâtes",
+      "ils": "communiquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus communiqué",
+      "tu": "eus communiqué",
+      "il": "eut communiqué",
+      "nous": "eûmes communiqué",
+      "vous": "eûtes communiqué",
+      "ils": "eurent communiqué"
+    },
+    "futur_simple": {
+      "je": "communiquerai",
+      "tu": "communiqueras",
+      "il": "communiquera",
+      "nous": "communiquerons",
+      "vous": "communiquerez",
+      "ils": "communiqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai communiqué",
+      "tu": "auras communiqué",
+      "il": "aura communiqué",
+      "nous": "aurons communiqué",
+      "vous": "aurez communiqué",
+      "ils": "auront communiqué"
+    },
+    "subjonctif_présent": {
+      "je": "communique",
+      "tu": "communiques",
+      "il": "communique",
+      "nous": "communiquions",
+      "vous": "communiquiez",
+      "ils": "communiquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie communiqué",
+      "tu": "aies communiqué",
+      "il": "ait communiqué",
+      "nous": "ayons communiqué",
+      "vous": "ayez communiqué",
+      "ils": "aient communiqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "communiquasse",
+      "tu": "communiquasses",
+      "il": "communiquât",
+      "nous": "communiquassions",
+      "vous": "communiquassiez",
+      "ils": "communiquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse communiqué",
+      "tu": "eusses communiqué",
+      "il": "eût communiqué",
+      "nous": "eussions communiqué",
+      "vous": "eussiez communiqué",
+      "ils": "eussent communiqué"
+    },
+    "conditionnel_présent": {
+      "je": "communiquerais",
+      "tu": "communiquerais",
+      "il": "communiquerait",
+      "nous": "communiquerions",
+      "vous": "communiqueriez",
+      "ils": "communiqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais communiqué",
+      "tu": "aurais communiqué",
+      "il": "aurait communiqué",
+      "nous": "aurions communiqué",
+      "vous": "auriez communiqué",
+      "ils": "auraient communiqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse communiqué",
+      "tu": "eusses communiqué",
+      "il": "eût communiqué",
+      "nous": "eussions communiqué",
+      "vous": "eussiez communiqué",
+      "ils": "eussent communiqué"
+    },
+    "translation": "powierzać",
+    "group": 1
+  },
+  {
+    "infinitive": "comparaître",
+    "présent": {
+      "je": "comparais",
+      "tu": "comparais",
+      "il": "comparaît",
+      "nous": "comparaissons",
+      "vous": "comparaissez",
+      "ils": "comparaissent"
+    },
+    "passé_composé": {
+      "je": "ai comparu",
+      "tu": "as comparu",
+      "il": "a comparu",
+      "nous": "avons comparu",
+      "vous": "avez comparu",
+      "ils": "ont comparu"
+    },
+    "imparfait": {
+      "je": "comparaissais",
+      "tu": "comparaissais",
+      "il": "comparaissait",
+      "nous": "comparaissions",
+      "vous": "comparaissiez",
+      "ils": "comparaissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais comparu",
+      "tu": "avais comparu",
+      "il": "avait comparu",
+      "nous": "avions comparu",
+      "vous": "aviez comparu",
+      "ils": "avaient comparu"
+    },
+    "passé_simple": {
+      "je": "comparus",
+      "tu": "comparus",
+      "il": "comparut",
+      "nous": "comparûmes",
+      "vous": "comparûtes",
+      "ils": "comparurent"
+    },
+    "passé_antérieur": {
+      "je": "eus comparu",
+      "tu": "eus comparu",
+      "il": "eut comparu",
+      "nous": "eûmes comparu",
+      "vous": "eûtes comparu",
+      "ils": "eurent comparu"
+    },
+    "futur_simple": {
+      "je": "comparaîtrai",
+      "tu": "comparaîtras",
+      "il": "comparaîtra",
+      "nous": "comparaîtrons",
+      "vous": "comparaîtrez",
+      "ils": "comparaîtront"
+    },
+    "futur_antérieur": {
+      "je": "aurai comparu",
+      "tu": "auras comparu",
+      "il": "aura comparu",
+      "nous": "aurons comparu",
+      "vous": "aurez comparu",
+      "ils": "auront comparu"
+    },
+    "subjonctif_présent": {
+      "je": "comparaisse",
+      "tu": "comparaisses",
+      "il": "comparaisse",
+      "nous": "comparaissions",
+      "vous": "comparaissiez",
+      "ils": "comparaissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie comparu",
+      "tu": "aies comparu",
+      "il": "ait comparu",
+      "nous": "ayons comparu",
+      "vous": "ayez comparu",
+      "ils": "aient comparu"
+    },
+    "subjonctif_imparfait": {
+      "je": "comparusse",
+      "tu": "comparusses",
+      "il": "comparût",
+      "nous": "comparussions",
+      "vous": "comparussiez",
+      "ils": "comparussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse comparu",
+      "tu": "eusses comparu",
+      "il": "eût comparu",
+      "nous": "eussions comparu",
+      "vous": "eussiez comparu",
+      "ils": "eussent comparu"
+    },
+    "conditionnel_présent": {
+      "je": "comparaîtrais",
+      "tu": "comparaîtrais",
+      "il": "comparaîtrait",
+      "nous": "comparaîtrions",
+      "vous": "comparaîtriez",
+      "ils": "comparaîtraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais comparu",
+      "tu": "aurais comparu",
+      "il": "aurait comparu",
+      "nous": "aurions comparu",
+      "vous": "auriez comparu",
+      "ils": "auraient comparu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse comparu",
+      "tu": "eusses comparu",
+      "il": "eût comparu",
+      "nous": "eussions comparu",
+      "vous": "eussiez comparu",
+      "ils": "eussent comparu"
+    },
+    "translation": "stawić",
+    "group": 3
+  },
+  {
+    "infinitive": "comparer",
+    "présent": {
+      "je": "compare",
+      "tu": "compares",
+      "il": "compare",
+      "nous": "comparons",
+      "vous": "comparez",
+      "ils": "comparent"
+    },
+    "passé_composé": {
+      "je": "ai comparé",
+      "tu": "as comparé",
+      "il": "a comparé",
+      "nous": "avons comparé",
+      "vous": "avez comparé",
+      "ils": "ont comparé"
+    },
+    "imparfait": {
+      "je": "comparais",
+      "tu": "comparais",
+      "il": "comparait",
+      "nous": "comparions",
+      "vous": "compariez",
+      "ils": "comparaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais comparé",
+      "tu": "avais comparé",
+      "il": "avait comparé",
+      "nous": "avions comparé",
+      "vous": "aviez comparé",
+      "ils": "avaient comparé"
+    },
+    "passé_simple": {
+      "je": "comparai",
+      "tu": "comparas",
+      "il": "compara",
+      "nous": "comparâmes",
+      "vous": "comparâtes",
+      "ils": "comparèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus comparé",
+      "tu": "eus comparé",
+      "il": "eut comparé",
+      "nous": "eûmes comparé",
+      "vous": "eûtes comparé",
+      "ils": "eurent comparé"
+    },
+    "futur_simple": {
+      "je": "comparerai",
+      "tu": "compareras",
+      "il": "comparera",
+      "nous": "comparerons",
+      "vous": "comparerez",
+      "ils": "compareront"
+    },
+    "futur_antérieur": {
+      "je": "aurai comparé",
+      "tu": "auras comparé",
+      "il": "aura comparé",
+      "nous": "aurons comparé",
+      "vous": "aurez comparé",
+      "ils": "auront comparé"
+    },
+    "subjonctif_présent": {
+      "je": "compare",
+      "tu": "compares",
+      "il": "compare",
+      "nous": "comparions",
+      "vous": "compariez",
+      "ils": "comparent"
+    },
+    "subjonctif_passé": {
+      "je": "aie comparé",
+      "tu": "aies comparé",
+      "il": "ait comparé",
+      "nous": "ayons comparé",
+      "vous": "ayez comparé",
+      "ils": "aient comparé"
+    },
+    "subjonctif_imparfait": {
+      "je": "comparasse",
+      "tu": "comparasses",
+      "il": "comparât",
+      "nous": "comparassions",
+      "vous": "comparassiez",
+      "ils": "comparassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse comparé",
+      "tu": "eusses comparé",
+      "il": "eût comparé",
+      "nous": "eussions comparé",
+      "vous": "eussiez comparé",
+      "ils": "eussent comparé"
+    },
+    "conditionnel_présent": {
+      "je": "comparerais",
+      "tu": "comparerais",
+      "il": "comparerait",
+      "nous": "comparerions",
+      "vous": "compareriez",
+      "ils": "compareraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais comparé",
+      "tu": "aurais comparé",
+      "il": "aurait comparé",
+      "nous": "aurions comparé",
+      "vous": "auriez comparé",
+      "ils": "auraient comparé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse comparé",
+      "tu": "eusses comparé",
+      "il": "eût comparé",
+      "nous": "eussions comparé",
+      "vous": "eussiez comparé",
+      "ils": "eussent comparé"
+    },
+    "translation": "porównywać",
+    "group": 1
+  },
+  {
+    "infinitive": "compatir",
+    "présent": {
+      "je": "compatis",
+      "tu": "compatis",
+      "il": "compatit",
+      "nous": "compatissons",
+      "vous": "compatissez",
+      "ils": "compatissent"
+    },
+    "passé_composé": {
+      "je": "ai compati",
+      "tu": "as compati",
+      "il": "a compati",
+      "nous": "avons compati",
+      "vous": "avez compati",
+      "ils": "ont compati"
+    },
+    "imparfait": {
+      "je": "compatissais",
+      "tu": "compatissais",
+      "il": "compatissait",
+      "nous": "compatissions",
+      "vous": "compatissiez",
+      "ils": "compatissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais compati",
+      "tu": "avais compati",
+      "il": "avait compati",
+      "nous": "avions compati",
+      "vous": "aviez compati",
+      "ils": "avaient compati"
+    },
+    "passé_simple": {
+      "je": "compatis",
+      "tu": "compatis",
+      "il": "compatit",
+      "nous": "compatîmes",
+      "vous": "compatîtes",
+      "ils": "compatirent"
+    },
+    "passé_antérieur": {
+      "je": "eus compati",
+      "tu": "eus compati",
+      "il": "eut compati",
+      "nous": "eûmes compati",
+      "vous": "eûtes compati",
+      "ils": "eurent compati"
+    },
+    "futur_simple": {
+      "je": "compatirai",
+      "tu": "compatiras",
+      "il": "compatira",
+      "nous": "compatirons",
+      "vous": "compatirez",
+      "ils": "compatiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai compati",
+      "tu": "auras compati",
+      "il": "aura compati",
+      "nous": "aurons compati",
+      "vous": "aurez compati",
+      "ils": "auront compati"
+    },
+    "subjonctif_présent": {
+      "je": "compatisse",
+      "tu": "compatisses",
+      "il": "compatisse",
+      "nous": "compatissions",
+      "vous": "compatissiez",
+      "ils": "compatissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie compati",
+      "tu": "aies compati",
+      "il": "ait compati",
+      "nous": "ayons compati",
+      "vous": "ayez compati",
+      "ils": "aient compati"
+    },
+    "subjonctif_imparfait": {
+      "je": "compatisse",
+      "tu": "compatisses",
+      "il": "compatît",
+      "nous": "compatissions",
+      "vous": "compatissiez",
+      "ils": "compatissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse compati",
+      "tu": "eusses compati",
+      "il": "eût compati",
+      "nous": "eussions compati",
+      "vous": "eussiez compati",
+      "ils": "eussent compati"
+    },
+    "conditionnel_présent": {
+      "je": "compatirais",
+      "tu": "compatirais",
+      "il": "compatirait",
+      "nous": "compatirions",
+      "vous": "compatiriez",
+      "ils": "compatiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais compati",
+      "tu": "aurais compati",
+      "il": "aurait compati",
+      "nous": "aurions compati",
+      "vous": "auriez compati",
+      "ils": "auraient compati"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse compati",
+      "tu": "eusses compati",
+      "il": "eût compati",
+      "nous": "eussions compati",
+      "vous": "eussiez compati",
+      "ils": "eussent compati"
+    },
+    "translation": "współczuć",
+    "group": 2
+  },
+  {
+    "infinitive": "compenser",
+    "présent": {
+      "je": "compense",
+      "tu": "compenses",
+      "il": "compense",
+      "nous": "compensons",
+      "vous": "compensez",
+      "ils": "compensent"
+    },
+    "passé_composé": {
+      "je": "ai compensé",
+      "tu": "as compensé",
+      "il": "a compensé",
+      "nous": "avons compensé",
+      "vous": "avez compensé",
+      "ils": "ont compensé"
+    },
+    "imparfait": {
+      "je": "compensais",
+      "tu": "compensais",
+      "il": "compensait",
+      "nous": "compensions",
+      "vous": "compensiez",
+      "ils": "compensaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais compensé",
+      "tu": "avais compensé",
+      "il": "avait compensé",
+      "nous": "avions compensé",
+      "vous": "aviez compensé",
+      "ils": "avaient compensé"
+    },
+    "passé_simple": {
+      "je": "compensai",
+      "tu": "compensas",
+      "il": "compensa",
+      "nous": "compensâmes",
+      "vous": "compensâtes",
+      "ils": "compensèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus compensé",
+      "tu": "eus compensé",
+      "il": "eut compensé",
+      "nous": "eûmes compensé",
+      "vous": "eûtes compensé",
+      "ils": "eurent compensé"
+    },
+    "futur_simple": {
+      "je": "compenserai",
+      "tu": "compenseras",
+      "il": "compensera",
+      "nous": "compenserons",
+      "vous": "compenserez",
+      "ils": "compenseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai compensé",
+      "tu": "auras compensé",
+      "il": "aura compensé",
+      "nous": "aurons compensé",
+      "vous": "aurez compensé",
+      "ils": "auront compensé"
+    },
+    "subjonctif_présent": {
+      "je": "compense",
+      "tu": "compenses",
+      "il": "compense",
+      "nous": "compensions",
+      "vous": "compensiez",
+      "ils": "compensent"
+    },
+    "subjonctif_passé": {
+      "je": "aie compensé",
+      "tu": "aies compensé",
+      "il": "ait compensé",
+      "nous": "ayons compensé",
+      "vous": "ayez compensé",
+      "ils": "aient compensé"
+    },
+    "subjonctif_imparfait": {
+      "je": "compensasse",
+      "tu": "compensasses",
+      "il": "compensât",
+      "nous": "compensassions",
+      "vous": "compensassiez",
+      "ils": "compensassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse compensé",
+      "tu": "eusses compensé",
+      "il": "eût compensé",
+      "nous": "eussions compensé",
+      "vous": "eussiez compensé",
+      "ils": "eussent compensé"
+    },
+    "conditionnel_présent": {
+      "je": "compenserais",
+      "tu": "compenserais",
+      "il": "compenserait",
+      "nous": "compenserions",
+      "vous": "compenseriez",
+      "ils": "compenseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais compensé",
+      "tu": "aurais compensé",
+      "il": "aurait compensé",
+      "nous": "aurions compensé",
+      "vous": "auriez compensé",
+      "ils": "auraient compensé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse compensé",
+      "tu": "eusses compensé",
+      "il": "eût compensé",
+      "nous": "eussions compensé",
+      "vous": "eussiez compensé",
+      "ils": "eussent compensé"
+    },
+    "translation": "wynagradzać",
+    "group": 1
+  }
+]

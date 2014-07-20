@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "inciter",
+    "présent": {
+      "je": "incite",
+      "tu": "incites",
+      "il": "incite",
+      "nous": "incitons",
+      "vous": "incitez",
+      "ils": "incitent"
+    },
+    "passé_composé": {
+      "je": "ai incité",
+      "tu": "as incité",
+      "il": "a incité",
+      "nous": "avons incité",
+      "vous": "avez incité",
+      "ils": "ont incité"
+    },
+    "imparfait": {
+      "je": "incitais",
+      "tu": "incitais",
+      "il": "incitait",
+      "nous": "incitions",
+      "vous": "incitiez",
+      "ils": "incitaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais incité",
+      "tu": "avais incité",
+      "il": "avait incité",
+      "nous": "avions incité",
+      "vous": "aviez incité",
+      "ils": "avaient incité"
+    },
+    "passé_simple": {
+      "je": "incitai",
+      "tu": "incitas",
+      "il": "incita",
+      "nous": "incitâmes",
+      "vous": "incitâtes",
+      "ils": "incitèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus incité",
+      "tu": "eus incité",
+      "il": "eut incité",
+      "nous": "eûmes incité",
+      "vous": "eûtes incité",
+      "ils": "eurent incité"
+    },
+    "futur_simple": {
+      "je": "inciterai",
+      "tu": "inciteras",
+      "il": "incitera",
+      "nous": "inciterons",
+      "vous": "inciterez",
+      "ils": "inciteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai incité",
+      "tu": "auras incité",
+      "il": "aura incité",
+      "nous": "aurons incité",
+      "vous": "aurez incité",
+      "ils": "auront incité"
+    },
+    "subjonctif_présent": {
+      "je": "incite",
+      "tu": "incites",
+      "il": "incite",
+      "nous": "incitions",
+      "vous": "incitiez",
+      "ils": "incitent"
+    },
+    "subjonctif_passé": {
+      "je": "aie incité",
+      "tu": "aies incité",
+      "il": "ait incité",
+      "nous": "ayons incité",
+      "vous": "ayez incité",
+      "ils": "aient incité"
+    },
+    "subjonctif_imparfait": {
+      "je": "incitasse",
+      "tu": "incitasses",
+      "il": "incitât",
+      "nous": "incitassions",
+      "vous": "incitassiez",
+      "ils": "incitassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse incité",
+      "tu": "eusses incité",
+      "il": "eût incité",
+      "nous": "eussions incité",
+      "vous": "eussiez incité",
+      "ils": "eussent incité"
+    },
+    "conditionnel_présent": {
+      "je": "inciterais",
+      "tu": "inciterais",
+      "il": "inciterait",
+      "nous": "inciterions",
+      "vous": "inciteriez",
+      "ils": "inciteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais incité",
+      "tu": "aurais incité",
+      "il": "aurait incité",
+      "nous": "aurions incité",
+      "vous": "auriez incité",
+      "ils": "auraient incité"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse incité",
+      "tu": "eusses incité",
+      "il": "eût incité",
+      "nous": "eussions incité",
+      "vous": "eussiez incité",
+      "ils": "eussent incité"
+    },
+    "translation": "nakłaniać",
+    "group": 1
+  },
+  {
+    "infinitive": "incliner",
+    "présent": {
+      "je": "incline",
+      "tu": "inclines",
+      "il": "incline",
+      "nous": "inclinons",
+      "vous": "inclinez",
+      "ils": "inclinent"
+    },
+    "passé_composé": {
+      "je": "ai incliné",
+      "tu": "as incliné",
+      "il": "a incliné",
+      "nous": "avons incliné",
+      "vous": "avez incliné",
+      "ils": "ont incliné"
+    },
+    "imparfait": {
+      "je": "inclinais",
+      "tu": "inclinais",
+      "il": "inclinait",
+      "nous": "inclinions",
+      "vous": "incliniez",
+      "ils": "inclinaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais incliné",
+      "tu": "avais incliné",
+      "il": "avait incliné",
+      "nous": "avions incliné",
+      "vous": "aviez incliné",
+      "ils": "avaient incliné"
+    },
+    "passé_simple": {
+      "je": "inclinai",
+      "tu": "inclinas",
+      "il": "inclina",
+      "nous": "inclinâmes",
+      "vous": "inclinâtes",
+      "ils": "inclinèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus incliné",
+      "tu": "eus incliné",
+      "il": "eut incliné",
+      "nous": "eûmes incliné",
+      "vous": "eûtes incliné",
+      "ils": "eurent incliné"
+    },
+    "futur_simple": {
+      "je": "inclinerai",
+      "tu": "inclineras",
+      "il": "inclinera",
+      "nous": "inclinerons",
+      "vous": "inclinerez",
+      "ils": "inclineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai incliné",
+      "tu": "auras incliné",
+      "il": "aura incliné",
+      "nous": "aurons incliné",
+      "vous": "aurez incliné",
+      "ils": "auront incliné"
+    },
+    "subjonctif_présent": {
+      "je": "incline",
+      "tu": "inclines",
+      "il": "incline",
+      "nous": "inclinions",
+      "vous": "incliniez",
+      "ils": "inclinent"
+    },
+    "subjonctif_passé": {
+      "je": "aie incliné",
+      "tu": "aies incliné",
+      "il": "ait incliné",
+      "nous": "ayons incliné",
+      "vous": "ayez incliné",
+      "ils": "aient incliné"
+    },
+    "subjonctif_imparfait": {
+      "je": "inclinasse",
+      "tu": "inclinasses",
+      "il": "inclinât",
+      "nous": "inclinassions",
+      "vous": "inclinassiez",
+      "ils": "inclinassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse incliné",
+      "tu": "eusses incliné",
+      "il": "eût incliné",
+      "nous": "eussions incliné",
+      "vous": "eussiez incliné",
+      "ils": "eussent incliné"
+    },
+    "conditionnel_présent": {
+      "je": "inclinerais",
+      "tu": "inclinerais",
+      "il": "inclinerait",
+      "nous": "inclinerions",
+      "vous": "inclineriez",
+      "ils": "inclineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais incliné",
+      "tu": "aurais incliné",
+      "il": "aurait incliné",
+      "nous": "aurions incliné",
+      "vous": "auriez incliné",
+      "ils": "auraient incliné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse incliné",
+      "tu": "eusses incliné",
+      "il": "eût incliné",
+      "nous": "eussions incliné",
+      "vous": "eussiez incliné",
+      "ils": "eussent incliné"
+    },
+    "translation": "pochylać",
+    "group": 1
+  },
+  {
+    "infinitive": "inclure",
+    "présent": {
+      "je": "inclus",
+      "tu": "inclus",
+      "il": "inclut",
+      "nous": "incluons",
+      "vous": "incluez",
+      "ils": "incluent"
+    },
+    "passé_composé": {
+      "je": "ai inclus",
+      "tu": "as inclus",
+      "il": "a inclus",
+      "nous": "avons inclus",
+      "vous": "avez inclus",
+      "ils": "ont inclus"
+    },
+    "imparfait": {
+      "je": "incluais",
+      "tu": "incluais",
+      "il": "incluait",
+      "nous": "incluions",
+      "vous": "incluiez",
+      "ils": "incluaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais inclus",
+      "tu": "avais inclus",
+      "il": "avait inclus",
+      "nous": "avions inclus",
+      "vous": "aviez inclus",
+      "ils": "avaient inclus"
+    },
+    "passé_simple": {
+      "je": "inclus",
+      "tu": "inclus",
+      "il": "inclut",
+      "nous": "inclûmes",
+      "vous": "inclûtes",
+      "ils": "inclurent"
+    },
+    "passé_antérieur": {
+      "je": "eus inclus",
+      "tu": "eus inclus",
+      "il": "eut inclus",
+      "nous": "eûmes inclus",
+      "vous": "eûtes inclus",
+      "ils": "eurent inclus"
+    },
+    "futur_simple": {
+      "je": "inclurai",
+      "tu": "incluras",
+      "il": "inclura",
+      "nous": "inclurons",
+      "vous": "inclurez",
+      "ils": "incluront"
+    },
+    "futur_antérieur": {
+      "je": "aurai inclus",
+      "tu": "auras inclus",
+      "il": "aura inclus",
+      "nous": "aurons inclus",
+      "vous": "aurez inclus",
+      "ils": "auront inclus"
+    },
+    "subjonctif_présent": {
+      "je": "inclue",
+      "tu": "inclues",
+      "il": "inclue",
+      "nous": "incluions",
+      "vous": "incluiez",
+      "ils": "incluent"
+    },
+    "subjonctif_passé": {
+      "je": "aie inclus",
+      "tu": "aies inclus",
+      "il": "ait inclus",
+      "nous": "ayons inclus",
+      "vous": "ayez inclus",
+      "ils": "aient inclus"
+    },
+    "subjonctif_imparfait": {
+      "je": "inclusse",
+      "tu": "inclusses",
+      "il": "inclût",
+      "nous": "inclussions",
+      "vous": "inclussiez",
+      "ils": "inclussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse inclus",
+      "tu": "eusses inclus",
+      "il": "eût inclus",
+      "nous": "eussions inclus",
+      "vous": "eussiez inclus",
+      "ils": "eussent inclus"
+    },
+    "conditionnel_présent": {
+      "je": "inclurais",
+      "tu": "inclurais",
+      "il": "inclurait",
+      "nous": "inclurions",
+      "vous": "incluriez",
+      "ils": "incluraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais inclus",
+      "tu": "aurais inclus",
+      "il": "aurait inclus",
+      "nous": "aurions inclus",
+      "vous": "auriez inclus",
+      "ils": "auraient inclus"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse inclus",
+      "tu": "eusses inclus",
+      "il": "eût inclus",
+      "nous": "eussions inclus",
+      "vous": "eussiez inclus",
+      "ils": "eussent inclus"
+    },
+    "translation": "inclure",
+    "group": 3
+  },
+  {
+    "infinitive": "incomber",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "incombe",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "a incombé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "incombait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "avait incombé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "incomba",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "eut incombé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "incombera",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "aura incombé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "incombe",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "ait incombé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "incombât",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "eût incombé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "incomberait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "aurait incombé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "eût incombé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "umrzeć",
+    "group": 1
+  },
+  {
+    "infinitive": "indiquer",
+    "présent": {
+      "je": "indique",
+      "tu": "indiques",
+      "il": "indique",
+      "nous": "indiquons",
+      "vous": "indiquez",
+      "ils": "indiquent"
+    },
+    "passé_composé": {
+      "je": "ai indiqué",
+      "tu": "as indiqué",
+      "il": "a indiqué",
+      "nous": "avons indiqué",
+      "vous": "avez indiqué",
+      "ils": "ont indiqué"
+    },
+    "imparfait": {
+      "je": "indiquais",
+      "tu": "indiquais",
+      "il": "indiquait",
+      "nous": "indiquions",
+      "vous": "indiquiez",
+      "ils": "indiquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais indiqué",
+      "tu": "avais indiqué",
+      "il": "avait indiqué",
+      "nous": "avions indiqué",
+      "vous": "aviez indiqué",
+      "ils": "avaient indiqué"
+    },
+    "passé_simple": {
+      "je": "indiquai",
+      "tu": "indiquas",
+      "il": "indiqua",
+      "nous": "indiquâmes",
+      "vous": "indiquâtes",
+      "ils": "indiquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus indiqué",
+      "tu": "eus indiqué",
+      "il": "eut indiqué",
+      "nous": "eûmes indiqué",
+      "vous": "eûtes indiqué",
+      "ils": "eurent indiqué"
+    },
+    "futur_simple": {
+      "je": "indiquerai",
+      "tu": "indiqueras",
+      "il": "indiquera",
+      "nous": "indiquerons",
+      "vous": "indiquerez",
+      "ils": "indiqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai indiqué",
+      "tu": "auras indiqué",
+      "il": "aura indiqué",
+      "nous": "aurons indiqué",
+      "vous": "aurez indiqué",
+      "ils": "auront indiqué"
+    },
+    "subjonctif_présent": {
+      "je": "indique",
+      "tu": "indiques",
+      "il": "indique",
+      "nous": "indiquions",
+      "vous": "indiquiez",
+      "ils": "indiquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie indiqué",
+      "tu": "aies indiqué",
+      "il": "ait indiqué",
+      "nous": "ayons indiqué",
+      "vous": "ayez indiqué",
+      "ils": "aient indiqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "indiquasse",
+      "tu": "indiquasses",
+      "il": "indiquât",
+      "nous": "indiquassions",
+      "vous": "indiquassiez",
+      "ils": "indiquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse indiqué",
+      "tu": "eusses indiqué",
+      "il": "eût indiqué",
+      "nous": "eussions indiqué",
+      "vous": "eussiez indiqué",
+      "ils": "eussent indiqué"
+    },
+    "conditionnel_présent": {
+      "je": "indiquerais",
+      "tu": "indiquerais",
+      "il": "indiquerait",
+      "nous": "indiquerions",
+      "vous": "indiqueriez",
+      "ils": "indiqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais indiqué",
+      "tu": "aurais indiqué",
+      "il": "aurait indiqué",
+      "nous": "aurions indiqué",
+      "vous": "auriez indiqué",
+      "ils": "auraient indiqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse indiqué",
+      "tu": "eusses indiqué",
+      "il": "eût indiqué",
+      "nous": "eussions indiqué",
+      "vous": "eussiez indiqué",
+      "ils": "eussent indiqué"
+    },
+    "translation": "wskazywać",
+    "group": 1
+  },
+  {
+    "infinitive": "induire",
+    "présent": {
+      "je": "induis",
+      "tu": "induis",
+      "il": "induit",
+      "nous": "induisons",
+      "vous": "induisez",
+      "ils": "induisent"
+    },
+    "passé_composé": {
+      "je": "ai induit",
+      "tu": "as induit",
+      "il": "a induit",
+      "nous": "avons induit",
+      "vous": "avez induit",
+      "ils": "ont induit"
+    },
+    "imparfait": {
+      "je": "induisais",
+      "tu": "induisais",
+      "il": "induisait",
+      "nous": "induisions",
+      "vous": "induisiez",
+      "ils": "induisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais induit",
+      "tu": "avais induit",
+      "il": "avait induit",
+      "nous": "avions induit",
+      "vous": "aviez induit",
+      "ils": "avaient induit"
+    },
+    "passé_simple": {
+      "je": "induisis",
+      "tu": "induisis",
+      "il": "induisit",
+      "nous": "induisîmes",
+      "vous": "induisîtes",
+      "ils": "induisirent"
+    },
+    "passé_antérieur": {
+      "je": "eus induit",
+      "tu": "eus induit",
+      "il": "eut induit",
+      "nous": "eûmes induit",
+      "vous": "eûtes induit",
+      "ils": "eurent induit"
+    },
+    "futur_simple": {
+      "je": "induirai",
+      "tu": "induiras",
+      "il": "induira",
+      "nous": "induirons",
+      "vous": "induirez",
+      "ils": "induiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai induit",
+      "tu": "auras induit",
+      "il": "aura induit",
+      "nous": "aurons induit",
+      "vous": "aurez induit",
+      "ils": "auront induit"
+    },
+    "subjonctif_présent": {
+      "je": "induise",
+      "tu": "induises",
+      "il": "induise",
+      "nous": "induisions",
+      "vous": "induisiez",
+      "ils": "induisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie induit",
+      "tu": "aies induit",
+      "il": "ait induit",
+      "nous": "ayons induit",
+      "vous": "ayez induit",
+      "ils": "aient induit"
+    },
+    "subjonctif_imparfait": {
+      "je": "induisisse",
+      "tu": "induisisses",
+      "il": "induisît",
+      "nous": "induisissions",
+      "vous": "induisissiez",
+      "ils": "induisissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse induit",
+      "tu": "eusses induit",
+      "il": "eût induit",
+      "nous": "eussions induit",
+      "vous": "eussiez induit",
+      "ils": "eussent induit"
+    },
+    "conditionnel_présent": {
+      "je": "induirais",
+      "tu": "induirais",
+      "il": "induirait",
+      "nous": "induirions",
+      "vous": "induiriez",
+      "ils": "induiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais induit",
+      "tu": "aurais induit",
+      "il": "aurait induit",
+      "nous": "aurions induit",
+      "vous": "auriez induit",
+      "ils": "auraient induit"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse induit",
+      "tu": "eusses induit",
+      "il": "eût induit",
+      "nous": "eussions induit",
+      "vous": "eussiez induit",
+      "ils": "eussent induit"
+    },
+    "translation": "wprowadzić",
+    "group": 3
+  },
+  {
+    "infinitive": "influencer",
+    "présent": {
+      "je": "influence",
+      "tu": "influences",
+      "il": "influence",
+      "nous": "influençons",
+      "vous": "influencez",
+      "ils": "influencent"
+    },
+    "passé_composé": {
+      "je": "ai influencé",
+      "tu": "as influencé",
+      "il": "a influencé",
+      "nous": "avons influencé",
+      "vous": "avez influencé",
+      "ils": "ont influencé"
+    },
+    "imparfait": {
+      "je": "influençais",
+      "tu": "influençais",
+      "il": "influençait",
+      "nous": "influencions",
+      "vous": "influenciez",
+      "ils": "influençaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais influencé",
+      "tu": "avais influencé",
+      "il": "avait influencé",
+      "nous": "avions influencé",
+      "vous": "aviez influencé",
+      "ils": "avaient influencé"
+    },
+    "passé_simple": {
+      "je": "influençai",
+      "tu": "influenças",
+      "il": "influença",
+      "nous": "influençâmes",
+      "vous": "influençâtes",
+      "ils": "influencèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus influencé",
+      "tu": "eus influencé",
+      "il": "eut influencé",
+      "nous": "eûmes influencé",
+      "vous": "eûtes influencé",
+      "ils": "eurent influencé"
+    },
+    "futur_simple": {
+      "je": "influencerai",
+      "tu": "influenceras",
+      "il": "influencera",
+      "nous": "influencerons",
+      "vous": "influencerez",
+      "ils": "influenceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai influencé",
+      "tu": "auras influencé",
+      "il": "aura influencé",
+      "nous": "aurons influencé",
+      "vous": "aurez influencé",
+      "ils": "auront influencé"
+    },
+    "subjonctif_présent": {
+      "je": "influence",
+      "tu": "influences",
+      "il": "influence",
+      "nous": "influencions",
+      "vous": "influenciez",
+      "ils": "influencent"
+    },
+    "subjonctif_passé": {
+      "je": "aie influencé",
+      "tu": "aies influencé",
+      "il": "ait influencé",
+      "nous": "ayons influencé",
+      "vous": "ayez influencé",
+      "ils": "aient influencé"
+    },
+    "subjonctif_imparfait": {
+      "je": "influençasse",
+      "tu": "influençasses",
+      "il": "influençât",
+      "nous": "influençassions",
+      "vous": "influençassiez",
+      "ils": "influençassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse influencé",
+      "tu": "eusses influencé",
+      "il": "eût influencé",
+      "nous": "eussions influencé",
+      "vous": "eussiez influencé",
+      "ils": "eussent influencé"
+    },
+    "conditionnel_présent": {
+      "je": "influencerais",
+      "tu": "influencerais",
+      "il": "influencerait",
+      "nous": "influencerions",
+      "vous": "influenceriez",
+      "ils": "influenceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais influencé",
+      "tu": "aurais influencé",
+      "il": "aurait influencé",
+      "nous": "aurions influencé",
+      "vous": "auriez influencé",
+      "ils": "auraient influencé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse influencé",
+      "tu": "eusses influencé",
+      "il": "eût influencé",
+      "nous": "eussions influencé",
+      "vous": "eussiez influencé",
+      "ils": "eussent influencé"
+    },
+    "translation": "wpływać",
+    "group": 1
+  },
+  {
+    "infinitive": "influer",
+    "présent": {
+      "je": "influe",
+      "tu": "influes",
+      "il": "influe",
+      "nous": "influons",
+      "vous": "influez",
+      "ils": "influent"
+    },
+    "passé_composé": {
+      "je": "ai influé",
+      "tu": "as influé",
+      "il": "a influé",
+      "nous": "avons influé",
+      "vous": "avez influé",
+      "ils": "ont influé"
+    },
+    "imparfait": {
+      "je": "influais",
+      "tu": "influais",
+      "il": "influait",
+      "nous": "influions",
+      "vous": "influiez",
+      "ils": "influaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais influé",
+      "tu": "avais influé",
+      "il": "avait influé",
+      "nous": "avions influé",
+      "vous": "aviez influé",
+      "ils": "avaient influé"
+    },
+    "passé_simple": {
+      "je": "influai",
+      "tu": "influas",
+      "il": "influa",
+      "nous": "influâmes",
+      "vous": "influâtes",
+      "ils": "influèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus influé",
+      "tu": "eus influé",
+      "il": "eut influé",
+      "nous": "eûmes influé",
+      "vous": "eûtes influé",
+      "ils": "eurent influé"
+    },
+    "futur_simple": {
+      "je": "influerai",
+      "tu": "influeras",
+      "il": "influera",
+      "nous": "influerons",
+      "vous": "influerez",
+      "ils": "influeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai influé",
+      "tu": "auras influé",
+      "il": "aura influé",
+      "nous": "aurons influé",
+      "vous": "aurez influé",
+      "ils": "auront influé"
+    },
+    "subjonctif_présent": {
+      "je": "influe",
+      "tu": "influes",
+      "il": "influe",
+      "nous": "influions",
+      "vous": "influiez",
+      "ils": "influent"
+    },
+    "subjonctif_passé": {
+      "je": "aie influé",
+      "tu": "aies influé",
+      "il": "ait influé",
+      "nous": "ayons influé",
+      "vous": "ayez influé",
+      "ils": "aient influé"
+    },
+    "subjonctif_imparfait": {
+      "je": "influasse",
+      "tu": "influasses",
+      "il": "influât",
+      "nous": "influassions",
+      "vous": "influassiez",
+      "ils": "influassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse influé",
+      "tu": "eusses influé",
+      "il": "eût influé",
+      "nous": "eussions influé",
+      "vous": "eussiez influé",
+      "ils": "eussent influé"
+    },
+    "conditionnel_présent": {
+      "je": "influerais",
+      "tu": "influerais",
+      "il": "influerait",
+      "nous": "influerions",
+      "vous": "influeriez",
+      "ils": "influeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais influé",
+      "tu": "aurais influé",
+      "il": "aurait influé",
+      "nous": "aurions influé",
+      "vous": "auriez influé",
+      "ils": "auraient influé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse influé",
+      "tu": "eusses influé",
+      "il": "eût influé",
+      "nous": "eussions influé",
+      "vous": "eussiez influé",
+      "ils": "eussent influé"
+    },
+    "translation": "wpływowy",
+    "group": 1
+  },
+  {
+    "infinitive": "informer",
+    "présent": {
+      "je": "informe",
+      "tu": "informes",
+      "il": "informe",
+      "nous": "informons",
+      "vous": "informez",
+      "ils": "informent"
+    },
+    "passé_composé": {
+      "je": "ai informé",
+      "tu": "as informé",
+      "il": "a informé",
+      "nous": "avons informé",
+      "vous": "avez informé",
+      "ils": "ont informé"
+    },
+    "imparfait": {
+      "je": "informais",
+      "tu": "informais",
+      "il": "informait",
+      "nous": "informions",
+      "vous": "informiez",
+      "ils": "informaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais informé",
+      "tu": "avais informé",
+      "il": "avait informé",
+      "nous": "avions informé",
+      "vous": "aviez informé",
+      "ils": "avaient informé"
+    },
+    "passé_simple": {
+      "je": "informai",
+      "tu": "informas",
+      "il": "informa",
+      "nous": "informâmes",
+      "vous": "informâtes",
+      "ils": "informèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus informé",
+      "tu": "eus informé",
+      "il": "eut informé",
+      "nous": "eûmes informé",
+      "vous": "eûtes informé",
+      "ils": "eurent informé"
+    },
+    "futur_simple": {
+      "je": "informerai",
+      "tu": "informeras",
+      "il": "informera",
+      "nous": "informerons",
+      "vous": "informerez",
+      "ils": "informeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai informé",
+      "tu": "auras informé",
+      "il": "aura informé",
+      "nous": "aurons informé",
+      "vous": "aurez informé",
+      "ils": "auront informé"
+    },
+    "subjonctif_présent": {
+      "je": "informe",
+      "tu": "informes",
+      "il": "informe",
+      "nous": "informions",
+      "vous": "informiez",
+      "ils": "informent"
+    },
+    "subjonctif_passé": {
+      "je": "aie informé",
+      "tu": "aies informé",
+      "il": "ait informé",
+      "nous": "ayons informé",
+      "vous": "ayez informé",
+      "ils": "aient informé"
+    },
+    "subjonctif_imparfait": {
+      "je": "informasse",
+      "tu": "informasses",
+      "il": "informât",
+      "nous": "informassions",
+      "vous": "informassiez",
+      "ils": "informassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse informé",
+      "tu": "eusses informé",
+      "il": "eût informé",
+      "nous": "eussions informé",
+      "vous": "eussiez informé",
+      "ils": "eussent informé"
+    },
+    "conditionnel_présent": {
+      "je": "informerais",
+      "tu": "informerais",
+      "il": "informerait",
+      "nous": "informerions",
+      "vous": "informeriez",
+      "ils": "informeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais informé",
+      "tu": "aurais informé",
+      "il": "aurait informé",
+      "nous": "aurions informé",
+      "vous": "auriez informé",
+      "ils": "auraient informé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse informé",
+      "tu": "eusses informé",
+      "il": "eût informé",
+      "nous": "eussions informé",
+      "vous": "eussiez informé",
+      "ils": "eussent informé"
+    },
+    "translation": "informować",
+    "group": 1
+  },
+  {
+    "infinitive": "inhiber",
+    "présent": {
+      "je": "inhibe",
+      "tu": "inhibes",
+      "il": "inhibe",
+      "nous": "inhibons",
+      "vous": "inhibez",
+      "ils": "inhibent"
+    },
+    "passé_composé": {
+      "je": "ai inhibé",
+      "tu": "as inhibé",
+      "il": "a inhibé",
+      "nous": "avons inhibé",
+      "vous": "avez inhibé",
+      "ils": "ont inhibé"
+    },
+    "imparfait": {
+      "je": "inhibais",
+      "tu": "inhibais",
+      "il": "inhibait",
+      "nous": "inhibions",
+      "vous": "inhibiez",
+      "ils": "inhibaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais inhibé",
+      "tu": "avais inhibé",
+      "il": "avait inhibé",
+      "nous": "avions inhibé",
+      "vous": "aviez inhibé",
+      "ils": "avaient inhibé"
+    },
+    "passé_simple": {
+      "je": "inhibai",
+      "tu": "inhibas",
+      "il": "inhiba",
+      "nous": "inhibâmes",
+      "vous": "inhibâtes",
+      "ils": "inhibèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus inhibé",
+      "tu": "eus inhibé",
+      "il": "eut inhibé",
+      "nous": "eûmes inhibé",
+      "vous": "eûtes inhibé",
+      "ils": "eurent inhibé"
+    },
+    "futur_simple": {
+      "je": "inhiberai",
+      "tu": "inhiberas",
+      "il": "inhibera",
+      "nous": "inhiberons",
+      "vous": "inhiberez",
+      "ils": "inhiberont"
+    },
+    "futur_antérieur": {
+      "je": "aurai inhibé",
+      "tu": "auras inhibé",
+      "il": "aura inhibé",
+      "nous": "aurons inhibé",
+      "vous": "aurez inhibé",
+      "ils": "auront inhibé"
+    },
+    "subjonctif_présent": {
+      "je": "inhibe",
+      "tu": "inhibes",
+      "il": "inhibe",
+      "nous": "inhibions",
+      "vous": "inhibiez",
+      "ils": "inhibent"
+    },
+    "subjonctif_passé": {
+      "je": "aie inhibé",
+      "tu": "aies inhibé",
+      "il": "ait inhibé",
+      "nous": "ayons inhibé",
+      "vous": "ayez inhibé",
+      "ils": "aient inhibé"
+    },
+    "subjonctif_imparfait": {
+      "je": "inhibasse",
+      "tu": "inhibasses",
+      "il": "inhibât",
+      "nous": "inhibassions",
+      "vous": "inhibassiez",
+      "ils": "inhibassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse inhibé",
+      "tu": "eusses inhibé",
+      "il": "eût inhibé",
+      "nous": "eussions inhibé",
+      "vous": "eussiez inhibé",
+      "ils": "eussent inhibé"
+    },
+    "conditionnel_présent": {
+      "je": "inhiberais",
+      "tu": "inhiberais",
+      "il": "inhiberait",
+      "nous": "inhiberions",
+      "vous": "inhiberiez",
+      "ils": "inhiberaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais inhibé",
+      "tu": "aurais inhibé",
+      "il": "aurait inhibé",
+      "nous": "aurions inhibé",
+      "vous": "auriez inhibé",
+      "ils": "auraient inhibé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse inhibé",
+      "tu": "eusses inhibé",
+      "il": "eût inhibé",
+      "nous": "eussions inhibé",
+      "vous": "eussiez inhibé",
+      "ils": "eussent inhibé"
+    },
+    "translation": "nakłaniać",
+    "group": 1
+  }
+]

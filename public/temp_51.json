@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "creuser",
+    "présent": {
+      "je": "creuse",
+      "tu": "creuses",
+      "il": "creuse",
+      "nous": "creusons",
+      "vous": "creusez",
+      "ils": "creusent"
+    },
+    "passé_composé": {
+      "je": "ai creusé",
+      "tu": "as creusé",
+      "il": "a creusé",
+      "nous": "avons creusé",
+      "vous": "avez creusé",
+      "ils": "ont creusé"
+    },
+    "imparfait": {
+      "je": "creusais",
+      "tu": "creusais",
+      "il": "creusait",
+      "nous": "creusions",
+      "vous": "creusiez",
+      "ils": "creusaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais creusé",
+      "tu": "avais creusé",
+      "il": "avait creusé",
+      "nous": "avions creusé",
+      "vous": "aviez creusé",
+      "ils": "avaient creusé"
+    },
+    "passé_simple": {
+      "je": "creusai",
+      "tu": "creusas",
+      "il": "creusa",
+      "nous": "creusâmes",
+      "vous": "creusâtes",
+      "ils": "creusèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus creusé",
+      "tu": "eus creusé",
+      "il": "eut creusé",
+      "nous": "eûmes creusé",
+      "vous": "eûtes creusé",
+      "ils": "eurent creusé"
+    },
+    "futur_simple": {
+      "je": "creuserai",
+      "tu": "creuseras",
+      "il": "creusera",
+      "nous": "creuserons",
+      "vous": "creuserez",
+      "ils": "creuseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai creusé",
+      "tu": "auras creusé",
+      "il": "aura creusé",
+      "nous": "aurons creusé",
+      "vous": "aurez creusé",
+      "ils": "auront creusé"
+    },
+    "subjonctif_présent": {
+      "je": "creuse",
+      "tu": "creuses",
+      "il": "creuse",
+      "nous": "creusions",
+      "vous": "creusiez",
+      "ils": "creusent"
+    },
+    "subjonctif_passé": {
+      "je": "aie creusé",
+      "tu": "aies creusé",
+      "il": "ait creusé",
+      "nous": "ayons creusé",
+      "vous": "ayez creusé",
+      "ils": "aient creusé"
+    },
+    "subjonctif_imparfait": {
+      "je": "creusasse",
+      "tu": "creusasses",
+      "il": "creusât",
+      "nous": "creusassions",
+      "vous": "creusassiez",
+      "ils": "creusassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse creusé",
+      "tu": "eusses creusé",
+      "il": "eût creusé",
+      "nous": "eussions creusé",
+      "vous": "eussiez creusé",
+      "ils": "eussent creusé"
+    },
+    "conditionnel_présent": {
+      "je": "creuserais",
+      "tu": "creuserais",
+      "il": "creuserait",
+      "nous": "creuserions",
+      "vous": "creuseriez",
+      "ils": "creuseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais creusé",
+      "tu": "aurais creusé",
+      "il": "aurait creusé",
+      "nous": "aurions creusé",
+      "vous": "auriez creusé",
+      "ils": "auraient creusé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse creusé",
+      "tu": "eusses creusé",
+      "il": "eût creusé",
+      "nous": "eussions creusé",
+      "vous": "eussiez creusé",
+      "ils": "eussent creusé"
+    },
+    "translation": "wybierać",
+    "group": 1
+  },
+  {
+    "infinitive": "crever",
+    "présent": {
+      "je": "crève",
+      "tu": "crèves",
+      "il": "crève",
+      "nous": "crevons",
+      "vous": "crevez",
+      "ils": "crèvent"
+    },
+    "passé_composé": {
+      "je": "ai crevé",
+      "tu": "as crevé",
+      "il": "a crevé",
+      "nous": "avons crevé",
+      "vous": "avez crevé",
+      "ils": "ont crevé"
+    },
+    "imparfait": {
+      "je": "crevais",
+      "tu": "crevais",
+      "il": "crevait",
+      "nous": "crevions",
+      "vous": "creviez",
+      "ils": "crevaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais crevé",
+      "tu": "avais crevé",
+      "il": "avait crevé",
+      "nous": "avions crevé",
+      "vous": "aviez crevé",
+      "ils": "avaient crevé"
+    },
+    "passé_simple": {
+      "je": "crevai",
+      "tu": "crevas",
+      "il": "creva",
+      "nous": "crevâmes",
+      "vous": "crevâtes",
+      "ils": "crevèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus crevé",
+      "tu": "eus crevé",
+      "il": "eut crevé",
+      "nous": "eûmes crevé",
+      "vous": "eûtes crevé",
+      "ils": "eurent crevé"
+    },
+    "futur_simple": {
+      "je": "crèverai",
+      "tu": "crèveras",
+      "il": "crèvera",
+      "nous": "crèverons",
+      "vous": "crèverez",
+      "ils": "crèveront"
+    },
+    "futur_antérieur": {
+      "je": "aurai crevé",
+      "tu": "auras crevé",
+      "il": "aura crevé",
+      "nous": "aurons crevé",
+      "vous": "aurez crevé",
+      "ils": "auront crevé"
+    },
+    "subjonctif_présent": {
+      "je": "crève",
+      "tu": "crèves",
+      "il": "crève",
+      "nous": "crevions",
+      "vous": "creviez",
+      "ils": "crèvent"
+    },
+    "subjonctif_passé": {
+      "je": "aie crevé",
+      "tu": "aies crevé",
+      "il": "ait crevé",
+      "nous": "ayons crevé",
+      "vous": "ayez crevé",
+      "ils": "aient crevé"
+    },
+    "subjonctif_imparfait": {
+      "je": "crevasse",
+      "tu": "crevasses",
+      "il": "crevât",
+      "nous": "crevassions",
+      "vous": "crevassiez",
+      "ils": "crevassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse crevé",
+      "tu": "eusses crevé",
+      "il": "eût crevé",
+      "nous": "eussions crevé",
+      "vous": "eussiez crevé",
+      "ils": "eussent crevé"
+    },
+    "conditionnel_présent": {
+      "je": "crèverais",
+      "tu": "crèverais",
+      "il": "crèverait",
+      "nous": "crèverions",
+      "vous": "crèveriez",
+      "ils": "crèveraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais crevé",
+      "tu": "aurais crevé",
+      "il": "aurait crevé",
+      "nous": "aurions crevé",
+      "vous": "auriez crevé",
+      "ils": "auraient crevé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse crevé",
+      "tu": "eusses crevé",
+      "il": "eût crevé",
+      "nous": "eussions crevé",
+      "vous": "eussiez crevé",
+      "ils": "eussent crevé"
+    },
+    "translation": "pękać",
+    "group": 1
+  },
+  {
+    "infinitive": "crier",
+    "présent": {
+      "je": "crie",
+      "tu": "cries",
+      "il": "crie",
+      "nous": "crions",
+      "vous": "criez",
+      "ils": "crient"
+    },
+    "passé_composé": {
+      "je": "ai crié",
+      "tu": "as crié",
+      "il": "a crié",
+      "nous": "avons crié",
+      "vous": "avez crié",
+      "ils": "ont crié"
+    },
+    "imparfait": {
+      "je": "criais",
+      "tu": "criais",
+      "il": "criait",
+      "nous": "criions",
+      "vous": "criiez",
+      "ils": "criaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais crié",
+      "tu": "avais crié",
+      "il": "avait crié",
+      "nous": "avions crié",
+      "vous": "aviez crié",
+      "ils": "avaient crié"
+    },
+    "passé_simple": {
+      "je": "criai",
+      "tu": "crias",
+      "il": "cria",
+      "nous": "criâmes",
+      "vous": "criâtes",
+      "ils": "crièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus crié",
+      "tu": "eus crié",
+      "il": "eut crié",
+      "nous": "eûmes crié",
+      "vous": "eûtes crié",
+      "ils": "eurent crié"
+    },
+    "futur_simple": {
+      "je": "crierai",
+      "tu": "crieras",
+      "il": "criera",
+      "nous": "crierons",
+      "vous": "crierez",
+      "ils": "crieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai crié",
+      "tu": "auras crié",
+      "il": "aura crié",
+      "nous": "aurons crié",
+      "vous": "aurez crié",
+      "ils": "auront crié"
+    },
+    "subjonctif_présent": {
+      "je": "crie",
+      "tu": "cries",
+      "il": "crie",
+      "nous": "criions",
+      "vous": "criiez",
+      "ils": "crient"
+    },
+    "subjonctif_passé": {
+      "je": "aie crié",
+      "tu": "aies crié",
+      "il": "ait crié",
+      "nous": "ayons crié",
+      "vous": "ayez crié",
+      "ils": "aient crié"
+    },
+    "subjonctif_imparfait": {
+      "je": "criasse",
+      "tu": "criasses",
+      "il": "criât",
+      "nous": "criassions",
+      "vous": "criassiez",
+      "ils": "criassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse crié",
+      "tu": "eusses crié",
+      "il": "eût crié",
+      "nous": "eussions crié",
+      "vous": "eussiez crié",
+      "ils": "eussent crié"
+    },
+    "conditionnel_présent": {
+      "je": "crierais",
+      "tu": "crierais",
+      "il": "crierait",
+      "nous": "crierions",
+      "vous": "crieriez",
+      "ils": "crieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais crié",
+      "tu": "aurais crié",
+      "il": "aurait crié",
+      "nous": "aurions crié",
+      "vous": "auriez crié",
+      "ils": "auraient crié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse crié",
+      "tu": "eusses crié",
+      "il": "eût crié",
+      "nous": "eussions crié",
+      "vous": "eussiez crié",
+      "ils": "eussent crié"
+    },
+    "translation": "krzyczeć",
+    "group": 1
+  },
+  {
+    "infinitive": "critiquer",
+    "présent": {
+      "je": "critique",
+      "tu": "critiques",
+      "il": "critique",
+      "nous": "critiquons",
+      "vous": "critiquez",
+      "ils": "critiquent"
+    },
+    "passé_composé": {
+      "je": "ai critiqué",
+      "tu": "as critiqué",
+      "il": "a critiqué",
+      "nous": "avons critiqué",
+      "vous": "avez critiqué",
+      "ils": "ont critiqué"
+    },
+    "imparfait": {
+      "je": "critiquais",
+      "tu": "critiquais",
+      "il": "critiquait",
+      "nous": "critiquions",
+      "vous": "critiquiez",
+      "ils": "critiquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais critiqué",
+      "tu": "avais critiqué",
+      "il": "avait critiqué",
+      "nous": "avions critiqué",
+      "vous": "aviez critiqué",
+      "ils": "avaient critiqué"
+    },
+    "passé_simple": {
+      "je": "critiquai",
+      "tu": "critiquas",
+      "il": "critiqua",
+      "nous": "critiquâmes",
+      "vous": "critiquâtes",
+      "ils": "critiquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus critiqué",
+      "tu": "eus critiqué",
+      "il": "eut critiqué",
+      "nous": "eûmes critiqué",
+      "vous": "eûtes critiqué",
+      "ils": "eurent critiqué"
+    },
+    "futur_simple": {
+      "je": "critiquerai",
+      "tu": "critiqueras",
+      "il": "critiquera",
+      "nous": "critiquerons",
+      "vous": "critiquerez",
+      "ils": "critiqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai critiqué",
+      "tu": "auras critiqué",
+      "il": "aura critiqué",
+      "nous": "aurons critiqué",
+      "vous": "aurez critiqué",
+      "ils": "auront critiqué"
+    },
+    "subjonctif_présent": {
+      "je": "critique",
+      "tu": "critiques",
+      "il": "critique",
+      "nous": "critiquions",
+      "vous": "critiquiez",
+      "ils": "critiquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie critiqué",
+      "tu": "aies critiqué",
+      "il": "ait critiqué",
+      "nous": "ayons critiqué",
+      "vous": "ayez critiqué",
+      "ils": "aient critiqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "critiquasse",
+      "tu": "critiquasses",
+      "il": "critiquât",
+      "nous": "critiquassions",
+      "vous": "critiquassiez",
+      "ils": "critiquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse critiqué",
+      "tu": "eusses critiqué",
+      "il": "eût critiqué",
+      "nous": "eussions critiqué",
+      "vous": "eussiez critiqué",
+      "ils": "eussent critiqué"
+    },
+    "conditionnel_présent": {
+      "je": "critiquerais",
+      "tu": "critiquerais",
+      "il": "critiquerait",
+      "nous": "critiquerions",
+      "vous": "critiqueriez",
+      "ils": "critiqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais critiqué",
+      "tu": "aurais critiqué",
+      "il": "aurait critiqué",
+      "nous": "aurions critiqué",
+      "vous": "auriez critiqué",
+      "ils": "auraient critiqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse critiqué",
+      "tu": "eusses critiqué",
+      "il": "eût critiqué",
+      "nous": "eussions critiqué",
+      "vous": "eussiez critiqué",
+      "ils": "eussent critiqué"
+    },
+    "translation": "oceniać",
+    "group": 1
+  },
+  {
+    "infinitive": "croire",
+    "présent": {
+      "je": "crois",
+      "tu": "crois",
+      "il": "croit",
+      "nous": "croyons",
+      "vous": "croyez",
+      "ils": "croient"
+    },
+    "passé_composé": {
+      "je": "ai cru",
+      "tu": "as cru",
+      "il": "a cru",
+      "nous": "avons cru",
+      "vous": "avez cru",
+      "ils": "ont cru"
+    },
+    "imparfait": {
+      "je": "croyais",
+      "tu": "croyais",
+      "il": "croyait",
+      "nous": "croyions",
+      "vous": "croyiez",
+      "ils": "croyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais cru",
+      "tu": "avais cru",
+      "il": "avait cru",
+      "nous": "avions cru",
+      "vous": "aviez cru",
+      "ils": "avaient cru"
+    },
+    "passé_simple": {
+      "je": "crus",
+      "tu": "crus",
+      "il": "crut",
+      "nous": "crûmes",
+      "vous": "crûtes",
+      "ils": "crurent"
+    },
+    "passé_antérieur": {
+      "je": "eus cru",
+      "tu": "eus cru",
+      "il": "eut cru",
+      "nous": "eûmes cru",
+      "vous": "eûtes cru",
+      "ils": "eurent cru"
+    },
+    "futur_simple": {
+      "je": "croirai",
+      "tu": "croiras",
+      "il": "croira",
+      "nous": "croirons",
+      "vous": "croirez",
+      "ils": "croiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai cru",
+      "tu": "auras cru",
+      "il": "aura cru",
+      "nous": "aurons cru",
+      "vous": "aurez cru",
+      "ils": "auront cru"
+    },
+    "subjonctif_présent": {
+      "je": "croie",
+      "tu": "croies",
+      "il": "croie",
+      "nous": "croyions",
+      "vous": "croyiez",
+      "ils": "croient"
+    },
+    "subjonctif_passé": {
+      "je": "aie cru",
+      "tu": "aies cru",
+      "il": "ait cru",
+      "nous": "ayons cru",
+      "vous": "ayez cru",
+      "ils": "aient cru"
+    },
+    "subjonctif_imparfait": {
+      "je": "crusse",
+      "tu": "crusses",
+      "il": "crût",
+      "nous": "crussions",
+      "vous": "crussiez",
+      "ils": "crussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse cru",
+      "tu": "eusses cru",
+      "il": "eût cru",
+      "nous": "eussions cru",
+      "vous": "eussiez cru",
+      "ils": "eussent cru"
+    },
+    "conditionnel_présent": {
+      "je": "croirais",
+      "tu": "croirais",
+      "il": "croirait",
+      "nous": "croirions",
+      "vous": "croiriez",
+      "ils": "croiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais cru",
+      "tu": "aurais cru",
+      "il": "aurait cru",
+      "nous": "aurions cru",
+      "vous": "auriez cru",
+      "ils": "auraient cru"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse cru",
+      "tu": "eusses cru",
+      "il": "eût cru",
+      "nous": "eussions cru",
+      "vous": "eussiez cru",
+      "ils": "eussent cru"
+    },
+    "translation": "wierzyć",
+    "group": 3
+  },
+  {
+    "infinitive": "croiser",
+    "présent": {
+      "je": "croise",
+      "tu": "croises",
+      "il": "croise",
+      "nous": "croisons",
+      "vous": "croisez",
+      "ils": "croisent"
+    },
+    "passé_composé": {
+      "je": "ai croisé",
+      "tu": "as croisé",
+      "il": "a croisé",
+      "nous": "avons croisé",
+      "vous": "avez croisé",
+      "ils": "ont croisé"
+    },
+    "imparfait": {
+      "je": "croisais",
+      "tu": "croisais",
+      "il": "croisait",
+      "nous": "croisions",
+      "vous": "croisiez",
+      "ils": "croisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais croisé",
+      "tu": "avais croisé",
+      "il": "avait croisé",
+      "nous": "avions croisé",
+      "vous": "aviez croisé",
+      "ils": "avaient croisé"
+    },
+    "passé_simple": {
+      "je": "croisai",
+      "tu": "croisas",
+      "il": "croisa",
+      "nous": "croisâmes",
+      "vous": "croisâtes",
+      "ils": "croisèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus croisé",
+      "tu": "eus croisé",
+      "il": "eut croisé",
+      "nous": "eûmes croisé",
+      "vous": "eûtes croisé",
+      "ils": "eurent croisé"
+    },
+    "futur_simple": {
+      "je": "croiserai",
+      "tu": "croiseras",
+      "il": "croisera",
+      "nous": "croiserons",
+      "vous": "croiserez",
+      "ils": "croiseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai croisé",
+      "tu": "auras croisé",
+      "il": "aura croisé",
+      "nous": "aurons croisé",
+      "vous": "aurez croisé",
+      "ils": "auront croisé"
+    },
+    "subjonctif_présent": {
+      "je": "croise",
+      "tu": "croises",
+      "il": "croise",
+      "nous": "croisions",
+      "vous": "croisiez",
+      "ils": "croisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie croisé",
+      "tu": "aies croisé",
+      "il": "ait croisé",
+      "nous": "ayons croisé",
+      "vous": "ayez croisé",
+      "ils": "aient croisé"
+    },
+    "subjonctif_imparfait": {
+      "je": "croisasse",
+      "tu": "croisasses",
+      "il": "croisât",
+      "nous": "croisassions",
+      "vous": "croisassiez",
+      "ils": "croisassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse croisé",
+      "tu": "eusses croisé",
+      "il": "eût croisé",
+      "nous": "eussions croisé",
+      "vous": "eussiez croisé",
+      "ils": "eussent croisé"
+    },
+    "conditionnel_présent": {
+      "je": "croiserais",
+      "tu": "croiserais",
+      "il": "croiserait",
+      "nous": "croiserions",
+      "vous": "croiseriez",
+      "ils": "croiseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais croisé",
+      "tu": "aurais croisé",
+      "il": "aurait croisé",
+      "nous": "aurions croisé",
+      "vous": "auriez croisé",
+      "ils": "auraient croisé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse croisé",
+      "tu": "eusses croisé",
+      "il": "eût croisé",
+      "nous": "eussions croisé",
+      "vous": "eussiez croisé",
+      "ils": "eussent croisé"
+    },
+    "translation": "krzyżować",
+    "group": 1
+  },
+  {
+    "infinitive": "croître",
+    "présent": {
+      "je": "croîs",
+      "tu": "croîs",
+      "il": "croît",
+      "nous": "croissons",
+      "vous": "croissez",
+      "ils": "croissent"
+    },
+    "passé_composé": {
+      "je": "ai crû",
+      "tu": "as crû",
+      "il": "a crû",
+      "nous": "avons crû",
+      "vous": "avez crû",
+      "ils": "ont crû"
+    },
+    "imparfait": {
+      "je": "croissais",
+      "tu": "croissais",
+      "il": "croissait",
+      "nous": "croissions",
+      "vous": "croissiez",
+      "ils": "croissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais crû",
+      "tu": "avais crû",
+      "il": "avait crû",
+      "nous": "avions crû",
+      "vous": "aviez crû",
+      "ils": "avaient crû"
+    },
+    "passé_simple": {
+      "je": "crûs",
+      "tu": "crûs",
+      "il": "crût",
+      "nous": "crûmes",
+      "vous": "crûtes",
+      "ils": "crûrent"
+    },
+    "passé_antérieur": {
+      "je": "eus crû",
+      "tu": "eus crû",
+      "il": "eut crû",
+      "nous": "eûmes crû",
+      "vous": "eûtes crû",
+      "ils": "eurent crû"
+    },
+    "futur_simple": {
+      "je": "croîtrai",
+      "tu": "croîtras",
+      "il": "croîtra",
+      "nous": "croîtrons",
+      "vous": "croîtrez",
+      "ils": "croîtront"
+    },
+    "futur_antérieur": {
+      "je": "aurai crû",
+      "tu": "auras crû",
+      "il": "aura crû",
+      "nous": "aurons crû",
+      "vous": "aurez crû",
+      "ils": "auront crû"
+    },
+    "subjonctif_présent": {
+      "je": "croisse",
+      "tu": "croisses",
+      "il": "croisse",
+      "nous": "croissions",
+      "vous": "croissiez",
+      "ils": "croissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie crû",
+      "tu": "aies crû",
+      "il": "ait crû",
+      "nous": "ayons crû",
+      "vous": "ayez crû",
+      "ils": "aient crû"
+    },
+    "subjonctif_imparfait": {
+      "je": "crûsse",
+      "tu": "crûsses",
+      "il": "crût",
+      "nous": "crûssions",
+      "vous": "crûssiez",
+      "ils": "crûssent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse crû",
+      "tu": "eusses crû",
+      "il": "eût crû",
+      "nous": "eussions crû",
+      "vous": "eussiez crû",
+      "ils": "eussent crû"
+    },
+    "conditionnel_présent": {
+      "je": "croîtrais",
+      "tu": "croîtrais",
+      "il": "croîtrait",
+      "nous": "croîtrions",
+      "vous": "croîtriez",
+      "ils": "croîtraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais crû",
+      "tu": "aurais crû",
+      "il": "aurait crû",
+      "nous": "aurions crû",
+      "vous": "auriez crû",
+      "ils": "auraient crû"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse crû",
+      "tu": "eusses crû",
+      "il": "eût crû",
+      "nous": "eussions crû",
+      "vous": "eussiez crû",
+      "ils": "eussent crû"
+    },
+    "translation": "rozwijać",
+    "group": 3
+  },
+  {
+    "infinitive": "croquer",
+    "présent": {
+      "je": "croque",
+      "tu": "croques",
+      "il": "croque",
+      "nous": "croquons",
+      "vous": "croquez",
+      "ils": "croquent"
+    },
+    "passé_composé": {
+      "je": "ai croqué",
+      "tu": "as croqué",
+      "il": "a croqué",
+      "nous": "avons croqué",
+      "vous": "avez croqué",
+      "ils": "ont croqué"
+    },
+    "imparfait": {
+      "je": "croquais",
+      "tu": "croquais",
+      "il": "croquait",
+      "nous": "croquions",
+      "vous": "croquiez",
+      "ils": "croquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais croqué",
+      "tu": "avais croqué",
+      "il": "avait croqué",
+      "nous": "avions croqué",
+      "vous": "aviez croqué",
+      "ils": "avaient croqué"
+    },
+    "passé_simple": {
+      "je": "croquai",
+      "tu": "croquas",
+      "il": "croqua",
+      "nous": "croquâmes",
+      "vous": "croquâtes",
+      "ils": "croquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus croqué",
+      "tu": "eus croqué",
+      "il": "eut croqué",
+      "nous": "eûmes croqué",
+      "vous": "eûtes croqué",
+      "ils": "eurent croqué"
+    },
+    "futur_simple": {
+      "je": "croquerai",
+      "tu": "croqueras",
+      "il": "croquera",
+      "nous": "croquerons",
+      "vous": "croquerez",
+      "ils": "croqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai croqué",
+      "tu": "auras croqué",
+      "il": "aura croqué",
+      "nous": "aurons croqué",
+      "vous": "aurez croqué",
+      "ils": "auront croqué"
+    },
+    "subjonctif_présent": {
+      "je": "croque",
+      "tu": "croques",
+      "il": "croque",
+      "nous": "croquions",
+      "vous": "croquiez",
+      "ils": "croquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie croqué",
+      "tu": "aies croqué",
+      "il": "ait croqué",
+      "nous": "ayons croqué",
+      "vous": "ayez croqué",
+      "ils": "aient croqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "croquasse",
+      "tu": "croquasses",
+      "il": "croquât",
+      "nous": "croquassions",
+      "vous": "croquassiez",
+      "ils": "croquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse croqué",
+      "tu": "eusses croqué",
+      "il": "eût croqué",
+      "nous": "eussions croqué",
+      "vous": "eussiez croqué",
+      "ils": "eussent croqué"
+    },
+    "conditionnel_présent": {
+      "je": "croquerais",
+      "tu": "croquerais",
+      "il": "croquerait",
+      "nous": "croquerions",
+      "vous": "croqueriez",
+      "ils": "croqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais croqué",
+      "tu": "aurais croqué",
+      "il": "aurait croqué",
+      "nous": "aurions croqué",
+      "vous": "auriez croqué",
+      "ils": "auraient croqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse croqué",
+      "tu": "eusses croqué",
+      "il": "eût croqué",
+      "nous": "eussions croqué",
+      "vous": "eussiez croqué",
+      "ils": "eussent croqué"
+    },
+    "translation": "chrupać",
+    "group": 1
+  },
+  {
+    "infinitive": "crosser",
+    "présent": {
+      "je": "crosse",
+      "tu": "crosses",
+      "il": "crosse",
+      "nous": "crossons",
+      "vous": "crossez",
+      "ils": "crossent"
+    },
+    "passé_composé": {
+      "je": "ai crossé",
+      "tu": "as crossé",
+      "il": "a crossé",
+      "nous": "avons crossé",
+      "vous": "avez crossé",
+      "ils": "ont crossé"
+    },
+    "imparfait": {
+      "je": "crossais",
+      "tu": "crossais",
+      "il": "crossait",
+      "nous": "crossions",
+      "vous": "crossiez",
+      "ils": "crossaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais crossé",
+      "tu": "avais crossé",
+      "il": "avait crossé",
+      "nous": "avions crossé",
+      "vous": "aviez crossé",
+      "ils": "avaient crossé"
+    },
+    "passé_simple": {
+      "je": "crossai",
+      "tu": "crossas",
+      "il": "crossa",
+      "nous": "crossâmes",
+      "vous": "crossâtes",
+      "ils": "crossèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus crossé",
+      "tu": "eus crossé",
+      "il": "eut crossé",
+      "nous": "eûmes crossé",
+      "vous": "eûtes crossé",
+      "ils": "eurent crossé"
+    },
+    "futur_simple": {
+      "je": "crosserai",
+      "tu": "crosseras",
+      "il": "crossera",
+      "nous": "crosserons",
+      "vous": "crosserez",
+      "ils": "crosseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai crossé",
+      "tu": "auras crossé",
+      "il": "aura crossé",
+      "nous": "aurons crossé",
+      "vous": "aurez crossé",
+      "ils": "auront crossé"
+    },
+    "subjonctif_présent": {
+      "je": "crosse",
+      "tu": "crosses",
+      "il": "crosse",
+      "nous": "crossions",
+      "vous": "crossiez",
+      "ils": "crossent"
+    },
+    "subjonctif_passé": {
+      "je": "aie crossé",
+      "tu": "aies crossé",
+      "il": "ait crossé",
+      "nous": "ayons crossé",
+      "vous": "ayez crossé",
+      "ils": "aient crossé"
+    },
+    "subjonctif_imparfait": {
+      "je": "crossasse",
+      "tu": "crossasses",
+      "il": "crossât",
+      "nous": "crossassions",
+      "vous": "crossassiez",
+      "ils": "crossassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse crossé",
+      "tu": "eusses crossé",
+      "il": "eût crossé",
+      "nous": "eussions crossé",
+      "vous": "eussiez crossé",
+      "ils": "eussent crossé"
+    },
+    "conditionnel_présent": {
+      "je": "crosserais",
+      "tu": "crosserais",
+      "il": "crosserait",
+      "nous": "crosserions",
+      "vous": "crosseriez",
+      "ils": "crosseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais crossé",
+      "tu": "aurais crossé",
+      "il": "aurait crossé",
+      "nous": "aurions crossé",
+      "vous": "auriez crossé",
+      "ils": "auraient crossé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse crossé",
+      "tu": "eusses crossé",
+      "il": "eût crossé",
+      "nous": "eussions crossé",
+      "vous": "eussiez crossé",
+      "ils": "eussent crossé"
+    },
+    "translation": "kolba",
+    "group": 1
+  },
+  {
+    "infinitive": "crotter",
+    "présent": {
+      "je": "crotte",
+      "tu": "crottes",
+      "il": "crotte",
+      "nous": "crottons",
+      "vous": "crottez",
+      "ils": "crottent"
+    },
+    "passé_composé": {
+      "je": "ai crotté",
+      "tu": "as crotté",
+      "il": "a crotté",
+      "nous": "avons crotté",
+      "vous": "avez crotté",
+      "ils": "ont crotté"
+    },
+    "imparfait": {
+      "je": "crottais",
+      "tu": "crottais",
+      "il": "crottait",
+      "nous": "crottions",
+      "vous": "crottiez",
+      "ils": "crottaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais crotté",
+      "tu": "avais crotté",
+      "il": "avait crotté",
+      "nous": "avions crotté",
+      "vous": "aviez crotté",
+      "ils": "avaient crotté"
+    },
+    "passé_simple": {
+      "je": "crottai",
+      "tu": "crottas",
+      "il": "crotta",
+      "nous": "crottâmes",
+      "vous": "crottâtes",
+      "ils": "crottèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus crotté",
+      "tu": "eus crotté",
+      "il": "eut crotté",
+      "nous": "eûmes crotté",
+      "vous": "eûtes crotté",
+      "ils": "eurent crotté"
+    },
+    "futur_simple": {
+      "je": "crotterai",
+      "tu": "crotteras",
+      "il": "crottera",
+      "nous": "crotterons",
+      "vous": "crotterez",
+      "ils": "crotteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai crotté",
+      "tu": "auras crotté",
+      "il": "aura crotté",
+      "nous": "aurons crotté",
+      "vous": "aurez crotté",
+      "ils": "auront crotté"
+    },
+    "subjonctif_présent": {
+      "je": "crotte",
+      "tu": "crottes",
+      "il": "crotte",
+      "nous": "crottions",
+      "vous": "crottiez",
+      "ils": "crottent"
+    },
+    "subjonctif_passé": {
+      "je": "aie crotté",
+      "tu": "aies crotté",
+      "il": "ait crotté",
+      "nous": "ayons crotté",
+      "vous": "ayez crotté",
+      "ils": "aient crotté"
+    },
+    "subjonctif_imparfait": {
+      "je": "crottasse",
+      "tu": "crottasses",
+      "il": "crottât",
+      "nous": "crottassions",
+      "vous": "crottassiez",
+      "ils": "crottassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse crotté",
+      "tu": "eusses crotté",
+      "il": "eût crotté",
+      "nous": "eussions crotté",
+      "vous": "eussiez crotté",
+      "ils": "eussent crotté"
+    },
+    "conditionnel_présent": {
+      "je": "crotterais",
+      "tu": "crotterais",
+      "il": "crotterait",
+      "nous": "crotterions",
+      "vous": "crotteriez",
+      "ils": "crotteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais crotté",
+      "tu": "aurais crotté",
+      "il": "aurait crotté",
+      "nous": "aurions crotté",
+      "vous": "auriez crotté",
+      "ils": "auraient crotté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse crotté",
+      "tu": "eusses crotté",
+      "il": "eût crotté",
+      "nous": "eussions crotté",
+      "vous": "eussiez crotté",
+      "ils": "eussent crotté"
+    },
+    "translation": "błoto",
+    "group": 1
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "coïncider",
+    "présent": {
+      "je": "coïncide",
+      "tu": "coïncides",
+      "il": "coïncide",
+      "nous": "coïncidons",
+      "vous": "coïncidez",
+      "ils": "coïncident"
+    },
+    "passé_composé": {
+      "je": "ai coïncidé",
+      "tu": "as coïncidé",
+      "il": "a coïncidé",
+      "nous": "avons coïncidé",
+      "vous": "avez coïncidé",
+      "ils": "ont coïncidé"
+    },
+    "imparfait": {
+      "je": "coïncidais",
+      "tu": "coïncidais",
+      "il": "coïncidait",
+      "nous": "coïncidions",
+      "vous": "coïncidiez",
+      "ils": "coïncidaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais coïncidé",
+      "tu": "avais coïncidé",
+      "il": "avait coïncidé",
+      "nous": "avions coïncidé",
+      "vous": "aviez coïncidé",
+      "ils": "avaient coïncidé"
+    },
+    "passé_simple": {
+      "je": "coïncidai",
+      "tu": "coïncidas",
+      "il": "coïncida",
+      "nous": "coïncidâmes",
+      "vous": "coïncidâtes",
+      "ils": "coïncidèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus coïncidé",
+      "tu": "eus coïncidé",
+      "il": "eut coïncidé",
+      "nous": "eûmes coïncidé",
+      "vous": "eûtes coïncidé",
+      "ils": "eurent coïncidé"
+    },
+    "futur_simple": {
+      "je": "coïnciderai",
+      "tu": "coïncideras",
+      "il": "coïncidera",
+      "nous": "coïnciderons",
+      "vous": "coïnciderez",
+      "ils": "coïncideront"
+    },
+    "futur_antérieur": {
+      "je": "aurai coïncidé",
+      "tu": "auras coïncidé",
+      "il": "aura coïncidé",
+      "nous": "aurons coïncidé",
+      "vous": "aurez coïncidé",
+      "ils": "auront coïncidé"
+    },
+    "subjonctif_présent": {
+      "je": "coïncide",
+      "tu": "coïncides",
+      "il": "coïncide",
+      "nous": "coïncidions",
+      "vous": "coïncidiez",
+      "ils": "coïncident"
+    },
+    "subjonctif_passé": {
+      "je": "aie coïncidé",
+      "tu": "aies coïncidé",
+      "il": "ait coïncidé",
+      "nous": "ayons coïncidé",
+      "vous": "ayez coïncidé",
+      "ils": "aient coïncidé"
+    },
+    "subjonctif_imparfait": {
+      "je": "coïncidasse",
+      "tu": "coïncidasses",
+      "il": "coïncidât",
+      "nous": "coïncidassions",
+      "vous": "coïncidassiez",
+      "ils": "coïncidassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse coïncidé",
+      "tu": "eusses coïncidé",
+      "il": "eût coïncidé",
+      "nous": "eussions coïncidé",
+      "vous": "eussiez coïncidé",
+      "ils": "eussent coïncidé"
+    },
+    "conditionnel_présent": {
+      "je": "coïnciderais",
+      "tu": "coïnciderais",
+      "il": "coïnciderait",
+      "nous": "coïnciderions",
+      "vous": "coïncideriez",
+      "ils": "coïncideraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais coïncidé",
+      "tu": "aurais coïncidé",
+      "il": "aurait coïncidé",
+      "nous": "aurions coïncidé",
+      "vous": "auriez coïncidé",
+      "ils": "auraient coïncidé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse coïncidé",
+      "tu": "eusses coïncidé",
+      "il": "eût coïncidé",
+      "nous": "eussions coïncidé",
+      "vous": "eussiez coïncidé",
+      "ils": "eussent coïncidé"
+    },
+    "translation": "zbiegać",
+    "group": 1
+  },
+  {
+    "infinitive": "collaborer",
+    "présent": {
+      "je": "collabore",
+      "tu": "collabores",
+      "il": "collabore",
+      "nous": "collaborons",
+      "vous": "collaborez",
+      "ils": "collaborent"
+    },
+    "passé_composé": {
+      "je": "ai collaboré",
+      "tu": "as collaboré",
+      "il": "a collaboré",
+      "nous": "avons collaboré",
+      "vous": "avez collaboré",
+      "ils": "ont collaboré"
+    },
+    "imparfait": {
+      "je": "collaborais",
+      "tu": "collaborais",
+      "il": "collaborait",
+      "nous": "collaborions",
+      "vous": "collaboriez",
+      "ils": "collaboraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais collaboré",
+      "tu": "avais collaboré",
+      "il": "avait collaboré",
+      "nous": "avions collaboré",
+      "vous": "aviez collaboré",
+      "ils": "avaient collaboré"
+    },
+    "passé_simple": {
+      "je": "collaborai",
+      "tu": "collaboras",
+      "il": "collabora",
+      "nous": "collaborâmes",
+      "vous": "collaborâtes",
+      "ils": "collaborèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus collaboré",
+      "tu": "eus collaboré",
+      "il": "eut collaboré",
+      "nous": "eûmes collaboré",
+      "vous": "eûtes collaboré",
+      "ils": "eurent collaboré"
+    },
+    "futur_simple": {
+      "je": "collaborerai",
+      "tu": "collaboreras",
+      "il": "collaborera",
+      "nous": "collaborerons",
+      "vous": "collaborerez",
+      "ils": "collaboreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai collaboré",
+      "tu": "auras collaboré",
+      "il": "aura collaboré",
+      "nous": "aurons collaboré",
+      "vous": "aurez collaboré",
+      "ils": "auront collaboré"
+    },
+    "subjonctif_présent": {
+      "je": "collabore",
+      "tu": "collabores",
+      "il": "collabore",
+      "nous": "collaborions",
+      "vous": "collaboriez",
+      "ils": "collaborent"
+    },
+    "subjonctif_passé": {
+      "je": "aie collaboré",
+      "tu": "aies collaboré",
+      "il": "ait collaboré",
+      "nous": "ayons collaboré",
+      "vous": "ayez collaboré",
+      "ils": "aient collaboré"
+    },
+    "subjonctif_imparfait": {
+      "je": "collaborasse",
+      "tu": "collaborasses",
+      "il": "collaborât",
+      "nous": "collaborassions",
+      "vous": "collaborassiez",
+      "ils": "collaborassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse collaboré",
+      "tu": "eusses collaboré",
+      "il": "eût collaboré",
+      "nous": "eussions collaboré",
+      "vous": "eussiez collaboré",
+      "ils": "eussent collaboré"
+    },
+    "conditionnel_présent": {
+      "je": "collaborerais",
+      "tu": "collaborerais",
+      "il": "collaborerait",
+      "nous": "collaborerions",
+      "vous": "collaboreriez",
+      "ils": "collaboreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais collaboré",
+      "tu": "aurais collaboré",
+      "il": "aurait collaboré",
+      "nous": "aurions collaboré",
+      "vous": "auriez collaboré",
+      "ils": "auraient collaboré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse collaboré",
+      "tu": "eusses collaboré",
+      "il": "eût collaboré",
+      "nous": "eussions collaboré",
+      "vous": "eussiez collaboré",
+      "ils": "eussent collaboré"
+    },
+    "translation": "wspólnie",
+    "group": 1
+  },
+  {
+    "infinitive": "collecter",
+    "présent": {
+      "je": "collecte",
+      "tu": "collectes",
+      "il": "collecte",
+      "nous": "collectons",
+      "vous": "collectez",
+      "ils": "collectent"
+    },
+    "passé_composé": {
+      "je": "ai collecté",
+      "tu": "as collecté",
+      "il": "a collecté",
+      "nous": "avons collecté",
+      "vous": "avez collecté",
+      "ils": "ont collecté"
+    },
+    "imparfait": {
+      "je": "collectais",
+      "tu": "collectais",
+      "il": "collectait",
+      "nous": "collections",
+      "vous": "collectiez",
+      "ils": "collectaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais collecté",
+      "tu": "avais collecté",
+      "il": "avait collecté",
+      "nous": "avions collecté",
+      "vous": "aviez collecté",
+      "ils": "avaient collecté"
+    },
+    "passé_simple": {
+      "je": "collectai",
+      "tu": "collectas",
+      "il": "collecta",
+      "nous": "collectâmes",
+      "vous": "collectâtes",
+      "ils": "collectèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus collecté",
+      "tu": "eus collecté",
+      "il": "eut collecté",
+      "nous": "eûmes collecté",
+      "vous": "eûtes collecté",
+      "ils": "eurent collecté"
+    },
+    "futur_simple": {
+      "je": "collecterai",
+      "tu": "collecteras",
+      "il": "collectera",
+      "nous": "collecterons",
+      "vous": "collecterez",
+      "ils": "collecteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai collecté",
+      "tu": "auras collecté",
+      "il": "aura collecté",
+      "nous": "aurons collecté",
+      "vous": "aurez collecté",
+      "ils": "auront collecté"
+    },
+    "subjonctif_présent": {
+      "je": "collecte",
+      "tu": "collectes",
+      "il": "collecte",
+      "nous": "collections",
+      "vous": "collectiez",
+      "ils": "collectent"
+    },
+    "subjonctif_passé": {
+      "je": "aie collecté",
+      "tu": "aies collecté",
+      "il": "ait collecté",
+      "nous": "ayons collecté",
+      "vous": "ayez collecté",
+      "ils": "aient collecté"
+    },
+    "subjonctif_imparfait": {
+      "je": "collectasse",
+      "tu": "collectasses",
+      "il": "collectât",
+      "nous": "collectassions",
+      "vous": "collectassiez",
+      "ils": "collectassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse collecté",
+      "tu": "eusses collecté",
+      "il": "eût collecté",
+      "nous": "eussions collecté",
+      "vous": "eussiez collecté",
+      "ils": "eussent collecté"
+    },
+    "conditionnel_présent": {
+      "je": "collecterais",
+      "tu": "collecterais",
+      "il": "collecterait",
+      "nous": "collecterions",
+      "vous": "collecteriez",
+      "ils": "collecteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais collecté",
+      "tu": "aurais collecté",
+      "il": "aurait collecté",
+      "nous": "aurions collecté",
+      "vous": "auriez collecté",
+      "ils": "auraient collecté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse collecté",
+      "tu": "eusses collecté",
+      "il": "eût collecté",
+      "nous": "eussions collecté",
+      "vous": "eussiez collecté",
+      "ils": "eussent collecté"
+    },
+    "translation": "kwestować",
+    "group": 1
+  },
+  {
+    "infinitive": "collectionner",
+    "présent": {
+      "je": "collectionne",
+      "tu": "collectionnes",
+      "il": "collectionne",
+      "nous": "collectionnons",
+      "vous": "collectionnez",
+      "ils": "collectionnent"
+    },
+    "passé_composé": {
+      "je": "ai collectionné",
+      "tu": "as collectionné",
+      "il": "a collectionné",
+      "nous": "avons collectionné",
+      "vous": "avez collectionné",
+      "ils": "ont collectionné"
+    },
+    "imparfait": {
+      "je": "collectionnais",
+      "tu": "collectionnais",
+      "il": "collectionnait",
+      "nous": "collectionnions",
+      "vous": "collectionniez",
+      "ils": "collectionnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais collectionné",
+      "tu": "avais collectionné",
+      "il": "avait collectionné",
+      "nous": "avions collectionné",
+      "vous": "aviez collectionné",
+      "ils": "avaient collectionné"
+    },
+    "passé_simple": {
+      "je": "collectionnai",
+      "tu": "collectionnas",
+      "il": "collectionna",
+      "nous": "collectionnâmes",
+      "vous": "collectionnâtes",
+      "ils": "collectionnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus collectionné",
+      "tu": "eus collectionné",
+      "il": "eut collectionné",
+      "nous": "eûmes collectionné",
+      "vous": "eûtes collectionné",
+      "ils": "eurent collectionné"
+    },
+    "futur_simple": {
+      "je": "collectionnerai",
+      "tu": "collectionneras",
+      "il": "collectionnera",
+      "nous": "collectionnerons",
+      "vous": "collectionnerez",
+      "ils": "collectionneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai collectionné",
+      "tu": "auras collectionné",
+      "il": "aura collectionné",
+      "nous": "aurons collectionné",
+      "vous": "aurez collectionné",
+      "ils": "auront collectionné"
+    },
+    "subjonctif_présent": {
+      "je": "collectionne",
+      "tu": "collectionnes",
+      "il": "collectionne",
+      "nous": "collectionnions",
+      "vous": "collectionniez",
+      "ils": "collectionnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie collectionné",
+      "tu": "aies collectionné",
+      "il": "ait collectionné",
+      "nous": "ayons collectionné",
+      "vous": "ayez collectionné",
+      "ils": "aient collectionné"
+    },
+    "subjonctif_imparfait": {
+      "je": "collectionnasse",
+      "tu": "collectionnasses",
+      "il": "collectionnât",
+      "nous": "collectionnassions",
+      "vous": "collectionnassiez",
+      "ils": "collectionnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse collectionné",
+      "tu": "eusses collectionné",
+      "il": "eût collectionné",
+      "nous": "eussions collectionné",
+      "vous": "eussiez collectionné",
+      "ils": "eussent collectionné"
+    },
+    "conditionnel_présent": {
+      "je": "collectionnerais",
+      "tu": "collectionnerais",
+      "il": "collectionnerait",
+      "nous": "collectionnerions",
+      "vous": "collectionneriez",
+      "ils": "collectionneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais collectionné",
+      "tu": "aurais collectionné",
+      "il": "aurait collectionné",
+      "nous": "aurions collectionné",
+      "vous": "auriez collectionné",
+      "ils": "auraient collectionné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse collectionné",
+      "tu": "eusses collectionné",
+      "il": "eût collectionné",
+      "nous": "eussions collectionné",
+      "vous": "eussiez collectionné",
+      "ils": "eussent collectionné"
+    },
+    "translation": "zbierać",
+    "group": 1
+  },
+  {
+    "infinitive": "coller",
+    "présent": {
+      "je": "colle",
+      "tu": "colles",
+      "il": "colle",
+      "nous": "collons",
+      "vous": "collez",
+      "ils": "collent"
+    },
+    "passé_composé": {
+      "je": "ai collé",
+      "tu": "as collé",
+      "il": "a collé",
+      "nous": "avons collé",
+      "vous": "avez collé",
+      "ils": "ont collé"
+    },
+    "imparfait": {
+      "je": "collais",
+      "tu": "collais",
+      "il": "collait",
+      "nous": "collions",
+      "vous": "colliez",
+      "ils": "collaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais collé",
+      "tu": "avais collé",
+      "il": "avait collé",
+      "nous": "avions collé",
+      "vous": "aviez collé",
+      "ils": "avaient collé"
+    },
+    "passé_simple": {
+      "je": "collai",
+      "tu": "collas",
+      "il": "colla",
+      "nous": "collâmes",
+      "vous": "collâtes",
+      "ils": "collèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus collé",
+      "tu": "eus collé",
+      "il": "eut collé",
+      "nous": "eûmes collé",
+      "vous": "eûtes collé",
+      "ils": "eurent collé"
+    },
+    "futur_simple": {
+      "je": "collerai",
+      "tu": "colleras",
+      "il": "collera",
+      "nous": "collerons",
+      "vous": "collerez",
+      "ils": "colleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai collé",
+      "tu": "auras collé",
+      "il": "aura collé",
+      "nous": "aurons collé",
+      "vous": "aurez collé",
+      "ils": "auront collé"
+    },
+    "subjonctif_présent": {
+      "je": "colle",
+      "tu": "colles",
+      "il": "colle",
+      "nous": "collions",
+      "vous": "colliez",
+      "ils": "collent"
+    },
+    "subjonctif_passé": {
+      "je": "aie collé",
+      "tu": "aies collé",
+      "il": "ait collé",
+      "nous": "ayons collé",
+      "vous": "ayez collé",
+      "ils": "aient collé"
+    },
+    "subjonctif_imparfait": {
+      "je": "collasse",
+      "tu": "collasses",
+      "il": "collât",
+      "nous": "collassions",
+      "vous": "collassiez",
+      "ils": "collassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse collé",
+      "tu": "eusses collé",
+      "il": "eût collé",
+      "nous": "eussions collé",
+      "vous": "eussiez collé",
+      "ils": "eussent collé"
+    },
+    "conditionnel_présent": {
+      "je": "collerais",
+      "tu": "collerais",
+      "il": "collerait",
+      "nous": "collerions",
+      "vous": "colleriez",
+      "ils": "colleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais collé",
+      "tu": "aurais collé",
+      "il": "aurait collé",
+      "nous": "aurions collé",
+      "vous": "auriez collé",
+      "ils": "auraient collé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse collé",
+      "tu": "eusses collé",
+      "il": "eût collé",
+      "nous": "eussions collé",
+      "vous": "eussiez collé",
+      "ils": "eussent collé"
+    },
+    "translation": "nalepiać",
+    "group": 1
+  },
+  {
+    "infinitive": "colorer",
+    "présent": {
+      "je": "colore",
+      "tu": "colores",
+      "il": "colore",
+      "nous": "colorons",
+      "vous": "colorez",
+      "ils": "colorent"
+    },
+    "passé_composé": {
+      "je": "ai coloré",
+      "tu": "as coloré",
+      "il": "a coloré",
+      "nous": "avons coloré",
+      "vous": "avez coloré",
+      "ils": "ont coloré"
+    },
+    "imparfait": {
+      "je": "colorais",
+      "tu": "colorais",
+      "il": "colorait",
+      "nous": "colorions",
+      "vous": "coloriez",
+      "ils": "coloraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais coloré",
+      "tu": "avais coloré",
+      "il": "avait coloré",
+      "nous": "avions coloré",
+      "vous": "aviez coloré",
+      "ils": "avaient coloré"
+    },
+    "passé_simple": {
+      "je": "colorai",
+      "tu": "coloras",
+      "il": "colora",
+      "nous": "colorâmes",
+      "vous": "colorâtes",
+      "ils": "colorèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus coloré",
+      "tu": "eus coloré",
+      "il": "eut coloré",
+      "nous": "eûmes coloré",
+      "vous": "eûtes coloré",
+      "ils": "eurent coloré"
+    },
+    "futur_simple": {
+      "je": "colorerai",
+      "tu": "coloreras",
+      "il": "colorera",
+      "nous": "colorerons",
+      "vous": "colorerez",
+      "ils": "coloreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai coloré",
+      "tu": "auras coloré",
+      "il": "aura coloré",
+      "nous": "aurons coloré",
+      "vous": "aurez coloré",
+      "ils": "auront coloré"
+    },
+    "subjonctif_présent": {
+      "je": "colore",
+      "tu": "colores",
+      "il": "colore",
+      "nous": "colorions",
+      "vous": "coloriez",
+      "ils": "colorent"
+    },
+    "subjonctif_passé": {
+      "je": "aie coloré",
+      "tu": "aies coloré",
+      "il": "ait coloré",
+      "nous": "ayons coloré",
+      "vous": "ayez coloré",
+      "ils": "aient coloré"
+    },
+    "subjonctif_imparfait": {
+      "je": "colorasse",
+      "tu": "colorasses",
+      "il": "colorât",
+      "nous": "colorassions",
+      "vous": "colorassiez",
+      "ils": "colorassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse coloré",
+      "tu": "eusses coloré",
+      "il": "eût coloré",
+      "nous": "eussions coloré",
+      "vous": "eussiez coloré",
+      "ils": "eussent coloré"
+    },
+    "conditionnel_présent": {
+      "je": "colorerais",
+      "tu": "colorerais",
+      "il": "colorerait",
+      "nous": "colorerions",
+      "vous": "coloreriez",
+      "ils": "coloreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais coloré",
+      "tu": "aurais coloré",
+      "il": "aurait coloré",
+      "nous": "aurions coloré",
+      "vous": "auriez coloré",
+      "ils": "auraient coloré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse coloré",
+      "tu": "eusses coloré",
+      "il": "eût coloré",
+      "nous": "eussions coloré",
+      "vous": "eussiez coloré",
+      "ils": "eussent coloré"
+    },
+    "translation": "farbować",
+    "group": 1
+  },
+  {
+    "infinitive": "colorier",
+    "présent": {
+      "je": "colorie",
+      "tu": "colories",
+      "il": "colorie",
+      "nous": "colorions",
+      "vous": "coloriez",
+      "ils": "colorient"
+    },
+    "passé_composé": {
+      "je": "ai colorié",
+      "tu": "as colorié",
+      "il": "a colorié",
+      "nous": "avons colorié",
+      "vous": "avez colorié",
+      "ils": "ont colorié"
+    },
+    "imparfait": {
+      "je": "coloriais",
+      "tu": "coloriais",
+      "il": "coloriait",
+      "nous": "coloriions",
+      "vous": "coloriiez",
+      "ils": "coloriaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais colorié",
+      "tu": "avais colorié",
+      "il": "avait colorié",
+      "nous": "avions colorié",
+      "vous": "aviez colorié",
+      "ils": "avaient colorié"
+    },
+    "passé_simple": {
+      "je": "coloriai",
+      "tu": "colorias",
+      "il": "coloria",
+      "nous": "coloriâmes",
+      "vous": "coloriâtes",
+      "ils": "colorièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus colorié",
+      "tu": "eus colorié",
+      "il": "eut colorié",
+      "nous": "eûmes colorié",
+      "vous": "eûtes colorié",
+      "ils": "eurent colorié"
+    },
+    "futur_simple": {
+      "je": "colorierai",
+      "tu": "colorieras",
+      "il": "coloriera",
+      "nous": "colorierons",
+      "vous": "colorierez",
+      "ils": "colorieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai colorié",
+      "tu": "auras colorié",
+      "il": "aura colorié",
+      "nous": "aurons colorié",
+      "vous": "aurez colorié",
+      "ils": "auront colorié"
+    },
+    "subjonctif_présent": {
+      "je": "colorie",
+      "tu": "colories",
+      "il": "colorie",
+      "nous": "coloriions",
+      "vous": "coloriiez",
+      "ils": "colorient"
+    },
+    "subjonctif_passé": {
+      "je": "aie colorié",
+      "tu": "aies colorié",
+      "il": "ait colorié",
+      "nous": "ayons colorié",
+      "vous": "ayez colorié",
+      "ils": "aient colorié"
+    },
+    "subjonctif_imparfait": {
+      "je": "coloriasse",
+      "tu": "coloriasses",
+      "il": "coloriât",
+      "nous": "coloriassions",
+      "vous": "coloriassiez",
+      "ils": "coloriassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse colorié",
+      "tu": "eusses colorié",
+      "il": "eût colorié",
+      "nous": "eussions colorié",
+      "vous": "eussiez colorié",
+      "ils": "eussent colorié"
+    },
+    "conditionnel_présent": {
+      "je": "colorierais",
+      "tu": "colorierais",
+      "il": "colorierait",
+      "nous": "colorierions",
+      "vous": "colorieriez",
+      "ils": "colorieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais colorié",
+      "tu": "aurais colorié",
+      "il": "aurait colorié",
+      "nous": "aurions colorié",
+      "vous": "auriez colorié",
+      "ils": "auraient colorié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse colorié",
+      "tu": "eusses colorié",
+      "il": "eût colorié",
+      "nous": "eussions colorié",
+      "vous": "eussiez colorié",
+      "ils": "eussent colorié"
+    },
+    "translation": "kolorować",
+    "group": 1
+  },
+  {
+    "infinitive": "combattre",
+    "présent": {
+      "je": "combats",
+      "tu": "combats",
+      "il": "combat",
+      "nous": "combattons",
+      "vous": "combattez",
+      "ils": "combattent"
+    },
+    "passé_composé": {
+      "je": "ai combattu",
+      "tu": "as combattu",
+      "il": "a combattu",
+      "nous": "avons combattu",
+      "vous": "avez combattu",
+      "ils": "ont combattu"
+    },
+    "imparfait": {
+      "je": "combattais",
+      "tu": "combattais",
+      "il": "combattait",
+      "nous": "combattions",
+      "vous": "combattiez",
+      "ils": "combattaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais combattu",
+      "tu": "avais combattu",
+      "il": "avait combattu",
+      "nous": "avions combattu",
+      "vous": "aviez combattu",
+      "ils": "avaient combattu"
+    },
+    "passé_simple": {
+      "je": "combattis",
+      "tu": "combattis",
+      "il": "combattit",
+      "nous": "combattîmes",
+      "vous": "combattîtes",
+      "ils": "combattirent"
+    },
+    "passé_antérieur": {
+      "je": "eus combattu",
+      "tu": "eus combattu",
+      "il": "eut combattu",
+      "nous": "eûmes combattu",
+      "vous": "eûtes combattu",
+      "ils": "eurent combattu"
+    },
+    "futur_simple": {
+      "je": "combattrai",
+      "tu": "combattras",
+      "il": "combattra",
+      "nous": "combattrons",
+      "vous": "combattrez",
+      "ils": "combattront"
+    },
+    "futur_antérieur": {
+      "je": "aurai combattu",
+      "tu": "auras combattu",
+      "il": "aura combattu",
+      "nous": "aurons combattu",
+      "vous": "aurez combattu",
+      "ils": "auront combattu"
+    },
+    "subjonctif_présent": {
+      "je": "combatte",
+      "tu": "combattes",
+      "il": "combatte",
+      "nous": "combattions",
+      "vous": "combattiez",
+      "ils": "combattent"
+    },
+    "subjonctif_passé": {
+      "je": "aie combattu",
+      "tu": "aies combattu",
+      "il": "ait combattu",
+      "nous": "ayons combattu",
+      "vous": "ayez combattu",
+      "ils": "aient combattu"
+    },
+    "subjonctif_imparfait": {
+      "je": "combattisse",
+      "tu": "combattisses",
+      "il": "combattît",
+      "nous": "combattissions",
+      "vous": "combattissiez",
+      "ils": "combattissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse combattu",
+      "tu": "eusses combattu",
+      "il": "eût combattu",
+      "nous": "eussions combattu",
+      "vous": "eussiez combattu",
+      "ils": "eussent combattu"
+    },
+    "conditionnel_présent": {
+      "je": "combattrais",
+      "tu": "combattrais",
+      "il": "combattrait",
+      "nous": "combattrions",
+      "vous": "combattriez",
+      "ils": "combattraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais combattu",
+      "tu": "aurais combattu",
+      "il": "aurait combattu",
+      "nous": "aurions combattu",
+      "vous": "auriez combattu",
+      "ils": "auraient combattu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse combattu",
+      "tu": "eusses combattu",
+      "il": "eût combattu",
+      "nous": "eussions combattu",
+      "vous": "eussiez combattu",
+      "ils": "eussent combattu"
+    },
+    "translation": "zwalczać",
+    "group": 3
+  },
+  {
+    "infinitive": "combiner",
+    "présent": {
+      "je": "combine",
+      "tu": "combines",
+      "il": "combine",
+      "nous": "combinons",
+      "vous": "combinez",
+      "ils": "combinent"
+    },
+    "passé_composé": {
+      "je": "ai combiné",
+      "tu": "as combiné",
+      "il": "a combiné",
+      "nous": "avons combiné",
+      "vous": "avez combiné",
+      "ils": "ont combiné"
+    },
+    "imparfait": {
+      "je": "combinais",
+      "tu": "combinais",
+      "il": "combinait",
+      "nous": "combinions",
+      "vous": "combiniez",
+      "ils": "combinaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais combiné",
+      "tu": "avais combiné",
+      "il": "avait combiné",
+      "nous": "avions combiné",
+      "vous": "aviez combiné",
+      "ils": "avaient combiné"
+    },
+    "passé_simple": {
+      "je": "combinai",
+      "tu": "combinas",
+      "il": "combina",
+      "nous": "combinâmes",
+      "vous": "combinâtes",
+      "ils": "combinèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus combiné",
+      "tu": "eus combiné",
+      "il": "eut combiné",
+      "nous": "eûmes combiné",
+      "vous": "eûtes combiné",
+      "ils": "eurent combiné"
+    },
+    "futur_simple": {
+      "je": "combinerai",
+      "tu": "combineras",
+      "il": "combinera",
+      "nous": "combinerons",
+      "vous": "combinerez",
+      "ils": "combineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai combiné",
+      "tu": "auras combiné",
+      "il": "aura combiné",
+      "nous": "aurons combiné",
+      "vous": "aurez combiné",
+      "ils": "auront combiné"
+    },
+    "subjonctif_présent": {
+      "je": "combine",
+      "tu": "combines",
+      "il": "combine",
+      "nous": "combinions",
+      "vous": "combiniez",
+      "ils": "combinent"
+    },
+    "subjonctif_passé": {
+      "je": "aie combiné",
+      "tu": "aies combiné",
+      "il": "ait combiné",
+      "nous": "ayons combiné",
+      "vous": "ayez combiné",
+      "ils": "aient combiné"
+    },
+    "subjonctif_imparfait": {
+      "je": "combinasse",
+      "tu": "combinasses",
+      "il": "combinât",
+      "nous": "combinassions",
+      "vous": "combinassiez",
+      "ils": "combinassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse combiné",
+      "tu": "eusses combiné",
+      "il": "eût combiné",
+      "nous": "eussions combiné",
+      "vous": "eussiez combiné",
+      "ils": "eussent combiné"
+    },
+    "conditionnel_présent": {
+      "je": "combinerais",
+      "tu": "combinerais",
+      "il": "combinerait",
+      "nous": "combinerions",
+      "vous": "combineriez",
+      "ils": "combineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais combiné",
+      "tu": "aurais combiné",
+      "il": "aurait combiné",
+      "nous": "aurions combiné",
+      "vous": "auriez combiné",
+      "ils": "auraient combiné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse combiné",
+      "tu": "eusses combiné",
+      "il": "eût combiné",
+      "nous": "eussions combiné",
+      "vous": "eussiez combiné",
+      "ils": "eussent combiné"
+    },
+    "translation": "zestawiać",
+    "group": 1
+  },
+  {
+    "infinitive": "combler",
+    "présent": {
+      "je": "comble",
+      "tu": "combles",
+      "il": "comble",
+      "nous": "comblons",
+      "vous": "comblez",
+      "ils": "comblent"
+    },
+    "passé_composé": {
+      "je": "ai comblé",
+      "tu": "as comblé",
+      "il": "a comblé",
+      "nous": "avons comblé",
+      "vous": "avez comblé",
+      "ils": "ont comblé"
+    },
+    "imparfait": {
+      "je": "comblais",
+      "tu": "comblais",
+      "il": "comblait",
+      "nous": "comblions",
+      "vous": "combliez",
+      "ils": "comblaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais comblé",
+      "tu": "avais comblé",
+      "il": "avait comblé",
+      "nous": "avions comblé",
+      "vous": "aviez comblé",
+      "ils": "avaient comblé"
+    },
+    "passé_simple": {
+      "je": "comblai",
+      "tu": "comblas",
+      "il": "combla",
+      "nous": "comblâmes",
+      "vous": "comblâtes",
+      "ils": "comblèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus comblé",
+      "tu": "eus comblé",
+      "il": "eut comblé",
+      "nous": "eûmes comblé",
+      "vous": "eûtes comblé",
+      "ils": "eurent comblé"
+    },
+    "futur_simple": {
+      "je": "comblerai",
+      "tu": "combleras",
+      "il": "comblera",
+      "nous": "comblerons",
+      "vous": "comblerez",
+      "ils": "combleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai comblé",
+      "tu": "auras comblé",
+      "il": "aura comblé",
+      "nous": "aurons comblé",
+      "vous": "aurez comblé",
+      "ils": "auront comblé"
+    },
+    "subjonctif_présent": {
+      "je": "comble",
+      "tu": "combles",
+      "il": "comble",
+      "nous": "comblions",
+      "vous": "combliez",
+      "ils": "comblent"
+    },
+    "subjonctif_passé": {
+      "je": "aie comblé",
+      "tu": "aies comblé",
+      "il": "ait comblé",
+      "nous": "ayons comblé",
+      "vous": "ayez comblé",
+      "ils": "aient comblé"
+    },
+    "subjonctif_imparfait": {
+      "je": "comblasse",
+      "tu": "comblasses",
+      "il": "comblât",
+      "nous": "comblassions",
+      "vous": "comblassiez",
+      "ils": "comblassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse comblé",
+      "tu": "eusses comblé",
+      "il": "eût comblé",
+      "nous": "eussions comblé",
+      "vous": "eussiez comblé",
+      "ils": "eussent comblé"
+    },
+    "conditionnel_présent": {
+      "je": "comblerais",
+      "tu": "comblerais",
+      "il": "comblerait",
+      "nous": "comblerions",
+      "vous": "combleriez",
+      "ils": "combleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais comblé",
+      "tu": "aurais comblé",
+      "il": "aurait comblé",
+      "nous": "aurions comblé",
+      "vous": "auriez comblé",
+      "ils": "auraient comblé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse comblé",
+      "tu": "eusses comblé",
+      "il": "eût comblé",
+      "nous": "eussions comblé",
+      "vous": "eussiez comblé",
+      "ils": "eussent comblé"
+    },
+    "translation": "zasypywać",
+    "group": 1
+  }
+]

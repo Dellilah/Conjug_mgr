@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "cacher",
+    "présent": {
+      "je": "cache",
+      "tu": "caches",
+      "il": "cache",
+      "nous": "cachons",
+      "vous": "cachez",
+      "ils": "cachent"
+    },
+    "passé_composé": {
+      "je": "ai caché",
+      "tu": "as caché",
+      "il": "a caché",
+      "nous": "avons caché",
+      "vous": "avez caché",
+      "ils": "ont caché"
+    },
+    "imparfait": {
+      "je": "cachais",
+      "tu": "cachais",
+      "il": "cachait",
+      "nous": "cachions",
+      "vous": "cachiez",
+      "ils": "cachaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais caché",
+      "tu": "avais caché",
+      "il": "avait caché",
+      "nous": "avions caché",
+      "vous": "aviez caché",
+      "ils": "avaient caché"
+    },
+    "passé_simple": {
+      "je": "cachai",
+      "tu": "cachas",
+      "il": "cacha",
+      "nous": "cachâmes",
+      "vous": "cachâtes",
+      "ils": "cachèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus caché",
+      "tu": "eus caché",
+      "il": "eut caché",
+      "nous": "eûmes caché",
+      "vous": "eûtes caché",
+      "ils": "eurent caché"
+    },
+    "futur_simple": {
+      "je": "cacherai",
+      "tu": "cacheras",
+      "il": "cachera",
+      "nous": "cacherons",
+      "vous": "cacherez",
+      "ils": "cacheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai caché",
+      "tu": "auras caché",
+      "il": "aura caché",
+      "nous": "aurons caché",
+      "vous": "aurez caché",
+      "ils": "auront caché"
+    },
+    "subjonctif_présent": {
+      "je": "cache",
+      "tu": "caches",
+      "il": "cache",
+      "nous": "cachions",
+      "vous": "cachiez",
+      "ils": "cachent"
+    },
+    "subjonctif_passé": {
+      "je": "aie caché",
+      "tu": "aies caché",
+      "il": "ait caché",
+      "nous": "ayons caché",
+      "vous": "ayez caché",
+      "ils": "aient caché"
+    },
+    "subjonctif_imparfait": {
+      "je": "cachasse",
+      "tu": "cachasses",
+      "il": "cachât",
+      "nous": "cachassions",
+      "vous": "cachassiez",
+      "ils": "cachassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse caché",
+      "tu": "eusses caché",
+      "il": "eût caché",
+      "nous": "eussions caché",
+      "vous": "eussiez caché",
+      "ils": "eussent caché"
+    },
+    "conditionnel_présent": {
+      "je": "cacherais",
+      "tu": "cacherais",
+      "il": "cacherait",
+      "nous": "cacherions",
+      "vous": "cacheriez",
+      "ils": "cacheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais caché",
+      "tu": "aurais caché",
+      "il": "aurait caché",
+      "nous": "aurions caché",
+      "vous": "auriez caché",
+      "ils": "auraient caché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse caché",
+      "tu": "eusses caché",
+      "il": "eût caché",
+      "nous": "eussions caché",
+      "vous": "eussiez caché",
+      "ils": "eussent caché"
+    },
+    "translation": "chować",
+    "group": 1
+  },
+  {
+    "infinitive": "cacheter",
+    "présent": {
+      "je": "cachette",
+      "tu": "cachettes",
+      "il": "cachette",
+      "nous": "cachetons",
+      "vous": "cachetez",
+      "ils": "cachettent"
+    },
+    "passé_composé": {
+      "je": "ai cacheté",
+      "tu": "as cacheté",
+      "il": "a cacheté",
+      "nous": "avons cacheté",
+      "vous": "avez cacheté",
+      "ils": "ont cacheté"
+    },
+    "imparfait": {
+      "je": "cachetais",
+      "tu": "cachetais",
+      "il": "cachetait",
+      "nous": "cachetions",
+      "vous": "cachetiez",
+      "ils": "cachetaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais cacheté",
+      "tu": "avais cacheté",
+      "il": "avait cacheté",
+      "nous": "avions cacheté",
+      "vous": "aviez cacheté",
+      "ils": "avaient cacheté"
+    },
+    "passé_simple": {
+      "je": "cachetai",
+      "tu": "cachetas",
+      "il": "cacheta",
+      "nous": "cachetâmes",
+      "vous": "cachetâtes",
+      "ils": "cachetèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus cacheté",
+      "tu": "eus cacheté",
+      "il": "eut cacheté",
+      "nous": "eûmes cacheté",
+      "vous": "eûtes cacheté",
+      "ils": "eurent cacheté"
+    },
+    "futur_simple": {
+      "je": "cachetterai",
+      "tu": "cachetteras",
+      "il": "cachettera",
+      "nous": "cachetterons",
+      "vous": "cachetterez",
+      "ils": "cachetteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai cacheté",
+      "tu": "auras cacheté",
+      "il": "aura cacheté",
+      "nous": "aurons cacheté",
+      "vous": "aurez cacheté",
+      "ils": "auront cacheté"
+    },
+    "subjonctif_présent": {
+      "je": "cachette",
+      "tu": "cachettes",
+      "il": "cachette",
+      "nous": "cachetions",
+      "vous": "cachetiez",
+      "ils": "cachettent"
+    },
+    "subjonctif_passé": {
+      "je": "aie cacheté",
+      "tu": "aies cacheté",
+      "il": "ait cacheté",
+      "nous": "ayons cacheté",
+      "vous": "ayez cacheté",
+      "ils": "aient cacheté"
+    },
+    "subjonctif_imparfait": {
+      "je": "cachetasse",
+      "tu": "cachetasses",
+      "il": "cachetât",
+      "nous": "cachetassions",
+      "vous": "cachetassiez",
+      "ils": "cachetassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse cacheté",
+      "tu": "eusses cacheté",
+      "il": "eût cacheté",
+      "nous": "eussions cacheté",
+      "vous": "eussiez cacheté",
+      "ils": "eussent cacheté"
+    },
+    "conditionnel_présent": {
+      "je": "cachetterais",
+      "tu": "cachetterais",
+      "il": "cachetterait",
+      "nous": "cachetterions",
+      "vous": "cachetteriez",
+      "ils": "cachetteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais cacheté",
+      "tu": "aurais cacheté",
+      "il": "aurait cacheté",
+      "nous": "aurions cacheté",
+      "vous": "auriez cacheté",
+      "ils": "auraient cacheté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse cacheté",
+      "tu": "eusses cacheté",
+      "il": "eût cacheté",
+      "nous": "eussions cacheté",
+      "vous": "eussiez cacheté",
+      "ils": "eussent cacheté"
+    },
+    "translation": "cacheter",
+    "group": 1
+  },
+  {
+    "infinitive": "calculer",
+    "présent": {
+      "je": "calcule",
+      "tu": "calcules",
+      "il": "calcule",
+      "nous": "calculons",
+      "vous": "calculez",
+      "ils": "calculent"
+    },
+    "passé_composé": {
+      "je": "ai calculé",
+      "tu": "as calculé",
+      "il": "a calculé",
+      "nous": "avons calculé",
+      "vous": "avez calculé",
+      "ils": "ont calculé"
+    },
+    "imparfait": {
+      "je": "calculais",
+      "tu": "calculais",
+      "il": "calculait",
+      "nous": "calculions",
+      "vous": "calculiez",
+      "ils": "calculaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais calculé",
+      "tu": "avais calculé",
+      "il": "avait calculé",
+      "nous": "avions calculé",
+      "vous": "aviez calculé",
+      "ils": "avaient calculé"
+    },
+    "passé_simple": {
+      "je": "calculai",
+      "tu": "calculas",
+      "il": "calcula",
+      "nous": "calculâmes",
+      "vous": "calculâtes",
+      "ils": "calculèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus calculé",
+      "tu": "eus calculé",
+      "il": "eut calculé",
+      "nous": "eûmes calculé",
+      "vous": "eûtes calculé",
+      "ils": "eurent calculé"
+    },
+    "futur_simple": {
+      "je": "calculerai",
+      "tu": "calculeras",
+      "il": "calculera",
+      "nous": "calculerons",
+      "vous": "calculerez",
+      "ils": "calculeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai calculé",
+      "tu": "auras calculé",
+      "il": "aura calculé",
+      "nous": "aurons calculé",
+      "vous": "aurez calculé",
+      "ils": "auront calculé"
+    },
+    "subjonctif_présent": {
+      "je": "calcule",
+      "tu": "calcules",
+      "il": "calcule",
+      "nous": "calculions",
+      "vous": "calculiez",
+      "ils": "calculent"
+    },
+    "subjonctif_passé": {
+      "je": "aie calculé",
+      "tu": "aies calculé",
+      "il": "ait calculé",
+      "nous": "ayons calculé",
+      "vous": "ayez calculé",
+      "ils": "aient calculé"
+    },
+    "subjonctif_imparfait": {
+      "je": "calculasse",
+      "tu": "calculasses",
+      "il": "calculât",
+      "nous": "calculassions",
+      "vous": "calculassiez",
+      "ils": "calculassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse calculé",
+      "tu": "eusses calculé",
+      "il": "eût calculé",
+      "nous": "eussions calculé",
+      "vous": "eussiez calculé",
+      "ils": "eussent calculé"
+    },
+    "conditionnel_présent": {
+      "je": "calculerais",
+      "tu": "calculerais",
+      "il": "calculerait",
+      "nous": "calculerions",
+      "vous": "calculeriez",
+      "ils": "calculeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais calculé",
+      "tu": "aurais calculé",
+      "il": "aurait calculé",
+      "nous": "aurions calculé",
+      "vous": "auriez calculé",
+      "ils": "auraient calculé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse calculé",
+      "tu": "eusses calculé",
+      "il": "eût calculé",
+      "nous": "eussions calculé",
+      "vous": "eussiez calculé",
+      "ils": "eussent calculé"
+    },
+    "translation": "liczyć",
+    "group": 1
+  },
+  {
+    "infinitive": "caler",
+    "présent": {
+      "je": "cale",
+      "tu": "cales",
+      "il": "cale",
+      "nous": "calons",
+      "vous": "calez",
+      "ils": "calent"
+    },
+    "passé_composé": {
+      "je": "ai calé",
+      "tu": "as calé",
+      "il": "a calé",
+      "nous": "avons calé",
+      "vous": "avez calé",
+      "ils": "ont calé"
+    },
+    "imparfait": {
+      "je": "calais",
+      "tu": "calais",
+      "il": "calait",
+      "nous": "calions",
+      "vous": "caliez",
+      "ils": "calaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais calé",
+      "tu": "avais calé",
+      "il": "avait calé",
+      "nous": "avions calé",
+      "vous": "aviez calé",
+      "ils": "avaient calé"
+    },
+    "passé_simple": {
+      "je": "calai",
+      "tu": "calas",
+      "il": "cala",
+      "nous": "calâmes",
+      "vous": "calâtes",
+      "ils": "calèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus calé",
+      "tu": "eus calé",
+      "il": "eut calé",
+      "nous": "eûmes calé",
+      "vous": "eûtes calé",
+      "ils": "eurent calé"
+    },
+    "futur_simple": {
+      "je": "calerai",
+      "tu": "caleras",
+      "il": "calera",
+      "nous": "calerons",
+      "vous": "calerez",
+      "ils": "caleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai calé",
+      "tu": "auras calé",
+      "il": "aura calé",
+      "nous": "aurons calé",
+      "vous": "aurez calé",
+      "ils": "auront calé"
+    },
+    "subjonctif_présent": {
+      "je": "cale",
+      "tu": "cales",
+      "il": "cale",
+      "nous": "calions",
+      "vous": "caliez",
+      "ils": "calent"
+    },
+    "subjonctif_passé": {
+      "je": "aie calé",
+      "tu": "aies calé",
+      "il": "ait calé",
+      "nous": "ayons calé",
+      "vous": "ayez calé",
+      "ils": "aient calé"
+    },
+    "subjonctif_imparfait": {
+      "je": "calasse",
+      "tu": "calasses",
+      "il": "calât",
+      "nous": "calassions",
+      "vous": "calassiez",
+      "ils": "calassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse calé",
+      "tu": "eusses calé",
+      "il": "eût calé",
+      "nous": "eussions calé",
+      "vous": "eussiez calé",
+      "ils": "eussent calé"
+    },
+    "conditionnel_présent": {
+      "je": "calerais",
+      "tu": "calerais",
+      "il": "calerait",
+      "nous": "calerions",
+      "vous": "caleriez",
+      "ils": "caleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais calé",
+      "tu": "aurais calé",
+      "il": "aurait calé",
+      "nous": "aurions calé",
+      "vous": "auriez calé",
+      "ils": "auraient calé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse calé",
+      "tu": "eusses calé",
+      "il": "eût calé",
+      "nous": "eussions calé",
+      "vous": "eussiez calé",
+      "ils": "eussent calé"
+    },
+    "translation": "ustawiać",
+    "group": 1
+  },
+  {
+    "infinitive": "calmer",
+    "présent": {
+      "je": "calme",
+      "tu": "calmes",
+      "il": "calme",
+      "nous": "calmons",
+      "vous": "calmez",
+      "ils": "calment"
+    },
+    "passé_composé": {
+      "je": "ai calmé",
+      "tu": "as calmé",
+      "il": "a calmé",
+      "nous": "avons calmé",
+      "vous": "avez calmé",
+      "ils": "ont calmé"
+    },
+    "imparfait": {
+      "je": "calmais",
+      "tu": "calmais",
+      "il": "calmait",
+      "nous": "calmions",
+      "vous": "calmiez",
+      "ils": "calmaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais calmé",
+      "tu": "avais calmé",
+      "il": "avait calmé",
+      "nous": "avions calmé",
+      "vous": "aviez calmé",
+      "ils": "avaient calmé"
+    },
+    "passé_simple": {
+      "je": "calmai",
+      "tu": "calmas",
+      "il": "calma",
+      "nous": "calmâmes",
+      "vous": "calmâtes",
+      "ils": "calmèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus calmé",
+      "tu": "eus calmé",
+      "il": "eut calmé",
+      "nous": "eûmes calmé",
+      "vous": "eûtes calmé",
+      "ils": "eurent calmé"
+    },
+    "futur_simple": {
+      "je": "calmerai",
+      "tu": "calmeras",
+      "il": "calmera",
+      "nous": "calmerons",
+      "vous": "calmerez",
+      "ils": "calmeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai calmé",
+      "tu": "auras calmé",
+      "il": "aura calmé",
+      "nous": "aurons calmé",
+      "vous": "aurez calmé",
+      "ils": "auront calmé"
+    },
+    "subjonctif_présent": {
+      "je": "calme",
+      "tu": "calmes",
+      "il": "calme",
+      "nous": "calmions",
+      "vous": "calmiez",
+      "ils": "calment"
+    },
+    "subjonctif_passé": {
+      "je": "aie calmé",
+      "tu": "aies calmé",
+      "il": "ait calmé",
+      "nous": "ayons calmé",
+      "vous": "ayez calmé",
+      "ils": "aient calmé"
+    },
+    "subjonctif_imparfait": {
+      "je": "calmasse",
+      "tu": "calmasses",
+      "il": "calmât",
+      "nous": "calmassions",
+      "vous": "calmassiez",
+      "ils": "calmassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse calmé",
+      "tu": "eusses calmé",
+      "il": "eût calmé",
+      "nous": "eussions calmé",
+      "vous": "eussiez calmé",
+      "ils": "eussent calmé"
+    },
+    "conditionnel_présent": {
+      "je": "calmerais",
+      "tu": "calmerais",
+      "il": "calmerait",
+      "nous": "calmerions",
+      "vous": "calmeriez",
+      "ils": "calmeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais calmé",
+      "tu": "aurais calmé",
+      "il": "aurait calmé",
+      "nous": "aurions calmé",
+      "vous": "auriez calmé",
+      "ils": "auraient calmé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse calmé",
+      "tu": "eusses calmé",
+      "il": "eût calmé",
+      "nous": "eussions calmé",
+      "vous": "eussiez calmé",
+      "ils": "eussent calmé"
+    },
+    "translation": "uspokajać",
+    "group": 1
+  },
+  {
+    "infinitive": "caner",
+    "présent": {
+      "je": "cane",
+      "tu": "canes",
+      "il": "cane",
+      "nous": "canons",
+      "vous": "canez",
+      "ils": "canent"
+    },
+    "passé_composé": {
+      "je": "ai cané",
+      "tu": "as cané",
+      "il": "a cané",
+      "nous": "avons cané",
+      "vous": "avez cané",
+      "ils": "ont cané"
+    },
+    "imparfait": {
+      "je": "canais",
+      "tu": "canais",
+      "il": "canait",
+      "nous": "canions",
+      "vous": "caniez",
+      "ils": "canaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais cané",
+      "tu": "avais cané",
+      "il": "avait cané",
+      "nous": "avions cané",
+      "vous": "aviez cané",
+      "ils": "avaient cané"
+    },
+    "passé_simple": {
+      "je": "canai",
+      "tu": "canas",
+      "il": "cana",
+      "nous": "canâmes",
+      "vous": "canâtes",
+      "ils": "canèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus cané",
+      "tu": "eus cané",
+      "il": "eut cané",
+      "nous": "eûmes cané",
+      "vous": "eûtes cané",
+      "ils": "eurent cané"
+    },
+    "futur_simple": {
+      "je": "canerai",
+      "tu": "caneras",
+      "il": "canera",
+      "nous": "canerons",
+      "vous": "canerez",
+      "ils": "caneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai cané",
+      "tu": "auras cané",
+      "il": "aura cané",
+      "nous": "aurons cané",
+      "vous": "aurez cané",
+      "ils": "auront cané"
+    },
+    "subjonctif_présent": {
+      "je": "cane",
+      "tu": "canes",
+      "il": "cane",
+      "nous": "canions",
+      "vous": "caniez",
+      "ils": "canent"
+    },
+    "subjonctif_passé": {
+      "je": "aie cané",
+      "tu": "aies cané",
+      "il": "ait cané",
+      "nous": "ayons cané",
+      "vous": "ayez cané",
+      "ils": "aient cané"
+    },
+    "subjonctif_imparfait": {
+      "je": "canasse",
+      "tu": "canasses",
+      "il": "canât",
+      "nous": "canassions",
+      "vous": "canassiez",
+      "ils": "canassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse cané",
+      "tu": "eusses cané",
+      "il": "eût cané",
+      "nous": "eussions cané",
+      "vous": "eussiez cané",
+      "ils": "eussent cané"
+    },
+    "conditionnel_présent": {
+      "je": "canerais",
+      "tu": "canerais",
+      "il": "canerait",
+      "nous": "canerions",
+      "vous": "caneriez",
+      "ils": "caneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais cané",
+      "tu": "aurais cané",
+      "il": "aurait cané",
+      "nous": "aurions cané",
+      "vous": "auriez cané",
+      "ils": "auraient cané"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse cané",
+      "tu": "eusses cané",
+      "il": "eût cané",
+      "nous": "eussions cané",
+      "vous": "eussiez cané",
+      "ils": "eussent cané"
+    },
+    "translation": "rak",
+    "group": 1
+  },
+  {
+    "infinitive": "capeler",
+    "présent": {
+      "je": "capelle",
+      "tu": "capelles",
+      "il": "capelle",
+      "nous": "capelons",
+      "vous": "capelez",
+      "ils": "capellent"
+    },
+    "passé_composé": {
+      "je": "ai capelé",
+      "tu": "as capelé",
+      "il": "a capelé",
+      "nous": "avons capelé",
+      "vous": "avez capelé",
+      "ils": "ont capelé"
+    },
+    "imparfait": {
+      "je": "capelais",
+      "tu": "capelais",
+      "il": "capelait",
+      "nous": "capelions",
+      "vous": "capeliez",
+      "ils": "capelaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais capelé",
+      "tu": "avais capelé",
+      "il": "avait capelé",
+      "nous": "avions capelé",
+      "vous": "aviez capelé",
+      "ils": "avaient capelé"
+    },
+    "passé_simple": {
+      "je": "capelai",
+      "tu": "capelas",
+      "il": "capela",
+      "nous": "capelâmes",
+      "vous": "capelâtes",
+      "ils": "capelèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus capelé",
+      "tu": "eus capelé",
+      "il": "eut capelé",
+      "nous": "eûmes capelé",
+      "vous": "eûtes capelé",
+      "ils": "eurent capelé"
+    },
+    "futur_simple": {
+      "je": "capellerai",
+      "tu": "capelleras",
+      "il": "capellera",
+      "nous": "capellerons",
+      "vous": "capellerez",
+      "ils": "capelleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai capelé",
+      "tu": "auras capelé",
+      "il": "aura capelé",
+      "nous": "aurons capelé",
+      "vous": "aurez capelé",
+      "ils": "auront capelé"
+    },
+    "subjonctif_présent": {
+      "je": "capelle",
+      "tu": "capelles",
+      "il": "capelle",
+      "nous": "capelions",
+      "vous": "capeliez",
+      "ils": "capellent"
+    },
+    "subjonctif_passé": {
+      "je": "aie capelé",
+      "tu": "aies capelé",
+      "il": "ait capelé",
+      "nous": "ayons capelé",
+      "vous": "ayez capelé",
+      "ils": "aient capelé"
+    },
+    "subjonctif_imparfait": {
+      "je": "capelasse",
+      "tu": "capelasses",
+      "il": "capelât",
+      "nous": "capelassions",
+      "vous": "capelassiez",
+      "ils": "capelassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse capelé",
+      "tu": "eusses capelé",
+      "il": "eût capelé",
+      "nous": "eussions capelé",
+      "vous": "eussiez capelé",
+      "ils": "eussent capelé"
+    },
+    "conditionnel_présent": {
+      "je": "capellerais",
+      "tu": "capellerais",
+      "il": "capellerait",
+      "nous": "capellerions",
+      "vous": "capelleriez",
+      "ils": "capelleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais capelé",
+      "tu": "aurais capelé",
+      "il": "aurait capelé",
+      "nous": "aurions capelé",
+      "vous": "auriez capelé",
+      "ils": "auraient capelé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse capelé",
+      "tu": "eusses capelé",
+      "il": "eût capelé",
+      "nous": "eussions capelé",
+      "vous": "eussiez capelé",
+      "ils": "eussent capelé"
+    },
+    "translation": "ujmować",
+    "group": 1
+  },
+  {
+    "infinitive": "caper",
+    "présent": {
+      "je": "cape",
+      "tu": "capes",
+      "il": "cape",
+      "nous": "capons",
+      "vous": "capez",
+      "ils": "capent"
+    },
+    "passé_composé": {
+      "je": "ai capé",
+      "tu": "as capé",
+      "il": "a capé",
+      "nous": "avons capé",
+      "vous": "avez capé",
+      "ils": "ont capé"
+    },
+    "imparfait": {
+      "je": "capais",
+      "tu": "capais",
+      "il": "capait",
+      "nous": "capions",
+      "vous": "capiez",
+      "ils": "capaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais capé",
+      "tu": "avais capé",
+      "il": "avait capé",
+      "nous": "avions capé",
+      "vous": "aviez capé",
+      "ils": "avaient capé"
+    },
+    "passé_simple": {
+      "je": "capai",
+      "tu": "capas",
+      "il": "capa",
+      "nous": "capâmes",
+      "vous": "capâtes",
+      "ils": "capèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus capé",
+      "tu": "eus capé",
+      "il": "eut capé",
+      "nous": "eûmes capé",
+      "vous": "eûtes capé",
+      "ils": "eurent capé"
+    },
+    "futur_simple": {
+      "je": "caperai",
+      "tu": "caperas",
+      "il": "capera",
+      "nous": "caperons",
+      "vous": "caperez",
+      "ils": "caperont"
+    },
+    "futur_antérieur": {
+      "je": "aurai capé",
+      "tu": "auras capé",
+      "il": "aura capé",
+      "nous": "aurons capé",
+      "vous": "aurez capé",
+      "ils": "auront capé"
+    },
+    "subjonctif_présent": {
+      "je": "cape",
+      "tu": "capes",
+      "il": "cape",
+      "nous": "capions",
+      "vous": "capiez",
+      "ils": "capent"
+    },
+    "subjonctif_passé": {
+      "je": "aie capé",
+      "tu": "aies capé",
+      "il": "ait capé",
+      "nous": "ayons capé",
+      "vous": "ayez capé",
+      "ils": "aient capé"
+    },
+    "subjonctif_imparfait": {
+      "je": "capasse",
+      "tu": "capasses",
+      "il": "capât",
+      "nous": "capassions",
+      "vous": "capassiez",
+      "ils": "capassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse capé",
+      "tu": "eusses capé",
+      "il": "eût capé",
+      "nous": "eussions capé",
+      "vous": "eussiez capé",
+      "ils": "eussent capé"
+    },
+    "conditionnel_présent": {
+      "je": "caperais",
+      "tu": "caperais",
+      "il": "caperait",
+      "nous": "caperions",
+      "vous": "caperiez",
+      "ils": "caperaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais capé",
+      "tu": "aurais capé",
+      "il": "aurait capé",
+      "nous": "aurions capé",
+      "vous": "auriez capé",
+      "ils": "auraient capé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse capé",
+      "tu": "eusses capé",
+      "il": "eût capé",
+      "nous": "eussions capé",
+      "vous": "eussiez capé",
+      "ils": "eussent capé"
+    },
+    "translation": "ujmować",
+    "group": 1
+  },
+  {
+    "infinitive": "capter",
+    "présent": {
+      "je": "capte",
+      "tu": "captes",
+      "il": "capte",
+      "nous": "captons",
+      "vous": "captez",
+      "ils": "captent"
+    },
+    "passé_composé": {
+      "je": "ai capté",
+      "tu": "as capté",
+      "il": "a capté",
+      "nous": "avons capté",
+      "vous": "avez capté",
+      "ils": "ont capté"
+    },
+    "imparfait": {
+      "je": "captais",
+      "tu": "captais",
+      "il": "captait",
+      "nous": "captions",
+      "vous": "captiez",
+      "ils": "captaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais capté",
+      "tu": "avais capté",
+      "il": "avait capté",
+      "nous": "avions capté",
+      "vous": "aviez capté",
+      "ils": "avaient capté"
+    },
+    "passé_simple": {
+      "je": "captai",
+      "tu": "captas",
+      "il": "capta",
+      "nous": "captâmes",
+      "vous": "captâtes",
+      "ils": "captèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus capté",
+      "tu": "eus capté",
+      "il": "eut capté",
+      "nous": "eûmes capté",
+      "vous": "eûtes capté",
+      "ils": "eurent capté"
+    },
+    "futur_simple": {
+      "je": "capterai",
+      "tu": "capteras",
+      "il": "captera",
+      "nous": "capterons",
+      "vous": "capterez",
+      "ils": "capteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai capté",
+      "tu": "auras capté",
+      "il": "aura capté",
+      "nous": "aurons capté",
+      "vous": "aurez capté",
+      "ils": "auront capté"
+    },
+    "subjonctif_présent": {
+      "je": "capte",
+      "tu": "captes",
+      "il": "capte",
+      "nous": "captions",
+      "vous": "captiez",
+      "ils": "captent"
+    },
+    "subjonctif_passé": {
+      "je": "aie capté",
+      "tu": "aies capté",
+      "il": "ait capté",
+      "nous": "ayons capté",
+      "vous": "ayez capté",
+      "ils": "aient capté"
+    },
+    "subjonctif_imparfait": {
+      "je": "captasse",
+      "tu": "captasses",
+      "il": "captât",
+      "nous": "captassions",
+      "vous": "captassiez",
+      "ils": "captassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse capté",
+      "tu": "eusses capté",
+      "il": "eût capté",
+      "nous": "eussions capté",
+      "vous": "eussiez capté",
+      "ils": "eussent capté"
+    },
+    "conditionnel_présent": {
+      "je": "capterais",
+      "tu": "capterais",
+      "il": "capterait",
+      "nous": "capterions",
+      "vous": "capteriez",
+      "ils": "capteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais capté",
+      "tu": "aurais capté",
+      "il": "aurait capté",
+      "nous": "aurions capté",
+      "vous": "auriez capté",
+      "ils": "auraient capté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse capté",
+      "tu": "eusses capté",
+      "il": "eût capté",
+      "nous": "eussions capté",
+      "vous": "eussiez capté",
+      "ils": "eussent capté"
+    },
+    "translation": "ujmować",
+    "group": 1
+  },
+  {
+    "infinitive": "caqueter",
+    "présent": {
+      "je": "caquette",
+      "tu": "caquettes",
+      "il": "caquette",
+      "nous": "caquetons",
+      "vous": "caquetez",
+      "ils": "caquettent"
+    },
+    "passé_composé": {
+      "je": "ai caqueté",
+      "tu": "as caqueté",
+      "il": "a caqueté",
+      "nous": "avons caqueté",
+      "vous": "avez caqueté",
+      "ils": "ont caqueté"
+    },
+    "imparfait": {
+      "je": "caquetais",
+      "tu": "caquetais",
+      "il": "caquetait",
+      "nous": "caquetions",
+      "vous": "caquetiez",
+      "ils": "caquetaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais caqueté",
+      "tu": "avais caqueté",
+      "il": "avait caqueté",
+      "nous": "avions caqueté",
+      "vous": "aviez caqueté",
+      "ils": "avaient caqueté"
+    },
+    "passé_simple": {
+      "je": "caquetai",
+      "tu": "caquetas",
+      "il": "caqueta",
+      "nous": "caquetâmes",
+      "vous": "caquetâtes",
+      "ils": "caquetèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus caqueté",
+      "tu": "eus caqueté",
+      "il": "eut caqueté",
+      "nous": "eûmes caqueté",
+      "vous": "eûtes caqueté",
+      "ils": "eurent caqueté"
+    },
+    "futur_simple": {
+      "je": "caquetterai",
+      "tu": "caquetteras",
+      "il": "caquettera",
+      "nous": "caquetterons",
+      "vous": "caquetterez",
+      "ils": "caquetteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai caqueté",
+      "tu": "auras caqueté",
+      "il": "aura caqueté",
+      "nous": "aurons caqueté",
+      "vous": "aurez caqueté",
+      "ils": "auront caqueté"
+    },
+    "subjonctif_présent": {
+      "je": "caquette",
+      "tu": "caquettes",
+      "il": "caquette",
+      "nous": "caquetions",
+      "vous": "caquetiez",
+      "ils": "caquettent"
+    },
+    "subjonctif_passé": {
+      "je": "aie caqueté",
+      "tu": "aies caqueté",
+      "il": "ait caqueté",
+      "nous": "ayons caqueté",
+      "vous": "ayez caqueté",
+      "ils": "aient caqueté"
+    },
+    "subjonctif_imparfait": {
+      "je": "caquetasse",
+      "tu": "caquetasses",
+      "il": "caquetât",
+      "nous": "caquetassions",
+      "vous": "caquetassiez",
+      "ils": "caquetassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse caqueté",
+      "tu": "eusses caqueté",
+      "il": "eût caqueté",
+      "nous": "eussions caqueté",
+      "vous": "eussiez caqueté",
+      "ils": "eussent caqueté"
+    },
+    "conditionnel_présent": {
+      "je": "caquetterais",
+      "tu": "caquetterais",
+      "il": "caquetterait",
+      "nous": "caquetterions",
+      "vous": "caquetteriez",
+      "ils": "caquetteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais caqueté",
+      "tu": "aurais caqueté",
+      "il": "aurait caqueté",
+      "nous": "aurions caqueté",
+      "vous": "auriez caqueté",
+      "ils": "auraient caqueté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse caqueté",
+      "tu": "eusses caqueté",
+      "il": "eût caqueté",
+      "nous": "eussions caqueté",
+      "vous": "eussiez caqueté",
+      "ils": "eussent caqueté"
+    },
+    "translation": "caqueter",
+    "group": 1
+  }
+]

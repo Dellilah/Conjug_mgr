@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "apaiser",
+    "présent": {
+      "je": "apaise",
+      "tu": "apaises",
+      "il": "apaise",
+      "nous": "apaisons",
+      "vous": "apaisez",
+      "ils": "apaisent"
+    },
+    "passé_composé": {
+      "je": "ai apaisé",
+      "tu": "as apaisé",
+      "il": "a apaisé",
+      "nous": "avons apaisé",
+      "vous": "avez apaisé",
+      "ils": "ont apaisé"
+    },
+    "imparfait": {
+      "je": "apaisais",
+      "tu": "apaisais",
+      "il": "apaisait",
+      "nous": "apaisions",
+      "vous": "apaisiez",
+      "ils": "apaisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais apaisé",
+      "tu": "avais apaisé",
+      "il": "avait apaisé",
+      "nous": "avions apaisé",
+      "vous": "aviez apaisé",
+      "ils": "avaient apaisé"
+    },
+    "passé_simple": {
+      "je": "apaisai",
+      "tu": "apaisas",
+      "il": "apaisa",
+      "nous": "apaisâmes",
+      "vous": "apaisâtes",
+      "ils": "apaisèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus apaisé",
+      "tu": "eus apaisé",
+      "il": "eut apaisé",
+      "nous": "eûmes apaisé",
+      "vous": "eûtes apaisé",
+      "ils": "eurent apaisé"
+    },
+    "futur_simple": {
+      "je": "apaiserai",
+      "tu": "apaiseras",
+      "il": "apaisera",
+      "nous": "apaiserons",
+      "vous": "apaiserez",
+      "ils": "apaiseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai apaisé",
+      "tu": "auras apaisé",
+      "il": "aura apaisé",
+      "nous": "aurons apaisé",
+      "vous": "aurez apaisé",
+      "ils": "auront apaisé"
+    },
+    "subjonctif_présent": {
+      "je": "apaise",
+      "tu": "apaises",
+      "il": "apaise",
+      "nous": "apaisions",
+      "vous": "apaisiez",
+      "ils": "apaisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie apaisé",
+      "tu": "aies apaisé",
+      "il": "ait apaisé",
+      "nous": "ayons apaisé",
+      "vous": "ayez apaisé",
+      "ils": "aient apaisé"
+    },
+    "subjonctif_imparfait": {
+      "je": "apaisasse",
+      "tu": "apaisasses",
+      "il": "apaisât",
+      "nous": "apaisassions",
+      "vous": "apaisassiez",
+      "ils": "apaisassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse apaisé",
+      "tu": "eusses apaisé",
+      "il": "eût apaisé",
+      "nous": "eussions apaisé",
+      "vous": "eussiez apaisé",
+      "ils": "eussent apaisé"
+    },
+    "conditionnel_présent": {
+      "je": "apaiserais",
+      "tu": "apaiserais",
+      "il": "apaiserait",
+      "nous": "apaiserions",
+      "vous": "apaiseriez",
+      "ils": "apaiseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais apaisé",
+      "tu": "aurais apaisé",
+      "il": "aurait apaisé",
+      "nous": "aurions apaisé",
+      "vous": "auriez apaisé",
+      "ils": "auraient apaisé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse apaisé",
+      "tu": "eusses apaisé",
+      "il": "eût apaisé",
+      "nous": "eussions apaisé",
+      "vous": "eussiez apaisé",
+      "ils": "eussent apaisé"
+    },
+    "translation": "uspokajać",
+    "group": 1
+  },
+  {
+    "infinitive": "apercevoir",
+    "présent": {
+      "je": "aperçois",
+      "tu": "aperçois",
+      "il": "aperçoit",
+      "nous": "apercevons",
+      "vous": "apercevez",
+      "ils": "aperçoivent"
+    },
+    "passé_composé": {
+      "je": "ai aperçu",
+      "tu": "as aperçu",
+      "il": "a aperçu",
+      "nous": "avons aperçu",
+      "vous": "avez aperçu",
+      "ils": "ont aperçu"
+    },
+    "imparfait": {
+      "je": "apercevais",
+      "tu": "apercevais",
+      "il": "apercevait",
+      "nous": "apercevions",
+      "vous": "aperceviez",
+      "ils": "apercevaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais aperçu",
+      "tu": "avais aperçu",
+      "il": "avait aperçu",
+      "nous": "avions aperçu",
+      "vous": "aviez aperçu",
+      "ils": "avaient aperçu"
+    },
+    "passé_simple": {
+      "je": "aperçus",
+      "tu": "aperçus",
+      "il": "aperçut",
+      "nous": "aperçûmes",
+      "vous": "aperçûtes",
+      "ils": "aperçurent"
+    },
+    "passé_antérieur": {
+      "je": "eus aperçu",
+      "tu": "eus aperçu",
+      "il": "eut aperçu",
+      "nous": "eûmes aperçu",
+      "vous": "eûtes aperçu",
+      "ils": "eurent aperçu"
+    },
+    "futur_simple": {
+      "je": "apercevrai",
+      "tu": "apercevras",
+      "il": "apercevra",
+      "nous": "apercevrons",
+      "vous": "apercevrez",
+      "ils": "apercevront"
+    },
+    "futur_antérieur": {
+      "je": "aurai aperçu",
+      "tu": "auras aperçu",
+      "il": "aura aperçu",
+      "nous": "aurons aperçu",
+      "vous": "aurez aperçu",
+      "ils": "auront aperçu"
+    },
+    "subjonctif_présent": {
+      "je": "aperçoive",
+      "tu": "aperçoives",
+      "il": "aperçoive",
+      "nous": "apercevions",
+      "vous": "aperceviez",
+      "ils": "aperçoivent"
+    },
+    "subjonctif_passé": {
+      "je": "aie aperçu",
+      "tu": "aies aperçu",
+      "il": "ait aperçu",
+      "nous": "ayons aperçu",
+      "vous": "ayez aperçu",
+      "ils": "aient aperçu"
+    },
+    "subjonctif_imparfait": {
+      "je": "aperçusse",
+      "tu": "aperçusses",
+      "il": "aperçût",
+      "nous": "aperçussions",
+      "vous": "aperçussiez",
+      "ils": "aperçussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse aperçu",
+      "tu": "eusses aperçu",
+      "il": "eût aperçu",
+      "nous": "eussions aperçu",
+      "vous": "eussiez aperçu",
+      "ils": "eussent aperçu"
+    },
+    "conditionnel_présent": {
+      "je": "apercevrais",
+      "tu": "apercevrais",
+      "il": "apercevrait",
+      "nous": "apercevrions",
+      "vous": "apercevriez",
+      "ils": "apercevraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais aperçu",
+      "tu": "aurais aperçu",
+      "il": "aurait aperçu",
+      "nous": "aurions aperçu",
+      "vous": "auriez aperçu",
+      "ils": "auraient aperçu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse aperçu",
+      "tu": "eusses aperçu",
+      "il": "eût aperçu",
+      "nous": "eussions aperçu",
+      "vous": "eussiez aperçu",
+      "ils": "eussent aperçu"
+    },
+    "translation": "zauważać",
+    "group": 3
+  },
+  {
+    "infinitive": "apeurer",
+    "présent": {
+      "je": "apeure",
+      "tu": "apeures",
+      "il": "apeure",
+      "nous": "apeurons",
+      "vous": "apeurez",
+      "ils": "apeurent"
+    },
+    "passé_composé": {
+      "je": "ai apeuré",
+      "tu": "as apeuré",
+      "il": "a apeuré",
+      "nous": "avons apeuré",
+      "vous": "avez apeuré",
+      "ils": "ont apeuré"
+    },
+    "imparfait": {
+      "je": "apeurais",
+      "tu": "apeurais",
+      "il": "apeurait",
+      "nous": "apeurions",
+      "vous": "apeuriez",
+      "ils": "apeuraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais apeuré",
+      "tu": "avais apeuré",
+      "il": "avait apeuré",
+      "nous": "avions apeuré",
+      "vous": "aviez apeuré",
+      "ils": "avaient apeuré"
+    },
+    "passé_simple": {
+      "je": "apeurai",
+      "tu": "apeuras",
+      "il": "apeura",
+      "nous": "apeurâmes",
+      "vous": "apeurâtes",
+      "ils": "apeurèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus apeuré",
+      "tu": "eus apeuré",
+      "il": "eut apeuré",
+      "nous": "eûmes apeuré",
+      "vous": "eûtes apeuré",
+      "ils": "eurent apeuré"
+    },
+    "futur_simple": {
+      "je": "apeurerai",
+      "tu": "apeureras",
+      "il": "apeurera",
+      "nous": "apeurerons",
+      "vous": "apeurerez",
+      "ils": "apeureront"
+    },
+    "futur_antérieur": {
+      "je": "aurai apeuré",
+      "tu": "auras apeuré",
+      "il": "aura apeuré",
+      "nous": "aurons apeuré",
+      "vous": "aurez apeuré",
+      "ils": "auront apeuré"
+    },
+    "subjonctif_présent": {
+      "je": "apeure",
+      "tu": "apeures",
+      "il": "apeure",
+      "nous": "apeurions",
+      "vous": "apeuriez",
+      "ils": "apeurent"
+    },
+    "subjonctif_passé": {
+      "je": "aie apeuré",
+      "tu": "aies apeuré",
+      "il": "ait apeuré",
+      "nous": "ayons apeuré",
+      "vous": "ayez apeuré",
+      "ils": "aient apeuré"
+    },
+    "subjonctif_imparfait": {
+      "je": "apeurasse",
+      "tu": "apeurasses",
+      "il": "apeurât",
+      "nous": "apeurassions",
+      "vous": "apeurassiez",
+      "ils": "apeurassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse apeuré",
+      "tu": "eusses apeuré",
+      "il": "eût apeuré",
+      "nous": "eussions apeuré",
+      "vous": "eussiez apeuré",
+      "ils": "eussent apeuré"
+    },
+    "conditionnel_présent": {
+      "je": "apeurerais",
+      "tu": "apeurerais",
+      "il": "apeurerait",
+      "nous": "apeurerions",
+      "vous": "apeureriez",
+      "ils": "apeureraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais apeuré",
+      "tu": "aurais apeuré",
+      "il": "aurait apeuré",
+      "nous": "aurions apeuré",
+      "vous": "auriez apeuré",
+      "ils": "auraient apeuré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse apeuré",
+      "tu": "eusses apeuré",
+      "il": "eût apeuré",
+      "nous": "eussions apeuré",
+      "vous": "eussiez apeuré",
+      "ils": "eussent apeuré"
+    },
+    "translation": "wystraszony",
+    "group": 1
+  },
+  {
+    "infinitive": "apitoyer",
+    "présent": {
+      "je": "apitoie",
+      "tu": "apitoies",
+      "il": "apitoie",
+      "nous": "apitoyons",
+      "vous": "apitoyez",
+      "ils": "apitoient"
+    },
+    "passé_composé": {
+      "je": "ai apitoyé",
+      "tu": "as apitoyé",
+      "il": "a apitoyé",
+      "nous": "avons apitoyé",
+      "vous": "avez apitoyé",
+      "ils": "ont apitoyé"
+    },
+    "imparfait": {
+      "je": "apitoyais",
+      "tu": "apitoyais",
+      "il": "apitoyait",
+      "nous": "apitoyions",
+      "vous": "apitoyiez",
+      "ils": "apitoyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais apitoyé",
+      "tu": "avais apitoyé",
+      "il": "avait apitoyé",
+      "nous": "avions apitoyé",
+      "vous": "aviez apitoyé",
+      "ils": "avaient apitoyé"
+    },
+    "passé_simple": {
+      "je": "apitoyai",
+      "tu": "apitoyas",
+      "il": "apitoya",
+      "nous": "apitoyâmes",
+      "vous": "apitoyâtes",
+      "ils": "apitoyèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus apitoyé",
+      "tu": "eus apitoyé",
+      "il": "eut apitoyé",
+      "nous": "eûmes apitoyé",
+      "vous": "eûtes apitoyé",
+      "ils": "eurent apitoyé"
+    },
+    "futur_simple": {
+      "je": "apitoierai",
+      "tu": "apitoieras",
+      "il": "apitoiera",
+      "nous": "apitoierons",
+      "vous": "apitoierez",
+      "ils": "apitoieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai apitoyé",
+      "tu": "auras apitoyé",
+      "il": "aura apitoyé",
+      "nous": "aurons apitoyé",
+      "vous": "aurez apitoyé",
+      "ils": "auront apitoyé"
+    },
+    "subjonctif_présent": {
+      "je": "apitoie",
+      "tu": "apitoies",
+      "il": "apitoie",
+      "nous": "apitoyions",
+      "vous": "apitoyiez",
+      "ils": "apitoient"
+    },
+    "subjonctif_passé": {
+      "je": "aie apitoyé",
+      "tu": "aies apitoyé",
+      "il": "ait apitoyé",
+      "nous": "ayons apitoyé",
+      "vous": "ayez apitoyé",
+      "ils": "aient apitoyé"
+    },
+    "subjonctif_imparfait": {
+      "je": "apitoyasse",
+      "tu": "apitoyasses",
+      "il": "apitoyât",
+      "nous": "apitoyassions",
+      "vous": "apitoyassiez",
+      "ils": "apitoyassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse apitoyé",
+      "tu": "eusses apitoyé",
+      "il": "eût apitoyé",
+      "nous": "eussions apitoyé",
+      "vous": "eussiez apitoyé",
+      "ils": "eussent apitoyé"
+    },
+    "conditionnel_présent": {
+      "je": "apitoierais",
+      "tu": "apitoierais",
+      "il": "apitoierait",
+      "nous": "apitoierions",
+      "vous": "apitoieriez",
+      "ils": "apitoieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais apitoyé",
+      "tu": "aurais apitoyé",
+      "il": "aurait apitoyé",
+      "nous": "aurions apitoyé",
+      "vous": "auriez apitoyé",
+      "ils": "auraient apitoyé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse apitoyé",
+      "tu": "eusses apitoyé",
+      "il": "eût apitoyé",
+      "nous": "eussions apitoyé",
+      "vous": "eussiez apitoyé",
+      "ils": "eussent apitoyé"
+    },
+    "translation": "litować",
+    "group": 1
+  },
+  {
+    "infinitive": "aplanir",
+    "présent": {
+      "je": "aplanis",
+      "tu": "aplanis",
+      "il": "aplanit",
+      "nous": "aplanissons",
+      "vous": "aplanissez",
+      "ils": "aplanissent"
+    },
+    "passé_composé": {
+      "je": "ai aplani",
+      "tu": "as aplani",
+      "il": "a aplani",
+      "nous": "avons aplani",
+      "vous": "avez aplani",
+      "ils": "ont aplani"
+    },
+    "imparfait": {
+      "je": "aplanissais",
+      "tu": "aplanissais",
+      "il": "aplanissait",
+      "nous": "aplanissions",
+      "vous": "aplanissiez",
+      "ils": "aplanissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais aplani",
+      "tu": "avais aplani",
+      "il": "avait aplani",
+      "nous": "avions aplani",
+      "vous": "aviez aplani",
+      "ils": "avaient aplani"
+    },
+    "passé_simple": {
+      "je": "aplanis",
+      "tu": "aplanis",
+      "il": "aplanit",
+      "nous": "aplanîmes",
+      "vous": "aplanîtes",
+      "ils": "aplanirent"
+    },
+    "passé_antérieur": {
+      "je": "eus aplani",
+      "tu": "eus aplani",
+      "il": "eut aplani",
+      "nous": "eûmes aplani",
+      "vous": "eûtes aplani",
+      "ils": "eurent aplani"
+    },
+    "futur_simple": {
+      "je": "aplanirai",
+      "tu": "aplaniras",
+      "il": "aplanira",
+      "nous": "aplanirons",
+      "vous": "aplanirez",
+      "ils": "aplaniront"
+    },
+    "futur_antérieur": {
+      "je": "aurai aplani",
+      "tu": "auras aplani",
+      "il": "aura aplani",
+      "nous": "aurons aplani",
+      "vous": "aurez aplani",
+      "ils": "auront aplani"
+    },
+    "subjonctif_présent": {
+      "je": "aplanisse",
+      "tu": "aplanisses",
+      "il": "aplanisse",
+      "nous": "aplanissions",
+      "vous": "aplanissiez",
+      "ils": "aplanissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie aplani",
+      "tu": "aies aplani",
+      "il": "ait aplani",
+      "nous": "ayons aplani",
+      "vous": "ayez aplani",
+      "ils": "aient aplani"
+    },
+    "subjonctif_imparfait": {
+      "je": "aplanisse",
+      "tu": "aplanisses",
+      "il": "aplanît",
+      "nous": "aplanissions",
+      "vous": "aplanissiez",
+      "ils": "aplanissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse aplani",
+      "tu": "eusses aplani",
+      "il": "eût aplani",
+      "nous": "eussions aplani",
+      "vous": "eussiez aplani",
+      "ils": "eussent aplani"
+    },
+    "conditionnel_présent": {
+      "je": "aplanirais",
+      "tu": "aplanirais",
+      "il": "aplanirait",
+      "nous": "aplanirions",
+      "vous": "aplaniriez",
+      "ils": "aplaniraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais aplani",
+      "tu": "aurais aplani",
+      "il": "aurait aplani",
+      "nous": "aurions aplani",
+      "vous": "auriez aplani",
+      "ils": "auraient aplani"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse aplani",
+      "tu": "eusses aplani",
+      "il": "eût aplani",
+      "nous": "eussions aplani",
+      "vous": "eussiez aplani",
+      "ils": "eussent aplani"
+    },
+    "translation": "aplanir",
+    "group": 2
+  },
+  {
+    "infinitive": "aplatir",
+    "présent": {
+      "je": "aplatis",
+      "tu": "aplatis",
+      "il": "aplatit",
+      "nous": "aplatissons",
+      "vous": "aplatissez",
+      "ils": "aplatissent"
+    },
+    "passé_composé": {
+      "je": "ai aplati",
+      "tu": "as aplati",
+      "il": "a aplati",
+      "nous": "avons aplati",
+      "vous": "avez aplati",
+      "ils": "ont aplati"
+    },
+    "imparfait": {
+      "je": "aplatissais",
+      "tu": "aplatissais",
+      "il": "aplatissait",
+      "nous": "aplatissions",
+      "vous": "aplatissiez",
+      "ils": "aplatissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais aplati",
+      "tu": "avais aplati",
+      "il": "avait aplati",
+      "nous": "avions aplati",
+      "vous": "aviez aplati",
+      "ils": "avaient aplati"
+    },
+    "passé_simple": {
+      "je": "aplatis",
+      "tu": "aplatis",
+      "il": "aplatit",
+      "nous": "aplatîmes",
+      "vous": "aplatîtes",
+      "ils": "aplatirent"
+    },
+    "passé_antérieur": {
+      "je": "eus aplati",
+      "tu": "eus aplati",
+      "il": "eut aplati",
+      "nous": "eûmes aplati",
+      "vous": "eûtes aplati",
+      "ils": "eurent aplati"
+    },
+    "futur_simple": {
+      "je": "aplatirai",
+      "tu": "aplatiras",
+      "il": "aplatira",
+      "nous": "aplatirons",
+      "vous": "aplatirez",
+      "ils": "aplatiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai aplati",
+      "tu": "auras aplati",
+      "il": "aura aplati",
+      "nous": "aurons aplati",
+      "vous": "aurez aplati",
+      "ils": "auront aplati"
+    },
+    "subjonctif_présent": {
+      "je": "aplatisse",
+      "tu": "aplatisses",
+      "il": "aplatisse",
+      "nous": "aplatissions",
+      "vous": "aplatissiez",
+      "ils": "aplatissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie aplati",
+      "tu": "aies aplati",
+      "il": "ait aplati",
+      "nous": "ayons aplati",
+      "vous": "ayez aplati",
+      "ils": "aient aplati"
+    },
+    "subjonctif_imparfait": {
+      "je": "aplatisse",
+      "tu": "aplatisses",
+      "il": "aplatît",
+      "nous": "aplatissions",
+      "vous": "aplatissiez",
+      "ils": "aplatissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse aplati",
+      "tu": "eusses aplati",
+      "il": "eût aplati",
+      "nous": "eussions aplati",
+      "vous": "eussiez aplati",
+      "ils": "eussent aplati"
+    },
+    "conditionnel_présent": {
+      "je": "aplatirais",
+      "tu": "aplatirais",
+      "il": "aplatirait",
+      "nous": "aplatirions",
+      "vous": "aplatiriez",
+      "ils": "aplatiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais aplati",
+      "tu": "aurais aplati",
+      "il": "aurait aplati",
+      "nous": "aurions aplati",
+      "vous": "auriez aplati",
+      "ils": "auraient aplati"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse aplati",
+      "tu": "eusses aplati",
+      "il": "eût aplati",
+      "nous": "eussions aplati",
+      "vous": "eussiez aplati",
+      "ils": "eussent aplati"
+    },
+    "translation": "spłaszczać",
+    "group": 2
+  },
+  {
+    "infinitive": "apparaître",
+    "présent": {
+      "je": "apparais",
+      "tu": "apparais",
+      "il": "apparaît",
+      "nous": "apparaissons",
+      "vous": "apparaissez",
+      "ils": "apparaissent"
+    },
+    "passé_composé": {
+      "je": "ai apparu",
+      "tu": "as apparu",
+      "il": "a apparu",
+      "nous": "avons apparu",
+      "vous": "avez apparu",
+      "ils": "ont apparu"
+    },
+    "imparfait": {
+      "je": "apparaissais",
+      "tu": "apparaissais",
+      "il": "apparaissait",
+      "nous": "apparaissions",
+      "vous": "apparaissiez",
+      "ils": "apparaissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais apparu",
+      "tu": "avais apparu",
+      "il": "avait apparu",
+      "nous": "avions apparu",
+      "vous": "aviez apparu",
+      "ils": "avaient apparu"
+    },
+    "passé_simple": {
+      "je": "apparus",
+      "tu": "apparus",
+      "il": "apparut",
+      "nous": "apparûmes",
+      "vous": "apparûtes",
+      "ils": "apparurent"
+    },
+    "passé_antérieur": {
+      "je": "eus apparu",
+      "tu": "eus apparu",
+      "il": "eut apparu",
+      "nous": "eûmes apparu",
+      "vous": "eûtes apparu",
+      "ils": "eurent apparu"
+    },
+    "futur_simple": {
+      "je": "apparaîtrai",
+      "tu": "apparaîtras",
+      "il": "apparaîtra",
+      "nous": "apparaîtrons",
+      "vous": "apparaîtrez",
+      "ils": "apparaîtront"
+    },
+    "futur_antérieur": {
+      "je": "aurai apparu",
+      "tu": "auras apparu",
+      "il": "aura apparu",
+      "nous": "aurons apparu",
+      "vous": "aurez apparu",
+      "ils": "auront apparu"
+    },
+    "subjonctif_présent": {
+      "je": "apparaisse",
+      "tu": "apparaisses",
+      "il": "apparaisse",
+      "nous": "apparaissions",
+      "vous": "apparaissiez",
+      "ils": "apparaissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie apparu",
+      "tu": "aies apparu",
+      "il": "ait apparu",
+      "nous": "ayons apparu",
+      "vous": "ayez apparu",
+      "ils": "aient apparu"
+    },
+    "subjonctif_imparfait": {
+      "je": "apparusse",
+      "tu": "apparusses",
+      "il": "apparût",
+      "nous": "apparussions",
+      "vous": "apparussiez",
+      "ils": "apparussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse apparu",
+      "tu": "eusses apparu",
+      "il": "eût apparu",
+      "nous": "eussions apparu",
+      "vous": "eussiez apparu",
+      "ils": "eussent apparu"
+    },
+    "conditionnel_présent": {
+      "je": "apparaîtrais",
+      "tu": "apparaîtrais",
+      "il": "apparaîtrait",
+      "nous": "apparaîtrions",
+      "vous": "apparaîtriez",
+      "ils": "apparaîtraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais apparu",
+      "tu": "aurais apparu",
+      "il": "aurait apparu",
+      "nous": "aurions apparu",
+      "vous": "auriez apparu",
+      "ils": "auraient apparu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse apparu",
+      "tu": "eusses apparu",
+      "il": "eût apparu",
+      "nous": "eussions apparu",
+      "vous": "eussiez apparu",
+      "ils": "eussent apparu"
+    },
+    "translation": "pokazywać",
+    "group": 3
+  },
+  {
+    "infinitive": "apparenter",
+    "présent": {
+      "je": "apparente",
+      "tu": "apparentes",
+      "il": "apparente",
+      "nous": "nous apparentons",
+      "vous": "vous apparentez",
+      "ils": "apparentent"
+    },
+    "passé_composé": {
+      "je": "me suis apparenté",
+      "tu": "es apparenté",
+      "il": "est apparenté",
+      "nous": "nous sommes apparentés",
+      "vous": "vous êtes apparentés",
+      "ils": "se sont apparentés"
+    },
+    "imparfait": {
+      "je": "apparentais",
+      "tu": "apparentais",
+      "il": "apparentait",
+      "nous": "nous apparentions",
+      "vous": "vous apparentiez",
+      "ils": "apparentaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais apparenté",
+      "tu": "étais apparenté",
+      "il": "était apparenté",
+      "nous": "nous étions apparentés",
+      "vous": "vous étiez apparentés",
+      "ils": "étaient apparentés"
+    },
+    "passé_simple": {
+      "je": "apparentai",
+      "tu": "apparentas",
+      "il": "apparenta",
+      "nous": "nous apparentâmes",
+      "vous": "vous apparentâtes",
+      "ils": "apparentèrent"
+    },
+    "passé_antérieur": {
+      "je": "me fus apparenté",
+      "tu": "te fus apparenté",
+      "il": "se fut apparenté",
+      "nous": "nous fûmes apparentés",
+      "vous": "vous fûtes apparentés",
+      "ils": "se furent apparentés"
+    },
+    "futur_simple": {
+      "je": "apparenterai",
+      "tu": "apparenteras",
+      "il": "apparentera",
+      "nous": "nous apparenterons",
+      "vous": "vous apparenterez",
+      "ils": "apparenteront"
+    },
+    "futur_antérieur": {
+      "je": "me serai apparenté",
+      "tu": "te seras apparenté",
+      "il": "se sera apparenté",
+      "nous": "nous serons apparentés",
+      "vous": "vous serez apparentés",
+      "ils": "se seront apparentés"
+    },
+    "subjonctif_présent": {
+      "je": "apparente",
+      "tu": "apparentes",
+      "il": "apparente",
+      "nous": "nous apparentions",
+      "vous": "vous apparentiez",
+      "ils": "apparentent"
+    },
+    "subjonctif_passé": {
+      "je": "me sois apparenté",
+      "tu": "te sois apparenté",
+      "il": "se soit apparenté",
+      "nous": "nous soyons apparentés",
+      "vous": "vous soyez apparentés",
+      "ils": "se soient apparentés"
+    },
+    "subjonctif_imparfait": {
+      "je": "apparentasse",
+      "tu": "apparentasses",
+      "il": "apparentât",
+      "nous": "nous apparentassions",
+      "vous": "vous apparentassiez",
+      "ils": "apparentassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse apparenté",
+      "tu": "te fusses apparenté",
+      "il": "se fût apparenté",
+      "nous": "nous fussions apparentés",
+      "vous": "vous fussiez apparentés",
+      "ils": "se fussent apparentés"
+    },
+    "conditionnel_présent": {
+      "je": "apparenterais",
+      "tu": "apparenterais",
+      "il": "apparenterait",
+      "nous": "nous apparenterions",
+      "vous": "vous apparenteriez",
+      "ils": "apparenteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais apparenté",
+      "tu": "te serais apparenté",
+      "il": "se serait apparenté",
+      "nous": "nous serions apparentés",
+      "vous": "vous seriez apparentés",
+      "ils": "se seraient apparentés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse apparenté",
+      "tu": "te fusses apparenté",
+      "il": "se fût apparenté",
+      "nous": "nous fussions apparentés",
+      "vous": "vous fussiez apparentés",
+      "ils": "se fussent apparentés"
+    },
+    "translation": "być",
+    "group": 1
+  },
+  {
+    "infinitive": "apparier",
+    "présent": {
+      "je": "apparie",
+      "tu": "apparies",
+      "il": "apparie",
+      "nous": "apparions",
+      "vous": "appariez",
+      "ils": "apparient"
+    },
+    "passé_composé": {
+      "je": "ai apparié",
+      "tu": "as apparié",
+      "il": "a apparié",
+      "nous": "avons apparié",
+      "vous": "avez apparié",
+      "ils": "ont apparié"
+    },
+    "imparfait": {
+      "je": "appariais",
+      "tu": "appariais",
+      "il": "appariait",
+      "nous": "appariions",
+      "vous": "appariiez",
+      "ils": "appariaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais apparié",
+      "tu": "avais apparié",
+      "il": "avait apparié",
+      "nous": "avions apparié",
+      "vous": "aviez apparié",
+      "ils": "avaient apparié"
+    },
+    "passé_simple": {
+      "je": "appariai",
+      "tu": "apparias",
+      "il": "apparia",
+      "nous": "appariâmes",
+      "vous": "appariâtes",
+      "ils": "apparièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus apparié",
+      "tu": "eus apparié",
+      "il": "eut apparié",
+      "nous": "eûmes apparié",
+      "vous": "eûtes apparié",
+      "ils": "eurent apparié"
+    },
+    "futur_simple": {
+      "je": "apparierai",
+      "tu": "apparieras",
+      "il": "appariera",
+      "nous": "apparierons",
+      "vous": "apparierez",
+      "ils": "apparieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai apparié",
+      "tu": "auras apparié",
+      "il": "aura apparié",
+      "nous": "aurons apparié",
+      "vous": "aurez apparié",
+      "ils": "auront apparié"
+    },
+    "subjonctif_présent": {
+      "je": "apparie",
+      "tu": "apparies",
+      "il": "apparie",
+      "nous": "appariions",
+      "vous": "appariiez",
+      "ils": "apparient"
+    },
+    "subjonctif_passé": {
+      "je": "aie apparié",
+      "tu": "aies apparié",
+      "il": "ait apparié",
+      "nous": "ayons apparié",
+      "vous": "ayez apparié",
+      "ils": "aient apparié"
+    },
+    "subjonctif_imparfait": {
+      "je": "appariasse",
+      "tu": "appariasses",
+      "il": "appariât",
+      "nous": "appariassions",
+      "vous": "appariassiez",
+      "ils": "appariassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse apparié",
+      "tu": "eusses apparié",
+      "il": "eût apparié",
+      "nous": "eussions apparié",
+      "vous": "eussiez apparié",
+      "ils": "eussent apparié"
+    },
+    "conditionnel_présent": {
+      "je": "apparierais",
+      "tu": "apparierais",
+      "il": "apparierait",
+      "nous": "apparierions",
+      "vous": "apparieriez",
+      "ils": "apparieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais apparié",
+      "tu": "aurais apparié",
+      "il": "aurait apparié",
+      "nous": "aurions apparié",
+      "vous": "auriez apparié",
+      "ils": "auraient apparié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse apparié",
+      "tu": "eusses apparié",
+      "il": "eût apparié",
+      "nous": "eussions apparié",
+      "vous": "eussiez apparié",
+      "ils": "eussent apparié"
+    },
+    "translation": "odcumowywać",
+    "group": 1
+  },
+  {
+    "infinitive": "apparoir",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "appert",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "aparat",
+    "group": 3
+  }
+]

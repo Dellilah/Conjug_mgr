@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "exaucer",
+    "présent": {
+      "je": "exauce",
+      "tu": "exauces",
+      "il": "exauce",
+      "nous": "exauçons",
+      "vous": "exaucez",
+      "ils": "exaucent"
+    },
+    "passé_composé": {
+      "je": "ai exaucé",
+      "tu": "as exaucé",
+      "il": "a exaucé",
+      "nous": "avons exaucé",
+      "vous": "avez exaucé",
+      "ils": "ont exaucé"
+    },
+    "imparfait": {
+      "je": "exauçais",
+      "tu": "exauçais",
+      "il": "exauçait",
+      "nous": "exaucions",
+      "vous": "exauciez",
+      "ils": "exauçaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais exaucé",
+      "tu": "avais exaucé",
+      "il": "avait exaucé",
+      "nous": "avions exaucé",
+      "vous": "aviez exaucé",
+      "ils": "avaient exaucé"
+    },
+    "passé_simple": {
+      "je": "exauçai",
+      "tu": "exauças",
+      "il": "exauça",
+      "nous": "exauçâmes",
+      "vous": "exauçâtes",
+      "ils": "exaucèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus exaucé",
+      "tu": "eus exaucé",
+      "il": "eut exaucé",
+      "nous": "eûmes exaucé",
+      "vous": "eûtes exaucé",
+      "ils": "eurent exaucé"
+    },
+    "futur_simple": {
+      "je": "exaucerai",
+      "tu": "exauceras",
+      "il": "exaucera",
+      "nous": "exaucerons",
+      "vous": "exaucerez",
+      "ils": "exauceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai exaucé",
+      "tu": "auras exaucé",
+      "il": "aura exaucé",
+      "nous": "aurons exaucé",
+      "vous": "aurez exaucé",
+      "ils": "auront exaucé"
+    },
+    "subjonctif_présent": {
+      "je": "exauce",
+      "tu": "exauces",
+      "il": "exauce",
+      "nous": "exaucions",
+      "vous": "exauciez",
+      "ils": "exaucent"
+    },
+    "subjonctif_passé": {
+      "je": "aie exaucé",
+      "tu": "aies exaucé",
+      "il": "ait exaucé",
+      "nous": "ayons exaucé",
+      "vous": "ayez exaucé",
+      "ils": "aient exaucé"
+    },
+    "subjonctif_imparfait": {
+      "je": "exauçasse",
+      "tu": "exauçasses",
+      "il": "exauçât",
+      "nous": "exauçassions",
+      "vous": "exauçassiez",
+      "ils": "exauçassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse exaucé",
+      "tu": "eusses exaucé",
+      "il": "eût exaucé",
+      "nous": "eussions exaucé",
+      "vous": "eussiez exaucé",
+      "ils": "eussent exaucé"
+    },
+    "conditionnel_présent": {
+      "je": "exaucerais",
+      "tu": "exaucerais",
+      "il": "exaucerait",
+      "nous": "exaucerions",
+      "vous": "exauceriez",
+      "ils": "exauceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais exaucé",
+      "tu": "aurais exaucé",
+      "il": "aurait exaucé",
+      "nous": "aurions exaucé",
+      "vous": "auriez exaucé",
+      "ils": "auraient exaucé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse exaucé",
+      "tu": "eusses exaucé",
+      "il": "eût exaucé",
+      "nous": "eussions exaucé",
+      "vous": "eussiez exaucé",
+      "ils": "eussent exaucé"
+    },
+    "translation": "wysłuchiwać",
+    "group": 1
+  },
+  {
+    "infinitive": "excéder",
+    "présent": {
+      "je": "excède",
+      "tu": "excèdes",
+      "il": "excède",
+      "nous": "excédons",
+      "vous": "excédez",
+      "ils": "excèdent"
+    },
+    "passé_composé": {
+      "je": "ai excédé",
+      "tu": "as excédé",
+      "il": "a excédé",
+      "nous": "avons excédé",
+      "vous": "avez excédé",
+      "ils": "ont excédé"
+    },
+    "imparfait": {
+      "je": "excédais",
+      "tu": "excédais",
+      "il": "excédait",
+      "nous": "excédions",
+      "vous": "excédiez",
+      "ils": "excédaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais excédé",
+      "tu": "avais excédé",
+      "il": "avait excédé",
+      "nous": "avions excédé",
+      "vous": "aviez excédé",
+      "ils": "avaient excédé"
+    },
+    "passé_simple": {
+      "je": "excédai",
+      "tu": "excédas",
+      "il": "excéda",
+      "nous": "excédâmes",
+      "vous": "excédâtes",
+      "ils": "excédèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus excédé",
+      "tu": "eus excédé",
+      "il": "eut excédé",
+      "nous": "eûmes excédé",
+      "vous": "eûtes excédé",
+      "ils": "eurent excédé"
+    },
+    "futur_simple": {
+      "je": "excéderai",
+      "tu": "excéderas",
+      "il": "excédera",
+      "nous": "excéderons",
+      "vous": "excéderez",
+      "ils": "excéderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai excédé",
+      "tu": "auras excédé",
+      "il": "aura excédé",
+      "nous": "aurons excédé",
+      "vous": "aurez excédé",
+      "ils": "auront excédé"
+    },
+    "subjonctif_présent": {
+      "je": "excède",
+      "tu": "excèdes",
+      "il": "excède",
+      "nous": "excédions",
+      "vous": "excédiez",
+      "ils": "excèdent"
+    },
+    "subjonctif_passé": {
+      "je": "aie excédé",
+      "tu": "aies excédé",
+      "il": "ait excédé",
+      "nous": "ayons excédé",
+      "vous": "ayez excédé",
+      "ils": "aient excédé"
+    },
+    "subjonctif_imparfait": {
+      "je": "excédasse",
+      "tu": "excédasses",
+      "il": "excédât",
+      "nous": "excédassions",
+      "vous": "excédassiez",
+      "ils": "excédassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse excédé",
+      "tu": "eusses excédé",
+      "il": "eût excédé",
+      "nous": "eussions excédé",
+      "vous": "eussiez excédé",
+      "ils": "eussent excédé"
+    },
+    "conditionnel_présent": {
+      "je": "excéderais",
+      "tu": "excéderais",
+      "il": "excéderait",
+      "nous": "excéderions",
+      "vous": "excéderiez",
+      "ils": "excéderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais excédé",
+      "tu": "aurais excédé",
+      "il": "aurait excédé",
+      "nous": "aurions excédé",
+      "vous": "auriez excédé",
+      "ils": "auraient excédé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse excédé",
+      "tu": "eusses excédé",
+      "il": "eût excédé",
+      "nous": "eussions excédé",
+      "vous": "eussiez excédé",
+      "ils": "eussent excédé"
+    },
+    "translation": "wykluczyć",
+    "group": 1
+  },
+  {
+    "infinitive": "exceller",
+    "présent": {
+      "je": "excelle",
+      "tu": "excelles",
+      "il": "excelle",
+      "nous": "excellons",
+      "vous": "excellez",
+      "ils": "excellent"
+    },
+    "passé_composé": {
+      "je": "ai excellé",
+      "tu": "as excellé",
+      "il": "a excellé",
+      "nous": "avons excellé",
+      "vous": "avez excellé",
+      "ils": "ont excellé"
+    },
+    "imparfait": {
+      "je": "excellais",
+      "tu": "excellais",
+      "il": "excellait",
+      "nous": "excellions",
+      "vous": "excelliez",
+      "ils": "excellaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais excellé",
+      "tu": "avais excellé",
+      "il": "avait excellé",
+      "nous": "avions excellé",
+      "vous": "aviez excellé",
+      "ils": "avaient excellé"
+    },
+    "passé_simple": {
+      "je": "excellai",
+      "tu": "excellas",
+      "il": "excella",
+      "nous": "excellâmes",
+      "vous": "excellâtes",
+      "ils": "excellèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus excellé",
+      "tu": "eus excellé",
+      "il": "eut excellé",
+      "nous": "eûmes excellé",
+      "vous": "eûtes excellé",
+      "ils": "eurent excellé"
+    },
+    "futur_simple": {
+      "je": "excellerai",
+      "tu": "excelleras",
+      "il": "excellera",
+      "nous": "excellerons",
+      "vous": "excellerez",
+      "ils": "excelleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai excellé",
+      "tu": "auras excellé",
+      "il": "aura excellé",
+      "nous": "aurons excellé",
+      "vous": "aurez excellé",
+      "ils": "auront excellé"
+    },
+    "subjonctif_présent": {
+      "je": "excelle",
+      "tu": "excelles",
+      "il": "excelle",
+      "nous": "excellions",
+      "vous": "excelliez",
+      "ils": "excellent"
+    },
+    "subjonctif_passé": {
+      "je": "aie excellé",
+      "tu": "aies excellé",
+      "il": "ait excellé",
+      "nous": "ayons excellé",
+      "vous": "ayez excellé",
+      "ils": "aient excellé"
+    },
+    "subjonctif_imparfait": {
+      "je": "excellasse",
+      "tu": "excellasses",
+      "il": "excellât",
+      "nous": "excellassions",
+      "vous": "excellassiez",
+      "ils": "excellassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse excellé",
+      "tu": "eusses excellé",
+      "il": "eût excellé",
+      "nous": "eussions excellé",
+      "vous": "eussiez excellé",
+      "ils": "eussent excellé"
+    },
+    "conditionnel_présent": {
+      "je": "excellerais",
+      "tu": "excellerais",
+      "il": "excellerait",
+      "nous": "excellerions",
+      "vous": "excelleriez",
+      "ils": "excelleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais excellé",
+      "tu": "aurais excellé",
+      "il": "aurait excellé",
+      "nous": "aurions excellé",
+      "vous": "auriez excellé",
+      "ils": "auraient excellé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse excellé",
+      "tu": "eusses excellé",
+      "il": "eût excellé",
+      "nous": "eussions excellé",
+      "vous": "eussiez excellé",
+      "ils": "eussent excellé"
+    },
+    "translation": "exceller",
+    "group": 1
+  },
+  {
+    "infinitive": "exciter",
+    "présent": {
+      "je": "excite",
+      "tu": "excites",
+      "il": "excite",
+      "nous": "excitons",
+      "vous": "excitez",
+      "ils": "excitent"
+    },
+    "passé_composé": {
+      "je": "ai excité",
+      "tu": "as excité",
+      "il": "a excité",
+      "nous": "avons excité",
+      "vous": "avez excité",
+      "ils": "ont excité"
+    },
+    "imparfait": {
+      "je": "excitais",
+      "tu": "excitais",
+      "il": "excitait",
+      "nous": "excitions",
+      "vous": "excitiez",
+      "ils": "excitaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais excité",
+      "tu": "avais excité",
+      "il": "avait excité",
+      "nous": "avions excité",
+      "vous": "aviez excité",
+      "ils": "avaient excité"
+    },
+    "passé_simple": {
+      "je": "excitai",
+      "tu": "excitas",
+      "il": "excita",
+      "nous": "excitâmes",
+      "vous": "excitâtes",
+      "ils": "excitèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus excité",
+      "tu": "eus excité",
+      "il": "eut excité",
+      "nous": "eûmes excité",
+      "vous": "eûtes excité",
+      "ils": "eurent excité"
+    },
+    "futur_simple": {
+      "je": "exciterai",
+      "tu": "exciteras",
+      "il": "excitera",
+      "nous": "exciterons",
+      "vous": "exciterez",
+      "ils": "exciteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai excité",
+      "tu": "auras excité",
+      "il": "aura excité",
+      "nous": "aurons excité",
+      "vous": "aurez excité",
+      "ils": "auront excité"
+    },
+    "subjonctif_présent": {
+      "je": "excite",
+      "tu": "excites",
+      "il": "excite",
+      "nous": "excitions",
+      "vous": "excitiez",
+      "ils": "excitent"
+    },
+    "subjonctif_passé": {
+      "je": "aie excité",
+      "tu": "aies excité",
+      "il": "ait excité",
+      "nous": "ayons excité",
+      "vous": "ayez excité",
+      "ils": "aient excité"
+    },
+    "subjonctif_imparfait": {
+      "je": "excitasse",
+      "tu": "excitasses",
+      "il": "excitât",
+      "nous": "excitassions",
+      "vous": "excitassiez",
+      "ils": "excitassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse excité",
+      "tu": "eusses excité",
+      "il": "eût excité",
+      "nous": "eussions excité",
+      "vous": "eussiez excité",
+      "ils": "eussent excité"
+    },
+    "conditionnel_présent": {
+      "je": "exciterais",
+      "tu": "exciterais",
+      "il": "exciterait",
+      "nous": "exciterions",
+      "vous": "exciteriez",
+      "ils": "exciteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais excité",
+      "tu": "aurais excité",
+      "il": "aurait excité",
+      "nous": "aurions excité",
+      "vous": "auriez excité",
+      "ils": "auraient excité"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse excité",
+      "tu": "eusses excité",
+      "il": "eût excité",
+      "nous": "eussions excité",
+      "vous": "eussiez excité",
+      "ils": "eussent excité"
+    },
+    "translation": "wzbudzać",
+    "group": 1
+  },
+  {
+    "infinitive": "exclamer",
+    "présent": {
+      "je": "exclame",
+      "tu": "exclames",
+      "il": "exclame",
+      "nous": "nous exclamons",
+      "vous": "vous exclamez",
+      "ils": "exclament"
+    },
+    "passé_composé": {
+      "je": "me suis exclamé",
+      "tu": "es exclamé",
+      "il": "est exclamé",
+      "nous": "nous sommes exclamés",
+      "vous": "vous êtes exclamés",
+      "ils": "se sont exclamés"
+    },
+    "imparfait": {
+      "je": "exclamais",
+      "tu": "exclamais",
+      "il": "exclamait",
+      "nous": "nous exclamions",
+      "vous": "vous exclamiez",
+      "ils": "exclamaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais exclamé",
+      "tu": "étais exclamé",
+      "il": "était exclamé",
+      "nous": "nous étions exclamés",
+      "vous": "vous étiez exclamés",
+      "ils": "étaient exclamés"
+    },
+    "passé_simple": {
+      "je": "exclamai",
+      "tu": "exclamas",
+      "il": "exclama",
+      "nous": "nous exclamâmes",
+      "vous": "vous exclamâtes",
+      "ils": "exclamèrent"
+    },
+    "passé_antérieur": {
+      "je": "me fus exclamé",
+      "tu": "te fus exclamé",
+      "il": "se fut exclamé",
+      "nous": "nous fûmes exclamés",
+      "vous": "vous fûtes exclamés",
+      "ils": "se furent exclamés"
+    },
+    "futur_simple": {
+      "je": "exclamerai",
+      "tu": "exclameras",
+      "il": "exclamera",
+      "nous": "nous exclamerons",
+      "vous": "vous exclamerez",
+      "ils": "exclameront"
+    },
+    "futur_antérieur": {
+      "je": "me serai exclamé",
+      "tu": "te seras exclamé",
+      "il": "se sera exclamé",
+      "nous": "nous serons exclamés",
+      "vous": "vous serez exclamés",
+      "ils": "se seront exclamés"
+    },
+    "subjonctif_présent": {
+      "je": "exclame",
+      "tu": "exclames",
+      "il": "exclame",
+      "nous": "nous exclamions",
+      "vous": "vous exclamiez",
+      "ils": "exclament"
+    },
+    "subjonctif_passé": {
+      "je": "me sois exclamé",
+      "tu": "te sois exclamé",
+      "il": "se soit exclamé",
+      "nous": "nous soyons exclamés",
+      "vous": "vous soyez exclamés",
+      "ils": "se soient exclamés"
+    },
+    "subjonctif_imparfait": {
+      "je": "exclamasse",
+      "tu": "exclamasses",
+      "il": "exclamât",
+      "nous": "nous exclamassions",
+      "vous": "vous exclamassiez",
+      "ils": "exclamassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse exclamé",
+      "tu": "te fusses exclamé",
+      "il": "se fût exclamé",
+      "nous": "nous fussions exclamés",
+      "vous": "vous fussiez exclamés",
+      "ils": "se fussent exclamés"
+    },
+    "conditionnel_présent": {
+      "je": "exclamerais",
+      "tu": "exclamerais",
+      "il": "exclamerait",
+      "nous": "nous exclamerions",
+      "vous": "vous exclameriez",
+      "ils": "exclameraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais exclamé",
+      "tu": "te serais exclamé",
+      "il": "se serait exclamé",
+      "nous": "nous serions exclamés",
+      "vous": "vous seriez exclamés",
+      "ils": "se seraient exclamés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse exclamé",
+      "tu": "te fusses exclamé",
+      "il": "se fût exclamé",
+      "nous": "nous fussions exclamés",
+      "vous": "vous fussiez exclamés",
+      "ils": "se fussent exclamés"
+    },
+    "translation": "oklaskiwać",
+    "group": 1
+  },
+  {
+    "infinitive": "exclure",
+    "présent": {
+      "je": "exclus",
+      "tu": "exclus",
+      "il": "exclut",
+      "nous": "excluons",
+      "vous": "excluez",
+      "ils": "excluent"
+    },
+    "passé_composé": {
+      "je": "ai exclu",
+      "tu": "as exclu",
+      "il": "a exclu",
+      "nous": "avons exclu",
+      "vous": "avez exclu",
+      "ils": "ont exclu"
+    },
+    "imparfait": {
+      "je": "excluais",
+      "tu": "excluais",
+      "il": "excluait",
+      "nous": "excluions",
+      "vous": "excluiez",
+      "ils": "excluaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais exclu",
+      "tu": "avais exclu",
+      "il": "avait exclu",
+      "nous": "avions exclu",
+      "vous": "aviez exclu",
+      "ils": "avaient exclu"
+    },
+    "passé_simple": {
+      "je": "exclus",
+      "tu": "exclus",
+      "il": "exclut",
+      "nous": "exclûmes",
+      "vous": "exclûtes",
+      "ils": "exclurent"
+    },
+    "passé_antérieur": {
+      "je": "eus exclu",
+      "tu": "eus exclu",
+      "il": "eut exclu",
+      "nous": "eûmes exclu",
+      "vous": "eûtes exclu",
+      "ils": "eurent exclu"
+    },
+    "futur_simple": {
+      "je": "exclurai",
+      "tu": "excluras",
+      "il": "exclura",
+      "nous": "exclurons",
+      "vous": "exclurez",
+      "ils": "excluront"
+    },
+    "futur_antérieur": {
+      "je": "aurai exclu",
+      "tu": "auras exclu",
+      "il": "aura exclu",
+      "nous": "aurons exclu",
+      "vous": "aurez exclu",
+      "ils": "auront exclu"
+    },
+    "subjonctif_présent": {
+      "je": "exclue",
+      "tu": "exclues",
+      "il": "exclue",
+      "nous": "excluions",
+      "vous": "excluiez",
+      "ils": "excluent"
+    },
+    "subjonctif_passé": {
+      "je": "aie exclu",
+      "tu": "aies exclu",
+      "il": "ait exclu",
+      "nous": "ayons exclu",
+      "vous": "ayez exclu",
+      "ils": "aient exclu"
+    },
+    "subjonctif_imparfait": {
+      "je": "exclusse",
+      "tu": "exclusses",
+      "il": "exclût",
+      "nous": "exclussions",
+      "vous": "exclussiez",
+      "ils": "exclussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse exclu",
+      "tu": "eusses exclu",
+      "il": "eût exclu",
+      "nous": "eussions exclu",
+      "vous": "eussiez exclu",
+      "ils": "eussent exclu"
+    },
+    "conditionnel_présent": {
+      "je": "exclurais",
+      "tu": "exclurais",
+      "il": "exclurait",
+      "nous": "exclurions",
+      "vous": "excluriez",
+      "ils": "excluraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais exclu",
+      "tu": "aurais exclu",
+      "il": "aurait exclu",
+      "nous": "aurions exclu",
+      "vous": "auriez exclu",
+      "ils": "auraient exclu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse exclu",
+      "tu": "eusses exclu",
+      "il": "eût exclu",
+      "nous": "eussions exclu",
+      "vous": "eussiez exclu",
+      "ils": "eussent exclu"
+    },
+    "translation": "wykluczyć",
+    "group": 3
+  },
+  {
+    "infinitive": "excuser",
+    "présent": {
+      "je": "excuse",
+      "tu": "excuses",
+      "il": "excuse",
+      "nous": "excusons",
+      "vous": "excusez",
+      "ils": "excusent"
+    },
+    "passé_composé": {
+      "je": "ai excusé",
+      "tu": "as excusé",
+      "il": "a excusé",
+      "nous": "avons excusé",
+      "vous": "avez excusé",
+      "ils": "ont excusé"
+    },
+    "imparfait": {
+      "je": "excusais",
+      "tu": "excusais",
+      "il": "excusait",
+      "nous": "excusions",
+      "vous": "excusiez",
+      "ils": "excusaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais excusé",
+      "tu": "avais excusé",
+      "il": "avait excusé",
+      "nous": "avions excusé",
+      "vous": "aviez excusé",
+      "ils": "avaient excusé"
+    },
+    "passé_simple": {
+      "je": "excusai",
+      "tu": "excusas",
+      "il": "excusa",
+      "nous": "excusâmes",
+      "vous": "excusâtes",
+      "ils": "excusèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus excusé",
+      "tu": "eus excusé",
+      "il": "eut excusé",
+      "nous": "eûmes excusé",
+      "vous": "eûtes excusé",
+      "ils": "eurent excusé"
+    },
+    "futur_simple": {
+      "je": "excuserai",
+      "tu": "excuseras",
+      "il": "excusera",
+      "nous": "excuserons",
+      "vous": "excuserez",
+      "ils": "excuseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai excusé",
+      "tu": "auras excusé",
+      "il": "aura excusé",
+      "nous": "aurons excusé",
+      "vous": "aurez excusé",
+      "ils": "auront excusé"
+    },
+    "subjonctif_présent": {
+      "je": "excuse",
+      "tu": "excuses",
+      "il": "excuse",
+      "nous": "excusions",
+      "vous": "excusiez",
+      "ils": "excusent"
+    },
+    "subjonctif_passé": {
+      "je": "aie excusé",
+      "tu": "aies excusé",
+      "il": "ait excusé",
+      "nous": "ayons excusé",
+      "vous": "ayez excusé",
+      "ils": "aient excusé"
+    },
+    "subjonctif_imparfait": {
+      "je": "excusasse",
+      "tu": "excusasses",
+      "il": "excusât",
+      "nous": "excusassions",
+      "vous": "excusassiez",
+      "ils": "excusassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse excusé",
+      "tu": "eusses excusé",
+      "il": "eût excusé",
+      "nous": "eussions excusé",
+      "vous": "eussiez excusé",
+      "ils": "eussent excusé"
+    },
+    "conditionnel_présent": {
+      "je": "excuserais",
+      "tu": "excuserais",
+      "il": "excuserait",
+      "nous": "excuserions",
+      "vous": "excuseriez",
+      "ils": "excuseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais excusé",
+      "tu": "aurais excusé",
+      "il": "aurait excusé",
+      "nous": "aurions excusé",
+      "vous": "auriez excusé",
+      "ils": "auraient excusé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse excusé",
+      "tu": "eusses excusé",
+      "il": "eût excusé",
+      "nous": "eussions excusé",
+      "vous": "eussiez excusé",
+      "ils": "eussent excusé"
+    },
+    "translation": "wybacz",
+    "group": 1
+  },
+  {
+    "infinitive": "exécrer",
+    "présent": {
+      "je": "exècre",
+      "tu": "exècres",
+      "il": "exècre",
+      "nous": "exécrons",
+      "vous": "exécrez",
+      "ils": "exècrent"
+    },
+    "passé_composé": {
+      "je": "ai exécré",
+      "tu": "as exécré",
+      "il": "a exécré",
+      "nous": "avons exécré",
+      "vous": "avez exécré",
+      "ils": "ont exécré"
+    },
+    "imparfait": {
+      "je": "exécrais",
+      "tu": "exécrais",
+      "il": "exécrait",
+      "nous": "exécrions",
+      "vous": "exécriez",
+      "ils": "exécraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais exécré",
+      "tu": "avais exécré",
+      "il": "avait exécré",
+      "nous": "avions exécré",
+      "vous": "aviez exécré",
+      "ils": "avaient exécré"
+    },
+    "passé_simple": {
+      "je": "exécrai",
+      "tu": "exécras",
+      "il": "exécra",
+      "nous": "exécrâmes",
+      "vous": "exécrâtes",
+      "ils": "exécrèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus exécré",
+      "tu": "eus exécré",
+      "il": "eut exécré",
+      "nous": "eûmes exécré",
+      "vous": "eûtes exécré",
+      "ils": "eurent exécré"
+    },
+    "futur_simple": {
+      "je": "exécrerai",
+      "tu": "exécreras",
+      "il": "exécrera",
+      "nous": "exécrerons",
+      "vous": "exécrerez",
+      "ils": "exécreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai exécré",
+      "tu": "auras exécré",
+      "il": "aura exécré",
+      "nous": "aurons exécré",
+      "vous": "aurez exécré",
+      "ils": "auront exécré"
+    },
+    "subjonctif_présent": {
+      "je": "exècre",
+      "tu": "exècres",
+      "il": "exècre",
+      "nous": "exécrions",
+      "vous": "exécriez",
+      "ils": "exècrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie exécré",
+      "tu": "aies exécré",
+      "il": "ait exécré",
+      "nous": "ayons exécré",
+      "vous": "ayez exécré",
+      "ils": "aient exécré"
+    },
+    "subjonctif_imparfait": {
+      "je": "exécrasse",
+      "tu": "exécrasses",
+      "il": "exécrât",
+      "nous": "exécrassions",
+      "vous": "exécrassiez",
+      "ils": "exécrassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse exécré",
+      "tu": "eusses exécré",
+      "il": "eût exécré",
+      "nous": "eussions exécré",
+      "vous": "eussiez exécré",
+      "ils": "eussent exécré"
+    },
+    "conditionnel_présent": {
+      "je": "exécrerais",
+      "tu": "exécrerais",
+      "il": "exécrerait",
+      "nous": "exécrerions",
+      "vous": "exécreriez",
+      "ils": "exécreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais exécré",
+      "tu": "aurais exécré",
+      "il": "aurait exécré",
+      "nous": "aurions exécré",
+      "vous": "auriez exécré",
+      "ils": "auraient exécré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse exécré",
+      "tu": "eusses exécré",
+      "il": "eût exécré",
+      "nous": "eussions exécré",
+      "vous": "eussiez exécré",
+      "ils": "eussent exécré"
+    },
+    "translation": "odczuwać",
+    "group": 1
+  },
+  {
+    "infinitive": "exécuter",
+    "présent": {
+      "je": "exécute",
+      "tu": "exécutes",
+      "il": "exécute",
+      "nous": "exécutons",
+      "vous": "exécutez",
+      "ils": "exécutent"
+    },
+    "passé_composé": {
+      "je": "ai exécuté",
+      "tu": "as exécuté",
+      "il": "a exécuté",
+      "nous": "avons exécuté",
+      "vous": "avez exécuté",
+      "ils": "ont exécuté"
+    },
+    "imparfait": {
+      "je": "exécutais",
+      "tu": "exécutais",
+      "il": "exécutait",
+      "nous": "exécutions",
+      "vous": "exécutiez",
+      "ils": "exécutaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais exécuté",
+      "tu": "avais exécuté",
+      "il": "avait exécuté",
+      "nous": "avions exécuté",
+      "vous": "aviez exécuté",
+      "ils": "avaient exécuté"
+    },
+    "passé_simple": {
+      "je": "exécutai",
+      "tu": "exécutas",
+      "il": "exécuta",
+      "nous": "exécutâmes",
+      "vous": "exécutâtes",
+      "ils": "exécutèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus exécuté",
+      "tu": "eus exécuté",
+      "il": "eut exécuté",
+      "nous": "eûmes exécuté",
+      "vous": "eûtes exécuté",
+      "ils": "eurent exécuté"
+    },
+    "futur_simple": {
+      "je": "exécuterai",
+      "tu": "exécuteras",
+      "il": "exécutera",
+      "nous": "exécuterons",
+      "vous": "exécuterez",
+      "ils": "exécuteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai exécuté",
+      "tu": "auras exécuté",
+      "il": "aura exécuté",
+      "nous": "aurons exécuté",
+      "vous": "aurez exécuté",
+      "ils": "auront exécuté"
+    },
+    "subjonctif_présent": {
+      "je": "exécute",
+      "tu": "exécutes",
+      "il": "exécute",
+      "nous": "exécutions",
+      "vous": "exécutiez",
+      "ils": "exécutent"
+    },
+    "subjonctif_passé": {
+      "je": "aie exécuté",
+      "tu": "aies exécuté",
+      "il": "ait exécuté",
+      "nous": "ayons exécuté",
+      "vous": "ayez exécuté",
+      "ils": "aient exécuté"
+    },
+    "subjonctif_imparfait": {
+      "je": "exécutasse",
+      "tu": "exécutasses",
+      "il": "exécutât",
+      "nous": "exécutassions",
+      "vous": "exécutassiez",
+      "ils": "exécutassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse exécuté",
+      "tu": "eusses exécuté",
+      "il": "eût exécuté",
+      "nous": "eussions exécuté",
+      "vous": "eussiez exécuté",
+      "ils": "eussent exécuté"
+    },
+    "conditionnel_présent": {
+      "je": "exécuterais",
+      "tu": "exécuterais",
+      "il": "exécuterait",
+      "nous": "exécuterions",
+      "vous": "exécuteriez",
+      "ils": "exécuteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais exécuté",
+      "tu": "aurais exécuté",
+      "il": "aurait exécuté",
+      "nous": "aurions exécuté",
+      "vous": "auriez exécuté",
+      "ils": "auraient exécuté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse exécuté",
+      "tu": "eusses exécuté",
+      "il": "eût exécuté",
+      "nous": "eussions exécuté",
+      "vous": "eussiez exécuté",
+      "ils": "eussent exécuté"
+    },
+    "translation": "wykonywać",
+    "group": 1
+  },
+  {
+    "infinitive": "exempter",
+    "présent": {
+      "je": "exempte",
+      "tu": "exemptes",
+      "il": "exempte",
+      "nous": "exemptons",
+      "vous": "exemptez",
+      "ils": "exemptent"
+    },
+    "passé_composé": {
+      "je": "ai exempté",
+      "tu": "as exempté",
+      "il": "a exempté",
+      "nous": "avons exempté",
+      "vous": "avez exempté",
+      "ils": "ont exempté"
+    },
+    "imparfait": {
+      "je": "exemptais",
+      "tu": "exemptais",
+      "il": "exemptait",
+      "nous": "exemptions",
+      "vous": "exemptiez",
+      "ils": "exemptaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais exempté",
+      "tu": "avais exempté",
+      "il": "avait exempté",
+      "nous": "avions exempté",
+      "vous": "aviez exempté",
+      "ils": "avaient exempté"
+    },
+    "passé_simple": {
+      "je": "exemptai",
+      "tu": "exemptas",
+      "il": "exempta",
+      "nous": "exemptâmes",
+      "vous": "exemptâtes",
+      "ils": "exemptèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus exempté",
+      "tu": "eus exempté",
+      "il": "eut exempté",
+      "nous": "eûmes exempté",
+      "vous": "eûtes exempté",
+      "ils": "eurent exempté"
+    },
+    "futur_simple": {
+      "je": "exempterai",
+      "tu": "exempteras",
+      "il": "exemptera",
+      "nous": "exempterons",
+      "vous": "exempterez",
+      "ils": "exempteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai exempté",
+      "tu": "auras exempté",
+      "il": "aura exempté",
+      "nous": "aurons exempté",
+      "vous": "aurez exempté",
+      "ils": "auront exempté"
+    },
+    "subjonctif_présent": {
+      "je": "exempte",
+      "tu": "exemptes",
+      "il": "exempte",
+      "nous": "exemptions",
+      "vous": "exemptiez",
+      "ils": "exemptent"
+    },
+    "subjonctif_passé": {
+      "je": "aie exempté",
+      "tu": "aies exempté",
+      "il": "ait exempté",
+      "nous": "ayons exempté",
+      "vous": "ayez exempté",
+      "ils": "aient exempté"
+    },
+    "subjonctif_imparfait": {
+      "je": "exemptasse",
+      "tu": "exemptasses",
+      "il": "exemptât",
+      "nous": "exemptassions",
+      "vous": "exemptassiez",
+      "ils": "exemptassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse exempté",
+      "tu": "eusses exempté",
+      "il": "eût exempté",
+      "nous": "eussions exempté",
+      "vous": "eussiez exempté",
+      "ils": "eussent exempté"
+    },
+    "conditionnel_présent": {
+      "je": "exempterais",
+      "tu": "exempterais",
+      "il": "exempterait",
+      "nous": "exempterions",
+      "vous": "exempteriez",
+      "ils": "exempteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais exempté",
+      "tu": "aurais exempté",
+      "il": "aurait exempté",
+      "nous": "aurions exempté",
+      "vous": "auriez exempté",
+      "ils": "auraient exempté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse exempté",
+      "tu": "eusses exempté",
+      "il": "eût exempté",
+      "nous": "eussions exempté",
+      "vous": "eussiez exempté",
+      "ils": "eussent exempté"
+    },
+    "translation": "exempter",
+    "group": 1
+  }
+]

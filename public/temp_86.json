@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "épanouir",
+    "présent": {
+      "je": "épanouis",
+      "tu": "épanouis",
+      "il": "épanouit",
+      "nous": "épanouissons",
+      "vous": "épanouissez",
+      "ils": "épanouissent"
+    },
+    "passé_composé": {
+      "je": "ai épanoui",
+      "tu": "as épanoui",
+      "il": "a épanoui",
+      "nous": "avons épanoui",
+      "vous": "avez épanoui",
+      "ils": "ont épanoui"
+    },
+    "imparfait": {
+      "je": "épanouissais",
+      "tu": "épanouissais",
+      "il": "épanouissait",
+      "nous": "épanouissions",
+      "vous": "épanouissiez",
+      "ils": "épanouissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais épanoui",
+      "tu": "avais épanoui",
+      "il": "avait épanoui",
+      "nous": "avions épanoui",
+      "vous": "aviez épanoui",
+      "ils": "avaient épanoui"
+    },
+    "passé_simple": {
+      "je": "épanouis",
+      "tu": "épanouis",
+      "il": "épanouit",
+      "nous": "épanouîmes",
+      "vous": "épanouîtes",
+      "ils": "épanouirent"
+    },
+    "passé_antérieur": {
+      "je": "eus épanoui",
+      "tu": "eus épanoui",
+      "il": "eut épanoui",
+      "nous": "eûmes épanoui",
+      "vous": "eûtes épanoui",
+      "ils": "eurent épanoui"
+    },
+    "futur_simple": {
+      "je": "épanouirai",
+      "tu": "épanouiras",
+      "il": "épanouira",
+      "nous": "épanouirons",
+      "vous": "épanouirez",
+      "ils": "épanouiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai épanoui",
+      "tu": "auras épanoui",
+      "il": "aura épanoui",
+      "nous": "aurons épanoui",
+      "vous": "aurez épanoui",
+      "ils": "auront épanoui"
+    },
+    "subjonctif_présent": {
+      "je": "épanouisse",
+      "tu": "épanouisses",
+      "il": "épanouisse",
+      "nous": "épanouissions",
+      "vous": "épanouissiez",
+      "ils": "épanouissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie épanoui",
+      "tu": "aies épanoui",
+      "il": "ait épanoui",
+      "nous": "ayons épanoui",
+      "vous": "ayez épanoui",
+      "ils": "aient épanoui"
+    },
+    "subjonctif_imparfait": {
+      "je": "épanouisse",
+      "tu": "épanouisses",
+      "il": "épanouît",
+      "nous": "épanouissions",
+      "vous": "épanouissiez",
+      "ils": "épanouissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse épanoui",
+      "tu": "eusses épanoui",
+      "il": "eût épanoui",
+      "nous": "eussions épanoui",
+      "vous": "eussiez épanoui",
+      "ils": "eussent épanoui"
+    },
+    "conditionnel_présent": {
+      "je": "épanouirais",
+      "tu": "épanouirais",
+      "il": "épanouirait",
+      "nous": "épanouirions",
+      "vous": "épanouiriez",
+      "ils": "épanouiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais épanoui",
+      "tu": "aurais épanoui",
+      "il": "aurait épanoui",
+      "nous": "aurions épanoui",
+      "vous": "auriez épanoui",
+      "ils": "auraient épanoui"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse épanoui",
+      "tu": "eusses épanoui",
+      "il": "eût épanoui",
+      "nous": "eussions épanoui",
+      "vous": "eussiez épanoui",
+      "ils": "eussent épanoui"
+    },
+    "translation": "rozkwitać",
+    "group": 2
+  },
+  {
+    "infinitive": "épargner",
+    "présent": {
+      "je": "épargne",
+      "tu": "épargnes",
+      "il": "épargne",
+      "nous": "épargnons",
+      "vous": "épargnez",
+      "ils": "épargnent"
+    },
+    "passé_composé": {
+      "je": "ai épargné",
+      "tu": "as épargné",
+      "il": "a épargné",
+      "nous": "avons épargné",
+      "vous": "avez épargné",
+      "ils": "ont épargné"
+    },
+    "imparfait": {
+      "je": "épargnais",
+      "tu": "épargnais",
+      "il": "épargnait",
+      "nous": "épargnions",
+      "vous": "épargniez",
+      "ils": "épargnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais épargné",
+      "tu": "avais épargné",
+      "il": "avait épargné",
+      "nous": "avions épargné",
+      "vous": "aviez épargné",
+      "ils": "avaient épargné"
+    },
+    "passé_simple": {
+      "je": "épargnai",
+      "tu": "épargnas",
+      "il": "épargna",
+      "nous": "épargnâmes",
+      "vous": "épargnâtes",
+      "ils": "épargnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus épargné",
+      "tu": "eus épargné",
+      "il": "eut épargné",
+      "nous": "eûmes épargné",
+      "vous": "eûtes épargné",
+      "ils": "eurent épargné"
+    },
+    "futur_simple": {
+      "je": "épargnerai",
+      "tu": "épargneras",
+      "il": "épargnera",
+      "nous": "épargnerons",
+      "vous": "épargnerez",
+      "ils": "épargneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai épargné",
+      "tu": "auras épargné",
+      "il": "aura épargné",
+      "nous": "aurons épargné",
+      "vous": "aurez épargné",
+      "ils": "auront épargné"
+    },
+    "subjonctif_présent": {
+      "je": "épargne",
+      "tu": "épargnes",
+      "il": "épargne",
+      "nous": "épargnions",
+      "vous": "épargniez",
+      "ils": "épargnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie épargné",
+      "tu": "aies épargné",
+      "il": "ait épargné",
+      "nous": "ayons épargné",
+      "vous": "ayez épargné",
+      "ils": "aient épargné"
+    },
+    "subjonctif_imparfait": {
+      "je": "épargnasse",
+      "tu": "épargnasses",
+      "il": "épargnât",
+      "nous": "épargnassions",
+      "vous": "épargnassiez",
+      "ils": "épargnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse épargné",
+      "tu": "eusses épargné",
+      "il": "eût épargné",
+      "nous": "eussions épargné",
+      "vous": "eussiez épargné",
+      "ils": "eussent épargné"
+    },
+    "conditionnel_présent": {
+      "je": "épargnerais",
+      "tu": "épargnerais",
+      "il": "épargnerait",
+      "nous": "épargnerions",
+      "vous": "épargneriez",
+      "ils": "épargneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais épargné",
+      "tu": "aurais épargné",
+      "il": "aurait épargné",
+      "nous": "aurions épargné",
+      "vous": "auriez épargné",
+      "ils": "auraient épargné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse épargné",
+      "tu": "eusses épargné",
+      "il": "eût épargné",
+      "nous": "eussions épargné",
+      "vous": "eussiez épargné",
+      "ils": "eussent épargné"
+    },
+    "translation": "oszczędzać",
+    "group": 1
+  },
+  {
+    "infinitive": "épater",
+    "présent": {
+      "je": "épate",
+      "tu": "épates",
+      "il": "épate",
+      "nous": "épatons",
+      "vous": "épatez",
+      "ils": "épatent"
+    },
+    "passé_composé": {
+      "je": "ai épaté",
+      "tu": "as épaté",
+      "il": "a épaté",
+      "nous": "avons épaté",
+      "vous": "avez épaté",
+      "ils": "ont épaté"
+    },
+    "imparfait": {
+      "je": "épatais",
+      "tu": "épatais",
+      "il": "épatait",
+      "nous": "épations",
+      "vous": "épatiez",
+      "ils": "épataient"
+    },
+    "plus_que_parfait": {
+      "je": "avais épaté",
+      "tu": "avais épaté",
+      "il": "avait épaté",
+      "nous": "avions épaté",
+      "vous": "aviez épaté",
+      "ils": "avaient épaté"
+    },
+    "passé_simple": {
+      "je": "épatai",
+      "tu": "épatas",
+      "il": "épata",
+      "nous": "épatâmes",
+      "vous": "épatâtes",
+      "ils": "épatèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus épaté",
+      "tu": "eus épaté",
+      "il": "eut épaté",
+      "nous": "eûmes épaté",
+      "vous": "eûtes épaté",
+      "ils": "eurent épaté"
+    },
+    "futur_simple": {
+      "je": "épaterai",
+      "tu": "épateras",
+      "il": "épatera",
+      "nous": "épaterons",
+      "vous": "épaterez",
+      "ils": "épateront"
+    },
+    "futur_antérieur": {
+      "je": "aurai épaté",
+      "tu": "auras épaté",
+      "il": "aura épaté",
+      "nous": "aurons épaté",
+      "vous": "aurez épaté",
+      "ils": "auront épaté"
+    },
+    "subjonctif_présent": {
+      "je": "épate",
+      "tu": "épates",
+      "il": "épate",
+      "nous": "épations",
+      "vous": "épatiez",
+      "ils": "épatent"
+    },
+    "subjonctif_passé": {
+      "je": "aie épaté",
+      "tu": "aies épaté",
+      "il": "ait épaté",
+      "nous": "ayons épaté",
+      "vous": "ayez épaté",
+      "ils": "aient épaté"
+    },
+    "subjonctif_imparfait": {
+      "je": "épatasse",
+      "tu": "épatasses",
+      "il": "épatât",
+      "nous": "épatassions",
+      "vous": "épatassiez",
+      "ils": "épatassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse épaté",
+      "tu": "eusses épaté",
+      "il": "eût épaté",
+      "nous": "eussions épaté",
+      "vous": "eussiez épaté",
+      "ils": "eussent épaté"
+    },
+    "conditionnel_présent": {
+      "je": "épaterais",
+      "tu": "épaterais",
+      "il": "épaterait",
+      "nous": "épaterions",
+      "vous": "épateriez",
+      "ils": "épateraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais épaté",
+      "tu": "aurais épaté",
+      "il": "aurait épaté",
+      "nous": "aurions épaté",
+      "vous": "auriez épaté",
+      "ils": "auraient épaté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse épaté",
+      "tu": "eusses épaté",
+      "il": "eût épaté",
+      "nous": "eussions épaté",
+      "vous": "eussiez épaté",
+      "ils": "eussent épaté"
+    },
+    "translation": "wprawiać",
+    "group": 1
+  },
+  {
+    "infinitive": "épeler",
+    "présent": {
+      "je": "épelle",
+      "tu": "épelles",
+      "il": "épelle",
+      "nous": "épelons",
+      "vous": "épelez",
+      "ils": "épellent"
+    },
+    "passé_composé": {
+      "je": "ai épelé",
+      "tu": "as épelé",
+      "il": "a épelé",
+      "nous": "avons épelé",
+      "vous": "avez épelé",
+      "ils": "ont épelé"
+    },
+    "imparfait": {
+      "je": "épelais",
+      "tu": "épelais",
+      "il": "épelait",
+      "nous": "épelions",
+      "vous": "épeliez",
+      "ils": "épelaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais épelé",
+      "tu": "avais épelé",
+      "il": "avait épelé",
+      "nous": "avions épelé",
+      "vous": "aviez épelé",
+      "ils": "avaient épelé"
+    },
+    "passé_simple": {
+      "je": "épelai",
+      "tu": "épelas",
+      "il": "épela",
+      "nous": "épelâmes",
+      "vous": "épelâtes",
+      "ils": "épelèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus épelé",
+      "tu": "eus épelé",
+      "il": "eut épelé",
+      "nous": "eûmes épelé",
+      "vous": "eûtes épelé",
+      "ils": "eurent épelé"
+    },
+    "futur_simple": {
+      "je": "épellerai",
+      "tu": "épelleras",
+      "il": "épellera",
+      "nous": "épellerons",
+      "vous": "épellerez",
+      "ils": "épelleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai épelé",
+      "tu": "auras épelé",
+      "il": "aura épelé",
+      "nous": "aurons épelé",
+      "vous": "aurez épelé",
+      "ils": "auront épelé"
+    },
+    "subjonctif_présent": {
+      "je": "épelle",
+      "tu": "épelles",
+      "il": "épelle",
+      "nous": "épelions",
+      "vous": "épeliez",
+      "ils": "épellent"
+    },
+    "subjonctif_passé": {
+      "je": "aie épelé",
+      "tu": "aies épelé",
+      "il": "ait épelé",
+      "nous": "ayons épelé",
+      "vous": "ayez épelé",
+      "ils": "aient épelé"
+    },
+    "subjonctif_imparfait": {
+      "je": "épelasse",
+      "tu": "épelasses",
+      "il": "épelât",
+      "nous": "épelassions",
+      "vous": "épelassiez",
+      "ils": "épelassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse épelé",
+      "tu": "eusses épelé",
+      "il": "eût épelé",
+      "nous": "eussions épelé",
+      "vous": "eussiez épelé",
+      "ils": "eussent épelé"
+    },
+    "conditionnel_présent": {
+      "je": "épellerais",
+      "tu": "épellerais",
+      "il": "épellerait",
+      "nous": "épellerions",
+      "vous": "épelleriez",
+      "ils": "épelleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais épelé",
+      "tu": "aurais épelé",
+      "il": "aurait épelé",
+      "nous": "aurions épelé",
+      "vous": "auriez épelé",
+      "ils": "auraient épelé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse épelé",
+      "tu": "eusses épelé",
+      "il": "eût épelé",
+      "nous": "eussions épelé",
+      "vous": "eussiez épelé",
+      "ils": "eussent épelé"
+    },
+    "translation": "literować",
+    "group": 1
+  },
+  {
+    "infinitive": "épier",
+    "présent": {
+      "je": "épie",
+      "tu": "épies",
+      "il": "épie",
+      "nous": "épions",
+      "vous": "épiez",
+      "ils": "épient"
+    },
+    "passé_composé": {
+      "je": "ai épié",
+      "tu": "as épié",
+      "il": "a épié",
+      "nous": "avons épié",
+      "vous": "avez épié",
+      "ils": "ont épié"
+    },
+    "imparfait": {
+      "je": "épiais",
+      "tu": "épiais",
+      "il": "épiait",
+      "nous": "épiions",
+      "vous": "épiiez",
+      "ils": "épiaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais épié",
+      "tu": "avais épié",
+      "il": "avait épié",
+      "nous": "avions épié",
+      "vous": "aviez épié",
+      "ils": "avaient épié"
+    },
+    "passé_simple": {
+      "je": "épiai",
+      "tu": "épias",
+      "il": "épia",
+      "nous": "épiâmes",
+      "vous": "épiâtes",
+      "ils": "épièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus épié",
+      "tu": "eus épié",
+      "il": "eut épié",
+      "nous": "eûmes épié",
+      "vous": "eûtes épié",
+      "ils": "eurent épié"
+    },
+    "futur_simple": {
+      "je": "épierai",
+      "tu": "épieras",
+      "il": "épiera",
+      "nous": "épierons",
+      "vous": "épierez",
+      "ils": "épieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai épié",
+      "tu": "auras épié",
+      "il": "aura épié",
+      "nous": "aurons épié",
+      "vous": "aurez épié",
+      "ils": "auront épié"
+    },
+    "subjonctif_présent": {
+      "je": "épie",
+      "tu": "épies",
+      "il": "épie",
+      "nous": "épiions",
+      "vous": "épiiez",
+      "ils": "épient"
+    },
+    "subjonctif_passé": {
+      "je": "aie épié",
+      "tu": "aies épié",
+      "il": "ait épié",
+      "nous": "ayons épié",
+      "vous": "ayez épié",
+      "ils": "aient épié"
+    },
+    "subjonctif_imparfait": {
+      "je": "épiasse",
+      "tu": "épiasses",
+      "il": "épiât",
+      "nous": "épiassions",
+      "vous": "épiassiez",
+      "ils": "épiassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse épié",
+      "tu": "eusses épié",
+      "il": "eût épié",
+      "nous": "eussions épié",
+      "vous": "eussiez épié",
+      "ils": "eussent épié"
+    },
+    "conditionnel_présent": {
+      "je": "épierais",
+      "tu": "épierais",
+      "il": "épierait",
+      "nous": "épierions",
+      "vous": "épieriez",
+      "ils": "épieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais épié",
+      "tu": "aurais épié",
+      "il": "aurait épié",
+      "nous": "aurions épié",
+      "vous": "auriez épié",
+      "ils": "auraient épié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse épié",
+      "tu": "eusses épié",
+      "il": "eût épié",
+      "nous": "eussions épié",
+      "vous": "eussiez épié",
+      "ils": "eussent épié"
+    },
+    "translation": "czyhać",
+    "group": 1
+  },
+  {
+    "infinitive": "épiner",
+    "présent": {
+      "je": "épine",
+      "tu": "épines",
+      "il": "épine",
+      "nous": "épinons",
+      "vous": "épinez",
+      "ils": "épinent"
+    },
+    "passé_composé": {
+      "je": "ai épiné",
+      "tu": "as épiné",
+      "il": "a épiné",
+      "nous": "avons épiné",
+      "vous": "avez épiné",
+      "ils": "ont épiné"
+    },
+    "imparfait": {
+      "je": "épinais",
+      "tu": "épinais",
+      "il": "épinait",
+      "nous": "épinions",
+      "vous": "épiniez",
+      "ils": "épinaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais épiné",
+      "tu": "avais épiné",
+      "il": "avait épiné",
+      "nous": "avions épiné",
+      "vous": "aviez épiné",
+      "ils": "avaient épiné"
+    },
+    "passé_simple": {
+      "je": "épinai",
+      "tu": "épinas",
+      "il": "épina",
+      "nous": "épinâmes",
+      "vous": "épinâtes",
+      "ils": "épinèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus épiné",
+      "tu": "eus épiné",
+      "il": "eut épiné",
+      "nous": "eûmes épiné",
+      "vous": "eûtes épiné",
+      "ils": "eurent épiné"
+    },
+    "futur_simple": {
+      "je": "épinerai",
+      "tu": "épineras",
+      "il": "épinera",
+      "nous": "épinerons",
+      "vous": "épinerez",
+      "ils": "épineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai épiné",
+      "tu": "auras épiné",
+      "il": "aura épiné",
+      "nous": "aurons épiné",
+      "vous": "aurez épiné",
+      "ils": "auront épiné"
+    },
+    "subjonctif_présent": {
+      "je": "épine",
+      "tu": "épines",
+      "il": "épine",
+      "nous": "épinions",
+      "vous": "épiniez",
+      "ils": "épinent"
+    },
+    "subjonctif_passé": {
+      "je": "aie épiné",
+      "tu": "aies épiné",
+      "il": "ait épiné",
+      "nous": "ayons épiné",
+      "vous": "ayez épiné",
+      "ils": "aient épiné"
+    },
+    "subjonctif_imparfait": {
+      "je": "épinasse",
+      "tu": "épinasses",
+      "il": "épinât",
+      "nous": "épinassions",
+      "vous": "épinassiez",
+      "ils": "épinassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse épiné",
+      "tu": "eusses épiné",
+      "il": "eût épiné",
+      "nous": "eussions épiné",
+      "vous": "eussiez épiné",
+      "ils": "eussent épiné"
+    },
+    "conditionnel_présent": {
+      "je": "épinerais",
+      "tu": "épinerais",
+      "il": "épinerait",
+      "nous": "épinerions",
+      "vous": "épineriez",
+      "ils": "épineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais épiné",
+      "tu": "aurais épiné",
+      "il": "aurait épiné",
+      "nous": "aurions épiné",
+      "vous": "auriez épiné",
+      "ils": "auraient épiné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse épiné",
+      "tu": "eusses épiné",
+      "il": "eût épiné",
+      "nous": "eussions épiné",
+      "vous": "eussiez épiné",
+      "ils": "eussent épiné"
+    },
+    "translation": "wbijać",
+    "group": 1
+  },
+  {
+    "infinitive": "éplucher",
+    "présent": {
+      "je": "épluche",
+      "tu": "épluches",
+      "il": "épluche",
+      "nous": "épluchons",
+      "vous": "épluchez",
+      "ils": "épluchent"
+    },
+    "passé_composé": {
+      "je": "ai épluché",
+      "tu": "as épluché",
+      "il": "a épluché",
+      "nous": "avons épluché",
+      "vous": "avez épluché",
+      "ils": "ont épluché"
+    },
+    "imparfait": {
+      "je": "épluchais",
+      "tu": "épluchais",
+      "il": "épluchait",
+      "nous": "épluchions",
+      "vous": "épluchiez",
+      "ils": "épluchaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais épluché",
+      "tu": "avais épluché",
+      "il": "avait épluché",
+      "nous": "avions épluché",
+      "vous": "aviez épluché",
+      "ils": "avaient épluché"
+    },
+    "passé_simple": {
+      "je": "épluchai",
+      "tu": "épluchas",
+      "il": "éplucha",
+      "nous": "épluchâmes",
+      "vous": "épluchâtes",
+      "ils": "épluchèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus épluché",
+      "tu": "eus épluché",
+      "il": "eut épluché",
+      "nous": "eûmes épluché",
+      "vous": "eûtes épluché",
+      "ils": "eurent épluché"
+    },
+    "futur_simple": {
+      "je": "éplucherai",
+      "tu": "éplucheras",
+      "il": "épluchera",
+      "nous": "éplucherons",
+      "vous": "éplucherez",
+      "ils": "éplucheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai épluché",
+      "tu": "auras épluché",
+      "il": "aura épluché",
+      "nous": "aurons épluché",
+      "vous": "aurez épluché",
+      "ils": "auront épluché"
+    },
+    "subjonctif_présent": {
+      "je": "épluche",
+      "tu": "épluches",
+      "il": "épluche",
+      "nous": "épluchions",
+      "vous": "épluchiez",
+      "ils": "épluchent"
+    },
+    "subjonctif_passé": {
+      "je": "aie épluché",
+      "tu": "aies épluché",
+      "il": "ait épluché",
+      "nous": "ayons épluché",
+      "vous": "ayez épluché",
+      "ils": "aient épluché"
+    },
+    "subjonctif_imparfait": {
+      "je": "épluchasse",
+      "tu": "épluchasses",
+      "il": "épluchât",
+      "nous": "épluchassions",
+      "vous": "épluchassiez",
+      "ils": "épluchassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse épluché",
+      "tu": "eusses épluché",
+      "il": "eût épluché",
+      "nous": "eussions épluché",
+      "vous": "eussiez épluché",
+      "ils": "eussent épluché"
+    },
+    "conditionnel_présent": {
+      "je": "éplucherais",
+      "tu": "éplucherais",
+      "il": "éplucherait",
+      "nous": "éplucherions",
+      "vous": "éplucheriez",
+      "ils": "éplucheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais épluché",
+      "tu": "aurais épluché",
+      "il": "aurait épluché",
+      "nous": "aurions épluché",
+      "vous": "auriez épluché",
+      "ils": "auraient épluché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse épluché",
+      "tu": "eusses épluché",
+      "il": "eût épluché",
+      "nous": "eussions épluché",
+      "vous": "eussiez épluché",
+      "ils": "eussent épluché"
+    },
+    "translation": "obierać",
+    "group": 1
+  },
+  {
+    "infinitive": "épouser",
+    "présent": {
+      "je": "épouse",
+      "tu": "épouses",
+      "il": "épouse",
+      "nous": "épousons",
+      "vous": "épousez",
+      "ils": "épousent"
+    },
+    "passé_composé": {
+      "je": "ai épousé",
+      "tu": "as épousé",
+      "il": "a épousé",
+      "nous": "avons épousé",
+      "vous": "avez épousé",
+      "ils": "ont épousé"
+    },
+    "imparfait": {
+      "je": "épousais",
+      "tu": "épousais",
+      "il": "épousait",
+      "nous": "épousions",
+      "vous": "épousiez",
+      "ils": "épousaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais épousé",
+      "tu": "avais épousé",
+      "il": "avait épousé",
+      "nous": "avions épousé",
+      "vous": "aviez épousé",
+      "ils": "avaient épousé"
+    },
+    "passé_simple": {
+      "je": "épousai",
+      "tu": "épousas",
+      "il": "épousa",
+      "nous": "épousâmes",
+      "vous": "épousâtes",
+      "ils": "épousèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus épousé",
+      "tu": "eus épousé",
+      "il": "eut épousé",
+      "nous": "eûmes épousé",
+      "vous": "eûtes épousé",
+      "ils": "eurent épousé"
+    },
+    "futur_simple": {
+      "je": "épouserai",
+      "tu": "épouseras",
+      "il": "épousera",
+      "nous": "épouserons",
+      "vous": "épouserez",
+      "ils": "épouseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai épousé",
+      "tu": "auras épousé",
+      "il": "aura épousé",
+      "nous": "aurons épousé",
+      "vous": "aurez épousé",
+      "ils": "auront épousé"
+    },
+    "subjonctif_présent": {
+      "je": "épouse",
+      "tu": "épouses",
+      "il": "épouse",
+      "nous": "épousions",
+      "vous": "épousiez",
+      "ils": "épousent"
+    },
+    "subjonctif_passé": {
+      "je": "aie épousé",
+      "tu": "aies épousé",
+      "il": "ait épousé",
+      "nous": "ayons épousé",
+      "vous": "ayez épousé",
+      "ils": "aient épousé"
+    },
+    "subjonctif_imparfait": {
+      "je": "épousasse",
+      "tu": "épousasses",
+      "il": "épousât",
+      "nous": "épousassions",
+      "vous": "épousassiez",
+      "ils": "épousassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse épousé",
+      "tu": "eusses épousé",
+      "il": "eût épousé",
+      "nous": "eussions épousé",
+      "vous": "eussiez épousé",
+      "ils": "eussent épousé"
+    },
+    "conditionnel_présent": {
+      "je": "épouserais",
+      "tu": "épouserais",
+      "il": "épouserait",
+      "nous": "épouserions",
+      "vous": "épouseriez",
+      "ils": "épouseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais épousé",
+      "tu": "aurais épousé",
+      "il": "aurait épousé",
+      "nous": "aurions épousé",
+      "vous": "auriez épousé",
+      "ils": "auraient épousé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse épousé",
+      "tu": "eusses épousé",
+      "il": "eût épousé",
+      "nous": "eussions épousé",
+      "vous": "eussiez épousé",
+      "ils": "eussent épousé"
+    },
+    "translation": "poślubić",
+    "group": 1
+  },
+  {
+    "infinitive": "épousseter",
+    "présent": {
+      "je": "époussette",
+      "tu": "époussettes",
+      "il": "époussette",
+      "nous": "époussetons",
+      "vous": "époussetez",
+      "ils": "époussettent"
+    },
+    "passé_composé": {
+      "je": "ai épousseté",
+      "tu": "as épousseté",
+      "il": "a épousseté",
+      "nous": "avons épousseté",
+      "vous": "avez épousseté",
+      "ils": "ont épousseté"
+    },
+    "imparfait": {
+      "je": "époussetais",
+      "tu": "époussetais",
+      "il": "époussetait",
+      "nous": "époussetions",
+      "vous": "époussetiez",
+      "ils": "époussetaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais épousseté",
+      "tu": "avais épousseté",
+      "il": "avait épousseté",
+      "nous": "avions épousseté",
+      "vous": "aviez épousseté",
+      "ils": "avaient épousseté"
+    },
+    "passé_simple": {
+      "je": "époussetai",
+      "tu": "époussetas",
+      "il": "épousseta",
+      "nous": "époussetâmes",
+      "vous": "époussetâtes",
+      "ils": "époussetèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus épousseté",
+      "tu": "eus épousseté",
+      "il": "eut épousseté",
+      "nous": "eûmes épousseté",
+      "vous": "eûtes épousseté",
+      "ils": "eurent épousseté"
+    },
+    "futur_simple": {
+      "je": "époussetterai",
+      "tu": "époussetteras",
+      "il": "époussettera",
+      "nous": "époussetterons",
+      "vous": "époussetterez",
+      "ils": "époussetteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai épousseté",
+      "tu": "auras épousseté",
+      "il": "aura épousseté",
+      "nous": "aurons épousseté",
+      "vous": "aurez épousseté",
+      "ils": "auront épousseté"
+    },
+    "subjonctif_présent": {
+      "je": "époussette",
+      "tu": "époussettes",
+      "il": "époussette",
+      "nous": "époussetions",
+      "vous": "époussetiez",
+      "ils": "époussettent"
+    },
+    "subjonctif_passé": {
+      "je": "aie épousseté",
+      "tu": "aies épousseté",
+      "il": "ait épousseté",
+      "nous": "ayons épousseté",
+      "vous": "ayez épousseté",
+      "ils": "aient épousseté"
+    },
+    "subjonctif_imparfait": {
+      "je": "époussetasse",
+      "tu": "époussetasses",
+      "il": "époussetât",
+      "nous": "époussetassions",
+      "vous": "époussetassiez",
+      "ils": "époussetassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse épousseté",
+      "tu": "eusses épousseté",
+      "il": "eût épousseté",
+      "nous": "eussions épousseté",
+      "vous": "eussiez épousseté",
+      "ils": "eussent épousseté"
+    },
+    "conditionnel_présent": {
+      "je": "époussetterais",
+      "tu": "époussetterais",
+      "il": "époussetterait",
+      "nous": "époussetterions",
+      "vous": "époussetteriez",
+      "ils": "époussetteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais épousseté",
+      "tu": "aurais épousseté",
+      "il": "aurait épousseté",
+      "nous": "aurions épousseté",
+      "vous": "auriez épousseté",
+      "ils": "auraient épousseté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse épousseté",
+      "tu": "eusses épousseté",
+      "il": "eût épousseté",
+      "nous": "eussions épousseté",
+      "vous": "eussiez épousseté",
+      "ils": "eussent épousseté"
+    },
+    "translation": "wycierać",
+    "group": 1
+  },
+  {
+    "infinitive": "éprendre",
+    "présent": {
+      "je": "éprends",
+      "tu": "éprends",
+      "il": "éprend",
+      "nous": "nous éprenons",
+      "vous": "vous éprenez",
+      "ils": "éprennent"
+    },
+    "passé_composé": {
+      "je": "me suis épris",
+      "tu": "es épris",
+      "il": "est épris",
+      "nous": "nous sommes épris",
+      "vous": "vous êtes épris",
+      "ils": "se sont épris"
+    },
+    "imparfait": {
+      "je": "éprenais",
+      "tu": "éprenais",
+      "il": "éprenait",
+      "nous": "nous éprenions",
+      "vous": "vous épreniez",
+      "ils": "éprenaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais épris",
+      "tu": "étais épris",
+      "il": "était épris",
+      "nous": "nous étions épris",
+      "vous": "vous étiez épris",
+      "ils": "étaient épris"
+    },
+    "passé_simple": {
+      "je": "épris",
+      "tu": "épris",
+      "il": "éprit",
+      "nous": "nous éprîmes",
+      "vous": "vous éprîtes",
+      "ils": "éprirent"
+    },
+    "passé_antérieur": {
+      "je": "me fus épris",
+      "tu": "te fus épris",
+      "il": "se fut épris",
+      "nous": "nous fûmes épris",
+      "vous": "vous fûtes épris",
+      "ils": "se furent épris"
+    },
+    "futur_simple": {
+      "je": "éprendrai",
+      "tu": "éprendras",
+      "il": "éprendra",
+      "nous": "nous éprendrons",
+      "vous": "vous éprendrez",
+      "ils": "éprendront"
+    },
+    "futur_antérieur": {
+      "je": "me serai épris",
+      "tu": "te seras épris",
+      "il": "se sera épris",
+      "nous": "nous serons épris",
+      "vous": "vous serez épris",
+      "ils": "se seront épris"
+    },
+    "subjonctif_présent": {
+      "je": "éprenne",
+      "tu": "éprennes",
+      "il": "éprenne",
+      "nous": "nous éprenions",
+      "vous": "vous épreniez",
+      "ils": "éprennent"
+    },
+    "subjonctif_passé": {
+      "je": "me sois épris",
+      "tu": "te sois épris",
+      "il": "se soit épris",
+      "nous": "nous soyons épris",
+      "vous": "vous soyez épris",
+      "ils": "se soient épris"
+    },
+    "subjonctif_imparfait": {
+      "je": "éprisse",
+      "tu": "éprisses",
+      "il": "éprît",
+      "nous": "nous éprissions",
+      "vous": "vous éprissiez",
+      "ils": "éprissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse épris",
+      "tu": "te fusses épris",
+      "il": "se fût épris",
+      "nous": "nous fussions épris",
+      "vous": "vous fussiez épris",
+      "ils": "se fussent épris"
+    },
+    "conditionnel_présent": {
+      "je": "éprendrais",
+      "tu": "éprendrais",
+      "il": "éprendrait",
+      "nous": "nous éprendrions",
+      "vous": "vous éprendriez",
+      "ils": "éprendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais épris",
+      "tu": "te serais épris",
+      "il": "se serait épris",
+      "nous": "nous serions épris",
+      "vous": "vous seriez épris",
+      "ils": "se seraient épris"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse épris",
+      "tu": "te fusses épris",
+      "il": "se fût épris",
+      "nous": "nous fussions épris",
+      "vous": "vous fussiez épris",
+      "ils": "se fussent épris"
+    },
+    "translation": "przyjmować",
+    "group": 3
+  }
+]

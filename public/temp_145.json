@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "pressentir",
+    "présent": {
+      "je": "pressens",
+      "tu": "pressens",
+      "il": "pressent",
+      "nous": "pressentons",
+      "vous": "pressentez",
+      "ils": "pressentent"
+    },
+    "passé_composé": {
+      "je": "ai pressenti",
+      "tu": "as pressenti",
+      "il": "a pressenti",
+      "nous": "avons pressenti",
+      "vous": "avez pressenti",
+      "ils": "ont pressenti"
+    },
+    "imparfait": {
+      "je": "pressentais",
+      "tu": "pressentais",
+      "il": "pressentait",
+      "nous": "pressentions",
+      "vous": "pressentiez",
+      "ils": "pressentaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais pressenti",
+      "tu": "avais pressenti",
+      "il": "avait pressenti",
+      "nous": "avions pressenti",
+      "vous": "aviez pressenti",
+      "ils": "avaient pressenti"
+    },
+    "passé_simple": {
+      "je": "pressentis",
+      "tu": "pressentis",
+      "il": "pressentit",
+      "nous": "pressentîmes",
+      "vous": "pressentîtes",
+      "ils": "pressentirent"
+    },
+    "passé_antérieur": {
+      "je": "eus pressenti",
+      "tu": "eus pressenti",
+      "il": "eut pressenti",
+      "nous": "eûmes pressenti",
+      "vous": "eûtes pressenti",
+      "ils": "eurent pressenti"
+    },
+    "futur_simple": {
+      "je": "pressentirai",
+      "tu": "pressentiras",
+      "il": "pressentira",
+      "nous": "pressentirons",
+      "vous": "pressentirez",
+      "ils": "pressentiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai pressenti",
+      "tu": "auras pressenti",
+      "il": "aura pressenti",
+      "nous": "aurons pressenti",
+      "vous": "aurez pressenti",
+      "ils": "auront pressenti"
+    },
+    "subjonctif_présent": {
+      "je": "pressente",
+      "tu": "pressentes",
+      "il": "pressente",
+      "nous": "pressentions",
+      "vous": "pressentiez",
+      "ils": "pressentent"
+    },
+    "subjonctif_passé": {
+      "je": "aie pressenti",
+      "tu": "aies pressenti",
+      "il": "ait pressenti",
+      "nous": "ayons pressenti",
+      "vous": "ayez pressenti",
+      "ils": "aient pressenti"
+    },
+    "subjonctif_imparfait": {
+      "je": "pressentisse",
+      "tu": "pressentisses",
+      "il": "pressentît",
+      "nous": "pressentissions",
+      "vous": "pressentissiez",
+      "ils": "pressentissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse pressenti",
+      "tu": "eusses pressenti",
+      "il": "eût pressenti",
+      "nous": "eussions pressenti",
+      "vous": "eussiez pressenti",
+      "ils": "eussent pressenti"
+    },
+    "conditionnel_présent": {
+      "je": "pressentirais",
+      "tu": "pressentirais",
+      "il": "pressentirait",
+      "nous": "pressentirions",
+      "vous": "pressentiriez",
+      "ils": "pressentiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais pressenti",
+      "tu": "aurais pressenti",
+      "il": "aurait pressenti",
+      "nous": "aurions pressenti",
+      "vous": "auriez pressenti",
+      "ils": "auraient pressenti"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse pressenti",
+      "tu": "eusses pressenti",
+      "il": "eût pressenti",
+      "nous": "eussions pressenti",
+      "vous": "eussiez pressenti",
+      "ils": "eussent pressenti"
+    },
+    "translation": "pressentir",
+    "group": 3
+  },
+  {
+    "infinitive": "presser",
+    "présent": {
+      "je": "presse",
+      "tu": "presses",
+      "il": "presse",
+      "nous": "pressons",
+      "vous": "pressez",
+      "ils": "pressent"
+    },
+    "passé_composé": {
+      "je": "ai pressé",
+      "tu": "as pressé",
+      "il": "a pressé",
+      "nous": "avons pressé",
+      "vous": "avez pressé",
+      "ils": "ont pressé"
+    },
+    "imparfait": {
+      "je": "pressais",
+      "tu": "pressais",
+      "il": "pressait",
+      "nous": "pressions",
+      "vous": "pressiez",
+      "ils": "pressaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais pressé",
+      "tu": "avais pressé",
+      "il": "avait pressé",
+      "nous": "avions pressé",
+      "vous": "aviez pressé",
+      "ils": "avaient pressé"
+    },
+    "passé_simple": {
+      "je": "pressai",
+      "tu": "pressas",
+      "il": "pressa",
+      "nous": "pressâmes",
+      "vous": "pressâtes",
+      "ils": "pressèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus pressé",
+      "tu": "eus pressé",
+      "il": "eut pressé",
+      "nous": "eûmes pressé",
+      "vous": "eûtes pressé",
+      "ils": "eurent pressé"
+    },
+    "futur_simple": {
+      "je": "presserai",
+      "tu": "presseras",
+      "il": "pressera",
+      "nous": "presserons",
+      "vous": "presserez",
+      "ils": "presseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai pressé",
+      "tu": "auras pressé",
+      "il": "aura pressé",
+      "nous": "aurons pressé",
+      "vous": "aurez pressé",
+      "ils": "auront pressé"
+    },
+    "subjonctif_présent": {
+      "je": "presse",
+      "tu": "presses",
+      "il": "presse",
+      "nous": "pressions",
+      "vous": "pressiez",
+      "ils": "pressent"
+    },
+    "subjonctif_passé": {
+      "je": "aie pressé",
+      "tu": "aies pressé",
+      "il": "ait pressé",
+      "nous": "ayons pressé",
+      "vous": "ayez pressé",
+      "ils": "aient pressé"
+    },
+    "subjonctif_imparfait": {
+      "je": "pressasse",
+      "tu": "pressasses",
+      "il": "pressât",
+      "nous": "pressassions",
+      "vous": "pressassiez",
+      "ils": "pressassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse pressé",
+      "tu": "eusses pressé",
+      "il": "eût pressé",
+      "nous": "eussions pressé",
+      "vous": "eussiez pressé",
+      "ils": "eussent pressé"
+    },
+    "conditionnel_présent": {
+      "je": "presserais",
+      "tu": "presserais",
+      "il": "presserait",
+      "nous": "presserions",
+      "vous": "presseriez",
+      "ils": "presseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais pressé",
+      "tu": "aurais pressé",
+      "il": "aurait pressé",
+      "nous": "aurions pressé",
+      "vous": "auriez pressé",
+      "ils": "auraient pressé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse pressé",
+      "tu": "eusses pressé",
+      "il": "eût pressé",
+      "nous": "eussions pressé",
+      "vous": "eussiez pressé",
+      "ils": "eussent pressé"
+    },
+    "translation": "przyspieszać",
+    "group": 1
+  },
+  {
+    "infinitive": "prétendre",
+    "présent": {
+      "je": "prétends",
+      "tu": "prétends",
+      "il": "prétend",
+      "nous": "prétendons",
+      "vous": "prétendez",
+      "ils": "prétendent"
+    },
+    "passé_composé": {
+      "je": "ai prétendu",
+      "tu": "as prétendu",
+      "il": "a prétendu",
+      "nous": "avons prétendu",
+      "vous": "avez prétendu",
+      "ils": "ont prétendu"
+    },
+    "imparfait": {
+      "je": "prétendais",
+      "tu": "prétendais",
+      "il": "prétendait",
+      "nous": "prétendions",
+      "vous": "prétendiez",
+      "ils": "prétendaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais prétendu",
+      "tu": "avais prétendu",
+      "il": "avait prétendu",
+      "nous": "avions prétendu",
+      "vous": "aviez prétendu",
+      "ils": "avaient prétendu"
+    },
+    "passé_simple": {
+      "je": "prétendis",
+      "tu": "prétendis",
+      "il": "prétendit",
+      "nous": "prétendîmes",
+      "vous": "prétendîtes",
+      "ils": "prétendirent"
+    },
+    "passé_antérieur": {
+      "je": "eus prétendu",
+      "tu": "eus prétendu",
+      "il": "eut prétendu",
+      "nous": "eûmes prétendu",
+      "vous": "eûtes prétendu",
+      "ils": "eurent prétendu"
+    },
+    "futur_simple": {
+      "je": "prétendrai",
+      "tu": "prétendras",
+      "il": "prétendra",
+      "nous": "prétendrons",
+      "vous": "prétendrez",
+      "ils": "prétendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai prétendu",
+      "tu": "auras prétendu",
+      "il": "aura prétendu",
+      "nous": "aurons prétendu",
+      "vous": "aurez prétendu",
+      "ils": "auront prétendu"
+    },
+    "subjonctif_présent": {
+      "je": "prétende",
+      "tu": "prétendes",
+      "il": "prétende",
+      "nous": "prétendions",
+      "vous": "prétendiez",
+      "ils": "prétendent"
+    },
+    "subjonctif_passé": {
+      "je": "aie prétendu",
+      "tu": "aies prétendu",
+      "il": "ait prétendu",
+      "nous": "ayons prétendu",
+      "vous": "ayez prétendu",
+      "ils": "aient prétendu"
+    },
+    "subjonctif_imparfait": {
+      "je": "prétendisse",
+      "tu": "prétendisses",
+      "il": "prétendît",
+      "nous": "prétendissions",
+      "vous": "prétendissiez",
+      "ils": "prétendissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse prétendu",
+      "tu": "eusses prétendu",
+      "il": "eût prétendu",
+      "nous": "eussions prétendu",
+      "vous": "eussiez prétendu",
+      "ils": "eussent prétendu"
+    },
+    "conditionnel_présent": {
+      "je": "prétendrais",
+      "tu": "prétendrais",
+      "il": "prétendrait",
+      "nous": "prétendrions",
+      "vous": "prétendriez",
+      "ils": "prétendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais prétendu",
+      "tu": "aurais prétendu",
+      "il": "aurait prétendu",
+      "nous": "aurions prétendu",
+      "vous": "auriez prétendu",
+      "ils": "auraient prétendu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse prétendu",
+      "tu": "eusses prétendu",
+      "il": "eût prétendu",
+      "nous": "eussions prétendu",
+      "vous": "eussiez prétendu",
+      "ils": "eussent prétendu"
+    },
+    "translation": "żądać",
+    "group": 3
+  },
+  {
+    "infinitive": "prêter",
+    "présent": {
+      "je": "prête",
+      "tu": "prêtes",
+      "il": "prête",
+      "nous": "prêtons",
+      "vous": "prêtez",
+      "ils": "prêtent"
+    },
+    "passé_composé": {
+      "je": "ai prêté",
+      "tu": "as prêté",
+      "il": "a prêté",
+      "nous": "avons prêté",
+      "vous": "avez prêté",
+      "ils": "ont prêté"
+    },
+    "imparfait": {
+      "je": "prêtais",
+      "tu": "prêtais",
+      "il": "prêtait",
+      "nous": "prêtions",
+      "vous": "prêtiez",
+      "ils": "prêtaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais prêté",
+      "tu": "avais prêté",
+      "il": "avait prêté",
+      "nous": "avions prêté",
+      "vous": "aviez prêté",
+      "ils": "avaient prêté"
+    },
+    "passé_simple": {
+      "je": "prêtai",
+      "tu": "prêtas",
+      "il": "prêta",
+      "nous": "prêtâmes",
+      "vous": "prêtâtes",
+      "ils": "prêtèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus prêté",
+      "tu": "eus prêté",
+      "il": "eut prêté",
+      "nous": "eûmes prêté",
+      "vous": "eûtes prêté",
+      "ils": "eurent prêté"
+    },
+    "futur_simple": {
+      "je": "prêterai",
+      "tu": "prêteras",
+      "il": "prêtera",
+      "nous": "prêterons",
+      "vous": "prêterez",
+      "ils": "prêteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai prêté",
+      "tu": "auras prêté",
+      "il": "aura prêté",
+      "nous": "aurons prêté",
+      "vous": "aurez prêté",
+      "ils": "auront prêté"
+    },
+    "subjonctif_présent": {
+      "je": "prête",
+      "tu": "prêtes",
+      "il": "prête",
+      "nous": "prêtions",
+      "vous": "prêtiez",
+      "ils": "prêtent"
+    },
+    "subjonctif_passé": {
+      "je": "aie prêté",
+      "tu": "aies prêté",
+      "il": "ait prêté",
+      "nous": "ayons prêté",
+      "vous": "ayez prêté",
+      "ils": "aient prêté"
+    },
+    "subjonctif_imparfait": {
+      "je": "prêtasse",
+      "tu": "prêtasses",
+      "il": "prêtât",
+      "nous": "prêtassions",
+      "vous": "prêtassiez",
+      "ils": "prêtassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse prêté",
+      "tu": "eusses prêté",
+      "il": "eût prêté",
+      "nous": "eussions prêté",
+      "vous": "eussiez prêté",
+      "ils": "eussent prêté"
+    },
+    "conditionnel_présent": {
+      "je": "prêterais",
+      "tu": "prêterais",
+      "il": "prêterait",
+      "nous": "prêterions",
+      "vous": "prêteriez",
+      "ils": "prêteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais prêté",
+      "tu": "aurais prêté",
+      "il": "aurait prêté",
+      "nous": "aurions prêté",
+      "vous": "auriez prêté",
+      "ils": "auraient prêté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse prêté",
+      "tu": "eusses prêté",
+      "il": "eût prêté",
+      "nous": "eussions prêté",
+      "vous": "eussiez prêté",
+      "ils": "eussent prêté"
+    },
+    "translation": "pożyczać",
+    "group": 1
+  },
+  {
+    "infinitive": "prévaloir",
+    "présent": {
+      "je": "prévaux",
+      "tu": "prévaux",
+      "il": "prévaut",
+      "nous": "prévalons",
+      "vous": "prévalez",
+      "ils": "prévalent"
+    },
+    "passé_composé": {
+      "je": "ai prévalu",
+      "tu": "as prévalu",
+      "il": "a prévalu",
+      "nous": "avons prévalu",
+      "vous": "avez prévalu",
+      "ils": "ont prévalu"
+    },
+    "imparfait": {
+      "je": "prévalais",
+      "tu": "prévalais",
+      "il": "prévalait",
+      "nous": "prévalions",
+      "vous": "prévaliez",
+      "ils": "prévalaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais prévalu",
+      "tu": "avais prévalu",
+      "il": "avait prévalu",
+      "nous": "avions prévalu",
+      "vous": "aviez prévalu",
+      "ils": "avaient prévalu"
+    },
+    "passé_simple": {
+      "je": "prévalus",
+      "tu": "prévalus",
+      "il": "prévalut",
+      "nous": "prévalûmes",
+      "vous": "prévalûtes",
+      "ils": "prévalurent"
+    },
+    "passé_antérieur": {
+      "je": "eus prévalu",
+      "tu": "eus prévalu",
+      "il": "eut prévalu",
+      "nous": "eûmes prévalu",
+      "vous": "eûtes prévalu",
+      "ils": "eurent prévalu"
+    },
+    "futur_simple": {
+      "je": "prévaudrai",
+      "tu": "prévaudras",
+      "il": "prévaudra",
+      "nous": "prévaudrons",
+      "vous": "prévaudrez",
+      "ils": "prévaudront"
+    },
+    "futur_antérieur": {
+      "je": "aurai prévalu",
+      "tu": "auras prévalu",
+      "il": "aura prévalu",
+      "nous": "aurons prévalu",
+      "vous": "aurez prévalu",
+      "ils": "auront prévalu"
+    },
+    "subjonctif_présent": {
+      "je": "prévale",
+      "tu": "prévales",
+      "il": "prévale",
+      "nous": "prévalions",
+      "vous": "prévaliez",
+      "ils": "prévalent"
+    },
+    "subjonctif_passé": {
+      "je": "aie prévalu",
+      "tu": "aies prévalu",
+      "il": "ait prévalu",
+      "nous": "ayons prévalu",
+      "vous": "ayez prévalu",
+      "ils": "aient prévalu"
+    },
+    "subjonctif_imparfait": {
+      "je": "prévalusse",
+      "tu": "prévalusses",
+      "il": "prévalût",
+      "nous": "prévalussions",
+      "vous": "prévalussiez",
+      "ils": "prévalussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse prévalu",
+      "tu": "eusses prévalu",
+      "il": "eût prévalu",
+      "nous": "eussions prévalu",
+      "vous": "eussiez prévalu",
+      "ils": "eussent prévalu"
+    },
+    "conditionnel_présent": {
+      "je": "prévaudrais",
+      "tu": "prévaudrais",
+      "il": "prévaudrait",
+      "nous": "prévaudrions",
+      "vous": "prévaudriez",
+      "ils": "prévaudraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais prévalu",
+      "tu": "aurais prévalu",
+      "il": "aurait prévalu",
+      "nous": "aurions prévalu",
+      "vous": "auriez prévalu",
+      "ils": "auraient prévalu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse prévalu",
+      "tu": "eusses prévalu",
+      "il": "eût prévalu",
+      "nous": "eussions prévalu",
+      "vous": "eussiez prévalu",
+      "ils": "eussent prévalu"
+    },
+    "translation": "odwdzięczę",
+    "group": 3
+  },
+  {
+    "infinitive": "prévenir",
+    "présent": {
+      "je": "préviens",
+      "tu": "préviens",
+      "il": "prévient",
+      "nous": "prévenons",
+      "vous": "prévenez",
+      "ils": "préviennent"
+    },
+    "passé_composé": {
+      "je": "ai prévenu",
+      "tu": "as prévenu",
+      "il": "a prévenu",
+      "nous": "avons prévenu",
+      "vous": "avez prévenu",
+      "ils": "ont prévenu"
+    },
+    "imparfait": {
+      "je": "prévenais",
+      "tu": "prévenais",
+      "il": "prévenait",
+      "nous": "prévenions",
+      "vous": "préveniez",
+      "ils": "prévenaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais prévenu",
+      "tu": "avais prévenu",
+      "il": "avait prévenu",
+      "nous": "avions prévenu",
+      "vous": "aviez prévenu",
+      "ils": "avaient prévenu"
+    },
+    "passé_simple": {
+      "je": "prévins",
+      "tu": "prévins",
+      "il": "prévint",
+      "nous": "prévînmes",
+      "vous": "prévîntes",
+      "ils": "prévinrent"
+    },
+    "passé_antérieur": {
+      "je": "eus prévenu",
+      "tu": "eus prévenu",
+      "il": "eut prévenu",
+      "nous": "eûmes prévenu",
+      "vous": "eûtes prévenu",
+      "ils": "eurent prévenu"
+    },
+    "futur_simple": {
+      "je": "préviendrai",
+      "tu": "préviendras",
+      "il": "préviendra",
+      "nous": "préviendrons",
+      "vous": "préviendrez",
+      "ils": "préviendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai prévenu",
+      "tu": "auras prévenu",
+      "il": "aura prévenu",
+      "nous": "aurons prévenu",
+      "vous": "aurez prévenu",
+      "ils": "auront prévenu"
+    },
+    "subjonctif_présent": {
+      "je": "prévienne",
+      "tu": "préviennes",
+      "il": "prévienne",
+      "nous": "prévenions",
+      "vous": "préveniez",
+      "ils": "préviennent"
+    },
+    "subjonctif_passé": {
+      "je": "aie prévenu",
+      "tu": "aies prévenu",
+      "il": "ait prévenu",
+      "nous": "ayons prévenu",
+      "vous": "ayez prévenu",
+      "ils": "aient prévenu"
+    },
+    "subjonctif_imparfait": {
+      "je": "prévinsse",
+      "tu": "prévinsses",
+      "il": "prévînt",
+      "nous": "prévinssions",
+      "vous": "prévinssiez",
+      "ils": "prévinssent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse prévenu",
+      "tu": "eusses prévenu",
+      "il": "eût prévenu",
+      "nous": "eussions prévenu",
+      "vous": "eussiez prévenu",
+      "ils": "eussent prévenu"
+    },
+    "conditionnel_présent": {
+      "je": "préviendrais",
+      "tu": "préviendrais",
+      "il": "préviendrait",
+      "nous": "préviendrions",
+      "vous": "préviendriez",
+      "ils": "préviendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais prévenu",
+      "tu": "aurais prévenu",
+      "il": "aurait prévenu",
+      "nous": "aurions prévenu",
+      "vous": "auriez prévenu",
+      "ils": "auraient prévenu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse prévenu",
+      "tu": "eusses prévenu",
+      "il": "eût prévenu",
+      "nous": "eussions prévenu",
+      "vous": "eussiez prévenu",
+      "ils": "eussent prévenu"
+    },
+    "translation": "powiadamiać",
+    "group": 3
+  },
+  {
+    "infinitive": "prévoir",
+    "présent": {
+      "je": "prévois",
+      "tu": "prévois",
+      "il": "prévoit",
+      "nous": "prévoyons",
+      "vous": "prévoyez",
+      "ils": "prévoient"
+    },
+    "passé_composé": {
+      "je": "ai prévu",
+      "tu": "as prévu",
+      "il": "a prévu",
+      "nous": "avons prévu",
+      "vous": "avez prévu",
+      "ils": "ont prévu"
+    },
+    "imparfait": {
+      "je": "prévoyais",
+      "tu": "prévoyais",
+      "il": "prévoyait",
+      "nous": "prévoyions",
+      "vous": "prévoyiez",
+      "ils": "prévoyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais prévu",
+      "tu": "avais prévu",
+      "il": "avait prévu",
+      "nous": "avions prévu",
+      "vous": "aviez prévu",
+      "ils": "avaient prévu"
+    },
+    "passé_simple": {
+      "je": "prévis",
+      "tu": "prévis",
+      "il": "prévit",
+      "nous": "prévîmes",
+      "vous": "prévîtes",
+      "ils": "prévirent"
+    },
+    "passé_antérieur": {
+      "je": "eus prévu",
+      "tu": "eus prévu",
+      "il": "eut prévu",
+      "nous": "eûmes prévu",
+      "vous": "eûtes prévu",
+      "ils": "eurent prévu"
+    },
+    "futur_simple": {
+      "je": "prévoirai",
+      "tu": "prévoiras",
+      "il": "prévoira",
+      "nous": "prévoirons",
+      "vous": "prévoirez",
+      "ils": "prévoiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai prévu",
+      "tu": "auras prévu",
+      "il": "aura prévu",
+      "nous": "aurons prévu",
+      "vous": "aurez prévu",
+      "ils": "auront prévu"
+    },
+    "subjonctif_présent": {
+      "je": "prévoie",
+      "tu": "prévoies",
+      "il": "prévoie",
+      "nous": "prévoyions",
+      "vous": "prévoyiez",
+      "ils": "prévoient"
+    },
+    "subjonctif_passé": {
+      "je": "aie prévu",
+      "tu": "aies prévu",
+      "il": "ait prévu",
+      "nous": "ayons prévu",
+      "vous": "ayez prévu",
+      "ils": "aient prévu"
+    },
+    "subjonctif_imparfait": {
+      "je": "prévisse",
+      "tu": "prévisses",
+      "il": "prévît",
+      "nous": "prévissions",
+      "vous": "prévissiez",
+      "ils": "prévissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse prévu",
+      "tu": "eusses prévu",
+      "il": "eût prévu",
+      "nous": "eussions prévu",
+      "vous": "eussiez prévu",
+      "ils": "eussent prévu"
+    },
+    "conditionnel_présent": {
+      "je": "prévoirais",
+      "tu": "prévoirais",
+      "il": "prévoirait",
+      "nous": "prévoirions",
+      "vous": "prévoiriez",
+      "ils": "prévoiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais prévu",
+      "tu": "aurais prévu",
+      "il": "aurait prévu",
+      "nous": "aurions prévu",
+      "vous": "auriez prévu",
+      "ils": "auraient prévu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse prévu",
+      "tu": "eusses prévu",
+      "il": "eût prévu",
+      "nous": "eussions prévu",
+      "vous": "eussiez prévu",
+      "ils": "eussent prévu"
+    },
+    "translation": "przewidywać",
+    "group": 3
+  },
+  {
+    "infinitive": "prier",
+    "présent": {
+      "je": "prie",
+      "tu": "pries",
+      "il": "prie",
+      "nous": "prions",
+      "vous": "priez",
+      "ils": "prient"
+    },
+    "passé_composé": {
+      "je": "ai prié",
+      "tu": "as prié",
+      "il": "a prié",
+      "nous": "avons prié",
+      "vous": "avez prié",
+      "ils": "ont prié"
+    },
+    "imparfait": {
+      "je": "priais",
+      "tu": "priais",
+      "il": "priait",
+      "nous": "priions",
+      "vous": "priiez",
+      "ils": "priaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais prié",
+      "tu": "avais prié",
+      "il": "avait prié",
+      "nous": "avions prié",
+      "vous": "aviez prié",
+      "ils": "avaient prié"
+    },
+    "passé_simple": {
+      "je": "priai",
+      "tu": "prias",
+      "il": "pria",
+      "nous": "priâmes",
+      "vous": "priâtes",
+      "ils": "prièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus prié",
+      "tu": "eus prié",
+      "il": "eut prié",
+      "nous": "eûmes prié",
+      "vous": "eûtes prié",
+      "ils": "eurent prié"
+    },
+    "futur_simple": {
+      "je": "prierai",
+      "tu": "prieras",
+      "il": "priera",
+      "nous": "prierons",
+      "vous": "prierez",
+      "ils": "prieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai prié",
+      "tu": "auras prié",
+      "il": "aura prié",
+      "nous": "aurons prié",
+      "vous": "aurez prié",
+      "ils": "auront prié"
+    },
+    "subjonctif_présent": {
+      "je": "prie",
+      "tu": "pries",
+      "il": "prie",
+      "nous": "priions",
+      "vous": "priiez",
+      "ils": "prient"
+    },
+    "subjonctif_passé": {
+      "je": "aie prié",
+      "tu": "aies prié",
+      "il": "ait prié",
+      "nous": "ayons prié",
+      "vous": "ayez prié",
+      "ils": "aient prié"
+    },
+    "subjonctif_imparfait": {
+      "je": "priasse",
+      "tu": "priasses",
+      "il": "priât",
+      "nous": "priassions",
+      "vous": "priassiez",
+      "ils": "priassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse prié",
+      "tu": "eusses prié",
+      "il": "eût prié",
+      "nous": "eussions prié",
+      "vous": "eussiez prié",
+      "ils": "eussent prié"
+    },
+    "conditionnel_présent": {
+      "je": "prierais",
+      "tu": "prierais",
+      "il": "prierait",
+      "nous": "prierions",
+      "vous": "prieriez",
+      "ils": "prieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais prié",
+      "tu": "aurais prié",
+      "il": "aurait prié",
+      "nous": "aurions prié",
+      "vous": "auriez prié",
+      "ils": "auraient prié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse prié",
+      "tu": "eusses prié",
+      "il": "eût prié",
+      "nous": "eussions prié",
+      "vous": "eussiez prié",
+      "ils": "eussent prié"
+    },
+    "translation": "modlić",
+    "group": 1
+  },
+  {
+    "infinitive": "primer",
+    "présent": {
+      "je": "prime",
+      "tu": "primes",
+      "il": "prime",
+      "nous": "primons",
+      "vous": "primez",
+      "ils": "priment"
+    },
+    "passé_composé": {
+      "je": "ai primé",
+      "tu": "as primé",
+      "il": "a primé",
+      "nous": "avons primé",
+      "vous": "avez primé",
+      "ils": "ont primé"
+    },
+    "imparfait": {
+      "je": "primais",
+      "tu": "primais",
+      "il": "primait",
+      "nous": "primions",
+      "vous": "primiez",
+      "ils": "primaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais primé",
+      "tu": "avais primé",
+      "il": "avait primé",
+      "nous": "avions primé",
+      "vous": "aviez primé",
+      "ils": "avaient primé"
+    },
+    "passé_simple": {
+      "je": "primai",
+      "tu": "primas",
+      "il": "prima",
+      "nous": "primâmes",
+      "vous": "primâtes",
+      "ils": "primèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus primé",
+      "tu": "eus primé",
+      "il": "eut primé",
+      "nous": "eûmes primé",
+      "vous": "eûtes primé",
+      "ils": "eurent primé"
+    },
+    "futur_simple": {
+      "je": "primerai",
+      "tu": "primeras",
+      "il": "primera",
+      "nous": "primerons",
+      "vous": "primerez",
+      "ils": "primeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai primé",
+      "tu": "auras primé",
+      "il": "aura primé",
+      "nous": "aurons primé",
+      "vous": "aurez primé",
+      "ils": "auront primé"
+    },
+    "subjonctif_présent": {
+      "je": "prime",
+      "tu": "primes",
+      "il": "prime",
+      "nous": "primions",
+      "vous": "primiez",
+      "ils": "priment"
+    },
+    "subjonctif_passé": {
+      "je": "aie primé",
+      "tu": "aies primé",
+      "il": "ait primé",
+      "nous": "ayons primé",
+      "vous": "ayez primé",
+      "ils": "aient primé"
+    },
+    "subjonctif_imparfait": {
+      "je": "primasse",
+      "tu": "primasses",
+      "il": "primât",
+      "nous": "primassions",
+      "vous": "primassiez",
+      "ils": "primassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse primé",
+      "tu": "eusses primé",
+      "il": "eût primé",
+      "nous": "eussions primé",
+      "vous": "eussiez primé",
+      "ils": "eussent primé"
+    },
+    "conditionnel_présent": {
+      "je": "primerais",
+      "tu": "primerais",
+      "il": "primerait",
+      "nous": "primerions",
+      "vous": "primeriez",
+      "ils": "primeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais primé",
+      "tu": "aurais primé",
+      "il": "aurait primé",
+      "nous": "aurions primé",
+      "vous": "auriez primé",
+      "ils": "auraient primé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse primé",
+      "tu": "eusses primé",
+      "il": "eût primé",
+      "nous": "eussions primé",
+      "vous": "eussiez primé",
+      "ils": "eussent primé"
+    },
+    "translation": "nagradzać",
+    "group": 1
+  },
+  {
+    "infinitive": "priser",
+    "présent": {
+      "je": "prise",
+      "tu": "prises",
+      "il": "prise",
+      "nous": "prisons",
+      "vous": "prisez",
+      "ils": "prisent"
+    },
+    "passé_composé": {
+      "je": "ai prisé",
+      "tu": "as prisé",
+      "il": "a prisé",
+      "nous": "avons prisé",
+      "vous": "avez prisé",
+      "ils": "ont prisé"
+    },
+    "imparfait": {
+      "je": "prisais",
+      "tu": "prisais",
+      "il": "prisait",
+      "nous": "prisions",
+      "vous": "prisiez",
+      "ils": "prisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais prisé",
+      "tu": "avais prisé",
+      "il": "avait prisé",
+      "nous": "avions prisé",
+      "vous": "aviez prisé",
+      "ils": "avaient prisé"
+    },
+    "passé_simple": {
+      "je": "prisai",
+      "tu": "prisas",
+      "il": "prisa",
+      "nous": "prisâmes",
+      "vous": "prisâtes",
+      "ils": "prisèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus prisé",
+      "tu": "eus prisé",
+      "il": "eut prisé",
+      "nous": "eûmes prisé",
+      "vous": "eûtes prisé",
+      "ils": "eurent prisé"
+    },
+    "futur_simple": {
+      "je": "priserai",
+      "tu": "priseras",
+      "il": "prisera",
+      "nous": "priserons",
+      "vous": "priserez",
+      "ils": "priseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai prisé",
+      "tu": "auras prisé",
+      "il": "aura prisé",
+      "nous": "aurons prisé",
+      "vous": "aurez prisé",
+      "ils": "auront prisé"
+    },
+    "subjonctif_présent": {
+      "je": "prise",
+      "tu": "prises",
+      "il": "prise",
+      "nous": "prisions",
+      "vous": "prisiez",
+      "ils": "prisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie prisé",
+      "tu": "aies prisé",
+      "il": "ait prisé",
+      "nous": "ayons prisé",
+      "vous": "ayez prisé",
+      "ils": "aient prisé"
+    },
+    "subjonctif_imparfait": {
+      "je": "prisasse",
+      "tu": "prisasses",
+      "il": "prisât",
+      "nous": "prisassions",
+      "vous": "prisassiez",
+      "ils": "prisassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse prisé",
+      "tu": "eusses prisé",
+      "il": "eût prisé",
+      "nous": "eussions prisé",
+      "vous": "eussiez prisé",
+      "ils": "eussent prisé"
+    },
+    "conditionnel_présent": {
+      "je": "priserais",
+      "tu": "priserais",
+      "il": "priserait",
+      "nous": "priserions",
+      "vous": "priseriez",
+      "ils": "priseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais prisé",
+      "tu": "aurais prisé",
+      "il": "aurait prisé",
+      "nous": "aurions prisé",
+      "vous": "auriez prisé",
+      "ils": "auraient prisé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse prisé",
+      "tu": "eusses prisé",
+      "il": "eût prisé",
+      "nous": "eussions prisé",
+      "vous": "eussiez prisé",
+      "ils": "eussent prisé"
+    },
+    "translation": "uchwycenie",
+    "group": 1
+  }
+]

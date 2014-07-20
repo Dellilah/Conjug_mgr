@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "allonger",
+    "présent": {
+      "je": "allonge",
+      "tu": "allonges",
+      "il": "allonge",
+      "nous": "allongeons",
+      "vous": "allongez",
+      "ils": "allongent"
+    },
+    "passé_composé": {
+      "je": "ai allongé",
+      "tu": "as allongé",
+      "il": "a allongé",
+      "nous": "avons allongé",
+      "vous": "avez allongé",
+      "ils": "ont allongé"
+    },
+    "imparfait": {
+      "je": "allongeais",
+      "tu": "allongeais",
+      "il": "allongeait",
+      "nous": "allongions",
+      "vous": "allongiez",
+      "ils": "allongeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais allongé",
+      "tu": "avais allongé",
+      "il": "avait allongé",
+      "nous": "avions allongé",
+      "vous": "aviez allongé",
+      "ils": "avaient allongé"
+    },
+    "passé_simple": {
+      "je": "allongeai",
+      "tu": "allongeas",
+      "il": "allongea",
+      "nous": "allongeâmes",
+      "vous": "allongeâtes",
+      "ils": "allongèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus allongé",
+      "tu": "eus allongé",
+      "il": "eut allongé",
+      "nous": "eûmes allongé",
+      "vous": "eûtes allongé",
+      "ils": "eurent allongé"
+    },
+    "futur_simple": {
+      "je": "allongerai",
+      "tu": "allongeras",
+      "il": "allongera",
+      "nous": "allongerons",
+      "vous": "allongerez",
+      "ils": "allongeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai allongé",
+      "tu": "auras allongé",
+      "il": "aura allongé",
+      "nous": "aurons allongé",
+      "vous": "aurez allongé",
+      "ils": "auront allongé"
+    },
+    "subjonctif_présent": {
+      "je": "allonge",
+      "tu": "allonges",
+      "il": "allonge",
+      "nous": "allongions",
+      "vous": "allongiez",
+      "ils": "allongent"
+    },
+    "subjonctif_passé": {
+      "je": "aie allongé",
+      "tu": "aies allongé",
+      "il": "ait allongé",
+      "nous": "ayons allongé",
+      "vous": "ayez allongé",
+      "ils": "aient allongé"
+    },
+    "subjonctif_imparfait": {
+      "je": "allongeasse",
+      "tu": "allongeasses",
+      "il": "allongeât",
+      "nous": "allongeassions",
+      "vous": "allongeassiez",
+      "ils": "allongeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse allongé",
+      "tu": "eusses allongé",
+      "il": "eût allongé",
+      "nous": "eussions allongé",
+      "vous": "eussiez allongé",
+      "ils": "eussent allongé"
+    },
+    "conditionnel_présent": {
+      "je": "allongerais",
+      "tu": "allongerais",
+      "il": "allongerait",
+      "nous": "allongerions",
+      "vous": "allongeriez",
+      "ils": "allongeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais allongé",
+      "tu": "aurais allongé",
+      "il": "aurait allongé",
+      "nous": "aurions allongé",
+      "vous": "auriez allongé",
+      "ils": "auraient allongé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse allongé",
+      "tu": "eusses allongé",
+      "il": "eût allongé",
+      "nous": "eussions allongé",
+      "vous": "eussiez allongé",
+      "ils": "eussent allongé"
+    },
+    "translation": "wydłużać",
+    "group": 1
+  },
+  {
+    "infinitive": "allouer",
+    "présent": {
+      "je": "alloue",
+      "tu": "alloues",
+      "il": "alloue",
+      "nous": "allouons",
+      "vous": "allouez",
+      "ils": "allouent"
+    },
+    "passé_composé": {
+      "je": "ai alloué",
+      "tu": "as alloué",
+      "il": "a alloué",
+      "nous": "avons alloué",
+      "vous": "avez alloué",
+      "ils": "ont alloué"
+    },
+    "imparfait": {
+      "je": "allouais",
+      "tu": "allouais",
+      "il": "allouait",
+      "nous": "allouions",
+      "vous": "allouiez",
+      "ils": "allouaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais alloué",
+      "tu": "avais alloué",
+      "il": "avait alloué",
+      "nous": "avions alloué",
+      "vous": "aviez alloué",
+      "ils": "avaient alloué"
+    },
+    "passé_simple": {
+      "je": "allouai",
+      "tu": "allouas",
+      "il": "alloua",
+      "nous": "allouâmes",
+      "vous": "allouâtes",
+      "ils": "allouèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus alloué",
+      "tu": "eus alloué",
+      "il": "eut alloué",
+      "nous": "eûmes alloué",
+      "vous": "eûtes alloué",
+      "ils": "eurent alloué"
+    },
+    "futur_simple": {
+      "je": "allouerai",
+      "tu": "alloueras",
+      "il": "allouera",
+      "nous": "allouerons",
+      "vous": "allouerez",
+      "ils": "alloueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai alloué",
+      "tu": "auras alloué",
+      "il": "aura alloué",
+      "nous": "aurons alloué",
+      "vous": "aurez alloué",
+      "ils": "auront alloué"
+    },
+    "subjonctif_présent": {
+      "je": "alloue",
+      "tu": "alloues",
+      "il": "alloue",
+      "nous": "allouions",
+      "vous": "allouiez",
+      "ils": "allouent"
+    },
+    "subjonctif_passé": {
+      "je": "aie alloué",
+      "tu": "aies alloué",
+      "il": "ait alloué",
+      "nous": "ayons alloué",
+      "vous": "ayez alloué",
+      "ils": "aient alloué"
+    },
+    "subjonctif_imparfait": {
+      "je": "allouasse",
+      "tu": "allouasses",
+      "il": "allouât",
+      "nous": "allouassions",
+      "vous": "allouassiez",
+      "ils": "allouassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse alloué",
+      "tu": "eusses alloué",
+      "il": "eût alloué",
+      "nous": "eussions alloué",
+      "vous": "eussiez alloué",
+      "ils": "eussent alloué"
+    },
+    "conditionnel_présent": {
+      "je": "allouerais",
+      "tu": "allouerais",
+      "il": "allouerait",
+      "nous": "allouerions",
+      "vous": "alloueriez",
+      "ils": "alloueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais alloué",
+      "tu": "aurais alloué",
+      "il": "aurait alloué",
+      "nous": "aurions alloué",
+      "vous": "auriez alloué",
+      "ils": "auraient alloué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse alloué",
+      "tu": "eusses alloué",
+      "il": "eût alloué",
+      "nous": "eussions alloué",
+      "vous": "eussiez alloué",
+      "ils": "eussent alloué"
+    },
+    "translation": "chodzić",
+    "group": 1
+  },
+  {
+    "infinitive": "allumer",
+    "présent": {
+      "je": "allume",
+      "tu": "allumes",
+      "il": "allume",
+      "nous": "allumons",
+      "vous": "allumez",
+      "ils": "allument"
+    },
+    "passé_composé": {
+      "je": "ai allumé",
+      "tu": "as allumé",
+      "il": "a allumé",
+      "nous": "avons allumé",
+      "vous": "avez allumé",
+      "ils": "ont allumé"
+    },
+    "imparfait": {
+      "je": "allumais",
+      "tu": "allumais",
+      "il": "allumait",
+      "nous": "allumions",
+      "vous": "allumiez",
+      "ils": "allumaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais allumé",
+      "tu": "avais allumé",
+      "il": "avait allumé",
+      "nous": "avions allumé",
+      "vous": "aviez allumé",
+      "ils": "avaient allumé"
+    },
+    "passé_simple": {
+      "je": "allumai",
+      "tu": "allumas",
+      "il": "alluma",
+      "nous": "allumâmes",
+      "vous": "allumâtes",
+      "ils": "allumèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus allumé",
+      "tu": "eus allumé",
+      "il": "eut allumé",
+      "nous": "eûmes allumé",
+      "vous": "eûtes allumé",
+      "ils": "eurent allumé"
+    },
+    "futur_simple": {
+      "je": "allumerai",
+      "tu": "allumeras",
+      "il": "allumera",
+      "nous": "allumerons",
+      "vous": "allumerez",
+      "ils": "allumeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai allumé",
+      "tu": "auras allumé",
+      "il": "aura allumé",
+      "nous": "aurons allumé",
+      "vous": "aurez allumé",
+      "ils": "auront allumé"
+    },
+    "subjonctif_présent": {
+      "je": "allume",
+      "tu": "allumes",
+      "il": "allume",
+      "nous": "allumions",
+      "vous": "allumiez",
+      "ils": "allument"
+    },
+    "subjonctif_passé": {
+      "je": "aie allumé",
+      "tu": "aies allumé",
+      "il": "ait allumé",
+      "nous": "ayons allumé",
+      "vous": "ayez allumé",
+      "ils": "aient allumé"
+    },
+    "subjonctif_imparfait": {
+      "je": "allumasse",
+      "tu": "allumasses",
+      "il": "allumât",
+      "nous": "allumassions",
+      "vous": "allumassiez",
+      "ils": "allumassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse allumé",
+      "tu": "eusses allumé",
+      "il": "eût allumé",
+      "nous": "eussions allumé",
+      "vous": "eussiez allumé",
+      "ils": "eussent allumé"
+    },
+    "conditionnel_présent": {
+      "je": "allumerais",
+      "tu": "allumerais",
+      "il": "allumerait",
+      "nous": "allumerions",
+      "vous": "allumeriez",
+      "ils": "allumeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais allumé",
+      "tu": "aurais allumé",
+      "il": "aurait allumé",
+      "nous": "aurions allumé",
+      "vous": "auriez allumé",
+      "ils": "auraient allumé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse allumé",
+      "tu": "eusses allumé",
+      "il": "eût allumé",
+      "nous": "eussions allumé",
+      "vous": "eussiez allumé",
+      "ils": "eussent allumé"
+    },
+    "translation": "zapalać",
+    "group": 1
+  },
+  {
+    "infinitive": "alourdir",
+    "présent": {
+      "je": "alourdis",
+      "tu": "alourdis",
+      "il": "alourdit",
+      "nous": "alourdissons",
+      "vous": "alourdissez",
+      "ils": "alourdissent"
+    },
+    "passé_composé": {
+      "je": "ai alourdi",
+      "tu": "as alourdi",
+      "il": "a alourdi",
+      "nous": "avons alourdi",
+      "vous": "avez alourdi",
+      "ils": "ont alourdi"
+    },
+    "imparfait": {
+      "je": "alourdissais",
+      "tu": "alourdissais",
+      "il": "alourdissait",
+      "nous": "alourdissions",
+      "vous": "alourdissiez",
+      "ils": "alourdissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais alourdi",
+      "tu": "avais alourdi",
+      "il": "avait alourdi",
+      "nous": "avions alourdi",
+      "vous": "aviez alourdi",
+      "ils": "avaient alourdi"
+    },
+    "passé_simple": {
+      "je": "alourdis",
+      "tu": "alourdis",
+      "il": "alourdit",
+      "nous": "alourdîmes",
+      "vous": "alourdîtes",
+      "ils": "alourdirent"
+    },
+    "passé_antérieur": {
+      "je": "eus alourdi",
+      "tu": "eus alourdi",
+      "il": "eut alourdi",
+      "nous": "eûmes alourdi",
+      "vous": "eûtes alourdi",
+      "ils": "eurent alourdi"
+    },
+    "futur_simple": {
+      "je": "alourdirai",
+      "tu": "alourdiras",
+      "il": "alourdira",
+      "nous": "alourdirons",
+      "vous": "alourdirez",
+      "ils": "alourdiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai alourdi",
+      "tu": "auras alourdi",
+      "il": "aura alourdi",
+      "nous": "aurons alourdi",
+      "vous": "aurez alourdi",
+      "ils": "auront alourdi"
+    },
+    "subjonctif_présent": {
+      "je": "alourdisse",
+      "tu": "alourdisses",
+      "il": "alourdisse",
+      "nous": "alourdissions",
+      "vous": "alourdissiez",
+      "ils": "alourdissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie alourdi",
+      "tu": "aies alourdi",
+      "il": "ait alourdi",
+      "nous": "ayons alourdi",
+      "vous": "ayez alourdi",
+      "ils": "aient alourdi"
+    },
+    "subjonctif_imparfait": {
+      "je": "alourdisse",
+      "tu": "alourdisses",
+      "il": "alourdît",
+      "nous": "alourdissions",
+      "vous": "alourdissiez",
+      "ils": "alourdissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse alourdi",
+      "tu": "eusses alourdi",
+      "il": "eût alourdi",
+      "nous": "eussions alourdi",
+      "vous": "eussiez alourdi",
+      "ils": "eussent alourdi"
+    },
+    "conditionnel_présent": {
+      "je": "alourdirais",
+      "tu": "alourdirais",
+      "il": "alourdirait",
+      "nous": "alourdirions",
+      "vous": "alourdiriez",
+      "ils": "alourdiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais alourdi",
+      "tu": "aurais alourdi",
+      "il": "aurait alourdi",
+      "nous": "aurions alourdi",
+      "vous": "auriez alourdi",
+      "ils": "auraient alourdi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse alourdi",
+      "tu": "eusses alourdi",
+      "il": "eût alourdi",
+      "nous": "eussions alourdi",
+      "vous": "eussiez alourdi",
+      "ils": "eussent alourdi"
+    },
+    "translation": "obciążać",
+    "group": 2
+  },
+  {
+    "infinitive": "altérer",
+    "présent": {
+      "je": "altère",
+      "tu": "altères",
+      "il": "altère",
+      "nous": "altérons",
+      "vous": "altérez",
+      "ils": "altèrent"
+    },
+    "passé_composé": {
+      "je": "ai altéré",
+      "tu": "as altéré",
+      "il": "a altéré",
+      "nous": "avons altéré",
+      "vous": "avez altéré",
+      "ils": "ont altéré"
+    },
+    "imparfait": {
+      "je": "altérais",
+      "tu": "altérais",
+      "il": "altérait",
+      "nous": "altérions",
+      "vous": "altériez",
+      "ils": "altéraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais altéré",
+      "tu": "avais altéré",
+      "il": "avait altéré",
+      "nous": "avions altéré",
+      "vous": "aviez altéré",
+      "ils": "avaient altéré"
+    },
+    "passé_simple": {
+      "je": "altérai",
+      "tu": "altéras",
+      "il": "altéra",
+      "nous": "altérâmes",
+      "vous": "altérâtes",
+      "ils": "altérèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus altéré",
+      "tu": "eus altéré",
+      "il": "eut altéré",
+      "nous": "eûmes altéré",
+      "vous": "eûtes altéré",
+      "ils": "eurent altéré"
+    },
+    "futur_simple": {
+      "je": "altérerai",
+      "tu": "altéreras",
+      "il": "altérera",
+      "nous": "altérerons",
+      "vous": "altérerez",
+      "ils": "altéreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai altéré",
+      "tu": "auras altéré",
+      "il": "aura altéré",
+      "nous": "aurons altéré",
+      "vous": "aurez altéré",
+      "ils": "auront altéré"
+    },
+    "subjonctif_présent": {
+      "je": "altère",
+      "tu": "altères",
+      "il": "altère",
+      "nous": "altérions",
+      "vous": "altériez",
+      "ils": "altèrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie altéré",
+      "tu": "aies altéré",
+      "il": "ait altéré",
+      "nous": "ayons altéré",
+      "vous": "ayez altéré",
+      "ils": "aient altéré"
+    },
+    "subjonctif_imparfait": {
+      "je": "altérasse",
+      "tu": "altérasses",
+      "il": "altérât",
+      "nous": "altérassions",
+      "vous": "altérassiez",
+      "ils": "altérassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse altéré",
+      "tu": "eusses altéré",
+      "il": "eût altéré",
+      "nous": "eussions altéré",
+      "vous": "eussiez altéré",
+      "ils": "eussent altéré"
+    },
+    "conditionnel_présent": {
+      "je": "altérerais",
+      "tu": "altérerais",
+      "il": "altérerait",
+      "nous": "altérerions",
+      "vous": "altéreriez",
+      "ils": "altéreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais altéré",
+      "tu": "aurais altéré",
+      "il": "aurait altéré",
+      "nous": "aurions altéré",
+      "vous": "auriez altéré",
+      "ils": "auraient altéré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse altéré",
+      "tu": "eusses altéré",
+      "il": "eût altéré",
+      "nous": "eussions altéré",
+      "vous": "eussiez altéré",
+      "ils": "eussent altéré"
+    },
+    "translation": "następować",
+    "group": 1
+  },
+  {
+    "infinitive": "aluner",
+    "présent": {
+      "je": "alune",
+      "tu": "alunes",
+      "il": "alune",
+      "nous": "alunons",
+      "vous": "alunez",
+      "ils": "alunent"
+    },
+    "passé_composé": {
+      "je": "ai aluné",
+      "tu": "as aluné",
+      "il": "a aluné",
+      "nous": "avons aluné",
+      "vous": "avez aluné",
+      "ils": "ont aluné"
+    },
+    "imparfait": {
+      "je": "alunais",
+      "tu": "alunais",
+      "il": "alunait",
+      "nous": "alunions",
+      "vous": "aluniez",
+      "ils": "alunaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais aluné",
+      "tu": "avais aluné",
+      "il": "avait aluné",
+      "nous": "avions aluné",
+      "vous": "aviez aluné",
+      "ils": "avaient aluné"
+    },
+    "passé_simple": {
+      "je": "alunai",
+      "tu": "alunas",
+      "il": "aluna",
+      "nous": "alunâmes",
+      "vous": "alunâtes",
+      "ils": "alunèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus aluné",
+      "tu": "eus aluné",
+      "il": "eut aluné",
+      "nous": "eûmes aluné",
+      "vous": "eûtes aluné",
+      "ils": "eurent aluné"
+    },
+    "futur_simple": {
+      "je": "alunerai",
+      "tu": "aluneras",
+      "il": "alunera",
+      "nous": "alunerons",
+      "vous": "alunerez",
+      "ils": "aluneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai aluné",
+      "tu": "auras aluné",
+      "il": "aura aluné",
+      "nous": "aurons aluné",
+      "vous": "aurez aluné",
+      "ils": "auront aluné"
+    },
+    "subjonctif_présent": {
+      "je": "alune",
+      "tu": "alunes",
+      "il": "alune",
+      "nous": "alunions",
+      "vous": "aluniez",
+      "ils": "alunent"
+    },
+    "subjonctif_passé": {
+      "je": "aie aluné",
+      "tu": "aies aluné",
+      "il": "ait aluné",
+      "nous": "ayons aluné",
+      "vous": "ayez aluné",
+      "ils": "aient aluné"
+    },
+    "subjonctif_imparfait": {
+      "je": "alunasse",
+      "tu": "alunasses",
+      "il": "alunât",
+      "nous": "alunassions",
+      "vous": "alunassiez",
+      "ils": "alunassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse aluné",
+      "tu": "eusses aluné",
+      "il": "eût aluné",
+      "nous": "eussions aluné",
+      "vous": "eussiez aluné",
+      "ils": "eussent aluné"
+    },
+    "conditionnel_présent": {
+      "je": "alunerais",
+      "tu": "alunerais",
+      "il": "alunerait",
+      "nous": "alunerions",
+      "vous": "aluneriez",
+      "ils": "aluneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais aluné",
+      "tu": "aurais aluné",
+      "il": "aurait aluné",
+      "nous": "aurions aluné",
+      "vous": "auriez aluné",
+      "ils": "auraient aluné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse aluné",
+      "tu": "eusses aluné",
+      "il": "eût aluné",
+      "nous": "eussions aluné",
+      "vous": "eussiez aluné",
+      "ils": "eussent aluné"
+    },
+    "translation": "ustawiać",
+    "group": 1
+  },
+  {
+    "infinitive": "alunir",
+    "présent": {
+      "je": "alunis",
+      "tu": "alunis",
+      "il": "alunit",
+      "nous": "alunissons",
+      "vous": "alunissez",
+      "ils": "alunissent"
+    },
+    "passé_composé": {
+      "je": "ai aluni",
+      "tu": "as aluni",
+      "il": "a aluni",
+      "nous": "avons aluni",
+      "vous": "avez aluni",
+      "ils": "ont aluni"
+    },
+    "imparfait": {
+      "je": "alunissais",
+      "tu": "alunissais",
+      "il": "alunissait",
+      "nous": "alunissions",
+      "vous": "alunissiez",
+      "ils": "alunissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais aluni",
+      "tu": "avais aluni",
+      "il": "avait aluni",
+      "nous": "avions aluni",
+      "vous": "aviez aluni",
+      "ils": "avaient aluni"
+    },
+    "passé_simple": {
+      "je": "alunis",
+      "tu": "alunis",
+      "il": "alunit",
+      "nous": "alunîmes",
+      "vous": "alunîtes",
+      "ils": "alunirent"
+    },
+    "passé_antérieur": {
+      "je": "eus aluni",
+      "tu": "eus aluni",
+      "il": "eut aluni",
+      "nous": "eûmes aluni",
+      "vous": "eûtes aluni",
+      "ils": "eurent aluni"
+    },
+    "futur_simple": {
+      "je": "alunirai",
+      "tu": "aluniras",
+      "il": "alunira",
+      "nous": "alunirons",
+      "vous": "alunirez",
+      "ils": "aluniront"
+    },
+    "futur_antérieur": {
+      "je": "aurai aluni",
+      "tu": "auras aluni",
+      "il": "aura aluni",
+      "nous": "aurons aluni",
+      "vous": "aurez aluni",
+      "ils": "auront aluni"
+    },
+    "subjonctif_présent": {
+      "je": "alunisse",
+      "tu": "alunisses",
+      "il": "alunisse",
+      "nous": "alunissions",
+      "vous": "alunissiez",
+      "ils": "alunissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie aluni",
+      "tu": "aies aluni",
+      "il": "ait aluni",
+      "nous": "ayons aluni",
+      "vous": "ayez aluni",
+      "ils": "aient aluni"
+    },
+    "subjonctif_imparfait": {
+      "je": "alunisse",
+      "tu": "alunisses",
+      "il": "alunît",
+      "nous": "alunissions",
+      "vous": "alunissiez",
+      "ils": "alunissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse aluni",
+      "tu": "eusses aluni",
+      "il": "eût aluni",
+      "nous": "eussions aluni",
+      "vous": "eussiez aluni",
+      "ils": "eussent aluni"
+    },
+    "conditionnel_présent": {
+      "je": "alunirais",
+      "tu": "alunirais",
+      "il": "alunirait",
+      "nous": "alunirions",
+      "vous": "aluniriez",
+      "ils": "aluniraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais aluni",
+      "tu": "aurais aluni",
+      "il": "aurait aluni",
+      "nous": "aurions aluni",
+      "vous": "auriez aluni",
+      "ils": "auraient aluni"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse aluni",
+      "tu": "eusses aluni",
+      "il": "eût aluni",
+      "nous": "eussions aluni",
+      "vous": "eussiez aluni",
+      "ils": "eussent aluni"
+    },
+    "translation": "wyposażyć",
+    "group": 2
+  },
+  {
+    "infinitive": "amarrer",
+    "présent": {
+      "je": "amarre",
+      "tu": "amarres",
+      "il": "amarre",
+      "nous": "amarrons",
+      "vous": "amarrez",
+      "ils": "amarrent"
+    },
+    "passé_composé": {
+      "je": "ai amarré",
+      "tu": "as amarré",
+      "il": "a amarré",
+      "nous": "avons amarré",
+      "vous": "avez amarré",
+      "ils": "ont amarré"
+    },
+    "imparfait": {
+      "je": "amarrais",
+      "tu": "amarrais",
+      "il": "amarrait",
+      "nous": "amarrions",
+      "vous": "amarriez",
+      "ils": "amarraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais amarré",
+      "tu": "avais amarré",
+      "il": "avait amarré",
+      "nous": "avions amarré",
+      "vous": "aviez amarré",
+      "ils": "avaient amarré"
+    },
+    "passé_simple": {
+      "je": "amarrai",
+      "tu": "amarras",
+      "il": "amarra",
+      "nous": "amarrâmes",
+      "vous": "amarrâtes",
+      "ils": "amarrèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus amarré",
+      "tu": "eus amarré",
+      "il": "eut amarré",
+      "nous": "eûmes amarré",
+      "vous": "eûtes amarré",
+      "ils": "eurent amarré"
+    },
+    "futur_simple": {
+      "je": "amarrerai",
+      "tu": "amarreras",
+      "il": "amarrera",
+      "nous": "amarrerons",
+      "vous": "amarrerez",
+      "ils": "amarreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai amarré",
+      "tu": "auras amarré",
+      "il": "aura amarré",
+      "nous": "aurons amarré",
+      "vous": "aurez amarré",
+      "ils": "auront amarré"
+    },
+    "subjonctif_présent": {
+      "je": "amarre",
+      "tu": "amarres",
+      "il": "amarre",
+      "nous": "amarrions",
+      "vous": "amarriez",
+      "ils": "amarrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie amarré",
+      "tu": "aies amarré",
+      "il": "ait amarré",
+      "nous": "ayons amarré",
+      "vous": "ayez amarré",
+      "ils": "aient amarré"
+    },
+    "subjonctif_imparfait": {
+      "je": "amarrasse",
+      "tu": "amarrasses",
+      "il": "amarrât",
+      "nous": "amarrassions",
+      "vous": "amarrassiez",
+      "ils": "amarrassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse amarré",
+      "tu": "eusses amarré",
+      "il": "eût amarré",
+      "nous": "eussions amarré",
+      "vous": "eussiez amarré",
+      "ils": "eussent amarré"
+    },
+    "conditionnel_présent": {
+      "je": "amarrerais",
+      "tu": "amarrerais",
+      "il": "amarrerait",
+      "nous": "amarrerions",
+      "vous": "amarreriez",
+      "ils": "amarreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais amarré",
+      "tu": "aurais amarré",
+      "il": "aurait amarré",
+      "nous": "aurions amarré",
+      "vous": "auriez amarré",
+      "ils": "auraient amarré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse amarré",
+      "tu": "eusses amarré",
+      "il": "eût amarré",
+      "nous": "eussions amarré",
+      "vous": "eussiez amarré",
+      "ils": "eussent amarré"
+    },
+    "translation": "amarrer",
+    "group": 1
+  },
+  {
+    "infinitive": "amasser",
+    "présent": {
+      "je": "amasse",
+      "tu": "amasses",
+      "il": "amasse",
+      "nous": "amassons",
+      "vous": "amassez",
+      "ils": "amassent"
+    },
+    "passé_composé": {
+      "je": "ai amassé",
+      "tu": "as amassé",
+      "il": "a amassé",
+      "nous": "avons amassé",
+      "vous": "avez amassé",
+      "ils": "ont amassé"
+    },
+    "imparfait": {
+      "je": "amassais",
+      "tu": "amassais",
+      "il": "amassait",
+      "nous": "amassions",
+      "vous": "amassiez",
+      "ils": "amassaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais amassé",
+      "tu": "avais amassé",
+      "il": "avait amassé",
+      "nous": "avions amassé",
+      "vous": "aviez amassé",
+      "ils": "avaient amassé"
+    },
+    "passé_simple": {
+      "je": "amassai",
+      "tu": "amassas",
+      "il": "amassa",
+      "nous": "amassâmes",
+      "vous": "amassâtes",
+      "ils": "amassèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus amassé",
+      "tu": "eus amassé",
+      "il": "eut amassé",
+      "nous": "eûmes amassé",
+      "vous": "eûtes amassé",
+      "ils": "eurent amassé"
+    },
+    "futur_simple": {
+      "je": "amasserai",
+      "tu": "amasseras",
+      "il": "amassera",
+      "nous": "amasserons",
+      "vous": "amasserez",
+      "ils": "amasseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai amassé",
+      "tu": "auras amassé",
+      "il": "aura amassé",
+      "nous": "aurons amassé",
+      "vous": "aurez amassé",
+      "ils": "auront amassé"
+    },
+    "subjonctif_présent": {
+      "je": "amasse",
+      "tu": "amasses",
+      "il": "amasse",
+      "nous": "amassions",
+      "vous": "amassiez",
+      "ils": "amassent"
+    },
+    "subjonctif_passé": {
+      "je": "aie amassé",
+      "tu": "aies amassé",
+      "il": "ait amassé",
+      "nous": "ayons amassé",
+      "vous": "ayez amassé",
+      "ils": "aient amassé"
+    },
+    "subjonctif_imparfait": {
+      "je": "amassasse",
+      "tu": "amassasses",
+      "il": "amassât",
+      "nous": "amassassions",
+      "vous": "amassassiez",
+      "ils": "amassassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse amassé",
+      "tu": "eusses amassé",
+      "il": "eût amassé",
+      "nous": "eussions amassé",
+      "vous": "eussiez amassé",
+      "ils": "eussent amassé"
+    },
+    "conditionnel_présent": {
+      "je": "amasserais",
+      "tu": "amasserais",
+      "il": "amasserait",
+      "nous": "amasserions",
+      "vous": "amasseriez",
+      "ils": "amasseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais amassé",
+      "tu": "aurais amassé",
+      "il": "aurait amassé",
+      "nous": "aurions amassé",
+      "vous": "auriez amassé",
+      "ils": "auraient amassé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse amassé",
+      "tu": "eusses amassé",
+      "il": "eût amassé",
+      "nous": "eussions amassé",
+      "vous": "eussiez amassé",
+      "ils": "eussent amassé"
+    },
+    "translation": "gromadzić",
+    "group": 1
+  },
+  {
+    "infinitive": "améliorer",
+    "présent": {
+      "je": "améliore",
+      "tu": "améliores",
+      "il": "améliore",
+      "nous": "améliorons",
+      "vous": "améliorez",
+      "ils": "améliorent"
+    },
+    "passé_composé": {
+      "je": "ai amélioré",
+      "tu": "as amélioré",
+      "il": "a amélioré",
+      "nous": "avons amélioré",
+      "vous": "avez amélioré",
+      "ils": "ont amélioré"
+    },
+    "imparfait": {
+      "je": "améliorais",
+      "tu": "améliorais",
+      "il": "améliorait",
+      "nous": "améliorions",
+      "vous": "amélioriez",
+      "ils": "amélioraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais amélioré",
+      "tu": "avais amélioré",
+      "il": "avait amélioré",
+      "nous": "avions amélioré",
+      "vous": "aviez amélioré",
+      "ils": "avaient amélioré"
+    },
+    "passé_simple": {
+      "je": "améliorai",
+      "tu": "amélioras",
+      "il": "améliora",
+      "nous": "améliorâmes",
+      "vous": "améliorâtes",
+      "ils": "améliorèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus amélioré",
+      "tu": "eus amélioré",
+      "il": "eut amélioré",
+      "nous": "eûmes amélioré",
+      "vous": "eûtes amélioré",
+      "ils": "eurent amélioré"
+    },
+    "futur_simple": {
+      "je": "améliorerai",
+      "tu": "amélioreras",
+      "il": "améliorera",
+      "nous": "améliorerons",
+      "vous": "améliorerez",
+      "ils": "amélioreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai amélioré",
+      "tu": "auras amélioré",
+      "il": "aura amélioré",
+      "nous": "aurons amélioré",
+      "vous": "aurez amélioré",
+      "ils": "auront amélioré"
+    },
+    "subjonctif_présent": {
+      "je": "améliore",
+      "tu": "améliores",
+      "il": "améliore",
+      "nous": "améliorions",
+      "vous": "amélioriez",
+      "ils": "améliorent"
+    },
+    "subjonctif_passé": {
+      "je": "aie amélioré",
+      "tu": "aies amélioré",
+      "il": "ait amélioré",
+      "nous": "ayons amélioré",
+      "vous": "ayez amélioré",
+      "ils": "aient amélioré"
+    },
+    "subjonctif_imparfait": {
+      "je": "améliorasse",
+      "tu": "améliorasses",
+      "il": "améliorât",
+      "nous": "améliorassions",
+      "vous": "améliorassiez",
+      "ils": "améliorassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse amélioré",
+      "tu": "eusses amélioré",
+      "il": "eût amélioré",
+      "nous": "eussions amélioré",
+      "vous": "eussiez amélioré",
+      "ils": "eussent amélioré"
+    },
+    "conditionnel_présent": {
+      "je": "améliorerais",
+      "tu": "améliorerais",
+      "il": "améliorerait",
+      "nous": "améliorerions",
+      "vous": "amélioreriez",
+      "ils": "amélioreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais amélioré",
+      "tu": "aurais amélioré",
+      "il": "aurait amélioré",
+      "nous": "aurions amélioré",
+      "vous": "auriez amélioré",
+      "ils": "auraient amélioré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse amélioré",
+      "tu": "eusses amélioré",
+      "il": "eût amélioré",
+      "nous": "eussions amélioré",
+      "vous": "eussiez amélioré",
+      "ils": "eussent amélioré"
+    },
+    "translation": "polepszać",
+    "group": 1
+  }
+]

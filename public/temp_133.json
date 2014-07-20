@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "orienter",
+    "présent": {
+      "je": "oriente",
+      "tu": "orientes",
+      "il": "oriente",
+      "nous": "orientons",
+      "vous": "orientez",
+      "ils": "orientent"
+    },
+    "passé_composé": {
+      "je": "ai orienté",
+      "tu": "as orienté",
+      "il": "a orienté",
+      "nous": "avons orienté",
+      "vous": "avez orienté",
+      "ils": "ont orienté"
+    },
+    "imparfait": {
+      "je": "orientais",
+      "tu": "orientais",
+      "il": "orientait",
+      "nous": "orientions",
+      "vous": "orientiez",
+      "ils": "orientaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais orienté",
+      "tu": "avais orienté",
+      "il": "avait orienté",
+      "nous": "avions orienté",
+      "vous": "aviez orienté",
+      "ils": "avaient orienté"
+    },
+    "passé_simple": {
+      "je": "orientai",
+      "tu": "orientas",
+      "il": "orienta",
+      "nous": "orientâmes",
+      "vous": "orientâtes",
+      "ils": "orientèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus orienté",
+      "tu": "eus orienté",
+      "il": "eut orienté",
+      "nous": "eûmes orienté",
+      "vous": "eûtes orienté",
+      "ils": "eurent orienté"
+    },
+    "futur_simple": {
+      "je": "orienterai",
+      "tu": "orienteras",
+      "il": "orientera",
+      "nous": "orienterons",
+      "vous": "orienterez",
+      "ils": "orienteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai orienté",
+      "tu": "auras orienté",
+      "il": "aura orienté",
+      "nous": "aurons orienté",
+      "vous": "aurez orienté",
+      "ils": "auront orienté"
+    },
+    "subjonctif_présent": {
+      "je": "oriente",
+      "tu": "orientes",
+      "il": "oriente",
+      "nous": "orientions",
+      "vous": "orientiez",
+      "ils": "orientent"
+    },
+    "subjonctif_passé": {
+      "je": "aie orienté",
+      "tu": "aies orienté",
+      "il": "ait orienté",
+      "nous": "ayons orienté",
+      "vous": "ayez orienté",
+      "ils": "aient orienté"
+    },
+    "subjonctif_imparfait": {
+      "je": "orientasse",
+      "tu": "orientasses",
+      "il": "orientât",
+      "nous": "orientassions",
+      "vous": "orientassiez",
+      "ils": "orientassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse orienté",
+      "tu": "eusses orienté",
+      "il": "eût orienté",
+      "nous": "eussions orienté",
+      "vous": "eussiez orienté",
+      "ils": "eussent orienté"
+    },
+    "conditionnel_présent": {
+      "je": "orienterais",
+      "tu": "orienterais",
+      "il": "orienterait",
+      "nous": "orienterions",
+      "vous": "orienteriez",
+      "ils": "orienteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais orienté",
+      "tu": "aurais orienté",
+      "il": "aurait orienté",
+      "nous": "aurions orienté",
+      "vous": "auriez orienté",
+      "ils": "auraient orienté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse orienté",
+      "tu": "eusses orienté",
+      "il": "eût orienté",
+      "nous": "eussions orienté",
+      "vous": "eussiez orienté",
+      "ils": "eussent orienté"
+    },
+    "translation": "być",
+    "group": 1
+  },
+  {
+    "infinitive": "orner",
+    "présent": {
+      "je": "orne",
+      "tu": "ornes",
+      "il": "orne",
+      "nous": "ornons",
+      "vous": "ornez",
+      "ils": "ornent"
+    },
+    "passé_composé": {
+      "je": "ai orné",
+      "tu": "as orné",
+      "il": "a orné",
+      "nous": "avons orné",
+      "vous": "avez orné",
+      "ils": "ont orné"
+    },
+    "imparfait": {
+      "je": "ornais",
+      "tu": "ornais",
+      "il": "ornait",
+      "nous": "ornions",
+      "vous": "orniez",
+      "ils": "ornaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais orné",
+      "tu": "avais orné",
+      "il": "avait orné",
+      "nous": "avions orné",
+      "vous": "aviez orné",
+      "ils": "avaient orné"
+    },
+    "passé_simple": {
+      "je": "ornai",
+      "tu": "ornas",
+      "il": "orna",
+      "nous": "ornâmes",
+      "vous": "ornâtes",
+      "ils": "ornèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus orné",
+      "tu": "eus orné",
+      "il": "eut orné",
+      "nous": "eûmes orné",
+      "vous": "eûtes orné",
+      "ils": "eurent orné"
+    },
+    "futur_simple": {
+      "je": "ornerai",
+      "tu": "orneras",
+      "il": "ornera",
+      "nous": "ornerons",
+      "vous": "ornerez",
+      "ils": "orneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai orné",
+      "tu": "auras orné",
+      "il": "aura orné",
+      "nous": "aurons orné",
+      "vous": "aurez orné",
+      "ils": "auront orné"
+    },
+    "subjonctif_présent": {
+      "je": "orne",
+      "tu": "ornes",
+      "il": "orne",
+      "nous": "ornions",
+      "vous": "orniez",
+      "ils": "ornent"
+    },
+    "subjonctif_passé": {
+      "je": "aie orné",
+      "tu": "aies orné",
+      "il": "ait orné",
+      "nous": "ayons orné",
+      "vous": "ayez orné",
+      "ils": "aient orné"
+    },
+    "subjonctif_imparfait": {
+      "je": "ornasse",
+      "tu": "ornasses",
+      "il": "ornât",
+      "nous": "ornassions",
+      "vous": "ornassiez",
+      "ils": "ornassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse orné",
+      "tu": "eusses orné",
+      "il": "eût orné",
+      "nous": "eussions orné",
+      "vous": "eussiez orné",
+      "ils": "eussent orné"
+    },
+    "conditionnel_présent": {
+      "je": "ornerais",
+      "tu": "ornerais",
+      "il": "ornerait",
+      "nous": "ornerions",
+      "vous": "orneriez",
+      "ils": "orneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais orné",
+      "tu": "aurais orné",
+      "il": "aurait orné",
+      "nous": "aurions orné",
+      "vous": "auriez orné",
+      "ils": "auraient orné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse orné",
+      "tu": "eusses orné",
+      "il": "eût orné",
+      "nous": "eussions orné",
+      "vous": "eussiez orné",
+      "ils": "eussent orné"
+    },
+    "translation": "dekorować",
+    "group": 1
+  },
+  {
+    "infinitive": "osciller",
+    "présent": {
+      "je": "oscille",
+      "tu": "oscilles",
+      "il": "oscille",
+      "nous": "oscillons",
+      "vous": "oscillez",
+      "ils": "oscillent"
+    },
+    "passé_composé": {
+      "je": "ai oscillé",
+      "tu": "as oscillé",
+      "il": "a oscillé",
+      "nous": "avons oscillé",
+      "vous": "avez oscillé",
+      "ils": "ont oscillé"
+    },
+    "imparfait": {
+      "je": "oscillais",
+      "tu": "oscillais",
+      "il": "oscillait",
+      "nous": "oscillions",
+      "vous": "oscilliez",
+      "ils": "oscillaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais oscillé",
+      "tu": "avais oscillé",
+      "il": "avait oscillé",
+      "nous": "avions oscillé",
+      "vous": "aviez oscillé",
+      "ils": "avaient oscillé"
+    },
+    "passé_simple": {
+      "je": "oscillai",
+      "tu": "oscillas",
+      "il": "oscilla",
+      "nous": "oscillâmes",
+      "vous": "oscillâtes",
+      "ils": "oscillèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus oscillé",
+      "tu": "eus oscillé",
+      "il": "eut oscillé",
+      "nous": "eûmes oscillé",
+      "vous": "eûtes oscillé",
+      "ils": "eurent oscillé"
+    },
+    "futur_simple": {
+      "je": "oscillerai",
+      "tu": "oscilleras",
+      "il": "oscillera",
+      "nous": "oscillerons",
+      "vous": "oscillerez",
+      "ils": "oscilleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai oscillé",
+      "tu": "auras oscillé",
+      "il": "aura oscillé",
+      "nous": "aurons oscillé",
+      "vous": "aurez oscillé",
+      "ils": "auront oscillé"
+    },
+    "subjonctif_présent": {
+      "je": "oscille",
+      "tu": "oscilles",
+      "il": "oscille",
+      "nous": "oscillions",
+      "vous": "oscilliez",
+      "ils": "oscillent"
+    },
+    "subjonctif_passé": {
+      "je": "aie oscillé",
+      "tu": "aies oscillé",
+      "il": "ait oscillé",
+      "nous": "ayons oscillé",
+      "vous": "ayez oscillé",
+      "ils": "aient oscillé"
+    },
+    "subjonctif_imparfait": {
+      "je": "oscillasse",
+      "tu": "oscillasses",
+      "il": "oscillât",
+      "nous": "oscillassions",
+      "vous": "oscillassiez",
+      "ils": "oscillassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse oscillé",
+      "tu": "eusses oscillé",
+      "il": "eût oscillé",
+      "nous": "eussions oscillé",
+      "vous": "eussiez oscillé",
+      "ils": "eussent oscillé"
+    },
+    "conditionnel_présent": {
+      "je": "oscillerais",
+      "tu": "oscillerais",
+      "il": "oscillerait",
+      "nous": "oscillerions",
+      "vous": "oscilleriez",
+      "ils": "oscilleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais oscillé",
+      "tu": "aurais oscillé",
+      "il": "aurait oscillé",
+      "nous": "aurions oscillé",
+      "vous": "auriez oscillé",
+      "ils": "auraient oscillé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse oscillé",
+      "tu": "eusses oscillé",
+      "il": "eût oscillé",
+      "nous": "eussions oscillé",
+      "vous": "eussiez oscillé",
+      "ils": "eussent oscillé"
+    },
+    "translation": "oscylować",
+    "group": 1
+  },
+  {
+    "infinitive": "oser",
+    "présent": {
+      "je": "ose",
+      "tu": "oses",
+      "il": "ose",
+      "nous": "osons",
+      "vous": "osez",
+      "ils": "osent"
+    },
+    "passé_composé": {
+      "je": "ai osé",
+      "tu": "as osé",
+      "il": "a osé",
+      "nous": "avons osé",
+      "vous": "avez osé",
+      "ils": "ont osé"
+    },
+    "imparfait": {
+      "je": "osais",
+      "tu": "osais",
+      "il": "osait",
+      "nous": "osions",
+      "vous": "osiez",
+      "ils": "osaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais osé",
+      "tu": "avais osé",
+      "il": "avait osé",
+      "nous": "avions osé",
+      "vous": "aviez osé",
+      "ils": "avaient osé"
+    },
+    "passé_simple": {
+      "je": "osai",
+      "tu": "osas",
+      "il": "osa",
+      "nous": "osâmes",
+      "vous": "osâtes",
+      "ils": "osèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus osé",
+      "tu": "eus osé",
+      "il": "eut osé",
+      "nous": "eûmes osé",
+      "vous": "eûtes osé",
+      "ils": "eurent osé"
+    },
+    "futur_simple": {
+      "je": "oserai",
+      "tu": "oseras",
+      "il": "osera",
+      "nous": "oserons",
+      "vous": "oserez",
+      "ils": "oseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai osé",
+      "tu": "auras osé",
+      "il": "aura osé",
+      "nous": "aurons osé",
+      "vous": "aurez osé",
+      "ils": "auront osé"
+    },
+    "subjonctif_présent": {
+      "je": "ose",
+      "tu": "oses",
+      "il": "ose",
+      "nous": "osions",
+      "vous": "osiez",
+      "ils": "osent"
+    },
+    "subjonctif_passé": {
+      "je": "aie osé",
+      "tu": "aies osé",
+      "il": "ait osé",
+      "nous": "ayons osé",
+      "vous": "ayez osé",
+      "ils": "aient osé"
+    },
+    "subjonctif_imparfait": {
+      "je": "osasse",
+      "tu": "osasses",
+      "il": "osât",
+      "nous": "osassions",
+      "vous": "osassiez",
+      "ils": "osassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse osé",
+      "tu": "eusses osé",
+      "il": "eût osé",
+      "nous": "eussions osé",
+      "vous": "eussiez osé",
+      "ils": "eussent osé"
+    },
+    "conditionnel_présent": {
+      "je": "oserais",
+      "tu": "oserais",
+      "il": "oserait",
+      "nous": "oserions",
+      "vous": "oseriez",
+      "ils": "oseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais osé",
+      "tu": "aurais osé",
+      "il": "aurait osé",
+      "nous": "aurions osé",
+      "vous": "auriez osé",
+      "ils": "auraient osé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse osé",
+      "tu": "eusses osé",
+      "il": "eût osé",
+      "nous": "eussions osé",
+      "vous": "eussiez osé",
+      "ils": "eussent osé"
+    },
+    "translation": "odważyć",
+    "group": 1
+  },
+  {
+    "infinitive": "ôter",
+    "présent": {
+      "je": "ôte",
+      "tu": "ôtes",
+      "il": "ôte",
+      "nous": "ôtons",
+      "vous": "ôtez",
+      "ils": "ôtent"
+    },
+    "passé_composé": {
+      "je": "ai ôté",
+      "tu": "as ôté",
+      "il": "a ôté",
+      "nous": "avons ôté",
+      "vous": "avez ôté",
+      "ils": "ont ôté"
+    },
+    "imparfait": {
+      "je": "ôtais",
+      "tu": "ôtais",
+      "il": "ôtait",
+      "nous": "ôtions",
+      "vous": "ôtiez",
+      "ils": "ôtaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ôté",
+      "tu": "avais ôté",
+      "il": "avait ôté",
+      "nous": "avions ôté",
+      "vous": "aviez ôté",
+      "ils": "avaient ôté"
+    },
+    "passé_simple": {
+      "je": "ôtai",
+      "tu": "ôtas",
+      "il": "ôta",
+      "nous": "ôtâmes",
+      "vous": "ôtâtes",
+      "ils": "ôtèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus ôté",
+      "tu": "eus ôté",
+      "il": "eut ôté",
+      "nous": "eûmes ôté",
+      "vous": "eûtes ôté",
+      "ils": "eurent ôté"
+    },
+    "futur_simple": {
+      "je": "ôterai",
+      "tu": "ôteras",
+      "il": "ôtera",
+      "nous": "ôterons",
+      "vous": "ôterez",
+      "ils": "ôteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ôté",
+      "tu": "auras ôté",
+      "il": "aura ôté",
+      "nous": "aurons ôté",
+      "vous": "aurez ôté",
+      "ils": "auront ôté"
+    },
+    "subjonctif_présent": {
+      "je": "ôte",
+      "tu": "ôtes",
+      "il": "ôte",
+      "nous": "ôtions",
+      "vous": "ôtiez",
+      "ils": "ôtent"
+    },
+    "subjonctif_passé": {
+      "je": "aie ôté",
+      "tu": "aies ôté",
+      "il": "ait ôté",
+      "nous": "ayons ôté",
+      "vous": "ayez ôté",
+      "ils": "aient ôté"
+    },
+    "subjonctif_imparfait": {
+      "je": "ôtasse",
+      "tu": "ôtasses",
+      "il": "ôtât",
+      "nous": "ôtassions",
+      "vous": "ôtassiez",
+      "ils": "ôtassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ôté",
+      "tu": "eusses ôté",
+      "il": "eût ôté",
+      "nous": "eussions ôté",
+      "vous": "eussiez ôté",
+      "ils": "eussent ôté"
+    },
+    "conditionnel_présent": {
+      "je": "ôterais",
+      "tu": "ôterais",
+      "il": "ôterait",
+      "nous": "ôterions",
+      "vous": "ôteriez",
+      "ils": "ôteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ôté",
+      "tu": "aurais ôté",
+      "il": "aurait ôté",
+      "nous": "aurions ôté",
+      "vous": "auriez ôté",
+      "ils": "auraient ôté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ôté",
+      "tu": "eusses ôté",
+      "il": "eût ôté",
+      "nous": "eussions ôté",
+      "vous": "eussiez ôté",
+      "ils": "eussent ôté"
+    },
+    "translation": "zdejmować",
+    "group": 1
+  },
+  {
+    "infinitive": "oublier",
+    "présent": {
+      "je": "oublie",
+      "tu": "oublies",
+      "il": "oublie",
+      "nous": "oublions",
+      "vous": "oubliez",
+      "ils": "oublient"
+    },
+    "passé_composé": {
+      "je": "ai oublié",
+      "tu": "as oublié",
+      "il": "a oublié",
+      "nous": "avons oublié",
+      "vous": "avez oublié",
+      "ils": "ont oublié"
+    },
+    "imparfait": {
+      "je": "oubliais",
+      "tu": "oubliais",
+      "il": "oubliait",
+      "nous": "oubliions",
+      "vous": "oubliiez",
+      "ils": "oubliaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais oublié",
+      "tu": "avais oublié",
+      "il": "avait oublié",
+      "nous": "avions oublié",
+      "vous": "aviez oublié",
+      "ils": "avaient oublié"
+    },
+    "passé_simple": {
+      "je": "oubliai",
+      "tu": "oublias",
+      "il": "oublia",
+      "nous": "oubliâmes",
+      "vous": "oubliâtes",
+      "ils": "oublièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus oublié",
+      "tu": "eus oublié",
+      "il": "eut oublié",
+      "nous": "eûmes oublié",
+      "vous": "eûtes oublié",
+      "ils": "eurent oublié"
+    },
+    "futur_simple": {
+      "je": "oublierai",
+      "tu": "oublieras",
+      "il": "oubliera",
+      "nous": "oublierons",
+      "vous": "oublierez",
+      "ils": "oublieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai oublié",
+      "tu": "auras oublié",
+      "il": "aura oublié",
+      "nous": "aurons oublié",
+      "vous": "aurez oublié",
+      "ils": "auront oublié"
+    },
+    "subjonctif_présent": {
+      "je": "oublie",
+      "tu": "oublies",
+      "il": "oublie",
+      "nous": "oubliions",
+      "vous": "oubliiez",
+      "ils": "oublient"
+    },
+    "subjonctif_passé": {
+      "je": "aie oublié",
+      "tu": "aies oublié",
+      "il": "ait oublié",
+      "nous": "ayons oublié",
+      "vous": "ayez oublié",
+      "ils": "aient oublié"
+    },
+    "subjonctif_imparfait": {
+      "je": "oubliasse",
+      "tu": "oubliasses",
+      "il": "oubliât",
+      "nous": "oubliassions",
+      "vous": "oubliassiez",
+      "ils": "oubliassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse oublié",
+      "tu": "eusses oublié",
+      "il": "eût oublié",
+      "nous": "eussions oublié",
+      "vous": "eussiez oublié",
+      "ils": "eussent oublié"
+    },
+    "conditionnel_présent": {
+      "je": "oublierais",
+      "tu": "oublierais",
+      "il": "oublierait",
+      "nous": "oublierions",
+      "vous": "oublieriez",
+      "ils": "oublieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais oublié",
+      "tu": "aurais oublié",
+      "il": "aurait oublié",
+      "nous": "aurions oublié",
+      "vous": "auriez oublié",
+      "ils": "auraient oublié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse oublié",
+      "tu": "eusses oublié",
+      "il": "eût oublié",
+      "nous": "eussions oublié",
+      "vous": "eussiez oublié",
+      "ils": "eussent oublié"
+    },
+    "translation": "zapominać",
+    "group": 1
+  },
+  {
+    "infinitive": "ouïr",
+    "présent": {
+      "je": "ois",
+      "tu": "ois",
+      "il": "oit",
+      "nous": "oyons",
+      "vous": "oyez",
+      "ils": "oient"
+    },
+    "passé_composé": {
+      "je": "ai ouï",
+      "tu": "as ouï",
+      "il": "a ouï",
+      "nous": "avons ouï",
+      "vous": "avez ouï",
+      "ils": "ont ouï"
+    },
+    "imparfait": {
+      "je": "oyais",
+      "tu": "oyais",
+      "il": "oyait",
+      "nous": "oyions",
+      "vous": "oyiez",
+      "ils": "oyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ouï",
+      "tu": "avais ouï",
+      "il": "avait ouï",
+      "nous": "avions ouï",
+      "vous": "aviez ouï",
+      "ils": "avaient ouï"
+    },
+    "passé_simple": {
+      "je": "ouïs",
+      "tu": "ouïs",
+      "il": "ouït",
+      "nous": "ouïmes",
+      "vous": "ouïtes",
+      "ils": "ouïrent"
+    },
+    "passé_antérieur": {
+      "je": "eus ouï",
+      "tu": "eus ouï",
+      "il": "eut ouï",
+      "nous": "eûmes ouï",
+      "vous": "eûtes ouï",
+      "ils": "eurent ouï"
+    },
+    "futur_simple": {
+      "je": "ouïrai",
+      "tu": "ouïras",
+      "il": "ouïra",
+      "nous": "ouïrons",
+      "vous": "ouïrez",
+      "ils": "ouïront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ouï",
+      "tu": "auras ouï",
+      "il": "aura ouï",
+      "nous": "aurons ouï",
+      "vous": "aurez ouï",
+      "ils": "auront ouï"
+    },
+    "subjonctif_présent": {
+      "je": "oie",
+      "tu": "oies",
+      "il": "oie",
+      "nous": "oyions",
+      "vous": "oyiez",
+      "ils": "oient"
+    },
+    "subjonctif_passé": {
+      "je": "aie ouï",
+      "tu": "aies ouï",
+      "il": "ait ouï",
+      "nous": "ayons ouï",
+      "vous": "ayez ouï",
+      "ils": "aient ouï"
+    },
+    "subjonctif_imparfait": {
+      "je": "ouïsse",
+      "tu": "ouïsses",
+      "il": "ouït",
+      "nous": "ouïssions",
+      "vous": "ouïssiez",
+      "ils": "ouïssent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ouï",
+      "tu": "eusses ouï",
+      "il": "eût ouï",
+      "nous": "eussions ouï",
+      "vous": "eussiez ouï",
+      "ils": "eussent ouï"
+    },
+    "conditionnel_présent": {
+      "je": "ouïrais",
+      "tu": "ouïrais",
+      "il": "ouïrait",
+      "nous": "ouïrions",
+      "vous": "ouïriez",
+      "ils": "ouïraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ouï",
+      "tu": "aurais ouï",
+      "il": "aurait ouï",
+      "nous": "aurions ouï",
+      "vous": "auriez ouï",
+      "ils": "auraient ouï"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ouï",
+      "tu": "eusses ouï",
+      "il": "eût ouï",
+      "nous": "eussions ouï",
+      "vous": "eussiez ouï",
+      "ils": "eussent ouï"
+    },
+    "translation": "tak",
+    "group": 3
+  },
+  {
+    "infinitive": "ourdir",
+    "présent": {
+      "je": "ourdis",
+      "tu": "ourdis",
+      "il": "ourdit",
+      "nous": "ourdissons",
+      "vous": "ourdissez",
+      "ils": "ourdissent"
+    },
+    "passé_composé": {
+      "je": "ai ourdi",
+      "tu": "as ourdi",
+      "il": "a ourdi",
+      "nous": "avons ourdi",
+      "vous": "avez ourdi",
+      "ils": "ont ourdi"
+    },
+    "imparfait": {
+      "je": "ourdissais",
+      "tu": "ourdissais",
+      "il": "ourdissait",
+      "nous": "ourdissions",
+      "vous": "ourdissiez",
+      "ils": "ourdissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ourdi",
+      "tu": "avais ourdi",
+      "il": "avait ourdi",
+      "nous": "avions ourdi",
+      "vous": "aviez ourdi",
+      "ils": "avaient ourdi"
+    },
+    "passé_simple": {
+      "je": "ourdis",
+      "tu": "ourdis",
+      "il": "ourdit",
+      "nous": "ourdîmes",
+      "vous": "ourdîtes",
+      "ils": "ourdirent"
+    },
+    "passé_antérieur": {
+      "je": "eus ourdi",
+      "tu": "eus ourdi",
+      "il": "eut ourdi",
+      "nous": "eûmes ourdi",
+      "vous": "eûtes ourdi",
+      "ils": "eurent ourdi"
+    },
+    "futur_simple": {
+      "je": "ourdirai",
+      "tu": "ourdiras",
+      "il": "ourdira",
+      "nous": "ourdirons",
+      "vous": "ourdirez",
+      "ils": "ourdiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ourdi",
+      "tu": "auras ourdi",
+      "il": "aura ourdi",
+      "nous": "aurons ourdi",
+      "vous": "aurez ourdi",
+      "ils": "auront ourdi"
+    },
+    "subjonctif_présent": {
+      "je": "ourdisse",
+      "tu": "ourdisses",
+      "il": "ourdisse",
+      "nous": "ourdissions",
+      "vous": "ourdissiez",
+      "ils": "ourdissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie ourdi",
+      "tu": "aies ourdi",
+      "il": "ait ourdi",
+      "nous": "ayons ourdi",
+      "vous": "ayez ourdi",
+      "ils": "aient ourdi"
+    },
+    "subjonctif_imparfait": {
+      "je": "ourdisse",
+      "tu": "ourdisses",
+      "il": "ourdît",
+      "nous": "ourdissions",
+      "vous": "ourdissiez",
+      "ils": "ourdissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ourdi",
+      "tu": "eusses ourdi",
+      "il": "eût ourdi",
+      "nous": "eussions ourdi",
+      "vous": "eussiez ourdi",
+      "ils": "eussent ourdi"
+    },
+    "conditionnel_présent": {
+      "je": "ourdirais",
+      "tu": "ourdirais",
+      "il": "ourdirait",
+      "nous": "ourdirions",
+      "vous": "ourdiriez",
+      "ils": "ourdiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ourdi",
+      "tu": "aurais ourdi",
+      "il": "aurait ourdi",
+      "nous": "aurions ourdi",
+      "vous": "auriez ourdi",
+      "ils": "auraient ourdi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ourdi",
+      "tu": "eusses ourdi",
+      "il": "eût ourdi",
+      "nous": "eussions ourdi",
+      "vous": "eussiez ourdi",
+      "ils": "eussent ourdi"
+    },
+    "translation": "ourdir",
+    "group": 2
+  },
+  {
+    "infinitive": "ouvrer",
+    "présent": {
+      "je": "ouvre",
+      "tu": "ouvres",
+      "il": "ouvre",
+      "nous": "ouvrons",
+      "vous": "ouvrez",
+      "ils": "ouvrent"
+    },
+    "passé_composé": {
+      "je": "ai ouvré",
+      "tu": "as ouvré",
+      "il": "a ouvré",
+      "nous": "avons ouvré",
+      "vous": "avez ouvré",
+      "ils": "ont ouvré"
+    },
+    "imparfait": {
+      "je": "ouvrais",
+      "tu": "ouvrais",
+      "il": "ouvrait",
+      "nous": "ouvrions",
+      "vous": "ouvriez",
+      "ils": "ouvraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ouvré",
+      "tu": "avais ouvré",
+      "il": "avait ouvré",
+      "nous": "avions ouvré",
+      "vous": "aviez ouvré",
+      "ils": "avaient ouvré"
+    },
+    "passé_simple": {
+      "je": "ouvrai",
+      "tu": "ouvras",
+      "il": "ouvra",
+      "nous": "ouvrâmes",
+      "vous": "ouvrâtes",
+      "ils": "ouvrèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus ouvré",
+      "tu": "eus ouvré",
+      "il": "eut ouvré",
+      "nous": "eûmes ouvré",
+      "vous": "eûtes ouvré",
+      "ils": "eurent ouvré"
+    },
+    "futur_simple": {
+      "je": "ouvrerai",
+      "tu": "ouvreras",
+      "il": "ouvrera",
+      "nous": "ouvrerons",
+      "vous": "ouvrerez",
+      "ils": "ouvreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ouvré",
+      "tu": "auras ouvré",
+      "il": "aura ouvré",
+      "nous": "aurons ouvré",
+      "vous": "aurez ouvré",
+      "ils": "auront ouvré"
+    },
+    "subjonctif_présent": {
+      "je": "ouvre",
+      "tu": "ouvres",
+      "il": "ouvre",
+      "nous": "ouvrions",
+      "vous": "ouvriez",
+      "ils": "ouvrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie ouvré",
+      "tu": "aies ouvré",
+      "il": "ait ouvré",
+      "nous": "ayons ouvré",
+      "vous": "ayez ouvré",
+      "ils": "aient ouvré"
+    },
+    "subjonctif_imparfait": {
+      "je": "ouvrasse",
+      "tu": "ouvrasses",
+      "il": "ouvrât",
+      "nous": "ouvrassions",
+      "vous": "ouvrassiez",
+      "ils": "ouvrassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ouvré",
+      "tu": "eusses ouvré",
+      "il": "eût ouvré",
+      "nous": "eussions ouvré",
+      "vous": "eussiez ouvré",
+      "ils": "eussent ouvré"
+    },
+    "conditionnel_présent": {
+      "je": "ouvrerais",
+      "tu": "ouvrerais",
+      "il": "ouvrerait",
+      "nous": "ouvrerions",
+      "vous": "ouvreriez",
+      "ils": "ouvreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ouvré",
+      "tu": "aurais ouvré",
+      "il": "aurait ouvré",
+      "nous": "aurions ouvré",
+      "vous": "auriez ouvré",
+      "ils": "auraient ouvré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ouvré",
+      "tu": "eusses ouvré",
+      "il": "eût ouvré",
+      "nous": "eussions ouvré",
+      "vous": "eussiez ouvré",
+      "ils": "eussent ouvré"
+    },
+    "translation": "bileter",
+    "group": 1
+  },
+  {
+    "infinitive": "ouvrir",
+    "présent": {
+      "je": "ouvre",
+      "tu": "ouvres",
+      "il": "ouvre",
+      "nous": "ouvrons",
+      "vous": "ouvrez",
+      "ils": "ouvrent"
+    },
+    "passé_composé": {
+      "je": "ai ouvert",
+      "tu": "as ouvert",
+      "il": "a ouvert",
+      "nous": "avons ouvert",
+      "vous": "avez ouvert",
+      "ils": "ont ouvert"
+    },
+    "imparfait": {
+      "je": "ouvrais",
+      "tu": "ouvrais",
+      "il": "ouvrait",
+      "nous": "ouvrions",
+      "vous": "ouvriez",
+      "ils": "ouvraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ouvert",
+      "tu": "avais ouvert",
+      "il": "avait ouvert",
+      "nous": "avions ouvert",
+      "vous": "aviez ouvert",
+      "ils": "avaient ouvert"
+    },
+    "passé_simple": {
+      "je": "ouvris",
+      "tu": "ouvris",
+      "il": "ouvrit",
+      "nous": "ouvrîmes",
+      "vous": "ouvrîtes",
+      "ils": "ouvrirent"
+    },
+    "passé_antérieur": {
+      "je": "eus ouvert",
+      "tu": "eus ouvert",
+      "il": "eut ouvert",
+      "nous": "eûmes ouvert",
+      "vous": "eûtes ouvert",
+      "ils": "eurent ouvert"
+    },
+    "futur_simple": {
+      "je": "ouvrirai",
+      "tu": "ouvriras",
+      "il": "ouvrira",
+      "nous": "ouvrirons",
+      "vous": "ouvrirez",
+      "ils": "ouvriront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ouvert",
+      "tu": "auras ouvert",
+      "il": "aura ouvert",
+      "nous": "aurons ouvert",
+      "vous": "aurez ouvert",
+      "ils": "auront ouvert"
+    },
+    "subjonctif_présent": {
+      "je": "ouvre",
+      "tu": "ouvres",
+      "il": "ouvre",
+      "nous": "ouvrions",
+      "vous": "ouvriez",
+      "ils": "ouvrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie ouvert",
+      "tu": "aies ouvert",
+      "il": "ait ouvert",
+      "nous": "ayons ouvert",
+      "vous": "ayez ouvert",
+      "ils": "aient ouvert"
+    },
+    "subjonctif_imparfait": {
+      "je": "ouvrisse",
+      "tu": "ouvrisses",
+      "il": "ouvrît",
+      "nous": "ouvrissions",
+      "vous": "ouvrissiez",
+      "ils": "ouvrissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ouvert",
+      "tu": "eusses ouvert",
+      "il": "eût ouvert",
+      "nous": "eussions ouvert",
+      "vous": "eussiez ouvert",
+      "ils": "eussent ouvert"
+    },
+    "conditionnel_présent": {
+      "je": "ouvrirais",
+      "tu": "ouvrirais",
+      "il": "ouvrirait",
+      "nous": "ouvririons",
+      "vous": "ouvririez",
+      "ils": "ouvriraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ouvert",
+      "tu": "aurais ouvert",
+      "il": "aurait ouvert",
+      "nous": "aurions ouvert",
+      "vous": "auriez ouvert",
+      "ils": "auraient ouvert"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ouvert",
+      "tu": "eusses ouvert",
+      "il": "eût ouvert",
+      "nous": "eussions ouvert",
+      "vous": "eussiez ouvert",
+      "ils": "eussent ouvert"
+    },
+    "translation": "otwierać",
+    "group": 3
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "tendre",
+    "présent": {
+      "je": "tends",
+      "tu": "tends",
+      "il": "tend",
+      "nous": "tendons",
+      "vous": "tendez",
+      "ils": "tendent"
+    },
+    "passé_composé": {
+      "je": "ai tendu",
+      "tu": "as tendu",
+      "il": "a tendu",
+      "nous": "avons tendu",
+      "vous": "avez tendu",
+      "ils": "ont tendu"
+    },
+    "imparfait": {
+      "je": "tendais",
+      "tu": "tendais",
+      "il": "tendait",
+      "nous": "tendions",
+      "vous": "tendiez",
+      "ils": "tendaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais tendu",
+      "tu": "avais tendu",
+      "il": "avait tendu",
+      "nous": "avions tendu",
+      "vous": "aviez tendu",
+      "ils": "avaient tendu"
+    },
+    "passé_simple": {
+      "je": "tendis",
+      "tu": "tendis",
+      "il": "tendit",
+      "nous": "tendîmes",
+      "vous": "tendîtes",
+      "ils": "tendirent"
+    },
+    "passé_antérieur": {
+      "je": "eus tendu",
+      "tu": "eus tendu",
+      "il": "eut tendu",
+      "nous": "eûmes tendu",
+      "vous": "eûtes tendu",
+      "ils": "eurent tendu"
+    },
+    "futur_simple": {
+      "je": "tendrai",
+      "tu": "tendras",
+      "il": "tendra",
+      "nous": "tendrons",
+      "vous": "tendrez",
+      "ils": "tendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai tendu",
+      "tu": "auras tendu",
+      "il": "aura tendu",
+      "nous": "aurons tendu",
+      "vous": "aurez tendu",
+      "ils": "auront tendu"
+    },
+    "subjonctif_présent": {
+      "je": "tende",
+      "tu": "tendes",
+      "il": "tende",
+      "nous": "tendions",
+      "vous": "tendiez",
+      "ils": "tendent"
+    },
+    "subjonctif_passé": {
+      "je": "aie tendu",
+      "tu": "aies tendu",
+      "il": "ait tendu",
+      "nous": "ayons tendu",
+      "vous": "ayez tendu",
+      "ils": "aient tendu"
+    },
+    "subjonctif_imparfait": {
+      "je": "tendisse",
+      "tu": "tendisses",
+      "il": "tendît",
+      "nous": "tendissions",
+      "vous": "tendissiez",
+      "ils": "tendissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse tendu",
+      "tu": "eusses tendu",
+      "il": "eût tendu",
+      "nous": "eussions tendu",
+      "vous": "eussiez tendu",
+      "ils": "eussent tendu"
+    },
+    "conditionnel_présent": {
+      "je": "tendrais",
+      "tu": "tendrais",
+      "il": "tendrait",
+      "nous": "tendrions",
+      "vous": "tendriez",
+      "ils": "tendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais tendu",
+      "tu": "aurais tendu",
+      "il": "aurait tendu",
+      "nous": "aurions tendu",
+      "vous": "auriez tendu",
+      "ils": "auraient tendu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse tendu",
+      "tu": "eusses tendu",
+      "il": "eût tendu",
+      "nous": "eussions tendu",
+      "vous": "eussiez tendu",
+      "ils": "eussent tendu"
+    },
+    "translation": "naciągać",
+    "group": 3
+  },
+  {
+    "infinitive": "tenir",
+    "présent": {
+      "je": "tiens",
+      "tu": "tiens",
+      "il": "tient",
+      "nous": "tenons",
+      "vous": "tenez",
+      "ils": "tiennent"
+    },
+    "passé_composé": {
+      "je": "ai tenu",
+      "tu": "as tenu",
+      "il": "a tenu",
+      "nous": "avons tenu",
+      "vous": "avez tenu",
+      "ils": "ont tenu"
+    },
+    "imparfait": {
+      "je": "tenais",
+      "tu": "tenais",
+      "il": "tenait",
+      "nous": "tenions",
+      "vous": "teniez",
+      "ils": "tenaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais tenu",
+      "tu": "avais tenu",
+      "il": "avait tenu",
+      "nous": "avions tenu",
+      "vous": "aviez tenu",
+      "ils": "avaient tenu"
+    },
+    "passé_simple": {
+      "je": "tins",
+      "tu": "tins",
+      "il": "tint",
+      "nous": "tînmes",
+      "vous": "tîntes",
+      "ils": "tinrent"
+    },
+    "passé_antérieur": {
+      "je": "eus tenu",
+      "tu": "eus tenu",
+      "il": "eut tenu",
+      "nous": "eûmes tenu",
+      "vous": "eûtes tenu",
+      "ils": "eurent tenu"
+    },
+    "futur_simple": {
+      "je": "tiendrai",
+      "tu": "tiendras",
+      "il": "tiendra",
+      "nous": "tiendrons",
+      "vous": "tiendrez",
+      "ils": "tiendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai tenu",
+      "tu": "auras tenu",
+      "il": "aura tenu",
+      "nous": "aurons tenu",
+      "vous": "aurez tenu",
+      "ils": "auront tenu"
+    },
+    "subjonctif_présent": {
+      "je": "tienne",
+      "tu": "tiennes",
+      "il": "tienne",
+      "nous": "tenions",
+      "vous": "teniez",
+      "ils": "tiennent"
+    },
+    "subjonctif_passé": {
+      "je": "aie tenu",
+      "tu": "aies tenu",
+      "il": "ait tenu",
+      "nous": "ayons tenu",
+      "vous": "ayez tenu",
+      "ils": "aient tenu"
+    },
+    "subjonctif_imparfait": {
+      "je": "tinsse",
+      "tu": "tinsses",
+      "il": "tînt",
+      "nous": "tinssions",
+      "vous": "tinssiez",
+      "ils": "tinssent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse tenu",
+      "tu": "eusses tenu",
+      "il": "eût tenu",
+      "nous": "eussions tenu",
+      "vous": "eussiez tenu",
+      "ils": "eussent tenu"
+    },
+    "conditionnel_présent": {
+      "je": "tiendrais",
+      "tu": "tiendrais",
+      "il": "tiendrait",
+      "nous": "tiendrions",
+      "vous": "tiendriez",
+      "ils": "tiendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais tenu",
+      "tu": "aurais tenu",
+      "il": "aurait tenu",
+      "nous": "aurions tenu",
+      "vous": "auriez tenu",
+      "ils": "auraient tenu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse tenu",
+      "tu": "eusses tenu",
+      "il": "eût tenu",
+      "nous": "eussions tenu",
+      "vous": "eussiez tenu",
+      "ils": "eussent tenu"
+    },
+    "translation": "trzymać",
+    "group": 3
+  },
+  {
+    "infinitive": "tenter",
+    "présent": {
+      "je": "tente",
+      "tu": "tentes",
+      "il": "tente",
+      "nous": "tentons",
+      "vous": "tentez",
+      "ils": "tentent"
+    },
+    "passé_composé": {
+      "je": "ai tenté",
+      "tu": "as tenté",
+      "il": "a tenté",
+      "nous": "avons tenté",
+      "vous": "avez tenté",
+      "ils": "ont tenté"
+    },
+    "imparfait": {
+      "je": "tentais",
+      "tu": "tentais",
+      "il": "tentait",
+      "nous": "tentions",
+      "vous": "tentiez",
+      "ils": "tentaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais tenté",
+      "tu": "avais tenté",
+      "il": "avait tenté",
+      "nous": "avions tenté",
+      "vous": "aviez tenté",
+      "ils": "avaient tenté"
+    },
+    "passé_simple": {
+      "je": "tentai",
+      "tu": "tentas",
+      "il": "tenta",
+      "nous": "tentâmes",
+      "vous": "tentâtes",
+      "ils": "tentèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus tenté",
+      "tu": "eus tenté",
+      "il": "eut tenté",
+      "nous": "eûmes tenté",
+      "vous": "eûtes tenté",
+      "ils": "eurent tenté"
+    },
+    "futur_simple": {
+      "je": "tenterai",
+      "tu": "tenteras",
+      "il": "tentera",
+      "nous": "tenterons",
+      "vous": "tenterez",
+      "ils": "tenteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai tenté",
+      "tu": "auras tenté",
+      "il": "aura tenté",
+      "nous": "aurons tenté",
+      "vous": "aurez tenté",
+      "ils": "auront tenté"
+    },
+    "subjonctif_présent": {
+      "je": "tente",
+      "tu": "tentes",
+      "il": "tente",
+      "nous": "tentions",
+      "vous": "tentiez",
+      "ils": "tentent"
+    },
+    "subjonctif_passé": {
+      "je": "aie tenté",
+      "tu": "aies tenté",
+      "il": "ait tenté",
+      "nous": "ayons tenté",
+      "vous": "ayez tenté",
+      "ils": "aient tenté"
+    },
+    "subjonctif_imparfait": {
+      "je": "tentasse",
+      "tu": "tentasses",
+      "il": "tentât",
+      "nous": "tentassions",
+      "vous": "tentassiez",
+      "ils": "tentassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse tenté",
+      "tu": "eusses tenté",
+      "il": "eût tenté",
+      "nous": "eussions tenté",
+      "vous": "eussiez tenté",
+      "ils": "eussent tenté"
+    },
+    "conditionnel_présent": {
+      "je": "tenterais",
+      "tu": "tenterais",
+      "il": "tenterait",
+      "nous": "tenterions",
+      "vous": "tenteriez",
+      "ils": "tenteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais tenté",
+      "tu": "aurais tenté",
+      "il": "aurait tenté",
+      "nous": "aurions tenté",
+      "vous": "auriez tenté",
+      "ils": "auraient tenté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse tenté",
+      "tu": "eusses tenté",
+      "il": "eût tenté",
+      "nous": "eussions tenté",
+      "vous": "eussiez tenté",
+      "ils": "eussent tenté"
+    },
+    "translation": "kusić",
+    "group": 1
+  },
+  {
+    "infinitive": "terminer",
+    "présent": {
+      "je": "termine",
+      "tu": "termines",
+      "il": "termine",
+      "nous": "terminons",
+      "vous": "terminez",
+      "ils": "terminent"
+    },
+    "passé_composé": {
+      "je": "ai terminé",
+      "tu": "as terminé",
+      "il": "a terminé",
+      "nous": "avons terminé",
+      "vous": "avez terminé",
+      "ils": "ont terminé"
+    },
+    "imparfait": {
+      "je": "terminais",
+      "tu": "terminais",
+      "il": "terminait",
+      "nous": "terminions",
+      "vous": "terminiez",
+      "ils": "terminaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais terminé",
+      "tu": "avais terminé",
+      "il": "avait terminé",
+      "nous": "avions terminé",
+      "vous": "aviez terminé",
+      "ils": "avaient terminé"
+    },
+    "passé_simple": {
+      "je": "terminai",
+      "tu": "terminas",
+      "il": "termina",
+      "nous": "terminâmes",
+      "vous": "terminâtes",
+      "ils": "terminèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus terminé",
+      "tu": "eus terminé",
+      "il": "eut terminé",
+      "nous": "eûmes terminé",
+      "vous": "eûtes terminé",
+      "ils": "eurent terminé"
+    },
+    "futur_simple": {
+      "je": "terminerai",
+      "tu": "termineras",
+      "il": "terminera",
+      "nous": "terminerons",
+      "vous": "terminerez",
+      "ils": "termineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai terminé",
+      "tu": "auras terminé",
+      "il": "aura terminé",
+      "nous": "aurons terminé",
+      "vous": "aurez terminé",
+      "ils": "auront terminé"
+    },
+    "subjonctif_présent": {
+      "je": "termine",
+      "tu": "termines",
+      "il": "termine",
+      "nous": "terminions",
+      "vous": "terminiez",
+      "ils": "terminent"
+    },
+    "subjonctif_passé": {
+      "je": "aie terminé",
+      "tu": "aies terminé",
+      "il": "ait terminé",
+      "nous": "ayons terminé",
+      "vous": "ayez terminé",
+      "ils": "aient terminé"
+    },
+    "subjonctif_imparfait": {
+      "je": "terminasse",
+      "tu": "terminasses",
+      "il": "terminât",
+      "nous": "terminassions",
+      "vous": "terminassiez",
+      "ils": "terminassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse terminé",
+      "tu": "eusses terminé",
+      "il": "eût terminé",
+      "nous": "eussions terminé",
+      "vous": "eussiez terminé",
+      "ils": "eussent terminé"
+    },
+    "conditionnel_présent": {
+      "je": "terminerais",
+      "tu": "terminerais",
+      "il": "terminerait",
+      "nous": "terminerions",
+      "vous": "termineriez",
+      "ils": "termineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais terminé",
+      "tu": "aurais terminé",
+      "il": "aurait terminé",
+      "nous": "aurions terminé",
+      "vous": "auriez terminé",
+      "ils": "auraient terminé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse terminé",
+      "tu": "eusses terminé",
+      "il": "eût terminé",
+      "nous": "eussions terminé",
+      "vous": "eussiez terminé",
+      "ils": "eussent terminé"
+    },
+    "translation": "kończyć",
+    "group": 1
+  },
+  {
+    "infinitive": "ternir",
+    "présent": {
+      "je": "ternis",
+      "tu": "ternis",
+      "il": "ternit",
+      "nous": "ternissons",
+      "vous": "ternissez",
+      "ils": "ternissent"
+    },
+    "passé_composé": {
+      "je": "ai terni",
+      "tu": "as terni",
+      "il": "a terni",
+      "nous": "avons terni",
+      "vous": "avez terni",
+      "ils": "ont terni"
+    },
+    "imparfait": {
+      "je": "ternissais",
+      "tu": "ternissais",
+      "il": "ternissait",
+      "nous": "ternissions",
+      "vous": "ternissiez",
+      "ils": "ternissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais terni",
+      "tu": "avais terni",
+      "il": "avait terni",
+      "nous": "avions terni",
+      "vous": "aviez terni",
+      "ils": "avaient terni"
+    },
+    "passé_simple": {
+      "je": "ternis",
+      "tu": "ternis",
+      "il": "ternit",
+      "nous": "ternîmes",
+      "vous": "ternîtes",
+      "ils": "ternirent"
+    },
+    "passé_antérieur": {
+      "je": "eus terni",
+      "tu": "eus terni",
+      "il": "eut terni",
+      "nous": "eûmes terni",
+      "vous": "eûtes terni",
+      "ils": "eurent terni"
+    },
+    "futur_simple": {
+      "je": "ternirai",
+      "tu": "terniras",
+      "il": "ternira",
+      "nous": "ternirons",
+      "vous": "ternirez",
+      "ils": "terniront"
+    },
+    "futur_antérieur": {
+      "je": "aurai terni",
+      "tu": "auras terni",
+      "il": "aura terni",
+      "nous": "aurons terni",
+      "vous": "aurez terni",
+      "ils": "auront terni"
+    },
+    "subjonctif_présent": {
+      "je": "ternisse",
+      "tu": "ternisses",
+      "il": "ternisse",
+      "nous": "ternissions",
+      "vous": "ternissiez",
+      "ils": "ternissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie terni",
+      "tu": "aies terni",
+      "il": "ait terni",
+      "nous": "ayons terni",
+      "vous": "ayez terni",
+      "ils": "aient terni"
+    },
+    "subjonctif_imparfait": {
+      "je": "ternisse",
+      "tu": "ternisses",
+      "il": "ternît",
+      "nous": "ternissions",
+      "vous": "ternissiez",
+      "ils": "ternissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse terni",
+      "tu": "eusses terni",
+      "il": "eût terni",
+      "nous": "eussions terni",
+      "vous": "eussiez terni",
+      "ils": "eussent terni"
+    },
+    "conditionnel_présent": {
+      "je": "ternirais",
+      "tu": "ternirais",
+      "il": "ternirait",
+      "nous": "ternirions",
+      "vous": "terniriez",
+      "ils": "terniraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais terni",
+      "tu": "aurais terni",
+      "il": "aurait terni",
+      "nous": "aurions terni",
+      "vous": "auriez terni",
+      "ils": "auraient terni"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse terni",
+      "tu": "eusses terni",
+      "il": "eût terni",
+      "nous": "eussions terni",
+      "vous": "eussiez terni",
+      "ils": "eussent terni"
+    },
+    "translation": "pozbawiać",
+    "group": 2
+  },
+  {
+    "infinitive": "tester",
+    "présent": {
+      "je": "teste",
+      "tu": "testes",
+      "il": "teste",
+      "nous": "testons",
+      "vous": "testez",
+      "ils": "testent"
+    },
+    "passé_composé": {
+      "je": "ai testé",
+      "tu": "as testé",
+      "il": "a testé",
+      "nous": "avons testé",
+      "vous": "avez testé",
+      "ils": "ont testé"
+    },
+    "imparfait": {
+      "je": "testais",
+      "tu": "testais",
+      "il": "testait",
+      "nous": "testions",
+      "vous": "testiez",
+      "ils": "testaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais testé",
+      "tu": "avais testé",
+      "il": "avait testé",
+      "nous": "avions testé",
+      "vous": "aviez testé",
+      "ils": "avaient testé"
+    },
+    "passé_simple": {
+      "je": "testai",
+      "tu": "testas",
+      "il": "testa",
+      "nous": "testâmes",
+      "vous": "testâtes",
+      "ils": "testèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus testé",
+      "tu": "eus testé",
+      "il": "eut testé",
+      "nous": "eûmes testé",
+      "vous": "eûtes testé",
+      "ils": "eurent testé"
+    },
+    "futur_simple": {
+      "je": "testerai",
+      "tu": "testeras",
+      "il": "testera",
+      "nous": "testerons",
+      "vous": "testerez",
+      "ils": "testeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai testé",
+      "tu": "auras testé",
+      "il": "aura testé",
+      "nous": "aurons testé",
+      "vous": "aurez testé",
+      "ils": "auront testé"
+    },
+    "subjonctif_présent": {
+      "je": "teste",
+      "tu": "testes",
+      "il": "teste",
+      "nous": "testions",
+      "vous": "testiez",
+      "ils": "testent"
+    },
+    "subjonctif_passé": {
+      "je": "aie testé",
+      "tu": "aies testé",
+      "il": "ait testé",
+      "nous": "ayons testé",
+      "vous": "ayez testé",
+      "ils": "aient testé"
+    },
+    "subjonctif_imparfait": {
+      "je": "testasse",
+      "tu": "testasses",
+      "il": "testât",
+      "nous": "testassions",
+      "vous": "testassiez",
+      "ils": "testassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse testé",
+      "tu": "eusses testé",
+      "il": "eût testé",
+      "nous": "eussions testé",
+      "vous": "eussiez testé",
+      "ils": "eussent testé"
+    },
+    "conditionnel_présent": {
+      "je": "testerais",
+      "tu": "testerais",
+      "il": "testerait",
+      "nous": "testerions",
+      "vous": "testeriez",
+      "ils": "testeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais testé",
+      "tu": "aurais testé",
+      "il": "aurait testé",
+      "nous": "aurions testé",
+      "vous": "auriez testé",
+      "ils": "auraient testé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse testé",
+      "tu": "eusses testé",
+      "il": "eût testé",
+      "nous": "eussions testé",
+      "vous": "eussiez testé",
+      "ils": "eussent testé"
+    },
+    "translation": "testować",
+    "group": 1
+  },
+  {
+    "infinitive": "têter",
+    "présent": {
+      "je": "tète",
+      "tu": "tètes",
+      "il": "tète",
+      "nous": "tétons",
+      "vous": "tétez",
+      "ils": "tètent"
+    },
+    "passé_composé": {
+      "je": "ai tété",
+      "tu": "as tété",
+      "il": "a tété",
+      "nous": "avons tété",
+      "vous": "avez tété",
+      "ils": "ont tété"
+    },
+    "imparfait": {
+      "je": "tétais",
+      "tu": "tétais",
+      "il": "tétait",
+      "nous": "tétions",
+      "vous": "tétiez",
+      "ils": "tétaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais tété",
+      "tu": "avais tété",
+      "il": "avait tété",
+      "nous": "avions tété",
+      "vous": "aviez tété",
+      "ils": "avaient tété"
+    },
+    "passé_simple": {
+      "je": "tétai",
+      "tu": "tétas",
+      "il": "téta",
+      "nous": "tétâmes",
+      "vous": "tétâtes",
+      "ils": "tétèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus tété",
+      "tu": "eus tété",
+      "il": "eut tété",
+      "nous": "eûmes tété",
+      "vous": "eûtes tété",
+      "ils": "eurent tété"
+    },
+    "futur_simple": {
+      "je": "téterai",
+      "tu": "téteras",
+      "il": "tétera",
+      "nous": "téterons",
+      "vous": "téterez",
+      "ils": "téteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai tété",
+      "tu": "auras tété",
+      "il": "aura tété",
+      "nous": "aurons tété",
+      "vous": "aurez tété",
+      "ils": "auront tété"
+    },
+    "subjonctif_présent": {
+      "je": "tète",
+      "tu": "tètes",
+      "il": "tète",
+      "nous": "tétions",
+      "vous": "tétiez",
+      "ils": "tètent"
+    },
+    "subjonctif_passé": {
+      "je": "aie tété",
+      "tu": "aies tété",
+      "il": "ait tété",
+      "nous": "ayons tété",
+      "vous": "ayez tété",
+      "ils": "aient tété"
+    },
+    "subjonctif_imparfait": {
+      "je": "tétasse",
+      "tu": "tétasses",
+      "il": "tétât",
+      "nous": "tétassions",
+      "vous": "tétassiez",
+      "ils": "tétassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse tété",
+      "tu": "eusses tété",
+      "il": "eût tété",
+      "nous": "eussions tété",
+      "vous": "eussiez tété",
+      "ils": "eussent tété"
+    },
+    "conditionnel_présent": {
+      "je": "téterais",
+      "tu": "téterais",
+      "il": "téterait",
+      "nous": "téterions",
+      "vous": "téteriez",
+      "ils": "téteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais tété",
+      "tu": "aurais tété",
+      "il": "aurait tété",
+      "nous": "aurions tété",
+      "vous": "auriez tété",
+      "ils": "auraient tété"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse tété",
+      "tu": "eusses tété",
+      "il": "eût tété",
+      "nous": "eussions tété",
+      "vous": "eussiez tété",
+      "ils": "eussent tété"
+    },
+    "translation": "ssać",
+    "group": 1
+  },
+  {
+    "infinitive": "téter",
+    "présent": {
+      "je": "tète",
+      "tu": "tètes",
+      "il": "tète",
+      "nous": "tétons",
+      "vous": "tétez",
+      "ils": "tètent"
+    },
+    "passé_composé": {
+      "je": "ai tété",
+      "tu": "as tété",
+      "il": "a tété",
+      "nous": "avons tété",
+      "vous": "avez tété",
+      "ils": "ont tété"
+    },
+    "imparfait": {
+      "je": "tétais",
+      "tu": "tétais",
+      "il": "tétait",
+      "nous": "tétions",
+      "vous": "tétiez",
+      "ils": "tétaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais tété",
+      "tu": "avais tété",
+      "il": "avait tété",
+      "nous": "avions tété",
+      "vous": "aviez tété",
+      "ils": "avaient tété"
+    },
+    "passé_simple": {
+      "je": "tétai",
+      "tu": "tétas",
+      "il": "téta",
+      "nous": "tétâmes",
+      "vous": "tétâtes",
+      "ils": "tétèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus tété",
+      "tu": "eus tété",
+      "il": "eut tété",
+      "nous": "eûmes tété",
+      "vous": "eûtes tété",
+      "ils": "eurent tété"
+    },
+    "futur_simple": {
+      "je": "téterai",
+      "tu": "téteras",
+      "il": "tétera",
+      "nous": "téterons",
+      "vous": "téterez",
+      "ils": "téteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai tété",
+      "tu": "auras tété",
+      "il": "aura tété",
+      "nous": "aurons tété",
+      "vous": "aurez tété",
+      "ils": "auront tété"
+    },
+    "subjonctif_présent": {
+      "je": "tète",
+      "tu": "tètes",
+      "il": "tète",
+      "nous": "tétions",
+      "vous": "tétiez",
+      "ils": "tètent"
+    },
+    "subjonctif_passé": {
+      "je": "aie tété",
+      "tu": "aies tété",
+      "il": "ait tété",
+      "nous": "ayons tété",
+      "vous": "ayez tété",
+      "ils": "aient tété"
+    },
+    "subjonctif_imparfait": {
+      "je": "tétasse",
+      "tu": "tétasses",
+      "il": "tétât",
+      "nous": "tétassions",
+      "vous": "tétassiez",
+      "ils": "tétassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse tété",
+      "tu": "eusses tété",
+      "il": "eût tété",
+      "nous": "eussions tété",
+      "vous": "eussiez tété",
+      "ils": "eussent tété"
+    },
+    "conditionnel_présent": {
+      "je": "téterais",
+      "tu": "téterais",
+      "il": "téterait",
+      "nous": "téterions",
+      "vous": "téteriez",
+      "ils": "téteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais tété",
+      "tu": "aurais tété",
+      "il": "aurait tété",
+      "nous": "aurions tété",
+      "vous": "auriez tété",
+      "ils": "auraient tété"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse tété",
+      "tu": "eusses tété",
+      "il": "eût tété",
+      "nous": "eussions tété",
+      "vous": "eussiez tété",
+      "ils": "eussent tété"
+    },
+    "translation": "ssać",
+    "group": 1
+  },
+  {
+    "infinitive": "tiédir",
+    "présent": {
+      "je": "tiédis",
+      "tu": "tiédis",
+      "il": "tiédit",
+      "nous": "tiédissons",
+      "vous": "tiédissez",
+      "ils": "tiédissent"
+    },
+    "passé_composé": {
+      "je": "ai tiédi",
+      "tu": "as tiédi",
+      "il": "a tiédi",
+      "nous": "avons tiédi",
+      "vous": "avez tiédi",
+      "ils": "ont tiédi"
+    },
+    "imparfait": {
+      "je": "tiédissais",
+      "tu": "tiédissais",
+      "il": "tiédissait",
+      "nous": "tiédissions",
+      "vous": "tiédissiez",
+      "ils": "tiédissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais tiédi",
+      "tu": "avais tiédi",
+      "il": "avait tiédi",
+      "nous": "avions tiédi",
+      "vous": "aviez tiédi",
+      "ils": "avaient tiédi"
+    },
+    "passé_simple": {
+      "je": "tiédis",
+      "tu": "tiédis",
+      "il": "tiédit",
+      "nous": "tiédîmes",
+      "vous": "tiédîtes",
+      "ils": "tiédirent"
+    },
+    "passé_antérieur": {
+      "je": "eus tiédi",
+      "tu": "eus tiédi",
+      "il": "eut tiédi",
+      "nous": "eûmes tiédi",
+      "vous": "eûtes tiédi",
+      "ils": "eurent tiédi"
+    },
+    "futur_simple": {
+      "je": "tiédirai",
+      "tu": "tiédiras",
+      "il": "tiédira",
+      "nous": "tiédirons",
+      "vous": "tiédirez",
+      "ils": "tiédiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai tiédi",
+      "tu": "auras tiédi",
+      "il": "aura tiédi",
+      "nous": "aurons tiédi",
+      "vous": "aurez tiédi",
+      "ils": "auront tiédi"
+    },
+    "subjonctif_présent": {
+      "je": "tiédisse",
+      "tu": "tiédisses",
+      "il": "tiédisse",
+      "nous": "tiédissions",
+      "vous": "tiédissiez",
+      "ils": "tiédissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie tiédi",
+      "tu": "aies tiédi",
+      "il": "ait tiédi",
+      "nous": "ayons tiédi",
+      "vous": "ayez tiédi",
+      "ils": "aient tiédi"
+    },
+    "subjonctif_imparfait": {
+      "je": "tiédisse",
+      "tu": "tiédisses",
+      "il": "tiédît",
+      "nous": "tiédissions",
+      "vous": "tiédissiez",
+      "ils": "tiédissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse tiédi",
+      "tu": "eusses tiédi",
+      "il": "eût tiédi",
+      "nous": "eussions tiédi",
+      "vous": "eussiez tiédi",
+      "ils": "eussent tiédi"
+    },
+    "conditionnel_présent": {
+      "je": "tiédirais",
+      "tu": "tiédirais",
+      "il": "tiédirait",
+      "nous": "tiédirions",
+      "vous": "tiédiriez",
+      "ils": "tiédiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais tiédi",
+      "tu": "aurais tiédi",
+      "il": "aurait tiédi",
+      "nous": "aurions tiédi",
+      "vous": "auriez tiédi",
+      "ils": "auraient tiédi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse tiédi",
+      "tu": "eusses tiédi",
+      "il": "eût tiédi",
+      "nous": "eussions tiédi",
+      "vous": "eussiez tiédi",
+      "ils": "eussent tiédi"
+    },
+    "translation": "chłodnieć",
+    "group": 2
+  },
+  {
+    "infinitive": "tinter",
+    "présent": {
+      "je": "tinte",
+      "tu": "tintes",
+      "il": "tinte",
+      "nous": "tintons",
+      "vous": "tintez",
+      "ils": "tintent"
+    },
+    "passé_composé": {
+      "je": "ai tinté",
+      "tu": "as tinté",
+      "il": "a tinté",
+      "nous": "avons tinté",
+      "vous": "avez tinté",
+      "ils": "ont tinté"
+    },
+    "imparfait": {
+      "je": "tintais",
+      "tu": "tintais",
+      "il": "tintait",
+      "nous": "tintions",
+      "vous": "tintiez",
+      "ils": "tintaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais tinté",
+      "tu": "avais tinté",
+      "il": "avait tinté",
+      "nous": "avions tinté",
+      "vous": "aviez tinté",
+      "ils": "avaient tinté"
+    },
+    "passé_simple": {
+      "je": "tintai",
+      "tu": "tintas",
+      "il": "tinta",
+      "nous": "tintâmes",
+      "vous": "tintâtes",
+      "ils": "tintèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus tinté",
+      "tu": "eus tinté",
+      "il": "eut tinté",
+      "nous": "eûmes tinté",
+      "vous": "eûtes tinté",
+      "ils": "eurent tinté"
+    },
+    "futur_simple": {
+      "je": "tinterai",
+      "tu": "tinteras",
+      "il": "tintera",
+      "nous": "tinterons",
+      "vous": "tinterez",
+      "ils": "tinteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai tinté",
+      "tu": "auras tinté",
+      "il": "aura tinté",
+      "nous": "aurons tinté",
+      "vous": "aurez tinté",
+      "ils": "auront tinté"
+    },
+    "subjonctif_présent": {
+      "je": "tinte",
+      "tu": "tintes",
+      "il": "tinte",
+      "nous": "tintions",
+      "vous": "tintiez",
+      "ils": "tintent"
+    },
+    "subjonctif_passé": {
+      "je": "aie tinté",
+      "tu": "aies tinté",
+      "il": "ait tinté",
+      "nous": "ayons tinté",
+      "vous": "ayez tinté",
+      "ils": "aient tinté"
+    },
+    "subjonctif_imparfait": {
+      "je": "tintasse",
+      "tu": "tintasses",
+      "il": "tintât",
+      "nous": "tintassions",
+      "vous": "tintassiez",
+      "ils": "tintassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse tinté",
+      "tu": "eusses tinté",
+      "il": "eût tinté",
+      "nous": "eussions tinté",
+      "vous": "eussiez tinté",
+      "ils": "eussent tinté"
+    },
+    "conditionnel_présent": {
+      "je": "tinterais",
+      "tu": "tinterais",
+      "il": "tinterait",
+      "nous": "tinterions",
+      "vous": "tinteriez",
+      "ils": "tinteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais tinté",
+      "tu": "aurais tinté",
+      "il": "aurait tinté",
+      "nous": "aurions tinté",
+      "vous": "auriez tinté",
+      "ils": "auraient tinté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse tinté",
+      "tu": "eusses tinté",
+      "il": "eût tinté",
+      "nous": "eussions tinté",
+      "vous": "eussiez tinté",
+      "ils": "eussent tinté"
+    },
+    "translation": "dzwonić",
+    "group": 1
+  }
+]

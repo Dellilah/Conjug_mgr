@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "finir",
+    "présent": {
+      "je": "finis",
+      "tu": "finis",
+      "il": "finit",
+      "nous": "finissons",
+      "vous": "finissez",
+      "ils": "finissent"
+    },
+    "passé_composé": {
+      "je": "ai fini",
+      "tu": "as fini",
+      "il": "a fini",
+      "nous": "avons fini",
+      "vous": "avez fini",
+      "ils": "ont fini"
+    },
+    "imparfait": {
+      "je": "finissais",
+      "tu": "finissais",
+      "il": "finissait",
+      "nous": "finissions",
+      "vous": "finissiez",
+      "ils": "finissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais fini",
+      "tu": "avais fini",
+      "il": "avait fini",
+      "nous": "avions fini",
+      "vous": "aviez fini",
+      "ils": "avaient fini"
+    },
+    "passé_simple": {
+      "je": "finis",
+      "tu": "finis",
+      "il": "finit",
+      "nous": "finîmes",
+      "vous": "finîtes",
+      "ils": "finirent"
+    },
+    "passé_antérieur": {
+      "je": "eus fini",
+      "tu": "eus fini",
+      "il": "eut fini",
+      "nous": "eûmes fini",
+      "vous": "eûtes fini",
+      "ils": "eurent fini"
+    },
+    "futur_simple": {
+      "je": "finirai",
+      "tu": "finiras",
+      "il": "finira",
+      "nous": "finirons",
+      "vous": "finirez",
+      "ils": "finiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai fini",
+      "tu": "auras fini",
+      "il": "aura fini",
+      "nous": "aurons fini",
+      "vous": "aurez fini",
+      "ils": "auront fini"
+    },
+    "subjonctif_présent": {
+      "je": "finisse",
+      "tu": "finisses",
+      "il": "finisse",
+      "nous": "finissions",
+      "vous": "finissiez",
+      "ils": "finissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie fini",
+      "tu": "aies fini",
+      "il": "ait fini",
+      "nous": "ayons fini",
+      "vous": "ayez fini",
+      "ils": "aient fini"
+    },
+    "subjonctif_imparfait": {
+      "je": "finisse",
+      "tu": "finisses",
+      "il": "finît",
+      "nous": "finissions",
+      "vous": "finissiez",
+      "ils": "finissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse fini",
+      "tu": "eusses fini",
+      "il": "eût fini",
+      "nous": "eussions fini",
+      "vous": "eussiez fini",
+      "ils": "eussent fini"
+    },
+    "conditionnel_présent": {
+      "je": "finirais",
+      "tu": "finirais",
+      "il": "finirait",
+      "nous": "finirions",
+      "vous": "finiriez",
+      "ils": "finiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais fini",
+      "tu": "aurais fini",
+      "il": "aurait fini",
+      "nous": "aurions fini",
+      "vous": "auriez fini",
+      "ils": "auraient fini"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse fini",
+      "tu": "eusses fini",
+      "il": "eût fini",
+      "nous": "eussions fini",
+      "vous": "eussiez fini",
+      "ils": "eussent fini"
+    },
+    "translation": "dobiegać",
+    "group": 2
+  },
+  {
+    "infinitive": "fixer",
+    "présent": {
+      "je": "fixe",
+      "tu": "fixes",
+      "il": "fixe",
+      "nous": "fixons",
+      "vous": "fixez",
+      "ils": "fixent"
+    },
+    "passé_composé": {
+      "je": "ai fixé",
+      "tu": "as fixé",
+      "il": "a fixé",
+      "nous": "avons fixé",
+      "vous": "avez fixé",
+      "ils": "ont fixé"
+    },
+    "imparfait": {
+      "je": "fixais",
+      "tu": "fixais",
+      "il": "fixait",
+      "nous": "fixions",
+      "vous": "fixiez",
+      "ils": "fixaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais fixé",
+      "tu": "avais fixé",
+      "il": "avait fixé",
+      "nous": "avions fixé",
+      "vous": "aviez fixé",
+      "ils": "avaient fixé"
+    },
+    "passé_simple": {
+      "je": "fixai",
+      "tu": "fixas",
+      "il": "fixa",
+      "nous": "fixâmes",
+      "vous": "fixâtes",
+      "ils": "fixèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus fixé",
+      "tu": "eus fixé",
+      "il": "eut fixé",
+      "nous": "eûmes fixé",
+      "vous": "eûtes fixé",
+      "ils": "eurent fixé"
+    },
+    "futur_simple": {
+      "je": "fixerai",
+      "tu": "fixeras",
+      "il": "fixera",
+      "nous": "fixerons",
+      "vous": "fixerez",
+      "ils": "fixeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai fixé",
+      "tu": "auras fixé",
+      "il": "aura fixé",
+      "nous": "aurons fixé",
+      "vous": "aurez fixé",
+      "ils": "auront fixé"
+    },
+    "subjonctif_présent": {
+      "je": "fixe",
+      "tu": "fixes",
+      "il": "fixe",
+      "nous": "fixions",
+      "vous": "fixiez",
+      "ils": "fixent"
+    },
+    "subjonctif_passé": {
+      "je": "aie fixé",
+      "tu": "aies fixé",
+      "il": "ait fixé",
+      "nous": "ayons fixé",
+      "vous": "ayez fixé",
+      "ils": "aient fixé"
+    },
+    "subjonctif_imparfait": {
+      "je": "fixasse",
+      "tu": "fixasses",
+      "il": "fixât",
+      "nous": "fixassions",
+      "vous": "fixassiez",
+      "ils": "fixassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse fixé",
+      "tu": "eusses fixé",
+      "il": "eût fixé",
+      "nous": "eussions fixé",
+      "vous": "eussiez fixé",
+      "ils": "eussent fixé"
+    },
+    "conditionnel_présent": {
+      "je": "fixerais",
+      "tu": "fixerais",
+      "il": "fixerait",
+      "nous": "fixerions",
+      "vous": "fixeriez",
+      "ils": "fixeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais fixé",
+      "tu": "aurais fixé",
+      "il": "aurait fixé",
+      "nous": "aurions fixé",
+      "vous": "auriez fixé",
+      "ils": "auraient fixé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse fixé",
+      "tu": "eusses fixé",
+      "il": "eût fixé",
+      "nous": "eussions fixé",
+      "vous": "eussiez fixé",
+      "ils": "eussent fixé"
+    },
+    "translation": "przytwierdzać",
+    "group": 1
+  },
+  {
+    "infinitive": "flamboyer",
+    "présent": {
+      "je": "flamboie",
+      "tu": "flamboies",
+      "il": "flamboie",
+      "nous": "flamboyons",
+      "vous": "flamboyez",
+      "ils": "flamboient"
+    },
+    "passé_composé": {
+      "je": "ai flamboyé",
+      "tu": "as flamboyé",
+      "il": "a flamboyé",
+      "nous": "avons flamboyé",
+      "vous": "avez flamboyé",
+      "ils": "ont flamboyé"
+    },
+    "imparfait": {
+      "je": "flamboyais",
+      "tu": "flamboyais",
+      "il": "flamboyait",
+      "nous": "flamboyions",
+      "vous": "flamboyiez",
+      "ils": "flamboyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais flamboyé",
+      "tu": "avais flamboyé",
+      "il": "avait flamboyé",
+      "nous": "avions flamboyé",
+      "vous": "aviez flamboyé",
+      "ils": "avaient flamboyé"
+    },
+    "passé_simple": {
+      "je": "flamboyai",
+      "tu": "flamboyas",
+      "il": "flamboya",
+      "nous": "flamboyâmes",
+      "vous": "flamboyâtes",
+      "ils": "flamboyèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus flamboyé",
+      "tu": "eus flamboyé",
+      "il": "eut flamboyé",
+      "nous": "eûmes flamboyé",
+      "vous": "eûtes flamboyé",
+      "ils": "eurent flamboyé"
+    },
+    "futur_simple": {
+      "je": "flamboierai",
+      "tu": "flamboieras",
+      "il": "flamboiera",
+      "nous": "flamboierons",
+      "vous": "flamboierez",
+      "ils": "flamboieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai flamboyé",
+      "tu": "auras flamboyé",
+      "il": "aura flamboyé",
+      "nous": "aurons flamboyé",
+      "vous": "aurez flamboyé",
+      "ils": "auront flamboyé"
+    },
+    "subjonctif_présent": {
+      "je": "flamboie",
+      "tu": "flamboies",
+      "il": "flamboie",
+      "nous": "flamboyions",
+      "vous": "flamboyiez",
+      "ils": "flamboient"
+    },
+    "subjonctif_passé": {
+      "je": "aie flamboyé",
+      "tu": "aies flamboyé",
+      "il": "ait flamboyé",
+      "nous": "ayons flamboyé",
+      "vous": "ayez flamboyé",
+      "ils": "aient flamboyé"
+    },
+    "subjonctif_imparfait": {
+      "je": "flamboyasse",
+      "tu": "flamboyasses",
+      "il": "flamboyât",
+      "nous": "flamboyassions",
+      "vous": "flamboyassiez",
+      "ils": "flamboyassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse flamboyé",
+      "tu": "eusses flamboyé",
+      "il": "eût flamboyé",
+      "nous": "eussions flamboyé",
+      "vous": "eussiez flamboyé",
+      "ils": "eussent flamboyé"
+    },
+    "conditionnel_présent": {
+      "je": "flamboierais",
+      "tu": "flamboierais",
+      "il": "flamboierait",
+      "nous": "flamboierions",
+      "vous": "flamboieriez",
+      "ils": "flamboieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais flamboyé",
+      "tu": "aurais flamboyé",
+      "il": "aurait flamboyé",
+      "nous": "aurions flamboyé",
+      "vous": "auriez flamboyé",
+      "ils": "auraient flamboyé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse flamboyé",
+      "tu": "eusses flamboyé",
+      "il": "eût flamboyé",
+      "nous": "eussions flamboyé",
+      "vous": "eussiez flamboyé",
+      "ils": "eussent flamboyé"
+    },
+    "translation": "płonąć",
+    "group": 1
+  },
+  {
+    "infinitive": "flâner",
+    "présent": {
+      "je": "flâne",
+      "tu": "flânes",
+      "il": "flâne",
+      "nous": "flânons",
+      "vous": "flânez",
+      "ils": "flânent"
+    },
+    "passé_composé": {
+      "je": "ai flâné",
+      "tu": "as flâné",
+      "il": "a flâné",
+      "nous": "avons flâné",
+      "vous": "avez flâné",
+      "ils": "ont flâné"
+    },
+    "imparfait": {
+      "je": "flânais",
+      "tu": "flânais",
+      "il": "flânait",
+      "nous": "flânions",
+      "vous": "flâniez",
+      "ils": "flânaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais flâné",
+      "tu": "avais flâné",
+      "il": "avait flâné",
+      "nous": "avions flâné",
+      "vous": "aviez flâné",
+      "ils": "avaient flâné"
+    },
+    "passé_simple": {
+      "je": "flânai",
+      "tu": "flânas",
+      "il": "flâna",
+      "nous": "flânâmes",
+      "vous": "flânâtes",
+      "ils": "flânèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus flâné",
+      "tu": "eus flâné",
+      "il": "eut flâné",
+      "nous": "eûmes flâné",
+      "vous": "eûtes flâné",
+      "ils": "eurent flâné"
+    },
+    "futur_simple": {
+      "je": "flânerai",
+      "tu": "flâneras",
+      "il": "flânera",
+      "nous": "flânerons",
+      "vous": "flânerez",
+      "ils": "flâneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai flâné",
+      "tu": "auras flâné",
+      "il": "aura flâné",
+      "nous": "aurons flâné",
+      "vous": "aurez flâné",
+      "ils": "auront flâné"
+    },
+    "subjonctif_présent": {
+      "je": "flâne",
+      "tu": "flânes",
+      "il": "flâne",
+      "nous": "flânions",
+      "vous": "flâniez",
+      "ils": "flânent"
+    },
+    "subjonctif_passé": {
+      "je": "aie flâné",
+      "tu": "aies flâné",
+      "il": "ait flâné",
+      "nous": "ayons flâné",
+      "vous": "ayez flâné",
+      "ils": "aient flâné"
+    },
+    "subjonctif_imparfait": {
+      "je": "flânasse",
+      "tu": "flânasses",
+      "il": "flânât",
+      "nous": "flânassions",
+      "vous": "flânassiez",
+      "ils": "flânassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse flâné",
+      "tu": "eusses flâné",
+      "il": "eût flâné",
+      "nous": "eussions flâné",
+      "vous": "eussiez flâné",
+      "ils": "eussent flâné"
+    },
+    "conditionnel_présent": {
+      "je": "flânerais",
+      "tu": "flânerais",
+      "il": "flânerait",
+      "nous": "flânerions",
+      "vous": "flâneriez",
+      "ils": "flâneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais flâné",
+      "tu": "aurais flâné",
+      "il": "aurait flâné",
+      "nous": "aurions flâné",
+      "vous": "auriez flâné",
+      "ils": "auraient flâné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse flâné",
+      "tu": "eusses flâné",
+      "il": "eût flâné",
+      "nous": "eussions flâné",
+      "vous": "eussiez flâné",
+      "ils": "eussent flâné"
+    },
+    "translation": "włóczyć",
+    "group": 1
+  },
+  {
+    "infinitive": "flatter",
+    "présent": {
+      "je": "flatte",
+      "tu": "flattes",
+      "il": "flatte",
+      "nous": "flattons",
+      "vous": "flattez",
+      "ils": "flattent"
+    },
+    "passé_composé": {
+      "je": "ai flatté",
+      "tu": "as flatté",
+      "il": "a flatté",
+      "nous": "avons flatté",
+      "vous": "avez flatté",
+      "ils": "ont flatté"
+    },
+    "imparfait": {
+      "je": "flattais",
+      "tu": "flattais",
+      "il": "flattait",
+      "nous": "flattions",
+      "vous": "flattiez",
+      "ils": "flattaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais flatté",
+      "tu": "avais flatté",
+      "il": "avait flatté",
+      "nous": "avions flatté",
+      "vous": "aviez flatté",
+      "ils": "avaient flatté"
+    },
+    "passé_simple": {
+      "je": "flattai",
+      "tu": "flattas",
+      "il": "flatta",
+      "nous": "flattâmes",
+      "vous": "flattâtes",
+      "ils": "flattèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus flatté",
+      "tu": "eus flatté",
+      "il": "eut flatté",
+      "nous": "eûmes flatté",
+      "vous": "eûtes flatté",
+      "ils": "eurent flatté"
+    },
+    "futur_simple": {
+      "je": "flatterai",
+      "tu": "flatteras",
+      "il": "flattera",
+      "nous": "flatterons",
+      "vous": "flatterez",
+      "ils": "flatteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai flatté",
+      "tu": "auras flatté",
+      "il": "aura flatté",
+      "nous": "aurons flatté",
+      "vous": "aurez flatté",
+      "ils": "auront flatté"
+    },
+    "subjonctif_présent": {
+      "je": "flatte",
+      "tu": "flattes",
+      "il": "flatte",
+      "nous": "flattions",
+      "vous": "flattiez",
+      "ils": "flattent"
+    },
+    "subjonctif_passé": {
+      "je": "aie flatté",
+      "tu": "aies flatté",
+      "il": "ait flatté",
+      "nous": "ayons flatté",
+      "vous": "ayez flatté",
+      "ils": "aient flatté"
+    },
+    "subjonctif_imparfait": {
+      "je": "flattasse",
+      "tu": "flattasses",
+      "il": "flattât",
+      "nous": "flattassions",
+      "vous": "flattassiez",
+      "ils": "flattassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse flatté",
+      "tu": "eusses flatté",
+      "il": "eût flatté",
+      "nous": "eussions flatté",
+      "vous": "eussiez flatté",
+      "ils": "eussent flatté"
+    },
+    "conditionnel_présent": {
+      "je": "flatterais",
+      "tu": "flatterais",
+      "il": "flatterait",
+      "nous": "flatterions",
+      "vous": "flatteriez",
+      "ils": "flatteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais flatté",
+      "tu": "aurais flatté",
+      "il": "aurait flatté",
+      "nous": "aurions flatté",
+      "vous": "auriez flatté",
+      "ils": "auraient flatté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse flatté",
+      "tu": "eusses flatté",
+      "il": "eût flatté",
+      "nous": "eussions flatté",
+      "vous": "eussiez flatté",
+      "ils": "eussent flatté"
+    },
+    "translation": "schlebiać",
+    "group": 1
+  },
+  {
+    "infinitive": "fléchir",
+    "présent": {
+      "je": "fléchis",
+      "tu": "fléchis",
+      "il": "fléchit",
+      "nous": "fléchissons",
+      "vous": "fléchissez",
+      "ils": "fléchissent"
+    },
+    "passé_composé": {
+      "je": "ai fléchi",
+      "tu": "as fléchi",
+      "il": "a fléchi",
+      "nous": "avons fléchi",
+      "vous": "avez fléchi",
+      "ils": "ont fléchi"
+    },
+    "imparfait": {
+      "je": "fléchissais",
+      "tu": "fléchissais",
+      "il": "fléchissait",
+      "nous": "fléchissions",
+      "vous": "fléchissiez",
+      "ils": "fléchissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais fléchi",
+      "tu": "avais fléchi",
+      "il": "avait fléchi",
+      "nous": "avions fléchi",
+      "vous": "aviez fléchi",
+      "ils": "avaient fléchi"
+    },
+    "passé_simple": {
+      "je": "fléchis",
+      "tu": "fléchis",
+      "il": "fléchit",
+      "nous": "fléchîmes",
+      "vous": "fléchîtes",
+      "ils": "fléchirent"
+    },
+    "passé_antérieur": {
+      "je": "eus fléchi",
+      "tu": "eus fléchi",
+      "il": "eut fléchi",
+      "nous": "eûmes fléchi",
+      "vous": "eûtes fléchi",
+      "ils": "eurent fléchi"
+    },
+    "futur_simple": {
+      "je": "fléchirai",
+      "tu": "fléchiras",
+      "il": "fléchira",
+      "nous": "fléchirons",
+      "vous": "fléchirez",
+      "ils": "fléchiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai fléchi",
+      "tu": "auras fléchi",
+      "il": "aura fléchi",
+      "nous": "aurons fléchi",
+      "vous": "aurez fléchi",
+      "ils": "auront fléchi"
+    },
+    "subjonctif_présent": {
+      "je": "fléchisse",
+      "tu": "fléchisses",
+      "il": "fléchisse",
+      "nous": "fléchissions",
+      "vous": "fléchissiez",
+      "ils": "fléchissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie fléchi",
+      "tu": "aies fléchi",
+      "il": "ait fléchi",
+      "nous": "ayons fléchi",
+      "vous": "ayez fléchi",
+      "ils": "aient fléchi"
+    },
+    "subjonctif_imparfait": {
+      "je": "fléchisse",
+      "tu": "fléchisses",
+      "il": "fléchît",
+      "nous": "fléchissions",
+      "vous": "fléchissiez",
+      "ils": "fléchissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse fléchi",
+      "tu": "eusses fléchi",
+      "il": "eût fléchi",
+      "nous": "eussions fléchi",
+      "vous": "eussiez fléchi",
+      "ils": "eussent fléchi"
+    },
+    "conditionnel_présent": {
+      "je": "fléchirais",
+      "tu": "fléchirais",
+      "il": "fléchirait",
+      "nous": "fléchirions",
+      "vous": "fléchiriez",
+      "ils": "fléchiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais fléchi",
+      "tu": "aurais fléchi",
+      "il": "aurait fléchi",
+      "nous": "aurions fléchi",
+      "vous": "auriez fléchi",
+      "ils": "auraient fléchi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse fléchi",
+      "tu": "eusses fléchi",
+      "il": "eût fléchi",
+      "nous": "eussions fléchi",
+      "vous": "eussiez fléchi",
+      "ils": "eussent fléchi"
+    },
+    "translation": "zginać",
+    "group": 2
+  },
+  {
+    "infinitive": "fleurir",
+    "présent": {
+      "je": "fleuris",
+      "tu": "fleuris",
+      "il": "fleurit",
+      "nous": "fleurissons",
+      "vous": "fleurissez",
+      "ils": "fleurissent"
+    },
+    "passé_composé": {
+      "je": "ai fleuri",
+      "tu": "as fleuri",
+      "il": "a fleuri",
+      "nous": "avons fleuri",
+      "vous": "avez fleuri",
+      "ils": "ont fleuri"
+    },
+    "imparfait": {
+      "je": "fleurissais",
+      "tu": "fleurissais",
+      "il": "fleurissait",
+      "nous": "fleurissions",
+      "vous": "fleurissiez",
+      "ils": "fleurissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais fleuri",
+      "tu": "avais fleuri",
+      "il": "avait fleuri",
+      "nous": "avions fleuri",
+      "vous": "aviez fleuri",
+      "ils": "avaient fleuri"
+    },
+    "passé_simple": {
+      "je": "fleuris",
+      "tu": "fleuris",
+      "il": "fleurit",
+      "nous": "fleurîmes",
+      "vous": "fleurîtes",
+      "ils": "fleurirent"
+    },
+    "passé_antérieur": {
+      "je": "eus fleuri",
+      "tu": "eus fleuri",
+      "il": "eut fleuri",
+      "nous": "eûmes fleuri",
+      "vous": "eûtes fleuri",
+      "ils": "eurent fleuri"
+    },
+    "futur_simple": {
+      "je": "fleurirai",
+      "tu": "fleuriras",
+      "il": "fleurira",
+      "nous": "fleurirons",
+      "vous": "fleurirez",
+      "ils": "fleuriront"
+    },
+    "futur_antérieur": {
+      "je": "aurai fleuri",
+      "tu": "auras fleuri",
+      "il": "aura fleuri",
+      "nous": "aurons fleuri",
+      "vous": "aurez fleuri",
+      "ils": "auront fleuri"
+    },
+    "subjonctif_présent": {
+      "je": "fleurisse",
+      "tu": "fleurisses",
+      "il": "fleurisse",
+      "nous": "fleurissions",
+      "vous": "fleurissiez",
+      "ils": "fleurissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie fleuri",
+      "tu": "aies fleuri",
+      "il": "ait fleuri",
+      "nous": "ayons fleuri",
+      "vous": "ayez fleuri",
+      "ils": "aient fleuri"
+    },
+    "subjonctif_imparfait": {
+      "je": "fleurisse",
+      "tu": "fleurisses",
+      "il": "fleurît",
+      "nous": "fleurissions",
+      "vous": "fleurissiez",
+      "ils": "fleurissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse fleuri",
+      "tu": "eusses fleuri",
+      "il": "eût fleuri",
+      "nous": "eussions fleuri",
+      "vous": "eussiez fleuri",
+      "ils": "eussent fleuri"
+    },
+    "conditionnel_présent": {
+      "je": "fleurirais",
+      "tu": "fleurirais",
+      "il": "fleurirait",
+      "nous": "fleuririons",
+      "vous": "fleuririez",
+      "ils": "fleuriraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais fleuri",
+      "tu": "aurais fleuri",
+      "il": "aurait fleuri",
+      "nous": "aurions fleuri",
+      "vous": "auriez fleuri",
+      "ils": "auraient fleuri"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse fleuri",
+      "tu": "eusses fleuri",
+      "il": "eût fleuri",
+      "nous": "eussions fleuri",
+      "vous": "eussiez fleuri",
+      "ils": "eussent fleuri"
+    },
+    "translation": "kwitnąć",
+    "group": 2
+  },
+  {
+    "infinitive": "flotter",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "flotte",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "a flotté",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "flottait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "avait flotté",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "flotta",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "eut flotté",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "flottera",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "aura flotté",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "flotte",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "ait flotté",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "flottât",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "eût flotté",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "flotterait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "aurait flotté",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "eût flotté",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "pływać",
+    "group": 1
+  },
+  {
+    "infinitive": "flûter",
+    "présent": {
+      "je": "flûte",
+      "tu": "flûtes",
+      "il": "flûte",
+      "nous": "flûtons",
+      "vous": "flûtez",
+      "ils": "flûtent"
+    },
+    "passé_composé": {
+      "je": "ai flûté",
+      "tu": "as flûté",
+      "il": "a flûté",
+      "nous": "avons flûté",
+      "vous": "avez flûté",
+      "ils": "ont flûté"
+    },
+    "imparfait": {
+      "je": "flûtais",
+      "tu": "flûtais",
+      "il": "flûtait",
+      "nous": "flûtions",
+      "vous": "flûtiez",
+      "ils": "flûtaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais flûté",
+      "tu": "avais flûté",
+      "il": "avait flûté",
+      "nous": "avions flûté",
+      "vous": "aviez flûté",
+      "ils": "avaient flûté"
+    },
+    "passé_simple": {
+      "je": "flûtai",
+      "tu": "flûtas",
+      "il": "flûta",
+      "nous": "flûtâmes",
+      "vous": "flûtâtes",
+      "ils": "flûtèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus flûté",
+      "tu": "eus flûté",
+      "il": "eut flûté",
+      "nous": "eûmes flûté",
+      "vous": "eûtes flûté",
+      "ils": "eurent flûté"
+    },
+    "futur_simple": {
+      "je": "flûterai",
+      "tu": "flûteras",
+      "il": "flûtera",
+      "nous": "flûterons",
+      "vous": "flûterez",
+      "ils": "flûteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai flûté",
+      "tu": "auras flûté",
+      "il": "aura flûté",
+      "nous": "aurons flûté",
+      "vous": "aurez flûté",
+      "ils": "auront flûté"
+    },
+    "subjonctif_présent": {
+      "je": "flûte",
+      "tu": "flûtes",
+      "il": "flûte",
+      "nous": "flûtions",
+      "vous": "flûtiez",
+      "ils": "flûtent"
+    },
+    "subjonctif_passé": {
+      "je": "aie flûté",
+      "tu": "aies flûté",
+      "il": "ait flûté",
+      "nous": "ayons flûté",
+      "vous": "ayez flûté",
+      "ils": "aient flûté"
+    },
+    "subjonctif_imparfait": {
+      "je": "flûtasse",
+      "tu": "flûtasses",
+      "il": "flûtât",
+      "nous": "flûtassions",
+      "vous": "flûtassiez",
+      "ils": "flûtassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse flûté",
+      "tu": "eusses flûté",
+      "il": "eût flûté",
+      "nous": "eussions flûté",
+      "vous": "eussiez flûté",
+      "ils": "eussent flûté"
+    },
+    "conditionnel_présent": {
+      "je": "flûterais",
+      "tu": "flûterais",
+      "il": "flûterait",
+      "nous": "flûterions",
+      "vous": "flûteriez",
+      "ils": "flûteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais flûté",
+      "tu": "aurais flûté",
+      "il": "aurait flûté",
+      "nous": "aurions flûté",
+      "vous": "auriez flûté",
+      "ils": "auraient flûté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse flûté",
+      "tu": "eusses flûté",
+      "il": "eût flûté",
+      "nous": "eussions flûté",
+      "vous": "eussiez flûté",
+      "ils": "eussent flûté"
+    },
+    "translation": "schlebiać",
+    "group": 1
+  },
+  {
+    "infinitive": "foirer",
+    "présent": {
+      "je": "foire",
+      "tu": "foires",
+      "il": "foire",
+      "nous": "foirons",
+      "vous": "foirez",
+      "ils": "foirent"
+    },
+    "passé_composé": {
+      "je": "ai foiré",
+      "tu": "as foiré",
+      "il": "a foiré",
+      "nous": "avons foiré",
+      "vous": "avez foiré",
+      "ils": "ont foiré"
+    },
+    "imparfait": {
+      "je": "foirais",
+      "tu": "foirais",
+      "il": "foirait",
+      "nous": "foirions",
+      "vous": "foiriez",
+      "ils": "foiraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais foiré",
+      "tu": "avais foiré",
+      "il": "avait foiré",
+      "nous": "avions foiré",
+      "vous": "aviez foiré",
+      "ils": "avaient foiré"
+    },
+    "passé_simple": {
+      "je": "foirai",
+      "tu": "foiras",
+      "il": "foira",
+      "nous": "foirâmes",
+      "vous": "foirâtes",
+      "ils": "foirèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus foiré",
+      "tu": "eus foiré",
+      "il": "eut foiré",
+      "nous": "eûmes foiré",
+      "vous": "eûtes foiré",
+      "ils": "eurent foiré"
+    },
+    "futur_simple": {
+      "je": "foirerai",
+      "tu": "foireras",
+      "il": "foirera",
+      "nous": "foirerons",
+      "vous": "foirerez",
+      "ils": "foireront"
+    },
+    "futur_antérieur": {
+      "je": "aurai foiré",
+      "tu": "auras foiré",
+      "il": "aura foiré",
+      "nous": "aurons foiré",
+      "vous": "aurez foiré",
+      "ils": "auront foiré"
+    },
+    "subjonctif_présent": {
+      "je": "foire",
+      "tu": "foires",
+      "il": "foire",
+      "nous": "foirions",
+      "vous": "foiriez",
+      "ils": "foirent"
+    },
+    "subjonctif_passé": {
+      "je": "aie foiré",
+      "tu": "aies foiré",
+      "il": "ait foiré",
+      "nous": "ayons foiré",
+      "vous": "ayez foiré",
+      "ils": "aient foiré"
+    },
+    "subjonctif_imparfait": {
+      "je": "foirasse",
+      "tu": "foirasses",
+      "il": "foirât",
+      "nous": "foirassions",
+      "vous": "foirassiez",
+      "ils": "foirassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse foiré",
+      "tu": "eusses foiré",
+      "il": "eût foiré",
+      "nous": "eussions foiré",
+      "vous": "eussiez foiré",
+      "ils": "eussent foiré"
+    },
+    "conditionnel_présent": {
+      "je": "foirerais",
+      "tu": "foirerais",
+      "il": "foirerait",
+      "nous": "foirerions",
+      "vous": "foireriez",
+      "ils": "foireraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais foiré",
+      "tu": "aurais foiré",
+      "il": "aurait foiré",
+      "nous": "aurions foiré",
+      "vous": "auriez foiré",
+      "ils": "auraient foiré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse foiré",
+      "tu": "eusses foiré",
+      "il": "eût foiré",
+      "nous": "eussions foiré",
+      "vous": "eussiez foiré",
+      "ils": "eussent foiré"
+    },
+    "translation": "nie",
+    "group": 1
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "sembler",
+    "présent": {
+      "je": "semble",
+      "tu": "sembles",
+      "il": "semble",
+      "nous": "semblons",
+      "vous": "semblez",
+      "ils": "semblent"
+    },
+    "passé_composé": {
+      "je": "ai semblé",
+      "tu": "as semblé",
+      "il": "a semblé",
+      "nous": "avons semblé",
+      "vous": "avez semblé",
+      "ils": "ont semblé"
+    },
+    "imparfait": {
+      "je": "semblais",
+      "tu": "semblais",
+      "il": "semblait",
+      "nous": "semblions",
+      "vous": "sembliez",
+      "ils": "semblaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais semblé",
+      "tu": "avais semblé",
+      "il": "avait semblé",
+      "nous": "avions semblé",
+      "vous": "aviez semblé",
+      "ils": "avaient semblé"
+    },
+    "passé_simple": {
+      "je": "semblai",
+      "tu": "semblas",
+      "il": "sembla",
+      "nous": "semblâmes",
+      "vous": "semblâtes",
+      "ils": "semblèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus semblé",
+      "tu": "eus semblé",
+      "il": "eut semblé",
+      "nous": "eûmes semblé",
+      "vous": "eûtes semblé",
+      "ils": "eurent semblé"
+    },
+    "futur_simple": {
+      "je": "semblerai",
+      "tu": "sembleras",
+      "il": "semblera",
+      "nous": "semblerons",
+      "vous": "semblerez",
+      "ils": "sembleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai semblé",
+      "tu": "auras semblé",
+      "il": "aura semblé",
+      "nous": "aurons semblé",
+      "vous": "aurez semblé",
+      "ils": "auront semblé"
+    },
+    "subjonctif_présent": {
+      "je": "semble",
+      "tu": "sembles",
+      "il": "semble",
+      "nous": "semblions",
+      "vous": "sembliez",
+      "ils": "semblent"
+    },
+    "subjonctif_passé": {
+      "je": "aie semblé",
+      "tu": "aies semblé",
+      "il": "ait semblé",
+      "nous": "ayons semblé",
+      "vous": "ayez semblé",
+      "ils": "aient semblé"
+    },
+    "subjonctif_imparfait": {
+      "je": "semblasse",
+      "tu": "semblasses",
+      "il": "semblât",
+      "nous": "semblassions",
+      "vous": "semblassiez",
+      "ils": "semblassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse semblé",
+      "tu": "eusses semblé",
+      "il": "eût semblé",
+      "nous": "eussions semblé",
+      "vous": "eussiez semblé",
+      "ils": "eussent semblé"
+    },
+    "conditionnel_présent": {
+      "je": "semblerais",
+      "tu": "semblerais",
+      "il": "semblerait",
+      "nous": "semblerions",
+      "vous": "sembleriez",
+      "ils": "sembleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais semblé",
+      "tu": "aurais semblé",
+      "il": "aurait semblé",
+      "nous": "aurions semblé",
+      "vous": "auriez semblé",
+      "ils": "auraient semblé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse semblé",
+      "tu": "eusses semblé",
+      "il": "eût semblé",
+      "nous": "eussions semblé",
+      "vous": "eussiez semblé",
+      "ils": "eussent semblé"
+    },
+    "translation": "wydawać",
+    "group": 1
+  },
+  {
+    "infinitive": "semer",
+    "présent": {
+      "je": "sème",
+      "tu": "sèmes",
+      "il": "sème",
+      "nous": "semons",
+      "vous": "semez",
+      "ils": "sèment"
+    },
+    "passé_composé": {
+      "je": "ai semé",
+      "tu": "as semé",
+      "il": "a semé",
+      "nous": "avons semé",
+      "vous": "avez semé",
+      "ils": "ont semé"
+    },
+    "imparfait": {
+      "je": "semais",
+      "tu": "semais",
+      "il": "semait",
+      "nous": "semions",
+      "vous": "semiez",
+      "ils": "semaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais semé",
+      "tu": "avais semé",
+      "il": "avait semé",
+      "nous": "avions semé",
+      "vous": "aviez semé",
+      "ils": "avaient semé"
+    },
+    "passé_simple": {
+      "je": "semai",
+      "tu": "semas",
+      "il": "sema",
+      "nous": "semâmes",
+      "vous": "semâtes",
+      "ils": "semèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus semé",
+      "tu": "eus semé",
+      "il": "eut semé",
+      "nous": "eûmes semé",
+      "vous": "eûtes semé",
+      "ils": "eurent semé"
+    },
+    "futur_simple": {
+      "je": "sèmerai",
+      "tu": "sèmeras",
+      "il": "sèmera",
+      "nous": "sèmerons",
+      "vous": "sèmerez",
+      "ils": "sèmeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai semé",
+      "tu": "auras semé",
+      "il": "aura semé",
+      "nous": "aurons semé",
+      "vous": "aurez semé",
+      "ils": "auront semé"
+    },
+    "subjonctif_présent": {
+      "je": "sème",
+      "tu": "sèmes",
+      "il": "sème",
+      "nous": "semions",
+      "vous": "semiez",
+      "ils": "sèment"
+    },
+    "subjonctif_passé": {
+      "je": "aie semé",
+      "tu": "aies semé",
+      "il": "ait semé",
+      "nous": "ayons semé",
+      "vous": "ayez semé",
+      "ils": "aient semé"
+    },
+    "subjonctif_imparfait": {
+      "je": "semasse",
+      "tu": "semasses",
+      "il": "semât",
+      "nous": "semassions",
+      "vous": "semassiez",
+      "ils": "semassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse semé",
+      "tu": "eusses semé",
+      "il": "eût semé",
+      "nous": "eussions semé",
+      "vous": "eussiez semé",
+      "ils": "eussent semé"
+    },
+    "conditionnel_présent": {
+      "je": "sèmerais",
+      "tu": "sèmerais",
+      "il": "sèmerait",
+      "nous": "sèmerions",
+      "vous": "sèmeriez",
+      "ils": "sèmeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais semé",
+      "tu": "aurais semé",
+      "il": "aurait semé",
+      "nous": "aurions semé",
+      "vous": "auriez semé",
+      "ils": "auraient semé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse semé",
+      "tu": "eusses semé",
+      "il": "eût semé",
+      "nous": "eussions semé",
+      "vous": "eussiez semé",
+      "ils": "eussent semé"
+    },
+    "translation": "siać",
+    "group": 1
+  },
+  {
+    "infinitive": "sentir",
+    "présent": {
+      "je": "sens",
+      "tu": "sens",
+      "il": "sent",
+      "nous": "sentons",
+      "vous": "sentez",
+      "ils": "sentent"
+    },
+    "passé_composé": {
+      "je": "ai senti",
+      "tu": "as senti",
+      "il": "a senti",
+      "nous": "avons senti",
+      "vous": "avez senti",
+      "ils": "ont senti"
+    },
+    "imparfait": {
+      "je": "sentais",
+      "tu": "sentais",
+      "il": "sentait",
+      "nous": "sentions",
+      "vous": "sentiez",
+      "ils": "sentaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais senti",
+      "tu": "avais senti",
+      "il": "avait senti",
+      "nous": "avions senti",
+      "vous": "aviez senti",
+      "ils": "avaient senti"
+    },
+    "passé_simple": {
+      "je": "sentis",
+      "tu": "sentis",
+      "il": "sentit",
+      "nous": "sentîmes",
+      "vous": "sentîtes",
+      "ils": "sentirent"
+    },
+    "passé_antérieur": {
+      "je": "eus senti",
+      "tu": "eus senti",
+      "il": "eut senti",
+      "nous": "eûmes senti",
+      "vous": "eûtes senti",
+      "ils": "eurent senti"
+    },
+    "futur_simple": {
+      "je": "sentirai",
+      "tu": "sentiras",
+      "il": "sentira",
+      "nous": "sentirons",
+      "vous": "sentirez",
+      "ils": "sentiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai senti",
+      "tu": "auras senti",
+      "il": "aura senti",
+      "nous": "aurons senti",
+      "vous": "aurez senti",
+      "ils": "auront senti"
+    },
+    "subjonctif_présent": {
+      "je": "sente",
+      "tu": "sentes",
+      "il": "sente",
+      "nous": "sentions",
+      "vous": "sentiez",
+      "ils": "sentent"
+    },
+    "subjonctif_passé": {
+      "je": "aie senti",
+      "tu": "aies senti",
+      "il": "ait senti",
+      "nous": "ayons senti",
+      "vous": "ayez senti",
+      "ils": "aient senti"
+    },
+    "subjonctif_imparfait": {
+      "je": "sentisse",
+      "tu": "sentisses",
+      "il": "sentît",
+      "nous": "sentissions",
+      "vous": "sentissiez",
+      "ils": "sentissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse senti",
+      "tu": "eusses senti",
+      "il": "eût senti",
+      "nous": "eussions senti",
+      "vous": "eussiez senti",
+      "ils": "eussent senti"
+    },
+    "conditionnel_présent": {
+      "je": "sentirais",
+      "tu": "sentirais",
+      "il": "sentirait",
+      "nous": "sentirions",
+      "vous": "sentiriez",
+      "ils": "sentiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais senti",
+      "tu": "aurais senti",
+      "il": "aurait senti",
+      "nous": "aurions senti",
+      "vous": "auriez senti",
+      "ils": "auraient senti"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse senti",
+      "tu": "eusses senti",
+      "il": "eût senti",
+      "nous": "eussions senti",
+      "vous": "eussiez senti",
+      "ils": "eussent senti"
+    },
+    "translation": "odczuwać",
+    "group": 3
+  },
+  {
+    "infinitive": "seoir",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "sied",
+      "nous": "-",
+      "vous": "-",
+      "ils": "siéent"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "seyait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "seyaient"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "siéra",
+      "nous": "-",
+      "vous": "-",
+      "ils": "siéront"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "siée",
+      "nous": "-",
+      "vous": "-",
+      "ils": "siéent"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "siérait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "siéraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "posadzić",
+    "group": 3
+  },
+  {
+    "infinitive": "séparer",
+    "présent": {
+      "je": "sépare",
+      "tu": "sépares",
+      "il": "sépare",
+      "nous": "séparons",
+      "vous": "séparez",
+      "ils": "séparent"
+    },
+    "passé_composé": {
+      "je": "ai séparé",
+      "tu": "as séparé",
+      "il": "a séparé",
+      "nous": "avons séparé",
+      "vous": "avez séparé",
+      "ils": "ont séparé"
+    },
+    "imparfait": {
+      "je": "séparais",
+      "tu": "séparais",
+      "il": "séparait",
+      "nous": "séparions",
+      "vous": "sépariez",
+      "ils": "séparaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais séparé",
+      "tu": "avais séparé",
+      "il": "avait séparé",
+      "nous": "avions séparé",
+      "vous": "aviez séparé",
+      "ils": "avaient séparé"
+    },
+    "passé_simple": {
+      "je": "séparai",
+      "tu": "séparas",
+      "il": "sépara",
+      "nous": "séparâmes",
+      "vous": "séparâtes",
+      "ils": "séparèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus séparé",
+      "tu": "eus séparé",
+      "il": "eut séparé",
+      "nous": "eûmes séparé",
+      "vous": "eûtes séparé",
+      "ils": "eurent séparé"
+    },
+    "futur_simple": {
+      "je": "séparerai",
+      "tu": "sépareras",
+      "il": "séparera",
+      "nous": "séparerons",
+      "vous": "séparerez",
+      "ils": "sépareront"
+    },
+    "futur_antérieur": {
+      "je": "aurai séparé",
+      "tu": "auras séparé",
+      "il": "aura séparé",
+      "nous": "aurons séparé",
+      "vous": "aurez séparé",
+      "ils": "auront séparé"
+    },
+    "subjonctif_présent": {
+      "je": "sépare",
+      "tu": "sépares",
+      "il": "sépare",
+      "nous": "séparions",
+      "vous": "sépariez",
+      "ils": "séparent"
+    },
+    "subjonctif_passé": {
+      "je": "aie séparé",
+      "tu": "aies séparé",
+      "il": "ait séparé",
+      "nous": "ayons séparé",
+      "vous": "ayez séparé",
+      "ils": "aient séparé"
+    },
+    "subjonctif_imparfait": {
+      "je": "séparasse",
+      "tu": "séparasses",
+      "il": "séparât",
+      "nous": "séparassions",
+      "vous": "séparassiez",
+      "ils": "séparassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse séparé",
+      "tu": "eusses séparé",
+      "il": "eût séparé",
+      "nous": "eussions séparé",
+      "vous": "eussiez séparé",
+      "ils": "eussent séparé"
+    },
+    "conditionnel_présent": {
+      "je": "séparerais",
+      "tu": "séparerais",
+      "il": "séparerait",
+      "nous": "séparerions",
+      "vous": "sépareriez",
+      "ils": "sépareraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais séparé",
+      "tu": "aurais séparé",
+      "il": "aurait séparé",
+      "nous": "aurions séparé",
+      "vous": "auriez séparé",
+      "ils": "auraient séparé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse séparé",
+      "tu": "eusses séparé",
+      "il": "eût séparé",
+      "nous": "eussions séparé",
+      "vous": "eussiez séparé",
+      "ils": "eussent séparé"
+    },
+    "translation": "rozdzielać",
+    "group": 1
+  },
+  {
+    "infinitive": "serrer",
+    "présent": {
+      "je": "serre",
+      "tu": "serres",
+      "il": "serre",
+      "nous": "serrons",
+      "vous": "serrez",
+      "ils": "serrent"
+    },
+    "passé_composé": {
+      "je": "ai serré",
+      "tu": "as serré",
+      "il": "a serré",
+      "nous": "avons serré",
+      "vous": "avez serré",
+      "ils": "ont serré"
+    },
+    "imparfait": {
+      "je": "serrais",
+      "tu": "serrais",
+      "il": "serrait",
+      "nous": "serrions",
+      "vous": "serriez",
+      "ils": "serraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais serré",
+      "tu": "avais serré",
+      "il": "avait serré",
+      "nous": "avions serré",
+      "vous": "aviez serré",
+      "ils": "avaient serré"
+    },
+    "passé_simple": {
+      "je": "serrai",
+      "tu": "serras",
+      "il": "serra",
+      "nous": "serrâmes",
+      "vous": "serrâtes",
+      "ils": "serrèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus serré",
+      "tu": "eus serré",
+      "il": "eut serré",
+      "nous": "eûmes serré",
+      "vous": "eûtes serré",
+      "ils": "eurent serré"
+    },
+    "futur_simple": {
+      "je": "serrerai",
+      "tu": "serreras",
+      "il": "serrera",
+      "nous": "serrerons",
+      "vous": "serrerez",
+      "ils": "serreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai serré",
+      "tu": "auras serré",
+      "il": "aura serré",
+      "nous": "aurons serré",
+      "vous": "aurez serré",
+      "ils": "auront serré"
+    },
+    "subjonctif_présent": {
+      "je": "serre",
+      "tu": "serres",
+      "il": "serre",
+      "nous": "serrions",
+      "vous": "serriez",
+      "ils": "serrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie serré",
+      "tu": "aies serré",
+      "il": "ait serré",
+      "nous": "ayons serré",
+      "vous": "ayez serré",
+      "ils": "aient serré"
+    },
+    "subjonctif_imparfait": {
+      "je": "serrasse",
+      "tu": "serrasses",
+      "il": "serrât",
+      "nous": "serrassions",
+      "vous": "serrassiez",
+      "ils": "serrassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse serré",
+      "tu": "eusses serré",
+      "il": "eût serré",
+      "nous": "eussions serré",
+      "vous": "eussiez serré",
+      "ils": "eussent serré"
+    },
+    "conditionnel_présent": {
+      "je": "serrerais",
+      "tu": "serrerais",
+      "il": "serrerait",
+      "nous": "serrerions",
+      "vous": "serreriez",
+      "ils": "serreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais serré",
+      "tu": "aurais serré",
+      "il": "aurait serré",
+      "nous": "aurions serré",
+      "vous": "auriez serré",
+      "ils": "auraient serré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse serré",
+      "tu": "eusses serré",
+      "il": "eût serré",
+      "nous": "eussions serré",
+      "vous": "eussiez serré",
+      "ils": "eussent serré"
+    },
+    "translation": "ściskać",
+    "group": 1
+  },
+  {
+    "infinitive": "sertir",
+    "présent": {
+      "je": "sertis",
+      "tu": "sertis",
+      "il": "sertit",
+      "nous": "sertissons",
+      "vous": "sertissez",
+      "ils": "sertissent"
+    },
+    "passé_composé": {
+      "je": "ai serti",
+      "tu": "as serti",
+      "il": "a serti",
+      "nous": "avons serti",
+      "vous": "avez serti",
+      "ils": "ont serti"
+    },
+    "imparfait": {
+      "je": "sertissais",
+      "tu": "sertissais",
+      "il": "sertissait",
+      "nous": "sertissions",
+      "vous": "sertissiez",
+      "ils": "sertissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais serti",
+      "tu": "avais serti",
+      "il": "avait serti",
+      "nous": "avions serti",
+      "vous": "aviez serti",
+      "ils": "avaient serti"
+    },
+    "passé_simple": {
+      "je": "sertis",
+      "tu": "sertis",
+      "il": "sertit",
+      "nous": "sertîmes",
+      "vous": "sertîtes",
+      "ils": "sertirent"
+    },
+    "passé_antérieur": {
+      "je": "eus serti",
+      "tu": "eus serti",
+      "il": "eut serti",
+      "nous": "eûmes serti",
+      "vous": "eûtes serti",
+      "ils": "eurent serti"
+    },
+    "futur_simple": {
+      "je": "sertirai",
+      "tu": "sertiras",
+      "il": "sertira",
+      "nous": "sertirons",
+      "vous": "sertirez",
+      "ils": "sertiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai serti",
+      "tu": "auras serti",
+      "il": "aura serti",
+      "nous": "aurons serti",
+      "vous": "aurez serti",
+      "ils": "auront serti"
+    },
+    "subjonctif_présent": {
+      "je": "sertisse",
+      "tu": "sertisses",
+      "il": "sertisse",
+      "nous": "sertissions",
+      "vous": "sertissiez",
+      "ils": "sertissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie serti",
+      "tu": "aies serti",
+      "il": "ait serti",
+      "nous": "ayons serti",
+      "vous": "ayez serti",
+      "ils": "aient serti"
+    },
+    "subjonctif_imparfait": {
+      "je": "sertisse",
+      "tu": "sertisses",
+      "il": "sertît",
+      "nous": "sertissions",
+      "vous": "sertissiez",
+      "ils": "sertissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse serti",
+      "tu": "eusses serti",
+      "il": "eût serti",
+      "nous": "eussions serti",
+      "vous": "eussiez serti",
+      "ils": "eussent serti"
+    },
+    "conditionnel_présent": {
+      "je": "sertirais",
+      "tu": "sertirais",
+      "il": "sertirait",
+      "nous": "sertirions",
+      "vous": "sertiriez",
+      "ils": "sertiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais serti",
+      "tu": "aurais serti",
+      "il": "aurait serti",
+      "nous": "aurions serti",
+      "vous": "auriez serti",
+      "ils": "auraient serti"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse serti",
+      "tu": "eusses serti",
+      "il": "eût serti",
+      "nous": "eussions serti",
+      "vous": "eussiez serti",
+      "ils": "eussent serti"
+    },
+    "translation": "sertir",
+    "group": 2
+  },
+  {
+    "infinitive": "servir",
+    "présent": {
+      "je": "sers",
+      "tu": "sers",
+      "il": "sert",
+      "nous": "servons",
+      "vous": "servez",
+      "ils": "servent"
+    },
+    "passé_composé": {
+      "je": "ai servi",
+      "tu": "as servi",
+      "il": "a servi",
+      "nous": "avons servi",
+      "vous": "avez servi",
+      "ils": "ont servi"
+    },
+    "imparfait": {
+      "je": "servais",
+      "tu": "servais",
+      "il": "servait",
+      "nous": "servions",
+      "vous": "serviez",
+      "ils": "servaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais servi",
+      "tu": "avais servi",
+      "il": "avait servi",
+      "nous": "avions servi",
+      "vous": "aviez servi",
+      "ils": "avaient servi"
+    },
+    "passé_simple": {
+      "je": "servis",
+      "tu": "servis",
+      "il": "servit",
+      "nous": "servîmes",
+      "vous": "servîtes",
+      "ils": "servirent"
+    },
+    "passé_antérieur": {
+      "je": "eus servi",
+      "tu": "eus servi",
+      "il": "eut servi",
+      "nous": "eûmes servi",
+      "vous": "eûtes servi",
+      "ils": "eurent servi"
+    },
+    "futur_simple": {
+      "je": "servirai",
+      "tu": "serviras",
+      "il": "servira",
+      "nous": "servirons",
+      "vous": "servirez",
+      "ils": "serviront"
+    },
+    "futur_antérieur": {
+      "je": "aurai servi",
+      "tu": "auras servi",
+      "il": "aura servi",
+      "nous": "aurons servi",
+      "vous": "aurez servi",
+      "ils": "auront servi"
+    },
+    "subjonctif_présent": {
+      "je": "serve",
+      "tu": "serves",
+      "il": "serve",
+      "nous": "servions",
+      "vous": "serviez",
+      "ils": "servent"
+    },
+    "subjonctif_passé": {
+      "je": "aie servi",
+      "tu": "aies servi",
+      "il": "ait servi",
+      "nous": "ayons servi",
+      "vous": "ayez servi",
+      "ils": "aient servi"
+    },
+    "subjonctif_imparfait": {
+      "je": "servisse",
+      "tu": "servisses",
+      "il": "servît",
+      "nous": "servissions",
+      "vous": "servissiez",
+      "ils": "servissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse servi",
+      "tu": "eusses servi",
+      "il": "eût servi",
+      "nous": "eussions servi",
+      "vous": "eussiez servi",
+      "ils": "eussent servi"
+    },
+    "conditionnel_présent": {
+      "je": "servirais",
+      "tu": "servirais",
+      "il": "servirait",
+      "nous": "servirions",
+      "vous": "serviriez",
+      "ils": "serviraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais servi",
+      "tu": "aurais servi",
+      "il": "aurait servi",
+      "nous": "aurions servi",
+      "vous": "auriez servi",
+      "ils": "auraient servi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse servi",
+      "tu": "eusses servi",
+      "il": "eût servi",
+      "nous": "eussions servi",
+      "vous": "eussiez servi",
+      "ils": "eussent servi"
+    },
+    "translation": "podawać",
+    "group": 3
+  },
+  {
+    "infinitive": "sévir",
+    "présent": {
+      "je": "sévis",
+      "tu": "sévis",
+      "il": "sévit",
+      "nous": "sévissons",
+      "vous": "sévissez",
+      "ils": "sévissent"
+    },
+    "passé_composé": {
+      "je": "ai sévi",
+      "tu": "as sévi",
+      "il": "a sévi",
+      "nous": "avons sévi",
+      "vous": "avez sévi",
+      "ils": "ont sévi"
+    },
+    "imparfait": {
+      "je": "sévissais",
+      "tu": "sévissais",
+      "il": "sévissait",
+      "nous": "sévissions",
+      "vous": "sévissiez",
+      "ils": "sévissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais sévi",
+      "tu": "avais sévi",
+      "il": "avait sévi",
+      "nous": "avions sévi",
+      "vous": "aviez sévi",
+      "ils": "avaient sévi"
+    },
+    "passé_simple": {
+      "je": "sévis",
+      "tu": "sévis",
+      "il": "sévit",
+      "nous": "sévîmes",
+      "vous": "sévîtes",
+      "ils": "sévirent"
+    },
+    "passé_antérieur": {
+      "je": "eus sévi",
+      "tu": "eus sévi",
+      "il": "eut sévi",
+      "nous": "eûmes sévi",
+      "vous": "eûtes sévi",
+      "ils": "eurent sévi"
+    },
+    "futur_simple": {
+      "je": "sévirai",
+      "tu": "séviras",
+      "il": "sévira",
+      "nous": "sévirons",
+      "vous": "sévirez",
+      "ils": "séviront"
+    },
+    "futur_antérieur": {
+      "je": "aurai sévi",
+      "tu": "auras sévi",
+      "il": "aura sévi",
+      "nous": "aurons sévi",
+      "vous": "aurez sévi",
+      "ils": "auront sévi"
+    },
+    "subjonctif_présent": {
+      "je": "sévisse",
+      "tu": "sévisses",
+      "il": "sévisse",
+      "nous": "sévissions",
+      "vous": "sévissiez",
+      "ils": "sévissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie sévi",
+      "tu": "aies sévi",
+      "il": "ait sévi",
+      "nous": "ayons sévi",
+      "vous": "ayez sévi",
+      "ils": "aient sévi"
+    },
+    "subjonctif_imparfait": {
+      "je": "sévisse",
+      "tu": "sévisses",
+      "il": "sévît",
+      "nous": "sévissions",
+      "vous": "sévissiez",
+      "ils": "sévissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse sévi",
+      "tu": "eusses sévi",
+      "il": "eût sévi",
+      "nous": "eussions sévi",
+      "vous": "eussiez sévi",
+      "ils": "eussent sévi"
+    },
+    "conditionnel_présent": {
+      "je": "sévirais",
+      "tu": "sévirais",
+      "il": "sévirait",
+      "nous": "sévirions",
+      "vous": "séviriez",
+      "ils": "séviraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais sévi",
+      "tu": "aurais sévi",
+      "il": "aurait sévi",
+      "nous": "aurions sévi",
+      "vous": "auriez sévi",
+      "ils": "auraient sévi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse sévi",
+      "tu": "eusses sévi",
+      "il": "eût sévi",
+      "nous": "eussions sévi",
+      "vous": "eussiez sévi",
+      "ils": "eussent sévi"
+    },
+    "translation": "sévir",
+    "group": 2
+  },
+  {
+    "infinitive": "sevrer",
+    "présent": {
+      "je": "sèvre",
+      "tu": "sèvres",
+      "il": "sèvre",
+      "nous": "sevrons",
+      "vous": "sevrez",
+      "ils": "sèvrent"
+    },
+    "passé_composé": {
+      "je": "ai sevré",
+      "tu": "as sevré",
+      "il": "a sevré",
+      "nous": "avons sevré",
+      "vous": "avez sevré",
+      "ils": "ont sevré"
+    },
+    "imparfait": {
+      "je": "sevrais",
+      "tu": "sevrais",
+      "il": "sevrait",
+      "nous": "sevrions",
+      "vous": "sevriez",
+      "ils": "sevraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais sevré",
+      "tu": "avais sevré",
+      "il": "avait sevré",
+      "nous": "avions sevré",
+      "vous": "aviez sevré",
+      "ils": "avaient sevré"
+    },
+    "passé_simple": {
+      "je": "sevrai",
+      "tu": "sevras",
+      "il": "sevra",
+      "nous": "sevrâmes",
+      "vous": "sevrâtes",
+      "ils": "sevrèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus sevré",
+      "tu": "eus sevré",
+      "il": "eut sevré",
+      "nous": "eûmes sevré",
+      "vous": "eûtes sevré",
+      "ils": "eurent sevré"
+    },
+    "futur_simple": {
+      "je": "sèvrerai",
+      "tu": "sèvreras",
+      "il": "sèvrera",
+      "nous": "sèvrerons",
+      "vous": "sèvrerez",
+      "ils": "sèvreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai sevré",
+      "tu": "auras sevré",
+      "il": "aura sevré",
+      "nous": "aurons sevré",
+      "vous": "aurez sevré",
+      "ils": "auront sevré"
+    },
+    "subjonctif_présent": {
+      "je": "sèvre",
+      "tu": "sèvres",
+      "il": "sèvre",
+      "nous": "sevrions",
+      "vous": "sevriez",
+      "ils": "sèvrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie sevré",
+      "tu": "aies sevré",
+      "il": "ait sevré",
+      "nous": "ayons sevré",
+      "vous": "ayez sevré",
+      "ils": "aient sevré"
+    },
+    "subjonctif_imparfait": {
+      "je": "sevrasse",
+      "tu": "sevrasses",
+      "il": "sevrât",
+      "nous": "sevrassions",
+      "vous": "sevrassiez",
+      "ils": "sevrassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse sevré",
+      "tu": "eusses sevré",
+      "il": "eût sevré",
+      "nous": "eussions sevré",
+      "vous": "eussiez sevré",
+      "ils": "eussent sevré"
+    },
+    "conditionnel_présent": {
+      "je": "sèvrerais",
+      "tu": "sèvrerais",
+      "il": "sèvrerait",
+      "nous": "sèvrerions",
+      "vous": "sèvreriez",
+      "ils": "sèvreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais sevré",
+      "tu": "aurais sevré",
+      "il": "aurait sevré",
+      "nous": "aurions sevré",
+      "vous": "auriez sevré",
+      "ils": "auraient sevré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse sevré",
+      "tu": "eusses sevré",
+      "il": "eût sevré",
+      "nous": "eussions sevré",
+      "vous": "eussiez sevré",
+      "ils": "eussent sevré"
+    },
+    "translation": "sevrer",
+    "group": 1
+  }
+]

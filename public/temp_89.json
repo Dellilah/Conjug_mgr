@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "étirer",
+    "présent": {
+      "je": "étire",
+      "tu": "étires",
+      "il": "étire",
+      "nous": "étirons",
+      "vous": "étirez",
+      "ils": "étirent"
+    },
+    "passé_composé": {
+      "je": "ai étiré",
+      "tu": "as étiré",
+      "il": "a étiré",
+      "nous": "avons étiré",
+      "vous": "avez étiré",
+      "ils": "ont étiré"
+    },
+    "imparfait": {
+      "je": "étirais",
+      "tu": "étirais",
+      "il": "étirait",
+      "nous": "étirions",
+      "vous": "étiriez",
+      "ils": "étiraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais étiré",
+      "tu": "avais étiré",
+      "il": "avait étiré",
+      "nous": "avions étiré",
+      "vous": "aviez étiré",
+      "ils": "avaient étiré"
+    },
+    "passé_simple": {
+      "je": "étirai",
+      "tu": "étiras",
+      "il": "étira",
+      "nous": "étirâmes",
+      "vous": "étirâtes",
+      "ils": "étirèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus étiré",
+      "tu": "eus étiré",
+      "il": "eut étiré",
+      "nous": "eûmes étiré",
+      "vous": "eûtes étiré",
+      "ils": "eurent étiré"
+    },
+    "futur_simple": {
+      "je": "étirerai",
+      "tu": "étireras",
+      "il": "étirera",
+      "nous": "étirerons",
+      "vous": "étirerez",
+      "ils": "étireront"
+    },
+    "futur_antérieur": {
+      "je": "aurai étiré",
+      "tu": "auras étiré",
+      "il": "aura étiré",
+      "nous": "aurons étiré",
+      "vous": "aurez étiré",
+      "ils": "auront étiré"
+    },
+    "subjonctif_présent": {
+      "je": "étire",
+      "tu": "étires",
+      "il": "étire",
+      "nous": "étirions",
+      "vous": "étiriez",
+      "ils": "étirent"
+    },
+    "subjonctif_passé": {
+      "je": "aie étiré",
+      "tu": "aies étiré",
+      "il": "ait étiré",
+      "nous": "ayons étiré",
+      "vous": "ayez étiré",
+      "ils": "aient étiré"
+    },
+    "subjonctif_imparfait": {
+      "je": "étirasse",
+      "tu": "étirasses",
+      "il": "étirât",
+      "nous": "étirassions",
+      "vous": "étirassiez",
+      "ils": "étirassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse étiré",
+      "tu": "eusses étiré",
+      "il": "eût étiré",
+      "nous": "eussions étiré",
+      "vous": "eussiez étiré",
+      "ils": "eussent étiré"
+    },
+    "conditionnel_présent": {
+      "je": "étirerais",
+      "tu": "étirerais",
+      "il": "étirerait",
+      "nous": "étirerions",
+      "vous": "étireriez",
+      "ils": "étireraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais étiré",
+      "tu": "aurais étiré",
+      "il": "aurait étiré",
+      "nous": "aurions étiré",
+      "vous": "auriez étiré",
+      "ils": "auraient étiré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse étiré",
+      "tu": "eusses étiré",
+      "il": "eût étiré",
+      "nous": "eussions étiré",
+      "vous": "eussiez étiré",
+      "ils": "eussent étiré"
+    },
+    "translation": "rozciągać",
+    "group": 1
+  },
+  {
+    "infinitive": "étoffer",
+    "présent": {
+      "je": "étoffe",
+      "tu": "étoffes",
+      "il": "étoffe",
+      "nous": "étoffons",
+      "vous": "étoffez",
+      "ils": "étoffent"
+    },
+    "passé_composé": {
+      "je": "ai étoffé",
+      "tu": "as étoffé",
+      "il": "a étoffé",
+      "nous": "avons étoffé",
+      "vous": "avez étoffé",
+      "ils": "ont étoffé"
+    },
+    "imparfait": {
+      "je": "étoffais",
+      "tu": "étoffais",
+      "il": "étoffait",
+      "nous": "étoffions",
+      "vous": "étoffiez",
+      "ils": "étoffaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais étoffé",
+      "tu": "avais étoffé",
+      "il": "avait étoffé",
+      "nous": "avions étoffé",
+      "vous": "aviez étoffé",
+      "ils": "avaient étoffé"
+    },
+    "passé_simple": {
+      "je": "étoffai",
+      "tu": "étoffas",
+      "il": "étoffa",
+      "nous": "étoffâmes",
+      "vous": "étoffâtes",
+      "ils": "étoffèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus étoffé",
+      "tu": "eus étoffé",
+      "il": "eut étoffé",
+      "nous": "eûmes étoffé",
+      "vous": "eûtes étoffé",
+      "ils": "eurent étoffé"
+    },
+    "futur_simple": {
+      "je": "étofferai",
+      "tu": "étofferas",
+      "il": "étoffera",
+      "nous": "étofferons",
+      "vous": "étofferez",
+      "ils": "étofferont"
+    },
+    "futur_antérieur": {
+      "je": "aurai étoffé",
+      "tu": "auras étoffé",
+      "il": "aura étoffé",
+      "nous": "aurons étoffé",
+      "vous": "aurez étoffé",
+      "ils": "auront étoffé"
+    },
+    "subjonctif_présent": {
+      "je": "étoffe",
+      "tu": "étoffes",
+      "il": "étoffe",
+      "nous": "étoffions",
+      "vous": "étoffiez",
+      "ils": "étoffent"
+    },
+    "subjonctif_passé": {
+      "je": "aie étoffé",
+      "tu": "aies étoffé",
+      "il": "ait étoffé",
+      "nous": "ayons étoffé",
+      "vous": "ayez étoffé",
+      "ils": "aient étoffé"
+    },
+    "subjonctif_imparfait": {
+      "je": "étoffasse",
+      "tu": "étoffasses",
+      "il": "étoffât",
+      "nous": "étoffassions",
+      "vous": "étoffassiez",
+      "ils": "étoffassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse étoffé",
+      "tu": "eusses étoffé",
+      "il": "eût étoffé",
+      "nous": "eussions étoffé",
+      "vous": "eussiez étoffé",
+      "ils": "eussent étoffé"
+    },
+    "conditionnel_présent": {
+      "je": "étofferais",
+      "tu": "étofferais",
+      "il": "étofferait",
+      "nous": "étofferions",
+      "vous": "étofferiez",
+      "ils": "étofferaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais étoffé",
+      "tu": "aurais étoffé",
+      "il": "aurait étoffé",
+      "nous": "aurions étoffé",
+      "vous": "auriez étoffé",
+      "ils": "auraient étoffé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse étoffé",
+      "tu": "eusses étoffé",
+      "il": "eût étoffé",
+      "nous": "eussions étoffé",
+      "vous": "eussiez étoffé",
+      "ils": "eussent étoffé"
+    },
+    "translation": "dusić",
+    "group": 1
+  },
+  {
+    "infinitive": "étonner",
+    "présent": {
+      "je": "étonne",
+      "tu": "étonnes",
+      "il": "étonne",
+      "nous": "étonnons",
+      "vous": "étonnez",
+      "ils": "étonnent"
+    },
+    "passé_composé": {
+      "je": "ai étonné",
+      "tu": "as étonné",
+      "il": "a étonné",
+      "nous": "avons étonné",
+      "vous": "avez étonné",
+      "ils": "ont étonné"
+    },
+    "imparfait": {
+      "je": "étonnais",
+      "tu": "étonnais",
+      "il": "étonnait",
+      "nous": "étonnions",
+      "vous": "étonniez",
+      "ils": "étonnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais étonné",
+      "tu": "avais étonné",
+      "il": "avait étonné",
+      "nous": "avions étonné",
+      "vous": "aviez étonné",
+      "ils": "avaient étonné"
+    },
+    "passé_simple": {
+      "je": "étonnai",
+      "tu": "étonnas",
+      "il": "étonna",
+      "nous": "étonnâmes",
+      "vous": "étonnâtes",
+      "ils": "étonnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus étonné",
+      "tu": "eus étonné",
+      "il": "eut étonné",
+      "nous": "eûmes étonné",
+      "vous": "eûtes étonné",
+      "ils": "eurent étonné"
+    },
+    "futur_simple": {
+      "je": "étonnerai",
+      "tu": "étonneras",
+      "il": "étonnera",
+      "nous": "étonnerons",
+      "vous": "étonnerez",
+      "ils": "étonneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai étonné",
+      "tu": "auras étonné",
+      "il": "aura étonné",
+      "nous": "aurons étonné",
+      "vous": "aurez étonné",
+      "ils": "auront étonné"
+    },
+    "subjonctif_présent": {
+      "je": "étonne",
+      "tu": "étonnes",
+      "il": "étonne",
+      "nous": "étonnions",
+      "vous": "étonniez",
+      "ils": "étonnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie étonné",
+      "tu": "aies étonné",
+      "il": "ait étonné",
+      "nous": "ayons étonné",
+      "vous": "ayez étonné",
+      "ils": "aient étonné"
+    },
+    "subjonctif_imparfait": {
+      "je": "étonnasse",
+      "tu": "étonnasses",
+      "il": "étonnât",
+      "nous": "étonnassions",
+      "vous": "étonnassiez",
+      "ils": "étonnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse étonné",
+      "tu": "eusses étonné",
+      "il": "eût étonné",
+      "nous": "eussions étonné",
+      "vous": "eussiez étonné",
+      "ils": "eussent étonné"
+    },
+    "conditionnel_présent": {
+      "je": "étonnerais",
+      "tu": "étonnerais",
+      "il": "étonnerait",
+      "nous": "étonnerions",
+      "vous": "étonneriez",
+      "ils": "étonneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais étonné",
+      "tu": "aurais étonné",
+      "il": "aurait étonné",
+      "nous": "aurions étonné",
+      "vous": "auriez étonné",
+      "ils": "auraient étonné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse étonné",
+      "tu": "eusses étonné",
+      "il": "eût étonné",
+      "nous": "eussions étonné",
+      "vous": "eussiez étonné",
+      "ils": "eussent étonné"
+    },
+    "translation": "zadziwać",
+    "group": 1
+  },
+  {
+    "infinitive": "étouffer",
+    "présent": {
+      "je": "étouffe",
+      "tu": "étouffes",
+      "il": "étouffe",
+      "nous": "étouffons",
+      "vous": "étouffez",
+      "ils": "étouffent"
+    },
+    "passé_composé": {
+      "je": "ai étouffé",
+      "tu": "as étouffé",
+      "il": "a étouffé",
+      "nous": "avons étouffé",
+      "vous": "avez étouffé",
+      "ils": "ont étouffé"
+    },
+    "imparfait": {
+      "je": "étouffais",
+      "tu": "étouffais",
+      "il": "étouffait",
+      "nous": "étouffions",
+      "vous": "étouffiez",
+      "ils": "étouffaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais étouffé",
+      "tu": "avais étouffé",
+      "il": "avait étouffé",
+      "nous": "avions étouffé",
+      "vous": "aviez étouffé",
+      "ils": "avaient étouffé"
+    },
+    "passé_simple": {
+      "je": "étouffai",
+      "tu": "étouffas",
+      "il": "étouffa",
+      "nous": "étouffâmes",
+      "vous": "étouffâtes",
+      "ils": "étouffèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus étouffé",
+      "tu": "eus étouffé",
+      "il": "eut étouffé",
+      "nous": "eûmes étouffé",
+      "vous": "eûtes étouffé",
+      "ils": "eurent étouffé"
+    },
+    "futur_simple": {
+      "je": "étoufferai",
+      "tu": "étoufferas",
+      "il": "étouffera",
+      "nous": "étoufferons",
+      "vous": "étoufferez",
+      "ils": "étoufferont"
+    },
+    "futur_antérieur": {
+      "je": "aurai étouffé",
+      "tu": "auras étouffé",
+      "il": "aura étouffé",
+      "nous": "aurons étouffé",
+      "vous": "aurez étouffé",
+      "ils": "auront étouffé"
+    },
+    "subjonctif_présent": {
+      "je": "étouffe",
+      "tu": "étouffes",
+      "il": "étouffe",
+      "nous": "étouffions",
+      "vous": "étouffiez",
+      "ils": "étouffent"
+    },
+    "subjonctif_passé": {
+      "je": "aie étouffé",
+      "tu": "aies étouffé",
+      "il": "ait étouffé",
+      "nous": "ayons étouffé",
+      "vous": "ayez étouffé",
+      "ils": "aient étouffé"
+    },
+    "subjonctif_imparfait": {
+      "je": "étouffasse",
+      "tu": "étouffasses",
+      "il": "étouffât",
+      "nous": "étouffassions",
+      "vous": "étouffassiez",
+      "ils": "étouffassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse étouffé",
+      "tu": "eusses étouffé",
+      "il": "eût étouffé",
+      "nous": "eussions étouffé",
+      "vous": "eussiez étouffé",
+      "ils": "eussent étouffé"
+    },
+    "conditionnel_présent": {
+      "je": "étoufferais",
+      "tu": "étoufferais",
+      "il": "étoufferait",
+      "nous": "étoufferions",
+      "vous": "étoufferiez",
+      "ils": "étoufferaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais étouffé",
+      "tu": "aurais étouffé",
+      "il": "aurait étouffé",
+      "nous": "aurions étouffé",
+      "vous": "auriez étouffé",
+      "ils": "auraient étouffé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse étouffé",
+      "tu": "eusses étouffé",
+      "il": "eût étouffé",
+      "nous": "eussions étouffé",
+      "vous": "eussiez étouffé",
+      "ils": "eussent étouffé"
+    },
+    "translation": "dusić",
+    "group": 1
+  },
+  {
+    "infinitive": "étourdir",
+    "présent": {
+      "je": "étourdis",
+      "tu": "étourdis",
+      "il": "étourdit",
+      "nous": "étourdissons",
+      "vous": "étourdissez",
+      "ils": "étourdissent"
+    },
+    "passé_composé": {
+      "je": "ai étourdi",
+      "tu": "as étourdi",
+      "il": "a étourdi",
+      "nous": "avons étourdi",
+      "vous": "avez étourdi",
+      "ils": "ont étourdi"
+    },
+    "imparfait": {
+      "je": "étourdissais",
+      "tu": "étourdissais",
+      "il": "étourdissait",
+      "nous": "étourdissions",
+      "vous": "étourdissiez",
+      "ils": "étourdissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais étourdi",
+      "tu": "avais étourdi",
+      "il": "avait étourdi",
+      "nous": "avions étourdi",
+      "vous": "aviez étourdi",
+      "ils": "avaient étourdi"
+    },
+    "passé_simple": {
+      "je": "étourdis",
+      "tu": "étourdis",
+      "il": "étourdit",
+      "nous": "étourdîmes",
+      "vous": "étourdîtes",
+      "ils": "étourdirent"
+    },
+    "passé_antérieur": {
+      "je": "eus étourdi",
+      "tu": "eus étourdi",
+      "il": "eut étourdi",
+      "nous": "eûmes étourdi",
+      "vous": "eûtes étourdi",
+      "ils": "eurent étourdi"
+    },
+    "futur_simple": {
+      "je": "étourdirai",
+      "tu": "étourdiras",
+      "il": "étourdira",
+      "nous": "étourdirons",
+      "vous": "étourdirez",
+      "ils": "étourdiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai étourdi",
+      "tu": "auras étourdi",
+      "il": "aura étourdi",
+      "nous": "aurons étourdi",
+      "vous": "aurez étourdi",
+      "ils": "auront étourdi"
+    },
+    "subjonctif_présent": {
+      "je": "étourdisse",
+      "tu": "étourdisses",
+      "il": "étourdisse",
+      "nous": "étourdissions",
+      "vous": "étourdissiez",
+      "ils": "étourdissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie étourdi",
+      "tu": "aies étourdi",
+      "il": "ait étourdi",
+      "nous": "ayons étourdi",
+      "vous": "ayez étourdi",
+      "ils": "aient étourdi"
+    },
+    "subjonctif_imparfait": {
+      "je": "étourdisse",
+      "tu": "étourdisses",
+      "il": "étourdît",
+      "nous": "étourdissions",
+      "vous": "étourdissiez",
+      "ils": "étourdissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse étourdi",
+      "tu": "eusses étourdi",
+      "il": "eût étourdi",
+      "nous": "eussions étourdi",
+      "vous": "eussiez étourdi",
+      "ils": "eussent étourdi"
+    },
+    "conditionnel_présent": {
+      "je": "étourdirais",
+      "tu": "étourdirais",
+      "il": "étourdirait",
+      "nous": "étourdirions",
+      "vous": "étourdiriez",
+      "ils": "étourdiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais étourdi",
+      "tu": "aurais étourdi",
+      "il": "aurait étourdi",
+      "nous": "aurions étourdi",
+      "vous": "auriez étourdi",
+      "ils": "auraient étourdi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse étourdi",
+      "tu": "eusses étourdi",
+      "il": "eût étourdi",
+      "nous": "eussions étourdi",
+      "vous": "eussiez étourdi",
+      "ils": "eussent étourdi"
+    },
+    "translation": "ogłuszać",
+    "group": 2
+  },
+  {
+    "infinitive": "être",
+    "présent": {
+      "je": "suis",
+      "tu": "es",
+      "il": "est",
+      "nous": "sommes",
+      "vous": "êtes",
+      "ils": "sont"
+    },
+    "passé_composé": {
+      "je": "ai été",
+      "tu": "as été",
+      "il": "a été",
+      "nous": "avons été",
+      "vous": "avez été",
+      "ils": "ont été"
+    },
+    "imparfait": {
+      "je": "étais",
+      "tu": "étais",
+      "il": "était",
+      "nous": "étions",
+      "vous": "étiez",
+      "ils": "étaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais été",
+      "tu": "avais été",
+      "il": "avait été",
+      "nous": "avions été",
+      "vous": "aviez été",
+      "ils": "avaient été"
+    },
+    "passé_simple": {
+      "je": "fus",
+      "tu": "fus",
+      "il": "fut",
+      "nous": "fûmes",
+      "vous": "fûtes",
+      "ils": "furent"
+    },
+    "passé_antérieur": {
+      "je": "eus été",
+      "tu": "eus été",
+      "il": "eut été",
+      "nous": "eûmes été",
+      "vous": "eûtes été",
+      "ils": "eurent été"
+    },
+    "futur_simple": {
+      "je": "serai",
+      "tu": "seras",
+      "il": "sera",
+      "nous": "serons",
+      "vous": "serez",
+      "ils": "seront"
+    },
+    "futur_antérieur": {
+      "je": "aurai été",
+      "tu": "auras été",
+      "il": "aura été",
+      "nous": "aurons été",
+      "vous": "aurez été",
+      "ils": "auront été"
+    },
+    "subjonctif_présent": {
+      "je": "sois",
+      "tu": "sois",
+      "il": "soit",
+      "nous": "soyons",
+      "vous": "soyez",
+      "ils": "soient"
+    },
+    "subjonctif_passé": {
+      "je": "aie été",
+      "tu": "aies été",
+      "il": "ait été",
+      "nous": "ayons été",
+      "vous": "ayez été",
+      "ils": "aient été"
+    },
+    "subjonctif_imparfait": {
+      "je": "fusse",
+      "tu": "fusses",
+      "il": "fût",
+      "nous": "fussions",
+      "vous": "fussiez",
+      "ils": "fussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse été",
+      "tu": "eusses été",
+      "il": "eût été",
+      "nous": "eussions été",
+      "vous": "eussiez été",
+      "ils": "eussent été"
+    },
+    "conditionnel_présent": {
+      "je": "serais",
+      "tu": "serais",
+      "il": "serait",
+      "nous": "serions",
+      "vous": "seriez",
+      "ils": "seraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais été",
+      "tu": "aurais été",
+      "il": "aurait été",
+      "nous": "aurions été",
+      "vous": "auriez été",
+      "ils": "auraient été"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse été",
+      "tu": "eusses été",
+      "il": "eût été",
+      "nous": "eussions été",
+      "vous": "eussiez été",
+      "ils": "eussent été"
+    },
+    "translation": "być",
+    "group": 3
+  },
+  {
+    "infinitive": "étrécir",
+    "présent": {
+      "je": "étrécis",
+      "tu": "étrécis",
+      "il": "étrécit",
+      "nous": "étrécissons",
+      "vous": "étrécissez",
+      "ils": "étrécissent"
+    },
+    "passé_composé": {
+      "je": "ai étréci",
+      "tu": "as étréci",
+      "il": "a étréci",
+      "nous": "avons étréci",
+      "vous": "avez étréci",
+      "ils": "ont étréci"
+    },
+    "imparfait": {
+      "je": "étrécissais",
+      "tu": "étrécissais",
+      "il": "étrécissait",
+      "nous": "étrécissions",
+      "vous": "étrécissiez",
+      "ils": "étrécissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais étréci",
+      "tu": "avais étréci",
+      "il": "avait étréci",
+      "nous": "avions étréci",
+      "vous": "aviez étréci",
+      "ils": "avaient étréci"
+    },
+    "passé_simple": {
+      "je": "étrécis",
+      "tu": "étrécis",
+      "il": "étrécit",
+      "nous": "étrécîmes",
+      "vous": "étrécîtes",
+      "ils": "étrécirent"
+    },
+    "passé_antérieur": {
+      "je": "eus étréci",
+      "tu": "eus étréci",
+      "il": "eut étréci",
+      "nous": "eûmes étréci",
+      "vous": "eûtes étréci",
+      "ils": "eurent étréci"
+    },
+    "futur_simple": {
+      "je": "étrécirai",
+      "tu": "étréciras",
+      "il": "étrécira",
+      "nous": "étrécirons",
+      "vous": "étrécirez",
+      "ils": "étréciront"
+    },
+    "futur_antérieur": {
+      "je": "aurai étréci",
+      "tu": "auras étréci",
+      "il": "aura étréci",
+      "nous": "aurons étréci",
+      "vous": "aurez étréci",
+      "ils": "auront étréci"
+    },
+    "subjonctif_présent": {
+      "je": "étrécisse",
+      "tu": "étrécisses",
+      "il": "étrécisse",
+      "nous": "étrécissions",
+      "vous": "étrécissiez",
+      "ils": "étrécissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie étréci",
+      "tu": "aies étréci",
+      "il": "ait étréci",
+      "nous": "ayons étréci",
+      "vous": "ayez étréci",
+      "ils": "aient étréci"
+    },
+    "subjonctif_imparfait": {
+      "je": "étrécisse",
+      "tu": "étrécisses",
+      "il": "étrécît",
+      "nous": "étrécissions",
+      "vous": "étrécissiez",
+      "ils": "étrécissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse étréci",
+      "tu": "eusses étréci",
+      "il": "eût étréci",
+      "nous": "eussions étréci",
+      "vous": "eussiez étréci",
+      "ils": "eussent étréci"
+    },
+    "conditionnel_présent": {
+      "je": "étrécirais",
+      "tu": "étrécirais",
+      "il": "étrécirait",
+      "nous": "étrécirions",
+      "vous": "étréciriez",
+      "ils": "étréciraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais étréci",
+      "tu": "aurais étréci",
+      "il": "aurait étréci",
+      "nous": "aurions étréci",
+      "vous": "auriez étréci",
+      "ils": "auraient étréci"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse étréci",
+      "tu": "eusses étréci",
+      "il": "eût étréci",
+      "nous": "eussions étréci",
+      "vous": "eussiez étréci",
+      "ils": "eussent étréci"
+    },
+    "translation": "zwężać",
+    "group": 2
+  },
+  {
+    "infinitive": "étreindre",
+    "présent": {
+      "je": "étreins",
+      "tu": "étreins",
+      "il": "étreint",
+      "nous": "étreignons",
+      "vous": "étreignez",
+      "ils": "étreignent"
+    },
+    "passé_composé": {
+      "je": "ai étreint",
+      "tu": "as étreint",
+      "il": "a étreint",
+      "nous": "avons étreint",
+      "vous": "avez étreint",
+      "ils": "ont étreint"
+    },
+    "imparfait": {
+      "je": "étreignais",
+      "tu": "étreignais",
+      "il": "étreignait",
+      "nous": "étreignions",
+      "vous": "étreigniez",
+      "ils": "étreignaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais étreint",
+      "tu": "avais étreint",
+      "il": "avait étreint",
+      "nous": "avions étreint",
+      "vous": "aviez étreint",
+      "ils": "avaient étreint"
+    },
+    "passé_simple": {
+      "je": "étreignis",
+      "tu": "étreignis",
+      "il": "étreignit",
+      "nous": "étreignîmes",
+      "vous": "étreignîtes",
+      "ils": "étreignirent"
+    },
+    "passé_antérieur": {
+      "je": "eus étreint",
+      "tu": "eus étreint",
+      "il": "eut étreint",
+      "nous": "eûmes étreint",
+      "vous": "eûtes étreint",
+      "ils": "eurent étreint"
+    },
+    "futur_simple": {
+      "je": "étreindrai",
+      "tu": "étreindras",
+      "il": "étreindra",
+      "nous": "étreindrons",
+      "vous": "étreindrez",
+      "ils": "étreindront"
+    },
+    "futur_antérieur": {
+      "je": "aurai étreint",
+      "tu": "auras étreint",
+      "il": "aura étreint",
+      "nous": "aurons étreint",
+      "vous": "aurez étreint",
+      "ils": "auront étreint"
+    },
+    "subjonctif_présent": {
+      "je": "étreigne",
+      "tu": "étreignes",
+      "il": "étreigne",
+      "nous": "étreignions",
+      "vous": "étreigniez",
+      "ils": "étreignent"
+    },
+    "subjonctif_passé": {
+      "je": "aie étreint",
+      "tu": "aies étreint",
+      "il": "ait étreint",
+      "nous": "ayons étreint",
+      "vous": "ayez étreint",
+      "ils": "aient étreint"
+    },
+    "subjonctif_imparfait": {
+      "je": "étreignisse",
+      "tu": "étreignisses",
+      "il": "étreignît",
+      "nous": "étreignissions",
+      "vous": "étreignissiez",
+      "ils": "étreignissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse étreint",
+      "tu": "eusses étreint",
+      "il": "eût étreint",
+      "nous": "eussions étreint",
+      "vous": "eussiez étreint",
+      "ils": "eussent étreint"
+    },
+    "conditionnel_présent": {
+      "je": "étreindrais",
+      "tu": "étreindrais",
+      "il": "étreindrait",
+      "nous": "étreindrions",
+      "vous": "étreindriez",
+      "ils": "étreindraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais étreint",
+      "tu": "aurais étreint",
+      "il": "aurait étreint",
+      "nous": "aurions étreint",
+      "vous": "auriez étreint",
+      "ils": "auraient étreint"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse étreint",
+      "tu": "eusses étreint",
+      "il": "eût étreint",
+      "nous": "eussions étreint",
+      "vous": "eussiez étreint",
+      "ils": "eussent étreint"
+    },
+    "translation": "étreindre",
+    "group": 3
+  },
+  {
+    "infinitive": "étrenner",
+    "présent": {
+      "je": "étrenne",
+      "tu": "étrennes",
+      "il": "étrenne",
+      "nous": "étrennons",
+      "vous": "étrennez",
+      "ils": "étrennent"
+    },
+    "passé_composé": {
+      "je": "ai étrenné",
+      "tu": "as étrenné",
+      "il": "a étrenné",
+      "nous": "avons étrenné",
+      "vous": "avez étrenné",
+      "ils": "ont étrenné"
+    },
+    "imparfait": {
+      "je": "étrennais",
+      "tu": "étrennais",
+      "il": "étrennait",
+      "nous": "étrennions",
+      "vous": "étrenniez",
+      "ils": "étrennaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais étrenné",
+      "tu": "avais étrenné",
+      "il": "avait étrenné",
+      "nous": "avions étrenné",
+      "vous": "aviez étrenné",
+      "ils": "avaient étrenné"
+    },
+    "passé_simple": {
+      "je": "étrennai",
+      "tu": "étrennas",
+      "il": "étrenna",
+      "nous": "étrennâmes",
+      "vous": "étrennâtes",
+      "ils": "étrennèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus étrenné",
+      "tu": "eus étrenné",
+      "il": "eut étrenné",
+      "nous": "eûmes étrenné",
+      "vous": "eûtes étrenné",
+      "ils": "eurent étrenné"
+    },
+    "futur_simple": {
+      "je": "étrennerai",
+      "tu": "étrenneras",
+      "il": "étrennera",
+      "nous": "étrennerons",
+      "vous": "étrennerez",
+      "ils": "étrenneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai étrenné",
+      "tu": "auras étrenné",
+      "il": "aura étrenné",
+      "nous": "aurons étrenné",
+      "vous": "aurez étrenné",
+      "ils": "auront étrenné"
+    },
+    "subjonctif_présent": {
+      "je": "étrenne",
+      "tu": "étrennes",
+      "il": "étrenne",
+      "nous": "étrennions",
+      "vous": "étrenniez",
+      "ils": "étrennent"
+    },
+    "subjonctif_passé": {
+      "je": "aie étrenné",
+      "tu": "aies étrenné",
+      "il": "ait étrenné",
+      "nous": "ayons étrenné",
+      "vous": "ayez étrenné",
+      "ils": "aient étrenné"
+    },
+    "subjonctif_imparfait": {
+      "je": "étrennasse",
+      "tu": "étrennasses",
+      "il": "étrennât",
+      "nous": "étrennassions",
+      "vous": "étrennassiez",
+      "ils": "étrennassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse étrenné",
+      "tu": "eusses étrenné",
+      "il": "eût étrenné",
+      "nous": "eussions étrenné",
+      "vous": "eussiez étrenné",
+      "ils": "eussent étrenné"
+    },
+    "conditionnel_présent": {
+      "je": "étrennerais",
+      "tu": "étrennerais",
+      "il": "étrennerait",
+      "nous": "étrennerions",
+      "vous": "étrenneriez",
+      "ils": "étrenneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais étrenné",
+      "tu": "aurais étrenné",
+      "il": "aurait étrenné",
+      "nous": "aurions étrenné",
+      "vous": "auriez étrenné",
+      "ils": "auraient étrenné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse étrenné",
+      "tu": "eusses étrenné",
+      "il": "eût étrenné",
+      "nous": "eussions étrenné",
+      "vous": "eussiez étrenné",
+      "ils": "eussent étrenné"
+    },
+    "translation": "uruchamiać",
+    "group": 1
+  },
+  {
+    "infinitive": "étudier",
+    "présent": {
+      "je": "étudie",
+      "tu": "étudies",
+      "il": "étudie",
+      "nous": "étudions",
+      "vous": "étudiez",
+      "ils": "étudient"
+    },
+    "passé_composé": {
+      "je": "ai étudié",
+      "tu": "as étudié",
+      "il": "a étudié",
+      "nous": "avons étudié",
+      "vous": "avez étudié",
+      "ils": "ont étudié"
+    },
+    "imparfait": {
+      "je": "étudiais",
+      "tu": "étudiais",
+      "il": "étudiait",
+      "nous": "étudiions",
+      "vous": "étudiiez",
+      "ils": "étudiaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais étudié",
+      "tu": "avais étudié",
+      "il": "avait étudié",
+      "nous": "avions étudié",
+      "vous": "aviez étudié",
+      "ils": "avaient étudié"
+    },
+    "passé_simple": {
+      "je": "étudiai",
+      "tu": "étudias",
+      "il": "étudia",
+      "nous": "étudiâmes",
+      "vous": "étudiâtes",
+      "ils": "étudièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus étudié",
+      "tu": "eus étudié",
+      "il": "eut étudié",
+      "nous": "eûmes étudié",
+      "vous": "eûtes étudié",
+      "ils": "eurent étudié"
+    },
+    "futur_simple": {
+      "je": "étudierai",
+      "tu": "étudieras",
+      "il": "étudiera",
+      "nous": "étudierons",
+      "vous": "étudierez",
+      "ils": "étudieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai étudié",
+      "tu": "auras étudié",
+      "il": "aura étudié",
+      "nous": "aurons étudié",
+      "vous": "aurez étudié",
+      "ils": "auront étudié"
+    },
+    "subjonctif_présent": {
+      "je": "étudie",
+      "tu": "étudies",
+      "il": "étudie",
+      "nous": "étudiions",
+      "vous": "étudiiez",
+      "ils": "étudient"
+    },
+    "subjonctif_passé": {
+      "je": "aie étudié",
+      "tu": "aies étudié",
+      "il": "ait étudié",
+      "nous": "ayons étudié",
+      "vous": "ayez étudié",
+      "ils": "aient étudié"
+    },
+    "subjonctif_imparfait": {
+      "je": "étudiasse",
+      "tu": "étudiasses",
+      "il": "étudiât",
+      "nous": "étudiassions",
+      "vous": "étudiassiez",
+      "ils": "étudiassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse étudié",
+      "tu": "eusses étudié",
+      "il": "eût étudié",
+      "nous": "eussions étudié",
+      "vous": "eussiez étudié",
+      "ils": "eussent étudié"
+    },
+    "conditionnel_présent": {
+      "je": "étudierais",
+      "tu": "étudierais",
+      "il": "étudierait",
+      "nous": "étudierions",
+      "vous": "étudieriez",
+      "ils": "étudieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais étudié",
+      "tu": "aurais étudié",
+      "il": "aurait étudié",
+      "nous": "aurions étudié",
+      "vous": "auriez étudié",
+      "ils": "auraient étudié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse étudié",
+      "tu": "eusses étudié",
+      "il": "eût étudié",
+      "nous": "eussions étudié",
+      "vous": "eussiez étudié",
+      "ils": "eussent étudié"
+    },
+    "translation": "uczyć",
+    "group": 1
+  }
+]

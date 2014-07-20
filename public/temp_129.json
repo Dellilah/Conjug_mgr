@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "négliger",
+    "présent": {
+      "je": "néglige",
+      "tu": "négliges",
+      "il": "néglige",
+      "nous": "négligeons",
+      "vous": "négligez",
+      "ils": "négligent"
+    },
+    "passé_composé": {
+      "je": "ai négligé",
+      "tu": "as négligé",
+      "il": "a négligé",
+      "nous": "avons négligé",
+      "vous": "avez négligé",
+      "ils": "ont négligé"
+    },
+    "imparfait": {
+      "je": "négligeais",
+      "tu": "négligeais",
+      "il": "négligeait",
+      "nous": "négligions",
+      "vous": "négligiez",
+      "ils": "négligeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais négligé",
+      "tu": "avais négligé",
+      "il": "avait négligé",
+      "nous": "avions négligé",
+      "vous": "aviez négligé",
+      "ils": "avaient négligé"
+    },
+    "passé_simple": {
+      "je": "négligeai",
+      "tu": "négligeas",
+      "il": "négligea",
+      "nous": "négligeâmes",
+      "vous": "négligeâtes",
+      "ils": "négligèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus négligé",
+      "tu": "eus négligé",
+      "il": "eut négligé",
+      "nous": "eûmes négligé",
+      "vous": "eûtes négligé",
+      "ils": "eurent négligé"
+    },
+    "futur_simple": {
+      "je": "négligerai",
+      "tu": "négligeras",
+      "il": "négligera",
+      "nous": "négligerons",
+      "vous": "négligerez",
+      "ils": "négligeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai négligé",
+      "tu": "auras négligé",
+      "il": "aura négligé",
+      "nous": "aurons négligé",
+      "vous": "aurez négligé",
+      "ils": "auront négligé"
+    },
+    "subjonctif_présent": {
+      "je": "néglige",
+      "tu": "négliges",
+      "il": "néglige",
+      "nous": "négligions",
+      "vous": "négligiez",
+      "ils": "négligent"
+    },
+    "subjonctif_passé": {
+      "je": "aie négligé",
+      "tu": "aies négligé",
+      "il": "ait négligé",
+      "nous": "ayons négligé",
+      "vous": "ayez négligé",
+      "ils": "aient négligé"
+    },
+    "subjonctif_imparfait": {
+      "je": "négligeasse",
+      "tu": "négligeasses",
+      "il": "négligeât",
+      "nous": "négligeassions",
+      "vous": "négligeassiez",
+      "ils": "négligeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse négligé",
+      "tu": "eusses négligé",
+      "il": "eût négligé",
+      "nous": "eussions négligé",
+      "vous": "eussiez négligé",
+      "ils": "eussent négligé"
+    },
+    "conditionnel_présent": {
+      "je": "négligerais",
+      "tu": "négligerais",
+      "il": "négligerait",
+      "nous": "négligerions",
+      "vous": "négligeriez",
+      "ils": "négligeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais négligé",
+      "tu": "aurais négligé",
+      "il": "aurait négligé",
+      "nous": "aurions négligé",
+      "vous": "auriez négligé",
+      "ils": "auraient négligé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse négligé",
+      "tu": "eusses négligé",
+      "il": "eût négligé",
+      "nous": "eussions négligé",
+      "vous": "eussiez négligé",
+      "ils": "eussent négligé"
+    },
+    "translation": "zaniedbywać",
+    "group": 1
+  },
+  {
+    "infinitive": "négocier",
+    "présent": {
+      "je": "négocie",
+      "tu": "négocies",
+      "il": "négocie",
+      "nous": "négocions",
+      "vous": "négociez",
+      "ils": "négocient"
+    },
+    "passé_composé": {
+      "je": "ai négocié",
+      "tu": "as négocié",
+      "il": "a négocié",
+      "nous": "avons négocié",
+      "vous": "avez négocié",
+      "ils": "ont négocié"
+    },
+    "imparfait": {
+      "je": "négociais",
+      "tu": "négociais",
+      "il": "négociait",
+      "nous": "négociions",
+      "vous": "négociiez",
+      "ils": "négociaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais négocié",
+      "tu": "avais négocié",
+      "il": "avait négocié",
+      "nous": "avions négocié",
+      "vous": "aviez négocié",
+      "ils": "avaient négocié"
+    },
+    "passé_simple": {
+      "je": "négociai",
+      "tu": "négocias",
+      "il": "négocia",
+      "nous": "négociâmes",
+      "vous": "négociâtes",
+      "ils": "négocièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus négocié",
+      "tu": "eus négocié",
+      "il": "eut négocié",
+      "nous": "eûmes négocié",
+      "vous": "eûtes négocié",
+      "ils": "eurent négocié"
+    },
+    "futur_simple": {
+      "je": "négocierai",
+      "tu": "négocieras",
+      "il": "négociera",
+      "nous": "négocierons",
+      "vous": "négocierez",
+      "ils": "négocieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai négocié",
+      "tu": "auras négocié",
+      "il": "aura négocié",
+      "nous": "aurons négocié",
+      "vous": "aurez négocié",
+      "ils": "auront négocié"
+    },
+    "subjonctif_présent": {
+      "je": "négocie",
+      "tu": "négocies",
+      "il": "négocie",
+      "nous": "négociions",
+      "vous": "négociiez",
+      "ils": "négocient"
+    },
+    "subjonctif_passé": {
+      "je": "aie négocié",
+      "tu": "aies négocié",
+      "il": "ait négocié",
+      "nous": "ayons négocié",
+      "vous": "ayez négocié",
+      "ils": "aient négocié"
+    },
+    "subjonctif_imparfait": {
+      "je": "négociasse",
+      "tu": "négociasses",
+      "il": "négociât",
+      "nous": "négociassions",
+      "vous": "négociassiez",
+      "ils": "négociassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse négocié",
+      "tu": "eusses négocié",
+      "il": "eût négocié",
+      "nous": "eussions négocié",
+      "vous": "eussiez négocié",
+      "ils": "eussent négocié"
+    },
+    "conditionnel_présent": {
+      "je": "négocierais",
+      "tu": "négocierais",
+      "il": "négocierait",
+      "nous": "négocierions",
+      "vous": "négocieriez",
+      "ils": "négocieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais négocié",
+      "tu": "aurais négocié",
+      "il": "aurait négocié",
+      "nous": "aurions négocié",
+      "vous": "auriez négocié",
+      "ils": "auraient négocié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse négocié",
+      "tu": "eusses négocié",
+      "il": "eût négocié",
+      "nous": "eussions négocié",
+      "vous": "eussiez négocié",
+      "ils": "eussent négocié"
+    },
+    "translation": "prowadzić",
+    "group": 1
+  },
+  {
+    "infinitive": "neiger",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "neige",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "a neigé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "neigeait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "avait neigé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "neigea",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "eut neigé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "neigera",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "aura neigé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "neige",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "ait neigé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "neigeât",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "eût neigé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "neigerait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "aurait neigé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "eût neigé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "pada",
+    "group": 1
+  },
+  {
+    "infinitive": "nettoyer",
+    "présent": {
+      "je": "nettoie",
+      "tu": "nettoies",
+      "il": "nettoie",
+      "nous": "nettoyons",
+      "vous": "nettoyez",
+      "ils": "nettoient"
+    },
+    "passé_composé": {
+      "je": "ai nettoyé",
+      "tu": "as nettoyé",
+      "il": "a nettoyé",
+      "nous": "avons nettoyé",
+      "vous": "avez nettoyé",
+      "ils": "ont nettoyé"
+    },
+    "imparfait": {
+      "je": "nettoyais",
+      "tu": "nettoyais",
+      "il": "nettoyait",
+      "nous": "nettoyions",
+      "vous": "nettoyiez",
+      "ils": "nettoyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais nettoyé",
+      "tu": "avais nettoyé",
+      "il": "avait nettoyé",
+      "nous": "avions nettoyé",
+      "vous": "aviez nettoyé",
+      "ils": "avaient nettoyé"
+    },
+    "passé_simple": {
+      "je": "nettoyai",
+      "tu": "nettoyas",
+      "il": "nettoya",
+      "nous": "nettoyâmes",
+      "vous": "nettoyâtes",
+      "ils": "nettoyèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus nettoyé",
+      "tu": "eus nettoyé",
+      "il": "eut nettoyé",
+      "nous": "eûmes nettoyé",
+      "vous": "eûtes nettoyé",
+      "ils": "eurent nettoyé"
+    },
+    "futur_simple": {
+      "je": "nettoierai",
+      "tu": "nettoieras",
+      "il": "nettoiera",
+      "nous": "nettoierons",
+      "vous": "nettoierez",
+      "ils": "nettoieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai nettoyé",
+      "tu": "auras nettoyé",
+      "il": "aura nettoyé",
+      "nous": "aurons nettoyé",
+      "vous": "aurez nettoyé",
+      "ils": "auront nettoyé"
+    },
+    "subjonctif_présent": {
+      "je": "nettoie",
+      "tu": "nettoies",
+      "il": "nettoie",
+      "nous": "nettoyions",
+      "vous": "nettoyiez",
+      "ils": "nettoient"
+    },
+    "subjonctif_passé": {
+      "je": "aie nettoyé",
+      "tu": "aies nettoyé",
+      "il": "ait nettoyé",
+      "nous": "ayons nettoyé",
+      "vous": "ayez nettoyé",
+      "ils": "aient nettoyé"
+    },
+    "subjonctif_imparfait": {
+      "je": "nettoyasse",
+      "tu": "nettoyasses",
+      "il": "nettoyât",
+      "nous": "nettoyassions",
+      "vous": "nettoyassiez",
+      "ils": "nettoyassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse nettoyé",
+      "tu": "eusses nettoyé",
+      "il": "eût nettoyé",
+      "nous": "eussions nettoyé",
+      "vous": "eussiez nettoyé",
+      "ils": "eussent nettoyé"
+    },
+    "conditionnel_présent": {
+      "je": "nettoierais",
+      "tu": "nettoierais",
+      "il": "nettoierait",
+      "nous": "nettoierions",
+      "vous": "nettoieriez",
+      "ils": "nettoieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais nettoyé",
+      "tu": "aurais nettoyé",
+      "il": "aurait nettoyé",
+      "nous": "aurions nettoyé",
+      "vous": "auriez nettoyé",
+      "ils": "auraient nettoyé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse nettoyé",
+      "tu": "eusses nettoyé",
+      "il": "eût nettoyé",
+      "nous": "eussions nettoyé",
+      "vous": "eussiez nettoyé",
+      "ils": "eussent nettoyé"
+    },
+    "translation": "czyścić",
+    "group": 1
+  },
+  {
+    "infinitive": "nier",
+    "présent": {
+      "je": "nie",
+      "tu": "nies",
+      "il": "nie",
+      "nous": "nions",
+      "vous": "niez",
+      "ils": "nient"
+    },
+    "passé_composé": {
+      "je": "ai nié",
+      "tu": "as nié",
+      "il": "a nié",
+      "nous": "avons nié",
+      "vous": "avez nié",
+      "ils": "ont nié"
+    },
+    "imparfait": {
+      "je": "niais",
+      "tu": "niais",
+      "il": "niait",
+      "nous": "niions",
+      "vous": "niiez",
+      "ils": "niaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais nié",
+      "tu": "avais nié",
+      "il": "avait nié",
+      "nous": "avions nié",
+      "vous": "aviez nié",
+      "ils": "avaient nié"
+    },
+    "passé_simple": {
+      "je": "niai",
+      "tu": "nias",
+      "il": "nia",
+      "nous": "niâmes",
+      "vous": "niâtes",
+      "ils": "nièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus nié",
+      "tu": "eus nié",
+      "il": "eut nié",
+      "nous": "eûmes nié",
+      "vous": "eûtes nié",
+      "ils": "eurent nié"
+    },
+    "futur_simple": {
+      "je": "nierai",
+      "tu": "nieras",
+      "il": "niera",
+      "nous": "nierons",
+      "vous": "nierez",
+      "ils": "nieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai nié",
+      "tu": "auras nié",
+      "il": "aura nié",
+      "nous": "aurons nié",
+      "vous": "aurez nié",
+      "ils": "auront nié"
+    },
+    "subjonctif_présent": {
+      "je": "nie",
+      "tu": "nies",
+      "il": "nie",
+      "nous": "niions",
+      "vous": "niiez",
+      "ils": "nient"
+    },
+    "subjonctif_passé": {
+      "je": "aie nié",
+      "tu": "aies nié",
+      "il": "ait nié",
+      "nous": "ayons nié",
+      "vous": "ayez nié",
+      "ils": "aient nié"
+    },
+    "subjonctif_imparfait": {
+      "je": "niasse",
+      "tu": "niasses",
+      "il": "niât",
+      "nous": "niassions",
+      "vous": "niassiez",
+      "ils": "niassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse nié",
+      "tu": "eusses nié",
+      "il": "eût nié",
+      "nous": "eussions nié",
+      "vous": "eussiez nié",
+      "ils": "eussent nié"
+    },
+    "conditionnel_présent": {
+      "je": "nierais",
+      "tu": "nierais",
+      "il": "nierait",
+      "nous": "nierions",
+      "vous": "nieriez",
+      "ils": "nieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais nié",
+      "tu": "aurais nié",
+      "il": "aurait nié",
+      "nous": "aurions nié",
+      "vous": "auriez nié",
+      "ils": "auraient nié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse nié",
+      "tu": "eusses nié",
+      "il": "eût nié",
+      "nous": "eussions nié",
+      "vous": "eussiez nié",
+      "ils": "eussent nié"
+    },
+    "translation": "zaprzeczać",
+    "group": 1
+  },
+  {
+    "infinitive": "niveler",
+    "présent": {
+      "je": "nivelle",
+      "tu": "nivelles",
+      "il": "nivelle",
+      "nous": "nivelons",
+      "vous": "nivelez",
+      "ils": "nivellent"
+    },
+    "passé_composé": {
+      "je": "ai nivelé",
+      "tu": "as nivelé",
+      "il": "a nivelé",
+      "nous": "avons nivelé",
+      "vous": "avez nivelé",
+      "ils": "ont nivelé"
+    },
+    "imparfait": {
+      "je": "nivelais",
+      "tu": "nivelais",
+      "il": "nivelait",
+      "nous": "nivelions",
+      "vous": "niveliez",
+      "ils": "nivelaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais nivelé",
+      "tu": "avais nivelé",
+      "il": "avait nivelé",
+      "nous": "avions nivelé",
+      "vous": "aviez nivelé",
+      "ils": "avaient nivelé"
+    },
+    "passé_simple": {
+      "je": "nivelai",
+      "tu": "nivelas",
+      "il": "nivela",
+      "nous": "nivelâmes",
+      "vous": "nivelâtes",
+      "ils": "nivelèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus nivelé",
+      "tu": "eus nivelé",
+      "il": "eut nivelé",
+      "nous": "eûmes nivelé",
+      "vous": "eûtes nivelé",
+      "ils": "eurent nivelé"
+    },
+    "futur_simple": {
+      "je": "nivellerai",
+      "tu": "nivelleras",
+      "il": "nivellera",
+      "nous": "nivellerons",
+      "vous": "nivellerez",
+      "ils": "nivelleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai nivelé",
+      "tu": "auras nivelé",
+      "il": "aura nivelé",
+      "nous": "aurons nivelé",
+      "vous": "aurez nivelé",
+      "ils": "auront nivelé"
+    },
+    "subjonctif_présent": {
+      "je": "nivelle",
+      "tu": "nivelles",
+      "il": "nivelle",
+      "nous": "nivelions",
+      "vous": "niveliez",
+      "ils": "nivellent"
+    },
+    "subjonctif_passé": {
+      "je": "aie nivelé",
+      "tu": "aies nivelé",
+      "il": "ait nivelé",
+      "nous": "ayons nivelé",
+      "vous": "ayez nivelé",
+      "ils": "aient nivelé"
+    },
+    "subjonctif_imparfait": {
+      "je": "nivelasse",
+      "tu": "nivelasses",
+      "il": "nivelât",
+      "nous": "nivelassions",
+      "vous": "nivelassiez",
+      "ils": "nivelassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse nivelé",
+      "tu": "eusses nivelé",
+      "il": "eût nivelé",
+      "nous": "eussions nivelé",
+      "vous": "eussiez nivelé",
+      "ils": "eussent nivelé"
+    },
+    "conditionnel_présent": {
+      "je": "nivellerais",
+      "tu": "nivellerais",
+      "il": "nivellerait",
+      "nous": "nivellerions",
+      "vous": "nivelleriez",
+      "ils": "nivelleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais nivelé",
+      "tu": "aurais nivelé",
+      "il": "aurait nivelé",
+      "nous": "aurions nivelé",
+      "vous": "auriez nivelé",
+      "ils": "auraient nivelé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse nivelé",
+      "tu": "eusses nivelé",
+      "il": "eût nivelé",
+      "nous": "eussions nivelé",
+      "vous": "eussiez nivelé",
+      "ils": "eussent nivelé"
+    },
+    "translation": "niwelować",
+    "group": 1
+  },
+  {
+    "infinitive": "noircir",
+    "présent": {
+      "je": "noircis",
+      "tu": "noircis",
+      "il": "noircit",
+      "nous": "noircissons",
+      "vous": "noircissez",
+      "ils": "noircissent"
+    },
+    "passé_composé": {
+      "je": "ai noirci",
+      "tu": "as noirci",
+      "il": "a noirci",
+      "nous": "avons noirci",
+      "vous": "avez noirci",
+      "ils": "ont noirci"
+    },
+    "imparfait": {
+      "je": "noircissais",
+      "tu": "noircissais",
+      "il": "noircissait",
+      "nous": "noircissions",
+      "vous": "noircissiez",
+      "ils": "noircissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais noirci",
+      "tu": "avais noirci",
+      "il": "avait noirci",
+      "nous": "avions noirci",
+      "vous": "aviez noirci",
+      "ils": "avaient noirci"
+    },
+    "passé_simple": {
+      "je": "noircis",
+      "tu": "noircis",
+      "il": "noircit",
+      "nous": "noircîmes",
+      "vous": "noircîtes",
+      "ils": "noircirent"
+    },
+    "passé_antérieur": {
+      "je": "eus noirci",
+      "tu": "eus noirci",
+      "il": "eut noirci",
+      "nous": "eûmes noirci",
+      "vous": "eûtes noirci",
+      "ils": "eurent noirci"
+    },
+    "futur_simple": {
+      "je": "noircirai",
+      "tu": "noirciras",
+      "il": "noircira",
+      "nous": "noircirons",
+      "vous": "noircirez",
+      "ils": "noirciront"
+    },
+    "futur_antérieur": {
+      "je": "aurai noirci",
+      "tu": "auras noirci",
+      "il": "aura noirci",
+      "nous": "aurons noirci",
+      "vous": "aurez noirci",
+      "ils": "auront noirci"
+    },
+    "subjonctif_présent": {
+      "je": "noircisse",
+      "tu": "noircisses",
+      "il": "noircisse",
+      "nous": "noircissions",
+      "vous": "noircissiez",
+      "ils": "noircissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie noirci",
+      "tu": "aies noirci",
+      "il": "ait noirci",
+      "nous": "ayons noirci",
+      "vous": "ayez noirci",
+      "ils": "aient noirci"
+    },
+    "subjonctif_imparfait": {
+      "je": "noircisse",
+      "tu": "noircisses",
+      "il": "noircît",
+      "nous": "noircissions",
+      "vous": "noircissiez",
+      "ils": "noircissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse noirci",
+      "tu": "eusses noirci",
+      "il": "eût noirci",
+      "nous": "eussions noirci",
+      "vous": "eussiez noirci",
+      "ils": "eussent noirci"
+    },
+    "conditionnel_présent": {
+      "je": "noircirais",
+      "tu": "noircirais",
+      "il": "noircirait",
+      "nous": "noircirions",
+      "vous": "noirciriez",
+      "ils": "noirciraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais noirci",
+      "tu": "aurais noirci",
+      "il": "aurait noirci",
+      "nous": "aurions noirci",
+      "vous": "auriez noirci",
+      "ils": "auraient noirci"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse noirci",
+      "tu": "eusses noirci",
+      "il": "eût noirci",
+      "nous": "eussions noirci",
+      "vous": "eussiez noirci",
+      "ils": "eussent noirci"
+    },
+    "translation": "pobrudzić",
+    "group": 2
+  },
+  {
+    "infinitive": "nominer",
+    "présent": {
+      "je": "nomine",
+      "tu": "nomines",
+      "il": "nomine",
+      "nous": "nominons",
+      "vous": "nominez",
+      "ils": "nominent"
+    },
+    "passé_composé": {
+      "je": "ai nominé",
+      "tu": "as nominé",
+      "il": "a nominé",
+      "nous": "avons nominé",
+      "vous": "avez nominé",
+      "ils": "ont nominé"
+    },
+    "imparfait": {
+      "je": "nominais",
+      "tu": "nominais",
+      "il": "nominait",
+      "nous": "nominions",
+      "vous": "nominiez",
+      "ils": "nominaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais nominé",
+      "tu": "avais nominé",
+      "il": "avait nominé",
+      "nous": "avions nominé",
+      "vous": "aviez nominé",
+      "ils": "avaient nominé"
+    },
+    "passé_simple": {
+      "je": "nominai",
+      "tu": "nominas",
+      "il": "nomina",
+      "nous": "nominâmes",
+      "vous": "nominâtes",
+      "ils": "nominèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus nominé",
+      "tu": "eus nominé",
+      "il": "eut nominé",
+      "nous": "eûmes nominé",
+      "vous": "eûtes nominé",
+      "ils": "eurent nominé"
+    },
+    "futur_simple": {
+      "je": "nominerai",
+      "tu": "nomineras",
+      "il": "nominera",
+      "nous": "nominerons",
+      "vous": "nominerez",
+      "ils": "nomineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai nominé",
+      "tu": "auras nominé",
+      "il": "aura nominé",
+      "nous": "aurons nominé",
+      "vous": "aurez nominé",
+      "ils": "auront nominé"
+    },
+    "subjonctif_présent": {
+      "je": "nomine",
+      "tu": "nomines",
+      "il": "nomine",
+      "nous": "nominions",
+      "vous": "nominiez",
+      "ils": "nominent"
+    },
+    "subjonctif_passé": {
+      "je": "aie nominé",
+      "tu": "aies nominé",
+      "il": "ait nominé",
+      "nous": "ayons nominé",
+      "vous": "ayez nominé",
+      "ils": "aient nominé"
+    },
+    "subjonctif_imparfait": {
+      "je": "nominasse",
+      "tu": "nominasses",
+      "il": "nominât",
+      "nous": "nominassions",
+      "vous": "nominassiez",
+      "ils": "nominassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse nominé",
+      "tu": "eusses nominé",
+      "il": "eût nominé",
+      "nous": "eussions nominé",
+      "vous": "eussiez nominé",
+      "ils": "eussent nominé"
+    },
+    "conditionnel_présent": {
+      "je": "nominerais",
+      "tu": "nominerais",
+      "il": "nominerait",
+      "nous": "nominerions",
+      "vous": "nomineriez",
+      "ils": "nomineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais nominé",
+      "tu": "aurais nominé",
+      "il": "aurait nominé",
+      "nous": "aurions nominé",
+      "vous": "auriez nominé",
+      "ils": "auraient nominé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse nominé",
+      "tu": "eusses nominé",
+      "il": "eût nominé",
+      "nous": "eussions nominé",
+      "vous": "eussiez nominé",
+      "ils": "eussent nominé"
+    },
+    "translation": "panować",
+    "group": 1
+  },
+  {
+    "infinitive": "nommer",
+    "présent": {
+      "je": "nomme",
+      "tu": "nommes",
+      "il": "nomme",
+      "nous": "nommons",
+      "vous": "nommez",
+      "ils": "nomment"
+    },
+    "passé_composé": {
+      "je": "ai nommé",
+      "tu": "as nommé",
+      "il": "a nommé",
+      "nous": "avons nommé",
+      "vous": "avez nommé",
+      "ils": "ont nommé"
+    },
+    "imparfait": {
+      "je": "nommais",
+      "tu": "nommais",
+      "il": "nommait",
+      "nous": "nommions",
+      "vous": "nommiez",
+      "ils": "nommaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais nommé",
+      "tu": "avais nommé",
+      "il": "avait nommé",
+      "nous": "avions nommé",
+      "vous": "aviez nommé",
+      "ils": "avaient nommé"
+    },
+    "passé_simple": {
+      "je": "nommai",
+      "tu": "nommas",
+      "il": "nomma",
+      "nous": "nommâmes",
+      "vous": "nommâtes",
+      "ils": "nommèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus nommé",
+      "tu": "eus nommé",
+      "il": "eut nommé",
+      "nous": "eûmes nommé",
+      "vous": "eûtes nommé",
+      "ils": "eurent nommé"
+    },
+    "futur_simple": {
+      "je": "nommerai",
+      "tu": "nommeras",
+      "il": "nommera",
+      "nous": "nommerons",
+      "vous": "nommerez",
+      "ils": "nommeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai nommé",
+      "tu": "auras nommé",
+      "il": "aura nommé",
+      "nous": "aurons nommé",
+      "vous": "aurez nommé",
+      "ils": "auront nommé"
+    },
+    "subjonctif_présent": {
+      "je": "nomme",
+      "tu": "nommes",
+      "il": "nomme",
+      "nous": "nommions",
+      "vous": "nommiez",
+      "ils": "nomment"
+    },
+    "subjonctif_passé": {
+      "je": "aie nommé",
+      "tu": "aies nommé",
+      "il": "ait nommé",
+      "nous": "ayons nommé",
+      "vous": "ayez nommé",
+      "ils": "aient nommé"
+    },
+    "subjonctif_imparfait": {
+      "je": "nommasse",
+      "tu": "nommasses",
+      "il": "nommât",
+      "nous": "nommassions",
+      "vous": "nommassiez",
+      "ils": "nommassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse nommé",
+      "tu": "eusses nommé",
+      "il": "eût nommé",
+      "nous": "eussions nommé",
+      "vous": "eussiez nommé",
+      "ils": "eussent nommé"
+    },
+    "conditionnel_présent": {
+      "je": "nommerais",
+      "tu": "nommerais",
+      "il": "nommerait",
+      "nous": "nommerions",
+      "vous": "nommeriez",
+      "ils": "nommeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais nommé",
+      "tu": "aurais nommé",
+      "il": "aurait nommé",
+      "nous": "aurions nommé",
+      "vous": "auriez nommé",
+      "ils": "auraient nommé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse nommé",
+      "tu": "eusses nommé",
+      "il": "eût nommé",
+      "nous": "eussions nommé",
+      "vous": "eussiez nommé",
+      "ils": "eussent nommé"
+    },
+    "translation": "nazywać",
+    "group": 1
+  },
+  {
+    "infinitive": "noter",
+    "présent": {
+      "je": "note",
+      "tu": "notes",
+      "il": "note",
+      "nous": "notons",
+      "vous": "notez",
+      "ils": "notent"
+    },
+    "passé_composé": {
+      "je": "ai noté",
+      "tu": "as noté",
+      "il": "a noté",
+      "nous": "avons noté",
+      "vous": "avez noté",
+      "ils": "ont noté"
+    },
+    "imparfait": {
+      "je": "notais",
+      "tu": "notais",
+      "il": "notait",
+      "nous": "notions",
+      "vous": "notiez",
+      "ils": "notaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais noté",
+      "tu": "avais noté",
+      "il": "avait noté",
+      "nous": "avions noté",
+      "vous": "aviez noté",
+      "ils": "avaient noté"
+    },
+    "passé_simple": {
+      "je": "notai",
+      "tu": "notas",
+      "il": "nota",
+      "nous": "notâmes",
+      "vous": "notâtes",
+      "ils": "notèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus noté",
+      "tu": "eus noté",
+      "il": "eut noté",
+      "nous": "eûmes noté",
+      "vous": "eûtes noté",
+      "ils": "eurent noté"
+    },
+    "futur_simple": {
+      "je": "noterai",
+      "tu": "noteras",
+      "il": "notera",
+      "nous": "noterons",
+      "vous": "noterez",
+      "ils": "noteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai noté",
+      "tu": "auras noté",
+      "il": "aura noté",
+      "nous": "aurons noté",
+      "vous": "aurez noté",
+      "ils": "auront noté"
+    },
+    "subjonctif_présent": {
+      "je": "note",
+      "tu": "notes",
+      "il": "note",
+      "nous": "notions",
+      "vous": "notiez",
+      "ils": "notent"
+    },
+    "subjonctif_passé": {
+      "je": "aie noté",
+      "tu": "aies noté",
+      "il": "ait noté",
+      "nous": "ayons noté",
+      "vous": "ayez noté",
+      "ils": "aient noté"
+    },
+    "subjonctif_imparfait": {
+      "je": "notasse",
+      "tu": "notasses",
+      "il": "notât",
+      "nous": "notassions",
+      "vous": "notassiez",
+      "ils": "notassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse noté",
+      "tu": "eusses noté",
+      "il": "eût noté",
+      "nous": "eussions noté",
+      "vous": "eussiez noté",
+      "ils": "eussent noté"
+    },
+    "conditionnel_présent": {
+      "je": "noterais",
+      "tu": "noterais",
+      "il": "noterait",
+      "nous": "noterions",
+      "vous": "noteriez",
+      "ils": "noteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais noté",
+      "tu": "aurais noté",
+      "il": "aurait noté",
+      "nous": "aurions noté",
+      "vous": "auriez noté",
+      "ils": "auraient noté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse noté",
+      "tu": "eusses noté",
+      "il": "eût noté",
+      "nous": "eussions noté",
+      "vous": "eussiez noté",
+      "ils": "eussent noté"
+    },
+    "translation": "zapisywać",
+    "group": 1
+  }
+]

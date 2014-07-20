@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "exercer",
+    "présent": {
+      "je": "exerce",
+      "tu": "exerces",
+      "il": "exerce",
+      "nous": "exerçons",
+      "vous": "exercez",
+      "ils": "exercent"
+    },
+    "passé_composé": {
+      "je": "ai exercé",
+      "tu": "as exercé",
+      "il": "a exercé",
+      "nous": "avons exercé",
+      "vous": "avez exercé",
+      "ils": "ont exercé"
+    },
+    "imparfait": {
+      "je": "exerçais",
+      "tu": "exerçais",
+      "il": "exerçait",
+      "nous": "exercions",
+      "vous": "exerciez",
+      "ils": "exerçaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais exercé",
+      "tu": "avais exercé",
+      "il": "avait exercé",
+      "nous": "avions exercé",
+      "vous": "aviez exercé",
+      "ils": "avaient exercé"
+    },
+    "passé_simple": {
+      "je": "exerçai",
+      "tu": "exerças",
+      "il": "exerça",
+      "nous": "exerçâmes",
+      "vous": "exerçâtes",
+      "ils": "exercèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus exercé",
+      "tu": "eus exercé",
+      "il": "eut exercé",
+      "nous": "eûmes exercé",
+      "vous": "eûtes exercé",
+      "ils": "eurent exercé"
+    },
+    "futur_simple": {
+      "je": "exercerai",
+      "tu": "exerceras",
+      "il": "exercera",
+      "nous": "exercerons",
+      "vous": "exercerez",
+      "ils": "exerceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai exercé",
+      "tu": "auras exercé",
+      "il": "aura exercé",
+      "nous": "aurons exercé",
+      "vous": "aurez exercé",
+      "ils": "auront exercé"
+    },
+    "subjonctif_présent": {
+      "je": "exerce",
+      "tu": "exerces",
+      "il": "exerce",
+      "nous": "exercions",
+      "vous": "exerciez",
+      "ils": "exercent"
+    },
+    "subjonctif_passé": {
+      "je": "aie exercé",
+      "tu": "aies exercé",
+      "il": "ait exercé",
+      "nous": "ayons exercé",
+      "vous": "ayez exercé",
+      "ils": "aient exercé"
+    },
+    "subjonctif_imparfait": {
+      "je": "exerçasse",
+      "tu": "exerçasses",
+      "il": "exerçât",
+      "nous": "exerçassions",
+      "vous": "exerçassiez",
+      "ils": "exerçassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse exercé",
+      "tu": "eusses exercé",
+      "il": "eût exercé",
+      "nous": "eussions exercé",
+      "vous": "eussiez exercé",
+      "ils": "eussent exercé"
+    },
+    "conditionnel_présent": {
+      "je": "exercerais",
+      "tu": "exercerais",
+      "il": "exercerait",
+      "nous": "exercerions",
+      "vous": "exerceriez",
+      "ils": "exerceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais exercé",
+      "tu": "aurais exercé",
+      "il": "aurait exercé",
+      "nous": "aurions exercé",
+      "vous": "auriez exercé",
+      "ils": "auraient exercé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse exercé",
+      "tu": "eusses exercé",
+      "il": "eût exercé",
+      "nous": "eussions exercé",
+      "vous": "eussiez exercé",
+      "ils": "eussent exercé"
+    },
+    "translation": "wykonywać",
+    "group": 1
+  },
+  {
+    "infinitive": "exiger",
+    "présent": {
+      "je": "exige",
+      "tu": "exiges",
+      "il": "exige",
+      "nous": "exigeons",
+      "vous": "exigez",
+      "ils": "exigent"
+    },
+    "passé_composé": {
+      "je": "ai exigé",
+      "tu": "as exigé",
+      "il": "a exigé",
+      "nous": "avons exigé",
+      "vous": "avez exigé",
+      "ils": "ont exigé"
+    },
+    "imparfait": {
+      "je": "exigeais",
+      "tu": "exigeais",
+      "il": "exigeait",
+      "nous": "exigions",
+      "vous": "exigiez",
+      "ils": "exigeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais exigé",
+      "tu": "avais exigé",
+      "il": "avait exigé",
+      "nous": "avions exigé",
+      "vous": "aviez exigé",
+      "ils": "avaient exigé"
+    },
+    "passé_simple": {
+      "je": "exigeai",
+      "tu": "exigeas",
+      "il": "exigea",
+      "nous": "exigeâmes",
+      "vous": "exigeâtes",
+      "ils": "exigèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus exigé",
+      "tu": "eus exigé",
+      "il": "eut exigé",
+      "nous": "eûmes exigé",
+      "vous": "eûtes exigé",
+      "ils": "eurent exigé"
+    },
+    "futur_simple": {
+      "je": "exigerai",
+      "tu": "exigeras",
+      "il": "exigera",
+      "nous": "exigerons",
+      "vous": "exigerez",
+      "ils": "exigeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai exigé",
+      "tu": "auras exigé",
+      "il": "aura exigé",
+      "nous": "aurons exigé",
+      "vous": "aurez exigé",
+      "ils": "auront exigé"
+    },
+    "subjonctif_présent": {
+      "je": "exige",
+      "tu": "exiges",
+      "il": "exige",
+      "nous": "exigions",
+      "vous": "exigiez",
+      "ils": "exigent"
+    },
+    "subjonctif_passé": {
+      "je": "aie exigé",
+      "tu": "aies exigé",
+      "il": "ait exigé",
+      "nous": "ayons exigé",
+      "vous": "ayez exigé",
+      "ils": "aient exigé"
+    },
+    "subjonctif_imparfait": {
+      "je": "exigeasse",
+      "tu": "exigeasses",
+      "il": "exigeât",
+      "nous": "exigeassions",
+      "vous": "exigeassiez",
+      "ils": "exigeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse exigé",
+      "tu": "eusses exigé",
+      "il": "eût exigé",
+      "nous": "eussions exigé",
+      "vous": "eussiez exigé",
+      "ils": "eussent exigé"
+    },
+    "conditionnel_présent": {
+      "je": "exigerais",
+      "tu": "exigerais",
+      "il": "exigerait",
+      "nous": "exigerions",
+      "vous": "exigeriez",
+      "ils": "exigeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais exigé",
+      "tu": "aurais exigé",
+      "il": "aurait exigé",
+      "nous": "aurions exigé",
+      "vous": "auriez exigé",
+      "ils": "auraient exigé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse exigé",
+      "tu": "eusses exigé",
+      "il": "eût exigé",
+      "nous": "eussions exigé",
+      "vous": "eussiez exigé",
+      "ils": "eussent exigé"
+    },
+    "translation": "wymagać",
+    "group": 1
+  },
+  {
+    "infinitive": "exister",
+    "présent": {
+      "je": "existe",
+      "tu": "existes",
+      "il": "existe",
+      "nous": "existons",
+      "vous": "existez",
+      "ils": "existent"
+    },
+    "passé_composé": {
+      "je": "ai existé",
+      "tu": "as existé",
+      "il": "a existé",
+      "nous": "avons existé",
+      "vous": "avez existé",
+      "ils": "ont existé"
+    },
+    "imparfait": {
+      "je": "existais",
+      "tu": "existais",
+      "il": "existait",
+      "nous": "existions",
+      "vous": "existiez",
+      "ils": "existaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais existé",
+      "tu": "avais existé",
+      "il": "avait existé",
+      "nous": "avions existé",
+      "vous": "aviez existé",
+      "ils": "avaient existé"
+    },
+    "passé_simple": {
+      "je": "existai",
+      "tu": "existas",
+      "il": "exista",
+      "nous": "existâmes",
+      "vous": "existâtes",
+      "ils": "existèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus existé",
+      "tu": "eus existé",
+      "il": "eut existé",
+      "nous": "eûmes existé",
+      "vous": "eûtes existé",
+      "ils": "eurent existé"
+    },
+    "futur_simple": {
+      "je": "existerai",
+      "tu": "existeras",
+      "il": "existera",
+      "nous": "existerons",
+      "vous": "existerez",
+      "ils": "existeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai existé",
+      "tu": "auras existé",
+      "il": "aura existé",
+      "nous": "aurons existé",
+      "vous": "aurez existé",
+      "ils": "auront existé"
+    },
+    "subjonctif_présent": {
+      "je": "existe",
+      "tu": "existes",
+      "il": "existe",
+      "nous": "existions",
+      "vous": "existiez",
+      "ils": "existent"
+    },
+    "subjonctif_passé": {
+      "je": "aie existé",
+      "tu": "aies existé",
+      "il": "ait existé",
+      "nous": "ayons existé",
+      "vous": "ayez existé",
+      "ils": "aient existé"
+    },
+    "subjonctif_imparfait": {
+      "je": "existasse",
+      "tu": "existasses",
+      "il": "existât",
+      "nous": "existassions",
+      "vous": "existassiez",
+      "ils": "existassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse existé",
+      "tu": "eusses existé",
+      "il": "eût existé",
+      "nous": "eussions existé",
+      "vous": "eussiez existé",
+      "ils": "eussent existé"
+    },
+    "conditionnel_présent": {
+      "je": "existerais",
+      "tu": "existerais",
+      "il": "existerait",
+      "nous": "existerions",
+      "vous": "existeriez",
+      "ils": "existeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais existé",
+      "tu": "aurais existé",
+      "il": "aurait existé",
+      "nous": "aurions existé",
+      "vous": "auriez existé",
+      "ils": "auraient existé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse existé",
+      "tu": "eusses existé",
+      "il": "eût existé",
+      "nous": "eussions existé",
+      "vous": "eussiez existé",
+      "ils": "eussent existé"
+    },
+    "translation": "istnieć",
+    "group": 1
+  },
+  {
+    "infinitive": "expédier",
+    "présent": {
+      "je": "expédie",
+      "tu": "expédies",
+      "il": "expédie",
+      "nous": "expédions",
+      "vous": "expédiez",
+      "ils": "expédient"
+    },
+    "passé_composé": {
+      "je": "ai expédié",
+      "tu": "as expédié",
+      "il": "a expédié",
+      "nous": "avons expédié",
+      "vous": "avez expédié",
+      "ils": "ont expédié"
+    },
+    "imparfait": {
+      "je": "expédiais",
+      "tu": "expédiais",
+      "il": "expédiait",
+      "nous": "expédiions",
+      "vous": "expédiiez",
+      "ils": "expédiaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais expédié",
+      "tu": "avais expédié",
+      "il": "avait expédié",
+      "nous": "avions expédié",
+      "vous": "aviez expédié",
+      "ils": "avaient expédié"
+    },
+    "passé_simple": {
+      "je": "expédiai",
+      "tu": "expédias",
+      "il": "expédia",
+      "nous": "expédiâmes",
+      "vous": "expédiâtes",
+      "ils": "expédièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus expédié",
+      "tu": "eus expédié",
+      "il": "eut expédié",
+      "nous": "eûmes expédié",
+      "vous": "eûtes expédié",
+      "ils": "eurent expédié"
+    },
+    "futur_simple": {
+      "je": "expédierai",
+      "tu": "expédieras",
+      "il": "expédiera",
+      "nous": "expédierons",
+      "vous": "expédierez",
+      "ils": "expédieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai expédié",
+      "tu": "auras expédié",
+      "il": "aura expédié",
+      "nous": "aurons expédié",
+      "vous": "aurez expédié",
+      "ils": "auront expédié"
+    },
+    "subjonctif_présent": {
+      "je": "expédie",
+      "tu": "expédies",
+      "il": "expédie",
+      "nous": "expédiions",
+      "vous": "expédiiez",
+      "ils": "expédient"
+    },
+    "subjonctif_passé": {
+      "je": "aie expédié",
+      "tu": "aies expédié",
+      "il": "ait expédié",
+      "nous": "ayons expédié",
+      "vous": "ayez expédié",
+      "ils": "aient expédié"
+    },
+    "subjonctif_imparfait": {
+      "je": "expédiasse",
+      "tu": "expédiasses",
+      "il": "expédiât",
+      "nous": "expédiassions",
+      "vous": "expédiassiez",
+      "ils": "expédiassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse expédié",
+      "tu": "eusses expédié",
+      "il": "eût expédié",
+      "nous": "eussions expédié",
+      "vous": "eussiez expédié",
+      "ils": "eussent expédié"
+    },
+    "conditionnel_présent": {
+      "je": "expédierais",
+      "tu": "expédierais",
+      "il": "expédierait",
+      "nous": "expédierions",
+      "vous": "expédieriez",
+      "ils": "expédieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais expédié",
+      "tu": "aurais expédié",
+      "il": "aurait expédié",
+      "nous": "aurions expédié",
+      "vous": "auriez expédié",
+      "ils": "auraient expédié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse expédié",
+      "tu": "eusses expédié",
+      "il": "eût expédié",
+      "nous": "eussions expédié",
+      "vous": "eussiez expédié",
+      "ils": "eussent expédié"
+    },
+    "translation": "wysyłać",
+    "group": 1
+  },
+  {
+    "infinitive": "expirer",
+    "présent": {
+      "je": "expire",
+      "tu": "expires",
+      "il": "expire",
+      "nous": "expirons",
+      "vous": "expirez",
+      "ils": "expirent"
+    },
+    "passé_composé": {
+      "je": "ai expiré",
+      "tu": "as expiré",
+      "il": "a expiré",
+      "nous": "avons expiré",
+      "vous": "avez expiré",
+      "ils": "ont expiré"
+    },
+    "imparfait": {
+      "je": "expirais",
+      "tu": "expirais",
+      "il": "expirait",
+      "nous": "expirions",
+      "vous": "expiriez",
+      "ils": "expiraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais expiré",
+      "tu": "avais expiré",
+      "il": "avait expiré",
+      "nous": "avions expiré",
+      "vous": "aviez expiré",
+      "ils": "avaient expiré"
+    },
+    "passé_simple": {
+      "je": "expirai",
+      "tu": "expiras",
+      "il": "expira",
+      "nous": "expirâmes",
+      "vous": "expirâtes",
+      "ils": "expirèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus expiré",
+      "tu": "eus expiré",
+      "il": "eut expiré",
+      "nous": "eûmes expiré",
+      "vous": "eûtes expiré",
+      "ils": "eurent expiré"
+    },
+    "futur_simple": {
+      "je": "expirerai",
+      "tu": "expireras",
+      "il": "expirera",
+      "nous": "expirerons",
+      "vous": "expirerez",
+      "ils": "expireront"
+    },
+    "futur_antérieur": {
+      "je": "aurai expiré",
+      "tu": "auras expiré",
+      "il": "aura expiré",
+      "nous": "aurons expiré",
+      "vous": "aurez expiré",
+      "ils": "auront expiré"
+    },
+    "subjonctif_présent": {
+      "je": "expire",
+      "tu": "expires",
+      "il": "expire",
+      "nous": "expirions",
+      "vous": "expiriez",
+      "ils": "expirent"
+    },
+    "subjonctif_passé": {
+      "je": "aie expiré",
+      "tu": "aies expiré",
+      "il": "ait expiré",
+      "nous": "ayons expiré",
+      "vous": "ayez expiré",
+      "ils": "aient expiré"
+    },
+    "subjonctif_imparfait": {
+      "je": "expirasse",
+      "tu": "expirasses",
+      "il": "expirât",
+      "nous": "expirassions",
+      "vous": "expirassiez",
+      "ils": "expirassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse expiré",
+      "tu": "eusses expiré",
+      "il": "eût expiré",
+      "nous": "eussions expiré",
+      "vous": "eussiez expiré",
+      "ils": "eussent expiré"
+    },
+    "conditionnel_présent": {
+      "je": "expirerais",
+      "tu": "expirerais",
+      "il": "expirerait",
+      "nous": "expirerions",
+      "vous": "expireriez",
+      "ils": "expireraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais expiré",
+      "tu": "aurais expiré",
+      "il": "aurait expiré",
+      "nous": "aurions expiré",
+      "vous": "auriez expiré",
+      "ils": "auraient expiré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse expiré",
+      "tu": "eusses expiré",
+      "il": "eût expiré",
+      "nous": "eussions expiré",
+      "vous": "eussiez expiré",
+      "ils": "eussent expiré"
+    },
+    "translation": "wydychać",
+    "group": 1
+  },
+  {
+    "infinitive": "expliquer",
+    "présent": {
+      "je": "explique",
+      "tu": "expliques",
+      "il": "explique",
+      "nous": "expliquons",
+      "vous": "expliquez",
+      "ils": "expliquent"
+    },
+    "passé_composé": {
+      "je": "ai expliqué",
+      "tu": "as expliqué",
+      "il": "a expliqué",
+      "nous": "avons expliqué",
+      "vous": "avez expliqué",
+      "ils": "ont expliqué"
+    },
+    "imparfait": {
+      "je": "expliquais",
+      "tu": "expliquais",
+      "il": "expliquait",
+      "nous": "expliquions",
+      "vous": "expliquiez",
+      "ils": "expliquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais expliqué",
+      "tu": "avais expliqué",
+      "il": "avait expliqué",
+      "nous": "avions expliqué",
+      "vous": "aviez expliqué",
+      "ils": "avaient expliqué"
+    },
+    "passé_simple": {
+      "je": "expliquai",
+      "tu": "expliquas",
+      "il": "expliqua",
+      "nous": "expliquâmes",
+      "vous": "expliquâtes",
+      "ils": "expliquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus expliqué",
+      "tu": "eus expliqué",
+      "il": "eut expliqué",
+      "nous": "eûmes expliqué",
+      "vous": "eûtes expliqué",
+      "ils": "eurent expliqué"
+    },
+    "futur_simple": {
+      "je": "expliquerai",
+      "tu": "expliqueras",
+      "il": "expliquera",
+      "nous": "expliquerons",
+      "vous": "expliquerez",
+      "ils": "expliqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai expliqué",
+      "tu": "auras expliqué",
+      "il": "aura expliqué",
+      "nous": "aurons expliqué",
+      "vous": "aurez expliqué",
+      "ils": "auront expliqué"
+    },
+    "subjonctif_présent": {
+      "je": "explique",
+      "tu": "expliques",
+      "il": "explique",
+      "nous": "expliquions",
+      "vous": "expliquiez",
+      "ils": "expliquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie expliqué",
+      "tu": "aies expliqué",
+      "il": "ait expliqué",
+      "nous": "ayons expliqué",
+      "vous": "ayez expliqué",
+      "ils": "aient expliqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "expliquasse",
+      "tu": "expliquasses",
+      "il": "expliquât",
+      "nous": "expliquassions",
+      "vous": "expliquassiez",
+      "ils": "expliquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse expliqué",
+      "tu": "eusses expliqué",
+      "il": "eût expliqué",
+      "nous": "eussions expliqué",
+      "vous": "eussiez expliqué",
+      "ils": "eussent expliqué"
+    },
+    "conditionnel_présent": {
+      "je": "expliquerais",
+      "tu": "expliquerais",
+      "il": "expliquerait",
+      "nous": "expliquerions",
+      "vous": "expliqueriez",
+      "ils": "expliqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais expliqué",
+      "tu": "aurais expliqué",
+      "il": "aurait expliqué",
+      "nous": "aurions expliqué",
+      "vous": "auriez expliqué",
+      "ils": "auraient expliqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse expliqué",
+      "tu": "eusses expliqué",
+      "il": "eût expliqué",
+      "nous": "eussions expliqué",
+      "vous": "eussiez expliqué",
+      "ils": "eussent expliqué"
+    },
+    "translation": "wyjaśniać",
+    "group": 1
+  },
+  {
+    "infinitive": "exploiter",
+    "présent": {
+      "je": "exploite",
+      "tu": "exploites",
+      "il": "exploite",
+      "nous": "exploitons",
+      "vous": "exploitez",
+      "ils": "exploitent"
+    },
+    "passé_composé": {
+      "je": "ai exploité",
+      "tu": "as exploité",
+      "il": "a exploité",
+      "nous": "avons exploité",
+      "vous": "avez exploité",
+      "ils": "ont exploité"
+    },
+    "imparfait": {
+      "je": "exploitais",
+      "tu": "exploitais",
+      "il": "exploitait",
+      "nous": "exploitions",
+      "vous": "exploitiez",
+      "ils": "exploitaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais exploité",
+      "tu": "avais exploité",
+      "il": "avait exploité",
+      "nous": "avions exploité",
+      "vous": "aviez exploité",
+      "ils": "avaient exploité"
+    },
+    "passé_simple": {
+      "je": "exploitai",
+      "tu": "exploitas",
+      "il": "exploita",
+      "nous": "exploitâmes",
+      "vous": "exploitâtes",
+      "ils": "exploitèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus exploité",
+      "tu": "eus exploité",
+      "il": "eut exploité",
+      "nous": "eûmes exploité",
+      "vous": "eûtes exploité",
+      "ils": "eurent exploité"
+    },
+    "futur_simple": {
+      "je": "exploiterai",
+      "tu": "exploiteras",
+      "il": "exploitera",
+      "nous": "exploiterons",
+      "vous": "exploiterez",
+      "ils": "exploiteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai exploité",
+      "tu": "auras exploité",
+      "il": "aura exploité",
+      "nous": "aurons exploité",
+      "vous": "aurez exploité",
+      "ils": "auront exploité"
+    },
+    "subjonctif_présent": {
+      "je": "exploite",
+      "tu": "exploites",
+      "il": "exploite",
+      "nous": "exploitions",
+      "vous": "exploitiez",
+      "ils": "exploitent"
+    },
+    "subjonctif_passé": {
+      "je": "aie exploité",
+      "tu": "aies exploité",
+      "il": "ait exploité",
+      "nous": "ayons exploité",
+      "vous": "ayez exploité",
+      "ils": "aient exploité"
+    },
+    "subjonctif_imparfait": {
+      "je": "exploitasse",
+      "tu": "exploitasses",
+      "il": "exploitât",
+      "nous": "exploitassions",
+      "vous": "exploitassiez",
+      "ils": "exploitassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse exploité",
+      "tu": "eusses exploité",
+      "il": "eût exploité",
+      "nous": "eussions exploité",
+      "vous": "eussiez exploité",
+      "ils": "eussent exploité"
+    },
+    "conditionnel_présent": {
+      "je": "exploiterais",
+      "tu": "exploiterais",
+      "il": "exploiterait",
+      "nous": "exploiterions",
+      "vous": "exploiteriez",
+      "ils": "exploiteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais exploité",
+      "tu": "aurais exploité",
+      "il": "aurait exploité",
+      "nous": "aurions exploité",
+      "vous": "auriez exploité",
+      "ils": "auraient exploité"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse exploité",
+      "tu": "eusses exploité",
+      "il": "eût exploité",
+      "nous": "eussions exploité",
+      "vous": "eussiez exploité",
+      "ils": "eussent exploité"
+    },
+    "translation": "gospodarować",
+    "group": 1
+  },
+  {
+    "infinitive": "explorer",
+    "présent": {
+      "je": "explore",
+      "tu": "explores",
+      "il": "explore",
+      "nous": "explorons",
+      "vous": "explorez",
+      "ils": "explorent"
+    },
+    "passé_composé": {
+      "je": "ai exploré",
+      "tu": "as exploré",
+      "il": "a exploré",
+      "nous": "avons exploré",
+      "vous": "avez exploré",
+      "ils": "ont exploré"
+    },
+    "imparfait": {
+      "je": "explorais",
+      "tu": "explorais",
+      "il": "explorait",
+      "nous": "explorions",
+      "vous": "exploriez",
+      "ils": "exploraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais exploré",
+      "tu": "avais exploré",
+      "il": "avait exploré",
+      "nous": "avions exploré",
+      "vous": "aviez exploré",
+      "ils": "avaient exploré"
+    },
+    "passé_simple": {
+      "je": "explorai",
+      "tu": "exploras",
+      "il": "explora",
+      "nous": "explorâmes",
+      "vous": "explorâtes",
+      "ils": "explorèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus exploré",
+      "tu": "eus exploré",
+      "il": "eut exploré",
+      "nous": "eûmes exploré",
+      "vous": "eûtes exploré",
+      "ils": "eurent exploré"
+    },
+    "futur_simple": {
+      "je": "explorerai",
+      "tu": "exploreras",
+      "il": "explorera",
+      "nous": "explorerons",
+      "vous": "explorerez",
+      "ils": "exploreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai exploré",
+      "tu": "auras exploré",
+      "il": "aura exploré",
+      "nous": "aurons exploré",
+      "vous": "aurez exploré",
+      "ils": "auront exploré"
+    },
+    "subjonctif_présent": {
+      "je": "explore",
+      "tu": "explores",
+      "il": "explore",
+      "nous": "explorions",
+      "vous": "exploriez",
+      "ils": "explorent"
+    },
+    "subjonctif_passé": {
+      "je": "aie exploré",
+      "tu": "aies exploré",
+      "il": "ait exploré",
+      "nous": "ayons exploré",
+      "vous": "ayez exploré",
+      "ils": "aient exploré"
+    },
+    "subjonctif_imparfait": {
+      "je": "explorasse",
+      "tu": "explorasses",
+      "il": "explorât",
+      "nous": "explorassions",
+      "vous": "explorassiez",
+      "ils": "explorassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse exploré",
+      "tu": "eusses exploré",
+      "il": "eût exploré",
+      "nous": "eussions exploré",
+      "vous": "eussiez exploré",
+      "ils": "eussent exploré"
+    },
+    "conditionnel_présent": {
+      "je": "explorerais",
+      "tu": "explorerais",
+      "il": "explorerait",
+      "nous": "explorerions",
+      "vous": "exploreriez",
+      "ils": "exploreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais exploré",
+      "tu": "aurais exploré",
+      "il": "aurait exploré",
+      "nous": "aurions exploré",
+      "vous": "auriez exploré",
+      "ils": "auraient exploré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse exploré",
+      "tu": "eusses exploré",
+      "il": "eût exploré",
+      "nous": "eussions exploré",
+      "vous": "eussiez exploré",
+      "ils": "eussent exploré"
+    },
+    "translation": "badać",
+    "group": 1
+  },
+  {
+    "infinitive": "exploser",
+    "présent": {
+      "je": "explose",
+      "tu": "exploses",
+      "il": "explose",
+      "nous": "explosons",
+      "vous": "explosez",
+      "ils": "explosent"
+    },
+    "passé_composé": {
+      "je": "ai explosé",
+      "tu": "as explosé",
+      "il": "a explosé",
+      "nous": "avons explosé",
+      "vous": "avez explosé",
+      "ils": "ont explosé"
+    },
+    "imparfait": {
+      "je": "explosais",
+      "tu": "explosais",
+      "il": "explosait",
+      "nous": "explosions",
+      "vous": "explosiez",
+      "ils": "explosaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais explosé",
+      "tu": "avais explosé",
+      "il": "avait explosé",
+      "nous": "avions explosé",
+      "vous": "aviez explosé",
+      "ils": "avaient explosé"
+    },
+    "passé_simple": {
+      "je": "explosai",
+      "tu": "explosas",
+      "il": "explosa",
+      "nous": "explosâmes",
+      "vous": "explosâtes",
+      "ils": "explosèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus explosé",
+      "tu": "eus explosé",
+      "il": "eut explosé",
+      "nous": "eûmes explosé",
+      "vous": "eûtes explosé",
+      "ils": "eurent explosé"
+    },
+    "futur_simple": {
+      "je": "exploserai",
+      "tu": "exploseras",
+      "il": "explosera",
+      "nous": "exploserons",
+      "vous": "exploserez",
+      "ils": "exploseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai explosé",
+      "tu": "auras explosé",
+      "il": "aura explosé",
+      "nous": "aurons explosé",
+      "vous": "aurez explosé",
+      "ils": "auront explosé"
+    },
+    "subjonctif_présent": {
+      "je": "explose",
+      "tu": "exploses",
+      "il": "explose",
+      "nous": "explosions",
+      "vous": "explosiez",
+      "ils": "explosent"
+    },
+    "subjonctif_passé": {
+      "je": "aie explosé",
+      "tu": "aies explosé",
+      "il": "ait explosé",
+      "nous": "ayons explosé",
+      "vous": "ayez explosé",
+      "ils": "aient explosé"
+    },
+    "subjonctif_imparfait": {
+      "je": "explosasse",
+      "tu": "explosasses",
+      "il": "explosât",
+      "nous": "explosassions",
+      "vous": "explosassiez",
+      "ils": "explosassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse explosé",
+      "tu": "eusses explosé",
+      "il": "eût explosé",
+      "nous": "eussions explosé",
+      "vous": "eussiez explosé",
+      "ils": "eussent explosé"
+    },
+    "conditionnel_présent": {
+      "je": "exploserais",
+      "tu": "exploserais",
+      "il": "exploserait",
+      "nous": "exploserions",
+      "vous": "exploseriez",
+      "ils": "exploseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais explosé",
+      "tu": "aurais explosé",
+      "il": "aurait explosé",
+      "nous": "aurions explosé",
+      "vous": "auriez explosé",
+      "ils": "auraient explosé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse explosé",
+      "tu": "eusses explosé",
+      "il": "eût explosé",
+      "nous": "eussions explosé",
+      "vous": "eussiez explosé",
+      "ils": "eussent explosé"
+    },
+    "translation": "wybuchać",
+    "group": 1
+  },
+  {
+    "infinitive": "exposer",
+    "présent": {
+      "je": "expose",
+      "tu": "exposes",
+      "il": "expose",
+      "nous": "exposons",
+      "vous": "exposez",
+      "ils": "exposent"
+    },
+    "passé_composé": {
+      "je": "ai exposé",
+      "tu": "as exposé",
+      "il": "a exposé",
+      "nous": "avons exposé",
+      "vous": "avez exposé",
+      "ils": "ont exposé"
+    },
+    "imparfait": {
+      "je": "exposais",
+      "tu": "exposais",
+      "il": "exposait",
+      "nous": "exposions",
+      "vous": "exposiez",
+      "ils": "exposaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais exposé",
+      "tu": "avais exposé",
+      "il": "avait exposé",
+      "nous": "avions exposé",
+      "vous": "aviez exposé",
+      "ils": "avaient exposé"
+    },
+    "passé_simple": {
+      "je": "exposai",
+      "tu": "exposas",
+      "il": "exposa",
+      "nous": "exposâmes",
+      "vous": "exposâtes",
+      "ils": "exposèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus exposé",
+      "tu": "eus exposé",
+      "il": "eut exposé",
+      "nous": "eûmes exposé",
+      "vous": "eûtes exposé",
+      "ils": "eurent exposé"
+    },
+    "futur_simple": {
+      "je": "exposerai",
+      "tu": "exposeras",
+      "il": "exposera",
+      "nous": "exposerons",
+      "vous": "exposerez",
+      "ils": "exposeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai exposé",
+      "tu": "auras exposé",
+      "il": "aura exposé",
+      "nous": "aurons exposé",
+      "vous": "aurez exposé",
+      "ils": "auront exposé"
+    },
+    "subjonctif_présent": {
+      "je": "expose",
+      "tu": "exposes",
+      "il": "expose",
+      "nous": "exposions",
+      "vous": "exposiez",
+      "ils": "exposent"
+    },
+    "subjonctif_passé": {
+      "je": "aie exposé",
+      "tu": "aies exposé",
+      "il": "ait exposé",
+      "nous": "ayons exposé",
+      "vous": "ayez exposé",
+      "ils": "aient exposé"
+    },
+    "subjonctif_imparfait": {
+      "je": "exposasse",
+      "tu": "exposasses",
+      "il": "exposât",
+      "nous": "exposassions",
+      "vous": "exposassiez",
+      "ils": "exposassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse exposé",
+      "tu": "eusses exposé",
+      "il": "eût exposé",
+      "nous": "eussions exposé",
+      "vous": "eussiez exposé",
+      "ils": "eussent exposé"
+    },
+    "conditionnel_présent": {
+      "je": "exposerais",
+      "tu": "exposerais",
+      "il": "exposerait",
+      "nous": "exposerions",
+      "vous": "exposeriez",
+      "ils": "exposeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais exposé",
+      "tu": "aurais exposé",
+      "il": "aurait exposé",
+      "nous": "aurions exposé",
+      "vous": "auriez exposé",
+      "ils": "auraient exposé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse exposé",
+      "tu": "eusses exposé",
+      "il": "eût exposé",
+      "nous": "eussions exposé",
+      "vous": "eussiez exposé",
+      "ils": "eussent exposé"
+    },
+    "translation": "pokazać",
+    "group": 1
+  }
+]

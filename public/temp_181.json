@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "soupirer",
+    "présent": {
+      "je": "soupire",
+      "tu": "soupires",
+      "il": "soupire",
+      "nous": "soupirons",
+      "vous": "soupirez",
+      "ils": "soupirent"
+    },
+    "passé_composé": {
+      "je": "ai soupiré",
+      "tu": "as soupiré",
+      "il": "a soupiré",
+      "nous": "avons soupiré",
+      "vous": "avez soupiré",
+      "ils": "ont soupiré"
+    },
+    "imparfait": {
+      "je": "soupirais",
+      "tu": "soupirais",
+      "il": "soupirait",
+      "nous": "soupirions",
+      "vous": "soupiriez",
+      "ils": "soupiraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais soupiré",
+      "tu": "avais soupiré",
+      "il": "avait soupiré",
+      "nous": "avions soupiré",
+      "vous": "aviez soupiré",
+      "ils": "avaient soupiré"
+    },
+    "passé_simple": {
+      "je": "soupirai",
+      "tu": "soupiras",
+      "il": "soupira",
+      "nous": "soupirâmes",
+      "vous": "soupirâtes",
+      "ils": "soupirèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus soupiré",
+      "tu": "eus soupiré",
+      "il": "eut soupiré",
+      "nous": "eûmes soupiré",
+      "vous": "eûtes soupiré",
+      "ils": "eurent soupiré"
+    },
+    "futur_simple": {
+      "je": "soupirerai",
+      "tu": "soupireras",
+      "il": "soupirera",
+      "nous": "soupirerons",
+      "vous": "soupirerez",
+      "ils": "soupireront"
+    },
+    "futur_antérieur": {
+      "je": "aurai soupiré",
+      "tu": "auras soupiré",
+      "il": "aura soupiré",
+      "nous": "aurons soupiré",
+      "vous": "aurez soupiré",
+      "ils": "auront soupiré"
+    },
+    "subjonctif_présent": {
+      "je": "soupire",
+      "tu": "soupires",
+      "il": "soupire",
+      "nous": "soupirions",
+      "vous": "soupiriez",
+      "ils": "soupirent"
+    },
+    "subjonctif_passé": {
+      "je": "aie soupiré",
+      "tu": "aies soupiré",
+      "il": "ait soupiré",
+      "nous": "ayons soupiré",
+      "vous": "ayez soupiré",
+      "ils": "aient soupiré"
+    },
+    "subjonctif_imparfait": {
+      "je": "soupirasse",
+      "tu": "soupirasses",
+      "il": "soupirât",
+      "nous": "soupirassions",
+      "vous": "soupirassiez",
+      "ils": "soupirassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse soupiré",
+      "tu": "eusses soupiré",
+      "il": "eût soupiré",
+      "nous": "eussions soupiré",
+      "vous": "eussiez soupiré",
+      "ils": "eussent soupiré"
+    },
+    "conditionnel_présent": {
+      "je": "soupirerais",
+      "tu": "soupirerais",
+      "il": "soupirerait",
+      "nous": "soupirerions",
+      "vous": "soupireriez",
+      "ils": "soupireraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais soupiré",
+      "tu": "aurais soupiré",
+      "il": "aurait soupiré",
+      "nous": "aurions soupiré",
+      "vous": "auriez soupiré",
+      "ils": "auraient soupiré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse soupiré",
+      "tu": "eusses soupiré",
+      "il": "eût soupiré",
+      "nous": "eussions soupiré",
+      "vous": "eussiez soupiré",
+      "ils": "eussent soupiré"
+    },
+    "translation": "wzdychać",
+    "group": 1
+  },
+  {
+    "infinitive": "sourdre",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "sourd",
+      "nous": "-",
+      "vous": "-",
+      "ils": "sourdent"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "sourdait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "sourdaient"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "uśmiech",
+    "group": 3
+  },
+  {
+    "infinitive": "sourire",
+    "présent": {
+      "je": "souris",
+      "tu": "souris",
+      "il": "sourit",
+      "nous": "sourions",
+      "vous": "souriez",
+      "ils": "sourient"
+    },
+    "passé_composé": {
+      "je": "ai souri",
+      "tu": "as souri",
+      "il": "a souri",
+      "nous": "avons souri",
+      "vous": "avez souri",
+      "ils": "ont souri"
+    },
+    "imparfait": {
+      "je": "souriais",
+      "tu": "souriais",
+      "il": "souriait",
+      "nous": "souriions",
+      "vous": "souriiez",
+      "ils": "souriaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais souri",
+      "tu": "avais souri",
+      "il": "avait souri",
+      "nous": "avions souri",
+      "vous": "aviez souri",
+      "ils": "avaient souri"
+    },
+    "passé_simple": {
+      "je": "souris",
+      "tu": "souris",
+      "il": "sourit",
+      "nous": "sourîmes",
+      "vous": "sourîtes",
+      "ils": "sourirent"
+    },
+    "passé_antérieur": {
+      "je": "eus souri",
+      "tu": "eus souri",
+      "il": "eut souri",
+      "nous": "eûmes souri",
+      "vous": "eûtes souri",
+      "ils": "eurent souri"
+    },
+    "futur_simple": {
+      "je": "sourirai",
+      "tu": "souriras",
+      "il": "sourira",
+      "nous": "sourirons",
+      "vous": "sourirez",
+      "ils": "souriront"
+    },
+    "futur_antérieur": {
+      "je": "aurai souri",
+      "tu": "auras souri",
+      "il": "aura souri",
+      "nous": "aurons souri",
+      "vous": "aurez souri",
+      "ils": "auront souri"
+    },
+    "subjonctif_présent": {
+      "je": "sourie",
+      "tu": "souries",
+      "il": "sourie",
+      "nous": "souriions",
+      "vous": "souriiez",
+      "ils": "sourient"
+    },
+    "subjonctif_passé": {
+      "je": "aie souri",
+      "tu": "aies souri",
+      "il": "ait souri",
+      "nous": "ayons souri",
+      "vous": "ayez souri",
+      "ils": "aient souri"
+    },
+    "subjonctif_imparfait": {
+      "je": "sourisse",
+      "tu": "sourisses",
+      "il": "sourît",
+      "nous": "sourissions",
+      "vous": "sourissiez",
+      "ils": "sourissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse souri",
+      "tu": "eusses souri",
+      "il": "eût souri",
+      "nous": "eussions souri",
+      "vous": "eussiez souri",
+      "ils": "eussent souri"
+    },
+    "conditionnel_présent": {
+      "je": "sourirais",
+      "tu": "sourirais",
+      "il": "sourirait",
+      "nous": "souririons",
+      "vous": "souririez",
+      "ils": "souriraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais souri",
+      "tu": "aurais souri",
+      "il": "aurait souri",
+      "nous": "aurions souri",
+      "vous": "auriez souri",
+      "ils": "auraient souri"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse souri",
+      "tu": "eusses souri",
+      "il": "eût souri",
+      "nous": "eussions souri",
+      "vous": "eussiez souri",
+      "ils": "eussent souri"
+    },
+    "translation": "uśmiech",
+    "group": 3
+  },
+  {
+    "infinitive": "sous-entendre",
+    "présent": {
+      "je": "sous-entends",
+      "tu": "sous-entends",
+      "il": "sous-entend",
+      "nous": "sous-entendons",
+      "vous": "sous-entendez",
+      "ils": "sous-entendent"
+    },
+    "passé_composé": {
+      "je": "ai sous-entendu",
+      "tu": "as sous-entendu",
+      "il": "a sous-entendu",
+      "nous": "avons sous-entendu",
+      "vous": "avez sous-entendu",
+      "ils": "ont sous-entendu"
+    },
+    "imparfait": {
+      "je": "sous-entendais",
+      "tu": "sous-entendais",
+      "il": "sous-entendait",
+      "nous": "sous-entendions",
+      "vous": "sous-entendiez",
+      "ils": "sous-entendaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais sous-entendu",
+      "tu": "avais sous-entendu",
+      "il": "avait sous-entendu",
+      "nous": "avions sous-entendu",
+      "vous": "aviez sous-entendu",
+      "ils": "avaient sous-entendu"
+    },
+    "passé_simple": {
+      "je": "sous-entendis",
+      "tu": "sous-entendis",
+      "il": "sous-entendit",
+      "nous": "sous-entendîmes",
+      "vous": "sous-entendîtes",
+      "ils": "sous-entendirent"
+    },
+    "passé_antérieur": {
+      "je": "eus sous-entendu",
+      "tu": "eus sous-entendu",
+      "il": "eut sous-entendu",
+      "nous": "eûmes sous-entendu",
+      "vous": "eûtes sous-entendu",
+      "ils": "eurent sous-entendu"
+    },
+    "futur_simple": {
+      "je": "sous-entendrai",
+      "tu": "sous-entendras",
+      "il": "sous-entendra",
+      "nous": "sous-entendrons",
+      "vous": "sous-entendrez",
+      "ils": "sous-entendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai sous-entendu",
+      "tu": "auras sous-entendu",
+      "il": "aura sous-entendu",
+      "nous": "aurons sous-entendu",
+      "vous": "aurez sous-entendu",
+      "ils": "auront sous-entendu"
+    },
+    "subjonctif_présent": {
+      "je": "sous-entende",
+      "tu": "sous-entendes",
+      "il": "sous-entende",
+      "nous": "sous-entendions",
+      "vous": "sous-entendiez",
+      "ils": "sous-entendent"
+    },
+    "subjonctif_passé": {
+      "je": "aie sous-entendu",
+      "tu": "aies sous-entendu",
+      "il": "ait sous-entendu",
+      "nous": "ayons sous-entendu",
+      "vous": "ayez sous-entendu",
+      "ils": "aient sous-entendu"
+    },
+    "subjonctif_imparfait": {
+      "je": "sous-entendisse",
+      "tu": "sous-entendisses",
+      "il": "sous-entendît",
+      "nous": "sous-entendissions",
+      "vous": "sous-entendissiez",
+      "ils": "sous-entendissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse sous-entendu",
+      "tu": "eusses sous-entendu",
+      "il": "eût sous-entendu",
+      "nous": "eussions sous-entendu",
+      "vous": "eussiez sous-entendu",
+      "ils": "eussent sous-entendu"
+    },
+    "conditionnel_présent": {
+      "je": "sous-entendrais",
+      "tu": "sous-entendrais",
+      "il": "sous-entendrait",
+      "nous": "sous-entendrions",
+      "vous": "sous-entendriez",
+      "ils": "sous-entendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais sous-entendu",
+      "tu": "aurais sous-entendu",
+      "il": "aurait sous-entendu",
+      "nous": "aurions sous-entendu",
+      "vous": "auriez sous-entendu",
+      "ils": "auraient sous-entendu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse sous-entendu",
+      "tu": "eusses sous-entendu",
+      "il": "eût sous-entendu",
+      "nous": "eussions sous-entendu",
+      "vous": "eussiez sous-entendu",
+      "ils": "eussent sous-entendu"
+    },
+    "translation": "domyślać",
+    "group": 3
+  },
+  {
+    "infinitive": "sous-tendre",
+    "présent": {
+      "je": "sous-tends",
+      "tu": "sous-tends",
+      "il": "sous-tend",
+      "nous": "sous-tendons",
+      "vous": "sous-tendez",
+      "ils": "sous-tendent"
+    },
+    "passé_composé": {
+      "je": "ai sous-tendu",
+      "tu": "as sous-tendu",
+      "il": "a sous-tendu",
+      "nous": "avons sous-tendu",
+      "vous": "avez sous-tendu",
+      "ils": "ont sous-tendu"
+    },
+    "imparfait": {
+      "je": "sous-tendais",
+      "tu": "sous-tendais",
+      "il": "sous-tendait",
+      "nous": "sous-tendions",
+      "vous": "sous-tendiez",
+      "ils": "sous-tendaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais sous-tendu",
+      "tu": "avais sous-tendu",
+      "il": "avait sous-tendu",
+      "nous": "avions sous-tendu",
+      "vous": "aviez sous-tendu",
+      "ils": "avaient sous-tendu"
+    },
+    "passé_simple": {
+      "je": "sous-tendis",
+      "tu": "sous-tendis",
+      "il": "sous-tendit",
+      "nous": "sous-tendîmes",
+      "vous": "sous-tendîtes",
+      "ils": "sous-tendirent"
+    },
+    "passé_antérieur": {
+      "je": "eus sous-tendu",
+      "tu": "eus sous-tendu",
+      "il": "eut sous-tendu",
+      "nous": "eûmes sous-tendu",
+      "vous": "eûtes sous-tendu",
+      "ils": "eurent sous-tendu"
+    },
+    "futur_simple": {
+      "je": "sous-tendrai",
+      "tu": "sous-tendras",
+      "il": "sous-tendra",
+      "nous": "sous-tendrons",
+      "vous": "sous-tendrez",
+      "ils": "sous-tendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai sous-tendu",
+      "tu": "auras sous-tendu",
+      "il": "aura sous-tendu",
+      "nous": "aurons sous-tendu",
+      "vous": "aurez sous-tendu",
+      "ils": "auront sous-tendu"
+    },
+    "subjonctif_présent": {
+      "je": "sous-tende",
+      "tu": "sous-tendes",
+      "il": "sous-tende",
+      "nous": "sous-tendions",
+      "vous": "sous-tendiez",
+      "ils": "sous-tendent"
+    },
+    "subjonctif_passé": {
+      "je": "aie sous-tendu",
+      "tu": "aies sous-tendu",
+      "il": "ait sous-tendu",
+      "nous": "ayons sous-tendu",
+      "vous": "ayez sous-tendu",
+      "ils": "aient sous-tendu"
+    },
+    "subjonctif_imparfait": {
+      "je": "sous-tendisse",
+      "tu": "sous-tendisses",
+      "il": "sous-tendît",
+      "nous": "sous-tendissions",
+      "vous": "sous-tendissiez",
+      "ils": "sous-tendissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse sous-tendu",
+      "tu": "eusses sous-tendu",
+      "il": "eût sous-tendu",
+      "nous": "eussions sous-tendu",
+      "vous": "eussiez sous-tendu",
+      "ils": "eussent sous-tendu"
+    },
+    "conditionnel_présent": {
+      "je": "sous-tendrais",
+      "tu": "sous-tendrais",
+      "il": "sous-tendrait",
+      "nous": "sous-tendrions",
+      "vous": "sous-tendriez",
+      "ils": "sous-tendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais sous-tendu",
+      "tu": "aurais sous-tendu",
+      "il": "aurait sous-tendu",
+      "nous": "aurions sous-tendu",
+      "vous": "auriez sous-tendu",
+      "ils": "auraient sous-tendu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse sous-tendu",
+      "tu": "eusses sous-tendu",
+      "il": "eût sous-tendu",
+      "nous": "eussions sous-tendu",
+      "vous": "eussiez sous-tendu",
+      "ils": "eussent sous-tendu"
+    },
+    "translation": "wieszać",
+    "group": 3
+  },
+  {
+    "infinitive": "souscrire",
+    "présent": {
+      "je": "souscris",
+      "tu": "souscris",
+      "il": "souscrit",
+      "nous": "souscrivons",
+      "vous": "souscrivez",
+      "ils": "souscrivent"
+    },
+    "passé_composé": {
+      "je": "ai souscrit",
+      "tu": "as souscrit",
+      "il": "a souscrit",
+      "nous": "avons souscrit",
+      "vous": "avez souscrit",
+      "ils": "ont souscrit"
+    },
+    "imparfait": {
+      "je": "souscrivais",
+      "tu": "souscrivais",
+      "il": "souscrivait",
+      "nous": "souscrivions",
+      "vous": "souscriviez",
+      "ils": "souscrivaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais souscrit",
+      "tu": "avais souscrit",
+      "il": "avait souscrit",
+      "nous": "avions souscrit",
+      "vous": "aviez souscrit",
+      "ils": "avaient souscrit"
+    },
+    "passé_simple": {
+      "je": "souscrivis",
+      "tu": "souscrivis",
+      "il": "souscrivit",
+      "nous": "souscrivîmes",
+      "vous": "souscrivîtes",
+      "ils": "souscrivirent"
+    },
+    "passé_antérieur": {
+      "je": "eus souscrit",
+      "tu": "eus souscrit",
+      "il": "eut souscrit",
+      "nous": "eûmes souscrit",
+      "vous": "eûtes souscrit",
+      "ils": "eurent souscrit"
+    },
+    "futur_simple": {
+      "je": "souscrirai",
+      "tu": "souscriras",
+      "il": "souscrira",
+      "nous": "souscrirons",
+      "vous": "souscrirez",
+      "ils": "souscriront"
+    },
+    "futur_antérieur": {
+      "je": "aurai souscrit",
+      "tu": "auras souscrit",
+      "il": "aura souscrit",
+      "nous": "aurons souscrit",
+      "vous": "aurez souscrit",
+      "ils": "auront souscrit"
+    },
+    "subjonctif_présent": {
+      "je": "souscrive",
+      "tu": "souscrives",
+      "il": "souscrive",
+      "nous": "souscrivions",
+      "vous": "souscriviez",
+      "ils": "souscrivent"
+    },
+    "subjonctif_passé": {
+      "je": "aie souscrit",
+      "tu": "aies souscrit",
+      "il": "ait souscrit",
+      "nous": "ayons souscrit",
+      "vous": "ayez souscrit",
+      "ils": "aient souscrit"
+    },
+    "subjonctif_imparfait": {
+      "je": "souscrivisse",
+      "tu": "souscrivisses",
+      "il": "souscrivît",
+      "nous": "souscrivissions",
+      "vous": "souscrivissiez",
+      "ils": "souscrivissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse souscrit",
+      "tu": "eusses souscrit",
+      "il": "eût souscrit",
+      "nous": "eussions souscrit",
+      "vous": "eussiez souscrit",
+      "ils": "eussent souscrit"
+    },
+    "conditionnel_présent": {
+      "je": "souscrirais",
+      "tu": "souscrirais",
+      "il": "souscrirait",
+      "nous": "souscririons",
+      "vous": "souscririez",
+      "ils": "souscriraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais souscrit",
+      "tu": "aurais souscrit",
+      "il": "aurait souscrit",
+      "nous": "aurions souscrit",
+      "vous": "auriez souscrit",
+      "ils": "auraient souscrit"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse souscrit",
+      "tu": "eusses souscrit",
+      "il": "eût souscrit",
+      "nous": "eussions souscrit",
+      "vous": "eussiez souscrit",
+      "ils": "eussent souscrit"
+    },
+    "translation": "odejmować",
+    "group": 3
+  },
+  {
+    "infinitive": "soustraire",
+    "présent": {
+      "je": "soustrais",
+      "tu": "soustrais",
+      "il": "soustrait",
+      "nous": "soustrayons",
+      "vous": "soustrayez",
+      "ils": "soustraient"
+    },
+    "passé_composé": {
+      "je": "ai soustrait",
+      "tu": "as soustrait",
+      "il": "a soustrait",
+      "nous": "avons soustrait",
+      "vous": "avez soustrait",
+      "ils": "ont soustrait"
+    },
+    "imparfait": {
+      "je": "soustrayais",
+      "tu": "soustrayais",
+      "il": "soustrayait",
+      "nous": "soustrayions",
+      "vous": "soustrayiez",
+      "ils": "soustrayaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais soustrait",
+      "tu": "avais soustrait",
+      "il": "avait soustrait",
+      "nous": "avions soustrait",
+      "vous": "aviez soustrait",
+      "ils": "avaient soustrait"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "eus soustrait",
+      "tu": "eus soustrait",
+      "il": "eut soustrait",
+      "nous": "eûmes soustrait",
+      "vous": "eûtes soustrait",
+      "ils": "eurent soustrait"
+    },
+    "futur_simple": {
+      "je": "soustrairai",
+      "tu": "soustrairas",
+      "il": "soustraira",
+      "nous": "soustrairons",
+      "vous": "soustrairez",
+      "ils": "soustrairont"
+    },
+    "futur_antérieur": {
+      "je": "aurai soustrait",
+      "tu": "auras soustrait",
+      "il": "aura soustrait",
+      "nous": "aurons soustrait",
+      "vous": "aurez soustrait",
+      "ils": "auront soustrait"
+    },
+    "subjonctif_présent": {
+      "je": "soustraie",
+      "tu": "soustraies",
+      "il": "soustraie",
+      "nous": "soustrayions",
+      "vous": "soustrayiez",
+      "ils": "soustraient"
+    },
+    "subjonctif_passé": {
+      "je": "aie soustrait",
+      "tu": "aies soustrait",
+      "il": "ait soustrait",
+      "nous": "ayons soustrait",
+      "vous": "ayez soustrait",
+      "ils": "aient soustrait"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse soustrait",
+      "tu": "eusses soustrait",
+      "il": "eût soustrait",
+      "nous": "eussions soustrait",
+      "vous": "eussiez soustrait",
+      "ils": "eussent soustrait"
+    },
+    "conditionnel_présent": {
+      "je": "soustrairais",
+      "tu": "soustrairais",
+      "il": "soustrairait",
+      "nous": "soustrairions",
+      "vous": "soustrairiez",
+      "ils": "soustrairaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais soustrait",
+      "tu": "aurais soustrait",
+      "il": "aurait soustrait",
+      "nous": "aurions soustrait",
+      "vous": "auriez soustrait",
+      "ils": "auraient soustrait"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse soustrait",
+      "tu": "eusses soustrait",
+      "il": "eût soustrait",
+      "nous": "eussions soustrait",
+      "vous": "eussiez soustrait",
+      "ils": "eussent soustrait"
+    },
+    "translation": "odejmować",
+    "group": 3
+  },
+  {
+    "infinitive": "soutenir",
+    "présent": {
+      "je": "soutiens",
+      "tu": "soutiens",
+      "il": "soutient",
+      "nous": "soutenons",
+      "vous": "soutenez",
+      "ils": "soutiennent"
+    },
+    "passé_composé": {
+      "je": "ai soutenu",
+      "tu": "as soutenu",
+      "il": "a soutenu",
+      "nous": "avons soutenu",
+      "vous": "avez soutenu",
+      "ils": "ont soutenu"
+    },
+    "imparfait": {
+      "je": "soutenais",
+      "tu": "soutenais",
+      "il": "soutenait",
+      "nous": "soutenions",
+      "vous": "souteniez",
+      "ils": "soutenaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais soutenu",
+      "tu": "avais soutenu",
+      "il": "avait soutenu",
+      "nous": "avions soutenu",
+      "vous": "aviez soutenu",
+      "ils": "avaient soutenu"
+    },
+    "passé_simple": {
+      "je": "soutins",
+      "tu": "soutins",
+      "il": "soutint",
+      "nous": "soutînmes",
+      "vous": "soutîntes",
+      "ils": "soutinrent"
+    },
+    "passé_antérieur": {
+      "je": "eus soutenu",
+      "tu": "eus soutenu",
+      "il": "eut soutenu",
+      "nous": "eûmes soutenu",
+      "vous": "eûtes soutenu",
+      "ils": "eurent soutenu"
+    },
+    "futur_simple": {
+      "je": "soutiendrai",
+      "tu": "soutiendras",
+      "il": "soutiendra",
+      "nous": "soutiendrons",
+      "vous": "soutiendrez",
+      "ils": "soutiendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai soutenu",
+      "tu": "auras soutenu",
+      "il": "aura soutenu",
+      "nous": "aurons soutenu",
+      "vous": "aurez soutenu",
+      "ils": "auront soutenu"
+    },
+    "subjonctif_présent": {
+      "je": "soutienne",
+      "tu": "soutiennes",
+      "il": "soutienne",
+      "nous": "soutenions",
+      "vous": "souteniez",
+      "ils": "soutiennent"
+    },
+    "subjonctif_passé": {
+      "je": "aie soutenu",
+      "tu": "aies soutenu",
+      "il": "ait soutenu",
+      "nous": "ayons soutenu",
+      "vous": "ayez soutenu",
+      "ils": "aient soutenu"
+    },
+    "subjonctif_imparfait": {
+      "je": "soutinsse",
+      "tu": "soutinsses",
+      "il": "soutînt",
+      "nous": "soutinssions",
+      "vous": "soutinssiez",
+      "ils": "soutinssent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse soutenu",
+      "tu": "eusses soutenu",
+      "il": "eût soutenu",
+      "nous": "eussions soutenu",
+      "vous": "eussiez soutenu",
+      "ils": "eussent soutenu"
+    },
+    "conditionnel_présent": {
+      "je": "soutiendrais",
+      "tu": "soutiendrais",
+      "il": "soutiendrait",
+      "nous": "soutiendrions",
+      "vous": "soutiendriez",
+      "ils": "soutiendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais soutenu",
+      "tu": "aurais soutenu",
+      "il": "aurait soutenu",
+      "nous": "aurions soutenu",
+      "vous": "auriez soutenu",
+      "ils": "auraient soutenu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse soutenu",
+      "tu": "eusses soutenu",
+      "il": "eût soutenu",
+      "nous": "eussions soutenu",
+      "vous": "eussiez soutenu",
+      "ils": "eussent soutenu"
+    },
+    "translation": "podtrzymywać",
+    "group": 3
+  },
+  {
+    "infinitive": "souvenir",
+    "présent": {
+      "je": "me souviens",
+      "tu": "te souviens",
+      "il": "se souvient",
+      "nous": "nous souvenons",
+      "vous": "vous souvenez",
+      "ils": "se souviennent"
+    },
+    "passé_composé": {
+      "je": "me suis souvenu",
+      "tu": "es souvenu",
+      "il": "est souvenu",
+      "nous": "nous sommes souvenus",
+      "vous": "vous êtes souvenus",
+      "ils": "se sont souvenus"
+    },
+    "imparfait": {
+      "je": "me souvenais",
+      "tu": "te souvenais",
+      "il": "se souvenait",
+      "nous": "nous souvenions",
+      "vous": "vous souveniez",
+      "ils": "se souvenaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais souvenu",
+      "tu": "étais souvenu",
+      "il": "était souvenu",
+      "nous": "nous étions souvenus",
+      "vous": "vous étiez souvenus",
+      "ils": "étaient souvenus"
+    },
+    "passé_simple": {
+      "je": "me souvins",
+      "tu": "te souvins",
+      "il": "se souvint",
+      "nous": "nous souvînmes",
+      "vous": "vous souvîntes",
+      "ils": "se souvinrent"
+    },
+    "passé_antérieur": {
+      "je": "me fus souvenu",
+      "tu": "te fus souvenu",
+      "il": "se fut souvenu",
+      "nous": "nous fûmes souvenus",
+      "vous": "vous fûtes souvenus",
+      "ils": "se furent souvenus"
+    },
+    "futur_simple": {
+      "je": "me souviendrai",
+      "tu": "te souviendras",
+      "il": "se souviendra",
+      "nous": "nous souviendrons",
+      "vous": "vous souviendrez",
+      "ils": "se souviendront"
+    },
+    "futur_antérieur": {
+      "je": "me serai souvenu",
+      "tu": "te seras souvenu",
+      "il": "se sera souvenu",
+      "nous": "nous serons souvenus",
+      "vous": "vous serez souvenus",
+      "ils": "se seront souvenus"
+    },
+    "subjonctif_présent": {
+      "je": "me souvienne",
+      "tu": "te souviennes",
+      "il": "se souvienne",
+      "nous": "nous souvenions",
+      "vous": "vous souveniez",
+      "ils": "se souviennent"
+    },
+    "subjonctif_passé": {
+      "je": "me sois souvenu",
+      "tu": "te sois souvenu",
+      "il": "se soit souvenu",
+      "nous": "nous soyons souvenus",
+      "vous": "vous soyez souvenus",
+      "ils": "se soient souvenus"
+    },
+    "subjonctif_imparfait": {
+      "je": "me souvinsse",
+      "tu": "te souvinsses",
+      "il": "se souvînt",
+      "nous": "nous souvinssions",
+      "vous": "vous souvinssiez",
+      "ils": "se souvinssent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse souvenu",
+      "tu": "te fusses souvenu",
+      "il": "se fût souvenu",
+      "nous": "nous fussions souvenus",
+      "vous": "vous fussiez souvenus",
+      "ils": "se fussent souvenus"
+    },
+    "conditionnel_présent": {
+      "je": "me souviendrais",
+      "tu": "te souviendrais",
+      "il": "se souviendrait",
+      "nous": "nous souviendrions",
+      "vous": "vous souviendriez",
+      "ils": "se souviendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais souvenu",
+      "tu": "te serais souvenu",
+      "il": "se serait souvenu",
+      "nous": "nous serions souvenus",
+      "vous": "vous seriez souvenus",
+      "ils": "se seraient souvenus"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse souvenu",
+      "tu": "te fusses souvenu",
+      "il": "se fût souvenu",
+      "nous": "nous fussions souvenus",
+      "vous": "vous fussiez souvenus",
+      "ils": "se fussent souvenus"
+    },
+    "translation": "przypominać",
+    "group": 3
+  },
+  {
+    "infinitive": "spécifier",
+    "présent": {
+      "je": "spécifie",
+      "tu": "spécifies",
+      "il": "spécifie",
+      "nous": "spécifions",
+      "vous": "spécifiez",
+      "ils": "spécifient"
+    },
+    "passé_composé": {
+      "je": "ai spécifié",
+      "tu": "as spécifié",
+      "il": "a spécifié",
+      "nous": "avons spécifié",
+      "vous": "avez spécifié",
+      "ils": "ont spécifié"
+    },
+    "imparfait": {
+      "je": "spécifiais",
+      "tu": "spécifiais",
+      "il": "spécifiait",
+      "nous": "spécifiions",
+      "vous": "spécifiiez",
+      "ils": "spécifiaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais spécifié",
+      "tu": "avais spécifié",
+      "il": "avait spécifié",
+      "nous": "avions spécifié",
+      "vous": "aviez spécifié",
+      "ils": "avaient spécifié"
+    },
+    "passé_simple": {
+      "je": "spécifiai",
+      "tu": "spécifias",
+      "il": "spécifia",
+      "nous": "spécifiâmes",
+      "vous": "spécifiâtes",
+      "ils": "spécifièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus spécifié",
+      "tu": "eus spécifié",
+      "il": "eut spécifié",
+      "nous": "eûmes spécifié",
+      "vous": "eûtes spécifié",
+      "ils": "eurent spécifié"
+    },
+    "futur_simple": {
+      "je": "spécifierai",
+      "tu": "spécifieras",
+      "il": "spécifiera",
+      "nous": "spécifierons",
+      "vous": "spécifierez",
+      "ils": "spécifieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai spécifié",
+      "tu": "auras spécifié",
+      "il": "aura spécifié",
+      "nous": "aurons spécifié",
+      "vous": "aurez spécifié",
+      "ils": "auront spécifié"
+    },
+    "subjonctif_présent": {
+      "je": "spécifie",
+      "tu": "spécifies",
+      "il": "spécifie",
+      "nous": "spécifiions",
+      "vous": "spécifiiez",
+      "ils": "spécifient"
+    },
+    "subjonctif_passé": {
+      "je": "aie spécifié",
+      "tu": "aies spécifié",
+      "il": "ait spécifié",
+      "nous": "ayons spécifié",
+      "vous": "ayez spécifié",
+      "ils": "aient spécifié"
+    },
+    "subjonctif_imparfait": {
+      "je": "spécifiasse",
+      "tu": "spécifiasses",
+      "il": "spécifiât",
+      "nous": "spécifiassions",
+      "vous": "spécifiassiez",
+      "ils": "spécifiassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse spécifié",
+      "tu": "eusses spécifié",
+      "il": "eût spécifié",
+      "nous": "eussions spécifié",
+      "vous": "eussiez spécifié",
+      "ils": "eussent spécifié"
+    },
+    "conditionnel_présent": {
+      "je": "spécifierais",
+      "tu": "spécifierais",
+      "il": "spécifierait",
+      "nous": "spécifierions",
+      "vous": "spécifieriez",
+      "ils": "spécifieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais spécifié",
+      "tu": "aurais spécifié",
+      "il": "aurait spécifié",
+      "nous": "aurions spécifié",
+      "vous": "auriez spécifié",
+      "ils": "auraient spécifié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse spécifié",
+      "tu": "eusses spécifié",
+      "il": "eût spécifié",
+      "nous": "eussions spécifié",
+      "vous": "eussiez spécifié",
+      "ils": "eussent spécifié"
+    },
+    "translation": "precyzować",
+    "group": 1
+  }
+]

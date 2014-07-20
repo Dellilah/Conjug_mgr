@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "démentir",
+    "présent": {
+      "je": "démens",
+      "tu": "démens",
+      "il": "dément",
+      "nous": "démentons",
+      "vous": "démentez",
+      "ils": "démentent"
+    },
+    "passé_composé": {
+      "je": "ai démenti",
+      "tu": "as démenti",
+      "il": "a démenti",
+      "nous": "avons démenti",
+      "vous": "avez démenti",
+      "ils": "ont démenti"
+    },
+    "imparfait": {
+      "je": "démentais",
+      "tu": "démentais",
+      "il": "démentait",
+      "nous": "démentions",
+      "vous": "démentiez",
+      "ils": "démentaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais démenti",
+      "tu": "avais démenti",
+      "il": "avait démenti",
+      "nous": "avions démenti",
+      "vous": "aviez démenti",
+      "ils": "avaient démenti"
+    },
+    "passé_simple": {
+      "je": "démentis",
+      "tu": "démentis",
+      "il": "démentit",
+      "nous": "démentîmes",
+      "vous": "démentîtes",
+      "ils": "démentirent"
+    },
+    "passé_antérieur": {
+      "je": "eus démenti",
+      "tu": "eus démenti",
+      "il": "eut démenti",
+      "nous": "eûmes démenti",
+      "vous": "eûtes démenti",
+      "ils": "eurent démenti"
+    },
+    "futur_simple": {
+      "je": "démentirai",
+      "tu": "démentiras",
+      "il": "démentira",
+      "nous": "démentirons",
+      "vous": "démentirez",
+      "ils": "démentiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai démenti",
+      "tu": "auras démenti",
+      "il": "aura démenti",
+      "nous": "aurons démenti",
+      "vous": "aurez démenti",
+      "ils": "auront démenti"
+    },
+    "subjonctif_présent": {
+      "je": "démente",
+      "tu": "démentes",
+      "il": "démente",
+      "nous": "démentions",
+      "vous": "démentiez",
+      "ils": "démentent"
+    },
+    "subjonctif_passé": {
+      "je": "aie démenti",
+      "tu": "aies démenti",
+      "il": "ait démenti",
+      "nous": "ayons démenti",
+      "vous": "ayez démenti",
+      "ils": "aient démenti"
+    },
+    "subjonctif_imparfait": {
+      "je": "démentisse",
+      "tu": "démentisses",
+      "il": "démentît",
+      "nous": "démentissions",
+      "vous": "démentissiez",
+      "ils": "démentissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse démenti",
+      "tu": "eusses démenti",
+      "il": "eût démenti",
+      "nous": "eussions démenti",
+      "vous": "eussiez démenti",
+      "ils": "eussent démenti"
+    },
+    "conditionnel_présent": {
+      "je": "démentirais",
+      "tu": "démentirais",
+      "il": "démentirait",
+      "nous": "démentirions",
+      "vous": "démentiriez",
+      "ils": "démentiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais démenti",
+      "tu": "aurais démenti",
+      "il": "aurait démenti",
+      "nous": "aurions démenti",
+      "vous": "auriez démenti",
+      "ils": "auraient démenti"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse démenti",
+      "tu": "eusses démenti",
+      "il": "eût démenti",
+      "nous": "eussions démenti",
+      "vous": "eussiez démenti",
+      "ils": "eussent démenti"
+    },
+    "translation": "zaprzeczać",
+    "group": 3
+  },
+  {
+    "infinitive": "démettre",
+    "présent": {
+      "je": "démets",
+      "tu": "démets",
+      "il": "démet",
+      "nous": "démettons",
+      "vous": "démettez",
+      "ils": "démettent"
+    },
+    "passé_composé": {
+      "je": "ai démis",
+      "tu": "as démis",
+      "il": "a démis",
+      "nous": "avons démis",
+      "vous": "avez démis",
+      "ils": "ont démis"
+    },
+    "imparfait": {
+      "je": "démettais",
+      "tu": "démettais",
+      "il": "démettait",
+      "nous": "démettions",
+      "vous": "démettiez",
+      "ils": "démettaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais démis",
+      "tu": "avais démis",
+      "il": "avait démis",
+      "nous": "avions démis",
+      "vous": "aviez démis",
+      "ils": "avaient démis"
+    },
+    "passé_simple": {
+      "je": "démis",
+      "tu": "démis",
+      "il": "démit",
+      "nous": "démîmes",
+      "vous": "démîtes",
+      "ils": "démirent"
+    },
+    "passé_antérieur": {
+      "je": "eus démis",
+      "tu": "eus démis",
+      "il": "eut démis",
+      "nous": "eûmes démis",
+      "vous": "eûtes démis",
+      "ils": "eurent démis"
+    },
+    "futur_simple": {
+      "je": "démettrai",
+      "tu": "démettras",
+      "il": "démettra",
+      "nous": "démettrons",
+      "vous": "démettrez",
+      "ils": "démettront"
+    },
+    "futur_antérieur": {
+      "je": "aurai démis",
+      "tu": "auras démis",
+      "il": "aura démis",
+      "nous": "aurons démis",
+      "vous": "aurez démis",
+      "ils": "auront démis"
+    },
+    "subjonctif_présent": {
+      "je": "démette",
+      "tu": "démettes",
+      "il": "démette",
+      "nous": "démettions",
+      "vous": "démettiez",
+      "ils": "démettent"
+    },
+    "subjonctif_passé": {
+      "je": "aie démis",
+      "tu": "aies démis",
+      "il": "ait démis",
+      "nous": "ayons démis",
+      "vous": "ayez démis",
+      "ils": "aient démis"
+    },
+    "subjonctif_imparfait": {
+      "je": "démisse",
+      "tu": "démisses",
+      "il": "démît",
+      "nous": "démissions",
+      "vous": "démissiez",
+      "ils": "démissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse démis",
+      "tu": "eusses démis",
+      "il": "eût démis",
+      "nous": "eussions démis",
+      "vous": "eussiez démis",
+      "ils": "eussent démis"
+    },
+    "conditionnel_présent": {
+      "je": "démettrais",
+      "tu": "démettrais",
+      "il": "démettrait",
+      "nous": "démettrions",
+      "vous": "démettriez",
+      "ils": "démettraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais démis",
+      "tu": "aurais démis",
+      "il": "aurait démis",
+      "nous": "aurions démis",
+      "vous": "auriez démis",
+      "ils": "auraient démis"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse démis",
+      "tu": "eusses démis",
+      "il": "eût démis",
+      "nous": "eussions démis",
+      "vous": "eussiez démis",
+      "ils": "eussent démis"
+    },
+    "translation": "usuwać",
+    "group": 3
+  },
+  {
+    "infinitive": "demeurer",
+    "présent": {
+      "je": "demeure",
+      "tu": "demeures",
+      "il": "demeure",
+      "nous": "demeurons",
+      "vous": "demeurez",
+      "ils": "demeurent"
+    },
+    "passé_composé": {
+      "je": "ai demeuré",
+      "tu": "as demeuré",
+      "il": "a demeuré",
+      "nous": "avons demeuré",
+      "vous": "avez demeuré",
+      "ils": "ont demeuré"
+    },
+    "imparfait": {
+      "je": "demeurais",
+      "tu": "demeurais",
+      "il": "demeurait",
+      "nous": "demeurions",
+      "vous": "demeuriez",
+      "ils": "demeuraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais demeuré",
+      "tu": "avais demeuré",
+      "il": "avait demeuré",
+      "nous": "avions demeuré",
+      "vous": "aviez demeuré",
+      "ils": "avaient demeuré"
+    },
+    "passé_simple": {
+      "je": "demeurai",
+      "tu": "demeuras",
+      "il": "demeura",
+      "nous": "demeurâmes",
+      "vous": "demeurâtes",
+      "ils": "demeurèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus demeuré",
+      "tu": "eus demeuré",
+      "il": "eut demeuré",
+      "nous": "eûmes demeuré",
+      "vous": "eûtes demeuré",
+      "ils": "eurent demeuré"
+    },
+    "futur_simple": {
+      "je": "demeurerai",
+      "tu": "demeureras",
+      "il": "demeurera",
+      "nous": "demeurerons",
+      "vous": "demeurerez",
+      "ils": "demeureront"
+    },
+    "futur_antérieur": {
+      "je": "aurai demeuré",
+      "tu": "auras demeuré",
+      "il": "aura demeuré",
+      "nous": "aurons demeuré",
+      "vous": "aurez demeuré",
+      "ils": "auront demeuré"
+    },
+    "subjonctif_présent": {
+      "je": "demeure",
+      "tu": "demeures",
+      "il": "demeure",
+      "nous": "demeurions",
+      "vous": "demeuriez",
+      "ils": "demeurent"
+    },
+    "subjonctif_passé": {
+      "je": "aie demeuré",
+      "tu": "aies demeuré",
+      "il": "ait demeuré",
+      "nous": "ayons demeuré",
+      "vous": "ayez demeuré",
+      "ils": "aient demeuré"
+    },
+    "subjonctif_imparfait": {
+      "je": "demeurasse",
+      "tu": "demeurasses",
+      "il": "demeurât",
+      "nous": "demeurassions",
+      "vous": "demeurassiez",
+      "ils": "demeurassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse demeuré",
+      "tu": "eusses demeuré",
+      "il": "eût demeuré",
+      "nous": "eussions demeuré",
+      "vous": "eussiez demeuré",
+      "ils": "eussent demeuré"
+    },
+    "conditionnel_présent": {
+      "je": "demeurerais",
+      "tu": "demeurerais",
+      "il": "demeurerait",
+      "nous": "demeurerions",
+      "vous": "demeureriez",
+      "ils": "demeureraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais demeuré",
+      "tu": "aurais demeuré",
+      "il": "aurait demeuré",
+      "nous": "aurions demeuré",
+      "vous": "auriez demeuré",
+      "ils": "auraient demeuré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse demeuré",
+      "tu": "eusses demeuré",
+      "il": "eût demeuré",
+      "nous": "eussions demeuré",
+      "vous": "eussiez demeuré",
+      "ils": "eussent demeuré"
+    },
+    "translation": "zamieszkiwać",
+    "group": 1
+  },
+  {
+    "infinitive": "démissionner",
+    "présent": {
+      "je": "démissionne",
+      "tu": "démissionnes",
+      "il": "démissionne",
+      "nous": "démissionnons",
+      "vous": "démissionnez",
+      "ils": "démissionnent"
+    },
+    "passé_composé": {
+      "je": "ai démissionné",
+      "tu": "as démissionné",
+      "il": "a démissionné",
+      "nous": "avons démissionné",
+      "vous": "avez démissionné",
+      "ils": "ont démissionné"
+    },
+    "imparfait": {
+      "je": "démissionnais",
+      "tu": "démissionnais",
+      "il": "démissionnait",
+      "nous": "démissionnions",
+      "vous": "démissionniez",
+      "ils": "démissionnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais démissionné",
+      "tu": "avais démissionné",
+      "il": "avait démissionné",
+      "nous": "avions démissionné",
+      "vous": "aviez démissionné",
+      "ils": "avaient démissionné"
+    },
+    "passé_simple": {
+      "je": "démissionnai",
+      "tu": "démissionnas",
+      "il": "démissionna",
+      "nous": "démissionnâmes",
+      "vous": "démissionnâtes",
+      "ils": "démissionnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus démissionné",
+      "tu": "eus démissionné",
+      "il": "eut démissionné",
+      "nous": "eûmes démissionné",
+      "vous": "eûtes démissionné",
+      "ils": "eurent démissionné"
+    },
+    "futur_simple": {
+      "je": "démissionnerai",
+      "tu": "démissionneras",
+      "il": "démissionnera",
+      "nous": "démissionnerons",
+      "vous": "démissionnerez",
+      "ils": "démissionneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai démissionné",
+      "tu": "auras démissionné",
+      "il": "aura démissionné",
+      "nous": "aurons démissionné",
+      "vous": "aurez démissionné",
+      "ils": "auront démissionné"
+    },
+    "subjonctif_présent": {
+      "je": "démissionne",
+      "tu": "démissionnes",
+      "il": "démissionne",
+      "nous": "démissionnions",
+      "vous": "démissionniez",
+      "ils": "démissionnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie démissionné",
+      "tu": "aies démissionné",
+      "il": "ait démissionné",
+      "nous": "ayons démissionné",
+      "vous": "ayez démissionné",
+      "ils": "aient démissionné"
+    },
+    "subjonctif_imparfait": {
+      "je": "démissionnasse",
+      "tu": "démissionnasses",
+      "il": "démissionnât",
+      "nous": "démissionnassions",
+      "vous": "démissionnassiez",
+      "ils": "démissionnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse démissionné",
+      "tu": "eusses démissionné",
+      "il": "eût démissionné",
+      "nous": "eussions démissionné",
+      "vous": "eussiez démissionné",
+      "ils": "eussent démissionné"
+    },
+    "conditionnel_présent": {
+      "je": "démissionnerais",
+      "tu": "démissionnerais",
+      "il": "démissionnerait",
+      "nous": "démissionnerions",
+      "vous": "démissionneriez",
+      "ils": "démissionneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais démissionné",
+      "tu": "aurais démissionné",
+      "il": "aurait démissionné",
+      "nous": "aurions démissionné",
+      "vous": "auriez démissionné",
+      "ils": "auraient démissionné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse démissionné",
+      "tu": "eusses démissionné",
+      "il": "eût démissionné",
+      "nous": "eussions démissionné",
+      "vous": "eussiez démissionné",
+      "ils": "eussent démissionné"
+    },
+    "translation": "składać",
+    "group": 1
+  },
+  {
+    "infinitive": "démolir",
+    "présent": {
+      "je": "démolis",
+      "tu": "démolis",
+      "il": "démolit",
+      "nous": "démolissons",
+      "vous": "démolissez",
+      "ils": "démolissent"
+    },
+    "passé_composé": {
+      "je": "ai démoli",
+      "tu": "as démoli",
+      "il": "a démoli",
+      "nous": "avons démoli",
+      "vous": "avez démoli",
+      "ils": "ont démoli"
+    },
+    "imparfait": {
+      "je": "démolissais",
+      "tu": "démolissais",
+      "il": "démolissait",
+      "nous": "démolissions",
+      "vous": "démolissiez",
+      "ils": "démolissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais démoli",
+      "tu": "avais démoli",
+      "il": "avait démoli",
+      "nous": "avions démoli",
+      "vous": "aviez démoli",
+      "ils": "avaient démoli"
+    },
+    "passé_simple": {
+      "je": "démolis",
+      "tu": "démolis",
+      "il": "démolit",
+      "nous": "démolîmes",
+      "vous": "démolîtes",
+      "ils": "démolirent"
+    },
+    "passé_antérieur": {
+      "je": "eus démoli",
+      "tu": "eus démoli",
+      "il": "eut démoli",
+      "nous": "eûmes démoli",
+      "vous": "eûtes démoli",
+      "ils": "eurent démoli"
+    },
+    "futur_simple": {
+      "je": "démolirai",
+      "tu": "démoliras",
+      "il": "démolira",
+      "nous": "démolirons",
+      "vous": "démolirez",
+      "ils": "démoliront"
+    },
+    "futur_antérieur": {
+      "je": "aurai démoli",
+      "tu": "auras démoli",
+      "il": "aura démoli",
+      "nous": "aurons démoli",
+      "vous": "aurez démoli",
+      "ils": "auront démoli"
+    },
+    "subjonctif_présent": {
+      "je": "démolisse",
+      "tu": "démolisses",
+      "il": "démolisse",
+      "nous": "démolissions",
+      "vous": "démolissiez",
+      "ils": "démolissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie démoli",
+      "tu": "aies démoli",
+      "il": "ait démoli",
+      "nous": "ayons démoli",
+      "vous": "ayez démoli",
+      "ils": "aient démoli"
+    },
+    "subjonctif_imparfait": {
+      "je": "démolisse",
+      "tu": "démolisses",
+      "il": "démolît",
+      "nous": "démolissions",
+      "vous": "démolissiez",
+      "ils": "démolissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse démoli",
+      "tu": "eusses démoli",
+      "il": "eût démoli",
+      "nous": "eussions démoli",
+      "vous": "eussiez démoli",
+      "ils": "eussent démoli"
+    },
+    "conditionnel_présent": {
+      "je": "démolirais",
+      "tu": "démolirais",
+      "il": "démolirait",
+      "nous": "démolirions",
+      "vous": "démoliriez",
+      "ils": "démoliraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais démoli",
+      "tu": "aurais démoli",
+      "il": "aurait démoli",
+      "nous": "aurions démoli",
+      "vous": "auriez démoli",
+      "ils": "auraient démoli"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse démoli",
+      "tu": "eusses démoli",
+      "il": "eût démoli",
+      "nous": "eussions démoli",
+      "vous": "eussiez démoli",
+      "ils": "eussent démoli"
+    },
+    "translation": "rozwalać",
+    "group": 2
+  },
+  {
+    "infinitive": "démontrer",
+    "présent": {
+      "je": "démontre",
+      "tu": "démontres",
+      "il": "démontre",
+      "nous": "démontrons",
+      "vous": "démontrez",
+      "ils": "démontrent"
+    },
+    "passé_composé": {
+      "je": "ai démontré",
+      "tu": "as démontré",
+      "il": "a démontré",
+      "nous": "avons démontré",
+      "vous": "avez démontré",
+      "ils": "ont démontré"
+    },
+    "imparfait": {
+      "je": "démontrais",
+      "tu": "démontrais",
+      "il": "démontrait",
+      "nous": "démontrions",
+      "vous": "démontriez",
+      "ils": "démontraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais démontré",
+      "tu": "avais démontré",
+      "il": "avait démontré",
+      "nous": "avions démontré",
+      "vous": "aviez démontré",
+      "ils": "avaient démontré"
+    },
+    "passé_simple": {
+      "je": "démontrai",
+      "tu": "démontras",
+      "il": "démontra",
+      "nous": "démontrâmes",
+      "vous": "démontrâtes",
+      "ils": "démontrèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus démontré",
+      "tu": "eus démontré",
+      "il": "eut démontré",
+      "nous": "eûmes démontré",
+      "vous": "eûtes démontré",
+      "ils": "eurent démontré"
+    },
+    "futur_simple": {
+      "je": "démontrerai",
+      "tu": "démontreras",
+      "il": "démontrera",
+      "nous": "démontrerons",
+      "vous": "démontrerez",
+      "ils": "démontreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai démontré",
+      "tu": "auras démontré",
+      "il": "aura démontré",
+      "nous": "aurons démontré",
+      "vous": "aurez démontré",
+      "ils": "auront démontré"
+    },
+    "subjonctif_présent": {
+      "je": "démontre",
+      "tu": "démontres",
+      "il": "démontre",
+      "nous": "démontrions",
+      "vous": "démontriez",
+      "ils": "démontrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie démontré",
+      "tu": "aies démontré",
+      "il": "ait démontré",
+      "nous": "ayons démontré",
+      "vous": "ayez démontré",
+      "ils": "aient démontré"
+    },
+    "subjonctif_imparfait": {
+      "je": "démontrasse",
+      "tu": "démontrasses",
+      "il": "démontrât",
+      "nous": "démontrassions",
+      "vous": "démontrassiez",
+      "ils": "démontrassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse démontré",
+      "tu": "eusses démontré",
+      "il": "eût démontré",
+      "nous": "eussions démontré",
+      "vous": "eussiez démontré",
+      "ils": "eussent démontré"
+    },
+    "conditionnel_présent": {
+      "je": "démontrerais",
+      "tu": "démontrerais",
+      "il": "démontrerait",
+      "nous": "démontrerions",
+      "vous": "démontreriez",
+      "ils": "démontreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais démontré",
+      "tu": "aurais démontré",
+      "il": "aurait démontré",
+      "nous": "aurions démontré",
+      "vous": "auriez démontré",
+      "ils": "auraient démontré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse démontré",
+      "tu": "eusses démontré",
+      "il": "eût démontré",
+      "nous": "eussions démontré",
+      "vous": "eussiez démontré",
+      "ils": "eussent démontré"
+    },
+    "translation": "dowodzić",
+    "group": 1
+  },
+  {
+    "infinitive": "démordre",
+    "présent": {
+      "je": "démords",
+      "tu": "démords",
+      "il": "démord",
+      "nous": "démordons",
+      "vous": "démordez",
+      "ils": "démordent"
+    },
+    "passé_composé": {
+      "je": "ai démordu",
+      "tu": "as démordu",
+      "il": "a démordu",
+      "nous": "avons démordu",
+      "vous": "avez démordu",
+      "ils": "ont démordu"
+    },
+    "imparfait": {
+      "je": "démordais",
+      "tu": "démordais",
+      "il": "démordait",
+      "nous": "démordions",
+      "vous": "démordiez",
+      "ils": "démordaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais démordu",
+      "tu": "avais démordu",
+      "il": "avait démordu",
+      "nous": "avions démordu",
+      "vous": "aviez démordu",
+      "ils": "avaient démordu"
+    },
+    "passé_simple": {
+      "je": "démordis",
+      "tu": "démordis",
+      "il": "démordit",
+      "nous": "démordîmes",
+      "vous": "démordîtes",
+      "ils": "démordirent"
+    },
+    "passé_antérieur": {
+      "je": "eus démordu",
+      "tu": "eus démordu",
+      "il": "eut démordu",
+      "nous": "eûmes démordu",
+      "vous": "eûtes démordu",
+      "ils": "eurent démordu"
+    },
+    "futur_simple": {
+      "je": "démordrai",
+      "tu": "démordras",
+      "il": "démordra",
+      "nous": "démordrons",
+      "vous": "démordrez",
+      "ils": "démordront"
+    },
+    "futur_antérieur": {
+      "je": "aurai démordu",
+      "tu": "auras démordu",
+      "il": "aura démordu",
+      "nous": "aurons démordu",
+      "vous": "aurez démordu",
+      "ils": "auront démordu"
+    },
+    "subjonctif_présent": {
+      "je": "démorde",
+      "tu": "démordes",
+      "il": "démorde",
+      "nous": "démordions",
+      "vous": "démordiez",
+      "ils": "démordent"
+    },
+    "subjonctif_passé": {
+      "je": "aie démordu",
+      "tu": "aies démordu",
+      "il": "ait démordu",
+      "nous": "ayons démordu",
+      "vous": "ayez démordu",
+      "ils": "aient démordu"
+    },
+    "subjonctif_imparfait": {
+      "je": "démordisse",
+      "tu": "démordisses",
+      "il": "démordît",
+      "nous": "démordissions",
+      "vous": "démordissiez",
+      "ils": "démordissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse démordu",
+      "tu": "eusses démordu",
+      "il": "eût démordu",
+      "nous": "eussions démordu",
+      "vous": "eussiez démordu",
+      "ils": "eussent démordu"
+    },
+    "conditionnel_présent": {
+      "je": "démordrais",
+      "tu": "démordrais",
+      "il": "démordrait",
+      "nous": "démordrions",
+      "vous": "démordriez",
+      "ils": "démordraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais démordu",
+      "tu": "aurais démordu",
+      "il": "aurait démordu",
+      "nous": "aurions démordu",
+      "vous": "auriez démordu",
+      "ils": "auraient démordu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse démordu",
+      "tu": "eusses démordu",
+      "il": "eût démordu",
+      "nous": "eussions démordu",
+      "vous": "eussiez démordu",
+      "ils": "eussent démordu"
+    },
+    "translation": "bałaganiarstwo",
+    "group": 3
+  },
+  {
+    "infinitive": "démunir",
+    "présent": {
+      "je": "démunis",
+      "tu": "démunis",
+      "il": "démunit",
+      "nous": "démunissons",
+      "vous": "démunissez",
+      "ils": "démunissent"
+    },
+    "passé_composé": {
+      "je": "ai démuni",
+      "tu": "as démuni",
+      "il": "a démuni",
+      "nous": "avons démuni",
+      "vous": "avez démuni",
+      "ils": "ont démuni"
+    },
+    "imparfait": {
+      "je": "démunissais",
+      "tu": "démunissais",
+      "il": "démunissait",
+      "nous": "démunissions",
+      "vous": "démunissiez",
+      "ils": "démunissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais démuni",
+      "tu": "avais démuni",
+      "il": "avait démuni",
+      "nous": "avions démuni",
+      "vous": "aviez démuni",
+      "ils": "avaient démuni"
+    },
+    "passé_simple": {
+      "je": "démunis",
+      "tu": "démunis",
+      "il": "démunit",
+      "nous": "démunîmes",
+      "vous": "démunîtes",
+      "ils": "démunirent"
+    },
+    "passé_antérieur": {
+      "je": "eus démuni",
+      "tu": "eus démuni",
+      "il": "eut démuni",
+      "nous": "eûmes démuni",
+      "vous": "eûtes démuni",
+      "ils": "eurent démuni"
+    },
+    "futur_simple": {
+      "je": "démunirai",
+      "tu": "démuniras",
+      "il": "démunira",
+      "nous": "démunirons",
+      "vous": "démunirez",
+      "ils": "démuniront"
+    },
+    "futur_antérieur": {
+      "je": "aurai démuni",
+      "tu": "auras démuni",
+      "il": "aura démuni",
+      "nous": "aurons démuni",
+      "vous": "aurez démuni",
+      "ils": "auront démuni"
+    },
+    "subjonctif_présent": {
+      "je": "démunisse",
+      "tu": "démunisses",
+      "il": "démunisse",
+      "nous": "démunissions",
+      "vous": "démunissiez",
+      "ils": "démunissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie démuni",
+      "tu": "aies démuni",
+      "il": "ait démuni",
+      "nous": "ayons démuni",
+      "vous": "ayez démuni",
+      "ils": "aient démuni"
+    },
+    "subjonctif_imparfait": {
+      "je": "démunisse",
+      "tu": "démunisses",
+      "il": "démunît",
+      "nous": "démunissions",
+      "vous": "démunissiez",
+      "ils": "démunissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse démuni",
+      "tu": "eusses démuni",
+      "il": "eût démuni",
+      "nous": "eussions démuni",
+      "vous": "eussiez démuni",
+      "ils": "eussent démuni"
+    },
+    "conditionnel_présent": {
+      "je": "démunirais",
+      "tu": "démunirais",
+      "il": "démunirait",
+      "nous": "démunirions",
+      "vous": "démuniriez",
+      "ils": "démuniraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais démuni",
+      "tu": "aurais démuni",
+      "il": "aurait démuni",
+      "nous": "aurions démuni",
+      "vous": "auriez démuni",
+      "ils": "auraient démuni"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse démuni",
+      "tu": "eusses démuni",
+      "il": "eût démuni",
+      "nous": "eussions démuni",
+      "vous": "eussiez démuni",
+      "ils": "eussent démuni"
+    },
+    "translation": "pozbawiony",
+    "group": 2
+  },
+  {
+    "infinitive": "dénier",
+    "présent": {
+      "je": "dénie",
+      "tu": "dénies",
+      "il": "dénie",
+      "nous": "dénions",
+      "vous": "déniez",
+      "ils": "dénient"
+    },
+    "passé_composé": {
+      "je": "ai dénié",
+      "tu": "as dénié",
+      "il": "a dénié",
+      "nous": "avons dénié",
+      "vous": "avez dénié",
+      "ils": "ont dénié"
+    },
+    "imparfait": {
+      "je": "déniais",
+      "tu": "déniais",
+      "il": "déniait",
+      "nous": "déniions",
+      "vous": "déniiez",
+      "ils": "déniaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dénié",
+      "tu": "avais dénié",
+      "il": "avait dénié",
+      "nous": "avions dénié",
+      "vous": "aviez dénié",
+      "ils": "avaient dénié"
+    },
+    "passé_simple": {
+      "je": "déniai",
+      "tu": "dénias",
+      "il": "dénia",
+      "nous": "déniâmes",
+      "vous": "déniâtes",
+      "ils": "dénièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus dénié",
+      "tu": "eus dénié",
+      "il": "eut dénié",
+      "nous": "eûmes dénié",
+      "vous": "eûtes dénié",
+      "ils": "eurent dénié"
+    },
+    "futur_simple": {
+      "je": "dénierai",
+      "tu": "dénieras",
+      "il": "déniera",
+      "nous": "dénierons",
+      "vous": "dénierez",
+      "ils": "dénieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dénié",
+      "tu": "auras dénié",
+      "il": "aura dénié",
+      "nous": "aurons dénié",
+      "vous": "aurez dénié",
+      "ils": "auront dénié"
+    },
+    "subjonctif_présent": {
+      "je": "dénie",
+      "tu": "dénies",
+      "il": "dénie",
+      "nous": "déniions",
+      "vous": "déniiez",
+      "ils": "dénient"
+    },
+    "subjonctif_passé": {
+      "je": "aie dénié",
+      "tu": "aies dénié",
+      "il": "ait dénié",
+      "nous": "ayons dénié",
+      "vous": "ayez dénié",
+      "ils": "aient dénié"
+    },
+    "subjonctif_imparfait": {
+      "je": "déniasse",
+      "tu": "déniasses",
+      "il": "déniât",
+      "nous": "déniassions",
+      "vous": "déniassiez",
+      "ils": "déniassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dénié",
+      "tu": "eusses dénié",
+      "il": "eût dénié",
+      "nous": "eussions dénié",
+      "vous": "eussiez dénié",
+      "ils": "eussent dénié"
+    },
+    "conditionnel_présent": {
+      "je": "dénierais",
+      "tu": "dénierais",
+      "il": "dénierait",
+      "nous": "dénierions",
+      "vous": "dénieriez",
+      "ils": "dénieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dénié",
+      "tu": "aurais dénié",
+      "il": "aurait dénié",
+      "nous": "aurions dénié",
+      "vous": "auriez dénié",
+      "ils": "auraient dénié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dénié",
+      "tu": "eusses dénié",
+      "il": "eût dénié",
+      "nous": "eussions dénié",
+      "vous": "eussiez dénié",
+      "ils": "eussent dénié"
+    },
+    "translation": "sztuczna",
+    "group": 1
+  },
+  {
+    "infinitive": "dénigrer",
+    "présent": {
+      "je": "dénigre",
+      "tu": "dénigres",
+      "il": "dénigre",
+      "nous": "dénigrons",
+      "vous": "dénigrez",
+      "ils": "dénigrent"
+    },
+    "passé_composé": {
+      "je": "ai dénigré",
+      "tu": "as dénigré",
+      "il": "a dénigré",
+      "nous": "avons dénigré",
+      "vous": "avez dénigré",
+      "ils": "ont dénigré"
+    },
+    "imparfait": {
+      "je": "dénigrais",
+      "tu": "dénigrais",
+      "il": "dénigrait",
+      "nous": "dénigrions",
+      "vous": "dénigriez",
+      "ils": "dénigraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dénigré",
+      "tu": "avais dénigré",
+      "il": "avait dénigré",
+      "nous": "avions dénigré",
+      "vous": "aviez dénigré",
+      "ils": "avaient dénigré"
+    },
+    "passé_simple": {
+      "je": "dénigrai",
+      "tu": "dénigras",
+      "il": "dénigra",
+      "nous": "dénigrâmes",
+      "vous": "dénigrâtes",
+      "ils": "dénigrèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus dénigré",
+      "tu": "eus dénigré",
+      "il": "eut dénigré",
+      "nous": "eûmes dénigré",
+      "vous": "eûtes dénigré",
+      "ils": "eurent dénigré"
+    },
+    "futur_simple": {
+      "je": "dénigrerai",
+      "tu": "dénigreras",
+      "il": "dénigrera",
+      "nous": "dénigrerons",
+      "vous": "dénigrerez",
+      "ils": "dénigreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dénigré",
+      "tu": "auras dénigré",
+      "il": "aura dénigré",
+      "nous": "aurons dénigré",
+      "vous": "aurez dénigré",
+      "ils": "auront dénigré"
+    },
+    "subjonctif_présent": {
+      "je": "dénigre",
+      "tu": "dénigres",
+      "il": "dénigre",
+      "nous": "dénigrions",
+      "vous": "dénigriez",
+      "ils": "dénigrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie dénigré",
+      "tu": "aies dénigré",
+      "il": "ait dénigré",
+      "nous": "ayons dénigré",
+      "vous": "ayez dénigré",
+      "ils": "aient dénigré"
+    },
+    "subjonctif_imparfait": {
+      "je": "dénigrasse",
+      "tu": "dénigrasses",
+      "il": "dénigrât",
+      "nous": "dénigrassions",
+      "vous": "dénigrassiez",
+      "ils": "dénigrassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dénigré",
+      "tu": "eusses dénigré",
+      "il": "eût dénigré",
+      "nous": "eussions dénigré",
+      "vous": "eussiez dénigré",
+      "ils": "eussent dénigré"
+    },
+    "conditionnel_présent": {
+      "je": "dénigrerais",
+      "tu": "dénigrerais",
+      "il": "dénigrerait",
+      "nous": "dénigrerions",
+      "vous": "dénigreriez",
+      "ils": "dénigreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dénigré",
+      "tu": "aurais dénigré",
+      "il": "aurait dénigré",
+      "nous": "aurions dénigré",
+      "vous": "auriez dénigré",
+      "ils": "auraient dénigré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dénigré",
+      "tu": "eusses dénigré",
+      "il": "eût dénigré",
+      "nous": "eussions dénigré",
+      "vous": "eussiez dénigré",
+      "ils": "eussent dénigré"
+    },
+    "translation": "dénigrer",
+    "group": 1
+  }
+]

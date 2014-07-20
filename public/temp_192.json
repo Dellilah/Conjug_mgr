@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "traverser",
+    "présent": {
+      "je": "traverse",
+      "tu": "traverses",
+      "il": "traverse",
+      "nous": "traversons",
+      "vous": "traversez",
+      "ils": "traversent"
+    },
+    "passé_composé": {
+      "je": "ai traversé",
+      "tu": "as traversé",
+      "il": "a traversé",
+      "nous": "avons traversé",
+      "vous": "avez traversé",
+      "ils": "ont traversé"
+    },
+    "imparfait": {
+      "je": "traversais",
+      "tu": "traversais",
+      "il": "traversait",
+      "nous": "traversions",
+      "vous": "traversiez",
+      "ils": "traversaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais traversé",
+      "tu": "avais traversé",
+      "il": "avait traversé",
+      "nous": "avions traversé",
+      "vous": "aviez traversé",
+      "ils": "avaient traversé"
+    },
+    "passé_simple": {
+      "je": "traversai",
+      "tu": "traversas",
+      "il": "traversa",
+      "nous": "traversâmes",
+      "vous": "traversâtes",
+      "ils": "traversèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus traversé",
+      "tu": "eus traversé",
+      "il": "eut traversé",
+      "nous": "eûmes traversé",
+      "vous": "eûtes traversé",
+      "ils": "eurent traversé"
+    },
+    "futur_simple": {
+      "je": "traverserai",
+      "tu": "traverseras",
+      "il": "traversera",
+      "nous": "traverserons",
+      "vous": "traverserez",
+      "ils": "traverseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai traversé",
+      "tu": "auras traversé",
+      "il": "aura traversé",
+      "nous": "aurons traversé",
+      "vous": "aurez traversé",
+      "ils": "auront traversé"
+    },
+    "subjonctif_présent": {
+      "je": "traverse",
+      "tu": "traverses",
+      "il": "traverse",
+      "nous": "traversions",
+      "vous": "traversiez",
+      "ils": "traversent"
+    },
+    "subjonctif_passé": {
+      "je": "aie traversé",
+      "tu": "aies traversé",
+      "il": "ait traversé",
+      "nous": "ayons traversé",
+      "vous": "ayez traversé",
+      "ils": "aient traversé"
+    },
+    "subjonctif_imparfait": {
+      "je": "traversasse",
+      "tu": "traversasses",
+      "il": "traversât",
+      "nous": "traversassions",
+      "vous": "traversassiez",
+      "ils": "traversassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse traversé",
+      "tu": "eusses traversé",
+      "il": "eût traversé",
+      "nous": "eussions traversé",
+      "vous": "eussiez traversé",
+      "ils": "eussent traversé"
+    },
+    "conditionnel_présent": {
+      "je": "traverserais",
+      "tu": "traverserais",
+      "il": "traverserait",
+      "nous": "traverserions",
+      "vous": "traverseriez",
+      "ils": "traverseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais traversé",
+      "tu": "aurais traversé",
+      "il": "aurait traversé",
+      "nous": "aurions traversé",
+      "vous": "auriez traversé",
+      "ils": "auraient traversé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse traversé",
+      "tu": "eusses traversé",
+      "il": "eût traversé",
+      "nous": "eussions traversé",
+      "vous": "eussiez traversé",
+      "ils": "eussent traversé"
+    },
+    "translation": "przebywać",
+    "group": 1
+  },
+  {
+    "infinitive": "trembler",
+    "présent": {
+      "je": "tremble",
+      "tu": "trembles",
+      "il": "tremble",
+      "nous": "tremblons",
+      "vous": "tremblez",
+      "ils": "tremblent"
+    },
+    "passé_composé": {
+      "je": "ai tremblé",
+      "tu": "as tremblé",
+      "il": "a tremblé",
+      "nous": "avons tremblé",
+      "vous": "avez tremblé",
+      "ils": "ont tremblé"
+    },
+    "imparfait": {
+      "je": "tremblais",
+      "tu": "tremblais",
+      "il": "tremblait",
+      "nous": "tremblions",
+      "vous": "trembliez",
+      "ils": "tremblaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais tremblé",
+      "tu": "avais tremblé",
+      "il": "avait tremblé",
+      "nous": "avions tremblé",
+      "vous": "aviez tremblé",
+      "ils": "avaient tremblé"
+    },
+    "passé_simple": {
+      "je": "tremblai",
+      "tu": "tremblas",
+      "il": "trembla",
+      "nous": "tremblâmes",
+      "vous": "tremblâtes",
+      "ils": "tremblèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus tremblé",
+      "tu": "eus tremblé",
+      "il": "eut tremblé",
+      "nous": "eûmes tremblé",
+      "vous": "eûtes tremblé",
+      "ils": "eurent tremblé"
+    },
+    "futur_simple": {
+      "je": "tremblerai",
+      "tu": "trembleras",
+      "il": "tremblera",
+      "nous": "tremblerons",
+      "vous": "tremblerez",
+      "ils": "trembleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai tremblé",
+      "tu": "auras tremblé",
+      "il": "aura tremblé",
+      "nous": "aurons tremblé",
+      "vous": "aurez tremblé",
+      "ils": "auront tremblé"
+    },
+    "subjonctif_présent": {
+      "je": "tremble",
+      "tu": "trembles",
+      "il": "tremble",
+      "nous": "tremblions",
+      "vous": "trembliez",
+      "ils": "tremblent"
+    },
+    "subjonctif_passé": {
+      "je": "aie tremblé",
+      "tu": "aies tremblé",
+      "il": "ait tremblé",
+      "nous": "ayons tremblé",
+      "vous": "ayez tremblé",
+      "ils": "aient tremblé"
+    },
+    "subjonctif_imparfait": {
+      "je": "tremblasse",
+      "tu": "tremblasses",
+      "il": "tremblât",
+      "nous": "tremblassions",
+      "vous": "tremblassiez",
+      "ils": "tremblassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse tremblé",
+      "tu": "eusses tremblé",
+      "il": "eût tremblé",
+      "nous": "eussions tremblé",
+      "vous": "eussiez tremblé",
+      "ils": "eussent tremblé"
+    },
+    "conditionnel_présent": {
+      "je": "tremblerais",
+      "tu": "tremblerais",
+      "il": "tremblerait",
+      "nous": "tremblerions",
+      "vous": "trembleriez",
+      "ils": "trembleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais tremblé",
+      "tu": "aurais tremblé",
+      "il": "aurait tremblé",
+      "nous": "aurions tremblé",
+      "vous": "auriez tremblé",
+      "ils": "auraient tremblé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse tremblé",
+      "tu": "eusses tremblé",
+      "il": "eût tremblé",
+      "nous": "eussions tremblé",
+      "vous": "eussiez tremblé",
+      "ils": "eussent tremblé"
+    },
+    "translation": "drżeć",
+    "group": 1
+  },
+  {
+    "infinitive": "tremper",
+    "présent": {
+      "je": "trempe",
+      "tu": "trempes",
+      "il": "trempe",
+      "nous": "trempons",
+      "vous": "trempez",
+      "ils": "trempent"
+    },
+    "passé_composé": {
+      "je": "ai trempé",
+      "tu": "as trempé",
+      "il": "a trempé",
+      "nous": "avons trempé",
+      "vous": "avez trempé",
+      "ils": "ont trempé"
+    },
+    "imparfait": {
+      "je": "trempais",
+      "tu": "trempais",
+      "il": "trempait",
+      "nous": "trempions",
+      "vous": "trempiez",
+      "ils": "trempaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais trempé",
+      "tu": "avais trempé",
+      "il": "avait trempé",
+      "nous": "avions trempé",
+      "vous": "aviez trempé",
+      "ils": "avaient trempé"
+    },
+    "passé_simple": {
+      "je": "trempai",
+      "tu": "trempas",
+      "il": "trempa",
+      "nous": "trempâmes",
+      "vous": "trempâtes",
+      "ils": "trempèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus trempé",
+      "tu": "eus trempé",
+      "il": "eut trempé",
+      "nous": "eûmes trempé",
+      "vous": "eûtes trempé",
+      "ils": "eurent trempé"
+    },
+    "futur_simple": {
+      "je": "tremperai",
+      "tu": "tremperas",
+      "il": "trempera",
+      "nous": "tremperons",
+      "vous": "tremperez",
+      "ils": "tremperont"
+    },
+    "futur_antérieur": {
+      "je": "aurai trempé",
+      "tu": "auras trempé",
+      "il": "aura trempé",
+      "nous": "aurons trempé",
+      "vous": "aurez trempé",
+      "ils": "auront trempé"
+    },
+    "subjonctif_présent": {
+      "je": "trempe",
+      "tu": "trempes",
+      "il": "trempe",
+      "nous": "trempions",
+      "vous": "trempiez",
+      "ils": "trempent"
+    },
+    "subjonctif_passé": {
+      "je": "aie trempé",
+      "tu": "aies trempé",
+      "il": "ait trempé",
+      "nous": "ayons trempé",
+      "vous": "ayez trempé",
+      "ils": "aient trempé"
+    },
+    "subjonctif_imparfait": {
+      "je": "trempasse",
+      "tu": "trempasses",
+      "il": "trempât",
+      "nous": "trempassions",
+      "vous": "trempassiez",
+      "ils": "trempassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse trempé",
+      "tu": "eusses trempé",
+      "il": "eût trempé",
+      "nous": "eussions trempé",
+      "vous": "eussiez trempé",
+      "ils": "eussent trempé"
+    },
+    "conditionnel_présent": {
+      "je": "tremperais",
+      "tu": "tremperais",
+      "il": "tremperait",
+      "nous": "tremperions",
+      "vous": "tremperiez",
+      "ils": "tremperaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais trempé",
+      "tu": "aurais trempé",
+      "il": "aurait trempé",
+      "nous": "aurions trempé",
+      "vous": "auriez trempé",
+      "ils": "auraient trempé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse trempé",
+      "tu": "eusses trempé",
+      "il": "eût trempé",
+      "nous": "eussions trempé",
+      "vous": "eussiez trempé",
+      "ils": "eussent trempé"
+    },
+    "translation": "moczyć",
+    "group": 1
+  },
+  {
+    "infinitive": "tressaillir",
+    "présent": {
+      "je": "tressaille",
+      "tu": "tressailles",
+      "il": "tressaille",
+      "nous": "tressaillons",
+      "vous": "tressaillez",
+      "ils": "tressaillent"
+    },
+    "passé_composé": {
+      "je": "ai tressailli",
+      "tu": "as tressailli",
+      "il": "a tressailli",
+      "nous": "avons tressailli",
+      "vous": "avez tressailli",
+      "ils": "ont tressailli"
+    },
+    "imparfait": {
+      "je": "tressaillais",
+      "tu": "tressaillais",
+      "il": "tressaillait",
+      "nous": "tressaillions",
+      "vous": "tressailliez",
+      "ils": "tressaillaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais tressailli",
+      "tu": "avais tressailli",
+      "il": "avait tressailli",
+      "nous": "avions tressailli",
+      "vous": "aviez tressailli",
+      "ils": "avaient tressailli"
+    },
+    "passé_simple": {
+      "je": "tressaillis",
+      "tu": "tressaillis",
+      "il": "tressaillit",
+      "nous": "tressaillîmes",
+      "vous": "tressaillîtes",
+      "ils": "tressaillirent"
+    },
+    "passé_antérieur": {
+      "je": "eus tressailli",
+      "tu": "eus tressailli",
+      "il": "eut tressailli",
+      "nous": "eûmes tressailli",
+      "vous": "eûtes tressailli",
+      "ils": "eurent tressailli"
+    },
+    "futur_simple": {
+      "je": "tressaillirai",
+      "tu": "tressailliras",
+      "il": "tressaillira",
+      "nous": "tressaillirons",
+      "vous": "tressaillirez",
+      "ils": "tressailliront"
+    },
+    "futur_antérieur": {
+      "je": "aurai tressailli",
+      "tu": "auras tressailli",
+      "il": "aura tressailli",
+      "nous": "aurons tressailli",
+      "vous": "aurez tressailli",
+      "ils": "auront tressailli"
+    },
+    "subjonctif_présent": {
+      "je": "tressaille",
+      "tu": "tressailles",
+      "il": "tressaille",
+      "nous": "tressaillions",
+      "vous": "tressailliez",
+      "ils": "tressaillent"
+    },
+    "subjonctif_passé": {
+      "je": "aie tressailli",
+      "tu": "aies tressailli",
+      "il": "ait tressailli",
+      "nous": "ayons tressailli",
+      "vous": "ayez tressailli",
+      "ils": "aient tressailli"
+    },
+    "subjonctif_imparfait": {
+      "je": "tressaillisse",
+      "tu": "tressaillisses",
+      "il": "tressaillît",
+      "nous": "tressaillissions",
+      "vous": "tressaillissiez",
+      "ils": "tressaillissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse tressailli",
+      "tu": "eusses tressailli",
+      "il": "eût tressailli",
+      "nous": "eussions tressailli",
+      "vous": "eussiez tressailli",
+      "ils": "eussent tressailli"
+    },
+    "conditionnel_présent": {
+      "je": "tressaillirais",
+      "tu": "tressaillirais",
+      "il": "tressaillirait",
+      "nous": "tressaillirions",
+      "vous": "tressailliriez",
+      "ils": "tressailliraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais tressailli",
+      "tu": "aurais tressailli",
+      "il": "aurait tressailli",
+      "nous": "aurions tressailli",
+      "vous": "auriez tressailli",
+      "ils": "auraient tressailli"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse tressailli",
+      "tu": "eusses tressailli",
+      "il": "eût tressailli",
+      "nous": "eussions tressailli",
+      "vous": "eussiez tressailli",
+      "ils": "eussent tressailli"
+    },
+    "translation": "drgać",
+    "group": 3
+  },
+  {
+    "infinitive": "tricher",
+    "présent": {
+      "je": "triche",
+      "tu": "triches",
+      "il": "triche",
+      "nous": "trichons",
+      "vous": "trichez",
+      "ils": "trichent"
+    },
+    "passé_composé": {
+      "je": "ai triché",
+      "tu": "as triché",
+      "il": "a triché",
+      "nous": "avons triché",
+      "vous": "avez triché",
+      "ils": "ont triché"
+    },
+    "imparfait": {
+      "je": "trichais",
+      "tu": "trichais",
+      "il": "trichait",
+      "nous": "trichions",
+      "vous": "trichiez",
+      "ils": "trichaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais triché",
+      "tu": "avais triché",
+      "il": "avait triché",
+      "nous": "avions triché",
+      "vous": "aviez triché",
+      "ils": "avaient triché"
+    },
+    "passé_simple": {
+      "je": "trichai",
+      "tu": "trichas",
+      "il": "tricha",
+      "nous": "trichâmes",
+      "vous": "trichâtes",
+      "ils": "trichèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus triché",
+      "tu": "eus triché",
+      "il": "eut triché",
+      "nous": "eûmes triché",
+      "vous": "eûtes triché",
+      "ils": "eurent triché"
+    },
+    "futur_simple": {
+      "je": "tricherai",
+      "tu": "tricheras",
+      "il": "trichera",
+      "nous": "tricherons",
+      "vous": "tricherez",
+      "ils": "tricheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai triché",
+      "tu": "auras triché",
+      "il": "aura triché",
+      "nous": "aurons triché",
+      "vous": "aurez triché",
+      "ils": "auront triché"
+    },
+    "subjonctif_présent": {
+      "je": "triche",
+      "tu": "triches",
+      "il": "triche",
+      "nous": "trichions",
+      "vous": "trichiez",
+      "ils": "trichent"
+    },
+    "subjonctif_passé": {
+      "je": "aie triché",
+      "tu": "aies triché",
+      "il": "ait triché",
+      "nous": "ayons triché",
+      "vous": "ayez triché",
+      "ils": "aient triché"
+    },
+    "subjonctif_imparfait": {
+      "je": "trichasse",
+      "tu": "trichasses",
+      "il": "trichât",
+      "nous": "trichassions",
+      "vous": "trichassiez",
+      "ils": "trichassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse triché",
+      "tu": "eusses triché",
+      "il": "eût triché",
+      "nous": "eussions triché",
+      "vous": "eussiez triché",
+      "ils": "eussent triché"
+    },
+    "conditionnel_présent": {
+      "je": "tricherais",
+      "tu": "tricherais",
+      "il": "tricherait",
+      "nous": "tricherions",
+      "vous": "tricheriez",
+      "ils": "tricheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais triché",
+      "tu": "aurais triché",
+      "il": "aurait triché",
+      "nous": "aurions triché",
+      "vous": "auriez triché",
+      "ils": "auraient triché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse triché",
+      "tu": "eusses triché",
+      "il": "eût triché",
+      "nous": "eussions triché",
+      "vous": "eussiez triché",
+      "ils": "eussent triché"
+    },
+    "translation": "oszukiwać",
+    "group": 1
+  },
+  {
+    "infinitive": "tricoter",
+    "présent": {
+      "je": "tricote",
+      "tu": "tricotes",
+      "il": "tricote",
+      "nous": "tricotons",
+      "vous": "tricotez",
+      "ils": "tricotent"
+    },
+    "passé_composé": {
+      "je": "ai tricoté",
+      "tu": "as tricoté",
+      "il": "a tricoté",
+      "nous": "avons tricoté",
+      "vous": "avez tricoté",
+      "ils": "ont tricoté"
+    },
+    "imparfait": {
+      "je": "tricotais",
+      "tu": "tricotais",
+      "il": "tricotait",
+      "nous": "tricotions",
+      "vous": "tricotiez",
+      "ils": "tricotaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais tricoté",
+      "tu": "avais tricoté",
+      "il": "avait tricoté",
+      "nous": "avions tricoté",
+      "vous": "aviez tricoté",
+      "ils": "avaient tricoté"
+    },
+    "passé_simple": {
+      "je": "tricotai",
+      "tu": "tricotas",
+      "il": "tricota",
+      "nous": "tricotâmes",
+      "vous": "tricotâtes",
+      "ils": "tricotèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus tricoté",
+      "tu": "eus tricoté",
+      "il": "eut tricoté",
+      "nous": "eûmes tricoté",
+      "vous": "eûtes tricoté",
+      "ils": "eurent tricoté"
+    },
+    "futur_simple": {
+      "je": "tricoterai",
+      "tu": "tricoteras",
+      "il": "tricotera",
+      "nous": "tricoterons",
+      "vous": "tricoterez",
+      "ils": "tricoteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai tricoté",
+      "tu": "auras tricoté",
+      "il": "aura tricoté",
+      "nous": "aurons tricoté",
+      "vous": "aurez tricoté",
+      "ils": "auront tricoté"
+    },
+    "subjonctif_présent": {
+      "je": "tricote",
+      "tu": "tricotes",
+      "il": "tricote",
+      "nous": "tricotions",
+      "vous": "tricotiez",
+      "ils": "tricotent"
+    },
+    "subjonctif_passé": {
+      "je": "aie tricoté",
+      "tu": "aies tricoté",
+      "il": "ait tricoté",
+      "nous": "ayons tricoté",
+      "vous": "ayez tricoté",
+      "ils": "aient tricoté"
+    },
+    "subjonctif_imparfait": {
+      "je": "tricotasse",
+      "tu": "tricotasses",
+      "il": "tricotât",
+      "nous": "tricotassions",
+      "vous": "tricotassiez",
+      "ils": "tricotassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse tricoté",
+      "tu": "eusses tricoté",
+      "il": "eût tricoté",
+      "nous": "eussions tricoté",
+      "vous": "eussiez tricoté",
+      "ils": "eussent tricoté"
+    },
+    "conditionnel_présent": {
+      "je": "tricoterais",
+      "tu": "tricoterais",
+      "il": "tricoterait",
+      "nous": "tricoterions",
+      "vous": "tricoteriez",
+      "ils": "tricoteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais tricoté",
+      "tu": "aurais tricoté",
+      "il": "aurait tricoté",
+      "nous": "aurions tricoté",
+      "vous": "auriez tricoté",
+      "ils": "auraient tricoté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse tricoté",
+      "tu": "eusses tricoté",
+      "il": "eût tricoté",
+      "nous": "eussions tricoté",
+      "vous": "eussiez tricoté",
+      "ils": "eussent tricoté"
+    },
+    "translation": "robić",
+    "group": 1
+  },
+  {
+    "infinitive": "trier",
+    "présent": {
+      "je": "trie",
+      "tu": "tries",
+      "il": "trie",
+      "nous": "trions",
+      "vous": "triez",
+      "ils": "trient"
+    },
+    "passé_composé": {
+      "je": "ai trié",
+      "tu": "as trié",
+      "il": "a trié",
+      "nous": "avons trié",
+      "vous": "avez trié",
+      "ils": "ont trié"
+    },
+    "imparfait": {
+      "je": "triais",
+      "tu": "triais",
+      "il": "triait",
+      "nous": "triions",
+      "vous": "triiez",
+      "ils": "triaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais trié",
+      "tu": "avais trié",
+      "il": "avait trié",
+      "nous": "avions trié",
+      "vous": "aviez trié",
+      "ils": "avaient trié"
+    },
+    "passé_simple": {
+      "je": "triai",
+      "tu": "trias",
+      "il": "tria",
+      "nous": "triâmes",
+      "vous": "triâtes",
+      "ils": "trièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus trié",
+      "tu": "eus trié",
+      "il": "eut trié",
+      "nous": "eûmes trié",
+      "vous": "eûtes trié",
+      "ils": "eurent trié"
+    },
+    "futur_simple": {
+      "je": "trierai",
+      "tu": "trieras",
+      "il": "triera",
+      "nous": "trierons",
+      "vous": "trierez",
+      "ils": "trieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai trié",
+      "tu": "auras trié",
+      "il": "aura trié",
+      "nous": "aurons trié",
+      "vous": "aurez trié",
+      "ils": "auront trié"
+    },
+    "subjonctif_présent": {
+      "je": "trie",
+      "tu": "tries",
+      "il": "trie",
+      "nous": "triions",
+      "vous": "triiez",
+      "ils": "trient"
+    },
+    "subjonctif_passé": {
+      "je": "aie trié",
+      "tu": "aies trié",
+      "il": "ait trié",
+      "nous": "ayons trié",
+      "vous": "ayez trié",
+      "ils": "aient trié"
+    },
+    "subjonctif_imparfait": {
+      "je": "triasse",
+      "tu": "triasses",
+      "il": "triât",
+      "nous": "triassions",
+      "vous": "triassiez",
+      "ils": "triassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse trié",
+      "tu": "eusses trié",
+      "il": "eût trié",
+      "nous": "eussions trié",
+      "vous": "eussiez trié",
+      "ils": "eussent trié"
+    },
+    "conditionnel_présent": {
+      "je": "trierais",
+      "tu": "trierais",
+      "il": "trierait",
+      "nous": "trierions",
+      "vous": "trieriez",
+      "ils": "trieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais trié",
+      "tu": "aurais trié",
+      "il": "aurait trié",
+      "nous": "aurions trié",
+      "vous": "auriez trié",
+      "ils": "auraient trié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse trié",
+      "tu": "eusses trié",
+      "il": "eût trié",
+      "nous": "eussions trié",
+      "vous": "eussiez trié",
+      "ils": "eussent trié"
+    },
+    "translation": "sortować",
+    "group": 1
+  },
+  {
+    "infinitive": "tripoter",
+    "présent": {
+      "je": "tripote",
+      "tu": "tripotes",
+      "il": "tripote",
+      "nous": "tripotons",
+      "vous": "tripotez",
+      "ils": "tripotent"
+    },
+    "passé_composé": {
+      "je": "ai tripoté",
+      "tu": "as tripoté",
+      "il": "a tripoté",
+      "nous": "avons tripoté",
+      "vous": "avez tripoté",
+      "ils": "ont tripoté"
+    },
+    "imparfait": {
+      "je": "tripotais",
+      "tu": "tripotais",
+      "il": "tripotait",
+      "nous": "tripotions",
+      "vous": "tripotiez",
+      "ils": "tripotaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais tripoté",
+      "tu": "avais tripoté",
+      "il": "avait tripoté",
+      "nous": "avions tripoté",
+      "vous": "aviez tripoté",
+      "ils": "avaient tripoté"
+    },
+    "passé_simple": {
+      "je": "tripotai",
+      "tu": "tripotas",
+      "il": "tripota",
+      "nous": "tripotâmes",
+      "vous": "tripotâtes",
+      "ils": "tripotèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus tripoté",
+      "tu": "eus tripoté",
+      "il": "eut tripoté",
+      "nous": "eûmes tripoté",
+      "vous": "eûtes tripoté",
+      "ils": "eurent tripoté"
+    },
+    "futur_simple": {
+      "je": "tripoterai",
+      "tu": "tripoteras",
+      "il": "tripotera",
+      "nous": "tripoterons",
+      "vous": "tripoterez",
+      "ils": "tripoteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai tripoté",
+      "tu": "auras tripoté",
+      "il": "aura tripoté",
+      "nous": "aurons tripoté",
+      "vous": "aurez tripoté",
+      "ils": "auront tripoté"
+    },
+    "subjonctif_présent": {
+      "je": "tripote",
+      "tu": "tripotes",
+      "il": "tripote",
+      "nous": "tripotions",
+      "vous": "tripotiez",
+      "ils": "tripotent"
+    },
+    "subjonctif_passé": {
+      "je": "aie tripoté",
+      "tu": "aies tripoté",
+      "il": "ait tripoté",
+      "nous": "ayons tripoté",
+      "vous": "ayez tripoté",
+      "ils": "aient tripoté"
+    },
+    "subjonctif_imparfait": {
+      "je": "tripotasse",
+      "tu": "tripotasses",
+      "il": "tripotât",
+      "nous": "tripotassions",
+      "vous": "tripotassiez",
+      "ils": "tripotassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse tripoté",
+      "tu": "eusses tripoté",
+      "il": "eût tripoté",
+      "nous": "eussions tripoté",
+      "vous": "eussiez tripoté",
+      "ils": "eussent tripoté"
+    },
+    "conditionnel_présent": {
+      "je": "tripoterais",
+      "tu": "tripoterais",
+      "il": "tripoterait",
+      "nous": "tripoterions",
+      "vous": "tripoteriez",
+      "ils": "tripoteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais tripoté",
+      "tu": "aurais tripoté",
+      "il": "aurait tripoté",
+      "nous": "aurions tripoté",
+      "vous": "auriez tripoté",
+      "ils": "auraient tripoté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse tripoté",
+      "tu": "eusses tripoté",
+      "il": "eût tripoté",
+      "nous": "eussions tripoté",
+      "vous": "eussiez tripoté",
+      "ils": "eussent tripoté"
+    },
+    "translation": "dotykać",
+    "group": 1
+  },
+  {
+    "infinitive": "tromper",
+    "présent": {
+      "je": "trompe",
+      "tu": "trompes",
+      "il": "trompe",
+      "nous": "trompons",
+      "vous": "trompez",
+      "ils": "trompent"
+    },
+    "passé_composé": {
+      "je": "ai trompé",
+      "tu": "as trompé",
+      "il": "a trompé",
+      "nous": "avons trompé",
+      "vous": "avez trompé",
+      "ils": "ont trompé"
+    },
+    "imparfait": {
+      "je": "trompais",
+      "tu": "trompais",
+      "il": "trompait",
+      "nous": "trompions",
+      "vous": "trompiez",
+      "ils": "trompaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais trompé",
+      "tu": "avais trompé",
+      "il": "avait trompé",
+      "nous": "avions trompé",
+      "vous": "aviez trompé",
+      "ils": "avaient trompé"
+    },
+    "passé_simple": {
+      "je": "trompai",
+      "tu": "trompas",
+      "il": "trompa",
+      "nous": "trompâmes",
+      "vous": "trompâtes",
+      "ils": "trompèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus trompé",
+      "tu": "eus trompé",
+      "il": "eut trompé",
+      "nous": "eûmes trompé",
+      "vous": "eûtes trompé",
+      "ils": "eurent trompé"
+    },
+    "futur_simple": {
+      "je": "tromperai",
+      "tu": "tromperas",
+      "il": "trompera",
+      "nous": "tromperons",
+      "vous": "tromperez",
+      "ils": "tromperont"
+    },
+    "futur_antérieur": {
+      "je": "aurai trompé",
+      "tu": "auras trompé",
+      "il": "aura trompé",
+      "nous": "aurons trompé",
+      "vous": "aurez trompé",
+      "ils": "auront trompé"
+    },
+    "subjonctif_présent": {
+      "je": "trompe",
+      "tu": "trompes",
+      "il": "trompe",
+      "nous": "trompions",
+      "vous": "trompiez",
+      "ils": "trompent"
+    },
+    "subjonctif_passé": {
+      "je": "aie trompé",
+      "tu": "aies trompé",
+      "il": "ait trompé",
+      "nous": "ayons trompé",
+      "vous": "ayez trompé",
+      "ils": "aient trompé"
+    },
+    "subjonctif_imparfait": {
+      "je": "trompasse",
+      "tu": "trompasses",
+      "il": "trompât",
+      "nous": "trompassions",
+      "vous": "trompassiez",
+      "ils": "trompassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse trompé",
+      "tu": "eusses trompé",
+      "il": "eût trompé",
+      "nous": "eussions trompé",
+      "vous": "eussiez trompé",
+      "ils": "eussent trompé"
+    },
+    "conditionnel_présent": {
+      "je": "tromperais",
+      "tu": "tromperais",
+      "il": "tromperait",
+      "nous": "tromperions",
+      "vous": "tromperiez",
+      "ils": "tromperaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais trompé",
+      "tu": "aurais trompé",
+      "il": "aurait trompé",
+      "nous": "aurions trompé",
+      "vous": "auriez trompé",
+      "ils": "auraient trompé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse trompé",
+      "tu": "eusses trompé",
+      "il": "eût trompé",
+      "nous": "eussions trompé",
+      "vous": "eussiez trompé",
+      "ils": "eussent trompé"
+    },
+    "translation": "oszukiwać",
+    "group": 1
+  },
+  {
+    "infinitive": "trotter",
+    "présent": {
+      "je": "trotte",
+      "tu": "trottes",
+      "il": "trotte",
+      "nous": "trottons",
+      "vous": "trottez",
+      "ils": "trottent"
+    },
+    "passé_composé": {
+      "je": "ai trotté",
+      "tu": "as trotté",
+      "il": "a trotté",
+      "nous": "avons trotté",
+      "vous": "avez trotté",
+      "ils": "ont trotté"
+    },
+    "imparfait": {
+      "je": "trottais",
+      "tu": "trottais",
+      "il": "trottait",
+      "nous": "trottions",
+      "vous": "trottiez",
+      "ils": "trottaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais trotté",
+      "tu": "avais trotté",
+      "il": "avait trotté",
+      "nous": "avions trotté",
+      "vous": "aviez trotté",
+      "ils": "avaient trotté"
+    },
+    "passé_simple": {
+      "je": "trottai",
+      "tu": "trottas",
+      "il": "trotta",
+      "nous": "trottâmes",
+      "vous": "trottâtes",
+      "ils": "trottèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus trotté",
+      "tu": "eus trotté",
+      "il": "eut trotté",
+      "nous": "eûmes trotté",
+      "vous": "eûtes trotté",
+      "ils": "eurent trotté"
+    },
+    "futur_simple": {
+      "je": "trotterai",
+      "tu": "trotteras",
+      "il": "trottera",
+      "nous": "trotterons",
+      "vous": "trotterez",
+      "ils": "trotteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai trotté",
+      "tu": "auras trotté",
+      "il": "aura trotté",
+      "nous": "aurons trotté",
+      "vous": "aurez trotté",
+      "ils": "auront trotté"
+    },
+    "subjonctif_présent": {
+      "je": "trotte",
+      "tu": "trottes",
+      "il": "trotte",
+      "nous": "trottions",
+      "vous": "trottiez",
+      "ils": "trottent"
+    },
+    "subjonctif_passé": {
+      "je": "aie trotté",
+      "tu": "aies trotté",
+      "il": "ait trotté",
+      "nous": "ayons trotté",
+      "vous": "ayez trotté",
+      "ils": "aient trotté"
+    },
+    "subjonctif_imparfait": {
+      "je": "trottasse",
+      "tu": "trottasses",
+      "il": "trottât",
+      "nous": "trottassions",
+      "vous": "trottassiez",
+      "ils": "trottassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse trotté",
+      "tu": "eusses trotté",
+      "il": "eût trotté",
+      "nous": "eussions trotté",
+      "vous": "eussiez trotté",
+      "ils": "eussent trotté"
+    },
+    "conditionnel_présent": {
+      "je": "trotterais",
+      "tu": "trotterais",
+      "il": "trotterait",
+      "nous": "trotterions",
+      "vous": "trotteriez",
+      "ils": "trotteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais trotté",
+      "tu": "aurais trotté",
+      "il": "aurait trotté",
+      "nous": "aurions trotté",
+      "vous": "auriez trotté",
+      "ils": "auraient trotté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse trotté",
+      "tu": "eusses trotté",
+      "il": "eût trotté",
+      "nous": "eussions trotté",
+      "vous": "eussiez trotté",
+      "ils": "eussent trotté"
+    },
+    "translation": "kłusować",
+    "group": 1
+  }
+]

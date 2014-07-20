@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "solliciter",
+    "présent": {
+      "je": "sollicite",
+      "tu": "sollicites",
+      "il": "sollicite",
+      "nous": "sollicitons",
+      "vous": "sollicitez",
+      "ils": "sollicitent"
+    },
+    "passé_composé": {
+      "je": "ai sollicité",
+      "tu": "as sollicité",
+      "il": "a sollicité",
+      "nous": "avons sollicité",
+      "vous": "avez sollicité",
+      "ils": "ont sollicité"
+    },
+    "imparfait": {
+      "je": "sollicitais",
+      "tu": "sollicitais",
+      "il": "sollicitait",
+      "nous": "sollicitions",
+      "vous": "sollicitiez",
+      "ils": "sollicitaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais sollicité",
+      "tu": "avais sollicité",
+      "il": "avait sollicité",
+      "nous": "avions sollicité",
+      "vous": "aviez sollicité",
+      "ils": "avaient sollicité"
+    },
+    "passé_simple": {
+      "je": "sollicitai",
+      "tu": "sollicitas",
+      "il": "sollicita",
+      "nous": "sollicitâmes",
+      "vous": "sollicitâtes",
+      "ils": "sollicitèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus sollicité",
+      "tu": "eus sollicité",
+      "il": "eut sollicité",
+      "nous": "eûmes sollicité",
+      "vous": "eûtes sollicité",
+      "ils": "eurent sollicité"
+    },
+    "futur_simple": {
+      "je": "solliciterai",
+      "tu": "solliciteras",
+      "il": "sollicitera",
+      "nous": "solliciterons",
+      "vous": "solliciterez",
+      "ils": "solliciteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai sollicité",
+      "tu": "auras sollicité",
+      "il": "aura sollicité",
+      "nous": "aurons sollicité",
+      "vous": "aurez sollicité",
+      "ils": "auront sollicité"
+    },
+    "subjonctif_présent": {
+      "je": "sollicite",
+      "tu": "sollicites",
+      "il": "sollicite",
+      "nous": "sollicitions",
+      "vous": "sollicitiez",
+      "ils": "sollicitent"
+    },
+    "subjonctif_passé": {
+      "je": "aie sollicité",
+      "tu": "aies sollicité",
+      "il": "ait sollicité",
+      "nous": "ayons sollicité",
+      "vous": "ayez sollicité",
+      "ils": "aient sollicité"
+    },
+    "subjonctif_imparfait": {
+      "je": "sollicitasse",
+      "tu": "sollicitasses",
+      "il": "sollicitât",
+      "nous": "sollicitassions",
+      "vous": "sollicitassiez",
+      "ils": "sollicitassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse sollicité",
+      "tu": "eusses sollicité",
+      "il": "eût sollicité",
+      "nous": "eussions sollicité",
+      "vous": "eussiez sollicité",
+      "ils": "eussent sollicité"
+    },
+    "conditionnel_présent": {
+      "je": "solliciterais",
+      "tu": "solliciterais",
+      "il": "solliciterait",
+      "nous": "solliciterions",
+      "vous": "solliciteriez",
+      "ils": "solliciteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais sollicité",
+      "tu": "aurais sollicité",
+      "il": "aurait sollicité",
+      "nous": "aurions sollicité",
+      "vous": "auriez sollicité",
+      "ils": "auraient sollicité"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse sollicité",
+      "tu": "eusses sollicité",
+      "il": "eût sollicité",
+      "nous": "eussions sollicité",
+      "vous": "eussiez sollicité",
+      "ils": "eussent sollicité"
+    },
+    "translation": "wyprosić",
+    "group": 1
+  },
+  {
+    "infinitive": "solutionner",
+    "présent": {
+      "je": "solutionne",
+      "tu": "solutionnes",
+      "il": "solutionne",
+      "nous": "solutionnons",
+      "vous": "solutionnez",
+      "ils": "solutionnent"
+    },
+    "passé_composé": {
+      "je": "ai solutionné",
+      "tu": "as solutionné",
+      "il": "a solutionné",
+      "nous": "avons solutionné",
+      "vous": "avez solutionné",
+      "ils": "ont solutionné"
+    },
+    "imparfait": {
+      "je": "solutionnais",
+      "tu": "solutionnais",
+      "il": "solutionnait",
+      "nous": "solutionnions",
+      "vous": "solutionniez",
+      "ils": "solutionnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais solutionné",
+      "tu": "avais solutionné",
+      "il": "avait solutionné",
+      "nous": "avions solutionné",
+      "vous": "aviez solutionné",
+      "ils": "avaient solutionné"
+    },
+    "passé_simple": {
+      "je": "solutionnai",
+      "tu": "solutionnas",
+      "il": "solutionna",
+      "nous": "solutionnâmes",
+      "vous": "solutionnâtes",
+      "ils": "solutionnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus solutionné",
+      "tu": "eus solutionné",
+      "il": "eut solutionné",
+      "nous": "eûmes solutionné",
+      "vous": "eûtes solutionné",
+      "ils": "eurent solutionné"
+    },
+    "futur_simple": {
+      "je": "solutionnerai",
+      "tu": "solutionneras",
+      "il": "solutionnera",
+      "nous": "solutionnerons",
+      "vous": "solutionnerez",
+      "ils": "solutionneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai solutionné",
+      "tu": "auras solutionné",
+      "il": "aura solutionné",
+      "nous": "aurons solutionné",
+      "vous": "aurez solutionné",
+      "ils": "auront solutionné"
+    },
+    "subjonctif_présent": {
+      "je": "solutionne",
+      "tu": "solutionnes",
+      "il": "solutionne",
+      "nous": "solutionnions",
+      "vous": "solutionniez",
+      "ils": "solutionnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie solutionné",
+      "tu": "aies solutionné",
+      "il": "ait solutionné",
+      "nous": "ayons solutionné",
+      "vous": "ayez solutionné",
+      "ils": "aient solutionné"
+    },
+    "subjonctif_imparfait": {
+      "je": "solutionnasse",
+      "tu": "solutionnasses",
+      "il": "solutionnât",
+      "nous": "solutionnassions",
+      "vous": "solutionnassiez",
+      "ils": "solutionnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse solutionné",
+      "tu": "eusses solutionné",
+      "il": "eût solutionné",
+      "nous": "eussions solutionné",
+      "vous": "eussiez solutionné",
+      "ils": "eussent solutionné"
+    },
+    "conditionnel_présent": {
+      "je": "solutionnerais",
+      "tu": "solutionnerais",
+      "il": "solutionnerait",
+      "nous": "solutionnerions",
+      "vous": "solutionneriez",
+      "ils": "solutionneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais solutionné",
+      "tu": "aurais solutionné",
+      "il": "aurait solutionné",
+      "nous": "aurions solutionné",
+      "vous": "auriez solutionné",
+      "ils": "auraient solutionné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse solutionné",
+      "tu": "eusses solutionné",
+      "il": "eût solutionné",
+      "nous": "eussions solutionné",
+      "vous": "eussiez solutionné",
+      "ils": "eussent solutionné"
+    },
+    "translation": "wybierać",
+    "group": 1
+  },
+  {
+    "infinitive": "sommeiller",
+    "présent": {
+      "je": "sommeille",
+      "tu": "sommeilles",
+      "il": "sommeille",
+      "nous": "sommeillons",
+      "vous": "sommeillez",
+      "ils": "sommeillent"
+    },
+    "passé_composé": {
+      "je": "ai sommeillé",
+      "tu": "as sommeillé",
+      "il": "a sommeillé",
+      "nous": "avons sommeillé",
+      "vous": "avez sommeillé",
+      "ils": "ont sommeillé"
+    },
+    "imparfait": {
+      "je": "sommeillais",
+      "tu": "sommeillais",
+      "il": "sommeillait",
+      "nous": "sommeillions",
+      "vous": "sommeilliez",
+      "ils": "sommeillaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais sommeillé",
+      "tu": "avais sommeillé",
+      "il": "avait sommeillé",
+      "nous": "avions sommeillé",
+      "vous": "aviez sommeillé",
+      "ils": "avaient sommeillé"
+    },
+    "passé_simple": {
+      "je": "sommeillai",
+      "tu": "sommeillas",
+      "il": "sommeilla",
+      "nous": "sommeillâmes",
+      "vous": "sommeillâtes",
+      "ils": "sommeillèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus sommeillé",
+      "tu": "eus sommeillé",
+      "il": "eut sommeillé",
+      "nous": "eûmes sommeillé",
+      "vous": "eûtes sommeillé",
+      "ils": "eurent sommeillé"
+    },
+    "futur_simple": {
+      "je": "sommeillerai",
+      "tu": "sommeilleras",
+      "il": "sommeillera",
+      "nous": "sommeillerons",
+      "vous": "sommeillerez",
+      "ils": "sommeilleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai sommeillé",
+      "tu": "auras sommeillé",
+      "il": "aura sommeillé",
+      "nous": "aurons sommeillé",
+      "vous": "aurez sommeillé",
+      "ils": "auront sommeillé"
+    },
+    "subjonctif_présent": {
+      "je": "sommeille",
+      "tu": "sommeilles",
+      "il": "sommeille",
+      "nous": "sommeillions",
+      "vous": "sommeilliez",
+      "ils": "sommeillent"
+    },
+    "subjonctif_passé": {
+      "je": "aie sommeillé",
+      "tu": "aies sommeillé",
+      "il": "ait sommeillé",
+      "nous": "ayons sommeillé",
+      "vous": "ayez sommeillé",
+      "ils": "aient sommeillé"
+    },
+    "subjonctif_imparfait": {
+      "je": "sommeillasse",
+      "tu": "sommeillasses",
+      "il": "sommeillât",
+      "nous": "sommeillassions",
+      "vous": "sommeillassiez",
+      "ils": "sommeillassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse sommeillé",
+      "tu": "eusses sommeillé",
+      "il": "eût sommeillé",
+      "nous": "eussions sommeillé",
+      "vous": "eussiez sommeillé",
+      "ils": "eussent sommeillé"
+    },
+    "conditionnel_présent": {
+      "je": "sommeillerais",
+      "tu": "sommeillerais",
+      "il": "sommeillerait",
+      "nous": "sommeillerions",
+      "vous": "sommeilleriez",
+      "ils": "sommeilleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais sommeillé",
+      "tu": "aurais sommeillé",
+      "il": "aurait sommeillé",
+      "nous": "aurions sommeillé",
+      "vous": "auriez sommeillé",
+      "ils": "auraient sommeillé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse sommeillé",
+      "tu": "eusses sommeillé",
+      "il": "eût sommeillé",
+      "nous": "eussions sommeillé",
+      "vous": "eussiez sommeillé",
+      "ils": "eussent sommeillé"
+    },
+    "translation": "drzemać",
+    "group": 1
+  },
+  {
+    "infinitive": "sommer",
+    "présent": {
+      "je": "somme",
+      "tu": "sommes",
+      "il": "somme",
+      "nous": "sommons",
+      "vous": "sommez",
+      "ils": "somment"
+    },
+    "passé_composé": {
+      "je": "ai sommé",
+      "tu": "as sommé",
+      "il": "a sommé",
+      "nous": "avons sommé",
+      "vous": "avez sommé",
+      "ils": "ont sommé"
+    },
+    "imparfait": {
+      "je": "sommais",
+      "tu": "sommais",
+      "il": "sommait",
+      "nous": "sommions",
+      "vous": "sommiez",
+      "ils": "sommaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais sommé",
+      "tu": "avais sommé",
+      "il": "avait sommé",
+      "nous": "avions sommé",
+      "vous": "aviez sommé",
+      "ils": "avaient sommé"
+    },
+    "passé_simple": {
+      "je": "sommai",
+      "tu": "sommas",
+      "il": "somma",
+      "nous": "sommâmes",
+      "vous": "sommâtes",
+      "ils": "sommèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus sommé",
+      "tu": "eus sommé",
+      "il": "eut sommé",
+      "nous": "eûmes sommé",
+      "vous": "eûtes sommé",
+      "ils": "eurent sommé"
+    },
+    "futur_simple": {
+      "je": "sommerai",
+      "tu": "sommeras",
+      "il": "sommera",
+      "nous": "sommerons",
+      "vous": "sommerez",
+      "ils": "sommeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai sommé",
+      "tu": "auras sommé",
+      "il": "aura sommé",
+      "nous": "aurons sommé",
+      "vous": "aurez sommé",
+      "ils": "auront sommé"
+    },
+    "subjonctif_présent": {
+      "je": "somme",
+      "tu": "sommes",
+      "il": "somme",
+      "nous": "sommions",
+      "vous": "sommiez",
+      "ils": "somment"
+    },
+    "subjonctif_passé": {
+      "je": "aie sommé",
+      "tu": "aies sommé",
+      "il": "ait sommé",
+      "nous": "ayons sommé",
+      "vous": "ayez sommé",
+      "ils": "aient sommé"
+    },
+    "subjonctif_imparfait": {
+      "je": "sommasse",
+      "tu": "sommasses",
+      "il": "sommât",
+      "nous": "sommassions",
+      "vous": "sommassiez",
+      "ils": "sommassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse sommé",
+      "tu": "eusses sommé",
+      "il": "eût sommé",
+      "nous": "eussions sommé",
+      "vous": "eussiez sommé",
+      "ils": "eussent sommé"
+    },
+    "conditionnel_présent": {
+      "je": "sommerais",
+      "tu": "sommerais",
+      "il": "sommerait",
+      "nous": "sommerions",
+      "vous": "sommeriez",
+      "ils": "sommeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais sommé",
+      "tu": "aurais sommé",
+      "il": "aurait sommé",
+      "nous": "aurions sommé",
+      "vous": "auriez sommé",
+      "ils": "auraient sommé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse sommé",
+      "tu": "eusses sommé",
+      "il": "eût sommé",
+      "nous": "eussions sommé",
+      "vous": "eussiez sommé",
+      "ils": "eussent sommé"
+    },
+    "translation": "sommer",
+    "group": 1
+  },
+  {
+    "infinitive": "songer",
+    "présent": {
+      "je": "songe",
+      "tu": "songes",
+      "il": "songe",
+      "nous": "songeons",
+      "vous": "songez",
+      "ils": "songent"
+    },
+    "passé_composé": {
+      "je": "ai songé",
+      "tu": "as songé",
+      "il": "a songé",
+      "nous": "avons songé",
+      "vous": "avez songé",
+      "ils": "ont songé"
+    },
+    "imparfait": {
+      "je": "songeais",
+      "tu": "songeais",
+      "il": "songeait",
+      "nous": "songions",
+      "vous": "songiez",
+      "ils": "songeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais songé",
+      "tu": "avais songé",
+      "il": "avait songé",
+      "nous": "avions songé",
+      "vous": "aviez songé",
+      "ils": "avaient songé"
+    },
+    "passé_simple": {
+      "je": "songeai",
+      "tu": "songeas",
+      "il": "songea",
+      "nous": "songeâmes",
+      "vous": "songeâtes",
+      "ils": "songèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus songé",
+      "tu": "eus songé",
+      "il": "eut songé",
+      "nous": "eûmes songé",
+      "vous": "eûtes songé",
+      "ils": "eurent songé"
+    },
+    "futur_simple": {
+      "je": "songerai",
+      "tu": "songeras",
+      "il": "songera",
+      "nous": "songerons",
+      "vous": "songerez",
+      "ils": "songeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai songé",
+      "tu": "auras songé",
+      "il": "aura songé",
+      "nous": "aurons songé",
+      "vous": "aurez songé",
+      "ils": "auront songé"
+    },
+    "subjonctif_présent": {
+      "je": "songe",
+      "tu": "songes",
+      "il": "songe",
+      "nous": "songions",
+      "vous": "songiez",
+      "ils": "songent"
+    },
+    "subjonctif_passé": {
+      "je": "aie songé",
+      "tu": "aies songé",
+      "il": "ait songé",
+      "nous": "ayons songé",
+      "vous": "ayez songé",
+      "ils": "aient songé"
+    },
+    "subjonctif_imparfait": {
+      "je": "songeasse",
+      "tu": "songeasses",
+      "il": "songeât",
+      "nous": "songeassions",
+      "vous": "songeassiez",
+      "ils": "songeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse songé",
+      "tu": "eusses songé",
+      "il": "eût songé",
+      "nous": "eussions songé",
+      "vous": "eussiez songé",
+      "ils": "eussent songé"
+    },
+    "conditionnel_présent": {
+      "je": "songerais",
+      "tu": "songerais",
+      "il": "songerait",
+      "nous": "songerions",
+      "vous": "songeriez",
+      "ils": "songeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais songé",
+      "tu": "aurais songé",
+      "il": "aurait songé",
+      "nous": "aurions songé",
+      "vous": "auriez songé",
+      "ils": "auraient songé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse songé",
+      "tu": "eusses songé",
+      "il": "eût songé",
+      "nous": "eussions songé",
+      "vous": "eussiez songé",
+      "ils": "eussent songé"
+    },
+    "translation": "myśleć",
+    "group": 1
+  },
+  {
+    "infinitive": "sonner",
+    "présent": {
+      "je": "sonne",
+      "tu": "sonnes",
+      "il": "sonne",
+      "nous": "sonnons",
+      "vous": "sonnez",
+      "ils": "sonnent"
+    },
+    "passé_composé": {
+      "je": "ai sonné",
+      "tu": "as sonné",
+      "il": "a sonné",
+      "nous": "avons sonné",
+      "vous": "avez sonné",
+      "ils": "ont sonné"
+    },
+    "imparfait": {
+      "je": "sonnais",
+      "tu": "sonnais",
+      "il": "sonnait",
+      "nous": "sonnions",
+      "vous": "sonniez",
+      "ils": "sonnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais sonné",
+      "tu": "avais sonné",
+      "il": "avait sonné",
+      "nous": "avions sonné",
+      "vous": "aviez sonné",
+      "ils": "avaient sonné"
+    },
+    "passé_simple": {
+      "je": "sonnai",
+      "tu": "sonnas",
+      "il": "sonna",
+      "nous": "sonnâmes",
+      "vous": "sonnâtes",
+      "ils": "sonnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus sonné",
+      "tu": "eus sonné",
+      "il": "eut sonné",
+      "nous": "eûmes sonné",
+      "vous": "eûtes sonné",
+      "ils": "eurent sonné"
+    },
+    "futur_simple": {
+      "je": "sonnerai",
+      "tu": "sonneras",
+      "il": "sonnera",
+      "nous": "sonnerons",
+      "vous": "sonnerez",
+      "ils": "sonneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai sonné",
+      "tu": "auras sonné",
+      "il": "aura sonné",
+      "nous": "aurons sonné",
+      "vous": "aurez sonné",
+      "ils": "auront sonné"
+    },
+    "subjonctif_présent": {
+      "je": "sonne",
+      "tu": "sonnes",
+      "il": "sonne",
+      "nous": "sonnions",
+      "vous": "sonniez",
+      "ils": "sonnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie sonné",
+      "tu": "aies sonné",
+      "il": "ait sonné",
+      "nous": "ayons sonné",
+      "vous": "ayez sonné",
+      "ils": "aient sonné"
+    },
+    "subjonctif_imparfait": {
+      "je": "sonnasse",
+      "tu": "sonnasses",
+      "il": "sonnât",
+      "nous": "sonnassions",
+      "vous": "sonnassiez",
+      "ils": "sonnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse sonné",
+      "tu": "eusses sonné",
+      "il": "eût sonné",
+      "nous": "eussions sonné",
+      "vous": "eussiez sonné",
+      "ils": "eussent sonné"
+    },
+    "conditionnel_présent": {
+      "je": "sonnerais",
+      "tu": "sonnerais",
+      "il": "sonnerait",
+      "nous": "sonnerions",
+      "vous": "sonneriez",
+      "ils": "sonneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais sonné",
+      "tu": "aurais sonné",
+      "il": "aurait sonné",
+      "nous": "aurions sonné",
+      "vous": "auriez sonné",
+      "ils": "auraient sonné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse sonné",
+      "tu": "eusses sonné",
+      "il": "eût sonné",
+      "nous": "eussions sonné",
+      "vous": "eussiez sonné",
+      "ils": "eussent sonné"
+    },
+    "translation": "uderzać",
+    "group": 1
+  },
+  {
+    "infinitive": "sortir",
+    "présent": {
+      "je": "sors",
+      "tu": "sors",
+      "il": "sort",
+      "nous": "sortons",
+      "vous": "sortez",
+      "ils": "sortent"
+    },
+    "passé_composé": {
+      "je": "ai sorti",
+      "tu": "as sorti",
+      "il": "a sorti",
+      "nous": "avons sorti",
+      "vous": "avez sorti",
+      "ils": "ont sorti"
+    },
+    "imparfait": {
+      "je": "sortais",
+      "tu": "sortais",
+      "il": "sortait",
+      "nous": "sortions",
+      "vous": "sortiez",
+      "ils": "sortaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais sorti",
+      "tu": "avais sorti",
+      "il": "avait sorti",
+      "nous": "avions sorti",
+      "vous": "aviez sorti",
+      "ils": "avaient sorti"
+    },
+    "passé_simple": {
+      "je": "sortis",
+      "tu": "sortis",
+      "il": "sortit",
+      "nous": "sortîmes",
+      "vous": "sortîtes",
+      "ils": "sortirent"
+    },
+    "passé_antérieur": {
+      "je": "eus sorti",
+      "tu": "eus sorti",
+      "il": "eut sorti",
+      "nous": "eûmes sorti",
+      "vous": "eûtes sorti",
+      "ils": "eurent sorti"
+    },
+    "futur_simple": {
+      "je": "sortirai",
+      "tu": "sortiras",
+      "il": "sortira",
+      "nous": "sortirons",
+      "vous": "sortirez",
+      "ils": "sortiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai sorti",
+      "tu": "auras sorti",
+      "il": "aura sorti",
+      "nous": "aurons sorti",
+      "vous": "aurez sorti",
+      "ils": "auront sorti"
+    },
+    "subjonctif_présent": {
+      "je": "sorte",
+      "tu": "sortes",
+      "il": "sorte",
+      "nous": "sortions",
+      "vous": "sortiez",
+      "ils": "sortent"
+    },
+    "subjonctif_passé": {
+      "je": "aie sorti",
+      "tu": "aies sorti",
+      "il": "ait sorti",
+      "nous": "ayons sorti",
+      "vous": "ayez sorti",
+      "ils": "aient sorti"
+    },
+    "subjonctif_imparfait": {
+      "je": "sortisse",
+      "tu": "sortisses",
+      "il": "sortît",
+      "nous": "sortissions",
+      "vous": "sortissiez",
+      "ils": "sortissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse sorti",
+      "tu": "eusses sorti",
+      "il": "eût sorti",
+      "nous": "eussions sorti",
+      "vous": "eussiez sorti",
+      "ils": "eussent sorti"
+    },
+    "conditionnel_présent": {
+      "je": "sortirais",
+      "tu": "sortirais",
+      "il": "sortirait",
+      "nous": "sortirions",
+      "vous": "sortiriez",
+      "ils": "sortiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais sorti",
+      "tu": "aurais sorti",
+      "il": "aurait sorti",
+      "nous": "aurions sorti",
+      "vous": "auriez sorti",
+      "ils": "auraient sorti"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse sorti",
+      "tu": "eusses sorti",
+      "il": "eût sorti",
+      "nous": "eussions sorti",
+      "vous": "eussiez sorti",
+      "ils": "eussent sorti"
+    },
+    "translation": "wyjeżdżać",
+    "group": 3
+  },
+  {
+    "infinitive": "soucier",
+    "présent": {
+      "je": "me soucie",
+      "tu": "te soucies",
+      "il": "se soucie",
+      "nous": "nous soucions",
+      "vous": "vous souciez",
+      "ils": "se soucient"
+    },
+    "passé_composé": {
+      "je": "me suis soucié",
+      "tu": "es soucié",
+      "il": "est soucié",
+      "nous": "nous sommes souciés",
+      "vous": "vous êtes souciés",
+      "ils": "se sont souciés"
+    },
+    "imparfait": {
+      "je": "me souciais",
+      "tu": "te souciais",
+      "il": "se souciait",
+      "nous": "nous souciions",
+      "vous": "vous souciiez",
+      "ils": "se souciaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais soucié",
+      "tu": "étais soucié",
+      "il": "était soucié",
+      "nous": "nous étions souciés",
+      "vous": "vous étiez souciés",
+      "ils": "étaient souciés"
+    },
+    "passé_simple": {
+      "je": "me souciai",
+      "tu": "te soucias",
+      "il": "se soucia",
+      "nous": "nous souciâmes",
+      "vous": "vous souciâtes",
+      "ils": "se soucièrent"
+    },
+    "passé_antérieur": {
+      "je": "me fus soucié",
+      "tu": "te fus soucié",
+      "il": "se fut soucié",
+      "nous": "nous fûmes souciés",
+      "vous": "vous fûtes souciés",
+      "ils": "se furent souciés"
+    },
+    "futur_simple": {
+      "je": "me soucierai",
+      "tu": "te soucieras",
+      "il": "se souciera",
+      "nous": "nous soucierons",
+      "vous": "vous soucierez",
+      "ils": "se soucieront"
+    },
+    "futur_antérieur": {
+      "je": "me serai soucié",
+      "tu": "te seras soucié",
+      "il": "se sera soucié",
+      "nous": "nous serons souciés",
+      "vous": "vous serez souciés",
+      "ils": "se seront souciés"
+    },
+    "subjonctif_présent": {
+      "je": "me soucie",
+      "tu": "te soucies",
+      "il": "se soucie",
+      "nous": "nous souciions",
+      "vous": "vous souciiez",
+      "ils": "se soucient"
+    },
+    "subjonctif_passé": {
+      "je": "me sois soucié",
+      "tu": "te sois soucié",
+      "il": "se soit soucié",
+      "nous": "nous soyons souciés",
+      "vous": "vous soyez souciés",
+      "ils": "se soient souciés"
+    },
+    "subjonctif_imparfait": {
+      "je": "me souciasse",
+      "tu": "te souciasses",
+      "il": "se souciât",
+      "nous": "nous souciassions",
+      "vous": "vous souciassiez",
+      "ils": "se souciassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse soucié",
+      "tu": "te fusses soucié",
+      "il": "se fût soucié",
+      "nous": "nous fussions souciés",
+      "vous": "vous fussiez souciés",
+      "ils": "se fussent souciés"
+    },
+    "conditionnel_présent": {
+      "je": "me soucierais",
+      "tu": "te soucierais",
+      "il": "se soucierait",
+      "nous": "nous soucierions",
+      "vous": "vous soucieriez",
+      "ils": "se soucieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais soucié",
+      "tu": "te serais soucié",
+      "il": "se serait soucié",
+      "nous": "nous serions souciés",
+      "vous": "vous seriez souciés",
+      "ils": "se seraient souciés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse soucié",
+      "tu": "te fusses soucié",
+      "il": "se fût soucié",
+      "nous": "nous fussions souciés",
+      "vous": "vous fussiez souciés",
+      "ils": "se fussent souciés"
+    },
+    "translation": "martwić",
+    "group": 1
+  },
+  {
+    "infinitive": "souder",
+    "présent": {
+      "je": "soude",
+      "tu": "soudes",
+      "il": "soude",
+      "nous": "soudons",
+      "vous": "soudez",
+      "ils": "soudent"
+    },
+    "passé_composé": {
+      "je": "ai soudé",
+      "tu": "as soudé",
+      "il": "a soudé",
+      "nous": "avons soudé",
+      "vous": "avez soudé",
+      "ils": "ont soudé"
+    },
+    "imparfait": {
+      "je": "soudais",
+      "tu": "soudais",
+      "il": "soudait",
+      "nous": "soudions",
+      "vous": "soudiez",
+      "ils": "soudaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais soudé",
+      "tu": "avais soudé",
+      "il": "avait soudé",
+      "nous": "avions soudé",
+      "vous": "aviez soudé",
+      "ils": "avaient soudé"
+    },
+    "passé_simple": {
+      "je": "soudai",
+      "tu": "soudas",
+      "il": "souda",
+      "nous": "soudâmes",
+      "vous": "soudâtes",
+      "ils": "soudèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus soudé",
+      "tu": "eus soudé",
+      "il": "eut soudé",
+      "nous": "eûmes soudé",
+      "vous": "eûtes soudé",
+      "ils": "eurent soudé"
+    },
+    "futur_simple": {
+      "je": "souderai",
+      "tu": "souderas",
+      "il": "soudera",
+      "nous": "souderons",
+      "vous": "souderez",
+      "ils": "souderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai soudé",
+      "tu": "auras soudé",
+      "il": "aura soudé",
+      "nous": "aurons soudé",
+      "vous": "aurez soudé",
+      "ils": "auront soudé"
+    },
+    "subjonctif_présent": {
+      "je": "soude",
+      "tu": "soudes",
+      "il": "soude",
+      "nous": "soudions",
+      "vous": "soudiez",
+      "ils": "soudent"
+    },
+    "subjonctif_passé": {
+      "je": "aie soudé",
+      "tu": "aies soudé",
+      "il": "ait soudé",
+      "nous": "ayons soudé",
+      "vous": "ayez soudé",
+      "ils": "aient soudé"
+    },
+    "subjonctif_imparfait": {
+      "je": "soudasse",
+      "tu": "soudasses",
+      "il": "soudât",
+      "nous": "soudassions",
+      "vous": "soudassiez",
+      "ils": "soudassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse soudé",
+      "tu": "eusses soudé",
+      "il": "eût soudé",
+      "nous": "eussions soudé",
+      "vous": "eussiez soudé",
+      "ils": "eussent soudé"
+    },
+    "conditionnel_présent": {
+      "je": "souderais",
+      "tu": "souderais",
+      "il": "souderait",
+      "nous": "souderions",
+      "vous": "souderiez",
+      "ils": "souderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais soudé",
+      "tu": "aurais soudé",
+      "il": "aurait soudé",
+      "nous": "aurions soudé",
+      "vous": "auriez soudé",
+      "ils": "auraient soudé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse soudé",
+      "tu": "eusses soudé",
+      "il": "eût soudé",
+      "nous": "eussions soudé",
+      "vous": "eussiez soudé",
+      "ils": "eussent soudé"
+    },
+    "translation": "souder",
+    "group": 1
+  },
+  {
+    "infinitive": "soudoyer",
+    "présent": {
+      "je": "soudoie",
+      "tu": "soudoies",
+      "il": "soudoie",
+      "nous": "soudoyons",
+      "vous": "soudoyez",
+      "ils": "soudoient"
+    },
+    "passé_composé": {
+      "je": "ai soudoyé",
+      "tu": "as soudoyé",
+      "il": "a soudoyé",
+      "nous": "avons soudoyé",
+      "vous": "avez soudoyé",
+      "ils": "ont soudoyé"
+    },
+    "imparfait": {
+      "je": "soudoyais",
+      "tu": "soudoyais",
+      "il": "soudoyait",
+      "nous": "soudoyions",
+      "vous": "soudoyiez",
+      "ils": "soudoyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais soudoyé",
+      "tu": "avais soudoyé",
+      "il": "avait soudoyé",
+      "nous": "avions soudoyé",
+      "vous": "aviez soudoyé",
+      "ils": "avaient soudoyé"
+    },
+    "passé_simple": {
+      "je": "soudoyai",
+      "tu": "soudoyas",
+      "il": "soudoya",
+      "nous": "soudoyâmes",
+      "vous": "soudoyâtes",
+      "ils": "soudoyèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus soudoyé",
+      "tu": "eus soudoyé",
+      "il": "eut soudoyé",
+      "nous": "eûmes soudoyé",
+      "vous": "eûtes soudoyé",
+      "ils": "eurent soudoyé"
+    },
+    "futur_simple": {
+      "je": "soudoierai",
+      "tu": "soudoieras",
+      "il": "soudoiera",
+      "nous": "soudoierons",
+      "vous": "soudoierez",
+      "ils": "soudoieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai soudoyé",
+      "tu": "auras soudoyé",
+      "il": "aura soudoyé",
+      "nous": "aurons soudoyé",
+      "vous": "aurez soudoyé",
+      "ils": "auront soudoyé"
+    },
+    "subjonctif_présent": {
+      "je": "soudoie",
+      "tu": "soudoies",
+      "il": "soudoie",
+      "nous": "soudoyions",
+      "vous": "soudoyiez",
+      "ils": "soudoient"
+    },
+    "subjonctif_passé": {
+      "je": "aie soudoyé",
+      "tu": "aies soudoyé",
+      "il": "ait soudoyé",
+      "nous": "ayons soudoyé",
+      "vous": "ayez soudoyé",
+      "ils": "aient soudoyé"
+    },
+    "subjonctif_imparfait": {
+      "je": "soudoyasse",
+      "tu": "soudoyasses",
+      "il": "soudoyât",
+      "nous": "soudoyassions",
+      "vous": "soudoyassiez",
+      "ils": "soudoyassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse soudoyé",
+      "tu": "eusses soudoyé",
+      "il": "eût soudoyé",
+      "nous": "eussions soudoyé",
+      "vous": "eussiez soudoyé",
+      "ils": "eussent soudoyé"
+    },
+    "conditionnel_présent": {
+      "je": "soudoierais",
+      "tu": "soudoierais",
+      "il": "soudoierait",
+      "nous": "soudoierions",
+      "vous": "soudoieriez",
+      "ils": "soudoieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais soudoyé",
+      "tu": "aurais soudoyé",
+      "il": "aurait soudoyé",
+      "nous": "aurions soudoyé",
+      "vous": "auriez soudoyé",
+      "ils": "auraient soudoyé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse soudoyé",
+      "tu": "eusses soudoyé",
+      "il": "eût soudoyé",
+      "nous": "eussions soudoyé",
+      "vous": "eussiez soudoyé",
+      "ils": "eussent soudoyé"
+    },
+    "translation": "być",
+    "group": 1
+  }
+]

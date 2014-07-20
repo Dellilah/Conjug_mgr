@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "débloquer",
+    "présent": {
+      "je": "débloque",
+      "tu": "débloques",
+      "il": "débloque",
+      "nous": "débloquons",
+      "vous": "débloquez",
+      "ils": "débloquent"
+    },
+    "passé_composé": {
+      "je": "ai débloqué",
+      "tu": "as débloqué",
+      "il": "a débloqué",
+      "nous": "avons débloqué",
+      "vous": "avez débloqué",
+      "ils": "ont débloqué"
+    },
+    "imparfait": {
+      "je": "débloquais",
+      "tu": "débloquais",
+      "il": "débloquait",
+      "nous": "débloquions",
+      "vous": "débloquiez",
+      "ils": "débloquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais débloqué",
+      "tu": "avais débloqué",
+      "il": "avait débloqué",
+      "nous": "avions débloqué",
+      "vous": "aviez débloqué",
+      "ils": "avaient débloqué"
+    },
+    "passé_simple": {
+      "je": "débloquai",
+      "tu": "débloquas",
+      "il": "débloqua",
+      "nous": "débloquâmes",
+      "vous": "débloquâtes",
+      "ils": "débloquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus débloqué",
+      "tu": "eus débloqué",
+      "il": "eut débloqué",
+      "nous": "eûmes débloqué",
+      "vous": "eûtes débloqué",
+      "ils": "eurent débloqué"
+    },
+    "futur_simple": {
+      "je": "débloquerai",
+      "tu": "débloqueras",
+      "il": "débloquera",
+      "nous": "débloquerons",
+      "vous": "débloquerez",
+      "ils": "débloqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai débloqué",
+      "tu": "auras débloqué",
+      "il": "aura débloqué",
+      "nous": "aurons débloqué",
+      "vous": "aurez débloqué",
+      "ils": "auront débloqué"
+    },
+    "subjonctif_présent": {
+      "je": "débloque",
+      "tu": "débloques",
+      "il": "débloque",
+      "nous": "débloquions",
+      "vous": "débloquiez",
+      "ils": "débloquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie débloqué",
+      "tu": "aies débloqué",
+      "il": "ait débloqué",
+      "nous": "ayons débloqué",
+      "vous": "ayez débloqué",
+      "ils": "aient débloqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "débloquasse",
+      "tu": "débloquasses",
+      "il": "débloquât",
+      "nous": "débloquassions",
+      "vous": "débloquassiez",
+      "ils": "débloquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse débloqué",
+      "tu": "eusses débloqué",
+      "il": "eût débloqué",
+      "nous": "eussions débloqué",
+      "vous": "eussiez débloqué",
+      "ils": "eussent débloqué"
+    },
+    "conditionnel_présent": {
+      "je": "débloquerais",
+      "tu": "débloquerais",
+      "il": "débloquerait",
+      "nous": "débloquerions",
+      "vous": "débloqueriez",
+      "ils": "débloqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais débloqué",
+      "tu": "aurais débloqué",
+      "il": "aurait débloqué",
+      "nous": "aurions débloqué",
+      "vous": "auriez débloqué",
+      "ils": "auraient débloqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse débloqué",
+      "tu": "eusses débloqué",
+      "il": "eût débloqué",
+      "nous": "eussions débloqué",
+      "vous": "eussiez débloqué",
+      "ils": "eussent débloqué"
+    },
+    "translation": "odblokowywać",
+    "group": 1
+  },
+  {
+    "infinitive": "déborder",
+    "présent": {
+      "je": "déborde",
+      "tu": "débordes",
+      "il": "déborde",
+      "nous": "débordons",
+      "vous": "débordez",
+      "ils": "débordent"
+    },
+    "passé_composé": {
+      "je": "ai débordé",
+      "tu": "as débordé",
+      "il": "a débordé",
+      "nous": "avons débordé",
+      "vous": "avez débordé",
+      "ils": "ont débordé"
+    },
+    "imparfait": {
+      "je": "débordais",
+      "tu": "débordais",
+      "il": "débordait",
+      "nous": "débordions",
+      "vous": "débordiez",
+      "ils": "débordaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais débordé",
+      "tu": "avais débordé",
+      "il": "avait débordé",
+      "nous": "avions débordé",
+      "vous": "aviez débordé",
+      "ils": "avaient débordé"
+    },
+    "passé_simple": {
+      "je": "débordai",
+      "tu": "débordas",
+      "il": "déborda",
+      "nous": "débordâmes",
+      "vous": "débordâtes",
+      "ils": "débordèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus débordé",
+      "tu": "eus débordé",
+      "il": "eut débordé",
+      "nous": "eûmes débordé",
+      "vous": "eûtes débordé",
+      "ils": "eurent débordé"
+    },
+    "futur_simple": {
+      "je": "déborderai",
+      "tu": "déborderas",
+      "il": "débordera",
+      "nous": "déborderons",
+      "vous": "déborderez",
+      "ils": "déborderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai débordé",
+      "tu": "auras débordé",
+      "il": "aura débordé",
+      "nous": "aurons débordé",
+      "vous": "aurez débordé",
+      "ils": "auront débordé"
+    },
+    "subjonctif_présent": {
+      "je": "déborde",
+      "tu": "débordes",
+      "il": "déborde",
+      "nous": "débordions",
+      "vous": "débordiez",
+      "ils": "débordent"
+    },
+    "subjonctif_passé": {
+      "je": "aie débordé",
+      "tu": "aies débordé",
+      "il": "ait débordé",
+      "nous": "ayons débordé",
+      "vous": "ayez débordé",
+      "ils": "aient débordé"
+    },
+    "subjonctif_imparfait": {
+      "je": "débordasse",
+      "tu": "débordasses",
+      "il": "débordât",
+      "nous": "débordassions",
+      "vous": "débordassiez",
+      "ils": "débordassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse débordé",
+      "tu": "eusses débordé",
+      "il": "eût débordé",
+      "nous": "eussions débordé",
+      "vous": "eussiez débordé",
+      "ils": "eussent débordé"
+    },
+    "conditionnel_présent": {
+      "je": "déborderais",
+      "tu": "déborderais",
+      "il": "déborderait",
+      "nous": "déborderions",
+      "vous": "déborderiez",
+      "ils": "déborderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais débordé",
+      "tu": "aurais débordé",
+      "il": "aurait débordé",
+      "nous": "aurions débordé",
+      "vous": "auriez débordé",
+      "ils": "auraient débordé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse débordé",
+      "tu": "eusses débordé",
+      "il": "eût débordé",
+      "nous": "eussions débordé",
+      "vous": "eussiez débordé",
+      "ils": "eussent débordé"
+    },
+    "translation": "wylewać",
+    "group": 1
+  },
+  {
+    "infinitive": "déboucher",
+    "présent": {
+      "je": "débouche",
+      "tu": "débouches",
+      "il": "débouche",
+      "nous": "débouchons",
+      "vous": "débouchez",
+      "ils": "débouchent"
+    },
+    "passé_composé": {
+      "je": "ai débouché",
+      "tu": "as débouché",
+      "il": "a débouché",
+      "nous": "avons débouché",
+      "vous": "avez débouché",
+      "ils": "ont débouché"
+    },
+    "imparfait": {
+      "je": "débouchais",
+      "tu": "débouchais",
+      "il": "débouchait",
+      "nous": "débouchions",
+      "vous": "débouchiez",
+      "ils": "débouchaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais débouché",
+      "tu": "avais débouché",
+      "il": "avait débouché",
+      "nous": "avions débouché",
+      "vous": "aviez débouché",
+      "ils": "avaient débouché"
+    },
+    "passé_simple": {
+      "je": "débouchai",
+      "tu": "débouchas",
+      "il": "déboucha",
+      "nous": "débouchâmes",
+      "vous": "débouchâtes",
+      "ils": "débouchèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus débouché",
+      "tu": "eus débouché",
+      "il": "eut débouché",
+      "nous": "eûmes débouché",
+      "vous": "eûtes débouché",
+      "ils": "eurent débouché"
+    },
+    "futur_simple": {
+      "je": "déboucherai",
+      "tu": "déboucheras",
+      "il": "débouchera",
+      "nous": "déboucherons",
+      "vous": "déboucherez",
+      "ils": "déboucheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai débouché",
+      "tu": "auras débouché",
+      "il": "aura débouché",
+      "nous": "aurons débouché",
+      "vous": "aurez débouché",
+      "ils": "auront débouché"
+    },
+    "subjonctif_présent": {
+      "je": "débouche",
+      "tu": "débouches",
+      "il": "débouche",
+      "nous": "débouchions",
+      "vous": "débouchiez",
+      "ils": "débouchent"
+    },
+    "subjonctif_passé": {
+      "je": "aie débouché",
+      "tu": "aies débouché",
+      "il": "ait débouché",
+      "nous": "ayons débouché",
+      "vous": "ayez débouché",
+      "ils": "aient débouché"
+    },
+    "subjonctif_imparfait": {
+      "je": "débouchasse",
+      "tu": "débouchasses",
+      "il": "débouchât",
+      "nous": "débouchassions",
+      "vous": "débouchassiez",
+      "ils": "débouchassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse débouché",
+      "tu": "eusses débouché",
+      "il": "eût débouché",
+      "nous": "eussions débouché",
+      "vous": "eussiez débouché",
+      "ils": "eussent débouché"
+    },
+    "conditionnel_présent": {
+      "je": "déboucherais",
+      "tu": "déboucherais",
+      "il": "déboucherait",
+      "nous": "déboucherions",
+      "vous": "déboucheriez",
+      "ils": "déboucheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais débouché",
+      "tu": "aurais débouché",
+      "il": "aurait débouché",
+      "nous": "aurions débouché",
+      "vous": "auriez débouché",
+      "ils": "auraient débouché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse débouché",
+      "tu": "eusses débouché",
+      "il": "eût débouché",
+      "nous": "eussions débouché",
+      "vous": "eussiez débouché",
+      "ils": "eussent débouché"
+    },
+    "translation": "odtykać",
+    "group": 1
+  },
+  {
+    "infinitive": "débouillir",
+    "présent": {
+      "je": "débous",
+      "tu": "débous",
+      "il": "débout",
+      "nous": "débouillons",
+      "vous": "débouillez",
+      "ils": "débouillent"
+    },
+    "passé_composé": {
+      "je": "ai débouilli",
+      "tu": "as débouilli",
+      "il": "a débouilli",
+      "nous": "avons débouilli",
+      "vous": "avez débouilli",
+      "ils": "ont débouilli"
+    },
+    "imparfait": {
+      "je": "débouillais",
+      "tu": "débouillais",
+      "il": "débouillait",
+      "nous": "débouillions",
+      "vous": "débouilliez",
+      "ils": "débouillaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais débouilli",
+      "tu": "avais débouilli",
+      "il": "avait débouilli",
+      "nous": "avions débouilli",
+      "vous": "aviez débouilli",
+      "ils": "avaient débouilli"
+    },
+    "passé_simple": {
+      "je": "débouillis",
+      "tu": "débouillis",
+      "il": "débouillit",
+      "nous": "débouillîmes",
+      "vous": "débouillîtes",
+      "ils": "débouillirent"
+    },
+    "passé_antérieur": {
+      "je": "eus débouilli",
+      "tu": "eus débouilli",
+      "il": "eut débouilli",
+      "nous": "eûmes débouilli",
+      "vous": "eûtes débouilli",
+      "ils": "eurent débouilli"
+    },
+    "futur_simple": {
+      "je": "débouillirai",
+      "tu": "débouilliras",
+      "il": "débouillira",
+      "nous": "débouillirons",
+      "vous": "débouillirez",
+      "ils": "débouilliront"
+    },
+    "futur_antérieur": {
+      "je": "aurai débouilli",
+      "tu": "auras débouilli",
+      "il": "aura débouilli",
+      "nous": "aurons débouilli",
+      "vous": "aurez débouilli",
+      "ils": "auront débouilli"
+    },
+    "subjonctif_présent": {
+      "je": "débouille",
+      "tu": "débouilles",
+      "il": "débouille",
+      "nous": "débouillions",
+      "vous": "débouilliez",
+      "ils": "débouillent"
+    },
+    "subjonctif_passé": {
+      "je": "aie débouilli",
+      "tu": "aies débouilli",
+      "il": "ait débouilli",
+      "nous": "ayons débouilli",
+      "vous": "ayez débouilli",
+      "ils": "aient débouilli"
+    },
+    "subjonctif_imparfait": {
+      "je": "débouillisse",
+      "tu": "débouillisses",
+      "il": "débouillît",
+      "nous": "débouillissions",
+      "vous": "débouillissiez",
+      "ils": "débouillissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse débouilli",
+      "tu": "eusses débouilli",
+      "il": "eût débouilli",
+      "nous": "eussions débouilli",
+      "vous": "eussiez débouilli",
+      "ils": "eussent débouilli"
+    },
+    "conditionnel_présent": {
+      "je": "débouillirais",
+      "tu": "débouillirais",
+      "il": "débouillirait",
+      "nous": "débouillirions",
+      "vous": "débouilliriez",
+      "ils": "débouilliraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais débouilli",
+      "tu": "aurais débouilli",
+      "il": "aurait débouilli",
+      "nous": "aurions débouilli",
+      "vous": "auriez débouilli",
+      "ils": "auraient débouilli"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse débouilli",
+      "tu": "eusses débouilli",
+      "il": "eût débouilli",
+      "nous": "eussions débouilli",
+      "vous": "eussiez débouilli",
+      "ils": "eussent débouilli"
+    },
+    "translation": "gotować",
+    "group": 3
+  },
+  {
+    "infinitive": "débrouiller",
+    "présent": {
+      "je": "débrouille",
+      "tu": "débrouilles",
+      "il": "débrouille",
+      "nous": "débrouillons",
+      "vous": "débrouillez",
+      "ils": "débrouillent"
+    },
+    "passé_composé": {
+      "je": "ai débrouillé",
+      "tu": "as débrouillé",
+      "il": "a débrouillé",
+      "nous": "avons débrouillé",
+      "vous": "avez débrouillé",
+      "ils": "ont débrouillé"
+    },
+    "imparfait": {
+      "je": "débrouillais",
+      "tu": "débrouillais",
+      "il": "débrouillait",
+      "nous": "débrouillions",
+      "vous": "débrouilliez",
+      "ils": "débrouillaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais débrouillé",
+      "tu": "avais débrouillé",
+      "il": "avait débrouillé",
+      "nous": "avions débrouillé",
+      "vous": "aviez débrouillé",
+      "ils": "avaient débrouillé"
+    },
+    "passé_simple": {
+      "je": "débrouillai",
+      "tu": "débrouillas",
+      "il": "débrouilla",
+      "nous": "débrouillâmes",
+      "vous": "débrouillâtes",
+      "ils": "débrouillèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus débrouillé",
+      "tu": "eus débrouillé",
+      "il": "eut débrouillé",
+      "nous": "eûmes débrouillé",
+      "vous": "eûtes débrouillé",
+      "ils": "eurent débrouillé"
+    },
+    "futur_simple": {
+      "je": "débrouillerai",
+      "tu": "débrouilleras",
+      "il": "débrouillera",
+      "nous": "débrouillerons",
+      "vous": "débrouillerez",
+      "ils": "débrouilleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai débrouillé",
+      "tu": "auras débrouillé",
+      "il": "aura débrouillé",
+      "nous": "aurons débrouillé",
+      "vous": "aurez débrouillé",
+      "ils": "auront débrouillé"
+    },
+    "subjonctif_présent": {
+      "je": "débrouille",
+      "tu": "débrouilles",
+      "il": "débrouille",
+      "nous": "débrouillions",
+      "vous": "débrouilliez",
+      "ils": "débrouillent"
+    },
+    "subjonctif_passé": {
+      "je": "aie débrouillé",
+      "tu": "aies débrouillé",
+      "il": "ait débrouillé",
+      "nous": "ayons débrouillé",
+      "vous": "ayez débrouillé",
+      "ils": "aient débrouillé"
+    },
+    "subjonctif_imparfait": {
+      "je": "débrouillasse",
+      "tu": "débrouillasses",
+      "il": "débrouillât",
+      "nous": "débrouillassions",
+      "vous": "débrouillassiez",
+      "ils": "débrouillassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse débrouillé",
+      "tu": "eusses débrouillé",
+      "il": "eût débrouillé",
+      "nous": "eussions débrouillé",
+      "vous": "eussiez débrouillé",
+      "ils": "eussent débrouillé"
+    },
+    "conditionnel_présent": {
+      "je": "débrouillerais",
+      "tu": "débrouillerais",
+      "il": "débrouillerait",
+      "nous": "débrouillerions",
+      "vous": "débrouilleriez",
+      "ils": "débrouilleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais débrouillé",
+      "tu": "aurais débrouillé",
+      "il": "aurait débrouillé",
+      "nous": "aurions débrouillé",
+      "vous": "auriez débrouillé",
+      "ils": "auraient débrouillé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse débrouillé",
+      "tu": "eusses débrouillé",
+      "il": "eût débrouillé",
+      "nous": "eussions débrouillé",
+      "vous": "eussiez débrouillé",
+      "ils": "eussent débrouillé"
+    },
+    "translation": "rozwikłać",
+    "group": 1
+  },
+  {
+    "infinitive": "débuter",
+    "présent": {
+      "je": "débute",
+      "tu": "débutes",
+      "il": "débute",
+      "nous": "débutons",
+      "vous": "débutez",
+      "ils": "débutent"
+    },
+    "passé_composé": {
+      "je": "ai débuté",
+      "tu": "as débuté",
+      "il": "a débuté",
+      "nous": "avons débuté",
+      "vous": "avez débuté",
+      "ils": "ont débuté"
+    },
+    "imparfait": {
+      "je": "débutais",
+      "tu": "débutais",
+      "il": "débutait",
+      "nous": "débutions",
+      "vous": "débutiez",
+      "ils": "débutaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais débuté",
+      "tu": "avais débuté",
+      "il": "avait débuté",
+      "nous": "avions débuté",
+      "vous": "aviez débuté",
+      "ils": "avaient débuté"
+    },
+    "passé_simple": {
+      "je": "débutai",
+      "tu": "débutas",
+      "il": "débuta",
+      "nous": "débutâmes",
+      "vous": "débutâtes",
+      "ils": "débutèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus débuté",
+      "tu": "eus débuté",
+      "il": "eut débuté",
+      "nous": "eûmes débuté",
+      "vous": "eûtes débuté",
+      "ils": "eurent débuté"
+    },
+    "futur_simple": {
+      "je": "débuterai",
+      "tu": "débuteras",
+      "il": "débutera",
+      "nous": "débuterons",
+      "vous": "débuterez",
+      "ils": "débuteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai débuté",
+      "tu": "auras débuté",
+      "il": "aura débuté",
+      "nous": "aurons débuté",
+      "vous": "aurez débuté",
+      "ils": "auront débuté"
+    },
+    "subjonctif_présent": {
+      "je": "débute",
+      "tu": "débutes",
+      "il": "débute",
+      "nous": "débutions",
+      "vous": "débutiez",
+      "ils": "débutent"
+    },
+    "subjonctif_passé": {
+      "je": "aie débuté",
+      "tu": "aies débuté",
+      "il": "ait débuté",
+      "nous": "ayons débuté",
+      "vous": "ayez débuté",
+      "ils": "aient débuté"
+    },
+    "subjonctif_imparfait": {
+      "je": "débutasse",
+      "tu": "débutasses",
+      "il": "débutât",
+      "nous": "débutassions",
+      "vous": "débutassiez",
+      "ils": "débutassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse débuté",
+      "tu": "eusses débuté",
+      "il": "eût débuté",
+      "nous": "eussions débuté",
+      "vous": "eussiez débuté",
+      "ils": "eussent débuté"
+    },
+    "conditionnel_présent": {
+      "je": "débuterais",
+      "tu": "débuterais",
+      "il": "débuterait",
+      "nous": "débuterions",
+      "vous": "débuteriez",
+      "ils": "débuteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais débuté",
+      "tu": "aurais débuté",
+      "il": "aurait débuté",
+      "nous": "aurions débuté",
+      "vous": "auriez débuté",
+      "ils": "auraient débuté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse débuté",
+      "tu": "eusses débuté",
+      "il": "eût débuté",
+      "nous": "eussions débuté",
+      "vous": "eussiez débuté",
+      "ils": "eussent débuté"
+    },
+    "translation": "debiutować",
+    "group": 1
+  },
+  {
+    "infinitive": "décaler",
+    "présent": {
+      "je": "décale",
+      "tu": "décales",
+      "il": "décale",
+      "nous": "décalons",
+      "vous": "décalez",
+      "ils": "décalent"
+    },
+    "passé_composé": {
+      "je": "ai décalé",
+      "tu": "as décalé",
+      "il": "a décalé",
+      "nous": "avons décalé",
+      "vous": "avez décalé",
+      "ils": "ont décalé"
+    },
+    "imparfait": {
+      "je": "décalais",
+      "tu": "décalais",
+      "il": "décalait",
+      "nous": "décalions",
+      "vous": "décaliez",
+      "ils": "décalaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais décalé",
+      "tu": "avais décalé",
+      "il": "avait décalé",
+      "nous": "avions décalé",
+      "vous": "aviez décalé",
+      "ils": "avaient décalé"
+    },
+    "passé_simple": {
+      "je": "décalai",
+      "tu": "décalas",
+      "il": "décala",
+      "nous": "décalâmes",
+      "vous": "décalâtes",
+      "ils": "décalèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus décalé",
+      "tu": "eus décalé",
+      "il": "eut décalé",
+      "nous": "eûmes décalé",
+      "vous": "eûtes décalé",
+      "ils": "eurent décalé"
+    },
+    "futur_simple": {
+      "je": "décalerai",
+      "tu": "décaleras",
+      "il": "décalera",
+      "nous": "décalerons",
+      "vous": "décalerez",
+      "ils": "décaleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai décalé",
+      "tu": "auras décalé",
+      "il": "aura décalé",
+      "nous": "aurons décalé",
+      "vous": "aurez décalé",
+      "ils": "auront décalé"
+    },
+    "subjonctif_présent": {
+      "je": "décale",
+      "tu": "décales",
+      "il": "décale",
+      "nous": "décalions",
+      "vous": "décaliez",
+      "ils": "décalent"
+    },
+    "subjonctif_passé": {
+      "je": "aie décalé",
+      "tu": "aies décalé",
+      "il": "ait décalé",
+      "nous": "ayons décalé",
+      "vous": "ayez décalé",
+      "ils": "aient décalé"
+    },
+    "subjonctif_imparfait": {
+      "je": "décalasse",
+      "tu": "décalasses",
+      "il": "décalât",
+      "nous": "décalassions",
+      "vous": "décalassiez",
+      "ils": "décalassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse décalé",
+      "tu": "eusses décalé",
+      "il": "eût décalé",
+      "nous": "eussions décalé",
+      "vous": "eussiez décalé",
+      "ils": "eussent décalé"
+    },
+    "conditionnel_présent": {
+      "je": "décalerais",
+      "tu": "décalerais",
+      "il": "décalerait",
+      "nous": "décalerions",
+      "vous": "décaleriez",
+      "ils": "décaleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais décalé",
+      "tu": "aurais décalé",
+      "il": "aurait décalé",
+      "nous": "aurions décalé",
+      "vous": "auriez décalé",
+      "ils": "auraient décalé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse décalé",
+      "tu": "eusses décalé",
+      "il": "eût décalé",
+      "nous": "eussions décalé",
+      "vous": "eussiez décalé",
+      "ils": "eussent décalé"
+    },
+    "translation": "przesuwać",
+    "group": 1
+  },
+  {
+    "infinitive": "décéder",
+    "présent": {
+      "je": "décède",
+      "tu": "décèdes",
+      "il": "décède",
+      "nous": "décédons",
+      "vous": "décédez",
+      "ils": "décèdent"
+    },
+    "passé_composé": {
+      "je": "suis décédé",
+      "tu": "es décédé",
+      "il": "est décédé",
+      "nous": "sommes décédés",
+      "vous": "êtes décédés",
+      "ils": "sont décédés"
+    },
+    "imparfait": {
+      "je": "décédais",
+      "tu": "décédais",
+      "il": "décédait",
+      "nous": "décédions",
+      "vous": "décédiez",
+      "ils": "décédaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais décédé",
+      "tu": "étais décédé",
+      "il": "était décédé",
+      "nous": "étions décédés",
+      "vous": "étiez décédés",
+      "ils": "étaient décédés"
+    },
+    "passé_simple": {
+      "je": "décédai",
+      "tu": "décédas",
+      "il": "décéda",
+      "nous": "décédâmes",
+      "vous": "décédâtes",
+      "ils": "décédèrent"
+    },
+    "passé_antérieur": {
+      "je": "fus décédé",
+      "tu": "fus décédé",
+      "il": "fut décédé",
+      "nous": "fûmes décédés",
+      "vous": "fûtes décédés",
+      "ils": "furent décédés"
+    },
+    "futur_simple": {
+      "je": "décéderai",
+      "tu": "décéderas",
+      "il": "décédera",
+      "nous": "décéderons",
+      "vous": "décéderez",
+      "ils": "décéderont"
+    },
+    "futur_antérieur": {
+      "je": "serai décédé",
+      "tu": "seras décédé",
+      "il": "sera décédé",
+      "nous": "serons décédés",
+      "vous": "serez décédés",
+      "ils": "seront décédés"
+    },
+    "subjonctif_présent": {
+      "je": "décède",
+      "tu": "décèdes",
+      "il": "décède",
+      "nous": "décédions",
+      "vous": "décédiez",
+      "ils": "décèdent"
+    },
+    "subjonctif_passé": {
+      "je": "sois décédé",
+      "tu": "sois décédé",
+      "il": "soit décédé",
+      "nous": "soyons décédés",
+      "vous": "soyez décédés",
+      "ils": "soient décédés"
+    },
+    "subjonctif_imparfait": {
+      "je": "décédasse",
+      "tu": "décédasses",
+      "il": "décédât",
+      "nous": "décédassions",
+      "vous": "décédassiez",
+      "ils": "décédassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "fusse décédé",
+      "tu": "fusses décédé",
+      "il": "fût décédé",
+      "nous": "fussions décédés",
+      "vous": "fussiez décédés",
+      "ils": "fussent décédés"
+    },
+    "conditionnel_présent": {
+      "je": "décéderais",
+      "tu": "décéderais",
+      "il": "décéderait",
+      "nous": "décéderions",
+      "vous": "décéderiez",
+      "ils": "décéderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "serais décédé",
+      "tu": "serais décédé",
+      "il": "serait décédé",
+      "nous": "serions décédés",
+      "vous": "seriez décédés",
+      "ils": "seraient décédés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "fusse décédé",
+      "tu": "fusses décédé",
+      "il": "fût décédé",
+      "nous": "fussions décédés",
+      "vous": "fussiez décédés",
+      "ils": "fussent décédés"
+    },
+    "translation": "umierać",
+    "group": 1
+  },
+  {
+    "infinitive": "déceler",
+    "présent": {
+      "je": "décèle",
+      "tu": "décèles",
+      "il": "décèle",
+      "nous": "décelons",
+      "vous": "décelez",
+      "ils": "décèlent"
+    },
+    "passé_composé": {
+      "je": "ai décelé",
+      "tu": "as décelé",
+      "il": "a décelé",
+      "nous": "avons décelé",
+      "vous": "avez décelé",
+      "ils": "ont décelé"
+    },
+    "imparfait": {
+      "je": "décelais",
+      "tu": "décelais",
+      "il": "décelait",
+      "nous": "décelions",
+      "vous": "déceliez",
+      "ils": "décelaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais décelé",
+      "tu": "avais décelé",
+      "il": "avait décelé",
+      "nous": "avions décelé",
+      "vous": "aviez décelé",
+      "ils": "avaient décelé"
+    },
+    "passé_simple": {
+      "je": "décelai",
+      "tu": "décelas",
+      "il": "décela",
+      "nous": "décelâmes",
+      "vous": "décelâtes",
+      "ils": "décelèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus décelé",
+      "tu": "eus décelé",
+      "il": "eut décelé",
+      "nous": "eûmes décelé",
+      "vous": "eûtes décelé",
+      "ils": "eurent décelé"
+    },
+    "futur_simple": {
+      "je": "décèlerai",
+      "tu": "décèleras",
+      "il": "décèlera",
+      "nous": "décèlerons",
+      "vous": "décèlerez",
+      "ils": "décèleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai décelé",
+      "tu": "auras décelé",
+      "il": "aura décelé",
+      "nous": "aurons décelé",
+      "vous": "aurez décelé",
+      "ils": "auront décelé"
+    },
+    "subjonctif_présent": {
+      "je": "décèle",
+      "tu": "décèles",
+      "il": "décèle",
+      "nous": "décelions",
+      "vous": "déceliez",
+      "ils": "décèlent"
+    },
+    "subjonctif_passé": {
+      "je": "aie décelé",
+      "tu": "aies décelé",
+      "il": "ait décelé",
+      "nous": "ayons décelé",
+      "vous": "ayez décelé",
+      "ils": "aient décelé"
+    },
+    "subjonctif_imparfait": {
+      "je": "décelasse",
+      "tu": "décelasses",
+      "il": "décelât",
+      "nous": "décelassions",
+      "vous": "décelassiez",
+      "ils": "décelassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse décelé",
+      "tu": "eusses décelé",
+      "il": "eût décelé",
+      "nous": "eussions décelé",
+      "vous": "eussiez décelé",
+      "ils": "eussent décelé"
+    },
+    "conditionnel_présent": {
+      "je": "décèlerais",
+      "tu": "décèlerais",
+      "il": "décèlerait",
+      "nous": "décèlerions",
+      "vous": "décèleriez",
+      "ils": "décèleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais décelé",
+      "tu": "aurais décelé",
+      "il": "aurait décelé",
+      "nous": "aurions décelé",
+      "vous": "auriez décelé",
+      "ils": "auraient décelé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse décelé",
+      "tu": "eusses décelé",
+      "il": "eût décelé",
+      "nous": "eussions décelé",
+      "vous": "eussiez décelé",
+      "ils": "eussent décelé"
+    },
+    "translation": "odkrywać",
+    "group": 1
+  },
+  {
+    "infinitive": "décevoir",
+    "présent": {
+      "je": "déçois",
+      "tu": "déçois",
+      "il": "déçoit",
+      "nous": "décevons",
+      "vous": "décevez",
+      "ils": "déçoivent"
+    },
+    "passé_composé": {
+      "je": "ai déçu",
+      "tu": "as déçu",
+      "il": "a déçu",
+      "nous": "avons déçu",
+      "vous": "avez déçu",
+      "ils": "ont déçu"
+    },
+    "imparfait": {
+      "je": "décevais",
+      "tu": "décevais",
+      "il": "décevait",
+      "nous": "décevions",
+      "vous": "déceviez",
+      "ils": "décevaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais déçu",
+      "tu": "avais déçu",
+      "il": "avait déçu",
+      "nous": "avions déçu",
+      "vous": "aviez déçu",
+      "ils": "avaient déçu"
+    },
+    "passé_simple": {
+      "je": "déçus",
+      "tu": "déçus",
+      "il": "déçut",
+      "nous": "déçûmes",
+      "vous": "déçûtes",
+      "ils": "déçurent"
+    },
+    "passé_antérieur": {
+      "je": "eus déçu",
+      "tu": "eus déçu",
+      "il": "eut déçu",
+      "nous": "eûmes déçu",
+      "vous": "eûtes déçu",
+      "ils": "eurent déçu"
+    },
+    "futur_simple": {
+      "je": "décevrai",
+      "tu": "décevras",
+      "il": "décevra",
+      "nous": "décevrons",
+      "vous": "décevrez",
+      "ils": "décevront"
+    },
+    "futur_antérieur": {
+      "je": "aurai déçu",
+      "tu": "auras déçu",
+      "il": "aura déçu",
+      "nous": "aurons déçu",
+      "vous": "aurez déçu",
+      "ils": "auront déçu"
+    },
+    "subjonctif_présent": {
+      "je": "déçoive",
+      "tu": "déçoives",
+      "il": "déçoive",
+      "nous": "décevions",
+      "vous": "déceviez",
+      "ils": "déçoivent"
+    },
+    "subjonctif_passé": {
+      "je": "aie déçu",
+      "tu": "aies déçu",
+      "il": "ait déçu",
+      "nous": "ayons déçu",
+      "vous": "ayez déçu",
+      "ils": "aient déçu"
+    },
+    "subjonctif_imparfait": {
+      "je": "déçusse",
+      "tu": "déçusses",
+      "il": "déçût",
+      "nous": "déçussions",
+      "vous": "déçussiez",
+      "ils": "déçussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse déçu",
+      "tu": "eusses déçu",
+      "il": "eût déçu",
+      "nous": "eussions déçu",
+      "vous": "eussiez déçu",
+      "ils": "eussent déçu"
+    },
+    "conditionnel_présent": {
+      "je": "décevrais",
+      "tu": "décevrais",
+      "il": "décevrait",
+      "nous": "décevrions",
+      "vous": "décevriez",
+      "ils": "décevraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais déçu",
+      "tu": "aurais déçu",
+      "il": "aurait déçu",
+      "nous": "aurions déçu",
+      "vous": "auriez déçu",
+      "ils": "auraient déçu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse déçu",
+      "tu": "eusses déçu",
+      "il": "eût déçu",
+      "nous": "eussions déçu",
+      "vous": "eussiez déçu",
+      "ils": "eussent déçu"
+    },
+    "translation": "rozczarowywać",
+    "group": 3
+  }
+]

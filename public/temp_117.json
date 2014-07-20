@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "koter",
+    "présent": {
+      "je": "kote",
+      "tu": "kotes",
+      "il": "kote",
+      "nous": "kotons",
+      "vous": "kotez",
+      "ils": "kotent"
+    },
+    "passé_composé": {
+      "je": "ai koté",
+      "tu": "as koté",
+      "il": "a koté",
+      "nous": "avons koté",
+      "vous": "avez koté",
+      "ils": "ont koté"
+    },
+    "imparfait": {
+      "je": "kotais",
+      "tu": "kotais",
+      "il": "kotait",
+      "nous": "kotions",
+      "vous": "kotiez",
+      "ils": "kotaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais koté",
+      "tu": "avais koté",
+      "il": "avait koté",
+      "nous": "avions koté",
+      "vous": "aviez koté",
+      "ils": "avaient koté"
+    },
+    "passé_simple": {
+      "je": "kotai",
+      "tu": "kotas",
+      "il": "kota",
+      "nous": "kotâmes",
+      "vous": "kotâtes",
+      "ils": "kotèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus koté",
+      "tu": "eus koté",
+      "il": "eut koté",
+      "nous": "eûmes koté",
+      "vous": "eûtes koté",
+      "ils": "eurent koté"
+    },
+    "futur_simple": {
+      "je": "koterai",
+      "tu": "koteras",
+      "il": "kotera",
+      "nous": "koterons",
+      "vous": "koterez",
+      "ils": "koteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai koté",
+      "tu": "auras koté",
+      "il": "aura koté",
+      "nous": "aurons koté",
+      "vous": "aurez koté",
+      "ils": "auront koté"
+    },
+    "subjonctif_présent": {
+      "je": "kote",
+      "tu": "kotes",
+      "il": "kote",
+      "nous": "kotions",
+      "vous": "kotiez",
+      "ils": "kotent"
+    },
+    "subjonctif_passé": {
+      "je": "aie koté",
+      "tu": "aies koté",
+      "il": "ait koté",
+      "nous": "ayons koté",
+      "vous": "ayez koté",
+      "ils": "aient koté"
+    },
+    "subjonctif_imparfait": {
+      "je": "kotasse",
+      "tu": "kotasses",
+      "il": "kotât",
+      "nous": "kotassions",
+      "vous": "kotassiez",
+      "ils": "kotassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse koté",
+      "tu": "eusses koté",
+      "il": "eût koté",
+      "nous": "eussions koté",
+      "vous": "eussiez koté",
+      "ils": "eussent koté"
+    },
+    "conditionnel_présent": {
+      "je": "koterais",
+      "tu": "koterais",
+      "il": "koterait",
+      "nous": "koterions",
+      "vous": "koteriez",
+      "ils": "koteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais koté",
+      "tu": "aurais koté",
+      "il": "aurait koté",
+      "nous": "aurions koté",
+      "vous": "auriez koté",
+      "ils": "auraient koté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse koté",
+      "tu": "eusses koté",
+      "il": "eût koté",
+      "nous": "eussions koté",
+      "vous": "eussiez koté",
+      "ils": "eussent koté"
+    },
+    "translation": "notować",
+    "group": 1
+  },
+  {
+    "infinitive": "lacer",
+    "présent": {
+      "je": "lace",
+      "tu": "laces",
+      "il": "lace",
+      "nous": "laçons",
+      "vous": "lacez",
+      "ils": "lacent"
+    },
+    "passé_composé": {
+      "je": "ai lacé",
+      "tu": "as lacé",
+      "il": "a lacé",
+      "nous": "avons lacé",
+      "vous": "avez lacé",
+      "ils": "ont lacé"
+    },
+    "imparfait": {
+      "je": "laçais",
+      "tu": "laçais",
+      "il": "laçait",
+      "nous": "lacions",
+      "vous": "laciez",
+      "ils": "laçaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais lacé",
+      "tu": "avais lacé",
+      "il": "avait lacé",
+      "nous": "avions lacé",
+      "vous": "aviez lacé",
+      "ils": "avaient lacé"
+    },
+    "passé_simple": {
+      "je": "laçai",
+      "tu": "laças",
+      "il": "laça",
+      "nous": "laçâmes",
+      "vous": "laçâtes",
+      "ils": "lacèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus lacé",
+      "tu": "eus lacé",
+      "il": "eut lacé",
+      "nous": "eûmes lacé",
+      "vous": "eûtes lacé",
+      "ils": "eurent lacé"
+    },
+    "futur_simple": {
+      "je": "lacerai",
+      "tu": "laceras",
+      "il": "lacera",
+      "nous": "lacerons",
+      "vous": "lacerez",
+      "ils": "laceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai lacé",
+      "tu": "auras lacé",
+      "il": "aura lacé",
+      "nous": "aurons lacé",
+      "vous": "aurez lacé",
+      "ils": "auront lacé"
+    },
+    "subjonctif_présent": {
+      "je": "lace",
+      "tu": "laces",
+      "il": "lace",
+      "nous": "lacions",
+      "vous": "laciez",
+      "ils": "lacent"
+    },
+    "subjonctif_passé": {
+      "je": "aie lacé",
+      "tu": "aies lacé",
+      "il": "ait lacé",
+      "nous": "ayons lacé",
+      "vous": "ayez lacé",
+      "ils": "aient lacé"
+    },
+    "subjonctif_imparfait": {
+      "je": "laçasse",
+      "tu": "laçasses",
+      "il": "laçât",
+      "nous": "laçassions",
+      "vous": "laçassiez",
+      "ils": "laçassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse lacé",
+      "tu": "eusses lacé",
+      "il": "eût lacé",
+      "nous": "eussions lacé",
+      "vous": "eussiez lacé",
+      "ils": "eussent lacé"
+    },
+    "conditionnel_présent": {
+      "je": "lacerais",
+      "tu": "lacerais",
+      "il": "lacerait",
+      "nous": "lacerions",
+      "vous": "laceriez",
+      "ils": "laceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais lacé",
+      "tu": "aurais lacé",
+      "il": "aurait lacé",
+      "nous": "aurions lacé",
+      "vous": "auriez lacé",
+      "ils": "auraient lacé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse lacé",
+      "tu": "eusses lacé",
+      "il": "eût lacé",
+      "nous": "eussions lacé",
+      "vous": "eussiez lacé",
+      "ils": "eussent lacé"
+    },
+    "translation": "sznurować",
+    "group": 1
+  },
+  {
+    "infinitive": "lâcher",
+    "présent": {
+      "je": "lâche",
+      "tu": "lâches",
+      "il": "lâche",
+      "nous": "lâchons",
+      "vous": "lâchez",
+      "ils": "lâchent"
+    },
+    "passé_composé": {
+      "je": "ai lâché",
+      "tu": "as lâché",
+      "il": "a lâché",
+      "nous": "avons lâché",
+      "vous": "avez lâché",
+      "ils": "ont lâché"
+    },
+    "imparfait": {
+      "je": "lâchais",
+      "tu": "lâchais",
+      "il": "lâchait",
+      "nous": "lâchions",
+      "vous": "lâchiez",
+      "ils": "lâchaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais lâché",
+      "tu": "avais lâché",
+      "il": "avait lâché",
+      "nous": "avions lâché",
+      "vous": "aviez lâché",
+      "ils": "avaient lâché"
+    },
+    "passé_simple": {
+      "je": "lâchai",
+      "tu": "lâchas",
+      "il": "lâcha",
+      "nous": "lâchâmes",
+      "vous": "lâchâtes",
+      "ils": "lâchèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus lâché",
+      "tu": "eus lâché",
+      "il": "eut lâché",
+      "nous": "eûmes lâché",
+      "vous": "eûtes lâché",
+      "ils": "eurent lâché"
+    },
+    "futur_simple": {
+      "je": "lâcherai",
+      "tu": "lâcheras",
+      "il": "lâchera",
+      "nous": "lâcherons",
+      "vous": "lâcherez",
+      "ils": "lâcheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai lâché",
+      "tu": "auras lâché",
+      "il": "aura lâché",
+      "nous": "aurons lâché",
+      "vous": "aurez lâché",
+      "ils": "auront lâché"
+    },
+    "subjonctif_présent": {
+      "je": "lâche",
+      "tu": "lâches",
+      "il": "lâche",
+      "nous": "lâchions",
+      "vous": "lâchiez",
+      "ils": "lâchent"
+    },
+    "subjonctif_passé": {
+      "je": "aie lâché",
+      "tu": "aies lâché",
+      "il": "ait lâché",
+      "nous": "ayons lâché",
+      "vous": "ayez lâché",
+      "ils": "aient lâché"
+    },
+    "subjonctif_imparfait": {
+      "je": "lâchasse",
+      "tu": "lâchasses",
+      "il": "lâchât",
+      "nous": "lâchassions",
+      "vous": "lâchassiez",
+      "ils": "lâchassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse lâché",
+      "tu": "eusses lâché",
+      "il": "eût lâché",
+      "nous": "eussions lâché",
+      "vous": "eussiez lâché",
+      "ils": "eussent lâché"
+    },
+    "conditionnel_présent": {
+      "je": "lâcherais",
+      "tu": "lâcherais",
+      "il": "lâcherait",
+      "nous": "lâcherions",
+      "vous": "lâcheriez",
+      "ils": "lâcheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais lâché",
+      "tu": "aurais lâché",
+      "il": "aurait lâché",
+      "nous": "aurions lâché",
+      "vous": "auriez lâché",
+      "ils": "auraient lâché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse lâché",
+      "tu": "eusses lâché",
+      "il": "eût lâché",
+      "nous": "eussions lâché",
+      "vous": "eussiez lâché",
+      "ils": "eussent lâché"
+    },
+    "translation": "wypuszczać",
+    "group": 1
+  },
+  {
+    "infinitive": "lainer",
+    "présent": {
+      "je": "laine",
+      "tu": "laines",
+      "il": "laine",
+      "nous": "lainons",
+      "vous": "lainez",
+      "ils": "lainent"
+    },
+    "passé_composé": {
+      "je": "ai lainé",
+      "tu": "as lainé",
+      "il": "a lainé",
+      "nous": "avons lainé",
+      "vous": "avez lainé",
+      "ils": "ont lainé"
+    },
+    "imparfait": {
+      "je": "lainais",
+      "tu": "lainais",
+      "il": "lainait",
+      "nous": "lainions",
+      "vous": "lainiez",
+      "ils": "lainaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais lainé",
+      "tu": "avais lainé",
+      "il": "avait lainé",
+      "nous": "avions lainé",
+      "vous": "aviez lainé",
+      "ils": "avaient lainé"
+    },
+    "passé_simple": {
+      "je": "lainai",
+      "tu": "lainas",
+      "il": "laina",
+      "nous": "lainâmes",
+      "vous": "lainâtes",
+      "ils": "lainèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus lainé",
+      "tu": "eus lainé",
+      "il": "eut lainé",
+      "nous": "eûmes lainé",
+      "vous": "eûtes lainé",
+      "ils": "eurent lainé"
+    },
+    "futur_simple": {
+      "je": "lainerai",
+      "tu": "laineras",
+      "il": "lainera",
+      "nous": "lainerons",
+      "vous": "lainerez",
+      "ils": "laineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai lainé",
+      "tu": "auras lainé",
+      "il": "aura lainé",
+      "nous": "aurons lainé",
+      "vous": "aurez lainé",
+      "ils": "auront lainé"
+    },
+    "subjonctif_présent": {
+      "je": "laine",
+      "tu": "laines",
+      "il": "laine",
+      "nous": "lainions",
+      "vous": "lainiez",
+      "ils": "lainent"
+    },
+    "subjonctif_passé": {
+      "je": "aie lainé",
+      "tu": "aies lainé",
+      "il": "ait lainé",
+      "nous": "ayons lainé",
+      "vous": "ayez lainé",
+      "ils": "aient lainé"
+    },
+    "subjonctif_imparfait": {
+      "je": "lainasse",
+      "tu": "lainasses",
+      "il": "lainât",
+      "nous": "lainassions",
+      "vous": "lainassiez",
+      "ils": "lainassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse lainé",
+      "tu": "eusses lainé",
+      "il": "eût lainé",
+      "nous": "eussions lainé",
+      "vous": "eussiez lainé",
+      "ils": "eussent lainé"
+    },
+    "conditionnel_présent": {
+      "je": "lainerais",
+      "tu": "lainerais",
+      "il": "lainerait",
+      "nous": "lainerions",
+      "vous": "laineriez",
+      "ils": "laineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais lainé",
+      "tu": "aurais lainé",
+      "il": "aurait lainé",
+      "nous": "aurions lainé",
+      "vous": "auriez lainé",
+      "ils": "auraient lainé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse lainé",
+      "tu": "eusses lainé",
+      "il": "eût lainé",
+      "nous": "eussions lainé",
+      "vous": "eussiez lainé",
+      "ils": "eussent lainé"
+    },
+    "translation": "wełna",
+    "group": 1
+  },
+  {
+    "infinitive": "laisser",
+    "présent": {
+      "je": "laisse",
+      "tu": "laisses",
+      "il": "laisse",
+      "nous": "laissons",
+      "vous": "laissez",
+      "ils": "laissent"
+    },
+    "passé_composé": {
+      "je": "ai laissé",
+      "tu": "as laissé",
+      "il": "a laissé",
+      "nous": "avons laissé",
+      "vous": "avez laissé",
+      "ils": "ont laissé"
+    },
+    "imparfait": {
+      "je": "laissais",
+      "tu": "laissais",
+      "il": "laissait",
+      "nous": "laissions",
+      "vous": "laissiez",
+      "ils": "laissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais laissé",
+      "tu": "avais laissé",
+      "il": "avait laissé",
+      "nous": "avions laissé",
+      "vous": "aviez laissé",
+      "ils": "avaient laissé"
+    },
+    "passé_simple": {
+      "je": "laissai",
+      "tu": "laissas",
+      "il": "laissa",
+      "nous": "laissâmes",
+      "vous": "laissâtes",
+      "ils": "laissèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus laissé",
+      "tu": "eus laissé",
+      "il": "eut laissé",
+      "nous": "eûmes laissé",
+      "vous": "eûtes laissé",
+      "ils": "eurent laissé"
+    },
+    "futur_simple": {
+      "je": "laisserai",
+      "tu": "laisseras",
+      "il": "laissera",
+      "nous": "laisserons",
+      "vous": "laisserez",
+      "ils": "laisseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai laissé",
+      "tu": "auras laissé",
+      "il": "aura laissé",
+      "nous": "aurons laissé",
+      "vous": "aurez laissé",
+      "ils": "auront laissé"
+    },
+    "subjonctif_présent": {
+      "je": "laisse",
+      "tu": "laisses",
+      "il": "laisse",
+      "nous": "laissions",
+      "vous": "laissiez",
+      "ils": "laissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie laissé",
+      "tu": "aies laissé",
+      "il": "ait laissé",
+      "nous": "ayons laissé",
+      "vous": "ayez laissé",
+      "ils": "aient laissé"
+    },
+    "subjonctif_imparfait": {
+      "je": "laissasse",
+      "tu": "laissasses",
+      "il": "laissât",
+      "nous": "laissassions",
+      "vous": "laissassiez",
+      "ils": "laissassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse laissé",
+      "tu": "eusses laissé",
+      "il": "eût laissé",
+      "nous": "eussions laissé",
+      "vous": "eussiez laissé",
+      "ils": "eussent laissé"
+    },
+    "conditionnel_présent": {
+      "je": "laisserais",
+      "tu": "laisserais",
+      "il": "laisserait",
+      "nous": "laisserions",
+      "vous": "laisseriez",
+      "ils": "laisseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais laissé",
+      "tu": "aurais laissé",
+      "il": "aurait laissé",
+      "nous": "aurions laissé",
+      "vous": "auriez laissé",
+      "ils": "auraient laissé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse laissé",
+      "tu": "eusses laissé",
+      "il": "eût laissé",
+      "nous": "eussions laissé",
+      "vous": "eussiez laissé",
+      "ils": "eussent laissé"
+    },
+    "translation": "zostawiać",
+    "group": 1
+  },
+  {
+    "infinitive": "lamenter",
+    "présent": {
+      "je": "me lamente",
+      "tu": "te lamentes",
+      "il": "se lamente",
+      "nous": "nous lamentons",
+      "vous": "vous lamentez",
+      "ils": "se lamentent"
+    },
+    "passé_composé": {
+      "je": "me suis lamenté",
+      "tu": "es lamenté",
+      "il": "est lamenté",
+      "nous": "nous sommes lamentés",
+      "vous": "vous êtes lamentés",
+      "ils": "se sont lamentés"
+    },
+    "imparfait": {
+      "je": "me lamentais",
+      "tu": "te lamentais",
+      "il": "se lamentait",
+      "nous": "nous lamentions",
+      "vous": "vous lamentiez",
+      "ils": "se lamentaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais lamenté",
+      "tu": "étais lamenté",
+      "il": "était lamenté",
+      "nous": "nous étions lamentés",
+      "vous": "vous étiez lamentés",
+      "ils": "étaient lamentés"
+    },
+    "passé_simple": {
+      "je": "me lamentai",
+      "tu": "te lamentas",
+      "il": "se lamenta",
+      "nous": "nous lamentâmes",
+      "vous": "vous lamentâtes",
+      "ils": "se lamentèrent"
+    },
+    "passé_antérieur": {
+      "je": "me fus lamenté",
+      "tu": "te fus lamenté",
+      "il": "se fut lamenté",
+      "nous": "nous fûmes lamentés",
+      "vous": "vous fûtes lamentés",
+      "ils": "se furent lamentés"
+    },
+    "futur_simple": {
+      "je": "me lamenterai",
+      "tu": "te lamenteras",
+      "il": "se lamentera",
+      "nous": "nous lamenterons",
+      "vous": "vous lamenterez",
+      "ils": "se lamenteront"
+    },
+    "futur_antérieur": {
+      "je": "me serai lamenté",
+      "tu": "te seras lamenté",
+      "il": "se sera lamenté",
+      "nous": "nous serons lamentés",
+      "vous": "vous serez lamentés",
+      "ils": "se seront lamentés"
+    },
+    "subjonctif_présent": {
+      "je": "me lamente",
+      "tu": "te lamentes",
+      "il": "se lamente",
+      "nous": "nous lamentions",
+      "vous": "vous lamentiez",
+      "ils": "se lamentent"
+    },
+    "subjonctif_passé": {
+      "je": "me sois lamenté",
+      "tu": "te sois lamenté",
+      "il": "se soit lamenté",
+      "nous": "nous soyons lamentés",
+      "vous": "vous soyez lamentés",
+      "ils": "se soient lamentés"
+    },
+    "subjonctif_imparfait": {
+      "je": "me lamentasse",
+      "tu": "te lamentasses",
+      "il": "se lamentât",
+      "nous": "nous lamentassions",
+      "vous": "vous lamentassiez",
+      "ils": "se lamentassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse lamenté",
+      "tu": "te fusses lamenté",
+      "il": "se fût lamenté",
+      "nous": "nous fussions lamentés",
+      "vous": "vous fussiez lamentés",
+      "ils": "se fussent lamentés"
+    },
+    "conditionnel_présent": {
+      "je": "me lamenterais",
+      "tu": "te lamenterais",
+      "il": "se lamenterait",
+      "nous": "nous lamenterions",
+      "vous": "vous lamenteriez",
+      "ils": "se lamenteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais lamenté",
+      "tu": "te serais lamenté",
+      "il": "se serait lamenté",
+      "nous": "nous serions lamentés",
+      "vous": "vous seriez lamentés",
+      "ils": "se seraient lamentés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse lamenté",
+      "tu": "te fusses lamenté",
+      "il": "se fût lamenté",
+      "nous": "nous fussions lamentés",
+      "vous": "vous fussiez lamentés",
+      "ils": "se fussent lamentés"
+    },
+    "translation": "skarżyć",
+    "group": 1
+  },
+  {
+    "infinitive": "lamer",
+    "présent": {
+      "je": "lame",
+      "tu": "lames",
+      "il": "lame",
+      "nous": "lamons",
+      "vous": "lamez",
+      "ils": "lament"
+    },
+    "passé_composé": {
+      "je": "ai lamé",
+      "tu": "as lamé",
+      "il": "a lamé",
+      "nous": "avons lamé",
+      "vous": "avez lamé",
+      "ils": "ont lamé"
+    },
+    "imparfait": {
+      "je": "lamais",
+      "tu": "lamais",
+      "il": "lamait",
+      "nous": "lamions",
+      "vous": "lamiez",
+      "ils": "lamaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais lamé",
+      "tu": "avais lamé",
+      "il": "avait lamé",
+      "nous": "avions lamé",
+      "vous": "aviez lamé",
+      "ils": "avaient lamé"
+    },
+    "passé_simple": {
+      "je": "lamai",
+      "tu": "lamas",
+      "il": "lama",
+      "nous": "lamâmes",
+      "vous": "lamâtes",
+      "ils": "lamèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus lamé",
+      "tu": "eus lamé",
+      "il": "eut lamé",
+      "nous": "eûmes lamé",
+      "vous": "eûtes lamé",
+      "ils": "eurent lamé"
+    },
+    "futur_simple": {
+      "je": "lamerai",
+      "tu": "lameras",
+      "il": "lamera",
+      "nous": "lamerons",
+      "vous": "lamerez",
+      "ils": "lameront"
+    },
+    "futur_antérieur": {
+      "je": "aurai lamé",
+      "tu": "auras lamé",
+      "il": "aura lamé",
+      "nous": "aurons lamé",
+      "vous": "aurez lamé",
+      "ils": "auront lamé"
+    },
+    "subjonctif_présent": {
+      "je": "lame",
+      "tu": "lames",
+      "il": "lame",
+      "nous": "lamions",
+      "vous": "lamiez",
+      "ils": "lament"
+    },
+    "subjonctif_passé": {
+      "je": "aie lamé",
+      "tu": "aies lamé",
+      "il": "ait lamé",
+      "nous": "ayons lamé",
+      "vous": "ayez lamé",
+      "ils": "aient lamé"
+    },
+    "subjonctif_imparfait": {
+      "je": "lamasse",
+      "tu": "lamasses",
+      "il": "lamât",
+      "nous": "lamassions",
+      "vous": "lamassiez",
+      "ils": "lamassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse lamé",
+      "tu": "eusses lamé",
+      "il": "eût lamé",
+      "nous": "eussions lamé",
+      "vous": "eussiez lamé",
+      "ils": "eussent lamé"
+    },
+    "conditionnel_présent": {
+      "je": "lamerais",
+      "tu": "lamerais",
+      "il": "lamerait",
+      "nous": "lamerions",
+      "vous": "lameriez",
+      "ils": "lameraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais lamé",
+      "tu": "aurais lamé",
+      "il": "aurait lamé",
+      "nous": "aurions lamé",
+      "vous": "auriez lamé",
+      "ils": "auraient lamé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse lamé",
+      "tu": "eusses lamé",
+      "il": "eût lamé",
+      "nous": "eussions lamé",
+      "vous": "eussiez lamé",
+      "ils": "eussent lamé"
+    },
+    "translation": "piłować",
+    "group": 1
+  },
+  {
+    "infinitive": "lancer",
+    "présent": {
+      "je": "lance",
+      "tu": "lances",
+      "il": "lance",
+      "nous": "lançons",
+      "vous": "lancez",
+      "ils": "lancent"
+    },
+    "passé_composé": {
+      "je": "ai lancé",
+      "tu": "as lancé",
+      "il": "a lancé",
+      "nous": "avons lancé",
+      "vous": "avez lancé",
+      "ils": "ont lancé"
+    },
+    "imparfait": {
+      "je": "lançais",
+      "tu": "lançais",
+      "il": "lançait",
+      "nous": "lancions",
+      "vous": "lanciez",
+      "ils": "lançaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais lancé",
+      "tu": "avais lancé",
+      "il": "avait lancé",
+      "nous": "avions lancé",
+      "vous": "aviez lancé",
+      "ils": "avaient lancé"
+    },
+    "passé_simple": {
+      "je": "lançai",
+      "tu": "lanças",
+      "il": "lança",
+      "nous": "lançâmes",
+      "vous": "lançâtes",
+      "ils": "lancèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus lancé",
+      "tu": "eus lancé",
+      "il": "eut lancé",
+      "nous": "eûmes lancé",
+      "vous": "eûtes lancé",
+      "ils": "eurent lancé"
+    },
+    "futur_simple": {
+      "je": "lancerai",
+      "tu": "lanceras",
+      "il": "lancera",
+      "nous": "lancerons",
+      "vous": "lancerez",
+      "ils": "lanceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai lancé",
+      "tu": "auras lancé",
+      "il": "aura lancé",
+      "nous": "aurons lancé",
+      "vous": "aurez lancé",
+      "ils": "auront lancé"
+    },
+    "subjonctif_présent": {
+      "je": "lance",
+      "tu": "lances",
+      "il": "lance",
+      "nous": "lancions",
+      "vous": "lanciez",
+      "ils": "lancent"
+    },
+    "subjonctif_passé": {
+      "je": "aie lancé",
+      "tu": "aies lancé",
+      "il": "ait lancé",
+      "nous": "ayons lancé",
+      "vous": "ayez lancé",
+      "ils": "aient lancé"
+    },
+    "subjonctif_imparfait": {
+      "je": "lançasse",
+      "tu": "lançasses",
+      "il": "lançât",
+      "nous": "lançassions",
+      "vous": "lançassiez",
+      "ils": "lançassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse lancé",
+      "tu": "eusses lancé",
+      "il": "eût lancé",
+      "nous": "eussions lancé",
+      "vous": "eussiez lancé",
+      "ils": "eussent lancé"
+    },
+    "conditionnel_présent": {
+      "je": "lancerais",
+      "tu": "lancerais",
+      "il": "lancerait",
+      "nous": "lancerions",
+      "vous": "lanceriez",
+      "ils": "lanceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais lancé",
+      "tu": "aurais lancé",
+      "il": "aurait lancé",
+      "nous": "aurions lancé",
+      "vous": "auriez lancé",
+      "ils": "auraient lancé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse lancé",
+      "tu": "eusses lancé",
+      "il": "eût lancé",
+      "nous": "eussions lancé",
+      "vous": "eussiez lancé",
+      "ils": "eussent lancé"
+    },
+    "translation": "rzucać",
+    "group": 1
+  },
+  {
+    "infinitive": "languir",
+    "présent": {
+      "je": "languis",
+      "tu": "languis",
+      "il": "languit",
+      "nous": "languissons",
+      "vous": "languissez",
+      "ils": "languissent"
+    },
+    "passé_composé": {
+      "je": "ai langui",
+      "tu": "as langui",
+      "il": "a langui",
+      "nous": "avons langui",
+      "vous": "avez langui",
+      "ils": "ont langui"
+    },
+    "imparfait": {
+      "je": "languissais",
+      "tu": "languissais",
+      "il": "languissait",
+      "nous": "languissions",
+      "vous": "languissiez",
+      "ils": "languissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais langui",
+      "tu": "avais langui",
+      "il": "avait langui",
+      "nous": "avions langui",
+      "vous": "aviez langui",
+      "ils": "avaient langui"
+    },
+    "passé_simple": {
+      "je": "languis",
+      "tu": "languis",
+      "il": "languit",
+      "nous": "languîmes",
+      "vous": "languîtes",
+      "ils": "languirent"
+    },
+    "passé_antérieur": {
+      "je": "eus langui",
+      "tu": "eus langui",
+      "il": "eut langui",
+      "nous": "eûmes langui",
+      "vous": "eûtes langui",
+      "ils": "eurent langui"
+    },
+    "futur_simple": {
+      "je": "languirai",
+      "tu": "languiras",
+      "il": "languira",
+      "nous": "languirons",
+      "vous": "languirez",
+      "ils": "languiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai langui",
+      "tu": "auras langui",
+      "il": "aura langui",
+      "nous": "aurons langui",
+      "vous": "aurez langui",
+      "ils": "auront langui"
+    },
+    "subjonctif_présent": {
+      "je": "languisse",
+      "tu": "languisses",
+      "il": "languisse",
+      "nous": "languissions",
+      "vous": "languissiez",
+      "ils": "languissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie langui",
+      "tu": "aies langui",
+      "il": "ait langui",
+      "nous": "ayons langui",
+      "vous": "ayez langui",
+      "ils": "aient langui"
+    },
+    "subjonctif_imparfait": {
+      "je": "languisse",
+      "tu": "languisses",
+      "il": "languît",
+      "nous": "languissions",
+      "vous": "languissiez",
+      "ils": "languissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse langui",
+      "tu": "eusses langui",
+      "il": "eût langui",
+      "nous": "eussions langui",
+      "vous": "eussiez langui",
+      "ils": "eussent langui"
+    },
+    "conditionnel_présent": {
+      "je": "languirais",
+      "tu": "languirais",
+      "il": "languirait",
+      "nous": "languirions",
+      "vous": "languiriez",
+      "ils": "languiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais langui",
+      "tu": "aurais langui",
+      "il": "aurait langui",
+      "nous": "aurions langui",
+      "vous": "auriez langui",
+      "ils": "auraient langui"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse langui",
+      "tu": "eusses langui",
+      "il": "eût langui",
+      "nous": "eussions langui",
+      "vous": "eussiez langui",
+      "ils": "eussent langui"
+    },
+    "translation": "rwać",
+    "group": 2
+  },
+  {
+    "infinitive": "laper",
+    "présent": {
+      "je": "lape",
+      "tu": "lapes",
+      "il": "lape",
+      "nous": "lapons",
+      "vous": "lapez",
+      "ils": "lapent"
+    },
+    "passé_composé": {
+      "je": "ai lapé",
+      "tu": "as lapé",
+      "il": "a lapé",
+      "nous": "avons lapé",
+      "vous": "avez lapé",
+      "ils": "ont lapé"
+    },
+    "imparfait": {
+      "je": "lapais",
+      "tu": "lapais",
+      "il": "lapait",
+      "nous": "lapions",
+      "vous": "lapiez",
+      "ils": "lapaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais lapé",
+      "tu": "avais lapé",
+      "il": "avait lapé",
+      "nous": "avions lapé",
+      "vous": "aviez lapé",
+      "ils": "avaient lapé"
+    },
+    "passé_simple": {
+      "je": "lapai",
+      "tu": "lapas",
+      "il": "lapa",
+      "nous": "lapâmes",
+      "vous": "lapâtes",
+      "ils": "lapèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus lapé",
+      "tu": "eus lapé",
+      "il": "eut lapé",
+      "nous": "eûmes lapé",
+      "vous": "eûtes lapé",
+      "ils": "eurent lapé"
+    },
+    "futur_simple": {
+      "je": "laperai",
+      "tu": "laperas",
+      "il": "lapera",
+      "nous": "laperons",
+      "vous": "laperez",
+      "ils": "laperont"
+    },
+    "futur_antérieur": {
+      "je": "aurai lapé",
+      "tu": "auras lapé",
+      "il": "aura lapé",
+      "nous": "aurons lapé",
+      "vous": "aurez lapé",
+      "ils": "auront lapé"
+    },
+    "subjonctif_présent": {
+      "je": "lape",
+      "tu": "lapes",
+      "il": "lape",
+      "nous": "lapions",
+      "vous": "lapiez",
+      "ils": "lapent"
+    },
+    "subjonctif_passé": {
+      "je": "aie lapé",
+      "tu": "aies lapé",
+      "il": "ait lapé",
+      "nous": "ayons lapé",
+      "vous": "ayez lapé",
+      "ils": "aient lapé"
+    },
+    "subjonctif_imparfait": {
+      "je": "lapasse",
+      "tu": "lapasses",
+      "il": "lapât",
+      "nous": "lapassions",
+      "vous": "lapassiez",
+      "ils": "lapassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse lapé",
+      "tu": "eusses lapé",
+      "il": "eût lapé",
+      "nous": "eussions lapé",
+      "vous": "eussiez lapé",
+      "ils": "eussent lapé"
+    },
+    "conditionnel_présent": {
+      "je": "laperais",
+      "tu": "laperais",
+      "il": "laperait",
+      "nous": "laperions",
+      "vous": "laperiez",
+      "ils": "laperaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais lapé",
+      "tu": "aurais lapé",
+      "il": "aurait lapé",
+      "nous": "aurions lapé",
+      "vous": "auriez lapé",
+      "ils": "auraient lapé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse lapé",
+      "tu": "eusses lapé",
+      "il": "eût lapé",
+      "nous": "eussions lapé",
+      "vous": "eussiez lapé",
+      "ils": "eussent lapé"
+    },
+    "translation": "chłeptać",
+    "group": 1
+  }
+]

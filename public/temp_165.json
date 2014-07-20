@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "répartir",
+    "présent": {
+      "je": "repars",
+      "tu": "repars",
+      "il": "repart",
+      "nous": "repartons",
+      "vous": "repartez",
+      "ils": "repartent"
+    },
+    "passé_composé": {
+      "je": "suis reparti",
+      "tu": "es reparti",
+      "il": "est reparti",
+      "nous": "sommes repartis",
+      "vous": "êtes repartis",
+      "ils": "sont repartis"
+    },
+    "imparfait": {
+      "je": "repartais",
+      "tu": "repartais",
+      "il": "repartait",
+      "nous": "repartions",
+      "vous": "repartiez",
+      "ils": "repartaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais reparti",
+      "tu": "étais reparti",
+      "il": "était reparti",
+      "nous": "étions repartis",
+      "vous": "étiez repartis",
+      "ils": "étaient repartis"
+    },
+    "passé_simple": {
+      "je": "repartis",
+      "tu": "repartis",
+      "il": "repartit",
+      "nous": "repartîmes",
+      "vous": "repartîtes",
+      "ils": "repartirent"
+    },
+    "passé_antérieur": {
+      "je": "fus reparti",
+      "tu": "fus reparti",
+      "il": "fut reparti",
+      "nous": "fûmes repartis",
+      "vous": "fûtes repartis",
+      "ils": "furent repartis"
+    },
+    "futur_simple": {
+      "je": "repartirai",
+      "tu": "repartiras",
+      "il": "repartira",
+      "nous": "repartirons",
+      "vous": "repartirez",
+      "ils": "repartiront"
+    },
+    "futur_antérieur": {
+      "je": "serai reparti",
+      "tu": "seras reparti",
+      "il": "sera reparti",
+      "nous": "serons repartis",
+      "vous": "serez repartis",
+      "ils": "seront repartis"
+    },
+    "subjonctif_présent": {
+      "je": "reparte",
+      "tu": "repartes",
+      "il": "reparte",
+      "nous": "repartions",
+      "vous": "repartiez",
+      "ils": "repartent"
+    },
+    "subjonctif_passé": {
+      "je": "sois reparti",
+      "tu": "sois reparti",
+      "il": "soit reparti",
+      "nous": "soyons repartis",
+      "vous": "soyez repartis",
+      "ils": "soient repartis"
+    },
+    "subjonctif_imparfait": {
+      "je": "repartisse",
+      "tu": "repartisses",
+      "il": "repartît",
+      "nous": "repartissions",
+      "vous": "repartissiez",
+      "ils": "repartissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "fusse reparti",
+      "tu": "fusses reparti",
+      "il": "fût reparti",
+      "nous": "fussions repartis",
+      "vous": "fussiez repartis",
+      "ils": "fussent repartis"
+    },
+    "conditionnel_présent": {
+      "je": "repartirais",
+      "tu": "repartirais",
+      "il": "repartirait",
+      "nous": "repartirions",
+      "vous": "repartiriez",
+      "ils": "repartiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "serais reparti",
+      "tu": "serais reparti",
+      "il": "serait reparti",
+      "nous": "serions repartis",
+      "vous": "seriez repartis",
+      "ils": "seraient repartis"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "fusse reparti",
+      "tu": "fusses reparti",
+      "il": "fût reparti",
+      "nous": "fussions repartis",
+      "vous": "fussiez repartis",
+      "ils": "fussent repartis"
+    },
+    "translation": "odjeżdżać",
+    "group": 3
+  },
+  {
+    "infinitive": "repasser",
+    "présent": {
+      "je": "repasse",
+      "tu": "repasses",
+      "il": "repasse",
+      "nous": "repassons",
+      "vous": "repassez",
+      "ils": "repassent"
+    },
+    "passé_composé": {
+      "je": "ai repassé",
+      "tu": "as repassé",
+      "il": "a repassé",
+      "nous": "avons repassé",
+      "vous": "avez repassé",
+      "ils": "ont repassé"
+    },
+    "imparfait": {
+      "je": "repassais",
+      "tu": "repassais",
+      "il": "repassait",
+      "nous": "repassions",
+      "vous": "repassiez",
+      "ils": "repassaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais repassé",
+      "tu": "avais repassé",
+      "il": "avait repassé",
+      "nous": "avions repassé",
+      "vous": "aviez repassé",
+      "ils": "avaient repassé"
+    },
+    "passé_simple": {
+      "je": "repassai",
+      "tu": "repassas",
+      "il": "repassa",
+      "nous": "repassâmes",
+      "vous": "repassâtes",
+      "ils": "repassèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus repassé",
+      "tu": "eus repassé",
+      "il": "eut repassé",
+      "nous": "eûmes repassé",
+      "vous": "eûtes repassé",
+      "ils": "eurent repassé"
+    },
+    "futur_simple": {
+      "je": "repasserai",
+      "tu": "repasseras",
+      "il": "repassera",
+      "nous": "repasserons",
+      "vous": "repasserez",
+      "ils": "repasseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai repassé",
+      "tu": "auras repassé",
+      "il": "aura repassé",
+      "nous": "aurons repassé",
+      "vous": "aurez repassé",
+      "ils": "auront repassé"
+    },
+    "subjonctif_présent": {
+      "je": "repasse",
+      "tu": "repasses",
+      "il": "repasse",
+      "nous": "repassions",
+      "vous": "repassiez",
+      "ils": "repassent"
+    },
+    "subjonctif_passé": {
+      "je": "aie repassé",
+      "tu": "aies repassé",
+      "il": "ait repassé",
+      "nous": "ayons repassé",
+      "vous": "ayez repassé",
+      "ils": "aient repassé"
+    },
+    "subjonctif_imparfait": {
+      "je": "repassasse",
+      "tu": "repassasses",
+      "il": "repassât",
+      "nous": "repassassions",
+      "vous": "repassassiez",
+      "ils": "repassassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse repassé",
+      "tu": "eusses repassé",
+      "il": "eût repassé",
+      "nous": "eussions repassé",
+      "vous": "eussiez repassé",
+      "ils": "eussent repassé"
+    },
+    "conditionnel_présent": {
+      "je": "repasserais",
+      "tu": "repasserais",
+      "il": "repasserait",
+      "nous": "repasserions",
+      "vous": "repasseriez",
+      "ils": "repasseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais repassé",
+      "tu": "aurais repassé",
+      "il": "aurait repassé",
+      "nous": "aurions repassé",
+      "vous": "auriez repassé",
+      "ils": "auraient repassé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse repassé",
+      "tu": "eusses repassé",
+      "il": "eût repassé",
+      "nous": "eussions repassé",
+      "vous": "eussiez repassé",
+      "ils": "eussent repassé"
+    },
+    "translation": "prasować",
+    "group": 1
+  },
+  {
+    "infinitive": "repeindre",
+    "présent": {
+      "je": "repeins",
+      "tu": "repeins",
+      "il": "repeint",
+      "nous": "repeignons",
+      "vous": "repeignez",
+      "ils": "repeignent"
+    },
+    "passé_composé": {
+      "je": "ai repeint",
+      "tu": "as repeint",
+      "il": "a repeint",
+      "nous": "avons repeint",
+      "vous": "avez repeint",
+      "ils": "ont repeint"
+    },
+    "imparfait": {
+      "je": "repeignais",
+      "tu": "repeignais",
+      "il": "repeignait",
+      "nous": "repeignions",
+      "vous": "repeigniez",
+      "ils": "repeignaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais repeint",
+      "tu": "avais repeint",
+      "il": "avait repeint",
+      "nous": "avions repeint",
+      "vous": "aviez repeint",
+      "ils": "avaient repeint"
+    },
+    "passé_simple": {
+      "je": "repeignis",
+      "tu": "repeignis",
+      "il": "repeignit",
+      "nous": "repeignîmes",
+      "vous": "repeignîtes",
+      "ils": "repeignirent"
+    },
+    "passé_antérieur": {
+      "je": "eus repeint",
+      "tu": "eus repeint",
+      "il": "eut repeint",
+      "nous": "eûmes repeint",
+      "vous": "eûtes repeint",
+      "ils": "eurent repeint"
+    },
+    "futur_simple": {
+      "je": "repeindrai",
+      "tu": "repeindras",
+      "il": "repeindra",
+      "nous": "repeindrons",
+      "vous": "repeindrez",
+      "ils": "repeindront"
+    },
+    "futur_antérieur": {
+      "je": "aurai repeint",
+      "tu": "auras repeint",
+      "il": "aura repeint",
+      "nous": "aurons repeint",
+      "vous": "aurez repeint",
+      "ils": "auront repeint"
+    },
+    "subjonctif_présent": {
+      "je": "repeigne",
+      "tu": "repeignes",
+      "il": "repeigne",
+      "nous": "repeignions",
+      "vous": "repeigniez",
+      "ils": "repeignent"
+    },
+    "subjonctif_passé": {
+      "je": "aie repeint",
+      "tu": "aies repeint",
+      "il": "ait repeint",
+      "nous": "ayons repeint",
+      "vous": "ayez repeint",
+      "ils": "aient repeint"
+    },
+    "subjonctif_imparfait": {
+      "je": "repeignisse",
+      "tu": "repeignisses",
+      "il": "repeignît",
+      "nous": "repeignissions",
+      "vous": "repeignissiez",
+      "ils": "repeignissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse repeint",
+      "tu": "eusses repeint",
+      "il": "eût repeint",
+      "nous": "eussions repeint",
+      "vous": "eussiez repeint",
+      "ils": "eussent repeint"
+    },
+    "conditionnel_présent": {
+      "je": "repeindrais",
+      "tu": "repeindrais",
+      "il": "repeindrait",
+      "nous": "repeindrions",
+      "vous": "repeindriez",
+      "ils": "repeindraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais repeint",
+      "tu": "aurais repeint",
+      "il": "aurait repeint",
+      "nous": "aurions repeint",
+      "vous": "auriez repeint",
+      "ils": "auraient repeint"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse repeint",
+      "tu": "eusses repeint",
+      "il": "eût repeint",
+      "nous": "eussions repeint",
+      "vous": "eussiez repeint",
+      "ils": "eussent repeint"
+    },
+    "translation": "przedstawiać",
+    "group": 3
+  },
+  {
+    "infinitive": "rependre",
+    "présent": {
+      "je": "repends",
+      "tu": "repends",
+      "il": "repend",
+      "nous": "rependons",
+      "vous": "rependez",
+      "ils": "rependent"
+    },
+    "passé_composé": {
+      "je": "ai rependu",
+      "tu": "as rependu",
+      "il": "a rependu",
+      "nous": "avons rependu",
+      "vous": "avez rependu",
+      "ils": "ont rependu"
+    },
+    "imparfait": {
+      "je": "rependais",
+      "tu": "rependais",
+      "il": "rependait",
+      "nous": "rependions",
+      "vous": "rependiez",
+      "ils": "rependaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais rependu",
+      "tu": "avais rependu",
+      "il": "avait rependu",
+      "nous": "avions rependu",
+      "vous": "aviez rependu",
+      "ils": "avaient rependu"
+    },
+    "passé_simple": {
+      "je": "rependis",
+      "tu": "rependis",
+      "il": "rependit",
+      "nous": "rependîmes",
+      "vous": "rependîtes",
+      "ils": "rependirent"
+    },
+    "passé_antérieur": {
+      "je": "eus rependu",
+      "tu": "eus rependu",
+      "il": "eut rependu",
+      "nous": "eûmes rependu",
+      "vous": "eûtes rependu",
+      "ils": "eurent rependu"
+    },
+    "futur_simple": {
+      "je": "rependrai",
+      "tu": "rependras",
+      "il": "rependra",
+      "nous": "rependrons",
+      "vous": "rependrez",
+      "ils": "rependront"
+    },
+    "futur_antérieur": {
+      "je": "aurai rependu",
+      "tu": "auras rependu",
+      "il": "aura rependu",
+      "nous": "aurons rependu",
+      "vous": "aurez rependu",
+      "ils": "auront rependu"
+    },
+    "subjonctif_présent": {
+      "je": "repende",
+      "tu": "rependes",
+      "il": "repende",
+      "nous": "rependions",
+      "vous": "rependiez",
+      "ils": "rependent"
+    },
+    "subjonctif_passé": {
+      "je": "aie rependu",
+      "tu": "aies rependu",
+      "il": "ait rependu",
+      "nous": "ayons rependu",
+      "vous": "ayez rependu",
+      "ils": "aient rependu"
+    },
+    "subjonctif_imparfait": {
+      "je": "rependisse",
+      "tu": "rependisses",
+      "il": "rependît",
+      "nous": "rependissions",
+      "vous": "rependissiez",
+      "ils": "rependissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse rependu",
+      "tu": "eusses rependu",
+      "il": "eût rependu",
+      "nous": "eussions rependu",
+      "vous": "eussiez rependu",
+      "ils": "eussent rependu"
+    },
+    "conditionnel_présent": {
+      "je": "rependrais",
+      "tu": "rependrais",
+      "il": "rependrait",
+      "nous": "rependrions",
+      "vous": "rependriez",
+      "ils": "rependraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais rependu",
+      "tu": "aurais rependu",
+      "il": "aurait rependu",
+      "nous": "aurions rependu",
+      "vous": "auriez rependu",
+      "ils": "auraient rependu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse rependu",
+      "tu": "eusses rependu",
+      "il": "eût rependu",
+      "nous": "eussions rependu",
+      "vous": "eussiez rependu",
+      "ils": "eussent rependu"
+    },
+    "translation": "przyjmować",
+    "group": 3
+  },
+  {
+    "infinitive": "repentir",
+    "présent": {
+      "je": "me repens",
+      "tu": "te repens",
+      "il": "se repent",
+      "nous": "nous repentons",
+      "vous": "vous repentez",
+      "ils": "se repentent"
+    },
+    "passé_composé": {
+      "je": "me suis repenti",
+      "tu": "es repenti",
+      "il": "est repenti",
+      "nous": "nous sommes repentis",
+      "vous": "vous êtes repentis",
+      "ils": "se sont repentis"
+    },
+    "imparfait": {
+      "je": "me repentais",
+      "tu": "te repentais",
+      "il": "se repentait",
+      "nous": "nous repentions",
+      "vous": "vous repentiez",
+      "ils": "se repentaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais repenti",
+      "tu": "étais repenti",
+      "il": "était repenti",
+      "nous": "nous étions repentis",
+      "vous": "vous étiez repentis",
+      "ils": "étaient repentis"
+    },
+    "passé_simple": {
+      "je": "me repentis",
+      "tu": "te repentis",
+      "il": "se repentit",
+      "nous": "nous repentîmes",
+      "vous": "vous repentîtes",
+      "ils": "se repentirent"
+    },
+    "passé_antérieur": {
+      "je": "me fus repenti",
+      "tu": "te fus repenti",
+      "il": "se fut repenti",
+      "nous": "nous fûmes repentis",
+      "vous": "vous fûtes repentis",
+      "ils": "se furent repentis"
+    },
+    "futur_simple": {
+      "je": "me repentirai",
+      "tu": "te repentiras",
+      "il": "se repentira",
+      "nous": "nous repentirons",
+      "vous": "vous repentirez",
+      "ils": "se repentiront"
+    },
+    "futur_antérieur": {
+      "je": "me serai repenti",
+      "tu": "te seras repenti",
+      "il": "se sera repenti",
+      "nous": "nous serons repentis",
+      "vous": "vous serez repentis",
+      "ils": "se seront repentis"
+    },
+    "subjonctif_présent": {
+      "je": "me repente",
+      "tu": "te repentes",
+      "il": "se repente",
+      "nous": "nous repentions",
+      "vous": "vous repentiez",
+      "ils": "se repentent"
+    },
+    "subjonctif_passé": {
+      "je": "me sois repenti",
+      "tu": "te sois repenti",
+      "il": "se soit repenti",
+      "nous": "nous soyons repentis",
+      "vous": "vous soyez repentis",
+      "ils": "se soient repentis"
+    },
+    "subjonctif_imparfait": {
+      "je": "me repentisse",
+      "tu": "te repentisses",
+      "il": "se repentît",
+      "nous": "nous repentissions",
+      "vous": "vous repentissiez",
+      "ils": "se repentissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse repenti",
+      "tu": "te fusses repenti",
+      "il": "se fût repenti",
+      "nous": "nous fussions repentis",
+      "vous": "vous fussiez repentis",
+      "ils": "se fussent repentis"
+    },
+    "conditionnel_présent": {
+      "je": "me repentirais",
+      "tu": "te repentirais",
+      "il": "se repentirait",
+      "nous": "nous repentirions",
+      "vous": "vous repentiriez",
+      "ils": "se repentiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais repenti",
+      "tu": "te serais repenti",
+      "il": "se serait repenti",
+      "nous": "nous serions repentis",
+      "vous": "vous seriez repentis",
+      "ils": "se seraient repentis"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse repenti",
+      "tu": "te fusses repenti",
+      "il": "se fût repenti",
+      "nous": "nous fussions repentis",
+      "vous": "vous fussiez repentis",
+      "ils": "se fussent repentis"
+    },
+    "translation": "skrucha",
+    "group": 3
+  },
+  {
+    "infinitive": "repérer",
+    "présent": {
+      "je": "repère",
+      "tu": "repères",
+      "il": "repère",
+      "nous": "repérons",
+      "vous": "repérez",
+      "ils": "repèrent"
+    },
+    "passé_composé": {
+      "je": "ai repéré",
+      "tu": "as repéré",
+      "il": "a repéré",
+      "nous": "avons repéré",
+      "vous": "avez repéré",
+      "ils": "ont repéré"
+    },
+    "imparfait": {
+      "je": "repérais",
+      "tu": "repérais",
+      "il": "repérait",
+      "nous": "repérions",
+      "vous": "repériez",
+      "ils": "repéraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais repéré",
+      "tu": "avais repéré",
+      "il": "avait repéré",
+      "nous": "avions repéré",
+      "vous": "aviez repéré",
+      "ils": "avaient repéré"
+    },
+    "passé_simple": {
+      "je": "repérai",
+      "tu": "repéras",
+      "il": "repéra",
+      "nous": "repérâmes",
+      "vous": "repérâtes",
+      "ils": "repérèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus repéré",
+      "tu": "eus repéré",
+      "il": "eut repéré",
+      "nous": "eûmes repéré",
+      "vous": "eûtes repéré",
+      "ils": "eurent repéré"
+    },
+    "futur_simple": {
+      "je": "repérerai",
+      "tu": "repéreras",
+      "il": "repérera",
+      "nous": "repérerons",
+      "vous": "repérerez",
+      "ils": "repéreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai repéré",
+      "tu": "auras repéré",
+      "il": "aura repéré",
+      "nous": "aurons repéré",
+      "vous": "aurez repéré",
+      "ils": "auront repéré"
+    },
+    "subjonctif_présent": {
+      "je": "repère",
+      "tu": "repères",
+      "il": "repère",
+      "nous": "repérions",
+      "vous": "repériez",
+      "ils": "repèrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie repéré",
+      "tu": "aies repéré",
+      "il": "ait repéré",
+      "nous": "ayons repéré",
+      "vous": "ayez repéré",
+      "ils": "aient repéré"
+    },
+    "subjonctif_imparfait": {
+      "je": "repérasse",
+      "tu": "repérasses",
+      "il": "repérât",
+      "nous": "repérassions",
+      "vous": "repérassiez",
+      "ils": "repérassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse repéré",
+      "tu": "eusses repéré",
+      "il": "eût repéré",
+      "nous": "eussions repéré",
+      "vous": "eussiez repéré",
+      "ils": "eussent repéré"
+    },
+    "conditionnel_présent": {
+      "je": "repérerais",
+      "tu": "repérerais",
+      "il": "repérerait",
+      "nous": "repérerions",
+      "vous": "repéreriez",
+      "ils": "repéreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais repéré",
+      "tu": "aurais repéré",
+      "il": "aurait repéré",
+      "nous": "aurions repéré",
+      "vous": "auriez repéré",
+      "ils": "auraient repéré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse repéré",
+      "tu": "eusses repéré",
+      "il": "eût repéré",
+      "nous": "eussions repéré",
+      "vous": "eussiez repéré",
+      "ils": "eussent repéré"
+    },
+    "translation": "dostrzegać",
+    "group": 1
+  },
+  {
+    "infinitive": "répertorier",
+    "présent": {
+      "je": "répertorie",
+      "tu": "répertories",
+      "il": "répertorie",
+      "nous": "répertorions",
+      "vous": "répertoriez",
+      "ils": "répertorient"
+    },
+    "passé_composé": {
+      "je": "ai répertorié",
+      "tu": "as répertorié",
+      "il": "a répertorié",
+      "nous": "avons répertorié",
+      "vous": "avez répertorié",
+      "ils": "ont répertorié"
+    },
+    "imparfait": {
+      "je": "répertoriais",
+      "tu": "répertoriais",
+      "il": "répertoriait",
+      "nous": "répertoriions",
+      "vous": "répertoriiez",
+      "ils": "répertoriaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais répertorié",
+      "tu": "avais répertorié",
+      "il": "avait répertorié",
+      "nous": "avions répertorié",
+      "vous": "aviez répertorié",
+      "ils": "avaient répertorié"
+    },
+    "passé_simple": {
+      "je": "répertoriai",
+      "tu": "répertorias",
+      "il": "répertoria",
+      "nous": "répertoriâmes",
+      "vous": "répertoriâtes",
+      "ils": "répertorièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus répertorié",
+      "tu": "eus répertorié",
+      "il": "eut répertorié",
+      "nous": "eûmes répertorié",
+      "vous": "eûtes répertorié",
+      "ils": "eurent répertorié"
+    },
+    "futur_simple": {
+      "je": "répertorierai",
+      "tu": "répertorieras",
+      "il": "répertoriera",
+      "nous": "répertorierons",
+      "vous": "répertorierez",
+      "ils": "répertorieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai répertorié",
+      "tu": "auras répertorié",
+      "il": "aura répertorié",
+      "nous": "aurons répertorié",
+      "vous": "aurez répertorié",
+      "ils": "auront répertorié"
+    },
+    "subjonctif_présent": {
+      "je": "répertorie",
+      "tu": "répertories",
+      "il": "répertorie",
+      "nous": "répertoriions",
+      "vous": "répertoriiez",
+      "ils": "répertorient"
+    },
+    "subjonctif_passé": {
+      "je": "aie répertorié",
+      "tu": "aies répertorié",
+      "il": "ait répertorié",
+      "nous": "ayons répertorié",
+      "vous": "ayez répertorié",
+      "ils": "aient répertorié"
+    },
+    "subjonctif_imparfait": {
+      "je": "répertoriasse",
+      "tu": "répertoriasses",
+      "il": "répertoriât",
+      "nous": "répertoriassions",
+      "vous": "répertoriassiez",
+      "ils": "répertoriassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse répertorié",
+      "tu": "eusses répertorié",
+      "il": "eût répertorié",
+      "nous": "eussions répertorié",
+      "vous": "eussiez répertorié",
+      "ils": "eussent répertorié"
+    },
+    "conditionnel_présent": {
+      "je": "répertorierais",
+      "tu": "répertorierais",
+      "il": "répertorierait",
+      "nous": "répertorierions",
+      "vous": "répertorieriez",
+      "ils": "répertorieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais répertorié",
+      "tu": "aurais répertorié",
+      "il": "aurait répertorié",
+      "nous": "aurions répertorié",
+      "vous": "auriez répertorié",
+      "ils": "auraient répertorié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse répertorié",
+      "tu": "eusses répertorié",
+      "il": "eût répertorié",
+      "nous": "eussions répertorié",
+      "vous": "eussiez répertorié",
+      "ils": "eussent répertorié"
+    },
+    "translation": "umieszczać",
+    "group": 1
+  },
+  {
+    "infinitive": "répéter",
+    "présent": {
+      "je": "répète",
+      "tu": "répètes",
+      "il": "répète",
+      "nous": "répétons",
+      "vous": "répétez",
+      "ils": "répètent"
+    },
+    "passé_composé": {
+      "je": "ai répété",
+      "tu": "as répété",
+      "il": "a répété",
+      "nous": "avons répété",
+      "vous": "avez répété",
+      "ils": "ont répété"
+    },
+    "imparfait": {
+      "je": "répétais",
+      "tu": "répétais",
+      "il": "répétait",
+      "nous": "répétions",
+      "vous": "répétiez",
+      "ils": "répétaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais répété",
+      "tu": "avais répété",
+      "il": "avait répété",
+      "nous": "avions répété",
+      "vous": "aviez répété",
+      "ils": "avaient répété"
+    },
+    "passé_simple": {
+      "je": "répétai",
+      "tu": "répétas",
+      "il": "répéta",
+      "nous": "répétâmes",
+      "vous": "répétâtes",
+      "ils": "répétèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus répété",
+      "tu": "eus répété",
+      "il": "eut répété",
+      "nous": "eûmes répété",
+      "vous": "eûtes répété",
+      "ils": "eurent répété"
+    },
+    "futur_simple": {
+      "je": "répéterai",
+      "tu": "répéteras",
+      "il": "répétera",
+      "nous": "répéterons",
+      "vous": "répéterez",
+      "ils": "répéteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai répété",
+      "tu": "auras répété",
+      "il": "aura répété",
+      "nous": "aurons répété",
+      "vous": "aurez répété",
+      "ils": "auront répété"
+    },
+    "subjonctif_présent": {
+      "je": "répète",
+      "tu": "répètes",
+      "il": "répète",
+      "nous": "répétions",
+      "vous": "répétiez",
+      "ils": "répètent"
+    },
+    "subjonctif_passé": {
+      "je": "aie répété",
+      "tu": "aies répété",
+      "il": "ait répété",
+      "nous": "ayons répété",
+      "vous": "ayez répété",
+      "ils": "aient répété"
+    },
+    "subjonctif_imparfait": {
+      "je": "répétasse",
+      "tu": "répétasses",
+      "il": "répétât",
+      "nous": "répétassions",
+      "vous": "répétassiez",
+      "ils": "répétassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse répété",
+      "tu": "eusses répété",
+      "il": "eût répété",
+      "nous": "eussions répété",
+      "vous": "eussiez répété",
+      "ils": "eussent répété"
+    },
+    "conditionnel_présent": {
+      "je": "répéterais",
+      "tu": "répéterais",
+      "il": "répéterait",
+      "nous": "répéterions",
+      "vous": "répéteriez",
+      "ils": "répéteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais répété",
+      "tu": "aurais répété",
+      "il": "aurait répété",
+      "nous": "aurions répété",
+      "vous": "auriez répété",
+      "ils": "auraient répété"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse répété",
+      "tu": "eusses répété",
+      "il": "eût répété",
+      "nous": "eussions répété",
+      "vous": "eussiez répété",
+      "ils": "eussent répété"
+    },
+    "translation": "powtarzać",
+    "group": 1
+  },
+  {
+    "infinitive": "repleuvoir",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "repleut",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "a replu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "repleuvait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "avait replu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "replut",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "eut replu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "repleuvra",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "aura replu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "repleuve",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "ait replu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "replût",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "eût replu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "repleuvrait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "aurait replu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "eût replu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "pada",
+    "group": 3
+  },
+  {
+    "infinitive": "replier",
+    "présent": {
+      "je": "replie",
+      "tu": "replies",
+      "il": "replie",
+      "nous": "replions",
+      "vous": "repliez",
+      "ils": "replient"
+    },
+    "passé_composé": {
+      "je": "ai replié",
+      "tu": "as replié",
+      "il": "a replié",
+      "nous": "avons replié",
+      "vous": "avez replié",
+      "ils": "ont replié"
+    },
+    "imparfait": {
+      "je": "repliais",
+      "tu": "repliais",
+      "il": "repliait",
+      "nous": "repliions",
+      "vous": "repliiez",
+      "ils": "repliaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais replié",
+      "tu": "avais replié",
+      "il": "avait replié",
+      "nous": "avions replié",
+      "vous": "aviez replié",
+      "ils": "avaient replié"
+    },
+    "passé_simple": {
+      "je": "repliai",
+      "tu": "replias",
+      "il": "replia",
+      "nous": "repliâmes",
+      "vous": "repliâtes",
+      "ils": "replièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus replié",
+      "tu": "eus replié",
+      "il": "eut replié",
+      "nous": "eûmes replié",
+      "vous": "eûtes replié",
+      "ils": "eurent replié"
+    },
+    "futur_simple": {
+      "je": "replierai",
+      "tu": "replieras",
+      "il": "repliera",
+      "nous": "replierons",
+      "vous": "replierez",
+      "ils": "replieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai replié",
+      "tu": "auras replié",
+      "il": "aura replié",
+      "nous": "aurons replié",
+      "vous": "aurez replié",
+      "ils": "auront replié"
+    },
+    "subjonctif_présent": {
+      "je": "replie",
+      "tu": "replies",
+      "il": "replie",
+      "nous": "repliions",
+      "vous": "repliiez",
+      "ils": "replient"
+    },
+    "subjonctif_passé": {
+      "je": "aie replié",
+      "tu": "aies replié",
+      "il": "ait replié",
+      "nous": "ayons replié",
+      "vous": "ayez replié",
+      "ils": "aient replié"
+    },
+    "subjonctif_imparfait": {
+      "je": "repliasse",
+      "tu": "repliasses",
+      "il": "repliât",
+      "nous": "repliassions",
+      "vous": "repliassiez",
+      "ils": "repliassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse replié",
+      "tu": "eusses replié",
+      "il": "eût replié",
+      "nous": "eussions replié",
+      "vous": "eussiez replié",
+      "ils": "eussent replié"
+    },
+    "conditionnel_présent": {
+      "je": "replierais",
+      "tu": "replierais",
+      "il": "replierait",
+      "nous": "replierions",
+      "vous": "replieriez",
+      "ils": "replieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais replié",
+      "tu": "aurais replié",
+      "il": "aurait replié",
+      "nous": "aurions replié",
+      "vous": "auriez replié",
+      "ils": "auraient replié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse replié",
+      "tu": "eusses replié",
+      "il": "eût replié",
+      "nous": "eussions replié",
+      "vous": "eussiez replié",
+      "ils": "eussent replié"
+    },
+    "translation": "składać",
+    "group": 1
+  }
+]

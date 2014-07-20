@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "régler",
+    "présent": {
+      "je": "règle",
+      "tu": "règles",
+      "il": "règle",
+      "nous": "réglons",
+      "vous": "réglez",
+      "ils": "règlent"
+    },
+    "passé_composé": {
+      "je": "ai réglé",
+      "tu": "as réglé",
+      "il": "a réglé",
+      "nous": "avons réglé",
+      "vous": "avez réglé",
+      "ils": "ont réglé"
+    },
+    "imparfait": {
+      "je": "réglais",
+      "tu": "réglais",
+      "il": "réglait",
+      "nous": "réglions",
+      "vous": "régliez",
+      "ils": "réglaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais réglé",
+      "tu": "avais réglé",
+      "il": "avait réglé",
+      "nous": "avions réglé",
+      "vous": "aviez réglé",
+      "ils": "avaient réglé"
+    },
+    "passé_simple": {
+      "je": "réglai",
+      "tu": "réglas",
+      "il": "régla",
+      "nous": "réglâmes",
+      "vous": "réglâtes",
+      "ils": "réglèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus réglé",
+      "tu": "eus réglé",
+      "il": "eut réglé",
+      "nous": "eûmes réglé",
+      "vous": "eûtes réglé",
+      "ils": "eurent réglé"
+    },
+    "futur_simple": {
+      "je": "réglerai",
+      "tu": "régleras",
+      "il": "réglera",
+      "nous": "réglerons",
+      "vous": "réglerez",
+      "ils": "régleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai réglé",
+      "tu": "auras réglé",
+      "il": "aura réglé",
+      "nous": "aurons réglé",
+      "vous": "aurez réglé",
+      "ils": "auront réglé"
+    },
+    "subjonctif_présent": {
+      "je": "règle",
+      "tu": "règles",
+      "il": "règle",
+      "nous": "réglions",
+      "vous": "régliez",
+      "ils": "règlent"
+    },
+    "subjonctif_passé": {
+      "je": "aie réglé",
+      "tu": "aies réglé",
+      "il": "ait réglé",
+      "nous": "ayons réglé",
+      "vous": "ayez réglé",
+      "ils": "aient réglé"
+    },
+    "subjonctif_imparfait": {
+      "je": "réglasse",
+      "tu": "réglasses",
+      "il": "réglât",
+      "nous": "réglassions",
+      "vous": "réglassiez",
+      "ils": "réglassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse réglé",
+      "tu": "eusses réglé",
+      "il": "eût réglé",
+      "nous": "eussions réglé",
+      "vous": "eussiez réglé",
+      "ils": "eussent réglé"
+    },
+    "conditionnel_présent": {
+      "je": "réglerais",
+      "tu": "réglerais",
+      "il": "réglerait",
+      "nous": "réglerions",
+      "vous": "régleriez",
+      "ils": "régleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais réglé",
+      "tu": "aurais réglé",
+      "il": "aurait réglé",
+      "nous": "aurions réglé",
+      "vous": "auriez réglé",
+      "ils": "auraient réglé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse réglé",
+      "tu": "eusses réglé",
+      "il": "eût réglé",
+      "nous": "eussions réglé",
+      "vous": "eussiez réglé",
+      "ils": "eussent réglé"
+    },
+    "translation": "załatwiać",
+    "group": 1
+  },
+  {
+    "infinitive": "régner",
+    "présent": {
+      "je": "règne",
+      "tu": "règnes",
+      "il": "règne",
+      "nous": "régnons",
+      "vous": "régnez",
+      "ils": "règnent"
+    },
+    "passé_composé": {
+      "je": "ai régné",
+      "tu": "as régné",
+      "il": "a régné",
+      "nous": "avons régné",
+      "vous": "avez régné",
+      "ils": "ont régné"
+    },
+    "imparfait": {
+      "je": "régnais",
+      "tu": "régnais",
+      "il": "régnait",
+      "nous": "régnions",
+      "vous": "régniez",
+      "ils": "régnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais régné",
+      "tu": "avais régné",
+      "il": "avait régné",
+      "nous": "avions régné",
+      "vous": "aviez régné",
+      "ils": "avaient régné"
+    },
+    "passé_simple": {
+      "je": "régnai",
+      "tu": "régnas",
+      "il": "régna",
+      "nous": "régnâmes",
+      "vous": "régnâtes",
+      "ils": "régnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus régné",
+      "tu": "eus régné",
+      "il": "eut régné",
+      "nous": "eûmes régné",
+      "vous": "eûtes régné",
+      "ils": "eurent régné"
+    },
+    "futur_simple": {
+      "je": "régnerai",
+      "tu": "régneras",
+      "il": "régnera",
+      "nous": "régnerons",
+      "vous": "régnerez",
+      "ils": "régneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai régné",
+      "tu": "auras régné",
+      "il": "aura régné",
+      "nous": "aurons régné",
+      "vous": "aurez régné",
+      "ils": "auront régné"
+    },
+    "subjonctif_présent": {
+      "je": "règne",
+      "tu": "règnes",
+      "il": "règne",
+      "nous": "régnions",
+      "vous": "régniez",
+      "ils": "règnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie régné",
+      "tu": "aies régné",
+      "il": "ait régné",
+      "nous": "ayons régné",
+      "vous": "ayez régné",
+      "ils": "aient régné"
+    },
+    "subjonctif_imparfait": {
+      "je": "régnasse",
+      "tu": "régnasses",
+      "il": "régnât",
+      "nous": "régnassions",
+      "vous": "régnassiez",
+      "ils": "régnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse régné",
+      "tu": "eusses régné",
+      "il": "eût régné",
+      "nous": "eussions régné",
+      "vous": "eussiez régné",
+      "ils": "eussent régné"
+    },
+    "conditionnel_présent": {
+      "je": "régnerais",
+      "tu": "régnerais",
+      "il": "régnerait",
+      "nous": "régnerions",
+      "vous": "régneriez",
+      "ils": "régneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais régné",
+      "tu": "aurais régné",
+      "il": "aurait régné",
+      "nous": "aurions régné",
+      "vous": "auriez régné",
+      "ils": "auraient régné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse régné",
+      "tu": "eusses régné",
+      "il": "eût régné",
+      "nous": "eussions régné",
+      "vous": "eussiez régné",
+      "ils": "eussent régné"
+    },
+    "translation": "panować",
+    "group": 1
+  },
+  {
+    "infinitive": "regretter",
+    "présent": {
+      "je": "regrette",
+      "tu": "regrettes",
+      "il": "regrette",
+      "nous": "regrettons",
+      "vous": "regrettez",
+      "ils": "regrettent"
+    },
+    "passé_composé": {
+      "je": "ai regretté",
+      "tu": "as regretté",
+      "il": "a regretté",
+      "nous": "avons regretté",
+      "vous": "avez regretté",
+      "ils": "ont regretté"
+    },
+    "imparfait": {
+      "je": "regrettais",
+      "tu": "regrettais",
+      "il": "regrettait",
+      "nous": "regrettions",
+      "vous": "regrettiez",
+      "ils": "regrettaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais regretté",
+      "tu": "avais regretté",
+      "il": "avait regretté",
+      "nous": "avions regretté",
+      "vous": "aviez regretté",
+      "ils": "avaient regretté"
+    },
+    "passé_simple": {
+      "je": "regrettai",
+      "tu": "regrettas",
+      "il": "regretta",
+      "nous": "regrettâmes",
+      "vous": "regrettâtes",
+      "ils": "regrettèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus regretté",
+      "tu": "eus regretté",
+      "il": "eut regretté",
+      "nous": "eûmes regretté",
+      "vous": "eûtes regretté",
+      "ils": "eurent regretté"
+    },
+    "futur_simple": {
+      "je": "regretterai",
+      "tu": "regretteras",
+      "il": "regrettera",
+      "nous": "regretterons",
+      "vous": "regretterez",
+      "ils": "regretteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai regretté",
+      "tu": "auras regretté",
+      "il": "aura regretté",
+      "nous": "aurons regretté",
+      "vous": "aurez regretté",
+      "ils": "auront regretté"
+    },
+    "subjonctif_présent": {
+      "je": "regrette",
+      "tu": "regrettes",
+      "il": "regrette",
+      "nous": "regrettions",
+      "vous": "regrettiez",
+      "ils": "regrettent"
+    },
+    "subjonctif_passé": {
+      "je": "aie regretté",
+      "tu": "aies regretté",
+      "il": "ait regretté",
+      "nous": "ayons regretté",
+      "vous": "ayez regretté",
+      "ils": "aient regretté"
+    },
+    "subjonctif_imparfait": {
+      "je": "regrettasse",
+      "tu": "regrettasses",
+      "il": "regrettât",
+      "nous": "regrettassions",
+      "vous": "regrettassiez",
+      "ils": "regrettassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse regretté",
+      "tu": "eusses regretté",
+      "il": "eût regretté",
+      "nous": "eussions regretté",
+      "vous": "eussiez regretté",
+      "ils": "eussent regretté"
+    },
+    "conditionnel_présent": {
+      "je": "regretterais",
+      "tu": "regretterais",
+      "il": "regretterait",
+      "nous": "regretterions",
+      "vous": "regretteriez",
+      "ils": "regretteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais regretté",
+      "tu": "aurais regretté",
+      "il": "aurait regretté",
+      "nous": "aurions regretté",
+      "vous": "auriez regretté",
+      "ils": "auraient regretté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse regretté",
+      "tu": "eusses regretté",
+      "il": "eût regretté",
+      "nous": "eussions regretté",
+      "vous": "eussiez regretté",
+      "ils": "eussent regretté"
+    },
+    "translation": "żałować",
+    "group": 1
+  },
+  {
+    "infinitive": "regrouper",
+    "présent": {
+      "je": "regroupe",
+      "tu": "regroupes",
+      "il": "regroupe",
+      "nous": "regroupons",
+      "vous": "regroupez",
+      "ils": "regroupent"
+    },
+    "passé_composé": {
+      "je": "ai regroupé",
+      "tu": "as regroupé",
+      "il": "a regroupé",
+      "nous": "avons regroupé",
+      "vous": "avez regroupé",
+      "ils": "ont regroupé"
+    },
+    "imparfait": {
+      "je": "regroupais",
+      "tu": "regroupais",
+      "il": "regroupait",
+      "nous": "regroupions",
+      "vous": "regroupiez",
+      "ils": "regroupaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais regroupé",
+      "tu": "avais regroupé",
+      "il": "avait regroupé",
+      "nous": "avions regroupé",
+      "vous": "aviez regroupé",
+      "ils": "avaient regroupé"
+    },
+    "passé_simple": {
+      "je": "regroupai",
+      "tu": "regroupas",
+      "il": "regroupa",
+      "nous": "regroupâmes",
+      "vous": "regroupâtes",
+      "ils": "regroupèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus regroupé",
+      "tu": "eus regroupé",
+      "il": "eut regroupé",
+      "nous": "eûmes regroupé",
+      "vous": "eûtes regroupé",
+      "ils": "eurent regroupé"
+    },
+    "futur_simple": {
+      "je": "regrouperai",
+      "tu": "regrouperas",
+      "il": "regroupera",
+      "nous": "regrouperons",
+      "vous": "regrouperez",
+      "ils": "regrouperont"
+    },
+    "futur_antérieur": {
+      "je": "aurai regroupé",
+      "tu": "auras regroupé",
+      "il": "aura regroupé",
+      "nous": "aurons regroupé",
+      "vous": "aurez regroupé",
+      "ils": "auront regroupé"
+    },
+    "subjonctif_présent": {
+      "je": "regroupe",
+      "tu": "regroupes",
+      "il": "regroupe",
+      "nous": "regroupions",
+      "vous": "regroupiez",
+      "ils": "regroupent"
+    },
+    "subjonctif_passé": {
+      "je": "aie regroupé",
+      "tu": "aies regroupé",
+      "il": "ait regroupé",
+      "nous": "ayons regroupé",
+      "vous": "ayez regroupé",
+      "ils": "aient regroupé"
+    },
+    "subjonctif_imparfait": {
+      "je": "regroupasse",
+      "tu": "regroupasses",
+      "il": "regroupât",
+      "nous": "regroupassions",
+      "vous": "regroupassiez",
+      "ils": "regroupassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse regroupé",
+      "tu": "eusses regroupé",
+      "il": "eût regroupé",
+      "nous": "eussions regroupé",
+      "vous": "eussiez regroupé",
+      "ils": "eussent regroupé"
+    },
+    "conditionnel_présent": {
+      "je": "regrouperais",
+      "tu": "regrouperais",
+      "il": "regrouperait",
+      "nous": "regrouperions",
+      "vous": "regrouperiez",
+      "ils": "regrouperaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais regroupé",
+      "tu": "aurais regroupé",
+      "il": "aurait regroupé",
+      "nous": "aurions regroupé",
+      "vous": "auriez regroupé",
+      "ils": "auraient regroupé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse regroupé",
+      "tu": "eusses regroupé",
+      "il": "eût regroupé",
+      "nous": "eussions regroupé",
+      "vous": "eussiez regroupé",
+      "ils": "eussent regroupé"
+    },
+    "translation": "grupować",
+    "group": 1
+  },
+  {
+    "infinitive": "réinscrire",
+    "présent": {
+      "je": "réinscris",
+      "tu": "réinscris",
+      "il": "réinscrit",
+      "nous": "réinscrivons",
+      "vous": "réinscrivez",
+      "ils": "réinscrivent"
+    },
+    "passé_composé": {
+      "je": "ai réinscrit",
+      "tu": "as réinscrit",
+      "il": "a réinscrit",
+      "nous": "avons réinscrit",
+      "vous": "avez réinscrit",
+      "ils": "ont réinscrit"
+    },
+    "imparfait": {
+      "je": "réinscrivais",
+      "tu": "réinscrivais",
+      "il": "réinscrivait",
+      "nous": "réinscrivions",
+      "vous": "réinscriviez",
+      "ils": "réinscrivaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais réinscrit",
+      "tu": "avais réinscrit",
+      "il": "avait réinscrit",
+      "nous": "avions réinscrit",
+      "vous": "aviez réinscrit",
+      "ils": "avaient réinscrit"
+    },
+    "passé_simple": {
+      "je": "réinscrivis",
+      "tu": "réinscrivis",
+      "il": "réinscrivit",
+      "nous": "réinscrivîmes",
+      "vous": "réinscrivîtes",
+      "ils": "réinscrivirent"
+    },
+    "passé_antérieur": {
+      "je": "eus réinscrit",
+      "tu": "eus réinscrit",
+      "il": "eut réinscrit",
+      "nous": "eûmes réinscrit",
+      "vous": "eûtes réinscrit",
+      "ils": "eurent réinscrit"
+    },
+    "futur_simple": {
+      "je": "réinscrirai",
+      "tu": "réinscriras",
+      "il": "réinscrira",
+      "nous": "réinscrirons",
+      "vous": "réinscrirez",
+      "ils": "réinscriront"
+    },
+    "futur_antérieur": {
+      "je": "aurai réinscrit",
+      "tu": "auras réinscrit",
+      "il": "aura réinscrit",
+      "nous": "aurons réinscrit",
+      "vous": "aurez réinscrit",
+      "ils": "auront réinscrit"
+    },
+    "subjonctif_présent": {
+      "je": "réinscrive",
+      "tu": "réinscrives",
+      "il": "réinscrive",
+      "nous": "réinscrivions",
+      "vous": "réinscriviez",
+      "ils": "réinscrivent"
+    },
+    "subjonctif_passé": {
+      "je": "aie réinscrit",
+      "tu": "aies réinscrit",
+      "il": "ait réinscrit",
+      "nous": "ayons réinscrit",
+      "vous": "ayez réinscrit",
+      "ils": "aient réinscrit"
+    },
+    "subjonctif_imparfait": {
+      "je": "réinscrivisse",
+      "tu": "réinscrivisses",
+      "il": "réinscrivît",
+      "nous": "réinscrivissions",
+      "vous": "réinscrivissiez",
+      "ils": "réinscrivissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse réinscrit",
+      "tu": "eusses réinscrit",
+      "il": "eût réinscrit",
+      "nous": "eussions réinscrit",
+      "vous": "eussiez réinscrit",
+      "ils": "eussent réinscrit"
+    },
+    "conditionnel_présent": {
+      "je": "réinscrirais",
+      "tu": "réinscrirais",
+      "il": "réinscrirait",
+      "nous": "réinscririons",
+      "vous": "réinscririez",
+      "ils": "réinscriraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais réinscrit",
+      "tu": "aurais réinscrit",
+      "il": "aurait réinscrit",
+      "nous": "aurions réinscrit",
+      "vous": "auriez réinscrit",
+      "ils": "auraient réinscrit"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse réinscrit",
+      "tu": "eusses réinscrit",
+      "il": "eût réinscrit",
+      "nous": "eussions réinscrit",
+      "vous": "eussiez réinscrit",
+      "ils": "eussent réinscrit"
+    },
+    "translation": "wpisać",
+    "group": 3
+  },
+  {
+    "infinitive": "réitérer",
+    "présent": {
+      "je": "réitère",
+      "tu": "réitères",
+      "il": "réitère",
+      "nous": "réitérons",
+      "vous": "réitérez",
+      "ils": "réitèrent"
+    },
+    "passé_composé": {
+      "je": "ai réitéré",
+      "tu": "as réitéré",
+      "il": "a réitéré",
+      "nous": "avons réitéré",
+      "vous": "avez réitéré",
+      "ils": "ont réitéré"
+    },
+    "imparfait": {
+      "je": "réitérais",
+      "tu": "réitérais",
+      "il": "réitérait",
+      "nous": "réitérions",
+      "vous": "réitériez",
+      "ils": "réitéraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais réitéré",
+      "tu": "avais réitéré",
+      "il": "avait réitéré",
+      "nous": "avions réitéré",
+      "vous": "aviez réitéré",
+      "ils": "avaient réitéré"
+    },
+    "passé_simple": {
+      "je": "réitérai",
+      "tu": "réitéras",
+      "il": "réitéra",
+      "nous": "réitérâmes",
+      "vous": "réitérâtes",
+      "ils": "réitérèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus réitéré",
+      "tu": "eus réitéré",
+      "il": "eut réitéré",
+      "nous": "eûmes réitéré",
+      "vous": "eûtes réitéré",
+      "ils": "eurent réitéré"
+    },
+    "futur_simple": {
+      "je": "réitérerai",
+      "tu": "réitéreras",
+      "il": "réitérera",
+      "nous": "réitérerons",
+      "vous": "réitérerez",
+      "ils": "réitéreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai réitéré",
+      "tu": "auras réitéré",
+      "il": "aura réitéré",
+      "nous": "aurons réitéré",
+      "vous": "aurez réitéré",
+      "ils": "auront réitéré"
+    },
+    "subjonctif_présent": {
+      "je": "réitère",
+      "tu": "réitères",
+      "il": "réitère",
+      "nous": "réitérions",
+      "vous": "réitériez",
+      "ils": "réitèrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie réitéré",
+      "tu": "aies réitéré",
+      "il": "ait réitéré",
+      "nous": "ayons réitéré",
+      "vous": "ayez réitéré",
+      "ils": "aient réitéré"
+    },
+    "subjonctif_imparfait": {
+      "je": "réitérasse",
+      "tu": "réitérasses",
+      "il": "réitérât",
+      "nous": "réitérassions",
+      "vous": "réitérassiez",
+      "ils": "réitérassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse réitéré",
+      "tu": "eusses réitéré",
+      "il": "eût réitéré",
+      "nous": "eussions réitéré",
+      "vous": "eussiez réitéré",
+      "ils": "eussent réitéré"
+    },
+    "conditionnel_présent": {
+      "je": "réitérerais",
+      "tu": "réitérerais",
+      "il": "réitérerait",
+      "nous": "réitérerions",
+      "vous": "réitéreriez",
+      "ils": "réitéreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais réitéré",
+      "tu": "aurais réitéré",
+      "il": "aurait réitéré",
+      "nous": "aurions réitéré",
+      "vous": "auriez réitéré",
+      "ils": "auraient réitéré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse réitéré",
+      "tu": "eusses réitéré",
+      "il": "eût réitéré",
+      "nous": "eussions réitéré",
+      "vous": "eussiez réitéré",
+      "ils": "eussent réitéré"
+    },
+    "translation": "ponawiać",
+    "group": 1
+  },
+  {
+    "infinitive": "rejeter",
+    "présent": {
+      "je": "rejette",
+      "tu": "rejettes",
+      "il": "rejette",
+      "nous": "rejetons",
+      "vous": "rejetez",
+      "ils": "rejettent"
+    },
+    "passé_composé": {
+      "je": "ai rejeté",
+      "tu": "as rejeté",
+      "il": "a rejeté",
+      "nous": "avons rejeté",
+      "vous": "avez rejeté",
+      "ils": "ont rejeté"
+    },
+    "imparfait": {
+      "je": "rejetais",
+      "tu": "rejetais",
+      "il": "rejetait",
+      "nous": "rejetions",
+      "vous": "rejetiez",
+      "ils": "rejetaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais rejeté",
+      "tu": "avais rejeté",
+      "il": "avait rejeté",
+      "nous": "avions rejeté",
+      "vous": "aviez rejeté",
+      "ils": "avaient rejeté"
+    },
+    "passé_simple": {
+      "je": "rejetai",
+      "tu": "rejetas",
+      "il": "rejeta",
+      "nous": "rejetâmes",
+      "vous": "rejetâtes",
+      "ils": "rejetèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus rejeté",
+      "tu": "eus rejeté",
+      "il": "eut rejeté",
+      "nous": "eûmes rejeté",
+      "vous": "eûtes rejeté",
+      "ils": "eurent rejeté"
+    },
+    "futur_simple": {
+      "je": "rejetterai",
+      "tu": "rejetteras",
+      "il": "rejettera",
+      "nous": "rejetterons",
+      "vous": "rejetterez",
+      "ils": "rejetteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai rejeté",
+      "tu": "auras rejeté",
+      "il": "aura rejeté",
+      "nous": "aurons rejeté",
+      "vous": "aurez rejeté",
+      "ils": "auront rejeté"
+    },
+    "subjonctif_présent": {
+      "je": "rejette",
+      "tu": "rejettes",
+      "il": "rejette",
+      "nous": "rejetions",
+      "vous": "rejetiez",
+      "ils": "rejettent"
+    },
+    "subjonctif_passé": {
+      "je": "aie rejeté",
+      "tu": "aies rejeté",
+      "il": "ait rejeté",
+      "nous": "ayons rejeté",
+      "vous": "ayez rejeté",
+      "ils": "aient rejeté"
+    },
+    "subjonctif_imparfait": {
+      "je": "rejetasse",
+      "tu": "rejetasses",
+      "il": "rejetât",
+      "nous": "rejetassions",
+      "vous": "rejetassiez",
+      "ils": "rejetassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse rejeté",
+      "tu": "eusses rejeté",
+      "il": "eût rejeté",
+      "nous": "eussions rejeté",
+      "vous": "eussiez rejeté",
+      "ils": "eussent rejeté"
+    },
+    "conditionnel_présent": {
+      "je": "rejetterais",
+      "tu": "rejetterais",
+      "il": "rejetterait",
+      "nous": "rejetterions",
+      "vous": "rejetteriez",
+      "ils": "rejetteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais rejeté",
+      "tu": "aurais rejeté",
+      "il": "aurait rejeté",
+      "nous": "aurions rejeté",
+      "vous": "auriez rejeté",
+      "ils": "auraient rejeté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse rejeté",
+      "tu": "eusses rejeté",
+      "il": "eût rejeté",
+      "nous": "eussions rejeté",
+      "vous": "eussiez rejeté",
+      "ils": "eussent rejeté"
+    },
+    "translation": "odrzucać",
+    "group": 1
+  },
+  {
+    "infinitive": "rejoindre",
+    "présent": {
+      "je": "rejoins",
+      "tu": "rejoins",
+      "il": "rejoint",
+      "nous": "rejoignons",
+      "vous": "rejoignez",
+      "ils": "rejoignent"
+    },
+    "passé_composé": {
+      "je": "ai rejoint",
+      "tu": "as rejoint",
+      "il": "a rejoint",
+      "nous": "avons rejoint",
+      "vous": "avez rejoint",
+      "ils": "ont rejoint"
+    },
+    "imparfait": {
+      "je": "rejoignais",
+      "tu": "rejoignais",
+      "il": "rejoignait",
+      "nous": "rejoignions",
+      "vous": "rejoigniez",
+      "ils": "rejoignaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais rejoint",
+      "tu": "avais rejoint",
+      "il": "avait rejoint",
+      "nous": "avions rejoint",
+      "vous": "aviez rejoint",
+      "ils": "avaient rejoint"
+    },
+    "passé_simple": {
+      "je": "rejoignis",
+      "tu": "rejoignis",
+      "il": "rejoignit",
+      "nous": "rejoignîmes",
+      "vous": "rejoignîtes",
+      "ils": "rejoignirent"
+    },
+    "passé_antérieur": {
+      "je": "eus rejoint",
+      "tu": "eus rejoint",
+      "il": "eut rejoint",
+      "nous": "eûmes rejoint",
+      "vous": "eûtes rejoint",
+      "ils": "eurent rejoint"
+    },
+    "futur_simple": {
+      "je": "rejoindrai",
+      "tu": "rejoindras",
+      "il": "rejoindra",
+      "nous": "rejoindrons",
+      "vous": "rejoindrez",
+      "ils": "rejoindront"
+    },
+    "futur_antérieur": {
+      "je": "aurai rejoint",
+      "tu": "auras rejoint",
+      "il": "aura rejoint",
+      "nous": "aurons rejoint",
+      "vous": "aurez rejoint",
+      "ils": "auront rejoint"
+    },
+    "subjonctif_présent": {
+      "je": "rejoigne",
+      "tu": "rejoignes",
+      "il": "rejoigne",
+      "nous": "rejoignions",
+      "vous": "rejoigniez",
+      "ils": "rejoignent"
+    },
+    "subjonctif_passé": {
+      "je": "aie rejoint",
+      "tu": "aies rejoint",
+      "il": "ait rejoint",
+      "nous": "ayons rejoint",
+      "vous": "ayez rejoint",
+      "ils": "aient rejoint"
+    },
+    "subjonctif_imparfait": {
+      "je": "rejoignisse",
+      "tu": "rejoignisses",
+      "il": "rejoignît",
+      "nous": "rejoignissions",
+      "vous": "rejoignissiez",
+      "ils": "rejoignissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse rejoint",
+      "tu": "eusses rejoint",
+      "il": "eût rejoint",
+      "nous": "eussions rejoint",
+      "vous": "eussiez rejoint",
+      "ils": "eussent rejoint"
+    },
+    "conditionnel_présent": {
+      "je": "rejoindrais",
+      "tu": "rejoindrais",
+      "il": "rejoindrait",
+      "nous": "rejoindrions",
+      "vous": "rejoindriez",
+      "ils": "rejoindraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais rejoint",
+      "tu": "aurais rejoint",
+      "il": "aurait rejoint",
+      "nous": "aurions rejoint",
+      "vous": "auriez rejoint",
+      "ils": "auraient rejoint"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse rejoint",
+      "tu": "eusses rejoint",
+      "il": "eût rejoint",
+      "nous": "eussions rejoint",
+      "vous": "eussiez rejoint",
+      "ils": "eussent rejoint"
+    },
+    "translation": "dołączyć",
+    "group": 3
+  },
+  {
+    "infinitive": "réjouir",
+    "présent": {
+      "je": "réjouis",
+      "tu": "réjouis",
+      "il": "réjouit",
+      "nous": "réjouissons",
+      "vous": "réjouissez",
+      "ils": "réjouissent"
+    },
+    "passé_composé": {
+      "je": "ai réjoui",
+      "tu": "as réjoui",
+      "il": "a réjoui",
+      "nous": "avons réjoui",
+      "vous": "avez réjoui",
+      "ils": "ont réjoui"
+    },
+    "imparfait": {
+      "je": "réjouissais",
+      "tu": "réjouissais",
+      "il": "réjouissait",
+      "nous": "réjouissions",
+      "vous": "réjouissiez",
+      "ils": "réjouissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais réjoui",
+      "tu": "avais réjoui",
+      "il": "avait réjoui",
+      "nous": "avions réjoui",
+      "vous": "aviez réjoui",
+      "ils": "avaient réjoui"
+    },
+    "passé_simple": {
+      "je": "réjouis",
+      "tu": "réjouis",
+      "il": "réjouit",
+      "nous": "réjouîmes",
+      "vous": "réjouîtes",
+      "ils": "réjouirent"
+    },
+    "passé_antérieur": {
+      "je": "eus réjoui",
+      "tu": "eus réjoui",
+      "il": "eut réjoui",
+      "nous": "eûmes réjoui",
+      "vous": "eûtes réjoui",
+      "ils": "eurent réjoui"
+    },
+    "futur_simple": {
+      "je": "réjouirai",
+      "tu": "réjouiras",
+      "il": "réjouira",
+      "nous": "réjouirons",
+      "vous": "réjouirez",
+      "ils": "réjouiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai réjoui",
+      "tu": "auras réjoui",
+      "il": "aura réjoui",
+      "nous": "aurons réjoui",
+      "vous": "aurez réjoui",
+      "ils": "auront réjoui"
+    },
+    "subjonctif_présent": {
+      "je": "réjouisse",
+      "tu": "réjouisses",
+      "il": "réjouisse",
+      "nous": "réjouissions",
+      "vous": "réjouissiez",
+      "ils": "réjouissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie réjoui",
+      "tu": "aies réjoui",
+      "il": "ait réjoui",
+      "nous": "ayons réjoui",
+      "vous": "ayez réjoui",
+      "ils": "aient réjoui"
+    },
+    "subjonctif_imparfait": {
+      "je": "réjouisse",
+      "tu": "réjouisses",
+      "il": "réjouît",
+      "nous": "réjouissions",
+      "vous": "réjouissiez",
+      "ils": "réjouissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse réjoui",
+      "tu": "eusses réjoui",
+      "il": "eût réjoui",
+      "nous": "eussions réjoui",
+      "vous": "eussiez réjoui",
+      "ils": "eussent réjoui"
+    },
+    "conditionnel_présent": {
+      "je": "réjouirais",
+      "tu": "réjouirais",
+      "il": "réjouirait",
+      "nous": "réjouirions",
+      "vous": "réjouiriez",
+      "ils": "réjouiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais réjoui",
+      "tu": "aurais réjoui",
+      "il": "aurait réjoui",
+      "nous": "aurions réjoui",
+      "vous": "auriez réjoui",
+      "ils": "auraient réjoui"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse réjoui",
+      "tu": "eusses réjoui",
+      "il": "eût réjoui",
+      "nous": "eussions réjoui",
+      "vous": "eussiez réjoui",
+      "ils": "eussent réjoui"
+    },
+    "translation": "cieszyć",
+    "group": 2
+  },
+  {
+    "infinitive": "relâcher",
+    "présent": {
+      "je": "relâche",
+      "tu": "relâches",
+      "il": "relâche",
+      "nous": "relâchons",
+      "vous": "relâchez",
+      "ils": "relâchent"
+    },
+    "passé_composé": {
+      "je": "ai relâché",
+      "tu": "as relâché",
+      "il": "a relâché",
+      "nous": "avons relâché",
+      "vous": "avez relâché",
+      "ils": "ont relâché"
+    },
+    "imparfait": {
+      "je": "relâchais",
+      "tu": "relâchais",
+      "il": "relâchait",
+      "nous": "relâchions",
+      "vous": "relâchiez",
+      "ils": "relâchaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais relâché",
+      "tu": "avais relâché",
+      "il": "avait relâché",
+      "nous": "avions relâché",
+      "vous": "aviez relâché",
+      "ils": "avaient relâché"
+    },
+    "passé_simple": {
+      "je": "relâchai",
+      "tu": "relâchas",
+      "il": "relâcha",
+      "nous": "relâchâmes",
+      "vous": "relâchâtes",
+      "ils": "relâchèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus relâché",
+      "tu": "eus relâché",
+      "il": "eut relâché",
+      "nous": "eûmes relâché",
+      "vous": "eûtes relâché",
+      "ils": "eurent relâché"
+    },
+    "futur_simple": {
+      "je": "relâcherai",
+      "tu": "relâcheras",
+      "il": "relâchera",
+      "nous": "relâcherons",
+      "vous": "relâcherez",
+      "ils": "relâcheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai relâché",
+      "tu": "auras relâché",
+      "il": "aura relâché",
+      "nous": "aurons relâché",
+      "vous": "aurez relâché",
+      "ils": "auront relâché"
+    },
+    "subjonctif_présent": {
+      "je": "relâche",
+      "tu": "relâches",
+      "il": "relâche",
+      "nous": "relâchions",
+      "vous": "relâchiez",
+      "ils": "relâchent"
+    },
+    "subjonctif_passé": {
+      "je": "aie relâché",
+      "tu": "aies relâché",
+      "il": "ait relâché",
+      "nous": "ayons relâché",
+      "vous": "ayez relâché",
+      "ils": "aient relâché"
+    },
+    "subjonctif_imparfait": {
+      "je": "relâchasse",
+      "tu": "relâchasses",
+      "il": "relâchât",
+      "nous": "relâchassions",
+      "vous": "relâchassiez",
+      "ils": "relâchassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse relâché",
+      "tu": "eusses relâché",
+      "il": "eût relâché",
+      "nous": "eussions relâché",
+      "vous": "eussiez relâché",
+      "ils": "eussent relâché"
+    },
+    "conditionnel_présent": {
+      "je": "relâcherais",
+      "tu": "relâcherais",
+      "il": "relâcherait",
+      "nous": "relâcherions",
+      "vous": "relâcheriez",
+      "ils": "relâcheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais relâché",
+      "tu": "aurais relâché",
+      "il": "aurait relâché",
+      "nous": "aurions relâché",
+      "vous": "auriez relâché",
+      "ils": "auraient relâché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse relâché",
+      "tu": "eusses relâché",
+      "il": "eût relâché",
+      "nous": "eussions relâché",
+      "vous": "eussiez relâché",
+      "ils": "eussent relâché"
+    },
+    "translation": "rozluźniać",
+    "group": 1
+  }
+]

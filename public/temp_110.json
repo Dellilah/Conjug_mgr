@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "implanter",
+    "présent": {
+      "je": "implante",
+      "tu": "implantes",
+      "il": "implante",
+      "nous": "implantons",
+      "vous": "implantez",
+      "ils": "implantent"
+    },
+    "passé_composé": {
+      "je": "ai implanté",
+      "tu": "as implanté",
+      "il": "a implanté",
+      "nous": "avons implanté",
+      "vous": "avez implanté",
+      "ils": "ont implanté"
+    },
+    "imparfait": {
+      "je": "implantais",
+      "tu": "implantais",
+      "il": "implantait",
+      "nous": "implantions",
+      "vous": "implantiez",
+      "ils": "implantaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais implanté",
+      "tu": "avais implanté",
+      "il": "avait implanté",
+      "nous": "avions implanté",
+      "vous": "aviez implanté",
+      "ils": "avaient implanté"
+    },
+    "passé_simple": {
+      "je": "implantai",
+      "tu": "implantas",
+      "il": "implanta",
+      "nous": "implantâmes",
+      "vous": "implantâtes",
+      "ils": "implantèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus implanté",
+      "tu": "eus implanté",
+      "il": "eut implanté",
+      "nous": "eûmes implanté",
+      "vous": "eûtes implanté",
+      "ils": "eurent implanté"
+    },
+    "futur_simple": {
+      "je": "implanterai",
+      "tu": "implanteras",
+      "il": "implantera",
+      "nous": "implanterons",
+      "vous": "implanterez",
+      "ils": "implanteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai implanté",
+      "tu": "auras implanté",
+      "il": "aura implanté",
+      "nous": "aurons implanté",
+      "vous": "aurez implanté",
+      "ils": "auront implanté"
+    },
+    "subjonctif_présent": {
+      "je": "implante",
+      "tu": "implantes",
+      "il": "implante",
+      "nous": "implantions",
+      "vous": "implantiez",
+      "ils": "implantent"
+    },
+    "subjonctif_passé": {
+      "je": "aie implanté",
+      "tu": "aies implanté",
+      "il": "ait implanté",
+      "nous": "ayons implanté",
+      "vous": "ayez implanté",
+      "ils": "aient implanté"
+    },
+    "subjonctif_imparfait": {
+      "je": "implantasse",
+      "tu": "implantasses",
+      "il": "implantât",
+      "nous": "implantassions",
+      "vous": "implantassiez",
+      "ils": "implantassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse implanté",
+      "tu": "eusses implanté",
+      "il": "eût implanté",
+      "nous": "eussions implanté",
+      "vous": "eussiez implanté",
+      "ils": "eussent implanté"
+    },
+    "conditionnel_présent": {
+      "je": "implanterais",
+      "tu": "implanterais",
+      "il": "implanterait",
+      "nous": "implanterions",
+      "vous": "implanteriez",
+      "ils": "implanteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais implanté",
+      "tu": "aurais implanté",
+      "il": "aurait implanté",
+      "nous": "aurions implanté",
+      "vous": "auriez implanté",
+      "ils": "auraient implanté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse implanté",
+      "tu": "eusses implanté",
+      "il": "eût implanté",
+      "nous": "eussions implanté",
+      "vous": "eussiez implanté",
+      "ils": "eussent implanté"
+    },
+    "translation": "lokować",
+    "group": 1
+  },
+  {
+    "infinitive": "implémenter",
+    "présent": {
+      "je": "implémente",
+      "tu": "implémentes",
+      "il": "implémente",
+      "nous": "implémentons",
+      "vous": "implémentez",
+      "ils": "implémentent"
+    },
+    "passé_composé": {
+      "je": "ai implémenté",
+      "tu": "as implémenté",
+      "il": "a implémenté",
+      "nous": "avons implémenté",
+      "vous": "avez implémenté",
+      "ils": "ont implémenté"
+    },
+    "imparfait": {
+      "je": "implémentais",
+      "tu": "implémentais",
+      "il": "implémentait",
+      "nous": "implémentions",
+      "vous": "implémentiez",
+      "ils": "implémentaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais implémenté",
+      "tu": "avais implémenté",
+      "il": "avait implémenté",
+      "nous": "avions implémenté",
+      "vous": "aviez implémenté",
+      "ils": "avaient implémenté"
+    },
+    "passé_simple": {
+      "je": "implémentai",
+      "tu": "implémentas",
+      "il": "implémenta",
+      "nous": "implémentâmes",
+      "vous": "implémentâtes",
+      "ils": "implémentèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus implémenté",
+      "tu": "eus implémenté",
+      "il": "eut implémenté",
+      "nous": "eûmes implémenté",
+      "vous": "eûtes implémenté",
+      "ils": "eurent implémenté"
+    },
+    "futur_simple": {
+      "je": "implémenterai",
+      "tu": "implémenteras",
+      "il": "implémentera",
+      "nous": "implémenterons",
+      "vous": "implémenterez",
+      "ils": "implémenteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai implémenté",
+      "tu": "auras implémenté",
+      "il": "aura implémenté",
+      "nous": "aurons implémenté",
+      "vous": "aurez implémenté",
+      "ils": "auront implémenté"
+    },
+    "subjonctif_présent": {
+      "je": "implémente",
+      "tu": "implémentes",
+      "il": "implémente",
+      "nous": "implémentions",
+      "vous": "implémentiez",
+      "ils": "implémentent"
+    },
+    "subjonctif_passé": {
+      "je": "aie implémenté",
+      "tu": "aies implémenté",
+      "il": "ait implémenté",
+      "nous": "ayons implémenté",
+      "vous": "ayez implémenté",
+      "ils": "aient implémenté"
+    },
+    "subjonctif_imparfait": {
+      "je": "implémentasse",
+      "tu": "implémentasses",
+      "il": "implémentât",
+      "nous": "implémentassions",
+      "vous": "implémentassiez",
+      "ils": "implémentassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse implémenté",
+      "tu": "eusses implémenté",
+      "il": "eût implémenté",
+      "nous": "eussions implémenté",
+      "vous": "eussiez implémenté",
+      "ils": "eussent implémenté"
+    },
+    "conditionnel_présent": {
+      "je": "implémenterais",
+      "tu": "implémenterais",
+      "il": "implémenterait",
+      "nous": "implémenterions",
+      "vous": "implémenteriez",
+      "ils": "implémenteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais implémenté",
+      "tu": "aurais implémenté",
+      "il": "aurait implémenté",
+      "nous": "aurions implémenté",
+      "vous": "auriez implémenté",
+      "ils": "auraient implémenté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse implémenté",
+      "tu": "eusses implémenté",
+      "il": "eût implémenté",
+      "nous": "eussions implémenté",
+      "vous": "eussiez implémenté",
+      "ils": "eussent implémenté"
+    },
+    "translation": "wdrażać",
+    "group": 1
+  },
+  {
+    "infinitive": "impliquer",
+    "présent": {
+      "je": "implique",
+      "tu": "impliques",
+      "il": "implique",
+      "nous": "impliquons",
+      "vous": "impliquez",
+      "ils": "impliquent"
+    },
+    "passé_composé": {
+      "je": "ai impliqué",
+      "tu": "as impliqué",
+      "il": "a impliqué",
+      "nous": "avons impliqué",
+      "vous": "avez impliqué",
+      "ils": "ont impliqué"
+    },
+    "imparfait": {
+      "je": "impliquais",
+      "tu": "impliquais",
+      "il": "impliquait",
+      "nous": "impliquions",
+      "vous": "impliquiez",
+      "ils": "impliquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais impliqué",
+      "tu": "avais impliqué",
+      "il": "avait impliqué",
+      "nous": "avions impliqué",
+      "vous": "aviez impliqué",
+      "ils": "avaient impliqué"
+    },
+    "passé_simple": {
+      "je": "impliquai",
+      "tu": "impliquas",
+      "il": "impliqua",
+      "nous": "impliquâmes",
+      "vous": "impliquâtes",
+      "ils": "impliquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus impliqué",
+      "tu": "eus impliqué",
+      "il": "eut impliqué",
+      "nous": "eûmes impliqué",
+      "vous": "eûtes impliqué",
+      "ils": "eurent impliqué"
+    },
+    "futur_simple": {
+      "je": "impliquerai",
+      "tu": "impliqueras",
+      "il": "impliquera",
+      "nous": "impliquerons",
+      "vous": "impliquerez",
+      "ils": "impliqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai impliqué",
+      "tu": "auras impliqué",
+      "il": "aura impliqué",
+      "nous": "aurons impliqué",
+      "vous": "aurez impliqué",
+      "ils": "auront impliqué"
+    },
+    "subjonctif_présent": {
+      "je": "implique",
+      "tu": "impliques",
+      "il": "implique",
+      "nous": "impliquions",
+      "vous": "impliquiez",
+      "ils": "impliquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie impliqué",
+      "tu": "aies impliqué",
+      "il": "ait impliqué",
+      "nous": "ayons impliqué",
+      "vous": "ayez impliqué",
+      "ils": "aient impliqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "impliquasse",
+      "tu": "impliquasses",
+      "il": "impliquât",
+      "nous": "impliquassions",
+      "vous": "impliquassiez",
+      "ils": "impliquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse impliqué",
+      "tu": "eusses impliqué",
+      "il": "eût impliqué",
+      "nous": "eussions impliqué",
+      "vous": "eussiez impliqué",
+      "ils": "eussent impliqué"
+    },
+    "conditionnel_présent": {
+      "je": "impliquerais",
+      "tu": "impliquerais",
+      "il": "impliquerait",
+      "nous": "impliquerions",
+      "vous": "impliqueriez",
+      "ils": "impliqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais impliqué",
+      "tu": "aurais impliqué",
+      "il": "aurait impliqué",
+      "nous": "aurions impliqué",
+      "vous": "auriez impliqué",
+      "ils": "auraient impliqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse impliqué",
+      "tu": "eusses impliqué",
+      "il": "eût impliqué",
+      "nous": "eussions impliqué",
+      "vous": "eussiez impliqué",
+      "ils": "eussent impliqué"
+    },
+    "translation": "wplątać",
+    "group": 1
+  },
+  {
+    "infinitive": "importer",
+    "présent": {
+      "je": "importe",
+      "tu": "importes",
+      "il": "importe",
+      "nous": "importons",
+      "vous": "importez",
+      "ils": "importent"
+    },
+    "passé_composé": {
+      "je": "ai importé",
+      "tu": "as importé",
+      "il": "a importé",
+      "nous": "avons importé",
+      "vous": "avez importé",
+      "ils": "ont importé"
+    },
+    "imparfait": {
+      "je": "importais",
+      "tu": "importais",
+      "il": "importait",
+      "nous": "importions",
+      "vous": "importiez",
+      "ils": "importaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais importé",
+      "tu": "avais importé",
+      "il": "avait importé",
+      "nous": "avions importé",
+      "vous": "aviez importé",
+      "ils": "avaient importé"
+    },
+    "passé_simple": {
+      "je": "importai",
+      "tu": "importas",
+      "il": "importa",
+      "nous": "importâmes",
+      "vous": "importâtes",
+      "ils": "importèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus importé",
+      "tu": "eus importé",
+      "il": "eut importé",
+      "nous": "eûmes importé",
+      "vous": "eûtes importé",
+      "ils": "eurent importé"
+    },
+    "futur_simple": {
+      "je": "importerai",
+      "tu": "importeras",
+      "il": "importera",
+      "nous": "importerons",
+      "vous": "importerez",
+      "ils": "importeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai importé",
+      "tu": "auras importé",
+      "il": "aura importé",
+      "nous": "aurons importé",
+      "vous": "aurez importé",
+      "ils": "auront importé"
+    },
+    "subjonctif_présent": {
+      "je": "importe",
+      "tu": "importes",
+      "il": "importe",
+      "nous": "importions",
+      "vous": "importiez",
+      "ils": "importent"
+    },
+    "subjonctif_passé": {
+      "je": "aie importé",
+      "tu": "aies importé",
+      "il": "ait importé",
+      "nous": "ayons importé",
+      "vous": "ayez importé",
+      "ils": "aient importé"
+    },
+    "subjonctif_imparfait": {
+      "je": "importasse",
+      "tu": "importasses",
+      "il": "importât",
+      "nous": "importassions",
+      "vous": "importassiez",
+      "ils": "importassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse importé",
+      "tu": "eusses importé",
+      "il": "eût importé",
+      "nous": "eussions importé",
+      "vous": "eussiez importé",
+      "ils": "eussent importé"
+    },
+    "conditionnel_présent": {
+      "je": "importerais",
+      "tu": "importerais",
+      "il": "importerait",
+      "nous": "importerions",
+      "vous": "importeriez",
+      "ils": "importeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais importé",
+      "tu": "aurais importé",
+      "il": "aurait importé",
+      "nous": "aurions importé",
+      "vous": "auriez importé",
+      "ils": "auraient importé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse importé",
+      "tu": "eusses importé",
+      "il": "eût importé",
+      "nous": "eussions importé",
+      "vous": "eussiez importé",
+      "ils": "eussent importé"
+    },
+    "translation": "importować",
+    "group": 1
+  },
+  {
+    "infinitive": "importuner",
+    "présent": {
+      "je": "importune",
+      "tu": "importunes",
+      "il": "importune",
+      "nous": "importunons",
+      "vous": "importunez",
+      "ils": "importunent"
+    },
+    "passé_composé": {
+      "je": "ai importuné",
+      "tu": "as importuné",
+      "il": "a importuné",
+      "nous": "avons importuné",
+      "vous": "avez importuné",
+      "ils": "ont importuné"
+    },
+    "imparfait": {
+      "je": "importunais",
+      "tu": "importunais",
+      "il": "importunait",
+      "nous": "importunions",
+      "vous": "importuniez",
+      "ils": "importunaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais importuné",
+      "tu": "avais importuné",
+      "il": "avait importuné",
+      "nous": "avions importuné",
+      "vous": "aviez importuné",
+      "ils": "avaient importuné"
+    },
+    "passé_simple": {
+      "je": "importunai",
+      "tu": "importunas",
+      "il": "importuna",
+      "nous": "importunâmes",
+      "vous": "importunâtes",
+      "ils": "importunèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus importuné",
+      "tu": "eus importuné",
+      "il": "eut importuné",
+      "nous": "eûmes importuné",
+      "vous": "eûtes importuné",
+      "ils": "eurent importuné"
+    },
+    "futur_simple": {
+      "je": "importunerai",
+      "tu": "importuneras",
+      "il": "importunera",
+      "nous": "importunerons",
+      "vous": "importunerez",
+      "ils": "importuneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai importuné",
+      "tu": "auras importuné",
+      "il": "aura importuné",
+      "nous": "aurons importuné",
+      "vous": "aurez importuné",
+      "ils": "auront importuné"
+    },
+    "subjonctif_présent": {
+      "je": "importune",
+      "tu": "importunes",
+      "il": "importune",
+      "nous": "importunions",
+      "vous": "importuniez",
+      "ils": "importunent"
+    },
+    "subjonctif_passé": {
+      "je": "aie importuné",
+      "tu": "aies importuné",
+      "il": "ait importuné",
+      "nous": "ayons importuné",
+      "vous": "ayez importuné",
+      "ils": "aient importuné"
+    },
+    "subjonctif_imparfait": {
+      "je": "importunasse",
+      "tu": "importunasses",
+      "il": "importunât",
+      "nous": "importunassions",
+      "vous": "importunassiez",
+      "ils": "importunassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse importuné",
+      "tu": "eusses importuné",
+      "il": "eût importuné",
+      "nous": "eussions importuné",
+      "vous": "eussiez importuné",
+      "ils": "eussent importuné"
+    },
+    "conditionnel_présent": {
+      "je": "importunerais",
+      "tu": "importunerais",
+      "il": "importunerait",
+      "nous": "importunerions",
+      "vous": "importuneriez",
+      "ils": "importuneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais importuné",
+      "tu": "aurais importuné",
+      "il": "aurait importuné",
+      "nous": "aurions importuné",
+      "vous": "auriez importuné",
+      "ils": "auraient importuné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse importuné",
+      "tu": "eusses importuné",
+      "il": "eût importuné",
+      "nous": "eussions importuné",
+      "vous": "eussiez importuné",
+      "ils": "eussent importuné"
+    },
+    "translation": "importuner",
+    "group": 1
+  },
+  {
+    "infinitive": "imposer",
+    "présent": {
+      "je": "impose",
+      "tu": "imposes",
+      "il": "impose",
+      "nous": "imposons",
+      "vous": "imposez",
+      "ils": "imposent"
+    },
+    "passé_composé": {
+      "je": "ai imposé",
+      "tu": "as imposé",
+      "il": "a imposé",
+      "nous": "avons imposé",
+      "vous": "avez imposé",
+      "ils": "ont imposé"
+    },
+    "imparfait": {
+      "je": "imposais",
+      "tu": "imposais",
+      "il": "imposait",
+      "nous": "imposions",
+      "vous": "imposiez",
+      "ils": "imposaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais imposé",
+      "tu": "avais imposé",
+      "il": "avait imposé",
+      "nous": "avions imposé",
+      "vous": "aviez imposé",
+      "ils": "avaient imposé"
+    },
+    "passé_simple": {
+      "je": "imposai",
+      "tu": "imposas",
+      "il": "imposa",
+      "nous": "imposâmes",
+      "vous": "imposâtes",
+      "ils": "imposèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus imposé",
+      "tu": "eus imposé",
+      "il": "eut imposé",
+      "nous": "eûmes imposé",
+      "vous": "eûtes imposé",
+      "ils": "eurent imposé"
+    },
+    "futur_simple": {
+      "je": "imposerai",
+      "tu": "imposeras",
+      "il": "imposera",
+      "nous": "imposerons",
+      "vous": "imposerez",
+      "ils": "imposeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai imposé",
+      "tu": "auras imposé",
+      "il": "aura imposé",
+      "nous": "aurons imposé",
+      "vous": "aurez imposé",
+      "ils": "auront imposé"
+    },
+    "subjonctif_présent": {
+      "je": "impose",
+      "tu": "imposes",
+      "il": "impose",
+      "nous": "imposions",
+      "vous": "imposiez",
+      "ils": "imposent"
+    },
+    "subjonctif_passé": {
+      "je": "aie imposé",
+      "tu": "aies imposé",
+      "il": "ait imposé",
+      "nous": "ayons imposé",
+      "vous": "ayez imposé",
+      "ils": "aient imposé"
+    },
+    "subjonctif_imparfait": {
+      "je": "imposasse",
+      "tu": "imposasses",
+      "il": "imposât",
+      "nous": "imposassions",
+      "vous": "imposassiez",
+      "ils": "imposassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse imposé",
+      "tu": "eusses imposé",
+      "il": "eût imposé",
+      "nous": "eussions imposé",
+      "vous": "eussiez imposé",
+      "ils": "eussent imposé"
+    },
+    "conditionnel_présent": {
+      "je": "imposerais",
+      "tu": "imposerais",
+      "il": "imposerait",
+      "nous": "imposerions",
+      "vous": "imposeriez",
+      "ils": "imposeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais imposé",
+      "tu": "aurais imposé",
+      "il": "aurait imposé",
+      "nous": "aurions imposé",
+      "vous": "auriez imposé",
+      "ils": "auraient imposé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse imposé",
+      "tu": "eusses imposé",
+      "il": "eût imposé",
+      "nous": "eussions imposé",
+      "vous": "eussiez imposé",
+      "ils": "eussent imposé"
+    },
+    "translation": "narzucać",
+    "group": 1
+  },
+  {
+    "infinitive": "imprégner",
+    "présent": {
+      "je": "imprègne",
+      "tu": "imprègnes",
+      "il": "imprègne",
+      "nous": "imprégnons",
+      "vous": "imprégnez",
+      "ils": "imprègnent"
+    },
+    "passé_composé": {
+      "je": "ai imprégné",
+      "tu": "as imprégné",
+      "il": "a imprégné",
+      "nous": "avons imprégné",
+      "vous": "avez imprégné",
+      "ils": "ont imprégné"
+    },
+    "imparfait": {
+      "je": "imprégnais",
+      "tu": "imprégnais",
+      "il": "imprégnait",
+      "nous": "imprégnions",
+      "vous": "imprégniez",
+      "ils": "imprégnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais imprégné",
+      "tu": "avais imprégné",
+      "il": "avait imprégné",
+      "nous": "avions imprégné",
+      "vous": "aviez imprégné",
+      "ils": "avaient imprégné"
+    },
+    "passé_simple": {
+      "je": "imprégnai",
+      "tu": "imprégnas",
+      "il": "imprégna",
+      "nous": "imprégnâmes",
+      "vous": "imprégnâtes",
+      "ils": "imprégnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus imprégné",
+      "tu": "eus imprégné",
+      "il": "eut imprégné",
+      "nous": "eûmes imprégné",
+      "vous": "eûtes imprégné",
+      "ils": "eurent imprégné"
+    },
+    "futur_simple": {
+      "je": "imprégnerai",
+      "tu": "imprégneras",
+      "il": "imprégnera",
+      "nous": "imprégnerons",
+      "vous": "imprégnerez",
+      "ils": "imprégneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai imprégné",
+      "tu": "auras imprégné",
+      "il": "aura imprégné",
+      "nous": "aurons imprégné",
+      "vous": "aurez imprégné",
+      "ils": "auront imprégné"
+    },
+    "subjonctif_présent": {
+      "je": "imprègne",
+      "tu": "imprègnes",
+      "il": "imprègne",
+      "nous": "imprégnions",
+      "vous": "imprégniez",
+      "ils": "imprègnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie imprégné",
+      "tu": "aies imprégné",
+      "il": "ait imprégné",
+      "nous": "ayons imprégné",
+      "vous": "ayez imprégné",
+      "ils": "aient imprégné"
+    },
+    "subjonctif_imparfait": {
+      "je": "imprégnasse",
+      "tu": "imprégnasses",
+      "il": "imprégnât",
+      "nous": "imprégnassions",
+      "vous": "imprégnassiez",
+      "ils": "imprégnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse imprégné",
+      "tu": "eusses imprégné",
+      "il": "eût imprégné",
+      "nous": "eussions imprégné",
+      "vous": "eussiez imprégné",
+      "ils": "eussent imprégné"
+    },
+    "conditionnel_présent": {
+      "je": "imprégnerais",
+      "tu": "imprégnerais",
+      "il": "imprégnerait",
+      "nous": "imprégnerions",
+      "vous": "imprégneriez",
+      "ils": "imprégneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais imprégné",
+      "tu": "aurais imprégné",
+      "il": "aurait imprégné",
+      "nous": "aurions imprégné",
+      "vous": "auriez imprégné",
+      "ils": "auraient imprégné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse imprégné",
+      "tu": "eusses imprégné",
+      "il": "eût imprégné",
+      "nous": "eussions imprégné",
+      "vous": "eussiez imprégné",
+      "ils": "eussent imprégné"
+    },
+    "translation": "impregnować",
+    "group": 1
+  },
+  {
+    "infinitive": "impressionner",
+    "présent": {
+      "je": "impressionne",
+      "tu": "impressionnes",
+      "il": "impressionne",
+      "nous": "impressionnons",
+      "vous": "impressionnez",
+      "ils": "impressionnent"
+    },
+    "passé_composé": {
+      "je": "ai impressionné",
+      "tu": "as impressionné",
+      "il": "a impressionné",
+      "nous": "avons impressionné",
+      "vous": "avez impressionné",
+      "ils": "ont impressionné"
+    },
+    "imparfait": {
+      "je": "impressionnais",
+      "tu": "impressionnais",
+      "il": "impressionnait",
+      "nous": "impressionnions",
+      "vous": "impressionniez",
+      "ils": "impressionnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais impressionné",
+      "tu": "avais impressionné",
+      "il": "avait impressionné",
+      "nous": "avions impressionné",
+      "vous": "aviez impressionné",
+      "ils": "avaient impressionné"
+    },
+    "passé_simple": {
+      "je": "impressionnai",
+      "tu": "impressionnas",
+      "il": "impressionna",
+      "nous": "impressionnâmes",
+      "vous": "impressionnâtes",
+      "ils": "impressionnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus impressionné",
+      "tu": "eus impressionné",
+      "il": "eut impressionné",
+      "nous": "eûmes impressionné",
+      "vous": "eûtes impressionné",
+      "ils": "eurent impressionné"
+    },
+    "futur_simple": {
+      "je": "impressionnerai",
+      "tu": "impressionneras",
+      "il": "impressionnera",
+      "nous": "impressionnerons",
+      "vous": "impressionnerez",
+      "ils": "impressionneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai impressionné",
+      "tu": "auras impressionné",
+      "il": "aura impressionné",
+      "nous": "aurons impressionné",
+      "vous": "aurez impressionné",
+      "ils": "auront impressionné"
+    },
+    "subjonctif_présent": {
+      "je": "impressionne",
+      "tu": "impressionnes",
+      "il": "impressionne",
+      "nous": "impressionnions",
+      "vous": "impressionniez",
+      "ils": "impressionnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie impressionné",
+      "tu": "aies impressionné",
+      "il": "ait impressionné",
+      "nous": "ayons impressionné",
+      "vous": "ayez impressionné",
+      "ils": "aient impressionné"
+    },
+    "subjonctif_imparfait": {
+      "je": "impressionnasse",
+      "tu": "impressionnasses",
+      "il": "impressionnât",
+      "nous": "impressionnassions",
+      "vous": "impressionnassiez",
+      "ils": "impressionnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse impressionné",
+      "tu": "eusses impressionné",
+      "il": "eût impressionné",
+      "nous": "eussions impressionné",
+      "vous": "eussiez impressionné",
+      "ils": "eussent impressionné"
+    },
+    "conditionnel_présent": {
+      "je": "impressionnerais",
+      "tu": "impressionnerais",
+      "il": "impressionnerait",
+      "nous": "impressionnerions",
+      "vous": "impressionneriez",
+      "ils": "impressionneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais impressionné",
+      "tu": "aurais impressionné",
+      "il": "aurait impressionné",
+      "nous": "aurions impressionné",
+      "vous": "auriez impressionné",
+      "ils": "auraient impressionné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse impressionné",
+      "tu": "eusses impressionné",
+      "il": "eût impressionné",
+      "nous": "eussions impressionné",
+      "vous": "eussiez impressionné",
+      "ils": "eussent impressionné"
+    },
+    "translation": "wywierać",
+    "group": 1
+  },
+  {
+    "infinitive": "imprimer",
+    "présent": {
+      "je": "imprime",
+      "tu": "imprimes",
+      "il": "imprime",
+      "nous": "imprimons",
+      "vous": "imprimez",
+      "ils": "impriment"
+    },
+    "passé_composé": {
+      "je": "ai imprimé",
+      "tu": "as imprimé",
+      "il": "a imprimé",
+      "nous": "avons imprimé",
+      "vous": "avez imprimé",
+      "ils": "ont imprimé"
+    },
+    "imparfait": {
+      "je": "imprimais",
+      "tu": "imprimais",
+      "il": "imprimait",
+      "nous": "imprimions",
+      "vous": "imprimiez",
+      "ils": "imprimaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais imprimé",
+      "tu": "avais imprimé",
+      "il": "avait imprimé",
+      "nous": "avions imprimé",
+      "vous": "aviez imprimé",
+      "ils": "avaient imprimé"
+    },
+    "passé_simple": {
+      "je": "imprimai",
+      "tu": "imprimas",
+      "il": "imprima",
+      "nous": "imprimâmes",
+      "vous": "imprimâtes",
+      "ils": "imprimèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus imprimé",
+      "tu": "eus imprimé",
+      "il": "eut imprimé",
+      "nous": "eûmes imprimé",
+      "vous": "eûtes imprimé",
+      "ils": "eurent imprimé"
+    },
+    "futur_simple": {
+      "je": "imprimerai",
+      "tu": "imprimeras",
+      "il": "imprimera",
+      "nous": "imprimerons",
+      "vous": "imprimerez",
+      "ils": "imprimeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai imprimé",
+      "tu": "auras imprimé",
+      "il": "aura imprimé",
+      "nous": "aurons imprimé",
+      "vous": "aurez imprimé",
+      "ils": "auront imprimé"
+    },
+    "subjonctif_présent": {
+      "je": "imprime",
+      "tu": "imprimes",
+      "il": "imprime",
+      "nous": "imprimions",
+      "vous": "imprimiez",
+      "ils": "impriment"
+    },
+    "subjonctif_passé": {
+      "je": "aie imprimé",
+      "tu": "aies imprimé",
+      "il": "ait imprimé",
+      "nous": "ayons imprimé",
+      "vous": "ayez imprimé",
+      "ils": "aient imprimé"
+    },
+    "subjonctif_imparfait": {
+      "je": "imprimasse",
+      "tu": "imprimasses",
+      "il": "imprimât",
+      "nous": "imprimassions",
+      "vous": "imprimassiez",
+      "ils": "imprimassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse imprimé",
+      "tu": "eusses imprimé",
+      "il": "eût imprimé",
+      "nous": "eussions imprimé",
+      "vous": "eussiez imprimé",
+      "ils": "eussent imprimé"
+    },
+    "conditionnel_présent": {
+      "je": "imprimerais",
+      "tu": "imprimerais",
+      "il": "imprimerait",
+      "nous": "imprimerions",
+      "vous": "imprimeriez",
+      "ils": "imprimeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais imprimé",
+      "tu": "aurais imprimé",
+      "il": "aurait imprimé",
+      "nous": "aurions imprimé",
+      "vous": "auriez imprimé",
+      "ils": "auraient imprimé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse imprimé",
+      "tu": "eusses imprimé",
+      "il": "eût imprimé",
+      "nous": "eussions imprimé",
+      "vous": "eussiez imprimé",
+      "ils": "eussent imprimé"
+    },
+    "translation": "drukować",
+    "group": 1
+  },
+  {
+    "infinitive": "inaugurer",
+    "présent": {
+      "je": "inaugure",
+      "tu": "inaugures",
+      "il": "inaugure",
+      "nous": "inaugurons",
+      "vous": "inaugurez",
+      "ils": "inaugurent"
+    },
+    "passé_composé": {
+      "je": "ai inauguré",
+      "tu": "as inauguré",
+      "il": "a inauguré",
+      "nous": "avons inauguré",
+      "vous": "avez inauguré",
+      "ils": "ont inauguré"
+    },
+    "imparfait": {
+      "je": "inaugurais",
+      "tu": "inaugurais",
+      "il": "inaugurait",
+      "nous": "inaugurions",
+      "vous": "inauguriez",
+      "ils": "inauguraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais inauguré",
+      "tu": "avais inauguré",
+      "il": "avait inauguré",
+      "nous": "avions inauguré",
+      "vous": "aviez inauguré",
+      "ils": "avaient inauguré"
+    },
+    "passé_simple": {
+      "je": "inaugurai",
+      "tu": "inauguras",
+      "il": "inaugura",
+      "nous": "inaugurâmes",
+      "vous": "inaugurâtes",
+      "ils": "inaugurèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus inauguré",
+      "tu": "eus inauguré",
+      "il": "eut inauguré",
+      "nous": "eûmes inauguré",
+      "vous": "eûtes inauguré",
+      "ils": "eurent inauguré"
+    },
+    "futur_simple": {
+      "je": "inaugurerai",
+      "tu": "inaugureras",
+      "il": "inaugurera",
+      "nous": "inaugurerons",
+      "vous": "inaugurerez",
+      "ils": "inaugureront"
+    },
+    "futur_antérieur": {
+      "je": "aurai inauguré",
+      "tu": "auras inauguré",
+      "il": "aura inauguré",
+      "nous": "aurons inauguré",
+      "vous": "aurez inauguré",
+      "ils": "auront inauguré"
+    },
+    "subjonctif_présent": {
+      "je": "inaugure",
+      "tu": "inaugures",
+      "il": "inaugure",
+      "nous": "inaugurions",
+      "vous": "inauguriez",
+      "ils": "inaugurent"
+    },
+    "subjonctif_passé": {
+      "je": "aie inauguré",
+      "tu": "aies inauguré",
+      "il": "ait inauguré",
+      "nous": "ayons inauguré",
+      "vous": "ayez inauguré",
+      "ils": "aient inauguré"
+    },
+    "subjonctif_imparfait": {
+      "je": "inaugurasse",
+      "tu": "inaugurasses",
+      "il": "inaugurât",
+      "nous": "inaugurassions",
+      "vous": "inaugurassiez",
+      "ils": "inaugurassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse inauguré",
+      "tu": "eusses inauguré",
+      "il": "eût inauguré",
+      "nous": "eussions inauguré",
+      "vous": "eussiez inauguré",
+      "ils": "eussent inauguré"
+    },
+    "conditionnel_présent": {
+      "je": "inaugurerais",
+      "tu": "inaugurerais",
+      "il": "inaugurerait",
+      "nous": "inaugurerions",
+      "vous": "inaugureriez",
+      "ils": "inaugureraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais inauguré",
+      "tu": "aurais inauguré",
+      "il": "aurait inauguré",
+      "nous": "aurions inauguré",
+      "vous": "auriez inauguré",
+      "ils": "auraient inauguré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse inauguré",
+      "tu": "eusses inauguré",
+      "il": "eût inauguré",
+      "nous": "eussions inauguré",
+      "vous": "eussiez inauguré",
+      "ils": "eussent inauguré"
+    },
+    "translation": "inaugurować",
+    "group": 1
+  }
+]

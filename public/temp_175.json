@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "satisfaire",
+    "présent": {
+      "je": "satisfais",
+      "tu": "satisfais",
+      "il": "satisfait",
+      "nous": "satisfaisons",
+      "vous": "satisfaites",
+      "ils": "satisfont"
+    },
+    "passé_composé": {
+      "je": "ai satisfait",
+      "tu": "as satisfait",
+      "il": "a satisfait",
+      "nous": "avons satisfait",
+      "vous": "avez satisfait",
+      "ils": "ont satisfait"
+    },
+    "imparfait": {
+      "je": "satisfaisais",
+      "tu": "satisfaisais",
+      "il": "satisfaisait",
+      "nous": "satisfaisions",
+      "vous": "satisfaisiez",
+      "ils": "satisfaisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais satisfait",
+      "tu": "avais satisfait",
+      "il": "avait satisfait",
+      "nous": "avions satisfait",
+      "vous": "aviez satisfait",
+      "ils": "avaient satisfait"
+    },
+    "passé_simple": {
+      "je": "satisfis",
+      "tu": "satisfis",
+      "il": "satisfit",
+      "nous": "satisfîmes",
+      "vous": "satisfîtes",
+      "ils": "satisfirent"
+    },
+    "passé_antérieur": {
+      "je": "eus satisfait",
+      "tu": "eus satisfait",
+      "il": "eut satisfait",
+      "nous": "eûmes satisfait",
+      "vous": "eûtes satisfait",
+      "ils": "eurent satisfait"
+    },
+    "futur_simple": {
+      "je": "satisferai",
+      "tu": "satisferas",
+      "il": "satisfera",
+      "nous": "satisferons",
+      "vous": "satisferez",
+      "ils": "satisferont"
+    },
+    "futur_antérieur": {
+      "je": "aurai satisfait",
+      "tu": "auras satisfait",
+      "il": "aura satisfait",
+      "nous": "aurons satisfait",
+      "vous": "aurez satisfait",
+      "ils": "auront satisfait"
+    },
+    "subjonctif_présent": {
+      "je": "satisfasse",
+      "tu": "satisfasses",
+      "il": "satisfasse",
+      "nous": "satisfassions",
+      "vous": "satisfassiez",
+      "ils": "satisfassent"
+    },
+    "subjonctif_passé": {
+      "je": "aie satisfait",
+      "tu": "aies satisfait",
+      "il": "ait satisfait",
+      "nous": "ayons satisfait",
+      "vous": "ayez satisfait",
+      "ils": "aient satisfait"
+    },
+    "subjonctif_imparfait": {
+      "je": "satisfisse",
+      "tu": "satisfisses",
+      "il": "satisfît",
+      "nous": "satisfissions",
+      "vous": "satisfissiez",
+      "ils": "satisfissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse satisfait",
+      "tu": "eusses satisfait",
+      "il": "eût satisfait",
+      "nous": "eussions satisfait",
+      "vous": "eussiez satisfait",
+      "ils": "eussent satisfait"
+    },
+    "conditionnel_présent": {
+      "je": "satisferais",
+      "tu": "satisferais",
+      "il": "satisferait",
+      "nous": "satisferions",
+      "vous": "satisferiez",
+      "ils": "satisferaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais satisfait",
+      "tu": "aurais satisfait",
+      "il": "aurait satisfait",
+      "nous": "aurions satisfait",
+      "vous": "auriez satisfait",
+      "ils": "auraient satisfait"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse satisfait",
+      "tu": "eusses satisfait",
+      "il": "eût satisfait",
+      "nous": "eussions satisfait",
+      "vous": "eussiez satisfait",
+      "ils": "eussent satisfait"
+    },
+    "translation": "zaspokajać",
+    "group": 3
+  },
+  {
+    "infinitive": "saurer",
+    "présent": {
+      "je": "saure",
+      "tu": "saures",
+      "il": "saure",
+      "nous": "saurons",
+      "vous": "saurez",
+      "ils": "saurent"
+    },
+    "passé_composé": {
+      "je": "ai sauré",
+      "tu": "as sauré",
+      "il": "a sauré",
+      "nous": "avons sauré",
+      "vous": "avez sauré",
+      "ils": "ont sauré"
+    },
+    "imparfait": {
+      "je": "saurais",
+      "tu": "saurais",
+      "il": "saurait",
+      "nous": "saurions",
+      "vous": "sauriez",
+      "ils": "sauraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais sauré",
+      "tu": "avais sauré",
+      "il": "avait sauré",
+      "nous": "avions sauré",
+      "vous": "aviez sauré",
+      "ils": "avaient sauré"
+    },
+    "passé_simple": {
+      "je": "saurai",
+      "tu": "sauras",
+      "il": "saura",
+      "nous": "saurâmes",
+      "vous": "saurâtes",
+      "ils": "saurèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus sauré",
+      "tu": "eus sauré",
+      "il": "eut sauré",
+      "nous": "eûmes sauré",
+      "vous": "eûtes sauré",
+      "ils": "eurent sauré"
+    },
+    "futur_simple": {
+      "je": "saurerai",
+      "tu": "saureras",
+      "il": "saurera",
+      "nous": "saurerons",
+      "vous": "saurerez",
+      "ils": "saureront"
+    },
+    "futur_antérieur": {
+      "je": "aurai sauré",
+      "tu": "auras sauré",
+      "il": "aura sauré",
+      "nous": "aurons sauré",
+      "vous": "aurez sauré",
+      "ils": "auront sauré"
+    },
+    "subjonctif_présent": {
+      "je": "saure",
+      "tu": "saures",
+      "il": "saure",
+      "nous": "saurions",
+      "vous": "sauriez",
+      "ils": "saurent"
+    },
+    "subjonctif_passé": {
+      "je": "aie sauré",
+      "tu": "aies sauré",
+      "il": "ait sauré",
+      "nous": "ayons sauré",
+      "vous": "ayez sauré",
+      "ils": "aient sauré"
+    },
+    "subjonctif_imparfait": {
+      "je": "saurasse",
+      "tu": "saurasses",
+      "il": "saurât",
+      "nous": "saurassions",
+      "vous": "saurassiez",
+      "ils": "saurassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse sauré",
+      "tu": "eusses sauré",
+      "il": "eût sauré",
+      "nous": "eussions sauré",
+      "vous": "eussiez sauré",
+      "ils": "eussent sauré"
+    },
+    "conditionnel_présent": {
+      "je": "saurerais",
+      "tu": "saurerais",
+      "il": "saurerait",
+      "nous": "saurerions",
+      "vous": "saureriez",
+      "ils": "saureraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais sauré",
+      "tu": "aurais sauré",
+      "il": "aurait sauré",
+      "nous": "aurions sauré",
+      "vous": "auriez sauré",
+      "ils": "auraient sauré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse sauré",
+      "tu": "eusses sauré",
+      "il": "eût sauré",
+      "nous": "eussions sauré",
+      "vous": "eussiez sauré",
+      "ils": "eussent sauré"
+    },
+    "translation": "nasycać",
+    "group": 1
+  },
+  {
+    "infinitive": "sauter",
+    "présent": {
+      "je": "saute",
+      "tu": "sautes",
+      "il": "saute",
+      "nous": "sautons",
+      "vous": "sautez",
+      "ils": "sautent"
+    },
+    "passé_composé": {
+      "je": "ai sauté",
+      "tu": "as sauté",
+      "il": "a sauté",
+      "nous": "avons sauté",
+      "vous": "avez sauté",
+      "ils": "ont sauté"
+    },
+    "imparfait": {
+      "je": "sautais",
+      "tu": "sautais",
+      "il": "sautait",
+      "nous": "sautions",
+      "vous": "sautiez",
+      "ils": "sautaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais sauté",
+      "tu": "avais sauté",
+      "il": "avait sauté",
+      "nous": "avions sauté",
+      "vous": "aviez sauté",
+      "ils": "avaient sauté"
+    },
+    "passé_simple": {
+      "je": "sautai",
+      "tu": "sautas",
+      "il": "sauta",
+      "nous": "sautâmes",
+      "vous": "sautâtes",
+      "ils": "sautèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus sauté",
+      "tu": "eus sauté",
+      "il": "eut sauté",
+      "nous": "eûmes sauté",
+      "vous": "eûtes sauté",
+      "ils": "eurent sauté"
+    },
+    "futur_simple": {
+      "je": "sauterai",
+      "tu": "sauteras",
+      "il": "sautera",
+      "nous": "sauterons",
+      "vous": "sauterez",
+      "ils": "sauteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai sauté",
+      "tu": "auras sauté",
+      "il": "aura sauté",
+      "nous": "aurons sauté",
+      "vous": "aurez sauté",
+      "ils": "auront sauté"
+    },
+    "subjonctif_présent": {
+      "je": "saute",
+      "tu": "sautes",
+      "il": "saute",
+      "nous": "sautions",
+      "vous": "sautiez",
+      "ils": "sautent"
+    },
+    "subjonctif_passé": {
+      "je": "aie sauté",
+      "tu": "aies sauté",
+      "il": "ait sauté",
+      "nous": "ayons sauté",
+      "vous": "ayez sauté",
+      "ils": "aient sauté"
+    },
+    "subjonctif_imparfait": {
+      "je": "sautasse",
+      "tu": "sautasses",
+      "il": "sautât",
+      "nous": "sautassions",
+      "vous": "sautassiez",
+      "ils": "sautassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse sauté",
+      "tu": "eusses sauté",
+      "il": "eût sauté",
+      "nous": "eussions sauté",
+      "vous": "eussiez sauté",
+      "ils": "eussent sauté"
+    },
+    "conditionnel_présent": {
+      "je": "sauterais",
+      "tu": "sauterais",
+      "il": "sauterait",
+      "nous": "sauterions",
+      "vous": "sauteriez",
+      "ils": "sauteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais sauté",
+      "tu": "aurais sauté",
+      "il": "aurait sauté",
+      "nous": "aurions sauté",
+      "vous": "auriez sauté",
+      "ils": "auraient sauté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse sauté",
+      "tu": "eusses sauté",
+      "il": "eût sauté",
+      "nous": "eussions sauté",
+      "vous": "eussiez sauté",
+      "ils": "eussent sauté"
+    },
+    "translation": "skakać",
+    "group": 1
+  },
+  {
+    "infinitive": "sauvegarder",
+    "présent": {
+      "je": "sauvegarde",
+      "tu": "sauvegardes",
+      "il": "sauvegarde",
+      "nous": "sauvegardons",
+      "vous": "sauvegardez",
+      "ils": "sauvegardent"
+    },
+    "passé_composé": {
+      "je": "ai sauvegardé",
+      "tu": "as sauvegardé",
+      "il": "a sauvegardé",
+      "nous": "avons sauvegardé",
+      "vous": "avez sauvegardé",
+      "ils": "ont sauvegardé"
+    },
+    "imparfait": {
+      "je": "sauvegardais",
+      "tu": "sauvegardais",
+      "il": "sauvegardait",
+      "nous": "sauvegardions",
+      "vous": "sauvegardiez",
+      "ils": "sauvegardaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais sauvegardé",
+      "tu": "avais sauvegardé",
+      "il": "avait sauvegardé",
+      "nous": "avions sauvegardé",
+      "vous": "aviez sauvegardé",
+      "ils": "avaient sauvegardé"
+    },
+    "passé_simple": {
+      "je": "sauvegardai",
+      "tu": "sauvegardas",
+      "il": "sauvegarda",
+      "nous": "sauvegardâmes",
+      "vous": "sauvegardâtes",
+      "ils": "sauvegardèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus sauvegardé",
+      "tu": "eus sauvegardé",
+      "il": "eut sauvegardé",
+      "nous": "eûmes sauvegardé",
+      "vous": "eûtes sauvegardé",
+      "ils": "eurent sauvegardé"
+    },
+    "futur_simple": {
+      "je": "sauvegarderai",
+      "tu": "sauvegarderas",
+      "il": "sauvegardera",
+      "nous": "sauvegarderons",
+      "vous": "sauvegarderez",
+      "ils": "sauvegarderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai sauvegardé",
+      "tu": "auras sauvegardé",
+      "il": "aura sauvegardé",
+      "nous": "aurons sauvegardé",
+      "vous": "aurez sauvegardé",
+      "ils": "auront sauvegardé"
+    },
+    "subjonctif_présent": {
+      "je": "sauvegarde",
+      "tu": "sauvegardes",
+      "il": "sauvegarde",
+      "nous": "sauvegardions",
+      "vous": "sauvegardiez",
+      "ils": "sauvegardent"
+    },
+    "subjonctif_passé": {
+      "je": "aie sauvegardé",
+      "tu": "aies sauvegardé",
+      "il": "ait sauvegardé",
+      "nous": "ayons sauvegardé",
+      "vous": "ayez sauvegardé",
+      "ils": "aient sauvegardé"
+    },
+    "subjonctif_imparfait": {
+      "je": "sauvegardasse",
+      "tu": "sauvegardasses",
+      "il": "sauvegardât",
+      "nous": "sauvegardassions",
+      "vous": "sauvegardassiez",
+      "ils": "sauvegardassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse sauvegardé",
+      "tu": "eusses sauvegardé",
+      "il": "eût sauvegardé",
+      "nous": "eussions sauvegardé",
+      "vous": "eussiez sauvegardé",
+      "ils": "eussent sauvegardé"
+    },
+    "conditionnel_présent": {
+      "je": "sauvegarderais",
+      "tu": "sauvegarderais",
+      "il": "sauvegarderait",
+      "nous": "sauvegarderions",
+      "vous": "sauvegarderiez",
+      "ils": "sauvegarderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais sauvegardé",
+      "tu": "aurais sauvegardé",
+      "il": "aurait sauvegardé",
+      "nous": "aurions sauvegardé",
+      "vous": "auriez sauvegardé",
+      "ils": "auraient sauvegardé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse sauvegardé",
+      "tu": "eusses sauvegardé",
+      "il": "eût sauvegardé",
+      "nous": "eussions sauvegardé",
+      "vous": "eussiez sauvegardé",
+      "ils": "eussent sauvegardé"
+    },
+    "translation": "bronić",
+    "group": 1
+  },
+  {
+    "infinitive": "sauver",
+    "présent": {
+      "je": "sauve",
+      "tu": "sauves",
+      "il": "sauve",
+      "nous": "sauvons",
+      "vous": "sauvez",
+      "ils": "sauvent"
+    },
+    "passé_composé": {
+      "je": "ai sauvé",
+      "tu": "as sauvé",
+      "il": "a sauvé",
+      "nous": "avons sauvé",
+      "vous": "avez sauvé",
+      "ils": "ont sauvé"
+    },
+    "imparfait": {
+      "je": "sauvais",
+      "tu": "sauvais",
+      "il": "sauvait",
+      "nous": "sauvions",
+      "vous": "sauviez",
+      "ils": "sauvaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais sauvé",
+      "tu": "avais sauvé",
+      "il": "avait sauvé",
+      "nous": "avions sauvé",
+      "vous": "aviez sauvé",
+      "ils": "avaient sauvé"
+    },
+    "passé_simple": {
+      "je": "sauvai",
+      "tu": "sauvas",
+      "il": "sauva",
+      "nous": "sauvâmes",
+      "vous": "sauvâtes",
+      "ils": "sauvèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus sauvé",
+      "tu": "eus sauvé",
+      "il": "eut sauvé",
+      "nous": "eûmes sauvé",
+      "vous": "eûtes sauvé",
+      "ils": "eurent sauvé"
+    },
+    "futur_simple": {
+      "je": "sauverai",
+      "tu": "sauveras",
+      "il": "sauvera",
+      "nous": "sauverons",
+      "vous": "sauverez",
+      "ils": "sauveront"
+    },
+    "futur_antérieur": {
+      "je": "aurai sauvé",
+      "tu": "auras sauvé",
+      "il": "aura sauvé",
+      "nous": "aurons sauvé",
+      "vous": "aurez sauvé",
+      "ils": "auront sauvé"
+    },
+    "subjonctif_présent": {
+      "je": "sauve",
+      "tu": "sauves",
+      "il": "sauve",
+      "nous": "sauvions",
+      "vous": "sauviez",
+      "ils": "sauvent"
+    },
+    "subjonctif_passé": {
+      "je": "aie sauvé",
+      "tu": "aies sauvé",
+      "il": "ait sauvé",
+      "nous": "ayons sauvé",
+      "vous": "ayez sauvé",
+      "ils": "aient sauvé"
+    },
+    "subjonctif_imparfait": {
+      "je": "sauvasse",
+      "tu": "sauvasses",
+      "il": "sauvât",
+      "nous": "sauvassions",
+      "vous": "sauvassiez",
+      "ils": "sauvassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse sauvé",
+      "tu": "eusses sauvé",
+      "il": "eût sauvé",
+      "nous": "eussions sauvé",
+      "vous": "eussiez sauvé",
+      "ils": "eussent sauvé"
+    },
+    "conditionnel_présent": {
+      "je": "sauverais",
+      "tu": "sauverais",
+      "il": "sauverait",
+      "nous": "sauverions",
+      "vous": "sauveriez",
+      "ils": "sauveraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais sauvé",
+      "tu": "aurais sauvé",
+      "il": "aurait sauvé",
+      "nous": "aurions sauvé",
+      "vous": "auriez sauvé",
+      "ils": "auraient sauvé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse sauvé",
+      "tu": "eusses sauvé",
+      "il": "eût sauvé",
+      "nous": "eussions sauvé",
+      "vous": "eussiez sauvé",
+      "ils": "eussent sauvé"
+    },
+    "translation": "ocalić",
+    "group": 1
+  },
+  {
+    "infinitive": "savoir",
+    "présent": {
+      "je": "sais",
+      "tu": "sais",
+      "il": "sait",
+      "nous": "savons",
+      "vous": "savez",
+      "ils": "savent"
+    },
+    "passé_composé": {
+      "je": "ai su",
+      "tu": "as su",
+      "il": "a su",
+      "nous": "avons su",
+      "vous": "avez su",
+      "ils": "ont su"
+    },
+    "imparfait": {
+      "je": "savais",
+      "tu": "savais",
+      "il": "savait",
+      "nous": "savions",
+      "vous": "saviez",
+      "ils": "savaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais su",
+      "tu": "avais su",
+      "il": "avait su",
+      "nous": "avions su",
+      "vous": "aviez su",
+      "ils": "avaient su"
+    },
+    "passé_simple": {
+      "je": "sus",
+      "tu": "sus",
+      "il": "sut",
+      "nous": "sûmes",
+      "vous": "sûtes",
+      "ils": "surent"
+    },
+    "passé_antérieur": {
+      "je": "eus su",
+      "tu": "eus su",
+      "il": "eut su",
+      "nous": "eûmes su",
+      "vous": "eûtes su",
+      "ils": "eurent su"
+    },
+    "futur_simple": {
+      "je": "saurai",
+      "tu": "sauras",
+      "il": "saura",
+      "nous": "saurons",
+      "vous": "saurez",
+      "ils": "sauront"
+    },
+    "futur_antérieur": {
+      "je": "aurai su",
+      "tu": "auras su",
+      "il": "aura su",
+      "nous": "aurons su",
+      "vous": "aurez su",
+      "ils": "auront su"
+    },
+    "subjonctif_présent": {
+      "je": "sache",
+      "tu": "saches",
+      "il": "sache",
+      "nous": "sachions",
+      "vous": "sachiez",
+      "ils": "sachent"
+    },
+    "subjonctif_passé": {
+      "je": "aie su",
+      "tu": "aies su",
+      "il": "ait su",
+      "nous": "ayons su",
+      "vous": "ayez su",
+      "ils": "aient su"
+    },
+    "subjonctif_imparfait": {
+      "je": "susse",
+      "tu": "susses",
+      "il": "sût",
+      "nous": "sussions",
+      "vous": "sussiez",
+      "ils": "sussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse su",
+      "tu": "eusses su",
+      "il": "eût su",
+      "nous": "eussions su",
+      "vous": "eussiez su",
+      "ils": "eussent su"
+    },
+    "conditionnel_présent": {
+      "je": "saurais",
+      "tu": "saurais",
+      "il": "saurait",
+      "nous": "saurions",
+      "vous": "sauriez",
+      "ils": "sauraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais su",
+      "tu": "aurais su",
+      "il": "aurait su",
+      "nous": "aurions su",
+      "vous": "auriez su",
+      "ils": "auraient su"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse su",
+      "tu": "eusses su",
+      "il": "eût su",
+      "nous": "eussions su",
+      "vous": "eussiez su",
+      "ils": "eussent su"
+    },
+    "translation": "wiedzieć",
+    "group": 3
+  },
+  {
+    "infinitive": "savonner",
+    "présent": {
+      "je": "savonne",
+      "tu": "savonnes",
+      "il": "savonne",
+      "nous": "savonnons",
+      "vous": "savonnez",
+      "ils": "savonnent"
+    },
+    "passé_composé": {
+      "je": "ai savonné",
+      "tu": "as savonné",
+      "il": "a savonné",
+      "nous": "avons savonné",
+      "vous": "avez savonné",
+      "ils": "ont savonné"
+    },
+    "imparfait": {
+      "je": "savonnais",
+      "tu": "savonnais",
+      "il": "savonnait",
+      "nous": "savonnions",
+      "vous": "savonniez",
+      "ils": "savonnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais savonné",
+      "tu": "avais savonné",
+      "il": "avait savonné",
+      "nous": "avions savonné",
+      "vous": "aviez savonné",
+      "ils": "avaient savonné"
+    },
+    "passé_simple": {
+      "je": "savonnai",
+      "tu": "savonnas",
+      "il": "savonna",
+      "nous": "savonnâmes",
+      "vous": "savonnâtes",
+      "ils": "savonnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus savonné",
+      "tu": "eus savonné",
+      "il": "eut savonné",
+      "nous": "eûmes savonné",
+      "vous": "eûtes savonné",
+      "ils": "eurent savonné"
+    },
+    "futur_simple": {
+      "je": "savonnerai",
+      "tu": "savonneras",
+      "il": "savonnera",
+      "nous": "savonnerons",
+      "vous": "savonnerez",
+      "ils": "savonneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai savonné",
+      "tu": "auras savonné",
+      "il": "aura savonné",
+      "nous": "aurons savonné",
+      "vous": "aurez savonné",
+      "ils": "auront savonné"
+    },
+    "subjonctif_présent": {
+      "je": "savonne",
+      "tu": "savonnes",
+      "il": "savonne",
+      "nous": "savonnions",
+      "vous": "savonniez",
+      "ils": "savonnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie savonné",
+      "tu": "aies savonné",
+      "il": "ait savonné",
+      "nous": "ayons savonné",
+      "vous": "ayez savonné",
+      "ils": "aient savonné"
+    },
+    "subjonctif_imparfait": {
+      "je": "savonnasse",
+      "tu": "savonnasses",
+      "il": "savonnât",
+      "nous": "savonnassions",
+      "vous": "savonnassiez",
+      "ils": "savonnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse savonné",
+      "tu": "eusses savonné",
+      "il": "eût savonné",
+      "nous": "eussions savonné",
+      "vous": "eussiez savonné",
+      "ils": "eussent savonné"
+    },
+    "conditionnel_présent": {
+      "je": "savonnerais",
+      "tu": "savonnerais",
+      "il": "savonnerait",
+      "nous": "savonnerions",
+      "vous": "savonneriez",
+      "ils": "savonneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais savonné",
+      "tu": "aurais savonné",
+      "il": "aurait savonné",
+      "nous": "aurions savonné",
+      "vous": "auriez savonné",
+      "ils": "auraient savonné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse savonné",
+      "tu": "eusses savonné",
+      "il": "eût savonné",
+      "nous": "eussions savonné",
+      "vous": "eussiez savonné",
+      "ils": "eussent savonné"
+    },
+    "translation": "namydlać",
+    "group": 1
+  },
+  {
+    "infinitive": "savourer",
+    "présent": {
+      "je": "savoure",
+      "tu": "savoures",
+      "il": "savoure",
+      "nous": "savourons",
+      "vous": "savourez",
+      "ils": "savourent"
+    },
+    "passé_composé": {
+      "je": "ai savouré",
+      "tu": "as savouré",
+      "il": "a savouré",
+      "nous": "avons savouré",
+      "vous": "avez savouré",
+      "ils": "ont savouré"
+    },
+    "imparfait": {
+      "je": "savourais",
+      "tu": "savourais",
+      "il": "savourait",
+      "nous": "savourions",
+      "vous": "savouriez",
+      "ils": "savouraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais savouré",
+      "tu": "avais savouré",
+      "il": "avait savouré",
+      "nous": "avions savouré",
+      "vous": "aviez savouré",
+      "ils": "avaient savouré"
+    },
+    "passé_simple": {
+      "je": "savourai",
+      "tu": "savouras",
+      "il": "savoura",
+      "nous": "savourâmes",
+      "vous": "savourâtes",
+      "ils": "savourèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus savouré",
+      "tu": "eus savouré",
+      "il": "eut savouré",
+      "nous": "eûmes savouré",
+      "vous": "eûtes savouré",
+      "ils": "eurent savouré"
+    },
+    "futur_simple": {
+      "je": "savourerai",
+      "tu": "savoureras",
+      "il": "savourera",
+      "nous": "savourerons",
+      "vous": "savourerez",
+      "ils": "savoureront"
+    },
+    "futur_antérieur": {
+      "je": "aurai savouré",
+      "tu": "auras savouré",
+      "il": "aura savouré",
+      "nous": "aurons savouré",
+      "vous": "aurez savouré",
+      "ils": "auront savouré"
+    },
+    "subjonctif_présent": {
+      "je": "savoure",
+      "tu": "savoures",
+      "il": "savoure",
+      "nous": "savourions",
+      "vous": "savouriez",
+      "ils": "savourent"
+    },
+    "subjonctif_passé": {
+      "je": "aie savouré",
+      "tu": "aies savouré",
+      "il": "ait savouré",
+      "nous": "ayons savouré",
+      "vous": "ayez savouré",
+      "ils": "aient savouré"
+    },
+    "subjonctif_imparfait": {
+      "je": "savourasse",
+      "tu": "savourasses",
+      "il": "savourât",
+      "nous": "savourassions",
+      "vous": "savourassiez",
+      "ils": "savourassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse savouré",
+      "tu": "eusses savouré",
+      "il": "eût savouré",
+      "nous": "eussions savouré",
+      "vous": "eussiez savouré",
+      "ils": "eussent savouré"
+    },
+    "conditionnel_présent": {
+      "je": "savourerais",
+      "tu": "savourerais",
+      "il": "savourerait",
+      "nous": "savourerions",
+      "vous": "savoureriez",
+      "ils": "savoureraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais savouré",
+      "tu": "aurais savouré",
+      "il": "aurait savouré",
+      "nous": "aurions savouré",
+      "vous": "auriez savouré",
+      "ils": "auraient savouré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse savouré",
+      "tu": "eusses savouré",
+      "il": "eût savouré",
+      "nous": "eussions savouré",
+      "vous": "eussiez savouré",
+      "ils": "eussent savouré"
+    },
+    "translation": "smakować",
+    "group": 1
+  },
+  {
+    "infinitive": "scanner",
+    "présent": {
+      "je": "scanne",
+      "tu": "scannes",
+      "il": "scanne",
+      "nous": "scannons",
+      "vous": "scannez",
+      "ils": "scannent"
+    },
+    "passé_composé": {
+      "je": "ai scanné",
+      "tu": "as scanné",
+      "il": "a scanné",
+      "nous": "avons scanné",
+      "vous": "avez scanné",
+      "ils": "ont scanné"
+    },
+    "imparfait": {
+      "je": "scannais",
+      "tu": "scannais",
+      "il": "scannait",
+      "nous": "scannions",
+      "vous": "scanniez",
+      "ils": "scannaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais scanné",
+      "tu": "avais scanné",
+      "il": "avait scanné",
+      "nous": "avions scanné",
+      "vous": "aviez scanné",
+      "ils": "avaient scanné"
+    },
+    "passé_simple": {
+      "je": "scannai",
+      "tu": "scannas",
+      "il": "scanna",
+      "nous": "scannâmes",
+      "vous": "scannâtes",
+      "ils": "scannèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus scanné",
+      "tu": "eus scanné",
+      "il": "eut scanné",
+      "nous": "eûmes scanné",
+      "vous": "eûtes scanné",
+      "ils": "eurent scanné"
+    },
+    "futur_simple": {
+      "je": "scannerai",
+      "tu": "scanneras",
+      "il": "scannera",
+      "nous": "scannerons",
+      "vous": "scannerez",
+      "ils": "scanneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai scanné",
+      "tu": "auras scanné",
+      "il": "aura scanné",
+      "nous": "aurons scanné",
+      "vous": "aurez scanné",
+      "ils": "auront scanné"
+    },
+    "subjonctif_présent": {
+      "je": "scanne",
+      "tu": "scannes",
+      "il": "scanne",
+      "nous": "scannions",
+      "vous": "scanniez",
+      "ils": "scannent"
+    },
+    "subjonctif_passé": {
+      "je": "aie scanné",
+      "tu": "aies scanné",
+      "il": "ait scanné",
+      "nous": "ayons scanné",
+      "vous": "ayez scanné",
+      "ils": "aient scanné"
+    },
+    "subjonctif_imparfait": {
+      "je": "scannasse",
+      "tu": "scannasses",
+      "il": "scannât",
+      "nous": "scannassions",
+      "vous": "scannassiez",
+      "ils": "scannassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse scanné",
+      "tu": "eusses scanné",
+      "il": "eût scanné",
+      "nous": "eussions scanné",
+      "vous": "eussiez scanné",
+      "ils": "eussent scanné"
+    },
+    "conditionnel_présent": {
+      "je": "scannerais",
+      "tu": "scannerais",
+      "il": "scannerait",
+      "nous": "scannerions",
+      "vous": "scanneriez",
+      "ils": "scanneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais scanné",
+      "tu": "aurais scanné",
+      "il": "aurait scanné",
+      "nous": "aurions scanné",
+      "vous": "auriez scanné",
+      "ils": "auraient scanné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse scanné",
+      "tu": "eusses scanné",
+      "il": "eût scanné",
+      "nous": "eussions scanné",
+      "vous": "eussiez scanné",
+      "ils": "eussent scanné"
+    },
+    "translation": "skanować",
+    "group": 1
+  },
+  {
+    "infinitive": "sceller",
+    "présent": {
+      "je": "scelle",
+      "tu": "scelles",
+      "il": "scelle",
+      "nous": "scellons",
+      "vous": "scellez",
+      "ils": "scellent"
+    },
+    "passé_composé": {
+      "je": "ai scellé",
+      "tu": "as scellé",
+      "il": "a scellé",
+      "nous": "avons scellé",
+      "vous": "avez scellé",
+      "ils": "ont scellé"
+    },
+    "imparfait": {
+      "je": "scellais",
+      "tu": "scellais",
+      "il": "scellait",
+      "nous": "scellions",
+      "vous": "scelliez",
+      "ils": "scellaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais scellé",
+      "tu": "avais scellé",
+      "il": "avait scellé",
+      "nous": "avions scellé",
+      "vous": "aviez scellé",
+      "ils": "avaient scellé"
+    },
+    "passé_simple": {
+      "je": "scellai",
+      "tu": "scellas",
+      "il": "scella",
+      "nous": "scellâmes",
+      "vous": "scellâtes",
+      "ils": "scellèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus scellé",
+      "tu": "eus scellé",
+      "il": "eut scellé",
+      "nous": "eûmes scellé",
+      "vous": "eûtes scellé",
+      "ils": "eurent scellé"
+    },
+    "futur_simple": {
+      "je": "scellerai",
+      "tu": "scelleras",
+      "il": "scellera",
+      "nous": "scellerons",
+      "vous": "scellerez",
+      "ils": "scelleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai scellé",
+      "tu": "auras scellé",
+      "il": "aura scellé",
+      "nous": "aurons scellé",
+      "vous": "aurez scellé",
+      "ils": "auront scellé"
+    },
+    "subjonctif_présent": {
+      "je": "scelle",
+      "tu": "scelles",
+      "il": "scelle",
+      "nous": "scellions",
+      "vous": "scelliez",
+      "ils": "scellent"
+    },
+    "subjonctif_passé": {
+      "je": "aie scellé",
+      "tu": "aies scellé",
+      "il": "ait scellé",
+      "nous": "ayons scellé",
+      "vous": "ayez scellé",
+      "ils": "aient scellé"
+    },
+    "subjonctif_imparfait": {
+      "je": "scellasse",
+      "tu": "scellasses",
+      "il": "scellât",
+      "nous": "scellassions",
+      "vous": "scellassiez",
+      "ils": "scellassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse scellé",
+      "tu": "eusses scellé",
+      "il": "eût scellé",
+      "nous": "eussions scellé",
+      "vous": "eussiez scellé",
+      "ils": "eussent scellé"
+    },
+    "conditionnel_présent": {
+      "je": "scellerais",
+      "tu": "scellerais",
+      "il": "scellerait",
+      "nous": "scellerions",
+      "vous": "scelleriez",
+      "ils": "scelleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais scellé",
+      "tu": "aurais scellé",
+      "il": "aurait scellé",
+      "nous": "aurions scellé",
+      "vous": "auriez scellé",
+      "ils": "auraient scellé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse scellé",
+      "tu": "eusses scellé",
+      "il": "eût scellé",
+      "nous": "eussions scellé",
+      "vous": "eussiez scellé",
+      "ils": "eussent scellé"
+    },
+    "translation": "zaciskać",
+    "group": 1
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "planter",
+    "présent": {
+      "je": "plante",
+      "tu": "plantes",
+      "il": "plante",
+      "nous": "plantons",
+      "vous": "plantez",
+      "ils": "plantent"
+    },
+    "passé_composé": {
+      "je": "ai planté",
+      "tu": "as planté",
+      "il": "a planté",
+      "nous": "avons planté",
+      "vous": "avez planté",
+      "ils": "ont planté"
+    },
+    "imparfait": {
+      "je": "plantais",
+      "tu": "plantais",
+      "il": "plantait",
+      "nous": "plantions",
+      "vous": "plantiez",
+      "ils": "plantaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais planté",
+      "tu": "avais planté",
+      "il": "avait planté",
+      "nous": "avions planté",
+      "vous": "aviez planté",
+      "ils": "avaient planté"
+    },
+    "passé_simple": {
+      "je": "plantai",
+      "tu": "plantas",
+      "il": "planta",
+      "nous": "plantâmes",
+      "vous": "plantâtes",
+      "ils": "plantèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus planté",
+      "tu": "eus planté",
+      "il": "eut planté",
+      "nous": "eûmes planté",
+      "vous": "eûtes planté",
+      "ils": "eurent planté"
+    },
+    "futur_simple": {
+      "je": "planterai",
+      "tu": "planteras",
+      "il": "plantera",
+      "nous": "planterons",
+      "vous": "planterez",
+      "ils": "planteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai planté",
+      "tu": "auras planté",
+      "il": "aura planté",
+      "nous": "aurons planté",
+      "vous": "aurez planté",
+      "ils": "auront planté"
+    },
+    "subjonctif_présent": {
+      "je": "plante",
+      "tu": "plantes",
+      "il": "plante",
+      "nous": "plantions",
+      "vous": "plantiez",
+      "ils": "plantent"
+    },
+    "subjonctif_passé": {
+      "je": "aie planté",
+      "tu": "aies planté",
+      "il": "ait planté",
+      "nous": "ayons planté",
+      "vous": "ayez planté",
+      "ils": "aient planté"
+    },
+    "subjonctif_imparfait": {
+      "je": "plantasse",
+      "tu": "plantasses",
+      "il": "plantât",
+      "nous": "plantassions",
+      "vous": "plantassiez",
+      "ils": "plantassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse planté",
+      "tu": "eusses planté",
+      "il": "eût planté",
+      "nous": "eussions planté",
+      "vous": "eussiez planté",
+      "ils": "eussent planté"
+    },
+    "conditionnel_présent": {
+      "je": "planterais",
+      "tu": "planterais",
+      "il": "planterait",
+      "nous": "planterions",
+      "vous": "planteriez",
+      "ils": "planteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais planté",
+      "tu": "aurais planté",
+      "il": "aurait planté",
+      "nous": "aurions planté",
+      "vous": "auriez planté",
+      "ils": "auraient planté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse planté",
+      "tu": "eusses planté",
+      "il": "eût planté",
+      "nous": "eussions planté",
+      "vous": "eussiez planté",
+      "ils": "eussent planté"
+    },
+    "translation": "sadzić",
+    "group": 1
+  },
+  {
+    "infinitive": "pleurer",
+    "présent": {
+      "je": "pleure",
+      "tu": "pleures",
+      "il": "pleure",
+      "nous": "pleurons",
+      "vous": "pleurez",
+      "ils": "pleurent"
+    },
+    "passé_composé": {
+      "je": "ai pleuré",
+      "tu": "as pleuré",
+      "il": "a pleuré",
+      "nous": "avons pleuré",
+      "vous": "avez pleuré",
+      "ils": "ont pleuré"
+    },
+    "imparfait": {
+      "je": "pleurais",
+      "tu": "pleurais",
+      "il": "pleurait",
+      "nous": "pleurions",
+      "vous": "pleuriez",
+      "ils": "pleuraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais pleuré",
+      "tu": "avais pleuré",
+      "il": "avait pleuré",
+      "nous": "avions pleuré",
+      "vous": "aviez pleuré",
+      "ils": "avaient pleuré"
+    },
+    "passé_simple": {
+      "je": "pleurai",
+      "tu": "pleuras",
+      "il": "pleura",
+      "nous": "pleurâmes",
+      "vous": "pleurâtes",
+      "ils": "pleurèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus pleuré",
+      "tu": "eus pleuré",
+      "il": "eut pleuré",
+      "nous": "eûmes pleuré",
+      "vous": "eûtes pleuré",
+      "ils": "eurent pleuré"
+    },
+    "futur_simple": {
+      "je": "pleurerai",
+      "tu": "pleureras",
+      "il": "pleurera",
+      "nous": "pleurerons",
+      "vous": "pleurerez",
+      "ils": "pleureront"
+    },
+    "futur_antérieur": {
+      "je": "aurai pleuré",
+      "tu": "auras pleuré",
+      "il": "aura pleuré",
+      "nous": "aurons pleuré",
+      "vous": "aurez pleuré",
+      "ils": "auront pleuré"
+    },
+    "subjonctif_présent": {
+      "je": "pleure",
+      "tu": "pleures",
+      "il": "pleure",
+      "nous": "pleurions",
+      "vous": "pleuriez",
+      "ils": "pleurent"
+    },
+    "subjonctif_passé": {
+      "je": "aie pleuré",
+      "tu": "aies pleuré",
+      "il": "ait pleuré",
+      "nous": "ayons pleuré",
+      "vous": "ayez pleuré",
+      "ils": "aient pleuré"
+    },
+    "subjonctif_imparfait": {
+      "je": "pleurasse",
+      "tu": "pleurasses",
+      "il": "pleurât",
+      "nous": "pleurassions",
+      "vous": "pleurassiez",
+      "ils": "pleurassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse pleuré",
+      "tu": "eusses pleuré",
+      "il": "eût pleuré",
+      "nous": "eussions pleuré",
+      "vous": "eussiez pleuré",
+      "ils": "eussent pleuré"
+    },
+    "conditionnel_présent": {
+      "je": "pleurerais",
+      "tu": "pleurerais",
+      "il": "pleurerait",
+      "nous": "pleurerions",
+      "vous": "pleureriez",
+      "ils": "pleureraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais pleuré",
+      "tu": "aurais pleuré",
+      "il": "aurait pleuré",
+      "nous": "aurions pleuré",
+      "vous": "auriez pleuré",
+      "ils": "auraient pleuré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse pleuré",
+      "tu": "eusses pleuré",
+      "il": "eût pleuré",
+      "nous": "eussions pleuré",
+      "vous": "eussiez pleuré",
+      "ils": "eussent pleuré"
+    },
+    "translation": "płakać",
+    "group": 1
+  },
+  {
+    "infinitive": "pleuvoir",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "pleut",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "a plu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "pleuvait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "avait plu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "plut",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "eut plu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "pleuvra",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "aura plu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "pleuve",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "ait plu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "plût",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "eût plu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "pleuvrait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "aurait plu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "eût plu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "pada",
+    "group": 3
+  },
+  {
+    "infinitive": "plier",
+    "présent": {
+      "je": "plie",
+      "tu": "plies",
+      "il": "plie",
+      "nous": "plions",
+      "vous": "pliez",
+      "ils": "plient"
+    },
+    "passé_composé": {
+      "je": "ai plié",
+      "tu": "as plié",
+      "il": "a plié",
+      "nous": "avons plié",
+      "vous": "avez plié",
+      "ils": "ont plié"
+    },
+    "imparfait": {
+      "je": "pliais",
+      "tu": "pliais",
+      "il": "pliait",
+      "nous": "pliions",
+      "vous": "pliiez",
+      "ils": "pliaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais plié",
+      "tu": "avais plié",
+      "il": "avait plié",
+      "nous": "avions plié",
+      "vous": "aviez plié",
+      "ils": "avaient plié"
+    },
+    "passé_simple": {
+      "je": "pliai",
+      "tu": "plias",
+      "il": "plia",
+      "nous": "pliâmes",
+      "vous": "pliâtes",
+      "ils": "plièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus plié",
+      "tu": "eus plié",
+      "il": "eut plié",
+      "nous": "eûmes plié",
+      "vous": "eûtes plié",
+      "ils": "eurent plié"
+    },
+    "futur_simple": {
+      "je": "plierai",
+      "tu": "plieras",
+      "il": "pliera",
+      "nous": "plierons",
+      "vous": "plierez",
+      "ils": "plieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai plié",
+      "tu": "auras plié",
+      "il": "aura plié",
+      "nous": "aurons plié",
+      "vous": "aurez plié",
+      "ils": "auront plié"
+    },
+    "subjonctif_présent": {
+      "je": "plie",
+      "tu": "plies",
+      "il": "plie",
+      "nous": "pliions",
+      "vous": "pliiez",
+      "ils": "plient"
+    },
+    "subjonctif_passé": {
+      "je": "aie plié",
+      "tu": "aies plié",
+      "il": "ait plié",
+      "nous": "ayons plié",
+      "vous": "ayez plié",
+      "ils": "aient plié"
+    },
+    "subjonctif_imparfait": {
+      "je": "pliasse",
+      "tu": "pliasses",
+      "il": "pliât",
+      "nous": "pliassions",
+      "vous": "pliassiez",
+      "ils": "pliassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse plié",
+      "tu": "eusses plié",
+      "il": "eût plié",
+      "nous": "eussions plié",
+      "vous": "eussiez plié",
+      "ils": "eussent plié"
+    },
+    "conditionnel_présent": {
+      "je": "plierais",
+      "tu": "plierais",
+      "il": "plierait",
+      "nous": "plierions",
+      "vous": "plieriez",
+      "ils": "plieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais plié",
+      "tu": "aurais plié",
+      "il": "aurait plié",
+      "nous": "aurions plié",
+      "vous": "auriez plié",
+      "ils": "auraient plié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse plié",
+      "tu": "eusses plié",
+      "il": "eût plié",
+      "nous": "eussions plié",
+      "vous": "eussiez plié",
+      "ils": "eussent plié"
+    },
+    "translation": "składać",
+    "group": 1
+  },
+  {
+    "infinitive": "plonger",
+    "présent": {
+      "je": "plonge",
+      "tu": "plonges",
+      "il": "plonge",
+      "nous": "plongeons",
+      "vous": "plongez",
+      "ils": "plongent"
+    },
+    "passé_composé": {
+      "je": "ai plongé",
+      "tu": "as plongé",
+      "il": "a plongé",
+      "nous": "avons plongé",
+      "vous": "avez plongé",
+      "ils": "ont plongé"
+    },
+    "imparfait": {
+      "je": "plongeais",
+      "tu": "plongeais",
+      "il": "plongeait",
+      "nous": "plongions",
+      "vous": "plongiez",
+      "ils": "plongeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais plongé",
+      "tu": "avais plongé",
+      "il": "avait plongé",
+      "nous": "avions plongé",
+      "vous": "aviez plongé",
+      "ils": "avaient plongé"
+    },
+    "passé_simple": {
+      "je": "plongeai",
+      "tu": "plongeas",
+      "il": "plongea",
+      "nous": "plongeâmes",
+      "vous": "plongeâtes",
+      "ils": "plongèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus plongé",
+      "tu": "eus plongé",
+      "il": "eut plongé",
+      "nous": "eûmes plongé",
+      "vous": "eûtes plongé",
+      "ils": "eurent plongé"
+    },
+    "futur_simple": {
+      "je": "plongerai",
+      "tu": "plongeras",
+      "il": "plongera",
+      "nous": "plongerons",
+      "vous": "plongerez",
+      "ils": "plongeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai plongé",
+      "tu": "auras plongé",
+      "il": "aura plongé",
+      "nous": "aurons plongé",
+      "vous": "aurez plongé",
+      "ils": "auront plongé"
+    },
+    "subjonctif_présent": {
+      "je": "plonge",
+      "tu": "plonges",
+      "il": "plonge",
+      "nous": "plongions",
+      "vous": "plongiez",
+      "ils": "plongent"
+    },
+    "subjonctif_passé": {
+      "je": "aie plongé",
+      "tu": "aies plongé",
+      "il": "ait plongé",
+      "nous": "ayons plongé",
+      "vous": "ayez plongé",
+      "ils": "aient plongé"
+    },
+    "subjonctif_imparfait": {
+      "je": "plongeasse",
+      "tu": "plongeasses",
+      "il": "plongeât",
+      "nous": "plongeassions",
+      "vous": "plongeassiez",
+      "ils": "plongeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse plongé",
+      "tu": "eusses plongé",
+      "il": "eût plongé",
+      "nous": "eussions plongé",
+      "vous": "eussiez plongé",
+      "ils": "eussent plongé"
+    },
+    "conditionnel_présent": {
+      "je": "plongerais",
+      "tu": "plongerais",
+      "il": "plongerait",
+      "nous": "plongerions",
+      "vous": "plongeriez",
+      "ils": "plongeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais plongé",
+      "tu": "aurais plongé",
+      "il": "aurait plongé",
+      "nous": "aurions plongé",
+      "vous": "auriez plongé",
+      "ils": "auraient plongé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse plongé",
+      "tu": "eusses plongé",
+      "il": "eût plongé",
+      "nous": "eussions plongé",
+      "vous": "eussiez plongé",
+      "ils": "eussent plongé"
+    },
+    "translation": "zanurzać",
+    "group": 1
+  },
+  {
+    "infinitive": "ployer",
+    "présent": {
+      "je": "ploie",
+      "tu": "ploies",
+      "il": "ploie",
+      "nous": "ployons",
+      "vous": "ployez",
+      "ils": "ploient"
+    },
+    "passé_composé": {
+      "je": "ai ployé",
+      "tu": "as ployé",
+      "il": "a ployé",
+      "nous": "avons ployé",
+      "vous": "avez ployé",
+      "ils": "ont ployé"
+    },
+    "imparfait": {
+      "je": "ployais",
+      "tu": "ployais",
+      "il": "ployait",
+      "nous": "ployions",
+      "vous": "ployiez",
+      "ils": "ployaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ployé",
+      "tu": "avais ployé",
+      "il": "avait ployé",
+      "nous": "avions ployé",
+      "vous": "aviez ployé",
+      "ils": "avaient ployé"
+    },
+    "passé_simple": {
+      "je": "ployai",
+      "tu": "ployas",
+      "il": "ploya",
+      "nous": "ployâmes",
+      "vous": "ployâtes",
+      "ils": "ployèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus ployé",
+      "tu": "eus ployé",
+      "il": "eut ployé",
+      "nous": "eûmes ployé",
+      "vous": "eûtes ployé",
+      "ils": "eurent ployé"
+    },
+    "futur_simple": {
+      "je": "ploierai",
+      "tu": "ploieras",
+      "il": "ploiera",
+      "nous": "ploierons",
+      "vous": "ploierez",
+      "ils": "ploieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ployé",
+      "tu": "auras ployé",
+      "il": "aura ployé",
+      "nous": "aurons ployé",
+      "vous": "aurez ployé",
+      "ils": "auront ployé"
+    },
+    "subjonctif_présent": {
+      "je": "ploie",
+      "tu": "ploies",
+      "il": "ploie",
+      "nous": "ployions",
+      "vous": "ployiez",
+      "ils": "ploient"
+    },
+    "subjonctif_passé": {
+      "je": "aie ployé",
+      "tu": "aies ployé",
+      "il": "ait ployé",
+      "nous": "ayons ployé",
+      "vous": "ayez ployé",
+      "ils": "aient ployé"
+    },
+    "subjonctif_imparfait": {
+      "je": "ployasse",
+      "tu": "ployasses",
+      "il": "ployât",
+      "nous": "ployassions",
+      "vous": "ployassiez",
+      "ils": "ployassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ployé",
+      "tu": "eusses ployé",
+      "il": "eût ployé",
+      "nous": "eussions ployé",
+      "vous": "eussiez ployé",
+      "ils": "eussent ployé"
+    },
+    "conditionnel_présent": {
+      "je": "ploierais",
+      "tu": "ploierais",
+      "il": "ploierait",
+      "nous": "ploierions",
+      "vous": "ploieriez",
+      "ils": "ploieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ployé",
+      "tu": "aurais ployé",
+      "il": "aurait ployé",
+      "nous": "aurions ployé",
+      "vous": "auriez ployé",
+      "ils": "auraient ployé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ployé",
+      "tu": "eusses ployé",
+      "il": "eût ployé",
+      "nous": "eussions ployé",
+      "vous": "eussiez ployé",
+      "ils": "eussent ployé"
+    },
+    "translation": "ployer",
+    "group": 1
+  },
+  {
+    "infinitive": "poiler",
+    "présent": {
+      "je": "me poile",
+      "tu": "te poiles",
+      "il": "se poile",
+      "nous": "nous poilons",
+      "vous": "vous poilez",
+      "ils": "se poilent"
+    },
+    "passé_composé": {
+      "je": "me suis poilé",
+      "tu": "es poilé",
+      "il": "est poilé",
+      "nous": "nous sommes poilés",
+      "vous": "vous êtes poilés",
+      "ils": "se sont poilés"
+    },
+    "imparfait": {
+      "je": "me poilais",
+      "tu": "te poilais",
+      "il": "se poilait",
+      "nous": "nous poilions",
+      "vous": "vous poiliez",
+      "ils": "se poilaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais poilé",
+      "tu": "étais poilé",
+      "il": "était poilé",
+      "nous": "nous étions poilés",
+      "vous": "vous étiez poilés",
+      "ils": "étaient poilés"
+    },
+    "passé_simple": {
+      "je": "me poilai",
+      "tu": "te poilas",
+      "il": "se poila",
+      "nous": "nous poilâmes",
+      "vous": "vous poilâtes",
+      "ils": "se poilèrent"
+    },
+    "passé_antérieur": {
+      "je": "me fus poilé",
+      "tu": "te fus poilé",
+      "il": "se fut poilé",
+      "nous": "nous fûmes poilés",
+      "vous": "vous fûtes poilés",
+      "ils": "se furent poilés"
+    },
+    "futur_simple": {
+      "je": "me poilerai",
+      "tu": "te poileras",
+      "il": "se poilera",
+      "nous": "nous poilerons",
+      "vous": "vous poilerez",
+      "ils": "se poileront"
+    },
+    "futur_antérieur": {
+      "je": "me serai poilé",
+      "tu": "te seras poilé",
+      "il": "se sera poilé",
+      "nous": "nous serons poilés",
+      "vous": "vous serez poilés",
+      "ils": "se seront poilés"
+    },
+    "subjonctif_présent": {
+      "je": "me poile",
+      "tu": "te poiles",
+      "il": "se poile",
+      "nous": "nous poilions",
+      "vous": "vous poiliez",
+      "ils": "se poilent"
+    },
+    "subjonctif_passé": {
+      "je": "me sois poilé",
+      "tu": "te sois poilé",
+      "il": "se soit poilé",
+      "nous": "nous soyons poilés",
+      "vous": "vous soyez poilés",
+      "ils": "se soient poilés"
+    },
+    "subjonctif_imparfait": {
+      "je": "me poilasse",
+      "tu": "te poilasses",
+      "il": "se poilât",
+      "nous": "nous poilassions",
+      "vous": "vous poilassiez",
+      "ils": "se poilassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse poilé",
+      "tu": "te fusses poilé",
+      "il": "se fût poilé",
+      "nous": "nous fussions poilés",
+      "vous": "vous fussiez poilés",
+      "ils": "se fussent poilés"
+    },
+    "conditionnel_présent": {
+      "je": "me poilerais",
+      "tu": "te poilerais",
+      "il": "se poilerait",
+      "nous": "nous poilerions",
+      "vous": "vous poileriez",
+      "ils": "se poileraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais poilé",
+      "tu": "te serais poilé",
+      "il": "se serait poilé",
+      "nous": "nous serions poilés",
+      "vous": "vous seriez poilés",
+      "ils": "se seraient poilés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse poilé",
+      "tu": "te fusses poilé",
+      "il": "se fût poilé",
+      "nous": "nous fussions poilés",
+      "vous": "vous fussiez poilés",
+      "ils": "se fussent poilés"
+    },
+    "translation": "zasłaniać",
+    "group": 1
+  },
+  {
+    "infinitive": "poindre",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "point",
+      "nous": "-",
+      "vous": "-",
+      "ils": "poignent"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "a point",
+      "nous": "-",
+      "vous": "-",
+      "ils": "ont point"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "poignait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "poignaient"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "avait point",
+      "nous": "-",
+      "vous": "-",
+      "ils": "avaient point"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "poindra",
+      "nous": "-",
+      "vous": "-",
+      "ils": "poindront"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "aura point",
+      "nous": "-",
+      "vous": "-",
+      "ils": "auront point"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "stykać",
+    "group": 3
+  },
+  {
+    "infinitive": "pointer",
+    "présent": {
+      "je": "pointe",
+      "tu": "pointes",
+      "il": "pointe",
+      "nous": "pointons",
+      "vous": "pointez",
+      "ils": "pointent"
+    },
+    "passé_composé": {
+      "je": "ai pointé",
+      "tu": "as pointé",
+      "il": "a pointé",
+      "nous": "avons pointé",
+      "vous": "avez pointé",
+      "ils": "ont pointé"
+    },
+    "imparfait": {
+      "je": "pointais",
+      "tu": "pointais",
+      "il": "pointait",
+      "nous": "pointions",
+      "vous": "pointiez",
+      "ils": "pointaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais pointé",
+      "tu": "avais pointé",
+      "il": "avait pointé",
+      "nous": "avions pointé",
+      "vous": "aviez pointé",
+      "ils": "avaient pointé"
+    },
+    "passé_simple": {
+      "je": "pointai",
+      "tu": "pointas",
+      "il": "pointa",
+      "nous": "pointâmes",
+      "vous": "pointâtes",
+      "ils": "pointèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus pointé",
+      "tu": "eus pointé",
+      "il": "eut pointé",
+      "nous": "eûmes pointé",
+      "vous": "eûtes pointé",
+      "ils": "eurent pointé"
+    },
+    "futur_simple": {
+      "je": "pointerai",
+      "tu": "pointeras",
+      "il": "pointera",
+      "nous": "pointerons",
+      "vous": "pointerez",
+      "ils": "pointeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai pointé",
+      "tu": "auras pointé",
+      "il": "aura pointé",
+      "nous": "aurons pointé",
+      "vous": "aurez pointé",
+      "ils": "auront pointé"
+    },
+    "subjonctif_présent": {
+      "je": "pointe",
+      "tu": "pointes",
+      "il": "pointe",
+      "nous": "pointions",
+      "vous": "pointiez",
+      "ils": "pointent"
+    },
+    "subjonctif_passé": {
+      "je": "aie pointé",
+      "tu": "aies pointé",
+      "il": "ait pointé",
+      "nous": "ayons pointé",
+      "vous": "ayez pointé",
+      "ils": "aient pointé"
+    },
+    "subjonctif_imparfait": {
+      "je": "pointasse",
+      "tu": "pointasses",
+      "il": "pointât",
+      "nous": "pointassions",
+      "vous": "pointassiez",
+      "ils": "pointassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse pointé",
+      "tu": "eusses pointé",
+      "il": "eût pointé",
+      "nous": "eussions pointé",
+      "vous": "eussiez pointé",
+      "ils": "eussent pointé"
+    },
+    "conditionnel_présent": {
+      "je": "pointerais",
+      "tu": "pointerais",
+      "il": "pointerait",
+      "nous": "pointerions",
+      "vous": "pointeriez",
+      "ils": "pointeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais pointé",
+      "tu": "aurais pointé",
+      "il": "aurait pointé",
+      "nous": "aurions pointé",
+      "vous": "auriez pointé",
+      "ils": "auraient pointé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse pointé",
+      "tu": "eusses pointé",
+      "il": "eût pointé",
+      "nous": "eussions pointé",
+      "vous": "eussiez pointé",
+      "ils": "eussent pointé"
+    },
+    "translation": "podbijać",
+    "group": 1
+  },
+  {
+    "infinitive": "polir",
+    "présent": {
+      "je": "polis",
+      "tu": "polis",
+      "il": "polit",
+      "nous": "polissons",
+      "vous": "polissez",
+      "ils": "polissent"
+    },
+    "passé_composé": {
+      "je": "ai poli",
+      "tu": "as poli",
+      "il": "a poli",
+      "nous": "avons poli",
+      "vous": "avez poli",
+      "ils": "ont poli"
+    },
+    "imparfait": {
+      "je": "polissais",
+      "tu": "polissais",
+      "il": "polissait",
+      "nous": "polissions",
+      "vous": "polissiez",
+      "ils": "polissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais poli",
+      "tu": "avais poli",
+      "il": "avait poli",
+      "nous": "avions poli",
+      "vous": "aviez poli",
+      "ils": "avaient poli"
+    },
+    "passé_simple": {
+      "je": "polis",
+      "tu": "polis",
+      "il": "polit",
+      "nous": "polîmes",
+      "vous": "polîtes",
+      "ils": "polirent"
+    },
+    "passé_antérieur": {
+      "je": "eus poli",
+      "tu": "eus poli",
+      "il": "eut poli",
+      "nous": "eûmes poli",
+      "vous": "eûtes poli",
+      "ils": "eurent poli"
+    },
+    "futur_simple": {
+      "je": "polirai",
+      "tu": "poliras",
+      "il": "polira",
+      "nous": "polirons",
+      "vous": "polirez",
+      "ils": "poliront"
+    },
+    "futur_antérieur": {
+      "je": "aurai poli",
+      "tu": "auras poli",
+      "il": "aura poli",
+      "nous": "aurons poli",
+      "vous": "aurez poli",
+      "ils": "auront poli"
+    },
+    "subjonctif_présent": {
+      "je": "polisse",
+      "tu": "polisses",
+      "il": "polisse",
+      "nous": "polissions",
+      "vous": "polissiez",
+      "ils": "polissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie poli",
+      "tu": "aies poli",
+      "il": "ait poli",
+      "nous": "ayons poli",
+      "vous": "ayez poli",
+      "ils": "aient poli"
+    },
+    "subjonctif_imparfait": {
+      "je": "polisse",
+      "tu": "polisses",
+      "il": "polît",
+      "nous": "polissions",
+      "vous": "polissiez",
+      "ils": "polissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse poli",
+      "tu": "eusses poli",
+      "il": "eût poli",
+      "nous": "eussions poli",
+      "vous": "eussiez poli",
+      "ils": "eussent poli"
+    },
+    "conditionnel_présent": {
+      "je": "polirais",
+      "tu": "polirais",
+      "il": "polirait",
+      "nous": "polirions",
+      "vous": "poliriez",
+      "ils": "poliraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais poli",
+      "tu": "aurais poli",
+      "il": "aurait poli",
+      "nous": "aurions poli",
+      "vous": "auriez poli",
+      "ils": "auraient poli"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse poli",
+      "tu": "eusses poli",
+      "il": "eût poli",
+      "nous": "eussions poli",
+      "vous": "eussiez poli",
+      "ils": "eussent poli"
+    },
+    "translation": "polir",
+    "group": 2
+  }
+]

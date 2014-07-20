@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "mentir",
+    "présent": {
+      "je": "mens",
+      "tu": "mens",
+      "il": "ment",
+      "nous": "mentons",
+      "vous": "mentez",
+      "ils": "mentent"
+    },
+    "passé_composé": {
+      "je": "ai menti",
+      "tu": "as menti",
+      "il": "a menti",
+      "nous": "avons menti",
+      "vous": "avez menti",
+      "ils": "ont menti"
+    },
+    "imparfait": {
+      "je": "mentais",
+      "tu": "mentais",
+      "il": "mentait",
+      "nous": "mentions",
+      "vous": "mentiez",
+      "ils": "mentaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais menti",
+      "tu": "avais menti",
+      "il": "avait menti",
+      "nous": "avions menti",
+      "vous": "aviez menti",
+      "ils": "avaient menti"
+    },
+    "passé_simple": {
+      "je": "mentis",
+      "tu": "mentis",
+      "il": "mentit",
+      "nous": "mentîmes",
+      "vous": "mentîtes",
+      "ils": "mentirent"
+    },
+    "passé_antérieur": {
+      "je": "eus menti",
+      "tu": "eus menti",
+      "il": "eut menti",
+      "nous": "eûmes menti",
+      "vous": "eûtes menti",
+      "ils": "eurent menti"
+    },
+    "futur_simple": {
+      "je": "mentirai",
+      "tu": "mentiras",
+      "il": "mentira",
+      "nous": "mentirons",
+      "vous": "mentirez",
+      "ils": "mentiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai menti",
+      "tu": "auras menti",
+      "il": "aura menti",
+      "nous": "aurons menti",
+      "vous": "aurez menti",
+      "ils": "auront menti"
+    },
+    "subjonctif_présent": {
+      "je": "mente",
+      "tu": "mentes",
+      "il": "mente",
+      "nous": "mentions",
+      "vous": "mentiez",
+      "ils": "mentent"
+    },
+    "subjonctif_passé": {
+      "je": "aie menti",
+      "tu": "aies menti",
+      "il": "ait menti",
+      "nous": "ayons menti",
+      "vous": "ayez menti",
+      "ils": "aient menti"
+    },
+    "subjonctif_imparfait": {
+      "je": "mentisse",
+      "tu": "mentisses",
+      "il": "mentît",
+      "nous": "mentissions",
+      "vous": "mentissiez",
+      "ils": "mentissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse menti",
+      "tu": "eusses menti",
+      "il": "eût menti",
+      "nous": "eussions menti",
+      "vous": "eussiez menti",
+      "ils": "eussent menti"
+    },
+    "conditionnel_présent": {
+      "je": "mentirais",
+      "tu": "mentirais",
+      "il": "mentirait",
+      "nous": "mentirions",
+      "vous": "mentiriez",
+      "ils": "mentiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais menti",
+      "tu": "aurais menti",
+      "il": "aurait menti",
+      "nous": "aurions menti",
+      "vous": "auriez menti",
+      "ils": "auraient menti"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse menti",
+      "tu": "eusses menti",
+      "il": "eût menti",
+      "nous": "eussions menti",
+      "vous": "eussiez menti",
+      "ils": "eussent menti"
+    },
+    "translation": "kłamać",
+    "group": 3
+  },
+  {
+    "infinitive": "méprendre",
+    "présent": {
+      "je": "me méprends",
+      "tu": "te méprends",
+      "il": "se méprend",
+      "nous": "nous méprenons",
+      "vous": "vous méprenez",
+      "ils": "se méprennent"
+    },
+    "passé_composé": {
+      "je": "me suis mépris",
+      "tu": "es mépris",
+      "il": "est mépris",
+      "nous": "nous sommes mépris",
+      "vous": "vous êtes mépris",
+      "ils": "se sont mépris"
+    },
+    "imparfait": {
+      "je": "me méprenais",
+      "tu": "te méprenais",
+      "il": "se méprenait",
+      "nous": "nous méprenions",
+      "vous": "vous mépreniez",
+      "ils": "se méprenaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais mépris",
+      "tu": "étais mépris",
+      "il": "était mépris",
+      "nous": "nous étions mépris",
+      "vous": "vous étiez mépris",
+      "ils": "étaient mépris"
+    },
+    "passé_simple": {
+      "je": "me mépris",
+      "tu": "te mépris",
+      "il": "se méprit",
+      "nous": "nous méprîmes",
+      "vous": "vous méprîtes",
+      "ils": "se méprirent"
+    },
+    "passé_antérieur": {
+      "je": "me fus mépris",
+      "tu": "te fus mépris",
+      "il": "se fut mépris",
+      "nous": "nous fûmes mépris",
+      "vous": "vous fûtes mépris",
+      "ils": "se furent mépris"
+    },
+    "futur_simple": {
+      "je": "me méprendrai",
+      "tu": "te méprendras",
+      "il": "se méprendra",
+      "nous": "nous méprendrons",
+      "vous": "vous méprendrez",
+      "ils": "se méprendront"
+    },
+    "futur_antérieur": {
+      "je": "me serai mépris",
+      "tu": "te seras mépris",
+      "il": "se sera mépris",
+      "nous": "nous serons mépris",
+      "vous": "vous serez mépris",
+      "ils": "se seront mépris"
+    },
+    "subjonctif_présent": {
+      "je": "me méprenne",
+      "tu": "te méprennes",
+      "il": "se méprenne",
+      "nous": "nous méprenions",
+      "vous": "vous mépreniez",
+      "ils": "se méprennent"
+    },
+    "subjonctif_passé": {
+      "je": "me sois mépris",
+      "tu": "te sois mépris",
+      "il": "se soit mépris",
+      "nous": "nous soyons mépris",
+      "vous": "vous soyez mépris",
+      "ils": "se soient mépris"
+    },
+    "subjonctif_imparfait": {
+      "je": "me méprisse",
+      "tu": "te méprisses",
+      "il": "se méprît",
+      "nous": "nous méprissions",
+      "vous": "vous méprissiez",
+      "ils": "se méprissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse mépris",
+      "tu": "te fusses mépris",
+      "il": "se fût mépris",
+      "nous": "nous fussions mépris",
+      "vous": "vous fussiez mépris",
+      "ils": "se fussent mépris"
+    },
+    "conditionnel_présent": {
+      "je": "me méprendrais",
+      "tu": "te méprendrais",
+      "il": "se méprendrait",
+      "nous": "nous méprendrions",
+      "vous": "vous méprendriez",
+      "ils": "se méprendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais mépris",
+      "tu": "te serais mépris",
+      "il": "se serait mépris",
+      "nous": "nous serions mépris",
+      "vous": "vous seriez mépris",
+      "ils": "se seraient mépris"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse mépris",
+      "tu": "te fusses mépris",
+      "il": "se fût mépris",
+      "nous": "nous fussions mépris",
+      "vous": "vous fussiez mépris",
+      "ils": "se fussent mépris"
+    },
+    "translation": "méprendre",
+    "group": 3
+  },
+  {
+    "infinitive": "mériter",
+    "présent": {
+      "je": "mérite",
+      "tu": "mérites",
+      "il": "mérite",
+      "nous": "méritons",
+      "vous": "méritez",
+      "ils": "méritent"
+    },
+    "passé_composé": {
+      "je": "ai mérité",
+      "tu": "as mérité",
+      "il": "a mérité",
+      "nous": "avons mérité",
+      "vous": "avez mérité",
+      "ils": "ont mérité"
+    },
+    "imparfait": {
+      "je": "méritais",
+      "tu": "méritais",
+      "il": "méritait",
+      "nous": "méritions",
+      "vous": "méritiez",
+      "ils": "méritaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais mérité",
+      "tu": "avais mérité",
+      "il": "avait mérité",
+      "nous": "avions mérité",
+      "vous": "aviez mérité",
+      "ils": "avaient mérité"
+    },
+    "passé_simple": {
+      "je": "méritai",
+      "tu": "méritas",
+      "il": "mérita",
+      "nous": "méritâmes",
+      "vous": "méritâtes",
+      "ils": "méritèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus mérité",
+      "tu": "eus mérité",
+      "il": "eut mérité",
+      "nous": "eûmes mérité",
+      "vous": "eûtes mérité",
+      "ils": "eurent mérité"
+    },
+    "futur_simple": {
+      "je": "mériterai",
+      "tu": "mériteras",
+      "il": "méritera",
+      "nous": "mériterons",
+      "vous": "mériterez",
+      "ils": "mériteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai mérité",
+      "tu": "auras mérité",
+      "il": "aura mérité",
+      "nous": "aurons mérité",
+      "vous": "aurez mérité",
+      "ils": "auront mérité"
+    },
+    "subjonctif_présent": {
+      "je": "mérite",
+      "tu": "mérites",
+      "il": "mérite",
+      "nous": "méritions",
+      "vous": "méritiez",
+      "ils": "méritent"
+    },
+    "subjonctif_passé": {
+      "je": "aie mérité",
+      "tu": "aies mérité",
+      "il": "ait mérité",
+      "nous": "ayons mérité",
+      "vous": "ayez mérité",
+      "ils": "aient mérité"
+    },
+    "subjonctif_imparfait": {
+      "je": "méritasse",
+      "tu": "méritasses",
+      "il": "méritât",
+      "nous": "méritassions",
+      "vous": "méritassiez",
+      "ils": "méritassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse mérité",
+      "tu": "eusses mérité",
+      "il": "eût mérité",
+      "nous": "eussions mérité",
+      "vous": "eussiez mérité",
+      "ils": "eussent mérité"
+    },
+    "conditionnel_présent": {
+      "je": "mériterais",
+      "tu": "mériterais",
+      "il": "mériterait",
+      "nous": "mériterions",
+      "vous": "mériteriez",
+      "ils": "mériteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais mérité",
+      "tu": "aurais mérité",
+      "il": "aurait mérité",
+      "nous": "aurions mérité",
+      "vous": "auriez mérité",
+      "ils": "auraient mérité"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse mérité",
+      "tu": "eusses mérité",
+      "il": "eût mérité",
+      "nous": "eussions mérité",
+      "vous": "eussiez mérité",
+      "ils": "eussent mérité"
+    },
+    "translation": "zasługiwać",
+    "group": 1
+  },
+  {
+    "infinitive": "messeoir",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "messied",
+      "nous": "-",
+      "vous": "-",
+      "ils": "messiéent"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "messeyait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "messeyaient"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "messiéra",
+      "nous": "-",
+      "vous": "-",
+      "ils": "messiéront"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "messiée",
+      "nous": "-",
+      "vous": "-",
+      "ils": "messiéent"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "messiérait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "messiéraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "ponownie",
+    "group": 3
+  },
+  {
+    "infinitive": "mesurer",
+    "présent": {
+      "je": "mesure",
+      "tu": "mesures",
+      "il": "mesure",
+      "nous": "mesurons",
+      "vous": "mesurez",
+      "ils": "mesurent"
+    },
+    "passé_composé": {
+      "je": "ai mesuré",
+      "tu": "as mesuré",
+      "il": "a mesuré",
+      "nous": "avons mesuré",
+      "vous": "avez mesuré",
+      "ils": "ont mesuré"
+    },
+    "imparfait": {
+      "je": "mesurais",
+      "tu": "mesurais",
+      "il": "mesurait",
+      "nous": "mesurions",
+      "vous": "mesuriez",
+      "ils": "mesuraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais mesuré",
+      "tu": "avais mesuré",
+      "il": "avait mesuré",
+      "nous": "avions mesuré",
+      "vous": "aviez mesuré",
+      "ils": "avaient mesuré"
+    },
+    "passé_simple": {
+      "je": "mesurai",
+      "tu": "mesuras",
+      "il": "mesura",
+      "nous": "mesurâmes",
+      "vous": "mesurâtes",
+      "ils": "mesurèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus mesuré",
+      "tu": "eus mesuré",
+      "il": "eut mesuré",
+      "nous": "eûmes mesuré",
+      "vous": "eûtes mesuré",
+      "ils": "eurent mesuré"
+    },
+    "futur_simple": {
+      "je": "mesurerai",
+      "tu": "mesureras",
+      "il": "mesurera",
+      "nous": "mesurerons",
+      "vous": "mesurerez",
+      "ils": "mesureront"
+    },
+    "futur_antérieur": {
+      "je": "aurai mesuré",
+      "tu": "auras mesuré",
+      "il": "aura mesuré",
+      "nous": "aurons mesuré",
+      "vous": "aurez mesuré",
+      "ils": "auront mesuré"
+    },
+    "subjonctif_présent": {
+      "je": "mesure",
+      "tu": "mesures",
+      "il": "mesure",
+      "nous": "mesurions",
+      "vous": "mesuriez",
+      "ils": "mesurent"
+    },
+    "subjonctif_passé": {
+      "je": "aie mesuré",
+      "tu": "aies mesuré",
+      "il": "ait mesuré",
+      "nous": "ayons mesuré",
+      "vous": "ayez mesuré",
+      "ils": "aient mesuré"
+    },
+    "subjonctif_imparfait": {
+      "je": "mesurasse",
+      "tu": "mesurasses",
+      "il": "mesurât",
+      "nous": "mesurassions",
+      "vous": "mesurassiez",
+      "ils": "mesurassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse mesuré",
+      "tu": "eusses mesuré",
+      "il": "eût mesuré",
+      "nous": "eussions mesuré",
+      "vous": "eussiez mesuré",
+      "ils": "eussent mesuré"
+    },
+    "conditionnel_présent": {
+      "je": "mesurerais",
+      "tu": "mesurerais",
+      "il": "mesurerait",
+      "nous": "mesurerions",
+      "vous": "mesureriez",
+      "ils": "mesureraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais mesuré",
+      "tu": "aurais mesuré",
+      "il": "aurait mesuré",
+      "nous": "aurions mesuré",
+      "vous": "auriez mesuré",
+      "ils": "auraient mesuré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse mesuré",
+      "tu": "eusses mesuré",
+      "il": "eût mesuré",
+      "nous": "eussions mesuré",
+      "vous": "eussiez mesuré",
+      "ils": "eussent mesuré"
+    },
+    "translation": "mierzyć",
+    "group": 1
+  },
+  {
+    "infinitive": "métrer",
+    "présent": {
+      "je": "mètre",
+      "tu": "mètres",
+      "il": "mètre",
+      "nous": "métrons",
+      "vous": "métrez",
+      "ils": "mètrent"
+    },
+    "passé_composé": {
+      "je": "ai métré",
+      "tu": "as métré",
+      "il": "a métré",
+      "nous": "avons métré",
+      "vous": "avez métré",
+      "ils": "ont métré"
+    },
+    "imparfait": {
+      "je": "métrais",
+      "tu": "métrais",
+      "il": "métrait",
+      "nous": "métrions",
+      "vous": "métriez",
+      "ils": "métraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais métré",
+      "tu": "avais métré",
+      "il": "avait métré",
+      "nous": "avions métré",
+      "vous": "aviez métré",
+      "ils": "avaient métré"
+    },
+    "passé_simple": {
+      "je": "métrai",
+      "tu": "métras",
+      "il": "métra",
+      "nous": "métrâmes",
+      "vous": "métrâtes",
+      "ils": "métrèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus métré",
+      "tu": "eus métré",
+      "il": "eut métré",
+      "nous": "eûmes métré",
+      "vous": "eûtes métré",
+      "ils": "eurent métré"
+    },
+    "futur_simple": {
+      "je": "métrerai",
+      "tu": "métreras",
+      "il": "métrera",
+      "nous": "métrerons",
+      "vous": "métrerez",
+      "ils": "métreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai métré",
+      "tu": "auras métré",
+      "il": "aura métré",
+      "nous": "aurons métré",
+      "vous": "aurez métré",
+      "ils": "auront métré"
+    },
+    "subjonctif_présent": {
+      "je": "mètre",
+      "tu": "mètres",
+      "il": "mètre",
+      "nous": "métrions",
+      "vous": "métriez",
+      "ils": "mètrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie métré",
+      "tu": "aies métré",
+      "il": "ait métré",
+      "nous": "ayons métré",
+      "vous": "ayez métré",
+      "ils": "aient métré"
+    },
+    "subjonctif_imparfait": {
+      "je": "métrasse",
+      "tu": "métrasses",
+      "il": "métrât",
+      "nous": "métrassions",
+      "vous": "métrassiez",
+      "ils": "métrassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse métré",
+      "tu": "eusses métré",
+      "il": "eût métré",
+      "nous": "eussions métré",
+      "vous": "eussiez métré",
+      "ils": "eussent métré"
+    },
+    "conditionnel_présent": {
+      "je": "métrerais",
+      "tu": "métrerais",
+      "il": "métrerait",
+      "nous": "métrerions",
+      "vous": "métreriez",
+      "ils": "métreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais métré",
+      "tu": "aurais métré",
+      "il": "aurait métré",
+      "nous": "aurions métré",
+      "vous": "auriez métré",
+      "ils": "auraient métré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse métré",
+      "tu": "eusses métré",
+      "il": "eût métré",
+      "nous": "eussions métré",
+      "vous": "eussiez métré",
+      "ils": "eussent métré"
+    },
+    "translation": "mierzyć",
+    "group": 1
+  },
+  {
+    "infinitive": "mettre",
+    "présent": {
+      "je": "mets",
+      "tu": "mets",
+      "il": "met",
+      "nous": "mettons",
+      "vous": "mettez",
+      "ils": "mettent"
+    },
+    "passé_composé": {
+      "je": "ai mis",
+      "tu": "as mis",
+      "il": "a mis",
+      "nous": "avons mis",
+      "vous": "avez mis",
+      "ils": "ont mis"
+    },
+    "imparfait": {
+      "je": "mettais",
+      "tu": "mettais",
+      "il": "mettait",
+      "nous": "mettions",
+      "vous": "mettiez",
+      "ils": "mettaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais mis",
+      "tu": "avais mis",
+      "il": "avait mis",
+      "nous": "avions mis",
+      "vous": "aviez mis",
+      "ils": "avaient mis"
+    },
+    "passé_simple": {
+      "je": "mis",
+      "tu": "mis",
+      "il": "mit",
+      "nous": "mîmes",
+      "vous": "mîtes",
+      "ils": "mirent"
+    },
+    "passé_antérieur": {
+      "je": "eus mis",
+      "tu": "eus mis",
+      "il": "eut mis",
+      "nous": "eûmes mis",
+      "vous": "eûtes mis",
+      "ils": "eurent mis"
+    },
+    "futur_simple": {
+      "je": "mettrai",
+      "tu": "mettras",
+      "il": "mettra",
+      "nous": "mettrons",
+      "vous": "mettrez",
+      "ils": "mettront"
+    },
+    "futur_antérieur": {
+      "je": "aurai mis",
+      "tu": "auras mis",
+      "il": "aura mis",
+      "nous": "aurons mis",
+      "vous": "aurez mis",
+      "ils": "auront mis"
+    },
+    "subjonctif_présent": {
+      "je": "mette",
+      "tu": "mettes",
+      "il": "mette",
+      "nous": "mettions",
+      "vous": "mettiez",
+      "ils": "mettent"
+    },
+    "subjonctif_passé": {
+      "je": "aie mis",
+      "tu": "aies mis",
+      "il": "ait mis",
+      "nous": "ayons mis",
+      "vous": "ayez mis",
+      "ils": "aient mis"
+    },
+    "subjonctif_imparfait": {
+      "je": "misse",
+      "tu": "misses",
+      "il": "mît",
+      "nous": "missions",
+      "vous": "missiez",
+      "ils": "missent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse mis",
+      "tu": "eusses mis",
+      "il": "eût mis",
+      "nous": "eussions mis",
+      "vous": "eussiez mis",
+      "ils": "eussent mis"
+    },
+    "conditionnel_présent": {
+      "je": "mettrais",
+      "tu": "mettrais",
+      "il": "mettrait",
+      "nous": "mettrions",
+      "vous": "mettriez",
+      "ils": "mettraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais mis",
+      "tu": "aurais mis",
+      "il": "aurait mis",
+      "nous": "aurions mis",
+      "vous": "auriez mis",
+      "ils": "auraient mis"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse mis",
+      "tu": "eusses mis",
+      "il": "eût mis",
+      "nous": "eussions mis",
+      "vous": "eussiez mis",
+      "ils": "eussent mis"
+    },
+    "translation": "kłaść",
+    "group": 3
+  },
+  {
+    "infinitive": "meuler",
+    "présent": {
+      "je": "meule",
+      "tu": "meules",
+      "il": "meule",
+      "nous": "meulons",
+      "vous": "meulez",
+      "ils": "meulent"
+    },
+    "passé_composé": {
+      "je": "ai meulé",
+      "tu": "as meulé",
+      "il": "a meulé",
+      "nous": "avons meulé",
+      "vous": "avez meulé",
+      "ils": "ont meulé"
+    },
+    "imparfait": {
+      "je": "meulais",
+      "tu": "meulais",
+      "il": "meulait",
+      "nous": "meulions",
+      "vous": "meuliez",
+      "ils": "meulaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais meulé",
+      "tu": "avais meulé",
+      "il": "avait meulé",
+      "nous": "avions meulé",
+      "vous": "aviez meulé",
+      "ils": "avaient meulé"
+    },
+    "passé_simple": {
+      "je": "meulai",
+      "tu": "meulas",
+      "il": "meula",
+      "nous": "meulâmes",
+      "vous": "meulâtes",
+      "ils": "meulèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus meulé",
+      "tu": "eus meulé",
+      "il": "eut meulé",
+      "nous": "eûmes meulé",
+      "vous": "eûtes meulé",
+      "ils": "eurent meulé"
+    },
+    "futur_simple": {
+      "je": "meulerai",
+      "tu": "meuleras",
+      "il": "meulera",
+      "nous": "meulerons",
+      "vous": "meulerez",
+      "ils": "meuleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai meulé",
+      "tu": "auras meulé",
+      "il": "aura meulé",
+      "nous": "aurons meulé",
+      "vous": "aurez meulé",
+      "ils": "auront meulé"
+    },
+    "subjonctif_présent": {
+      "je": "meule",
+      "tu": "meules",
+      "il": "meule",
+      "nous": "meulions",
+      "vous": "meuliez",
+      "ils": "meulent"
+    },
+    "subjonctif_passé": {
+      "je": "aie meulé",
+      "tu": "aies meulé",
+      "il": "ait meulé",
+      "nous": "ayons meulé",
+      "vous": "ayez meulé",
+      "ils": "aient meulé"
+    },
+    "subjonctif_imparfait": {
+      "je": "meulasse",
+      "tu": "meulasses",
+      "il": "meulât",
+      "nous": "meulassions",
+      "vous": "meulassiez",
+      "ils": "meulassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse meulé",
+      "tu": "eusses meulé",
+      "il": "eût meulé",
+      "nous": "eussions meulé",
+      "vous": "eussiez meulé",
+      "ils": "eussent meulé"
+    },
+    "conditionnel_présent": {
+      "je": "meulerais",
+      "tu": "meulerais",
+      "il": "meulerait",
+      "nous": "meulerions",
+      "vous": "meuleriez",
+      "ils": "meuleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais meulé",
+      "tu": "aurais meulé",
+      "il": "aurait meulé",
+      "nous": "aurions meulé",
+      "vous": "auriez meulé",
+      "ils": "auraient meulé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse meulé",
+      "tu": "eusses meulé",
+      "il": "eût meulé",
+      "nous": "eussions meulé",
+      "vous": "eussiez meulé",
+      "ils": "eussent meulé"
+    },
+    "translation": "meblować",
+    "group": 1
+  },
+  {
+    "infinitive": "meurtrir",
+    "présent": {
+      "je": "meurtris",
+      "tu": "meurtris",
+      "il": "meurtrit",
+      "nous": "meurtrissons",
+      "vous": "meurtrissez",
+      "ils": "meurtrissent"
+    },
+    "passé_composé": {
+      "je": "ai meurtri",
+      "tu": "as meurtri",
+      "il": "a meurtri",
+      "nous": "avons meurtri",
+      "vous": "avez meurtri",
+      "ils": "ont meurtri"
+    },
+    "imparfait": {
+      "je": "meurtrissais",
+      "tu": "meurtrissais",
+      "il": "meurtrissait",
+      "nous": "meurtrissions",
+      "vous": "meurtrissiez",
+      "ils": "meurtrissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais meurtri",
+      "tu": "avais meurtri",
+      "il": "avait meurtri",
+      "nous": "avions meurtri",
+      "vous": "aviez meurtri",
+      "ils": "avaient meurtri"
+    },
+    "passé_simple": {
+      "je": "meurtris",
+      "tu": "meurtris",
+      "il": "meurtrit",
+      "nous": "meurtrîmes",
+      "vous": "meurtrîtes",
+      "ils": "meurtrirent"
+    },
+    "passé_antérieur": {
+      "je": "eus meurtri",
+      "tu": "eus meurtri",
+      "il": "eut meurtri",
+      "nous": "eûmes meurtri",
+      "vous": "eûtes meurtri",
+      "ils": "eurent meurtri"
+    },
+    "futur_simple": {
+      "je": "meurtrirai",
+      "tu": "meurtriras",
+      "il": "meurtrira",
+      "nous": "meurtrirons",
+      "vous": "meurtrirez",
+      "ils": "meurtriront"
+    },
+    "futur_antérieur": {
+      "je": "aurai meurtri",
+      "tu": "auras meurtri",
+      "il": "aura meurtri",
+      "nous": "aurons meurtri",
+      "vous": "aurez meurtri",
+      "ils": "auront meurtri"
+    },
+    "subjonctif_présent": {
+      "je": "meurtrisse",
+      "tu": "meurtrisses",
+      "il": "meurtrisse",
+      "nous": "meurtrissions",
+      "vous": "meurtrissiez",
+      "ils": "meurtrissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie meurtri",
+      "tu": "aies meurtri",
+      "il": "ait meurtri",
+      "nous": "ayons meurtri",
+      "vous": "ayez meurtri",
+      "ils": "aient meurtri"
+    },
+    "subjonctif_imparfait": {
+      "je": "meurtrisse",
+      "tu": "meurtrisses",
+      "il": "meurtrît",
+      "nous": "meurtrissions",
+      "vous": "meurtrissiez",
+      "ils": "meurtrissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse meurtri",
+      "tu": "eusses meurtri",
+      "il": "eût meurtri",
+      "nous": "eussions meurtri",
+      "vous": "eussiez meurtri",
+      "ils": "eussent meurtri"
+    },
+    "conditionnel_présent": {
+      "je": "meurtrirais",
+      "tu": "meurtrirais",
+      "il": "meurtrirait",
+      "nous": "meurtririons",
+      "vous": "meurtririez",
+      "ils": "meurtriraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais meurtri",
+      "tu": "aurais meurtri",
+      "il": "aurait meurtri",
+      "nous": "aurions meurtri",
+      "vous": "auriez meurtri",
+      "ils": "auraient meurtri"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse meurtri",
+      "tu": "eusses meurtri",
+      "il": "eût meurtri",
+      "nous": "eussions meurtri",
+      "vous": "eussiez meurtri",
+      "ils": "eussent meurtri"
+    },
+    "translation": "se",
+    "group": 2
+  },
+  {
+    "infinitive": "miauler",
+    "présent": {
+      "je": "miaule",
+      "tu": "miaules",
+      "il": "miaule",
+      "nous": "miaulons",
+      "vous": "miaulez",
+      "ils": "miaulent"
+    },
+    "passé_composé": {
+      "je": "ai miaulé",
+      "tu": "as miaulé",
+      "il": "a miaulé",
+      "nous": "avons miaulé",
+      "vous": "avez miaulé",
+      "ils": "ont miaulé"
+    },
+    "imparfait": {
+      "je": "miaulais",
+      "tu": "miaulais",
+      "il": "miaulait",
+      "nous": "miaulions",
+      "vous": "miauliez",
+      "ils": "miaulaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais miaulé",
+      "tu": "avais miaulé",
+      "il": "avait miaulé",
+      "nous": "avions miaulé",
+      "vous": "aviez miaulé",
+      "ils": "avaient miaulé"
+    },
+    "passé_simple": {
+      "je": "miaulai",
+      "tu": "miaulas",
+      "il": "miaula",
+      "nous": "miaulâmes",
+      "vous": "miaulâtes",
+      "ils": "miaulèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus miaulé",
+      "tu": "eus miaulé",
+      "il": "eut miaulé",
+      "nous": "eûmes miaulé",
+      "vous": "eûtes miaulé",
+      "ils": "eurent miaulé"
+    },
+    "futur_simple": {
+      "je": "miaulerai",
+      "tu": "miauleras",
+      "il": "miaulera",
+      "nous": "miaulerons",
+      "vous": "miaulerez",
+      "ils": "miauleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai miaulé",
+      "tu": "auras miaulé",
+      "il": "aura miaulé",
+      "nous": "aurons miaulé",
+      "vous": "aurez miaulé",
+      "ils": "auront miaulé"
+    },
+    "subjonctif_présent": {
+      "je": "miaule",
+      "tu": "miaules",
+      "il": "miaule",
+      "nous": "miaulions",
+      "vous": "miauliez",
+      "ils": "miaulent"
+    },
+    "subjonctif_passé": {
+      "je": "aie miaulé",
+      "tu": "aies miaulé",
+      "il": "ait miaulé",
+      "nous": "ayons miaulé",
+      "vous": "ayez miaulé",
+      "ils": "aient miaulé"
+    },
+    "subjonctif_imparfait": {
+      "je": "miaulasse",
+      "tu": "miaulasses",
+      "il": "miaulât",
+      "nous": "miaulassions",
+      "vous": "miaulassiez",
+      "ils": "miaulassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse miaulé",
+      "tu": "eusses miaulé",
+      "il": "eût miaulé",
+      "nous": "eussions miaulé",
+      "vous": "eussiez miaulé",
+      "ils": "eussent miaulé"
+    },
+    "conditionnel_présent": {
+      "je": "miaulerais",
+      "tu": "miaulerais",
+      "il": "miaulerait",
+      "nous": "miaulerions",
+      "vous": "miauleriez",
+      "ils": "miauleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais miaulé",
+      "tu": "aurais miaulé",
+      "il": "aurait miaulé",
+      "nous": "aurions miaulé",
+      "vous": "auriez miaulé",
+      "ils": "auraient miaulé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse miaulé",
+      "tu": "eusses miaulé",
+      "il": "eût miaulé",
+      "nous": "eussions miaulé",
+      "vous": "eussiez miaulé",
+      "ils": "eussent miaulé"
+    },
+    "translation": "miauczeć",
+    "group": 1
+  }
+]

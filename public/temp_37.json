@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "circonscrire",
+    "présent": {
+      "je": "circonscris",
+      "tu": "circonscris",
+      "il": "circonscrit",
+      "nous": "circonscrivons",
+      "vous": "circonscrivez",
+      "ils": "circonscrivent"
+    },
+    "passé_composé": {
+      "je": "ai circonscrit",
+      "tu": "as circonscrit",
+      "il": "a circonscrit",
+      "nous": "avons circonscrit",
+      "vous": "avez circonscrit",
+      "ils": "ont circonscrit"
+    },
+    "imparfait": {
+      "je": "circonscrivais",
+      "tu": "circonscrivais",
+      "il": "circonscrivait",
+      "nous": "circonscrivions",
+      "vous": "circonscriviez",
+      "ils": "circonscrivaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais circonscrit",
+      "tu": "avais circonscrit",
+      "il": "avait circonscrit",
+      "nous": "avions circonscrit",
+      "vous": "aviez circonscrit",
+      "ils": "avaient circonscrit"
+    },
+    "passé_simple": {
+      "je": "circonscrivis",
+      "tu": "circonscrivis",
+      "il": "circonscrivit",
+      "nous": "circonscrivîmes",
+      "vous": "circonscrivîtes",
+      "ils": "circonscrivirent"
+    },
+    "passé_antérieur": {
+      "je": "eus circonscrit",
+      "tu": "eus circonscrit",
+      "il": "eut circonscrit",
+      "nous": "eûmes circonscrit",
+      "vous": "eûtes circonscrit",
+      "ils": "eurent circonscrit"
+    },
+    "futur_simple": {
+      "je": "circonscrirai",
+      "tu": "circonscriras",
+      "il": "circonscrira",
+      "nous": "circonscrirons",
+      "vous": "circonscrirez",
+      "ils": "circonscriront"
+    },
+    "futur_antérieur": {
+      "je": "aurai circonscrit",
+      "tu": "auras circonscrit",
+      "il": "aura circonscrit",
+      "nous": "aurons circonscrit",
+      "vous": "aurez circonscrit",
+      "ils": "auront circonscrit"
+    },
+    "subjonctif_présent": {
+      "je": "circonscrive",
+      "tu": "circonscrives",
+      "il": "circonscrive",
+      "nous": "circonscrivions",
+      "vous": "circonscriviez",
+      "ils": "circonscrivent"
+    },
+    "subjonctif_passé": {
+      "je": "aie circonscrit",
+      "tu": "aies circonscrit",
+      "il": "ait circonscrit",
+      "nous": "ayons circonscrit",
+      "vous": "ayez circonscrit",
+      "ils": "aient circonscrit"
+    },
+    "subjonctif_imparfait": {
+      "je": "circonscrivisse",
+      "tu": "circonscrivisses",
+      "il": "circonscrivît",
+      "nous": "circonscrivissions",
+      "vous": "circonscrivissiez",
+      "ils": "circonscrivissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse circonscrit",
+      "tu": "eusses circonscrit",
+      "il": "eût circonscrit",
+      "nous": "eussions circonscrit",
+      "vous": "eussiez circonscrit",
+      "ils": "eussent circonscrit"
+    },
+    "conditionnel_présent": {
+      "je": "circonscrirais",
+      "tu": "circonscrirais",
+      "il": "circonscrirait",
+      "nous": "circonscririons",
+      "vous": "circonscririez",
+      "ils": "circonscriraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais circonscrit",
+      "tu": "aurais circonscrit",
+      "il": "aurait circonscrit",
+      "nous": "aurions circonscrit",
+      "vous": "auriez circonscrit",
+      "ils": "auraient circonscrit"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse circonscrit",
+      "tu": "eusses circonscrit",
+      "il": "eût circonscrit",
+      "nous": "eussions circonscrit",
+      "vous": "eussiez circonscrit",
+      "ils": "eussent circonscrit"
+    },
+    "translation": "ograniczać",
+    "group": 3
+  },
+  {
+    "infinitive": "circuler",
+    "présent": {
+      "je": "circule",
+      "tu": "circules",
+      "il": "circule",
+      "nous": "circulons",
+      "vous": "circulez",
+      "ils": "circulent"
+    },
+    "passé_composé": {
+      "je": "ai circulé",
+      "tu": "as circulé",
+      "il": "a circulé",
+      "nous": "avons circulé",
+      "vous": "avez circulé",
+      "ils": "ont circulé"
+    },
+    "imparfait": {
+      "je": "circulais",
+      "tu": "circulais",
+      "il": "circulait",
+      "nous": "circulions",
+      "vous": "circuliez",
+      "ils": "circulaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais circulé",
+      "tu": "avais circulé",
+      "il": "avait circulé",
+      "nous": "avions circulé",
+      "vous": "aviez circulé",
+      "ils": "avaient circulé"
+    },
+    "passé_simple": {
+      "je": "circulai",
+      "tu": "circulas",
+      "il": "circula",
+      "nous": "circulâmes",
+      "vous": "circulâtes",
+      "ils": "circulèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus circulé",
+      "tu": "eus circulé",
+      "il": "eut circulé",
+      "nous": "eûmes circulé",
+      "vous": "eûtes circulé",
+      "ils": "eurent circulé"
+    },
+    "futur_simple": {
+      "je": "circulerai",
+      "tu": "circuleras",
+      "il": "circulera",
+      "nous": "circulerons",
+      "vous": "circulerez",
+      "ils": "circuleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai circulé",
+      "tu": "auras circulé",
+      "il": "aura circulé",
+      "nous": "aurons circulé",
+      "vous": "aurez circulé",
+      "ils": "auront circulé"
+    },
+    "subjonctif_présent": {
+      "je": "circule",
+      "tu": "circules",
+      "il": "circule",
+      "nous": "circulions",
+      "vous": "circuliez",
+      "ils": "circulent"
+    },
+    "subjonctif_passé": {
+      "je": "aie circulé",
+      "tu": "aies circulé",
+      "il": "ait circulé",
+      "nous": "ayons circulé",
+      "vous": "ayez circulé",
+      "ils": "aient circulé"
+    },
+    "subjonctif_imparfait": {
+      "je": "circulasse",
+      "tu": "circulasses",
+      "il": "circulât",
+      "nous": "circulassions",
+      "vous": "circulassiez",
+      "ils": "circulassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse circulé",
+      "tu": "eusses circulé",
+      "il": "eût circulé",
+      "nous": "eussions circulé",
+      "vous": "eussiez circulé",
+      "ils": "eussent circulé"
+    },
+    "conditionnel_présent": {
+      "je": "circulerais",
+      "tu": "circulerais",
+      "il": "circulerait",
+      "nous": "circulerions",
+      "vous": "circuleriez",
+      "ils": "circuleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais circulé",
+      "tu": "aurais circulé",
+      "il": "aurait circulé",
+      "nous": "aurions circulé",
+      "vous": "auriez circulé",
+      "ils": "auraient circulé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse circulé",
+      "tu": "eusses circulé",
+      "il": "eût circulé",
+      "nous": "eussions circulé",
+      "vous": "eussiez circulé",
+      "ils": "eussent circulé"
+    },
+    "translation": "okrążać",
+    "group": 1
+  },
+  {
+    "infinitive": "cirer",
+    "présent": {
+      "je": "cire",
+      "tu": "cires",
+      "il": "cire",
+      "nous": "cirons",
+      "vous": "cirez",
+      "ils": "cirent"
+    },
+    "passé_composé": {
+      "je": "ai ciré",
+      "tu": "as ciré",
+      "il": "a ciré",
+      "nous": "avons ciré",
+      "vous": "avez ciré",
+      "ils": "ont ciré"
+    },
+    "imparfait": {
+      "je": "cirais",
+      "tu": "cirais",
+      "il": "cirait",
+      "nous": "cirions",
+      "vous": "ciriez",
+      "ils": "ciraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ciré",
+      "tu": "avais ciré",
+      "il": "avait ciré",
+      "nous": "avions ciré",
+      "vous": "aviez ciré",
+      "ils": "avaient ciré"
+    },
+    "passé_simple": {
+      "je": "cirai",
+      "tu": "ciras",
+      "il": "cira",
+      "nous": "cirâmes",
+      "vous": "cirâtes",
+      "ils": "cirèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus ciré",
+      "tu": "eus ciré",
+      "il": "eut ciré",
+      "nous": "eûmes ciré",
+      "vous": "eûtes ciré",
+      "ils": "eurent ciré"
+    },
+    "futur_simple": {
+      "je": "cirerai",
+      "tu": "cireras",
+      "il": "cirera",
+      "nous": "cirerons",
+      "vous": "cirerez",
+      "ils": "cireront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ciré",
+      "tu": "auras ciré",
+      "il": "aura ciré",
+      "nous": "aurons ciré",
+      "vous": "aurez ciré",
+      "ils": "auront ciré"
+    },
+    "subjonctif_présent": {
+      "je": "cire",
+      "tu": "cires",
+      "il": "cire",
+      "nous": "cirions",
+      "vous": "ciriez",
+      "ils": "cirent"
+    },
+    "subjonctif_passé": {
+      "je": "aie ciré",
+      "tu": "aies ciré",
+      "il": "ait ciré",
+      "nous": "ayons ciré",
+      "vous": "ayez ciré",
+      "ils": "aient ciré"
+    },
+    "subjonctif_imparfait": {
+      "je": "cirasse",
+      "tu": "cirasses",
+      "il": "cirât",
+      "nous": "cirassions",
+      "vous": "cirassiez",
+      "ils": "cirassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ciré",
+      "tu": "eusses ciré",
+      "il": "eût ciré",
+      "nous": "eussions ciré",
+      "vous": "eussiez ciré",
+      "ils": "eussent ciré"
+    },
+    "conditionnel_présent": {
+      "je": "cirerais",
+      "tu": "cirerais",
+      "il": "cirerait",
+      "nous": "cirerions",
+      "vous": "cireriez",
+      "ils": "cireraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ciré",
+      "tu": "aurais ciré",
+      "il": "aurait ciré",
+      "nous": "aurions ciré",
+      "vous": "auriez ciré",
+      "ils": "auraient ciré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ciré",
+      "tu": "eusses ciré",
+      "il": "eût ciré",
+      "nous": "eussions ciré",
+      "vous": "eussiez ciré",
+      "ils": "eussent ciré"
+    },
+    "translation": "pastować",
+    "group": 1
+  },
+  {
+    "infinitive": "ciseler",
+    "présent": {
+      "je": "cisèle",
+      "tu": "cisèles",
+      "il": "cisèle",
+      "nous": "ciselons",
+      "vous": "ciselez",
+      "ils": "cisèlent"
+    },
+    "passé_composé": {
+      "je": "ai ciselé",
+      "tu": "as ciselé",
+      "il": "a ciselé",
+      "nous": "avons ciselé",
+      "vous": "avez ciselé",
+      "ils": "ont ciselé"
+    },
+    "imparfait": {
+      "je": "ciselais",
+      "tu": "ciselais",
+      "il": "ciselait",
+      "nous": "ciselions",
+      "vous": "ciseliez",
+      "ils": "ciselaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ciselé",
+      "tu": "avais ciselé",
+      "il": "avait ciselé",
+      "nous": "avions ciselé",
+      "vous": "aviez ciselé",
+      "ils": "avaient ciselé"
+    },
+    "passé_simple": {
+      "je": "ciselai",
+      "tu": "ciselas",
+      "il": "cisela",
+      "nous": "ciselâmes",
+      "vous": "ciselâtes",
+      "ils": "ciselèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus ciselé",
+      "tu": "eus ciselé",
+      "il": "eut ciselé",
+      "nous": "eûmes ciselé",
+      "vous": "eûtes ciselé",
+      "ils": "eurent ciselé"
+    },
+    "futur_simple": {
+      "je": "cisèlerai",
+      "tu": "cisèleras",
+      "il": "cisèlera",
+      "nous": "cisèlerons",
+      "vous": "cisèlerez",
+      "ils": "cisèleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ciselé",
+      "tu": "auras ciselé",
+      "il": "aura ciselé",
+      "nous": "aurons ciselé",
+      "vous": "aurez ciselé",
+      "ils": "auront ciselé"
+    },
+    "subjonctif_présent": {
+      "je": "cisèle",
+      "tu": "cisèles",
+      "il": "cisèle",
+      "nous": "ciselions",
+      "vous": "ciseliez",
+      "ils": "cisèlent"
+    },
+    "subjonctif_passé": {
+      "je": "aie ciselé",
+      "tu": "aies ciselé",
+      "il": "ait ciselé",
+      "nous": "ayons ciselé",
+      "vous": "ayez ciselé",
+      "ils": "aient ciselé"
+    },
+    "subjonctif_imparfait": {
+      "je": "ciselasse",
+      "tu": "ciselasses",
+      "il": "ciselât",
+      "nous": "ciselassions",
+      "vous": "ciselassiez",
+      "ils": "ciselassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ciselé",
+      "tu": "eusses ciselé",
+      "il": "eût ciselé",
+      "nous": "eussions ciselé",
+      "vous": "eussiez ciselé",
+      "ils": "eussent ciselé"
+    },
+    "conditionnel_présent": {
+      "je": "cisèlerais",
+      "tu": "cisèlerais",
+      "il": "cisèlerait",
+      "nous": "cisèlerions",
+      "vous": "cisèleriez",
+      "ils": "cisèleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ciselé",
+      "tu": "aurais ciselé",
+      "il": "aurait ciselé",
+      "nous": "aurions ciselé",
+      "vous": "auriez ciselé",
+      "ils": "auraient ciselé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ciselé",
+      "tu": "eusses ciselé",
+      "il": "eût ciselé",
+      "nous": "eussions ciselé",
+      "vous": "eussiez ciselé",
+      "ils": "eussent ciselé"
+    },
+    "translation": "obrabiać",
+    "group": 1
+  },
+  {
+    "infinitive": "citer",
+    "présent": {
+      "je": "cite",
+      "tu": "cites",
+      "il": "cite",
+      "nous": "citons",
+      "vous": "citez",
+      "ils": "citent"
+    },
+    "passé_composé": {
+      "je": "ai cité",
+      "tu": "as cité",
+      "il": "a cité",
+      "nous": "avons cité",
+      "vous": "avez cité",
+      "ils": "ont cité"
+    },
+    "imparfait": {
+      "je": "citais",
+      "tu": "citais",
+      "il": "citait",
+      "nous": "citions",
+      "vous": "citiez",
+      "ils": "citaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais cité",
+      "tu": "avais cité",
+      "il": "avait cité",
+      "nous": "avions cité",
+      "vous": "aviez cité",
+      "ils": "avaient cité"
+    },
+    "passé_simple": {
+      "je": "citai",
+      "tu": "citas",
+      "il": "cita",
+      "nous": "citâmes",
+      "vous": "citâtes",
+      "ils": "citèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus cité",
+      "tu": "eus cité",
+      "il": "eut cité",
+      "nous": "eûmes cité",
+      "vous": "eûtes cité",
+      "ils": "eurent cité"
+    },
+    "futur_simple": {
+      "je": "citerai",
+      "tu": "citeras",
+      "il": "citera",
+      "nous": "citerons",
+      "vous": "citerez",
+      "ils": "citeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai cité",
+      "tu": "auras cité",
+      "il": "aura cité",
+      "nous": "aurons cité",
+      "vous": "aurez cité",
+      "ils": "auront cité"
+    },
+    "subjonctif_présent": {
+      "je": "cite",
+      "tu": "cites",
+      "il": "cite",
+      "nous": "citions",
+      "vous": "citiez",
+      "ils": "citent"
+    },
+    "subjonctif_passé": {
+      "je": "aie cité",
+      "tu": "aies cité",
+      "il": "ait cité",
+      "nous": "ayons cité",
+      "vous": "ayez cité",
+      "ils": "aient cité"
+    },
+    "subjonctif_imparfait": {
+      "je": "citasse",
+      "tu": "citasses",
+      "il": "citât",
+      "nous": "citassions",
+      "vous": "citassiez",
+      "ils": "citassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse cité",
+      "tu": "eusses cité",
+      "il": "eût cité",
+      "nous": "eussions cité",
+      "vous": "eussiez cité",
+      "ils": "eussent cité"
+    },
+    "conditionnel_présent": {
+      "je": "citerais",
+      "tu": "citerais",
+      "il": "citerait",
+      "nous": "citerions",
+      "vous": "citeriez",
+      "ils": "citeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais cité",
+      "tu": "aurais cité",
+      "il": "aurait cité",
+      "nous": "aurions cité",
+      "vous": "auriez cité",
+      "ils": "auraient cité"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse cité",
+      "tu": "eusses cité",
+      "il": "eût cité",
+      "nous": "eussions cité",
+      "vous": "eussiez cité",
+      "ils": "eussent cité"
+    },
+    "translation": "cytować",
+    "group": 1
+  },
+  {
+    "infinitive": "claquer",
+    "présent": {
+      "je": "claque",
+      "tu": "claques",
+      "il": "claque",
+      "nous": "claquons",
+      "vous": "claquez",
+      "ils": "claquent"
+    },
+    "passé_composé": {
+      "je": "ai claqué",
+      "tu": "as claqué",
+      "il": "a claqué",
+      "nous": "avons claqué",
+      "vous": "avez claqué",
+      "ils": "ont claqué"
+    },
+    "imparfait": {
+      "je": "claquais",
+      "tu": "claquais",
+      "il": "claquait",
+      "nous": "claquions",
+      "vous": "claquiez",
+      "ils": "claquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais claqué",
+      "tu": "avais claqué",
+      "il": "avait claqué",
+      "nous": "avions claqué",
+      "vous": "aviez claqué",
+      "ils": "avaient claqué"
+    },
+    "passé_simple": {
+      "je": "claquai",
+      "tu": "claquas",
+      "il": "claqua",
+      "nous": "claquâmes",
+      "vous": "claquâtes",
+      "ils": "claquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus claqué",
+      "tu": "eus claqué",
+      "il": "eut claqué",
+      "nous": "eûmes claqué",
+      "vous": "eûtes claqué",
+      "ils": "eurent claqué"
+    },
+    "futur_simple": {
+      "je": "claquerai",
+      "tu": "claqueras",
+      "il": "claquera",
+      "nous": "claquerons",
+      "vous": "claquerez",
+      "ils": "claqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai claqué",
+      "tu": "auras claqué",
+      "il": "aura claqué",
+      "nous": "aurons claqué",
+      "vous": "aurez claqué",
+      "ils": "auront claqué"
+    },
+    "subjonctif_présent": {
+      "je": "claque",
+      "tu": "claques",
+      "il": "claque",
+      "nous": "claquions",
+      "vous": "claquiez",
+      "ils": "claquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie claqué",
+      "tu": "aies claqué",
+      "il": "ait claqué",
+      "nous": "ayons claqué",
+      "vous": "ayez claqué",
+      "ils": "aient claqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "claquasse",
+      "tu": "claquasses",
+      "il": "claquât",
+      "nous": "claquassions",
+      "vous": "claquassiez",
+      "ils": "claquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse claqué",
+      "tu": "eusses claqué",
+      "il": "eût claqué",
+      "nous": "eussions claqué",
+      "vous": "eussiez claqué",
+      "ils": "eussent claqué"
+    },
+    "conditionnel_présent": {
+      "je": "claquerais",
+      "tu": "claquerais",
+      "il": "claquerait",
+      "nous": "claquerions",
+      "vous": "claqueriez",
+      "ils": "claqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais claqué",
+      "tu": "aurais claqué",
+      "il": "aurait claqué",
+      "nous": "aurions claqué",
+      "vous": "auriez claqué",
+      "ils": "auraient claqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse claqué",
+      "tu": "eusses claqué",
+      "il": "eût claqué",
+      "nous": "eussions claqué",
+      "vous": "eussiez claqué",
+      "ils": "eussent claqué"
+    },
+    "translation": "dać",
+    "group": 1
+  },
+  {
+    "infinitive": "clarifier",
+    "présent": {
+      "je": "clarifie",
+      "tu": "clarifies",
+      "il": "clarifie",
+      "nous": "clarifions",
+      "vous": "clarifiez",
+      "ils": "clarifient"
+    },
+    "passé_composé": {
+      "je": "ai clarifié",
+      "tu": "as clarifié",
+      "il": "a clarifié",
+      "nous": "avons clarifié",
+      "vous": "avez clarifié",
+      "ils": "ont clarifié"
+    },
+    "imparfait": {
+      "je": "clarifiais",
+      "tu": "clarifiais",
+      "il": "clarifiait",
+      "nous": "clarifiions",
+      "vous": "clarifiiez",
+      "ils": "clarifiaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais clarifié",
+      "tu": "avais clarifié",
+      "il": "avait clarifié",
+      "nous": "avions clarifié",
+      "vous": "aviez clarifié",
+      "ils": "avaient clarifié"
+    },
+    "passé_simple": {
+      "je": "clarifiai",
+      "tu": "clarifias",
+      "il": "clarifia",
+      "nous": "clarifiâmes",
+      "vous": "clarifiâtes",
+      "ils": "clarifièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus clarifié",
+      "tu": "eus clarifié",
+      "il": "eut clarifié",
+      "nous": "eûmes clarifié",
+      "vous": "eûtes clarifié",
+      "ils": "eurent clarifié"
+    },
+    "futur_simple": {
+      "je": "clarifierai",
+      "tu": "clarifieras",
+      "il": "clarifiera",
+      "nous": "clarifierons",
+      "vous": "clarifierez",
+      "ils": "clarifieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai clarifié",
+      "tu": "auras clarifié",
+      "il": "aura clarifié",
+      "nous": "aurons clarifié",
+      "vous": "aurez clarifié",
+      "ils": "auront clarifié"
+    },
+    "subjonctif_présent": {
+      "je": "clarifie",
+      "tu": "clarifies",
+      "il": "clarifie",
+      "nous": "clarifiions",
+      "vous": "clarifiiez",
+      "ils": "clarifient"
+    },
+    "subjonctif_passé": {
+      "je": "aie clarifié",
+      "tu": "aies clarifié",
+      "il": "ait clarifié",
+      "nous": "ayons clarifié",
+      "vous": "ayez clarifié",
+      "ils": "aient clarifié"
+    },
+    "subjonctif_imparfait": {
+      "je": "clarifiasse",
+      "tu": "clarifiasses",
+      "il": "clarifiât",
+      "nous": "clarifiassions",
+      "vous": "clarifiassiez",
+      "ils": "clarifiassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse clarifié",
+      "tu": "eusses clarifié",
+      "il": "eût clarifié",
+      "nous": "eussions clarifié",
+      "vous": "eussiez clarifié",
+      "ils": "eussent clarifié"
+    },
+    "conditionnel_présent": {
+      "je": "clarifierais",
+      "tu": "clarifierais",
+      "il": "clarifierait",
+      "nous": "clarifierions",
+      "vous": "clarifieriez",
+      "ils": "clarifieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais clarifié",
+      "tu": "aurais clarifié",
+      "il": "aurait clarifié",
+      "nous": "aurions clarifié",
+      "vous": "auriez clarifié",
+      "ils": "auraient clarifié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse clarifié",
+      "tu": "eusses clarifié",
+      "il": "eût clarifié",
+      "nous": "eussions clarifié",
+      "vous": "eussiez clarifié",
+      "ils": "eussent clarifié"
+    },
+    "translation": "wyjaśniać",
+    "group": 1
+  },
+  {
+    "infinitive": "classer",
+    "présent": {
+      "je": "classe",
+      "tu": "classes",
+      "il": "classe",
+      "nous": "classons",
+      "vous": "classez",
+      "ils": "classent"
+    },
+    "passé_composé": {
+      "je": "ai classé",
+      "tu": "as classé",
+      "il": "a classé",
+      "nous": "avons classé",
+      "vous": "avez classé",
+      "ils": "ont classé"
+    },
+    "imparfait": {
+      "je": "classais",
+      "tu": "classais",
+      "il": "classait",
+      "nous": "classions",
+      "vous": "classiez",
+      "ils": "classaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais classé",
+      "tu": "avais classé",
+      "il": "avait classé",
+      "nous": "avions classé",
+      "vous": "aviez classé",
+      "ils": "avaient classé"
+    },
+    "passé_simple": {
+      "je": "classai",
+      "tu": "classas",
+      "il": "classa",
+      "nous": "classâmes",
+      "vous": "classâtes",
+      "ils": "classèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus classé",
+      "tu": "eus classé",
+      "il": "eut classé",
+      "nous": "eûmes classé",
+      "vous": "eûtes classé",
+      "ils": "eurent classé"
+    },
+    "futur_simple": {
+      "je": "classerai",
+      "tu": "classeras",
+      "il": "classera",
+      "nous": "classerons",
+      "vous": "classerez",
+      "ils": "classeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai classé",
+      "tu": "auras classé",
+      "il": "aura classé",
+      "nous": "aurons classé",
+      "vous": "aurez classé",
+      "ils": "auront classé"
+    },
+    "subjonctif_présent": {
+      "je": "classe",
+      "tu": "classes",
+      "il": "classe",
+      "nous": "classions",
+      "vous": "classiez",
+      "ils": "classent"
+    },
+    "subjonctif_passé": {
+      "je": "aie classé",
+      "tu": "aies classé",
+      "il": "ait classé",
+      "nous": "ayons classé",
+      "vous": "ayez classé",
+      "ils": "aient classé"
+    },
+    "subjonctif_imparfait": {
+      "je": "classasse",
+      "tu": "classasses",
+      "il": "classât",
+      "nous": "classassions",
+      "vous": "classassiez",
+      "ils": "classassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse classé",
+      "tu": "eusses classé",
+      "il": "eût classé",
+      "nous": "eussions classé",
+      "vous": "eussiez classé",
+      "ils": "eussent classé"
+    },
+    "conditionnel_présent": {
+      "je": "classerais",
+      "tu": "classerais",
+      "il": "classerait",
+      "nous": "classerions",
+      "vous": "classeriez",
+      "ils": "classeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais classé",
+      "tu": "aurais classé",
+      "il": "aurait classé",
+      "nous": "aurions classé",
+      "vous": "auriez classé",
+      "ils": "auraient classé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse classé",
+      "tu": "eusses classé",
+      "il": "eût classé",
+      "nous": "eussions classé",
+      "vous": "eussiez classé",
+      "ils": "eussent classé"
+    },
+    "translation": "porządkować",
+    "group": 1
+  },
+  {
+    "infinitive": "clignoter",
+    "présent": {
+      "je": "clignote",
+      "tu": "clignotes",
+      "il": "clignote",
+      "nous": "clignotons",
+      "vous": "clignotez",
+      "ils": "clignotent"
+    },
+    "passé_composé": {
+      "je": "ai clignoté",
+      "tu": "as clignoté",
+      "il": "a clignoté",
+      "nous": "avons clignoté",
+      "vous": "avez clignoté",
+      "ils": "ont clignoté"
+    },
+    "imparfait": {
+      "je": "clignotais",
+      "tu": "clignotais",
+      "il": "clignotait",
+      "nous": "clignotions",
+      "vous": "clignotiez",
+      "ils": "clignotaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais clignoté",
+      "tu": "avais clignoté",
+      "il": "avait clignoté",
+      "nous": "avions clignoté",
+      "vous": "aviez clignoté",
+      "ils": "avaient clignoté"
+    },
+    "passé_simple": {
+      "je": "clignotai",
+      "tu": "clignotas",
+      "il": "clignota",
+      "nous": "clignotâmes",
+      "vous": "clignotâtes",
+      "ils": "clignotèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus clignoté",
+      "tu": "eus clignoté",
+      "il": "eut clignoté",
+      "nous": "eûmes clignoté",
+      "vous": "eûtes clignoté",
+      "ils": "eurent clignoté"
+    },
+    "futur_simple": {
+      "je": "clignoterai",
+      "tu": "clignoteras",
+      "il": "clignotera",
+      "nous": "clignoterons",
+      "vous": "clignoterez",
+      "ils": "clignoteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai clignoté",
+      "tu": "auras clignoté",
+      "il": "aura clignoté",
+      "nous": "aurons clignoté",
+      "vous": "aurez clignoté",
+      "ils": "auront clignoté"
+    },
+    "subjonctif_présent": {
+      "je": "clignote",
+      "tu": "clignotes",
+      "il": "clignote",
+      "nous": "clignotions",
+      "vous": "clignotiez",
+      "ils": "clignotent"
+    },
+    "subjonctif_passé": {
+      "je": "aie clignoté",
+      "tu": "aies clignoté",
+      "il": "ait clignoté",
+      "nous": "ayons clignoté",
+      "vous": "ayez clignoté",
+      "ils": "aient clignoté"
+    },
+    "subjonctif_imparfait": {
+      "je": "clignotasse",
+      "tu": "clignotasses",
+      "il": "clignotât",
+      "nous": "clignotassions",
+      "vous": "clignotassiez",
+      "ils": "clignotassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse clignoté",
+      "tu": "eusses clignoté",
+      "il": "eût clignoté",
+      "nous": "eussions clignoté",
+      "vous": "eussiez clignoté",
+      "ils": "eussent clignoté"
+    },
+    "conditionnel_présent": {
+      "je": "clignoterais",
+      "tu": "clignoterais",
+      "il": "clignoterait",
+      "nous": "clignoterions",
+      "vous": "clignoteriez",
+      "ils": "clignoteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais clignoté",
+      "tu": "aurais clignoté",
+      "il": "aurait clignoté",
+      "nous": "aurions clignoté",
+      "vous": "auriez clignoté",
+      "ils": "auraient clignoté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse clignoté",
+      "tu": "eusses clignoté",
+      "il": "eût clignoté",
+      "nous": "eussions clignoté",
+      "vous": "eussiez clignoté",
+      "ils": "eussent clignoté"
+    },
+    "translation": "mrugać",
+    "group": 1
+  },
+  {
+    "infinitive": "cliquer",
+    "présent": {
+      "je": "clique",
+      "tu": "cliques",
+      "il": "clique",
+      "nous": "cliquons",
+      "vous": "cliquez",
+      "ils": "cliquent"
+    },
+    "passé_composé": {
+      "je": "ai cliqué",
+      "tu": "as cliqué",
+      "il": "a cliqué",
+      "nous": "avons cliqué",
+      "vous": "avez cliqué",
+      "ils": "ont cliqué"
+    },
+    "imparfait": {
+      "je": "cliquais",
+      "tu": "cliquais",
+      "il": "cliquait",
+      "nous": "cliquions",
+      "vous": "cliquiez",
+      "ils": "cliquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais cliqué",
+      "tu": "avais cliqué",
+      "il": "avait cliqué",
+      "nous": "avions cliqué",
+      "vous": "aviez cliqué",
+      "ils": "avaient cliqué"
+    },
+    "passé_simple": {
+      "je": "cliquai",
+      "tu": "cliquas",
+      "il": "cliqua",
+      "nous": "cliquâmes",
+      "vous": "cliquâtes",
+      "ils": "cliquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus cliqué",
+      "tu": "eus cliqué",
+      "il": "eut cliqué",
+      "nous": "eûmes cliqué",
+      "vous": "eûtes cliqué",
+      "ils": "eurent cliqué"
+    },
+    "futur_simple": {
+      "je": "cliquerai",
+      "tu": "cliqueras",
+      "il": "cliquera",
+      "nous": "cliquerons",
+      "vous": "cliquerez",
+      "ils": "cliqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai cliqué",
+      "tu": "auras cliqué",
+      "il": "aura cliqué",
+      "nous": "aurons cliqué",
+      "vous": "aurez cliqué",
+      "ils": "auront cliqué"
+    },
+    "subjonctif_présent": {
+      "je": "clique",
+      "tu": "cliques",
+      "il": "clique",
+      "nous": "cliquions",
+      "vous": "cliquiez",
+      "ils": "cliquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie cliqué",
+      "tu": "aies cliqué",
+      "il": "ait cliqué",
+      "nous": "ayons cliqué",
+      "vous": "ayez cliqué",
+      "ils": "aient cliqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "cliquasse",
+      "tu": "cliquasses",
+      "il": "cliquât",
+      "nous": "cliquassions",
+      "vous": "cliquassiez",
+      "ils": "cliquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse cliqué",
+      "tu": "eusses cliqué",
+      "il": "eût cliqué",
+      "nous": "eussions cliqué",
+      "vous": "eussiez cliqué",
+      "ils": "eussent cliqué"
+    },
+    "conditionnel_présent": {
+      "je": "cliquerais",
+      "tu": "cliquerais",
+      "il": "cliquerait",
+      "nous": "cliquerions",
+      "vous": "cliqueriez",
+      "ils": "cliqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais cliqué",
+      "tu": "aurais cliqué",
+      "il": "aurait cliqué",
+      "nous": "aurions cliqué",
+      "vous": "auriez cliqué",
+      "ils": "auraient cliqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse cliqué",
+      "tu": "eusses cliqué",
+      "il": "eût cliqué",
+      "nous": "eussions cliqué",
+      "vous": "eussiez cliqué",
+      "ils": "eussent cliqué"
+    },
+    "translation": "klikać",
+    "group": 1
+  }
+]

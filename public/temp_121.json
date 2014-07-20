@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "maîtriser",
+    "présent": {
+      "je": "maîtrise",
+      "tu": "maîtrises",
+      "il": "maîtrise",
+      "nous": "maîtrisons",
+      "vous": "maîtrisez",
+      "ils": "maîtrisent"
+    },
+    "passé_composé": {
+      "je": "ai maîtrisé",
+      "tu": "as maîtrisé",
+      "il": "a maîtrisé",
+      "nous": "avons maîtrisé",
+      "vous": "avez maîtrisé",
+      "ils": "ont maîtrisé"
+    },
+    "imparfait": {
+      "je": "maîtrisais",
+      "tu": "maîtrisais",
+      "il": "maîtrisait",
+      "nous": "maîtrisions",
+      "vous": "maîtrisiez",
+      "ils": "maîtrisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais maîtrisé",
+      "tu": "avais maîtrisé",
+      "il": "avait maîtrisé",
+      "nous": "avions maîtrisé",
+      "vous": "aviez maîtrisé",
+      "ils": "avaient maîtrisé"
+    },
+    "passé_simple": {
+      "je": "maîtrisai",
+      "tu": "maîtrisas",
+      "il": "maîtrisa",
+      "nous": "maîtrisâmes",
+      "vous": "maîtrisâtes",
+      "ils": "maîtrisèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus maîtrisé",
+      "tu": "eus maîtrisé",
+      "il": "eut maîtrisé",
+      "nous": "eûmes maîtrisé",
+      "vous": "eûtes maîtrisé",
+      "ils": "eurent maîtrisé"
+    },
+    "futur_simple": {
+      "je": "maîtriserai",
+      "tu": "maîtriseras",
+      "il": "maîtrisera",
+      "nous": "maîtriserons",
+      "vous": "maîtriserez",
+      "ils": "maîtriseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai maîtrisé",
+      "tu": "auras maîtrisé",
+      "il": "aura maîtrisé",
+      "nous": "aurons maîtrisé",
+      "vous": "aurez maîtrisé",
+      "ils": "auront maîtrisé"
+    },
+    "subjonctif_présent": {
+      "je": "maîtrise",
+      "tu": "maîtrises",
+      "il": "maîtrise",
+      "nous": "maîtrisions",
+      "vous": "maîtrisiez",
+      "ils": "maîtrisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie maîtrisé",
+      "tu": "aies maîtrisé",
+      "il": "ait maîtrisé",
+      "nous": "ayons maîtrisé",
+      "vous": "ayez maîtrisé",
+      "ils": "aient maîtrisé"
+    },
+    "subjonctif_imparfait": {
+      "je": "maîtrisasse",
+      "tu": "maîtrisasses",
+      "il": "maîtrisât",
+      "nous": "maîtrisassions",
+      "vous": "maîtrisassiez",
+      "ils": "maîtrisassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse maîtrisé",
+      "tu": "eusses maîtrisé",
+      "il": "eût maîtrisé",
+      "nous": "eussions maîtrisé",
+      "vous": "eussiez maîtrisé",
+      "ils": "eussent maîtrisé"
+    },
+    "conditionnel_présent": {
+      "je": "maîtriserais",
+      "tu": "maîtriserais",
+      "il": "maîtriserait",
+      "nous": "maîtriserions",
+      "vous": "maîtriseriez",
+      "ils": "maîtriseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais maîtrisé",
+      "tu": "aurais maîtrisé",
+      "il": "aurait maîtrisé",
+      "nous": "aurions maîtrisé",
+      "vous": "auriez maîtrisé",
+      "ils": "auraient maîtrisé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse maîtrisé",
+      "tu": "eusses maîtrisé",
+      "il": "eût maîtrisé",
+      "nous": "eussions maîtrisé",
+      "vous": "eussiez maîtrisé",
+      "ils": "eussent maîtrisé"
+    },
+    "translation": "zapanować",
+    "group": 1
+  },
+  {
+    "infinitive": "manager",
+    "présent": {
+      "je": "manage",
+      "tu": "manages",
+      "il": "manage",
+      "nous": "manageons",
+      "vous": "managez",
+      "ils": "managent"
+    },
+    "passé_composé": {
+      "je": "ai managé",
+      "tu": "as managé",
+      "il": "a managé",
+      "nous": "avons managé",
+      "vous": "avez managé",
+      "ils": "ont managé"
+    },
+    "imparfait": {
+      "je": "manageais",
+      "tu": "manageais",
+      "il": "manageait",
+      "nous": "managions",
+      "vous": "managiez",
+      "ils": "manageaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais managé",
+      "tu": "avais managé",
+      "il": "avait managé",
+      "nous": "avions managé",
+      "vous": "aviez managé",
+      "ils": "avaient managé"
+    },
+    "passé_simple": {
+      "je": "manageai",
+      "tu": "manageas",
+      "il": "managea",
+      "nous": "manageâmes",
+      "vous": "manageâtes",
+      "ils": "managèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus managé",
+      "tu": "eus managé",
+      "il": "eut managé",
+      "nous": "eûmes managé",
+      "vous": "eûtes managé",
+      "ils": "eurent managé"
+    },
+    "futur_simple": {
+      "je": "managerai",
+      "tu": "manageras",
+      "il": "managera",
+      "nous": "managerons",
+      "vous": "managerez",
+      "ils": "manageront"
+    },
+    "futur_antérieur": {
+      "je": "aurai managé",
+      "tu": "auras managé",
+      "il": "aura managé",
+      "nous": "aurons managé",
+      "vous": "aurez managé",
+      "ils": "auront managé"
+    },
+    "subjonctif_présent": {
+      "je": "manage",
+      "tu": "manages",
+      "il": "manage",
+      "nous": "managions",
+      "vous": "managiez",
+      "ils": "managent"
+    },
+    "subjonctif_passé": {
+      "je": "aie managé",
+      "tu": "aies managé",
+      "il": "ait managé",
+      "nous": "ayons managé",
+      "vous": "ayez managé",
+      "ils": "aient managé"
+    },
+    "subjonctif_imparfait": {
+      "je": "manageasse",
+      "tu": "manageasses",
+      "il": "manageât",
+      "nous": "manageassions",
+      "vous": "manageassiez",
+      "ils": "manageassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse managé",
+      "tu": "eusses managé",
+      "il": "eût managé",
+      "nous": "eussions managé",
+      "vous": "eussiez managé",
+      "ils": "eussent managé"
+    },
+    "conditionnel_présent": {
+      "je": "managerais",
+      "tu": "managerais",
+      "il": "managerait",
+      "nous": "managerions",
+      "vous": "manageriez",
+      "ils": "manageraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais managé",
+      "tu": "aurais managé",
+      "il": "aurait managé",
+      "nous": "aurions managé",
+      "vous": "auriez managé",
+      "ils": "auraient managé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse managé",
+      "tu": "eusses managé",
+      "il": "eût managé",
+      "nous": "eussions managé",
+      "vous": "eussiez managé",
+      "ils": "eussent managé"
+    },
+    "translation": "manager",
+    "group": 1
+  },
+  {
+    "infinitive": "mander",
+    "présent": {
+      "je": "mande",
+      "tu": "mandes",
+      "il": "mande",
+      "nous": "mandons",
+      "vous": "mandez",
+      "ils": "mandent"
+    },
+    "passé_composé": {
+      "je": "ai mandé",
+      "tu": "as mandé",
+      "il": "a mandé",
+      "nous": "avons mandé",
+      "vous": "avez mandé",
+      "ils": "ont mandé"
+    },
+    "imparfait": {
+      "je": "mandais",
+      "tu": "mandais",
+      "il": "mandait",
+      "nous": "mandions",
+      "vous": "mandiez",
+      "ils": "mandaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais mandé",
+      "tu": "avais mandé",
+      "il": "avait mandé",
+      "nous": "avions mandé",
+      "vous": "aviez mandé",
+      "ils": "avaient mandé"
+    },
+    "passé_simple": {
+      "je": "mandai",
+      "tu": "mandas",
+      "il": "manda",
+      "nous": "mandâmes",
+      "vous": "mandâtes",
+      "ils": "mandèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus mandé",
+      "tu": "eus mandé",
+      "il": "eut mandé",
+      "nous": "eûmes mandé",
+      "vous": "eûtes mandé",
+      "ils": "eurent mandé"
+    },
+    "futur_simple": {
+      "je": "manderai",
+      "tu": "manderas",
+      "il": "mandera",
+      "nous": "manderons",
+      "vous": "manderez",
+      "ils": "manderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai mandé",
+      "tu": "auras mandé",
+      "il": "aura mandé",
+      "nous": "aurons mandé",
+      "vous": "aurez mandé",
+      "ils": "auront mandé"
+    },
+    "subjonctif_présent": {
+      "je": "mande",
+      "tu": "mandes",
+      "il": "mande",
+      "nous": "mandions",
+      "vous": "mandiez",
+      "ils": "mandent"
+    },
+    "subjonctif_passé": {
+      "je": "aie mandé",
+      "tu": "aies mandé",
+      "il": "ait mandé",
+      "nous": "ayons mandé",
+      "vous": "ayez mandé",
+      "ils": "aient mandé"
+    },
+    "subjonctif_imparfait": {
+      "je": "mandasse",
+      "tu": "mandasses",
+      "il": "mandât",
+      "nous": "mandassions",
+      "vous": "mandassiez",
+      "ils": "mandassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse mandé",
+      "tu": "eusses mandé",
+      "il": "eût mandé",
+      "nous": "eussions mandé",
+      "vous": "eussiez mandé",
+      "ils": "eussent mandé"
+    },
+    "conditionnel_présent": {
+      "je": "manderais",
+      "tu": "manderais",
+      "il": "manderait",
+      "nous": "manderions",
+      "vous": "manderiez",
+      "ils": "manderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais mandé",
+      "tu": "aurais mandé",
+      "il": "aurait mandé",
+      "nous": "aurions mandé",
+      "vous": "auriez mandé",
+      "ils": "auraient mandé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse mandé",
+      "tu": "eusses mandé",
+      "il": "eût mandé",
+      "nous": "eussions mandé",
+      "vous": "eussiez mandé",
+      "ils": "eussent mandé"
+    },
+    "translation": "mander",
+    "group": 1
+  },
+  {
+    "infinitive": "manger",
+    "présent": {
+      "je": "mange",
+      "tu": "manges",
+      "il": "mange",
+      "nous": "mangeons",
+      "vous": "mangez",
+      "ils": "mangent"
+    },
+    "passé_composé": {
+      "je": "ai mangé",
+      "tu": "as mangé",
+      "il": "a mangé",
+      "nous": "avons mangé",
+      "vous": "avez mangé",
+      "ils": "ont mangé"
+    },
+    "imparfait": {
+      "je": "mangeais",
+      "tu": "mangeais",
+      "il": "mangeait",
+      "nous": "mangions",
+      "vous": "mangiez",
+      "ils": "mangeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais mangé",
+      "tu": "avais mangé",
+      "il": "avait mangé",
+      "nous": "avions mangé",
+      "vous": "aviez mangé",
+      "ils": "avaient mangé"
+    },
+    "passé_simple": {
+      "je": "mangeai",
+      "tu": "mangeas",
+      "il": "mangea",
+      "nous": "mangeâmes",
+      "vous": "mangeâtes",
+      "ils": "mangèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus mangé",
+      "tu": "eus mangé",
+      "il": "eut mangé",
+      "nous": "eûmes mangé",
+      "vous": "eûtes mangé",
+      "ils": "eurent mangé"
+    },
+    "futur_simple": {
+      "je": "mangerai",
+      "tu": "mangeras",
+      "il": "mangera",
+      "nous": "mangerons",
+      "vous": "mangerez",
+      "ils": "mangeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai mangé",
+      "tu": "auras mangé",
+      "il": "aura mangé",
+      "nous": "aurons mangé",
+      "vous": "aurez mangé",
+      "ils": "auront mangé"
+    },
+    "subjonctif_présent": {
+      "je": "mange",
+      "tu": "manges",
+      "il": "mange",
+      "nous": "mangions",
+      "vous": "mangiez",
+      "ils": "mangent"
+    },
+    "subjonctif_passé": {
+      "je": "aie mangé",
+      "tu": "aies mangé",
+      "il": "ait mangé",
+      "nous": "ayons mangé",
+      "vous": "ayez mangé",
+      "ils": "aient mangé"
+    },
+    "subjonctif_imparfait": {
+      "je": "mangeasse",
+      "tu": "mangeasses",
+      "il": "mangeât",
+      "nous": "mangeassions",
+      "vous": "mangeassiez",
+      "ils": "mangeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse mangé",
+      "tu": "eusses mangé",
+      "il": "eût mangé",
+      "nous": "eussions mangé",
+      "vous": "eussiez mangé",
+      "ils": "eussent mangé"
+    },
+    "conditionnel_présent": {
+      "je": "mangerais",
+      "tu": "mangerais",
+      "il": "mangerait",
+      "nous": "mangerions",
+      "vous": "mangeriez",
+      "ils": "mangeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais mangé",
+      "tu": "aurais mangé",
+      "il": "aurait mangé",
+      "nous": "aurions mangé",
+      "vous": "auriez mangé",
+      "ils": "auraient mangé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse mangé",
+      "tu": "eusses mangé",
+      "il": "eût mangé",
+      "nous": "eussions mangé",
+      "vous": "eussiez mangé",
+      "ils": "eussent mangé"
+    },
+    "translation": "jeść",
+    "group": 1
+  },
+  {
+    "infinitive": "manier",
+    "présent": {
+      "je": "manie",
+      "tu": "manies",
+      "il": "manie",
+      "nous": "manions",
+      "vous": "maniez",
+      "ils": "manient"
+    },
+    "passé_composé": {
+      "je": "ai manié",
+      "tu": "as manié",
+      "il": "a manié",
+      "nous": "avons manié",
+      "vous": "avez manié",
+      "ils": "ont manié"
+    },
+    "imparfait": {
+      "je": "maniais",
+      "tu": "maniais",
+      "il": "maniait",
+      "nous": "maniions",
+      "vous": "maniiez",
+      "ils": "maniaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais manié",
+      "tu": "avais manié",
+      "il": "avait manié",
+      "nous": "avions manié",
+      "vous": "aviez manié",
+      "ils": "avaient manié"
+    },
+    "passé_simple": {
+      "je": "maniai",
+      "tu": "manias",
+      "il": "mania",
+      "nous": "maniâmes",
+      "vous": "maniâtes",
+      "ils": "manièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus manié",
+      "tu": "eus manié",
+      "il": "eut manié",
+      "nous": "eûmes manié",
+      "vous": "eûtes manié",
+      "ils": "eurent manié"
+    },
+    "futur_simple": {
+      "je": "manierai",
+      "tu": "manieras",
+      "il": "maniera",
+      "nous": "manierons",
+      "vous": "manierez",
+      "ils": "manieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai manié",
+      "tu": "auras manié",
+      "il": "aura manié",
+      "nous": "aurons manié",
+      "vous": "aurez manié",
+      "ils": "auront manié"
+    },
+    "subjonctif_présent": {
+      "je": "manie",
+      "tu": "manies",
+      "il": "manie",
+      "nous": "maniions",
+      "vous": "maniiez",
+      "ils": "manient"
+    },
+    "subjonctif_passé": {
+      "je": "aie manié",
+      "tu": "aies manié",
+      "il": "ait manié",
+      "nous": "ayons manié",
+      "vous": "ayez manié",
+      "ils": "aient manié"
+    },
+    "subjonctif_imparfait": {
+      "je": "maniasse",
+      "tu": "maniasses",
+      "il": "maniât",
+      "nous": "maniassions",
+      "vous": "maniassiez",
+      "ils": "maniassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse manié",
+      "tu": "eusses manié",
+      "il": "eût manié",
+      "nous": "eussions manié",
+      "vous": "eussiez manié",
+      "ils": "eussent manié"
+    },
+    "conditionnel_présent": {
+      "je": "manierais",
+      "tu": "manierais",
+      "il": "manierait",
+      "nous": "manierions",
+      "vous": "manieriez",
+      "ils": "manieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais manié",
+      "tu": "aurais manié",
+      "il": "aurait manié",
+      "nous": "aurions manié",
+      "vous": "auriez manié",
+      "ils": "auraient manié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse manié",
+      "tu": "eusses manié",
+      "il": "eût manié",
+      "nous": "eussions manié",
+      "vous": "eussiez manié",
+      "ils": "eussent manié"
+    },
+    "translation": "posługiwać",
+    "group": 1
+  },
+  {
+    "infinitive": "manifester",
+    "présent": {
+      "je": "manifeste",
+      "tu": "manifestes",
+      "il": "manifeste",
+      "nous": "manifestons",
+      "vous": "manifestez",
+      "ils": "manifestent"
+    },
+    "passé_composé": {
+      "je": "ai manifesté",
+      "tu": "as manifesté",
+      "il": "a manifesté",
+      "nous": "avons manifesté",
+      "vous": "avez manifesté",
+      "ils": "ont manifesté"
+    },
+    "imparfait": {
+      "je": "manifestais",
+      "tu": "manifestais",
+      "il": "manifestait",
+      "nous": "manifestions",
+      "vous": "manifestiez",
+      "ils": "manifestaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais manifesté",
+      "tu": "avais manifesté",
+      "il": "avait manifesté",
+      "nous": "avions manifesté",
+      "vous": "aviez manifesté",
+      "ils": "avaient manifesté"
+    },
+    "passé_simple": {
+      "je": "manifestai",
+      "tu": "manifestas",
+      "il": "manifesta",
+      "nous": "manifestâmes",
+      "vous": "manifestâtes",
+      "ils": "manifestèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus manifesté",
+      "tu": "eus manifesté",
+      "il": "eut manifesté",
+      "nous": "eûmes manifesté",
+      "vous": "eûtes manifesté",
+      "ils": "eurent manifesté"
+    },
+    "futur_simple": {
+      "je": "manifesterai",
+      "tu": "manifesteras",
+      "il": "manifestera",
+      "nous": "manifesterons",
+      "vous": "manifesterez",
+      "ils": "manifesteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai manifesté",
+      "tu": "auras manifesté",
+      "il": "aura manifesté",
+      "nous": "aurons manifesté",
+      "vous": "aurez manifesté",
+      "ils": "auront manifesté"
+    },
+    "subjonctif_présent": {
+      "je": "manifeste",
+      "tu": "manifestes",
+      "il": "manifeste",
+      "nous": "manifestions",
+      "vous": "manifestiez",
+      "ils": "manifestent"
+    },
+    "subjonctif_passé": {
+      "je": "aie manifesté",
+      "tu": "aies manifesté",
+      "il": "ait manifesté",
+      "nous": "ayons manifesté",
+      "vous": "ayez manifesté",
+      "ils": "aient manifesté"
+    },
+    "subjonctif_imparfait": {
+      "je": "manifestasse",
+      "tu": "manifestasses",
+      "il": "manifestât",
+      "nous": "manifestassions",
+      "vous": "manifestassiez",
+      "ils": "manifestassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse manifesté",
+      "tu": "eusses manifesté",
+      "il": "eût manifesté",
+      "nous": "eussions manifesté",
+      "vous": "eussiez manifesté",
+      "ils": "eussent manifesté"
+    },
+    "conditionnel_présent": {
+      "je": "manifesterais",
+      "tu": "manifesterais",
+      "il": "manifesterait",
+      "nous": "manifesterions",
+      "vous": "manifesteriez",
+      "ils": "manifesteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais manifesté",
+      "tu": "aurais manifesté",
+      "il": "aurait manifesté",
+      "nous": "aurions manifesté",
+      "vous": "auriez manifesté",
+      "ils": "auraient manifesté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse manifesté",
+      "tu": "eusses manifesté",
+      "il": "eût manifesté",
+      "nous": "eussions manifesté",
+      "vous": "eussiez manifesté",
+      "ils": "eussent manifesté"
+    },
+    "translation": "ukazywać",
+    "group": 1
+  },
+  {
+    "infinitive": "manipuler",
+    "présent": {
+      "je": "manipule",
+      "tu": "manipules",
+      "il": "manipule",
+      "nous": "manipulons",
+      "vous": "manipulez",
+      "ils": "manipulent"
+    },
+    "passé_composé": {
+      "je": "ai manipulé",
+      "tu": "as manipulé",
+      "il": "a manipulé",
+      "nous": "avons manipulé",
+      "vous": "avez manipulé",
+      "ils": "ont manipulé"
+    },
+    "imparfait": {
+      "je": "manipulais",
+      "tu": "manipulais",
+      "il": "manipulait",
+      "nous": "manipulions",
+      "vous": "manipuliez",
+      "ils": "manipulaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais manipulé",
+      "tu": "avais manipulé",
+      "il": "avait manipulé",
+      "nous": "avions manipulé",
+      "vous": "aviez manipulé",
+      "ils": "avaient manipulé"
+    },
+    "passé_simple": {
+      "je": "manipulai",
+      "tu": "manipulas",
+      "il": "manipula",
+      "nous": "manipulâmes",
+      "vous": "manipulâtes",
+      "ils": "manipulèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus manipulé",
+      "tu": "eus manipulé",
+      "il": "eut manipulé",
+      "nous": "eûmes manipulé",
+      "vous": "eûtes manipulé",
+      "ils": "eurent manipulé"
+    },
+    "futur_simple": {
+      "je": "manipulerai",
+      "tu": "manipuleras",
+      "il": "manipulera",
+      "nous": "manipulerons",
+      "vous": "manipulerez",
+      "ils": "manipuleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai manipulé",
+      "tu": "auras manipulé",
+      "il": "aura manipulé",
+      "nous": "aurons manipulé",
+      "vous": "aurez manipulé",
+      "ils": "auront manipulé"
+    },
+    "subjonctif_présent": {
+      "je": "manipule",
+      "tu": "manipules",
+      "il": "manipule",
+      "nous": "manipulions",
+      "vous": "manipuliez",
+      "ils": "manipulent"
+    },
+    "subjonctif_passé": {
+      "je": "aie manipulé",
+      "tu": "aies manipulé",
+      "il": "ait manipulé",
+      "nous": "ayons manipulé",
+      "vous": "ayez manipulé",
+      "ils": "aient manipulé"
+    },
+    "subjonctif_imparfait": {
+      "je": "manipulasse",
+      "tu": "manipulasses",
+      "il": "manipulât",
+      "nous": "manipulassions",
+      "vous": "manipulassiez",
+      "ils": "manipulassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse manipulé",
+      "tu": "eusses manipulé",
+      "il": "eût manipulé",
+      "nous": "eussions manipulé",
+      "vous": "eussiez manipulé",
+      "ils": "eussent manipulé"
+    },
+    "conditionnel_présent": {
+      "je": "manipulerais",
+      "tu": "manipulerais",
+      "il": "manipulerait",
+      "nous": "manipulerions",
+      "vous": "manipuleriez",
+      "ils": "manipuleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais manipulé",
+      "tu": "aurais manipulé",
+      "il": "aurait manipulé",
+      "nous": "aurions manipulé",
+      "vous": "auriez manipulé",
+      "ils": "auraient manipulé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse manipulé",
+      "tu": "eusses manipulé",
+      "il": "eût manipulé",
+      "nous": "eussions manipulé",
+      "vous": "eussiez manipulé",
+      "ils": "eussent manipulé"
+    },
+    "translation": "posługiwać",
+    "group": 1
+  },
+  {
+    "infinitive": "manquer",
+    "présent": {
+      "je": "manque",
+      "tu": "manques",
+      "il": "manque",
+      "nous": "manquons",
+      "vous": "manquez",
+      "ils": "manquent"
+    },
+    "passé_composé": {
+      "je": "ai manqué",
+      "tu": "as manqué",
+      "il": "a manqué",
+      "nous": "avons manqué",
+      "vous": "avez manqué",
+      "ils": "ont manqué"
+    },
+    "imparfait": {
+      "je": "manquais",
+      "tu": "manquais",
+      "il": "manquait",
+      "nous": "manquions",
+      "vous": "manquiez",
+      "ils": "manquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais manqué",
+      "tu": "avais manqué",
+      "il": "avait manqué",
+      "nous": "avions manqué",
+      "vous": "aviez manqué",
+      "ils": "avaient manqué"
+    },
+    "passé_simple": {
+      "je": "manquai",
+      "tu": "manquas",
+      "il": "manqua",
+      "nous": "manquâmes",
+      "vous": "manquâtes",
+      "ils": "manquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus manqué",
+      "tu": "eus manqué",
+      "il": "eut manqué",
+      "nous": "eûmes manqué",
+      "vous": "eûtes manqué",
+      "ils": "eurent manqué"
+    },
+    "futur_simple": {
+      "je": "manquerai",
+      "tu": "manqueras",
+      "il": "manquera",
+      "nous": "manquerons",
+      "vous": "manquerez",
+      "ils": "manqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai manqué",
+      "tu": "auras manqué",
+      "il": "aura manqué",
+      "nous": "aurons manqué",
+      "vous": "aurez manqué",
+      "ils": "auront manqué"
+    },
+    "subjonctif_présent": {
+      "je": "manque",
+      "tu": "manques",
+      "il": "manque",
+      "nous": "manquions",
+      "vous": "manquiez",
+      "ils": "manquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie manqué",
+      "tu": "aies manqué",
+      "il": "ait manqué",
+      "nous": "ayons manqué",
+      "vous": "ayez manqué",
+      "ils": "aient manqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "manquasse",
+      "tu": "manquasses",
+      "il": "manquât",
+      "nous": "manquassions",
+      "vous": "manquassiez",
+      "ils": "manquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse manqué",
+      "tu": "eusses manqué",
+      "il": "eût manqué",
+      "nous": "eussions manqué",
+      "vous": "eussiez manqué",
+      "ils": "eussent manqué"
+    },
+    "conditionnel_présent": {
+      "je": "manquerais",
+      "tu": "manquerais",
+      "il": "manquerait",
+      "nous": "manquerions",
+      "vous": "manqueriez",
+      "ils": "manqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais manqué",
+      "tu": "aurais manqué",
+      "il": "aurait manqué",
+      "nous": "aurions manqué",
+      "vous": "auriez manqué",
+      "ils": "auraient manqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse manqué",
+      "tu": "eusses manqué",
+      "il": "eût manqué",
+      "nous": "eussions manqué",
+      "vous": "eussiez manqué",
+      "ils": "eussent manqué"
+    },
+    "translation": "nie",
+    "group": 1
+  },
+  {
+    "infinitive": "maquiller",
+    "présent": {
+      "je": "maquille",
+      "tu": "maquilles",
+      "il": "maquille",
+      "nous": "maquillons",
+      "vous": "maquillez",
+      "ils": "maquillent"
+    },
+    "passé_composé": {
+      "je": "ai maquillé",
+      "tu": "as maquillé",
+      "il": "a maquillé",
+      "nous": "avons maquillé",
+      "vous": "avez maquillé",
+      "ils": "ont maquillé"
+    },
+    "imparfait": {
+      "je": "maquillais",
+      "tu": "maquillais",
+      "il": "maquillait",
+      "nous": "maquillions",
+      "vous": "maquilliez",
+      "ils": "maquillaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais maquillé",
+      "tu": "avais maquillé",
+      "il": "avait maquillé",
+      "nous": "avions maquillé",
+      "vous": "aviez maquillé",
+      "ils": "avaient maquillé"
+    },
+    "passé_simple": {
+      "je": "maquillai",
+      "tu": "maquillas",
+      "il": "maquilla",
+      "nous": "maquillâmes",
+      "vous": "maquillâtes",
+      "ils": "maquillèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus maquillé",
+      "tu": "eus maquillé",
+      "il": "eut maquillé",
+      "nous": "eûmes maquillé",
+      "vous": "eûtes maquillé",
+      "ils": "eurent maquillé"
+    },
+    "futur_simple": {
+      "je": "maquillerai",
+      "tu": "maquilleras",
+      "il": "maquillera",
+      "nous": "maquillerons",
+      "vous": "maquillerez",
+      "ils": "maquilleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai maquillé",
+      "tu": "auras maquillé",
+      "il": "aura maquillé",
+      "nous": "aurons maquillé",
+      "vous": "aurez maquillé",
+      "ils": "auront maquillé"
+    },
+    "subjonctif_présent": {
+      "je": "maquille",
+      "tu": "maquilles",
+      "il": "maquille",
+      "nous": "maquillions",
+      "vous": "maquilliez",
+      "ils": "maquillent"
+    },
+    "subjonctif_passé": {
+      "je": "aie maquillé",
+      "tu": "aies maquillé",
+      "il": "ait maquillé",
+      "nous": "ayons maquillé",
+      "vous": "ayez maquillé",
+      "ils": "aient maquillé"
+    },
+    "subjonctif_imparfait": {
+      "je": "maquillasse",
+      "tu": "maquillasses",
+      "il": "maquillât",
+      "nous": "maquillassions",
+      "vous": "maquillassiez",
+      "ils": "maquillassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse maquillé",
+      "tu": "eusses maquillé",
+      "il": "eût maquillé",
+      "nous": "eussions maquillé",
+      "vous": "eussiez maquillé",
+      "ils": "eussent maquillé"
+    },
+    "conditionnel_présent": {
+      "je": "maquillerais",
+      "tu": "maquillerais",
+      "il": "maquillerait",
+      "nous": "maquillerions",
+      "vous": "maquilleriez",
+      "ils": "maquilleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais maquillé",
+      "tu": "aurais maquillé",
+      "il": "aurait maquillé",
+      "nous": "aurions maquillé",
+      "vous": "auriez maquillé",
+      "ils": "auraient maquillé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse maquillé",
+      "tu": "eusses maquillé",
+      "il": "eût maquillé",
+      "nous": "eussions maquillé",
+      "vous": "eussiez maquillé",
+      "ils": "eussent maquillé"
+    },
+    "translation": "robić",
+    "group": 1
+  },
+  {
+    "infinitive": "marcher",
+    "présent": {
+      "je": "marche",
+      "tu": "marches",
+      "il": "marche",
+      "nous": "marchons",
+      "vous": "marchez",
+      "ils": "marchent"
+    },
+    "passé_composé": {
+      "je": "ai marché",
+      "tu": "as marché",
+      "il": "a marché",
+      "nous": "avons marché",
+      "vous": "avez marché",
+      "ils": "ont marché"
+    },
+    "imparfait": {
+      "je": "marchais",
+      "tu": "marchais",
+      "il": "marchait",
+      "nous": "marchions",
+      "vous": "marchiez",
+      "ils": "marchaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais marché",
+      "tu": "avais marché",
+      "il": "avait marché",
+      "nous": "avions marché",
+      "vous": "aviez marché",
+      "ils": "avaient marché"
+    },
+    "passé_simple": {
+      "je": "marchai",
+      "tu": "marchas",
+      "il": "marcha",
+      "nous": "marchâmes",
+      "vous": "marchâtes",
+      "ils": "marchèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus marché",
+      "tu": "eus marché",
+      "il": "eut marché",
+      "nous": "eûmes marché",
+      "vous": "eûtes marché",
+      "ils": "eurent marché"
+    },
+    "futur_simple": {
+      "je": "marcherai",
+      "tu": "marcheras",
+      "il": "marchera",
+      "nous": "marcherons",
+      "vous": "marcherez",
+      "ils": "marcheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai marché",
+      "tu": "auras marché",
+      "il": "aura marché",
+      "nous": "aurons marché",
+      "vous": "aurez marché",
+      "ils": "auront marché"
+    },
+    "subjonctif_présent": {
+      "je": "marche",
+      "tu": "marches",
+      "il": "marche",
+      "nous": "marchions",
+      "vous": "marchiez",
+      "ils": "marchent"
+    },
+    "subjonctif_passé": {
+      "je": "aie marché",
+      "tu": "aies marché",
+      "il": "ait marché",
+      "nous": "ayons marché",
+      "vous": "ayez marché",
+      "ils": "aient marché"
+    },
+    "subjonctif_imparfait": {
+      "je": "marchasse",
+      "tu": "marchasses",
+      "il": "marchât",
+      "nous": "marchassions",
+      "vous": "marchassiez",
+      "ils": "marchassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse marché",
+      "tu": "eusses marché",
+      "il": "eût marché",
+      "nous": "eussions marché",
+      "vous": "eussiez marché",
+      "ils": "eussent marché"
+    },
+    "conditionnel_présent": {
+      "je": "marcherais",
+      "tu": "marcherais",
+      "il": "marcherait",
+      "nous": "marcherions",
+      "vous": "marcheriez",
+      "ils": "marcheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais marché",
+      "tu": "aurais marché",
+      "il": "aurait marché",
+      "nous": "aurions marché",
+      "vous": "auriez marché",
+      "ils": "auraient marché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse marché",
+      "tu": "eusses marché",
+      "il": "eût marché",
+      "nous": "eussions marché",
+      "vous": "eussiez marché",
+      "ils": "eussent marché"
+    },
+    "translation": "chodzić",
+    "group": 1
+  }
+]

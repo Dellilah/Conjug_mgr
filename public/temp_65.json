@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "détenir",
+    "présent": {
+      "je": "détiens",
+      "tu": "détiens",
+      "il": "détient",
+      "nous": "détenons",
+      "vous": "détenez",
+      "ils": "détiennent"
+    },
+    "passé_composé": {
+      "je": "ai détenu",
+      "tu": "as détenu",
+      "il": "a détenu",
+      "nous": "avons détenu",
+      "vous": "avez détenu",
+      "ils": "ont détenu"
+    },
+    "imparfait": {
+      "je": "détenais",
+      "tu": "détenais",
+      "il": "détenait",
+      "nous": "détenions",
+      "vous": "déteniez",
+      "ils": "détenaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais détenu",
+      "tu": "avais détenu",
+      "il": "avait détenu",
+      "nous": "avions détenu",
+      "vous": "aviez détenu",
+      "ils": "avaient détenu"
+    },
+    "passé_simple": {
+      "je": "détins",
+      "tu": "détins",
+      "il": "détint",
+      "nous": "détînmes",
+      "vous": "détîntes",
+      "ils": "détinrent"
+    },
+    "passé_antérieur": {
+      "je": "eus détenu",
+      "tu": "eus détenu",
+      "il": "eut détenu",
+      "nous": "eûmes détenu",
+      "vous": "eûtes détenu",
+      "ils": "eurent détenu"
+    },
+    "futur_simple": {
+      "je": "détiendrai",
+      "tu": "détiendras",
+      "il": "détiendra",
+      "nous": "détiendrons",
+      "vous": "détiendrez",
+      "ils": "détiendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai détenu",
+      "tu": "auras détenu",
+      "il": "aura détenu",
+      "nous": "aurons détenu",
+      "vous": "aurez détenu",
+      "ils": "auront détenu"
+    },
+    "subjonctif_présent": {
+      "je": "détienne",
+      "tu": "détiennes",
+      "il": "détienne",
+      "nous": "détenions",
+      "vous": "déteniez",
+      "ils": "détiennent"
+    },
+    "subjonctif_passé": {
+      "je": "aie détenu",
+      "tu": "aies détenu",
+      "il": "ait détenu",
+      "nous": "ayons détenu",
+      "vous": "ayez détenu",
+      "ils": "aient détenu"
+    },
+    "subjonctif_imparfait": {
+      "je": "détinsse",
+      "tu": "détinsses",
+      "il": "détînt",
+      "nous": "détinssions",
+      "vous": "détinssiez",
+      "ils": "détinssent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse détenu",
+      "tu": "eusses détenu",
+      "il": "eût détenu",
+      "nous": "eussions détenu",
+      "vous": "eussiez détenu",
+      "ils": "eussent détenu"
+    },
+    "conditionnel_présent": {
+      "je": "détiendrais",
+      "tu": "détiendrais",
+      "il": "détiendrait",
+      "nous": "détiendrions",
+      "vous": "détiendriez",
+      "ils": "détiendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais détenu",
+      "tu": "aurais détenu",
+      "il": "aurait détenu",
+      "nous": "aurions détenu",
+      "vous": "auriez détenu",
+      "ils": "auraient détenu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse détenu",
+      "tu": "eusses détenu",
+      "il": "eût détenu",
+      "nous": "eussions détenu",
+      "vous": "eussiez détenu",
+      "ils": "eussent détenu"
+    },
+    "translation": "przechowywać",
+    "group": 3
+  },
+  {
+    "infinitive": "détériorer",
+    "présent": {
+      "je": "détériore",
+      "tu": "détériores",
+      "il": "détériore",
+      "nous": "détériorons",
+      "vous": "détériorez",
+      "ils": "détériorent"
+    },
+    "passé_composé": {
+      "je": "ai détérioré",
+      "tu": "as détérioré",
+      "il": "a détérioré",
+      "nous": "avons détérioré",
+      "vous": "avez détérioré",
+      "ils": "ont détérioré"
+    },
+    "imparfait": {
+      "je": "détériorais",
+      "tu": "détériorais",
+      "il": "détériorait",
+      "nous": "détériorions",
+      "vous": "détérioriez",
+      "ils": "détérioraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais détérioré",
+      "tu": "avais détérioré",
+      "il": "avait détérioré",
+      "nous": "avions détérioré",
+      "vous": "aviez détérioré",
+      "ils": "avaient détérioré"
+    },
+    "passé_simple": {
+      "je": "détériorai",
+      "tu": "détérioras",
+      "il": "détériora",
+      "nous": "détériorâmes",
+      "vous": "détériorâtes",
+      "ils": "détériorèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus détérioré",
+      "tu": "eus détérioré",
+      "il": "eut détérioré",
+      "nous": "eûmes détérioré",
+      "vous": "eûtes détérioré",
+      "ils": "eurent détérioré"
+    },
+    "futur_simple": {
+      "je": "détériorerai",
+      "tu": "détérioreras",
+      "il": "détériorera",
+      "nous": "détériorerons",
+      "vous": "détériorerez",
+      "ils": "détérioreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai détérioré",
+      "tu": "auras détérioré",
+      "il": "aura détérioré",
+      "nous": "aurons détérioré",
+      "vous": "aurez détérioré",
+      "ils": "auront détérioré"
+    },
+    "subjonctif_présent": {
+      "je": "détériore",
+      "tu": "détériores",
+      "il": "détériore",
+      "nous": "détériorions",
+      "vous": "détérioriez",
+      "ils": "détériorent"
+    },
+    "subjonctif_passé": {
+      "je": "aie détérioré",
+      "tu": "aies détérioré",
+      "il": "ait détérioré",
+      "nous": "ayons détérioré",
+      "vous": "ayez détérioré",
+      "ils": "aient détérioré"
+    },
+    "subjonctif_imparfait": {
+      "je": "détériorasse",
+      "tu": "détériorasses",
+      "il": "détériorât",
+      "nous": "détériorassions",
+      "vous": "détériorassiez",
+      "ils": "détériorassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse détérioré",
+      "tu": "eusses détérioré",
+      "il": "eût détérioré",
+      "nous": "eussions détérioré",
+      "vous": "eussiez détérioré",
+      "ils": "eussent détérioré"
+    },
+    "conditionnel_présent": {
+      "je": "détériorerais",
+      "tu": "détériorerais",
+      "il": "détériorerait",
+      "nous": "détériorerions",
+      "vous": "détérioreriez",
+      "ils": "détérioreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais détérioré",
+      "tu": "aurais détérioré",
+      "il": "aurait détérioré",
+      "nous": "aurions détérioré",
+      "vous": "auriez détérioré",
+      "ils": "auraient détérioré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse détérioré",
+      "tu": "eusses détérioré",
+      "il": "eût détérioré",
+      "nous": "eussions détérioré",
+      "vous": "eussiez détérioré",
+      "ils": "eussent détérioré"
+    },
+    "translation": "uszkadzać",
+    "group": 1
+  },
+  {
+    "infinitive": "déterminer",
+    "présent": {
+      "je": "détermine",
+      "tu": "détermines",
+      "il": "détermine",
+      "nous": "déterminons",
+      "vous": "déterminez",
+      "ils": "déterminent"
+    },
+    "passé_composé": {
+      "je": "ai déterminé",
+      "tu": "as déterminé",
+      "il": "a déterminé",
+      "nous": "avons déterminé",
+      "vous": "avez déterminé",
+      "ils": "ont déterminé"
+    },
+    "imparfait": {
+      "je": "déterminais",
+      "tu": "déterminais",
+      "il": "déterminait",
+      "nous": "déterminions",
+      "vous": "déterminiez",
+      "ils": "déterminaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais déterminé",
+      "tu": "avais déterminé",
+      "il": "avait déterminé",
+      "nous": "avions déterminé",
+      "vous": "aviez déterminé",
+      "ils": "avaient déterminé"
+    },
+    "passé_simple": {
+      "je": "déterminai",
+      "tu": "déterminas",
+      "il": "détermina",
+      "nous": "déterminâmes",
+      "vous": "déterminâtes",
+      "ils": "déterminèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus déterminé",
+      "tu": "eus déterminé",
+      "il": "eut déterminé",
+      "nous": "eûmes déterminé",
+      "vous": "eûtes déterminé",
+      "ils": "eurent déterminé"
+    },
+    "futur_simple": {
+      "je": "déterminerai",
+      "tu": "détermineras",
+      "il": "déterminera",
+      "nous": "déterminerons",
+      "vous": "déterminerez",
+      "ils": "détermineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai déterminé",
+      "tu": "auras déterminé",
+      "il": "aura déterminé",
+      "nous": "aurons déterminé",
+      "vous": "aurez déterminé",
+      "ils": "auront déterminé"
+    },
+    "subjonctif_présent": {
+      "je": "détermine",
+      "tu": "détermines",
+      "il": "détermine",
+      "nous": "déterminions",
+      "vous": "déterminiez",
+      "ils": "déterminent"
+    },
+    "subjonctif_passé": {
+      "je": "aie déterminé",
+      "tu": "aies déterminé",
+      "il": "ait déterminé",
+      "nous": "ayons déterminé",
+      "vous": "ayez déterminé",
+      "ils": "aient déterminé"
+    },
+    "subjonctif_imparfait": {
+      "je": "déterminasse",
+      "tu": "déterminasses",
+      "il": "déterminât",
+      "nous": "déterminassions",
+      "vous": "déterminassiez",
+      "ils": "déterminassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse déterminé",
+      "tu": "eusses déterminé",
+      "il": "eût déterminé",
+      "nous": "eussions déterminé",
+      "vous": "eussiez déterminé",
+      "ils": "eussent déterminé"
+    },
+    "conditionnel_présent": {
+      "je": "déterminerais",
+      "tu": "déterminerais",
+      "il": "déterminerait",
+      "nous": "déterminerions",
+      "vous": "détermineriez",
+      "ils": "détermineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais déterminé",
+      "tu": "aurais déterminé",
+      "il": "aurait déterminé",
+      "nous": "aurions déterminé",
+      "vous": "auriez déterminé",
+      "ils": "auraient déterminé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse déterminé",
+      "tu": "eusses déterminé",
+      "il": "eût déterminé",
+      "nous": "eussions déterminé",
+      "vous": "eussiez déterminé",
+      "ils": "eussent déterminé"
+    },
+    "translation": "precyzować",
+    "group": 1
+  },
+  {
+    "infinitive": "détester",
+    "présent": {
+      "je": "déteste",
+      "tu": "détestes",
+      "il": "déteste",
+      "nous": "détestons",
+      "vous": "détestez",
+      "ils": "détestent"
+    },
+    "passé_composé": {
+      "je": "ai détesté",
+      "tu": "as détesté",
+      "il": "a détesté",
+      "nous": "avons détesté",
+      "vous": "avez détesté",
+      "ils": "ont détesté"
+    },
+    "imparfait": {
+      "je": "détestais",
+      "tu": "détestais",
+      "il": "détestait",
+      "nous": "détestions",
+      "vous": "détestiez",
+      "ils": "détestaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais détesté",
+      "tu": "avais détesté",
+      "il": "avait détesté",
+      "nous": "avions détesté",
+      "vous": "aviez détesté",
+      "ils": "avaient détesté"
+    },
+    "passé_simple": {
+      "je": "détestai",
+      "tu": "détestas",
+      "il": "détesta",
+      "nous": "détestâmes",
+      "vous": "détestâtes",
+      "ils": "détestèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus détesté",
+      "tu": "eus détesté",
+      "il": "eut détesté",
+      "nous": "eûmes détesté",
+      "vous": "eûtes détesté",
+      "ils": "eurent détesté"
+    },
+    "futur_simple": {
+      "je": "détesterai",
+      "tu": "détesteras",
+      "il": "détestera",
+      "nous": "détesterons",
+      "vous": "détesterez",
+      "ils": "détesteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai détesté",
+      "tu": "auras détesté",
+      "il": "aura détesté",
+      "nous": "aurons détesté",
+      "vous": "aurez détesté",
+      "ils": "auront détesté"
+    },
+    "subjonctif_présent": {
+      "je": "déteste",
+      "tu": "détestes",
+      "il": "déteste",
+      "nous": "détestions",
+      "vous": "détestiez",
+      "ils": "détestent"
+    },
+    "subjonctif_passé": {
+      "je": "aie détesté",
+      "tu": "aies détesté",
+      "il": "ait détesté",
+      "nous": "ayons détesté",
+      "vous": "ayez détesté",
+      "ils": "aient détesté"
+    },
+    "subjonctif_imparfait": {
+      "je": "détestasse",
+      "tu": "détestasses",
+      "il": "détestât",
+      "nous": "détestassions",
+      "vous": "détestassiez",
+      "ils": "détestassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse détesté",
+      "tu": "eusses détesté",
+      "il": "eût détesté",
+      "nous": "eussions détesté",
+      "vous": "eussiez détesté",
+      "ils": "eussent détesté"
+    },
+    "conditionnel_présent": {
+      "je": "détesterais",
+      "tu": "détesterais",
+      "il": "détesterait",
+      "nous": "détesterions",
+      "vous": "détesteriez",
+      "ils": "détesteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais détesté",
+      "tu": "aurais détesté",
+      "il": "aurait détesté",
+      "nous": "aurions détesté",
+      "vous": "auriez détesté",
+      "ils": "auraient détesté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse détesté",
+      "tu": "eusses détesté",
+      "il": "eût détesté",
+      "nous": "eussions détesté",
+      "vous": "eussiez détesté",
+      "ils": "eussent détesté"
+    },
+    "translation": "nienawidzić",
+    "group": 1
+  },
+  {
+    "infinitive": "détruire",
+    "présent": {
+      "je": "détruis",
+      "tu": "détruis",
+      "il": "détruit",
+      "nous": "détruisons",
+      "vous": "détruisez",
+      "ils": "détruisent"
+    },
+    "passé_composé": {
+      "je": "ai détruit",
+      "tu": "as détruit",
+      "il": "a détruit",
+      "nous": "avons détruit",
+      "vous": "avez détruit",
+      "ils": "ont détruit"
+    },
+    "imparfait": {
+      "je": "détruisais",
+      "tu": "détruisais",
+      "il": "détruisait",
+      "nous": "détruisions",
+      "vous": "détruisiez",
+      "ils": "détruisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais détruit",
+      "tu": "avais détruit",
+      "il": "avait détruit",
+      "nous": "avions détruit",
+      "vous": "aviez détruit",
+      "ils": "avaient détruit"
+    },
+    "passé_simple": {
+      "je": "détruisis",
+      "tu": "détruisis",
+      "il": "détruisit",
+      "nous": "détruisîmes",
+      "vous": "détruisîtes",
+      "ils": "détruisirent"
+    },
+    "passé_antérieur": {
+      "je": "eus détruit",
+      "tu": "eus détruit",
+      "il": "eut détruit",
+      "nous": "eûmes détruit",
+      "vous": "eûtes détruit",
+      "ils": "eurent détruit"
+    },
+    "futur_simple": {
+      "je": "détruirai",
+      "tu": "détruiras",
+      "il": "détruira",
+      "nous": "détruirons",
+      "vous": "détruirez",
+      "ils": "détruiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai détruit",
+      "tu": "auras détruit",
+      "il": "aura détruit",
+      "nous": "aurons détruit",
+      "vous": "aurez détruit",
+      "ils": "auront détruit"
+    },
+    "subjonctif_présent": {
+      "je": "détruise",
+      "tu": "détruises",
+      "il": "détruise",
+      "nous": "détruisions",
+      "vous": "détruisiez",
+      "ils": "détruisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie détruit",
+      "tu": "aies détruit",
+      "il": "ait détruit",
+      "nous": "ayons détruit",
+      "vous": "ayez détruit",
+      "ils": "aient détruit"
+    },
+    "subjonctif_imparfait": {
+      "je": "détruisisse",
+      "tu": "détruisisses",
+      "il": "détruisît",
+      "nous": "détruisissions",
+      "vous": "détruisissiez",
+      "ils": "détruisissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse détruit",
+      "tu": "eusses détruit",
+      "il": "eût détruit",
+      "nous": "eussions détruit",
+      "vous": "eussiez détruit",
+      "ils": "eussent détruit"
+    },
+    "conditionnel_présent": {
+      "je": "détruirais",
+      "tu": "détruirais",
+      "il": "détruirait",
+      "nous": "détruirions",
+      "vous": "détruiriez",
+      "ils": "détruiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais détruit",
+      "tu": "aurais détruit",
+      "il": "aurait détruit",
+      "nous": "aurions détruit",
+      "vous": "auriez détruit",
+      "ils": "auraient détruit"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse détruit",
+      "tu": "eusses détruit",
+      "il": "eût détruit",
+      "nous": "eussions détruit",
+      "vous": "eussiez détruit",
+      "ils": "eussent détruit"
+    },
+    "translation": "",
+    "group": 3
+  },
+  {
+    "infinitive": "devancer",
+    "présent": {
+      "je": "devance",
+      "tu": "devances",
+      "il": "devance",
+      "nous": "devançons",
+      "vous": "devancez",
+      "ils": "devancent"
+    },
+    "passé_composé": {
+      "je": "ai devancé",
+      "tu": "as devancé",
+      "il": "a devancé",
+      "nous": "avons devancé",
+      "vous": "avez devancé",
+      "ils": "ont devancé"
+    },
+    "imparfait": {
+      "je": "devançais",
+      "tu": "devançais",
+      "il": "devançait",
+      "nous": "devancions",
+      "vous": "devanciez",
+      "ils": "devançaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais devancé",
+      "tu": "avais devancé",
+      "il": "avait devancé",
+      "nous": "avions devancé",
+      "vous": "aviez devancé",
+      "ils": "avaient devancé"
+    },
+    "passé_simple": {
+      "je": "devançai",
+      "tu": "devanças",
+      "il": "devança",
+      "nous": "devançâmes",
+      "vous": "devançâtes",
+      "ils": "devancèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus devancé",
+      "tu": "eus devancé",
+      "il": "eut devancé",
+      "nous": "eûmes devancé",
+      "vous": "eûtes devancé",
+      "ils": "eurent devancé"
+    },
+    "futur_simple": {
+      "je": "devancerai",
+      "tu": "devanceras",
+      "il": "devancera",
+      "nous": "devancerons",
+      "vous": "devancerez",
+      "ils": "devanceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai devancé",
+      "tu": "auras devancé",
+      "il": "aura devancé",
+      "nous": "aurons devancé",
+      "vous": "aurez devancé",
+      "ils": "auront devancé"
+    },
+    "subjonctif_présent": {
+      "je": "devance",
+      "tu": "devances",
+      "il": "devance",
+      "nous": "devancions",
+      "vous": "devanciez",
+      "ils": "devancent"
+    },
+    "subjonctif_passé": {
+      "je": "aie devancé",
+      "tu": "aies devancé",
+      "il": "ait devancé",
+      "nous": "ayons devancé",
+      "vous": "ayez devancé",
+      "ils": "aient devancé"
+    },
+    "subjonctif_imparfait": {
+      "je": "devançasse",
+      "tu": "devançasses",
+      "il": "devançât",
+      "nous": "devançassions",
+      "vous": "devançassiez",
+      "ils": "devançassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse devancé",
+      "tu": "eusses devancé",
+      "il": "eût devancé",
+      "nous": "eussions devancé",
+      "vous": "eussiez devancé",
+      "ils": "eussent devancé"
+    },
+    "conditionnel_présent": {
+      "je": "devancerais",
+      "tu": "devancerais",
+      "il": "devancerait",
+      "nous": "devancerions",
+      "vous": "devanceriez",
+      "ils": "devanceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais devancé",
+      "tu": "aurais devancé",
+      "il": "aurait devancé",
+      "nous": "aurions devancé",
+      "vous": "auriez devancé",
+      "ils": "auraient devancé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse devancé",
+      "tu": "eusses devancé",
+      "il": "eût devancé",
+      "nous": "eussions devancé",
+      "vous": "eussiez devancé",
+      "ils": "eussent devancé"
+    },
+    "translation": "wyprzedzać",
+    "group": 1
+  },
+  {
+    "infinitive": "développer",
+    "présent": {
+      "je": "développe",
+      "tu": "développes",
+      "il": "développe",
+      "nous": "développons",
+      "vous": "développez",
+      "ils": "développent"
+    },
+    "passé_composé": {
+      "je": "ai développé",
+      "tu": "as développé",
+      "il": "a développé",
+      "nous": "avons développé",
+      "vous": "avez développé",
+      "ils": "ont développé"
+    },
+    "imparfait": {
+      "je": "développais",
+      "tu": "développais",
+      "il": "développait",
+      "nous": "développions",
+      "vous": "développiez",
+      "ils": "développaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais développé",
+      "tu": "avais développé",
+      "il": "avait développé",
+      "nous": "avions développé",
+      "vous": "aviez développé",
+      "ils": "avaient développé"
+    },
+    "passé_simple": {
+      "je": "développai",
+      "tu": "développas",
+      "il": "développa",
+      "nous": "développâmes",
+      "vous": "développâtes",
+      "ils": "développèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus développé",
+      "tu": "eus développé",
+      "il": "eut développé",
+      "nous": "eûmes développé",
+      "vous": "eûtes développé",
+      "ils": "eurent développé"
+    },
+    "futur_simple": {
+      "je": "développerai",
+      "tu": "développeras",
+      "il": "développera",
+      "nous": "développerons",
+      "vous": "développerez",
+      "ils": "développeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai développé",
+      "tu": "auras développé",
+      "il": "aura développé",
+      "nous": "aurons développé",
+      "vous": "aurez développé",
+      "ils": "auront développé"
+    },
+    "subjonctif_présent": {
+      "je": "développe",
+      "tu": "développes",
+      "il": "développe",
+      "nous": "développions",
+      "vous": "développiez",
+      "ils": "développent"
+    },
+    "subjonctif_passé": {
+      "je": "aie développé",
+      "tu": "aies développé",
+      "il": "ait développé",
+      "nous": "ayons développé",
+      "vous": "ayez développé",
+      "ils": "aient développé"
+    },
+    "subjonctif_imparfait": {
+      "je": "développasse",
+      "tu": "développasses",
+      "il": "développât",
+      "nous": "développassions",
+      "vous": "développassiez",
+      "ils": "développassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse développé",
+      "tu": "eusses développé",
+      "il": "eût développé",
+      "nous": "eussions développé",
+      "vous": "eussiez développé",
+      "ils": "eussent développé"
+    },
+    "conditionnel_présent": {
+      "je": "développerais",
+      "tu": "développerais",
+      "il": "développerait",
+      "nous": "développerions",
+      "vous": "développeriez",
+      "ils": "développeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais développé",
+      "tu": "aurais développé",
+      "il": "aurait développé",
+      "nous": "aurions développé",
+      "vous": "auriez développé",
+      "ils": "auraient développé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse développé",
+      "tu": "eusses développé",
+      "il": "eût développé",
+      "nous": "eussions développé",
+      "vous": "eussiez développé",
+      "ils": "eussent développé"
+    },
+    "translation": "rozwijać",
+    "group": 1
+  },
+  {
+    "infinitive": "devenir",
+    "présent": {
+      "je": "deviens",
+      "tu": "deviens",
+      "il": "devient",
+      "nous": "devenons",
+      "vous": "devenez",
+      "ils": "deviennent"
+    },
+    "passé_composé": {
+      "je": "suis devenu",
+      "tu": "es devenu",
+      "il": "est devenu",
+      "nous": "sommes devenus",
+      "vous": "êtes devenus",
+      "ils": "sont devenus"
+    },
+    "imparfait": {
+      "je": "devenais",
+      "tu": "devenais",
+      "il": "devenait",
+      "nous": "devenions",
+      "vous": "deveniez",
+      "ils": "devenaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais devenu",
+      "tu": "étais devenu",
+      "il": "était devenu",
+      "nous": "étions devenus",
+      "vous": "étiez devenus",
+      "ils": "étaient devenus"
+    },
+    "passé_simple": {
+      "je": "devins",
+      "tu": "devins",
+      "il": "devint",
+      "nous": "devînmes",
+      "vous": "devîntes",
+      "ils": "devinrent"
+    },
+    "passé_antérieur": {
+      "je": "fus devenu",
+      "tu": "fus devenu",
+      "il": "fut devenu",
+      "nous": "fûmes devenus",
+      "vous": "fûtes devenus",
+      "ils": "furent devenus"
+    },
+    "futur_simple": {
+      "je": "deviendrai",
+      "tu": "deviendras",
+      "il": "deviendra",
+      "nous": "deviendrons",
+      "vous": "deviendrez",
+      "ils": "deviendront"
+    },
+    "futur_antérieur": {
+      "je": "serai devenu",
+      "tu": "seras devenu",
+      "il": "sera devenu",
+      "nous": "serons devenus",
+      "vous": "serez devenus",
+      "ils": "seront devenus"
+    },
+    "subjonctif_présent": {
+      "je": "devienne",
+      "tu": "deviennes",
+      "il": "devienne",
+      "nous": "devenions",
+      "vous": "deveniez",
+      "ils": "deviennent"
+    },
+    "subjonctif_passé": {
+      "je": "sois devenu",
+      "tu": "sois devenu",
+      "il": "soit devenu",
+      "nous": "soyons devenus",
+      "vous": "soyez devenus",
+      "ils": "soient devenus"
+    },
+    "subjonctif_imparfait": {
+      "je": "devinsse",
+      "tu": "devinsses",
+      "il": "devînt",
+      "nous": "devinssions",
+      "vous": "devinssiez",
+      "ils": "devinssent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "fusse devenu",
+      "tu": "fusses devenu",
+      "il": "fût devenu",
+      "nous": "fussions devenus",
+      "vous": "fussiez devenus",
+      "ils": "fussent devenus"
+    },
+    "conditionnel_présent": {
+      "je": "deviendrais",
+      "tu": "deviendrais",
+      "il": "deviendrait",
+      "nous": "deviendrions",
+      "vous": "deviendriez",
+      "ils": "deviendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "serais devenu",
+      "tu": "serais devenu",
+      "il": "serait devenu",
+      "nous": "serions devenus",
+      "vous": "seriez devenus",
+      "ils": "seraient devenus"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "fusse devenu",
+      "tu": "fusses devenu",
+      "il": "fût devenu",
+      "nous": "fussions devenus",
+      "vous": "fussiez devenus",
+      "ils": "fussent devenus"
+    },
+    "translation": "stawać",
+    "group": 3
+  },
+  {
+    "infinitive": "dévêtir",
+    "présent": {
+      "je": "dévêts",
+      "tu": "dévêts",
+      "il": "dévêt",
+      "nous": "dévêtons",
+      "vous": "dévêtez",
+      "ils": "dévêtent"
+    },
+    "passé_composé": {
+      "je": "ai dévêtu",
+      "tu": "as dévêtu",
+      "il": "a dévêtu",
+      "nous": "avons dévêtu",
+      "vous": "avez dévêtu",
+      "ils": "ont dévêtu"
+    },
+    "imparfait": {
+      "je": "dévêtais",
+      "tu": "dévêtais",
+      "il": "dévêtait",
+      "nous": "dévêtions",
+      "vous": "dévêtiez",
+      "ils": "dévêtaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dévêtu",
+      "tu": "avais dévêtu",
+      "il": "avait dévêtu",
+      "nous": "avions dévêtu",
+      "vous": "aviez dévêtu",
+      "ils": "avaient dévêtu"
+    },
+    "passé_simple": {
+      "je": "dévêtis",
+      "tu": "dévêtis",
+      "il": "dévêtit",
+      "nous": "dévêtîmes",
+      "vous": "dévêtîtes",
+      "ils": "dévêtirent"
+    },
+    "passé_antérieur": {
+      "je": "eus dévêtu",
+      "tu": "eus dévêtu",
+      "il": "eut dévêtu",
+      "nous": "eûmes dévêtu",
+      "vous": "eûtes dévêtu",
+      "ils": "eurent dévêtu"
+    },
+    "futur_simple": {
+      "je": "dévêtirai",
+      "tu": "dévêtiras",
+      "il": "dévêtira",
+      "nous": "dévêtirons",
+      "vous": "dévêtirez",
+      "ils": "dévêtiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dévêtu",
+      "tu": "auras dévêtu",
+      "il": "aura dévêtu",
+      "nous": "aurons dévêtu",
+      "vous": "aurez dévêtu",
+      "ils": "auront dévêtu"
+    },
+    "subjonctif_présent": {
+      "je": "dévête",
+      "tu": "dévêtes",
+      "il": "dévête",
+      "nous": "dévêtions",
+      "vous": "dévêtiez",
+      "ils": "dévêtent"
+    },
+    "subjonctif_passé": {
+      "je": "aie dévêtu",
+      "tu": "aies dévêtu",
+      "il": "ait dévêtu",
+      "nous": "ayons dévêtu",
+      "vous": "ayez dévêtu",
+      "ils": "aient dévêtu"
+    },
+    "subjonctif_imparfait": {
+      "je": "dévêtisse",
+      "tu": "dévêtisses",
+      "il": "dévêtît",
+      "nous": "dévêtissions",
+      "vous": "dévêtissiez",
+      "ils": "dévêtissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dévêtu",
+      "tu": "eusses dévêtu",
+      "il": "eût dévêtu",
+      "nous": "eussions dévêtu",
+      "vous": "eussiez dévêtu",
+      "ils": "eussent dévêtu"
+    },
+    "conditionnel_présent": {
+      "je": "dévêtirais",
+      "tu": "dévêtirais",
+      "il": "dévêtirait",
+      "nous": "dévêtirions",
+      "vous": "dévêtiriez",
+      "ils": "dévêtiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dévêtu",
+      "tu": "aurais dévêtu",
+      "il": "aurait dévêtu",
+      "nous": "aurions dévêtu",
+      "vous": "auriez dévêtu",
+      "ils": "auraient dévêtu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dévêtu",
+      "tu": "eusses dévêtu",
+      "il": "eût dévêtu",
+      "nous": "eussions dévêtu",
+      "vous": "eussiez dévêtu",
+      "ils": "eussent dévêtu"
+    },
+    "translation": "rozbierać",
+    "group": 3
+  },
+  {
+    "infinitive": "dévier",
+    "présent": {
+      "je": "dévie",
+      "tu": "dévies",
+      "il": "dévie",
+      "nous": "dévions",
+      "vous": "déviez",
+      "ils": "dévient"
+    },
+    "passé_composé": {
+      "je": "ai dévié",
+      "tu": "as dévié",
+      "il": "a dévié",
+      "nous": "avons dévié",
+      "vous": "avez dévié",
+      "ils": "ont dévié"
+    },
+    "imparfait": {
+      "je": "déviais",
+      "tu": "déviais",
+      "il": "déviait",
+      "nous": "déviions",
+      "vous": "déviiez",
+      "ils": "déviaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dévié",
+      "tu": "avais dévié",
+      "il": "avait dévié",
+      "nous": "avions dévié",
+      "vous": "aviez dévié",
+      "ils": "avaient dévié"
+    },
+    "passé_simple": {
+      "je": "déviai",
+      "tu": "dévias",
+      "il": "dévia",
+      "nous": "déviâmes",
+      "vous": "déviâtes",
+      "ils": "dévièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus dévié",
+      "tu": "eus dévié",
+      "il": "eut dévié",
+      "nous": "eûmes dévié",
+      "vous": "eûtes dévié",
+      "ils": "eurent dévié"
+    },
+    "futur_simple": {
+      "je": "dévierai",
+      "tu": "dévieras",
+      "il": "déviera",
+      "nous": "dévierons",
+      "vous": "dévierez",
+      "ils": "dévieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dévié",
+      "tu": "auras dévié",
+      "il": "aura dévié",
+      "nous": "aurons dévié",
+      "vous": "aurez dévié",
+      "ils": "auront dévié"
+    },
+    "subjonctif_présent": {
+      "je": "dévie",
+      "tu": "dévies",
+      "il": "dévie",
+      "nous": "déviions",
+      "vous": "déviiez",
+      "ils": "dévient"
+    },
+    "subjonctif_passé": {
+      "je": "aie dévié",
+      "tu": "aies dévié",
+      "il": "ait dévié",
+      "nous": "ayons dévié",
+      "vous": "ayez dévié",
+      "ils": "aient dévié"
+    },
+    "subjonctif_imparfait": {
+      "je": "déviasse",
+      "tu": "déviasses",
+      "il": "déviât",
+      "nous": "déviassions",
+      "vous": "déviassiez",
+      "ils": "déviassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dévié",
+      "tu": "eusses dévié",
+      "il": "eût dévié",
+      "nous": "eussions dévié",
+      "vous": "eussiez dévié",
+      "ils": "eussent dévié"
+    },
+    "conditionnel_présent": {
+      "je": "dévierais",
+      "tu": "dévierais",
+      "il": "dévierait",
+      "nous": "dévierions",
+      "vous": "dévieriez",
+      "ils": "dévieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dévié",
+      "tu": "aurais dévié",
+      "il": "aurait dévié",
+      "nous": "aurions dévié",
+      "vous": "auriez dévié",
+      "ils": "auraient dévié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dévié",
+      "tu": "eusses dévié",
+      "il": "eût dévié",
+      "nous": "eussions dévié",
+      "vous": "eussiez dévié",
+      "ils": "eussent dévié"
+    },
+    "translation": "zmieniać",
+    "group": 1
+  }
+]

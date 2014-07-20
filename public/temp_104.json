@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "gratter",
+    "présent": {
+      "je": "gratte",
+      "tu": "grattes",
+      "il": "gratte",
+      "nous": "grattons",
+      "vous": "grattez",
+      "ils": "grattent"
+    },
+    "passé_composé": {
+      "je": "ai gratté",
+      "tu": "as gratté",
+      "il": "a gratté",
+      "nous": "avons gratté",
+      "vous": "avez gratté",
+      "ils": "ont gratté"
+    },
+    "imparfait": {
+      "je": "grattais",
+      "tu": "grattais",
+      "il": "grattait",
+      "nous": "grattions",
+      "vous": "grattiez",
+      "ils": "grattaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais gratté",
+      "tu": "avais gratté",
+      "il": "avait gratté",
+      "nous": "avions gratté",
+      "vous": "aviez gratté",
+      "ils": "avaient gratté"
+    },
+    "passé_simple": {
+      "je": "grattai",
+      "tu": "grattas",
+      "il": "gratta",
+      "nous": "grattâmes",
+      "vous": "grattâtes",
+      "ils": "grattèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus gratté",
+      "tu": "eus gratté",
+      "il": "eut gratté",
+      "nous": "eûmes gratté",
+      "vous": "eûtes gratté",
+      "ils": "eurent gratté"
+    },
+    "futur_simple": {
+      "je": "gratterai",
+      "tu": "gratteras",
+      "il": "grattera",
+      "nous": "gratterons",
+      "vous": "gratterez",
+      "ils": "gratteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai gratté",
+      "tu": "auras gratté",
+      "il": "aura gratté",
+      "nous": "aurons gratté",
+      "vous": "aurez gratté",
+      "ils": "auront gratté"
+    },
+    "subjonctif_présent": {
+      "je": "gratte",
+      "tu": "grattes",
+      "il": "gratte",
+      "nous": "grattions",
+      "vous": "grattiez",
+      "ils": "grattent"
+    },
+    "subjonctif_passé": {
+      "je": "aie gratté",
+      "tu": "aies gratté",
+      "il": "ait gratté",
+      "nous": "ayons gratté",
+      "vous": "ayez gratté",
+      "ils": "aient gratté"
+    },
+    "subjonctif_imparfait": {
+      "je": "grattasse",
+      "tu": "grattasses",
+      "il": "grattât",
+      "nous": "grattassions",
+      "vous": "grattassiez",
+      "ils": "grattassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse gratté",
+      "tu": "eusses gratté",
+      "il": "eût gratté",
+      "nous": "eussions gratté",
+      "vous": "eussiez gratté",
+      "ils": "eussent gratté"
+    },
+    "conditionnel_présent": {
+      "je": "gratterais",
+      "tu": "gratterais",
+      "il": "gratterait",
+      "nous": "gratterions",
+      "vous": "gratteriez",
+      "ils": "gratteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais gratté",
+      "tu": "aurais gratté",
+      "il": "aurait gratté",
+      "nous": "aurions gratté",
+      "vous": "auriez gratté",
+      "ils": "auraient gratté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse gratté",
+      "tu": "eusses gratté",
+      "il": "eût gratté",
+      "nous": "eussions gratté",
+      "vous": "eussiez gratté",
+      "ils": "eussent gratté"
+    },
+    "translation": "drapać",
+    "group": 1
+  },
+  {
+    "infinitive": "graver",
+    "présent": {
+      "je": "grave",
+      "tu": "graves",
+      "il": "grave",
+      "nous": "gravons",
+      "vous": "gravez",
+      "ils": "gravent"
+    },
+    "passé_composé": {
+      "je": "ai gravé",
+      "tu": "as gravé",
+      "il": "a gravé",
+      "nous": "avons gravé",
+      "vous": "avez gravé",
+      "ils": "ont gravé"
+    },
+    "imparfait": {
+      "je": "gravais",
+      "tu": "gravais",
+      "il": "gravait",
+      "nous": "gravions",
+      "vous": "graviez",
+      "ils": "gravaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais gravé",
+      "tu": "avais gravé",
+      "il": "avait gravé",
+      "nous": "avions gravé",
+      "vous": "aviez gravé",
+      "ils": "avaient gravé"
+    },
+    "passé_simple": {
+      "je": "gravai",
+      "tu": "gravas",
+      "il": "grava",
+      "nous": "gravâmes",
+      "vous": "gravâtes",
+      "ils": "gravèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus gravé",
+      "tu": "eus gravé",
+      "il": "eut gravé",
+      "nous": "eûmes gravé",
+      "vous": "eûtes gravé",
+      "ils": "eurent gravé"
+    },
+    "futur_simple": {
+      "je": "graverai",
+      "tu": "graveras",
+      "il": "gravera",
+      "nous": "graverons",
+      "vous": "graverez",
+      "ils": "graveront"
+    },
+    "futur_antérieur": {
+      "je": "aurai gravé",
+      "tu": "auras gravé",
+      "il": "aura gravé",
+      "nous": "aurons gravé",
+      "vous": "aurez gravé",
+      "ils": "auront gravé"
+    },
+    "subjonctif_présent": {
+      "je": "grave",
+      "tu": "graves",
+      "il": "grave",
+      "nous": "gravions",
+      "vous": "graviez",
+      "ils": "gravent"
+    },
+    "subjonctif_passé": {
+      "je": "aie gravé",
+      "tu": "aies gravé",
+      "il": "ait gravé",
+      "nous": "ayons gravé",
+      "vous": "ayez gravé",
+      "ils": "aient gravé"
+    },
+    "subjonctif_imparfait": {
+      "je": "gravasse",
+      "tu": "gravasses",
+      "il": "gravât",
+      "nous": "gravassions",
+      "vous": "gravassiez",
+      "ils": "gravassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse gravé",
+      "tu": "eusses gravé",
+      "il": "eût gravé",
+      "nous": "eussions gravé",
+      "vous": "eussiez gravé",
+      "ils": "eussent gravé"
+    },
+    "conditionnel_présent": {
+      "je": "graverais",
+      "tu": "graverais",
+      "il": "graverait",
+      "nous": "graverions",
+      "vous": "graveriez",
+      "ils": "graveraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais gravé",
+      "tu": "aurais gravé",
+      "il": "aurait gravé",
+      "nous": "aurions gravé",
+      "vous": "auriez gravé",
+      "ils": "auraient gravé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse gravé",
+      "tu": "eusses gravé",
+      "il": "eût gravé",
+      "nous": "eussions gravé",
+      "vous": "eussiez gravé",
+      "ils": "eussent gravé"
+    },
+    "translation": "grawerować",
+    "group": 1
+  },
+  {
+    "infinitive": "gravir",
+    "présent": {
+      "je": "gravis",
+      "tu": "gravis",
+      "il": "gravit",
+      "nous": "gravissons",
+      "vous": "gravissez",
+      "ils": "gravissent"
+    },
+    "passé_composé": {
+      "je": "ai gravi",
+      "tu": "as gravi",
+      "il": "a gravi",
+      "nous": "avons gravi",
+      "vous": "avez gravi",
+      "ils": "ont gravi"
+    },
+    "imparfait": {
+      "je": "gravissais",
+      "tu": "gravissais",
+      "il": "gravissait",
+      "nous": "gravissions",
+      "vous": "gravissiez",
+      "ils": "gravissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais gravi",
+      "tu": "avais gravi",
+      "il": "avait gravi",
+      "nous": "avions gravi",
+      "vous": "aviez gravi",
+      "ils": "avaient gravi"
+    },
+    "passé_simple": {
+      "je": "gravis",
+      "tu": "gravis",
+      "il": "gravit",
+      "nous": "gravîmes",
+      "vous": "gravîtes",
+      "ils": "gravirent"
+    },
+    "passé_antérieur": {
+      "je": "eus gravi",
+      "tu": "eus gravi",
+      "il": "eut gravi",
+      "nous": "eûmes gravi",
+      "vous": "eûtes gravi",
+      "ils": "eurent gravi"
+    },
+    "futur_simple": {
+      "je": "gravirai",
+      "tu": "graviras",
+      "il": "gravira",
+      "nous": "gravirons",
+      "vous": "gravirez",
+      "ils": "graviront"
+    },
+    "futur_antérieur": {
+      "je": "aurai gravi",
+      "tu": "auras gravi",
+      "il": "aura gravi",
+      "nous": "aurons gravi",
+      "vous": "aurez gravi",
+      "ils": "auront gravi"
+    },
+    "subjonctif_présent": {
+      "je": "gravisse",
+      "tu": "gravisses",
+      "il": "gravisse",
+      "nous": "gravissions",
+      "vous": "gravissiez",
+      "ils": "gravissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie gravi",
+      "tu": "aies gravi",
+      "il": "ait gravi",
+      "nous": "ayons gravi",
+      "vous": "ayez gravi",
+      "ils": "aient gravi"
+    },
+    "subjonctif_imparfait": {
+      "je": "gravisse",
+      "tu": "gravisses",
+      "il": "gravît",
+      "nous": "gravissions",
+      "vous": "gravissiez",
+      "ils": "gravissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse gravi",
+      "tu": "eusses gravi",
+      "il": "eût gravi",
+      "nous": "eussions gravi",
+      "vous": "eussiez gravi",
+      "ils": "eussent gravi"
+    },
+    "conditionnel_présent": {
+      "je": "gravirais",
+      "tu": "gravirais",
+      "il": "gravirait",
+      "nous": "gravirions",
+      "vous": "graviriez",
+      "ils": "graviraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais gravi",
+      "tu": "aurais gravi",
+      "il": "aurait gravi",
+      "nous": "aurions gravi",
+      "vous": "auriez gravi",
+      "ils": "auraient gravi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse gravi",
+      "tu": "eusses gravi",
+      "il": "eût gravi",
+      "nous": "eussions gravi",
+      "vous": "eussiez gravi",
+      "ils": "eussent gravi"
+    },
+    "translation": "wspinać",
+    "group": 2
+  },
+  {
+    "infinitive": "gréer",
+    "présent": {
+      "je": "grée",
+      "tu": "grées",
+      "il": "grée",
+      "nous": "gréons",
+      "vous": "gréez",
+      "ils": "gréent"
+    },
+    "passé_composé": {
+      "je": "ai gréé",
+      "tu": "as gréé",
+      "il": "a gréé",
+      "nous": "avons gréé",
+      "vous": "avez gréé",
+      "ils": "ont gréé"
+    },
+    "imparfait": {
+      "je": "gréais",
+      "tu": "gréais",
+      "il": "gréait",
+      "nous": "gréions",
+      "vous": "gréiez",
+      "ils": "gréaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais gréé",
+      "tu": "avais gréé",
+      "il": "avait gréé",
+      "nous": "avions gréé",
+      "vous": "aviez gréé",
+      "ils": "avaient gréé"
+    },
+    "passé_simple": {
+      "je": "gréai",
+      "tu": "gréas",
+      "il": "gréa",
+      "nous": "gréâmes",
+      "vous": "gréâtes",
+      "ils": "gréèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus gréé",
+      "tu": "eus gréé",
+      "il": "eut gréé",
+      "nous": "eûmes gréé",
+      "vous": "eûtes gréé",
+      "ils": "eurent gréé"
+    },
+    "futur_simple": {
+      "je": "gréerai",
+      "tu": "gréeras",
+      "il": "gréera",
+      "nous": "gréerons",
+      "vous": "gréerez",
+      "ils": "gréeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai gréé",
+      "tu": "auras gréé",
+      "il": "aura gréé",
+      "nous": "aurons gréé",
+      "vous": "aurez gréé",
+      "ils": "auront gréé"
+    },
+    "subjonctif_présent": {
+      "je": "grée",
+      "tu": "grées",
+      "il": "grée",
+      "nous": "gréions",
+      "vous": "gréiez",
+      "ils": "gréent"
+    },
+    "subjonctif_passé": {
+      "je": "aie gréé",
+      "tu": "aies gréé",
+      "il": "ait gréé",
+      "nous": "ayons gréé",
+      "vous": "ayez gréé",
+      "ils": "aient gréé"
+    },
+    "subjonctif_imparfait": {
+      "je": "gréasse",
+      "tu": "gréasses",
+      "il": "gréât",
+      "nous": "gréassions",
+      "vous": "gréassiez",
+      "ils": "gréassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse gréé",
+      "tu": "eusses gréé",
+      "il": "eût gréé",
+      "nous": "eussions gréé",
+      "vous": "eussiez gréé",
+      "ils": "eussent gréé"
+    },
+    "conditionnel_présent": {
+      "je": "gréerais",
+      "tu": "gréerais",
+      "il": "gréerait",
+      "nous": "gréerions",
+      "vous": "gréeriez",
+      "ils": "gréeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais gréé",
+      "tu": "aurais gréé",
+      "il": "aurait gréé",
+      "nous": "aurions gréé",
+      "vous": "auriez gréé",
+      "ils": "auraient gréé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse gréé",
+      "tu": "eusses gréé",
+      "il": "eût gréé",
+      "nous": "eussions gréé",
+      "vous": "eussiez gréé",
+      "ils": "eussent gréé"
+    },
+    "translation": "obciążać",
+    "group": 1
+  },
+  {
+    "infinitive": "grêler",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "grêle",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "a grêlé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "grêlait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "avait grêlé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "grêla",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "eut grêlé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "grêlera",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "aura grêlé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "grêle",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "ait grêlé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "grêlât",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "eût grêlé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "grêlerait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "aurait grêlé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "eût grêlé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "pada",
+    "group": 1
+  },
+  {
+    "infinitive": "grever",
+    "présent": {
+      "je": "grève",
+      "tu": "grèves",
+      "il": "grève",
+      "nous": "grevons",
+      "vous": "grevez",
+      "ils": "grèvent"
+    },
+    "passé_composé": {
+      "je": "ai grevé",
+      "tu": "as grevé",
+      "il": "a grevé",
+      "nous": "avons grevé",
+      "vous": "avez grevé",
+      "ils": "ont grevé"
+    },
+    "imparfait": {
+      "je": "grevais",
+      "tu": "grevais",
+      "il": "grevait",
+      "nous": "grevions",
+      "vous": "greviez",
+      "ils": "grevaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais grevé",
+      "tu": "avais grevé",
+      "il": "avait grevé",
+      "nous": "avions grevé",
+      "vous": "aviez grevé",
+      "ils": "avaient grevé"
+    },
+    "passé_simple": {
+      "je": "grevai",
+      "tu": "grevas",
+      "il": "greva",
+      "nous": "grevâmes",
+      "vous": "grevâtes",
+      "ils": "grevèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus grevé",
+      "tu": "eus grevé",
+      "il": "eut grevé",
+      "nous": "eûmes grevé",
+      "vous": "eûtes grevé",
+      "ils": "eurent grevé"
+    },
+    "futur_simple": {
+      "je": "grèverai",
+      "tu": "grèveras",
+      "il": "grèvera",
+      "nous": "grèverons",
+      "vous": "grèverez",
+      "ils": "grèveront"
+    },
+    "futur_antérieur": {
+      "je": "aurai grevé",
+      "tu": "auras grevé",
+      "il": "aura grevé",
+      "nous": "aurons grevé",
+      "vous": "aurez grevé",
+      "ils": "auront grevé"
+    },
+    "subjonctif_présent": {
+      "je": "grève",
+      "tu": "grèves",
+      "il": "grève",
+      "nous": "grevions",
+      "vous": "greviez",
+      "ils": "grèvent"
+    },
+    "subjonctif_passé": {
+      "je": "aie grevé",
+      "tu": "aies grevé",
+      "il": "ait grevé",
+      "nous": "ayons grevé",
+      "vous": "ayez grevé",
+      "ils": "aient grevé"
+    },
+    "subjonctif_imparfait": {
+      "je": "grevasse",
+      "tu": "grevasses",
+      "il": "grevât",
+      "nous": "grevassions",
+      "vous": "grevassiez",
+      "ils": "grevassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse grevé",
+      "tu": "eusses grevé",
+      "il": "eût grevé",
+      "nous": "eussions grevé",
+      "vous": "eussiez grevé",
+      "ils": "eussent grevé"
+    },
+    "conditionnel_présent": {
+      "je": "grèverais",
+      "tu": "grèverais",
+      "il": "grèverait",
+      "nous": "grèverions",
+      "vous": "grèveriez",
+      "ils": "grèveraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais grevé",
+      "tu": "aurais grevé",
+      "il": "aurait grevé",
+      "nous": "aurions grevé",
+      "vous": "auriez grevé",
+      "ils": "auraient grevé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse grevé",
+      "tu": "eusses grevé",
+      "il": "eût grevé",
+      "nous": "eussions grevé",
+      "vous": "eussiez grevé",
+      "ils": "eussent grevé"
+    },
+    "translation": "obciążać",
+    "group": 1
+  },
+  {
+    "infinitive": "gréver",
+    "présent": {
+      "je": "grève",
+      "tu": "grèves",
+      "il": "grève",
+      "nous": "grevons",
+      "vous": "grevez",
+      "ils": "grèvent"
+    },
+    "passé_composé": {
+      "je": "ai grevé",
+      "tu": "as grevé",
+      "il": "a grevé",
+      "nous": "avons grevé",
+      "vous": "avez grevé",
+      "ils": "ont grevé"
+    },
+    "imparfait": {
+      "je": "grevais",
+      "tu": "grevais",
+      "il": "grevait",
+      "nous": "grevions",
+      "vous": "greviez",
+      "ils": "grevaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais grevé",
+      "tu": "avais grevé",
+      "il": "avait grevé",
+      "nous": "avions grevé",
+      "vous": "aviez grevé",
+      "ils": "avaient grevé"
+    },
+    "passé_simple": {
+      "je": "grevai",
+      "tu": "grevas",
+      "il": "greva",
+      "nous": "grevâmes",
+      "vous": "grevâtes",
+      "ils": "grevèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus grevé",
+      "tu": "eus grevé",
+      "il": "eut grevé",
+      "nous": "eûmes grevé",
+      "vous": "eûtes grevé",
+      "ils": "eurent grevé"
+    },
+    "futur_simple": {
+      "je": "grèverai",
+      "tu": "grèveras",
+      "il": "grèvera",
+      "nous": "grèverons",
+      "vous": "grèverez",
+      "ils": "grèveront"
+    },
+    "futur_antérieur": {
+      "je": "aurai grevé",
+      "tu": "auras grevé",
+      "il": "aura grevé",
+      "nous": "aurons grevé",
+      "vous": "aurez grevé",
+      "ils": "auront grevé"
+    },
+    "subjonctif_présent": {
+      "je": "grève",
+      "tu": "grèves",
+      "il": "grève",
+      "nous": "grevions",
+      "vous": "greviez",
+      "ils": "grèvent"
+    },
+    "subjonctif_passé": {
+      "je": "aie grevé",
+      "tu": "aies grevé",
+      "il": "ait grevé",
+      "nous": "ayons grevé",
+      "vous": "ayez grevé",
+      "ils": "aient grevé"
+    },
+    "subjonctif_imparfait": {
+      "je": "grevasse",
+      "tu": "grevasses",
+      "il": "grevât",
+      "nous": "grevassions",
+      "vous": "grevassiez",
+      "ils": "grevassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse grevé",
+      "tu": "eusses grevé",
+      "il": "eût grevé",
+      "nous": "eussions grevé",
+      "vous": "eussiez grevé",
+      "ils": "eussent grevé"
+    },
+    "conditionnel_présent": {
+      "je": "grèverais",
+      "tu": "grèverais",
+      "il": "grèverait",
+      "nous": "grèverions",
+      "vous": "grèveriez",
+      "ils": "grèveraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais grevé",
+      "tu": "aurais grevé",
+      "il": "aurait grevé",
+      "nous": "aurions grevé",
+      "vous": "auriez grevé",
+      "ils": "auraient grevé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse grevé",
+      "tu": "eusses grevé",
+      "il": "eût grevé",
+      "nous": "eussions grevé",
+      "vous": "eussiez grevé",
+      "ils": "eussent grevé"
+    },
+    "translation": "obciążać",
+    "group": 1
+  },
+  {
+    "infinitive": "grignoter",
+    "présent": {
+      "je": "grignote",
+      "tu": "grignotes",
+      "il": "grignote",
+      "nous": "grignotons",
+      "vous": "grignotez",
+      "ils": "grignotent"
+    },
+    "passé_composé": {
+      "je": "ai grignoté",
+      "tu": "as grignoté",
+      "il": "a grignoté",
+      "nous": "avons grignoté",
+      "vous": "avez grignoté",
+      "ils": "ont grignoté"
+    },
+    "imparfait": {
+      "je": "grignotais",
+      "tu": "grignotais",
+      "il": "grignotait",
+      "nous": "grignotions",
+      "vous": "grignotiez",
+      "ils": "grignotaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais grignoté",
+      "tu": "avais grignoté",
+      "il": "avait grignoté",
+      "nous": "avions grignoté",
+      "vous": "aviez grignoté",
+      "ils": "avaient grignoté"
+    },
+    "passé_simple": {
+      "je": "grignotai",
+      "tu": "grignotas",
+      "il": "grignota",
+      "nous": "grignotâmes",
+      "vous": "grignotâtes",
+      "ils": "grignotèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus grignoté",
+      "tu": "eus grignoté",
+      "il": "eut grignoté",
+      "nous": "eûmes grignoté",
+      "vous": "eûtes grignoté",
+      "ils": "eurent grignoté"
+    },
+    "futur_simple": {
+      "je": "grignoterai",
+      "tu": "grignoteras",
+      "il": "grignotera",
+      "nous": "grignoterons",
+      "vous": "grignoterez",
+      "ils": "grignoteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai grignoté",
+      "tu": "auras grignoté",
+      "il": "aura grignoté",
+      "nous": "aurons grignoté",
+      "vous": "aurez grignoté",
+      "ils": "auront grignoté"
+    },
+    "subjonctif_présent": {
+      "je": "grignote",
+      "tu": "grignotes",
+      "il": "grignote",
+      "nous": "grignotions",
+      "vous": "grignotiez",
+      "ils": "grignotent"
+    },
+    "subjonctif_passé": {
+      "je": "aie grignoté",
+      "tu": "aies grignoté",
+      "il": "ait grignoté",
+      "nous": "ayons grignoté",
+      "vous": "ayez grignoté",
+      "ils": "aient grignoté"
+    },
+    "subjonctif_imparfait": {
+      "je": "grignotasse",
+      "tu": "grignotasses",
+      "il": "grignotât",
+      "nous": "grignotassions",
+      "vous": "grignotassiez",
+      "ils": "grignotassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse grignoté",
+      "tu": "eusses grignoté",
+      "il": "eût grignoté",
+      "nous": "eussions grignoté",
+      "vous": "eussiez grignoté",
+      "ils": "eussent grignoté"
+    },
+    "conditionnel_présent": {
+      "je": "grignoterais",
+      "tu": "grignoterais",
+      "il": "grignoterait",
+      "nous": "grignoterions",
+      "vous": "grignoteriez",
+      "ils": "grignoteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais grignoté",
+      "tu": "aurais grignoté",
+      "il": "aurait grignoté",
+      "nous": "aurions grignoté",
+      "vous": "auriez grignoté",
+      "ils": "auraient grignoté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse grignoté",
+      "tu": "eusses grignoté",
+      "il": "eût grignoté",
+      "nous": "eussions grignoté",
+      "vous": "eussiez grignoté",
+      "ils": "eussent grignoté"
+    },
+    "translation": "pogryzać",
+    "group": 1
+  },
+  {
+    "infinitive": "grimper",
+    "présent": {
+      "je": "grimpe",
+      "tu": "grimpes",
+      "il": "grimpe",
+      "nous": "grimpons",
+      "vous": "grimpez",
+      "ils": "grimpent"
+    },
+    "passé_composé": {
+      "je": "ai grimpé",
+      "tu": "as grimpé",
+      "il": "a grimpé",
+      "nous": "avons grimpé",
+      "vous": "avez grimpé",
+      "ils": "ont grimpé"
+    },
+    "imparfait": {
+      "je": "grimpais",
+      "tu": "grimpais",
+      "il": "grimpait",
+      "nous": "grimpions",
+      "vous": "grimpiez",
+      "ils": "grimpaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais grimpé",
+      "tu": "avais grimpé",
+      "il": "avait grimpé",
+      "nous": "avions grimpé",
+      "vous": "aviez grimpé",
+      "ils": "avaient grimpé"
+    },
+    "passé_simple": {
+      "je": "grimpai",
+      "tu": "grimpas",
+      "il": "grimpa",
+      "nous": "grimpâmes",
+      "vous": "grimpâtes",
+      "ils": "grimpèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus grimpé",
+      "tu": "eus grimpé",
+      "il": "eut grimpé",
+      "nous": "eûmes grimpé",
+      "vous": "eûtes grimpé",
+      "ils": "eurent grimpé"
+    },
+    "futur_simple": {
+      "je": "grimperai",
+      "tu": "grimperas",
+      "il": "grimpera",
+      "nous": "grimperons",
+      "vous": "grimperez",
+      "ils": "grimperont"
+    },
+    "futur_antérieur": {
+      "je": "aurai grimpé",
+      "tu": "auras grimpé",
+      "il": "aura grimpé",
+      "nous": "aurons grimpé",
+      "vous": "aurez grimpé",
+      "ils": "auront grimpé"
+    },
+    "subjonctif_présent": {
+      "je": "grimpe",
+      "tu": "grimpes",
+      "il": "grimpe",
+      "nous": "grimpions",
+      "vous": "grimpiez",
+      "ils": "grimpent"
+    },
+    "subjonctif_passé": {
+      "je": "aie grimpé",
+      "tu": "aies grimpé",
+      "il": "ait grimpé",
+      "nous": "ayons grimpé",
+      "vous": "ayez grimpé",
+      "ils": "aient grimpé"
+    },
+    "subjonctif_imparfait": {
+      "je": "grimpasse",
+      "tu": "grimpasses",
+      "il": "grimpât",
+      "nous": "grimpassions",
+      "vous": "grimpassiez",
+      "ils": "grimpassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse grimpé",
+      "tu": "eusses grimpé",
+      "il": "eût grimpé",
+      "nous": "eussions grimpé",
+      "vous": "eussiez grimpé",
+      "ils": "eussent grimpé"
+    },
+    "conditionnel_présent": {
+      "je": "grimperais",
+      "tu": "grimperais",
+      "il": "grimperait",
+      "nous": "grimperions",
+      "vous": "grimperiez",
+      "ils": "grimperaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais grimpé",
+      "tu": "aurais grimpé",
+      "il": "aurait grimpé",
+      "nous": "aurions grimpé",
+      "vous": "auriez grimpé",
+      "ils": "auraient grimpé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse grimpé",
+      "tu": "eusses grimpé",
+      "il": "eût grimpé",
+      "nous": "eussions grimpé",
+      "vous": "eussiez grimpé",
+      "ils": "eussent grimpé"
+    },
+    "translation": "wspinać",
+    "group": 1
+  },
+  {
+    "infinitive": "grogner",
+    "présent": {
+      "je": "grogne",
+      "tu": "grognes",
+      "il": "grogne",
+      "nous": "grognons",
+      "vous": "grognez",
+      "ils": "grognent"
+    },
+    "passé_composé": {
+      "je": "ai grogné",
+      "tu": "as grogné",
+      "il": "a grogné",
+      "nous": "avons grogné",
+      "vous": "avez grogné",
+      "ils": "ont grogné"
+    },
+    "imparfait": {
+      "je": "grognais",
+      "tu": "grognais",
+      "il": "grognait",
+      "nous": "grognions",
+      "vous": "grogniez",
+      "ils": "grognaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais grogné",
+      "tu": "avais grogné",
+      "il": "avait grogné",
+      "nous": "avions grogné",
+      "vous": "aviez grogné",
+      "ils": "avaient grogné"
+    },
+    "passé_simple": {
+      "je": "grognai",
+      "tu": "grognas",
+      "il": "grogna",
+      "nous": "grognâmes",
+      "vous": "grognâtes",
+      "ils": "grognèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus grogné",
+      "tu": "eus grogné",
+      "il": "eut grogné",
+      "nous": "eûmes grogné",
+      "vous": "eûtes grogné",
+      "ils": "eurent grogné"
+    },
+    "futur_simple": {
+      "je": "grognerai",
+      "tu": "grogneras",
+      "il": "grognera",
+      "nous": "grognerons",
+      "vous": "grognerez",
+      "ils": "grogneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai grogné",
+      "tu": "auras grogné",
+      "il": "aura grogné",
+      "nous": "aurons grogné",
+      "vous": "aurez grogné",
+      "ils": "auront grogné"
+    },
+    "subjonctif_présent": {
+      "je": "grogne",
+      "tu": "grognes",
+      "il": "grogne",
+      "nous": "grognions",
+      "vous": "grogniez",
+      "ils": "grognent"
+    },
+    "subjonctif_passé": {
+      "je": "aie grogné",
+      "tu": "aies grogné",
+      "il": "ait grogné",
+      "nous": "ayons grogné",
+      "vous": "ayez grogné",
+      "ils": "aient grogné"
+    },
+    "subjonctif_imparfait": {
+      "je": "grognasse",
+      "tu": "grognasses",
+      "il": "grognât",
+      "nous": "grognassions",
+      "vous": "grognassiez",
+      "ils": "grognassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse grogné",
+      "tu": "eusses grogné",
+      "il": "eût grogné",
+      "nous": "eussions grogné",
+      "vous": "eussiez grogné",
+      "ils": "eussent grogné"
+    },
+    "conditionnel_présent": {
+      "je": "grognerais",
+      "tu": "grognerais",
+      "il": "grognerait",
+      "nous": "grognerions",
+      "vous": "grogneriez",
+      "ils": "grogneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais grogné",
+      "tu": "aurais grogné",
+      "il": "aurait grogné",
+      "nous": "aurions grogné",
+      "vous": "auriez grogné",
+      "ils": "auraient grogné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse grogné",
+      "tu": "eusses grogné",
+      "il": "eût grogné",
+      "nous": "eussions grogné",
+      "vous": "eussiez grogné",
+      "ils": "eussent grogné"
+    },
+    "translation": "warczeć",
+    "group": 1
+  }
+]

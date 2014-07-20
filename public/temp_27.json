@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "biper",
+    "présent": {
+      "je": "bipe",
+      "tu": "bipes",
+      "il": "bipe",
+      "nous": "bipons",
+      "vous": "bipez",
+      "ils": "bipent"
+    },
+    "passé_composé": {
+      "je": "ai bipé",
+      "tu": "as bipé",
+      "il": "a bipé",
+      "nous": "avons bipé",
+      "vous": "avez bipé",
+      "ils": "ont bipé"
+    },
+    "imparfait": {
+      "je": "bipais",
+      "tu": "bipais",
+      "il": "bipait",
+      "nous": "bipions",
+      "vous": "bipiez",
+      "ils": "bipaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais bipé",
+      "tu": "avais bipé",
+      "il": "avait bipé",
+      "nous": "avions bipé",
+      "vous": "aviez bipé",
+      "ils": "avaient bipé"
+    },
+    "passé_simple": {
+      "je": "bipai",
+      "tu": "bipas",
+      "il": "bipa",
+      "nous": "bipâmes",
+      "vous": "bipâtes",
+      "ils": "bipèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus bipé",
+      "tu": "eus bipé",
+      "il": "eut bipé",
+      "nous": "eûmes bipé",
+      "vous": "eûtes bipé",
+      "ils": "eurent bipé"
+    },
+    "futur_simple": {
+      "je": "biperai",
+      "tu": "biperas",
+      "il": "bipera",
+      "nous": "biperons",
+      "vous": "biperez",
+      "ils": "biperont"
+    },
+    "futur_antérieur": {
+      "je": "aurai bipé",
+      "tu": "auras bipé",
+      "il": "aura bipé",
+      "nous": "aurons bipé",
+      "vous": "aurez bipé",
+      "ils": "auront bipé"
+    },
+    "subjonctif_présent": {
+      "je": "bipe",
+      "tu": "bipes",
+      "il": "bipe",
+      "nous": "bipions",
+      "vous": "bipiez",
+      "ils": "bipent"
+    },
+    "subjonctif_passé": {
+      "je": "aie bipé",
+      "tu": "aies bipé",
+      "il": "ait bipé",
+      "nous": "ayons bipé",
+      "vous": "ayez bipé",
+      "ils": "aient bipé"
+    },
+    "subjonctif_imparfait": {
+      "je": "bipasse",
+      "tu": "bipasses",
+      "il": "bipât",
+      "nous": "bipassions",
+      "vous": "bipassiez",
+      "ils": "bipassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse bipé",
+      "tu": "eusses bipé",
+      "il": "eût bipé",
+      "nous": "eussions bipé",
+      "vous": "eussiez bipé",
+      "ils": "eussent bipé"
+    },
+    "conditionnel_présent": {
+      "je": "biperais",
+      "tu": "biperais",
+      "il": "biperait",
+      "nous": "biperions",
+      "vous": "biperiez",
+      "ils": "biperaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais bipé",
+      "tu": "aurais bipé",
+      "il": "aurait bipé",
+      "nous": "aurions bipé",
+      "vous": "auriez bipé",
+      "ils": "auraient bipé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse bipé",
+      "tu": "eusses bipé",
+      "il": "eût bipé",
+      "nous": "eussions bipé",
+      "vous": "eussiez bipé",
+      "ils": "eussent bipé"
+    },
+    "translation": "pognieść",
+    "group": 1
+  },
+  {
+    "infinitive": "biser",
+    "présent": {
+      "je": "bise",
+      "tu": "bises",
+      "il": "bise",
+      "nous": "bisons",
+      "vous": "bisez",
+      "ils": "bisent"
+    },
+    "passé_composé": {
+      "je": "ai bisé",
+      "tu": "as bisé",
+      "il": "a bisé",
+      "nous": "avons bisé",
+      "vous": "avez bisé",
+      "ils": "ont bisé"
+    },
+    "imparfait": {
+      "je": "bisais",
+      "tu": "bisais",
+      "il": "bisait",
+      "nous": "bisions",
+      "vous": "bisiez",
+      "ils": "bisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais bisé",
+      "tu": "avais bisé",
+      "il": "avait bisé",
+      "nous": "avions bisé",
+      "vous": "aviez bisé",
+      "ils": "avaient bisé"
+    },
+    "passé_simple": {
+      "je": "bisai",
+      "tu": "bisas",
+      "il": "bisa",
+      "nous": "bisâmes",
+      "vous": "bisâtes",
+      "ils": "bisèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus bisé",
+      "tu": "eus bisé",
+      "il": "eut bisé",
+      "nous": "eûmes bisé",
+      "vous": "eûtes bisé",
+      "ils": "eurent bisé"
+    },
+    "futur_simple": {
+      "je": "biserai",
+      "tu": "biseras",
+      "il": "bisera",
+      "nous": "biserons",
+      "vous": "biserez",
+      "ils": "biseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai bisé",
+      "tu": "auras bisé",
+      "il": "aura bisé",
+      "nous": "aurons bisé",
+      "vous": "aurez bisé",
+      "ils": "auront bisé"
+    },
+    "subjonctif_présent": {
+      "je": "bise",
+      "tu": "bises",
+      "il": "bise",
+      "nous": "bisions",
+      "vous": "bisiez",
+      "ils": "bisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie bisé",
+      "tu": "aies bisé",
+      "il": "ait bisé",
+      "nous": "ayons bisé",
+      "vous": "ayez bisé",
+      "ils": "aient bisé"
+    },
+    "subjonctif_imparfait": {
+      "je": "bisasse",
+      "tu": "bisasses",
+      "il": "bisât",
+      "nous": "bisassions",
+      "vous": "bisassiez",
+      "ils": "bisassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse bisé",
+      "tu": "eusses bisé",
+      "il": "eût bisé",
+      "nous": "eussions bisé",
+      "vous": "eussiez bisé",
+      "ils": "eussent bisé"
+    },
+    "conditionnel_présent": {
+      "je": "biserais",
+      "tu": "biserais",
+      "il": "biserait",
+      "nous": "biserions",
+      "vous": "biseriez",
+      "ils": "biseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais bisé",
+      "tu": "aurais bisé",
+      "il": "aurait bisé",
+      "nous": "aurions bisé",
+      "vous": "auriez bisé",
+      "ils": "auraient bisé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse bisé",
+      "tu": "eusses bisé",
+      "il": "eût bisé",
+      "nous": "eussions bisé",
+      "vous": "eussiez bisé",
+      "ils": "eussent bisé"
+    },
+    "translation": "bisować",
+    "group": 1
+  },
+  {
+    "infinitive": "blaguer",
+    "présent": {
+      "je": "blague",
+      "tu": "blagues",
+      "il": "blague",
+      "nous": "blaguons",
+      "vous": "blaguez",
+      "ils": "blaguent"
+    },
+    "passé_composé": {
+      "je": "ai blagué",
+      "tu": "as blagué",
+      "il": "a blagué",
+      "nous": "avons blagué",
+      "vous": "avez blagué",
+      "ils": "ont blagué"
+    },
+    "imparfait": {
+      "je": "blaguais",
+      "tu": "blaguais",
+      "il": "blaguait",
+      "nous": "blaguions",
+      "vous": "blaguiez",
+      "ils": "blaguaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais blagué",
+      "tu": "avais blagué",
+      "il": "avait blagué",
+      "nous": "avions blagué",
+      "vous": "aviez blagué",
+      "ils": "avaient blagué"
+    },
+    "passé_simple": {
+      "je": "blaguai",
+      "tu": "blaguas",
+      "il": "blagua",
+      "nous": "blaguâmes",
+      "vous": "blaguâtes",
+      "ils": "blaguèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus blagué",
+      "tu": "eus blagué",
+      "il": "eut blagué",
+      "nous": "eûmes blagué",
+      "vous": "eûtes blagué",
+      "ils": "eurent blagué"
+    },
+    "futur_simple": {
+      "je": "blaguerai",
+      "tu": "blagueras",
+      "il": "blaguera",
+      "nous": "blaguerons",
+      "vous": "blaguerez",
+      "ils": "blagueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai blagué",
+      "tu": "auras blagué",
+      "il": "aura blagué",
+      "nous": "aurons blagué",
+      "vous": "aurez blagué",
+      "ils": "auront blagué"
+    },
+    "subjonctif_présent": {
+      "je": "blague",
+      "tu": "blagues",
+      "il": "blague",
+      "nous": "blaguions",
+      "vous": "blaguiez",
+      "ils": "blaguent"
+    },
+    "subjonctif_passé": {
+      "je": "aie blagué",
+      "tu": "aies blagué",
+      "il": "ait blagué",
+      "nous": "ayons blagué",
+      "vous": "ayez blagué",
+      "ils": "aient blagué"
+    },
+    "subjonctif_imparfait": {
+      "je": "blaguasse",
+      "tu": "blaguasses",
+      "il": "blaguât",
+      "nous": "blaguassions",
+      "vous": "blaguassiez",
+      "ils": "blaguassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse blagué",
+      "tu": "eusses blagué",
+      "il": "eût blagué",
+      "nous": "eussions blagué",
+      "vous": "eussiez blagué",
+      "ils": "eussent blagué"
+    },
+    "conditionnel_présent": {
+      "je": "blaguerais",
+      "tu": "blaguerais",
+      "il": "blaguerait",
+      "nous": "blaguerions",
+      "vous": "blagueriez",
+      "ils": "blagueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais blagué",
+      "tu": "aurais blagué",
+      "il": "aurait blagué",
+      "nous": "aurions blagué",
+      "vous": "auriez blagué",
+      "ils": "auraient blagué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse blagué",
+      "tu": "eusses blagué",
+      "il": "eût blagué",
+      "nous": "eussions blagué",
+      "vous": "eussiez blagué",
+      "ils": "eussent blagué"
+    },
+    "translation": "żartować",
+    "group": 1
+  },
+  {
+    "infinitive": "blâmer",
+    "présent": {
+      "je": "blâme",
+      "tu": "blâmes",
+      "il": "blâme",
+      "nous": "blâmons",
+      "vous": "blâmez",
+      "ils": "blâment"
+    },
+    "passé_composé": {
+      "je": "ai blâmé",
+      "tu": "as blâmé",
+      "il": "a blâmé",
+      "nous": "avons blâmé",
+      "vous": "avez blâmé",
+      "ils": "ont blâmé"
+    },
+    "imparfait": {
+      "je": "blâmais",
+      "tu": "blâmais",
+      "il": "blâmait",
+      "nous": "blâmions",
+      "vous": "blâmiez",
+      "ils": "blâmaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais blâmé",
+      "tu": "avais blâmé",
+      "il": "avait blâmé",
+      "nous": "avions blâmé",
+      "vous": "aviez blâmé",
+      "ils": "avaient blâmé"
+    },
+    "passé_simple": {
+      "je": "blâmai",
+      "tu": "blâmas",
+      "il": "blâma",
+      "nous": "blâmâmes",
+      "vous": "blâmâtes",
+      "ils": "blâmèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus blâmé",
+      "tu": "eus blâmé",
+      "il": "eut blâmé",
+      "nous": "eûmes blâmé",
+      "vous": "eûtes blâmé",
+      "ils": "eurent blâmé"
+    },
+    "futur_simple": {
+      "je": "blâmerai",
+      "tu": "blâmeras",
+      "il": "blâmera",
+      "nous": "blâmerons",
+      "vous": "blâmerez",
+      "ils": "blâmeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai blâmé",
+      "tu": "auras blâmé",
+      "il": "aura blâmé",
+      "nous": "aurons blâmé",
+      "vous": "aurez blâmé",
+      "ils": "auront blâmé"
+    },
+    "subjonctif_présent": {
+      "je": "blâme",
+      "tu": "blâmes",
+      "il": "blâme",
+      "nous": "blâmions",
+      "vous": "blâmiez",
+      "ils": "blâment"
+    },
+    "subjonctif_passé": {
+      "je": "aie blâmé",
+      "tu": "aies blâmé",
+      "il": "ait blâmé",
+      "nous": "ayons blâmé",
+      "vous": "ayez blâmé",
+      "ils": "aient blâmé"
+    },
+    "subjonctif_imparfait": {
+      "je": "blâmasse",
+      "tu": "blâmasses",
+      "il": "blâmât",
+      "nous": "blâmassions",
+      "vous": "blâmassiez",
+      "ils": "blâmassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse blâmé",
+      "tu": "eusses blâmé",
+      "il": "eût blâmé",
+      "nous": "eussions blâmé",
+      "vous": "eussiez blâmé",
+      "ils": "eussent blâmé"
+    },
+    "conditionnel_présent": {
+      "je": "blâmerais",
+      "tu": "blâmerais",
+      "il": "blâmerait",
+      "nous": "blâmerions",
+      "vous": "blâmeriez",
+      "ils": "blâmeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais blâmé",
+      "tu": "aurais blâmé",
+      "il": "aurait blâmé",
+      "nous": "aurions blâmé",
+      "vous": "auriez blâmé",
+      "ils": "auraient blâmé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse blâmé",
+      "tu": "eusses blâmé",
+      "il": "eût blâmé",
+      "nous": "eussions blâmé",
+      "vous": "eussiez blâmé",
+      "ils": "eussent blâmé"
+    },
+    "translation": "ganić",
+    "group": 1
+  },
+  {
+    "infinitive": "blanchir",
+    "présent": {
+      "je": "blanchis",
+      "tu": "blanchis",
+      "il": "blanchit",
+      "nous": "blanchissons",
+      "vous": "blanchissez",
+      "ils": "blanchissent"
+    },
+    "passé_composé": {
+      "je": "ai blanchi",
+      "tu": "as blanchi",
+      "il": "a blanchi",
+      "nous": "avons blanchi",
+      "vous": "avez blanchi",
+      "ils": "ont blanchi"
+    },
+    "imparfait": {
+      "je": "blanchissais",
+      "tu": "blanchissais",
+      "il": "blanchissait",
+      "nous": "blanchissions",
+      "vous": "blanchissiez",
+      "ils": "blanchissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais blanchi",
+      "tu": "avais blanchi",
+      "il": "avait blanchi",
+      "nous": "avions blanchi",
+      "vous": "aviez blanchi",
+      "ils": "avaient blanchi"
+    },
+    "passé_simple": {
+      "je": "blanchis",
+      "tu": "blanchis",
+      "il": "blanchit",
+      "nous": "blanchîmes",
+      "vous": "blanchîtes",
+      "ils": "blanchirent"
+    },
+    "passé_antérieur": {
+      "je": "eus blanchi",
+      "tu": "eus blanchi",
+      "il": "eut blanchi",
+      "nous": "eûmes blanchi",
+      "vous": "eûtes blanchi",
+      "ils": "eurent blanchi"
+    },
+    "futur_simple": {
+      "je": "blanchirai",
+      "tu": "blanchiras",
+      "il": "blanchira",
+      "nous": "blanchirons",
+      "vous": "blanchirez",
+      "ils": "blanchiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai blanchi",
+      "tu": "auras blanchi",
+      "il": "aura blanchi",
+      "nous": "aurons blanchi",
+      "vous": "aurez blanchi",
+      "ils": "auront blanchi"
+    },
+    "subjonctif_présent": {
+      "je": "blanchisse",
+      "tu": "blanchisses",
+      "il": "blanchisse",
+      "nous": "blanchissions",
+      "vous": "blanchissiez",
+      "ils": "blanchissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie blanchi",
+      "tu": "aies blanchi",
+      "il": "ait blanchi",
+      "nous": "ayons blanchi",
+      "vous": "ayez blanchi",
+      "ils": "aient blanchi"
+    },
+    "subjonctif_imparfait": {
+      "je": "blanchisse",
+      "tu": "blanchisses",
+      "il": "blanchît",
+      "nous": "blanchissions",
+      "vous": "blanchissiez",
+      "ils": "blanchissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse blanchi",
+      "tu": "eusses blanchi",
+      "il": "eût blanchi",
+      "nous": "eussions blanchi",
+      "vous": "eussiez blanchi",
+      "ils": "eussent blanchi"
+    },
+    "conditionnel_présent": {
+      "je": "blanchirais",
+      "tu": "blanchirais",
+      "il": "blanchirait",
+      "nous": "blanchirions",
+      "vous": "blanchiriez",
+      "ils": "blanchiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais blanchi",
+      "tu": "aurais blanchi",
+      "il": "aurait blanchi",
+      "nous": "aurions blanchi",
+      "vous": "auriez blanchi",
+      "ils": "auraient blanchi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse blanchi",
+      "tu": "eusses blanchi",
+      "il": "eût blanchi",
+      "nous": "eussions blanchi",
+      "vous": "eussiez blanchi",
+      "ils": "eussent blanchi"
+    },
+    "translation": "wybielać",
+    "group": 2
+  },
+  {
+    "infinitive": "blêmir",
+    "présent": {
+      "je": "blêmis",
+      "tu": "blêmis",
+      "il": "blêmit",
+      "nous": "blêmissons",
+      "vous": "blêmissez",
+      "ils": "blêmissent"
+    },
+    "passé_composé": {
+      "je": "ai blêmi",
+      "tu": "as blêmi",
+      "il": "a blêmi",
+      "nous": "avons blêmi",
+      "vous": "avez blêmi",
+      "ils": "ont blêmi"
+    },
+    "imparfait": {
+      "je": "blêmissais",
+      "tu": "blêmissais",
+      "il": "blêmissait",
+      "nous": "blêmissions",
+      "vous": "blêmissiez",
+      "ils": "blêmissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais blêmi",
+      "tu": "avais blêmi",
+      "il": "avait blêmi",
+      "nous": "avions blêmi",
+      "vous": "aviez blêmi",
+      "ils": "avaient blêmi"
+    },
+    "passé_simple": {
+      "je": "blêmis",
+      "tu": "blêmis",
+      "il": "blêmit",
+      "nous": "blêmîmes",
+      "vous": "blêmîtes",
+      "ils": "blêmirent"
+    },
+    "passé_antérieur": {
+      "je": "eus blêmi",
+      "tu": "eus blêmi",
+      "il": "eut blêmi",
+      "nous": "eûmes blêmi",
+      "vous": "eûtes blêmi",
+      "ils": "eurent blêmi"
+    },
+    "futur_simple": {
+      "je": "blêmirai",
+      "tu": "blêmiras",
+      "il": "blêmira",
+      "nous": "blêmirons",
+      "vous": "blêmirez",
+      "ils": "blêmiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai blêmi",
+      "tu": "auras blêmi",
+      "il": "aura blêmi",
+      "nous": "aurons blêmi",
+      "vous": "aurez blêmi",
+      "ils": "auront blêmi"
+    },
+    "subjonctif_présent": {
+      "je": "blêmisse",
+      "tu": "blêmisses",
+      "il": "blêmisse",
+      "nous": "blêmissions",
+      "vous": "blêmissiez",
+      "ils": "blêmissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie blêmi",
+      "tu": "aies blêmi",
+      "il": "ait blêmi",
+      "nous": "ayons blêmi",
+      "vous": "ayez blêmi",
+      "ils": "aient blêmi"
+    },
+    "subjonctif_imparfait": {
+      "je": "blêmisse",
+      "tu": "blêmisses",
+      "il": "blêmît",
+      "nous": "blêmissions",
+      "vous": "blêmissiez",
+      "ils": "blêmissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse blêmi",
+      "tu": "eusses blêmi",
+      "il": "eût blêmi",
+      "nous": "eussions blêmi",
+      "vous": "eussiez blêmi",
+      "ils": "eussent blêmi"
+    },
+    "conditionnel_présent": {
+      "je": "blêmirais",
+      "tu": "blêmirais",
+      "il": "blêmirait",
+      "nous": "blêmirions",
+      "vous": "blêmiriez",
+      "ils": "blêmiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais blêmi",
+      "tu": "aurais blêmi",
+      "il": "aurait blêmi",
+      "nous": "aurions blêmi",
+      "vous": "auriez blêmi",
+      "ils": "auraient blêmi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse blêmi",
+      "tu": "eusses blêmi",
+      "il": "eût blêmi",
+      "nous": "eussions blêmi",
+      "vous": "eussiez blêmi",
+      "ils": "eussent blêmi"
+    },
+    "translation": "blednąć",
+    "group": 2
+  },
+  {
+    "infinitive": "blesser",
+    "présent": {
+      "je": "blesse",
+      "tu": "blesses",
+      "il": "blesse",
+      "nous": "blessons",
+      "vous": "blessez",
+      "ils": "blessent"
+    },
+    "passé_composé": {
+      "je": "ai blessé",
+      "tu": "as blessé",
+      "il": "a blessé",
+      "nous": "avons blessé",
+      "vous": "avez blessé",
+      "ils": "ont blessé"
+    },
+    "imparfait": {
+      "je": "blessais",
+      "tu": "blessais",
+      "il": "blessait",
+      "nous": "blessions",
+      "vous": "blessiez",
+      "ils": "blessaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais blessé",
+      "tu": "avais blessé",
+      "il": "avait blessé",
+      "nous": "avions blessé",
+      "vous": "aviez blessé",
+      "ils": "avaient blessé"
+    },
+    "passé_simple": {
+      "je": "blessai",
+      "tu": "blessas",
+      "il": "blessa",
+      "nous": "blessâmes",
+      "vous": "blessâtes",
+      "ils": "blessèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus blessé",
+      "tu": "eus blessé",
+      "il": "eut blessé",
+      "nous": "eûmes blessé",
+      "vous": "eûtes blessé",
+      "ils": "eurent blessé"
+    },
+    "futur_simple": {
+      "je": "blesserai",
+      "tu": "blesseras",
+      "il": "blessera",
+      "nous": "blesserons",
+      "vous": "blesserez",
+      "ils": "blesseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai blessé",
+      "tu": "auras blessé",
+      "il": "aura blessé",
+      "nous": "aurons blessé",
+      "vous": "aurez blessé",
+      "ils": "auront blessé"
+    },
+    "subjonctif_présent": {
+      "je": "blesse",
+      "tu": "blesses",
+      "il": "blesse",
+      "nous": "blessions",
+      "vous": "blessiez",
+      "ils": "blessent"
+    },
+    "subjonctif_passé": {
+      "je": "aie blessé",
+      "tu": "aies blessé",
+      "il": "ait blessé",
+      "nous": "ayons blessé",
+      "vous": "ayez blessé",
+      "ils": "aient blessé"
+    },
+    "subjonctif_imparfait": {
+      "je": "blessasse",
+      "tu": "blessasses",
+      "il": "blessât",
+      "nous": "blessassions",
+      "vous": "blessassiez",
+      "ils": "blessassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse blessé",
+      "tu": "eusses blessé",
+      "il": "eût blessé",
+      "nous": "eussions blessé",
+      "vous": "eussiez blessé",
+      "ils": "eussent blessé"
+    },
+    "conditionnel_présent": {
+      "je": "blesserais",
+      "tu": "blesserais",
+      "il": "blesserait",
+      "nous": "blesserions",
+      "vous": "blesseriez",
+      "ils": "blesseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais blessé",
+      "tu": "aurais blessé",
+      "il": "aurait blessé",
+      "nous": "aurions blessé",
+      "vous": "auriez blessé",
+      "ils": "auraient blessé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse blessé",
+      "tu": "eusses blessé",
+      "il": "eût blessé",
+      "nous": "eussions blessé",
+      "vous": "eussiez blessé",
+      "ils": "eussent blessé"
+    },
+    "translation": "ranić",
+    "group": 1
+  },
+  {
+    "infinitive": "bleuir",
+    "présent": {
+      "je": "bleuis",
+      "tu": "bleuis",
+      "il": "bleuit",
+      "nous": "bleuissons",
+      "vous": "bleuissez",
+      "ils": "bleuissent"
+    },
+    "passé_composé": {
+      "je": "ai bleui",
+      "tu": "as bleui",
+      "il": "a bleui",
+      "nous": "avons bleui",
+      "vous": "avez bleui",
+      "ils": "ont bleui"
+    },
+    "imparfait": {
+      "je": "bleuissais",
+      "tu": "bleuissais",
+      "il": "bleuissait",
+      "nous": "bleuissions",
+      "vous": "bleuissiez",
+      "ils": "bleuissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais bleui",
+      "tu": "avais bleui",
+      "il": "avait bleui",
+      "nous": "avions bleui",
+      "vous": "aviez bleui",
+      "ils": "avaient bleui"
+    },
+    "passé_simple": {
+      "je": "bleuis",
+      "tu": "bleuis",
+      "il": "bleuit",
+      "nous": "bleuîmes",
+      "vous": "bleuîtes",
+      "ils": "bleuirent"
+    },
+    "passé_antérieur": {
+      "je": "eus bleui",
+      "tu": "eus bleui",
+      "il": "eut bleui",
+      "nous": "eûmes bleui",
+      "vous": "eûtes bleui",
+      "ils": "eurent bleui"
+    },
+    "futur_simple": {
+      "je": "bleuirai",
+      "tu": "bleuiras",
+      "il": "bleuira",
+      "nous": "bleuirons",
+      "vous": "bleuirez",
+      "ils": "bleuiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai bleui",
+      "tu": "auras bleui",
+      "il": "aura bleui",
+      "nous": "aurons bleui",
+      "vous": "aurez bleui",
+      "ils": "auront bleui"
+    },
+    "subjonctif_présent": {
+      "je": "bleuisse",
+      "tu": "bleuisses",
+      "il": "bleuisse",
+      "nous": "bleuissions",
+      "vous": "bleuissiez",
+      "ils": "bleuissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie bleui",
+      "tu": "aies bleui",
+      "il": "ait bleui",
+      "nous": "ayons bleui",
+      "vous": "ayez bleui",
+      "ils": "aient bleui"
+    },
+    "subjonctif_imparfait": {
+      "je": "bleuisse",
+      "tu": "bleuisses",
+      "il": "bleuît",
+      "nous": "bleuissions",
+      "vous": "bleuissiez",
+      "ils": "bleuissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse bleui",
+      "tu": "eusses bleui",
+      "il": "eût bleui",
+      "nous": "eussions bleui",
+      "vous": "eussiez bleui",
+      "ils": "eussent bleui"
+    },
+    "conditionnel_présent": {
+      "je": "bleuirais",
+      "tu": "bleuirais",
+      "il": "bleuirait",
+      "nous": "bleuirions",
+      "vous": "bleuiriez",
+      "ils": "bleuiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais bleui",
+      "tu": "aurais bleui",
+      "il": "aurait bleui",
+      "nous": "aurions bleui",
+      "vous": "auriez bleui",
+      "ils": "auraient bleui"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse bleui",
+      "tu": "eusses bleui",
+      "il": "eût bleui",
+      "nous": "eussions bleui",
+      "vous": "eussiez bleui",
+      "ils": "eussent bleui"
+    },
+    "translation": "mieć",
+    "group": 2
+  },
+  {
+    "infinitive": "bloquer",
+    "présent": {
+      "je": "bloque",
+      "tu": "bloques",
+      "il": "bloque",
+      "nous": "bloquons",
+      "vous": "bloquez",
+      "ils": "bloquent"
+    },
+    "passé_composé": {
+      "je": "ai bloqué",
+      "tu": "as bloqué",
+      "il": "a bloqué",
+      "nous": "avons bloqué",
+      "vous": "avez bloqué",
+      "ils": "ont bloqué"
+    },
+    "imparfait": {
+      "je": "bloquais",
+      "tu": "bloquais",
+      "il": "bloquait",
+      "nous": "bloquions",
+      "vous": "bloquiez",
+      "ils": "bloquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais bloqué",
+      "tu": "avais bloqué",
+      "il": "avait bloqué",
+      "nous": "avions bloqué",
+      "vous": "aviez bloqué",
+      "ils": "avaient bloqué"
+    },
+    "passé_simple": {
+      "je": "bloquai",
+      "tu": "bloquas",
+      "il": "bloqua",
+      "nous": "bloquâmes",
+      "vous": "bloquâtes",
+      "ils": "bloquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus bloqué",
+      "tu": "eus bloqué",
+      "il": "eut bloqué",
+      "nous": "eûmes bloqué",
+      "vous": "eûtes bloqué",
+      "ils": "eurent bloqué"
+    },
+    "futur_simple": {
+      "je": "bloquerai",
+      "tu": "bloqueras",
+      "il": "bloquera",
+      "nous": "bloquerons",
+      "vous": "bloquerez",
+      "ils": "bloqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai bloqué",
+      "tu": "auras bloqué",
+      "il": "aura bloqué",
+      "nous": "aurons bloqué",
+      "vous": "aurez bloqué",
+      "ils": "auront bloqué"
+    },
+    "subjonctif_présent": {
+      "je": "bloque",
+      "tu": "bloques",
+      "il": "bloque",
+      "nous": "bloquions",
+      "vous": "bloquiez",
+      "ils": "bloquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie bloqué",
+      "tu": "aies bloqué",
+      "il": "ait bloqué",
+      "nous": "ayons bloqué",
+      "vous": "ayez bloqué",
+      "ils": "aient bloqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "bloquasse",
+      "tu": "bloquasses",
+      "il": "bloquât",
+      "nous": "bloquassions",
+      "vous": "bloquassiez",
+      "ils": "bloquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse bloqué",
+      "tu": "eusses bloqué",
+      "il": "eût bloqué",
+      "nous": "eussions bloqué",
+      "vous": "eussiez bloqué",
+      "ils": "eussent bloqué"
+    },
+    "conditionnel_présent": {
+      "je": "bloquerais",
+      "tu": "bloquerais",
+      "il": "bloquerait",
+      "nous": "bloquerions",
+      "vous": "bloqueriez",
+      "ils": "bloqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais bloqué",
+      "tu": "aurais bloqué",
+      "il": "aurait bloqué",
+      "nous": "aurions bloqué",
+      "vous": "auriez bloqué",
+      "ils": "auraient bloqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse bloqué",
+      "tu": "eusses bloqué",
+      "il": "eût bloqué",
+      "nous": "eussions bloqué",
+      "vous": "eussiez bloqué",
+      "ils": "eussent bloqué"
+    },
+    "translation": "blokować",
+    "group": 1
+  },
+  {
+    "infinitive": "blottir",
+    "présent": {
+      "je": "me blottis",
+      "tu": "te blottis",
+      "il": "se blottit",
+      "nous": "nous blottissons",
+      "vous": "vous blottissez",
+      "ils": "se blottissent"
+    },
+    "passé_composé": {
+      "je": "me suis blotti",
+      "tu": "es blotti",
+      "il": "est blotti",
+      "nous": "nous sommes blottis",
+      "vous": "vous êtes blottis",
+      "ils": "se sont blottis"
+    },
+    "imparfait": {
+      "je": "me blottissais",
+      "tu": "te blottissais",
+      "il": "se blottissait",
+      "nous": "nous blottissions",
+      "vous": "vous blottissiez",
+      "ils": "se blottissaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais blotti",
+      "tu": "étais blotti",
+      "il": "était blotti",
+      "nous": "nous étions blottis",
+      "vous": "vous étiez blottis",
+      "ils": "étaient blottis"
+    },
+    "passé_simple": {
+      "je": "me blottis",
+      "tu": "te blottis",
+      "il": "se blottit",
+      "nous": "nous blottîmes",
+      "vous": "vous blottîtes",
+      "ils": "se blottirent"
+    },
+    "passé_antérieur": {
+      "je": "me fus blotti",
+      "tu": "te fus blotti",
+      "il": "se fut blotti",
+      "nous": "nous fûmes blottis",
+      "vous": "vous fûtes blottis",
+      "ils": "se furent blottis"
+    },
+    "futur_simple": {
+      "je": "me blottirai",
+      "tu": "te blottiras",
+      "il": "se blottira",
+      "nous": "nous blottirons",
+      "vous": "vous blottirez",
+      "ils": "se blottiront"
+    },
+    "futur_antérieur": {
+      "je": "me serai blotti",
+      "tu": "te seras blotti",
+      "il": "se sera blotti",
+      "nous": "nous serons blottis",
+      "vous": "vous serez blottis",
+      "ils": "se seront blottis"
+    },
+    "subjonctif_présent": {
+      "je": "me blottisse",
+      "tu": "te blottisses",
+      "il": "se blottisse",
+      "nous": "nous blottissions",
+      "vous": "vous blottissiez",
+      "ils": "se blottissent"
+    },
+    "subjonctif_passé": {
+      "je": "me sois blotti",
+      "tu": "te sois blotti",
+      "il": "se soit blotti",
+      "nous": "nous soyons blottis",
+      "vous": "vous soyez blottis",
+      "ils": "se soient blottis"
+    },
+    "subjonctif_imparfait": {
+      "je": "me blottisse",
+      "tu": "te blottisses",
+      "il": "se blottît",
+      "nous": "nous blottissions",
+      "vous": "vous blottissiez",
+      "ils": "se blottissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse blotti",
+      "tu": "te fusses blotti",
+      "il": "se fût blotti",
+      "nous": "nous fussions blottis",
+      "vous": "vous fussiez blottis",
+      "ils": "se fussent blottis"
+    },
+    "conditionnel_présent": {
+      "je": "me blottirais",
+      "tu": "te blottirais",
+      "il": "se blottirait",
+      "nous": "nous blottirions",
+      "vous": "vous blottiriez",
+      "ils": "se blottiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais blotti",
+      "tu": "te serais blotti",
+      "il": "se serait blotti",
+      "nous": "nous serions blottis",
+      "vous": "vous seriez blottis",
+      "ils": "se seraient blottis"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse blotti",
+      "tu": "te fusses blotti",
+      "il": "se fût blotti",
+      "nous": "nous fussions blottis",
+      "vous": "vous fussiez blottis",
+      "ils": "se fussent blottis"
+    },
+    "translation": "przytulać",
+    "group": 2
+  }
+]

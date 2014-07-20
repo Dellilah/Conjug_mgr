@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "déconner",
+    "présent": {
+      "je": "déconne",
+      "tu": "déconnes",
+      "il": "déconne",
+      "nous": "déconnons",
+      "vous": "déconnez",
+      "ils": "déconnent"
+    },
+    "passé_composé": {
+      "je": "ai déconné",
+      "tu": "as déconné",
+      "il": "a déconné",
+      "nous": "avons déconné",
+      "vous": "avez déconné",
+      "ils": "ont déconné"
+    },
+    "imparfait": {
+      "je": "déconnais",
+      "tu": "déconnais",
+      "il": "déconnait",
+      "nous": "déconnions",
+      "vous": "déconniez",
+      "ils": "déconnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais déconné",
+      "tu": "avais déconné",
+      "il": "avait déconné",
+      "nous": "avions déconné",
+      "vous": "aviez déconné",
+      "ils": "avaient déconné"
+    },
+    "passé_simple": {
+      "je": "déconnai",
+      "tu": "déconnas",
+      "il": "déconna",
+      "nous": "déconnâmes",
+      "vous": "déconnâtes",
+      "ils": "déconnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus déconné",
+      "tu": "eus déconné",
+      "il": "eut déconné",
+      "nous": "eûmes déconné",
+      "vous": "eûtes déconné",
+      "ils": "eurent déconné"
+    },
+    "futur_simple": {
+      "je": "déconnerai",
+      "tu": "déconneras",
+      "il": "déconnera",
+      "nous": "déconnerons",
+      "vous": "déconnerez",
+      "ils": "déconneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai déconné",
+      "tu": "auras déconné",
+      "il": "aura déconné",
+      "nous": "aurons déconné",
+      "vous": "aurez déconné",
+      "ils": "auront déconné"
+    },
+    "subjonctif_présent": {
+      "je": "déconne",
+      "tu": "déconnes",
+      "il": "déconne",
+      "nous": "déconnions",
+      "vous": "déconniez",
+      "ils": "déconnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie déconné",
+      "tu": "aies déconné",
+      "il": "ait déconné",
+      "nous": "ayons déconné",
+      "vous": "ayez déconné",
+      "ils": "aient déconné"
+    },
+    "subjonctif_imparfait": {
+      "je": "déconnasse",
+      "tu": "déconnasses",
+      "il": "déconnât",
+      "nous": "déconnassions",
+      "vous": "déconnassiez",
+      "ils": "déconnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse déconné",
+      "tu": "eusses déconné",
+      "il": "eût déconné",
+      "nous": "eussions déconné",
+      "vous": "eussiez déconné",
+      "ils": "eussent déconné"
+    },
+    "conditionnel_présent": {
+      "je": "déconnerais",
+      "tu": "déconnerais",
+      "il": "déconnerait",
+      "nous": "déconnerions",
+      "vous": "déconneriez",
+      "ils": "déconneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais déconné",
+      "tu": "aurais déconné",
+      "il": "aurait déconné",
+      "nous": "aurions déconné",
+      "vous": "auriez déconné",
+      "ils": "auraient déconné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse déconné",
+      "tu": "eusses déconné",
+      "il": "eût déconné",
+      "nous": "eussions déconné",
+      "vous": "eussiez déconné",
+      "ils": "eussent déconné"
+    },
+    "translation": "wygłupiać",
+    "group": 1
+  },
+  {
+    "infinitive": "décorer",
+    "présent": {
+      "je": "décore",
+      "tu": "décores",
+      "il": "décore",
+      "nous": "décorons",
+      "vous": "décorez",
+      "ils": "décorent"
+    },
+    "passé_composé": {
+      "je": "ai décoré",
+      "tu": "as décoré",
+      "il": "a décoré",
+      "nous": "avons décoré",
+      "vous": "avez décoré",
+      "ils": "ont décoré"
+    },
+    "imparfait": {
+      "je": "décorais",
+      "tu": "décorais",
+      "il": "décorait",
+      "nous": "décorions",
+      "vous": "décoriez",
+      "ils": "décoraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais décoré",
+      "tu": "avais décoré",
+      "il": "avait décoré",
+      "nous": "avions décoré",
+      "vous": "aviez décoré",
+      "ils": "avaient décoré"
+    },
+    "passé_simple": {
+      "je": "décorai",
+      "tu": "décoras",
+      "il": "décora",
+      "nous": "décorâmes",
+      "vous": "décorâtes",
+      "ils": "décorèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus décoré",
+      "tu": "eus décoré",
+      "il": "eut décoré",
+      "nous": "eûmes décoré",
+      "vous": "eûtes décoré",
+      "ils": "eurent décoré"
+    },
+    "futur_simple": {
+      "je": "décorerai",
+      "tu": "décoreras",
+      "il": "décorera",
+      "nous": "décorerons",
+      "vous": "décorerez",
+      "ils": "décoreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai décoré",
+      "tu": "auras décoré",
+      "il": "aura décoré",
+      "nous": "aurons décoré",
+      "vous": "aurez décoré",
+      "ils": "auront décoré"
+    },
+    "subjonctif_présent": {
+      "je": "décore",
+      "tu": "décores",
+      "il": "décore",
+      "nous": "décorions",
+      "vous": "décoriez",
+      "ils": "décorent"
+    },
+    "subjonctif_passé": {
+      "je": "aie décoré",
+      "tu": "aies décoré",
+      "il": "ait décoré",
+      "nous": "ayons décoré",
+      "vous": "ayez décoré",
+      "ils": "aient décoré"
+    },
+    "subjonctif_imparfait": {
+      "je": "décorasse",
+      "tu": "décorasses",
+      "il": "décorât",
+      "nous": "décorassions",
+      "vous": "décorassiez",
+      "ils": "décorassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse décoré",
+      "tu": "eusses décoré",
+      "il": "eût décoré",
+      "nous": "eussions décoré",
+      "vous": "eussiez décoré",
+      "ils": "eussent décoré"
+    },
+    "conditionnel_présent": {
+      "je": "décorerais",
+      "tu": "décorerais",
+      "il": "décorerait",
+      "nous": "décorerions",
+      "vous": "décoreriez",
+      "ils": "décoreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais décoré",
+      "tu": "aurais décoré",
+      "il": "aurait décoré",
+      "nous": "aurions décoré",
+      "vous": "auriez décoré",
+      "ils": "auraient décoré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse décoré",
+      "tu": "eusses décoré",
+      "il": "eût décoré",
+      "nous": "eussions décoré",
+      "vous": "eussiez décoré",
+      "ils": "eussent décoré"
+    },
+    "translation": "ozdabiać",
+    "group": 1
+  },
+  {
+    "infinitive": "découdre",
+    "présent": {
+      "je": "découds",
+      "tu": "découds",
+      "il": "découd",
+      "nous": "décousons",
+      "vous": "décousez",
+      "ils": "décousent"
+    },
+    "passé_composé": {
+      "je": "ai décousu",
+      "tu": "as décousu",
+      "il": "a décousu",
+      "nous": "avons décousu",
+      "vous": "avez décousu",
+      "ils": "ont décousu"
+    },
+    "imparfait": {
+      "je": "décousais",
+      "tu": "décousais",
+      "il": "décousait",
+      "nous": "décousions",
+      "vous": "décousiez",
+      "ils": "décousaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais décousu",
+      "tu": "avais décousu",
+      "il": "avait décousu",
+      "nous": "avions décousu",
+      "vous": "aviez décousu",
+      "ils": "avaient décousu"
+    },
+    "passé_simple": {
+      "je": "décousis",
+      "tu": "décousis",
+      "il": "décousit",
+      "nous": "décousîmes",
+      "vous": "décousîtes",
+      "ils": "décousirent"
+    },
+    "passé_antérieur": {
+      "je": "eus décousu",
+      "tu": "eus décousu",
+      "il": "eut décousu",
+      "nous": "eûmes décousu",
+      "vous": "eûtes décousu",
+      "ils": "eurent décousu"
+    },
+    "futur_simple": {
+      "je": "découdrai",
+      "tu": "découdras",
+      "il": "découdra",
+      "nous": "découdrons",
+      "vous": "découdrez",
+      "ils": "découdront"
+    },
+    "futur_antérieur": {
+      "je": "aurai décousu",
+      "tu": "auras décousu",
+      "il": "aura décousu",
+      "nous": "aurons décousu",
+      "vous": "aurez décousu",
+      "ils": "auront décousu"
+    },
+    "subjonctif_présent": {
+      "je": "découse",
+      "tu": "découses",
+      "il": "découse",
+      "nous": "décousions",
+      "vous": "décousiez",
+      "ils": "décousent"
+    },
+    "subjonctif_passé": {
+      "je": "aie décousu",
+      "tu": "aies décousu",
+      "il": "ait décousu",
+      "nous": "ayons décousu",
+      "vous": "ayez décousu",
+      "ils": "aient décousu"
+    },
+    "subjonctif_imparfait": {
+      "je": "décousisse",
+      "tu": "décousisses",
+      "il": "décousît",
+      "nous": "décousissions",
+      "vous": "décousissiez",
+      "ils": "décousissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse décousu",
+      "tu": "eusses décousu",
+      "il": "eût décousu",
+      "nous": "eussions décousu",
+      "vous": "eussiez décousu",
+      "ils": "eussent décousu"
+    },
+    "conditionnel_présent": {
+      "je": "découdrais",
+      "tu": "découdrais",
+      "il": "découdrait",
+      "nous": "découdrions",
+      "vous": "découdriez",
+      "ils": "découdraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais décousu",
+      "tu": "aurais décousu",
+      "il": "aurait décousu",
+      "nous": "aurions décousu",
+      "vous": "auriez décousu",
+      "ils": "auraient décousu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse décousu",
+      "tu": "eusses décousu",
+      "il": "eût décousu",
+      "nous": "eussions décousu",
+      "vous": "eussiez décousu",
+      "ils": "eussent décousu"
+    },
+    "translation": "découdre",
+    "group": 3
+  },
+  {
+    "infinitive": "découper",
+    "présent": {
+      "je": "découpe",
+      "tu": "découpes",
+      "il": "découpe",
+      "nous": "découpons",
+      "vous": "découpez",
+      "ils": "découpent"
+    },
+    "passé_composé": {
+      "je": "ai découpé",
+      "tu": "as découpé",
+      "il": "a découpé",
+      "nous": "avons découpé",
+      "vous": "avez découpé",
+      "ils": "ont découpé"
+    },
+    "imparfait": {
+      "je": "découpais",
+      "tu": "découpais",
+      "il": "découpait",
+      "nous": "découpions",
+      "vous": "découpiez",
+      "ils": "découpaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais découpé",
+      "tu": "avais découpé",
+      "il": "avait découpé",
+      "nous": "avions découpé",
+      "vous": "aviez découpé",
+      "ils": "avaient découpé"
+    },
+    "passé_simple": {
+      "je": "découpai",
+      "tu": "découpas",
+      "il": "découpa",
+      "nous": "découpâmes",
+      "vous": "découpâtes",
+      "ils": "découpèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus découpé",
+      "tu": "eus découpé",
+      "il": "eut découpé",
+      "nous": "eûmes découpé",
+      "vous": "eûtes découpé",
+      "ils": "eurent découpé"
+    },
+    "futur_simple": {
+      "je": "découperai",
+      "tu": "découperas",
+      "il": "découpera",
+      "nous": "découperons",
+      "vous": "découperez",
+      "ils": "découperont"
+    },
+    "futur_antérieur": {
+      "je": "aurai découpé",
+      "tu": "auras découpé",
+      "il": "aura découpé",
+      "nous": "aurons découpé",
+      "vous": "aurez découpé",
+      "ils": "auront découpé"
+    },
+    "subjonctif_présent": {
+      "je": "découpe",
+      "tu": "découpes",
+      "il": "découpe",
+      "nous": "découpions",
+      "vous": "découpiez",
+      "ils": "découpent"
+    },
+    "subjonctif_passé": {
+      "je": "aie découpé",
+      "tu": "aies découpé",
+      "il": "ait découpé",
+      "nous": "ayons découpé",
+      "vous": "ayez découpé",
+      "ils": "aient découpé"
+    },
+    "subjonctif_imparfait": {
+      "je": "découpasse",
+      "tu": "découpasses",
+      "il": "découpât",
+      "nous": "découpassions",
+      "vous": "découpassiez",
+      "ils": "découpassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse découpé",
+      "tu": "eusses découpé",
+      "il": "eût découpé",
+      "nous": "eussions découpé",
+      "vous": "eussiez découpé",
+      "ils": "eussent découpé"
+    },
+    "conditionnel_présent": {
+      "je": "découperais",
+      "tu": "découperais",
+      "il": "découperait",
+      "nous": "découperions",
+      "vous": "découperiez",
+      "ils": "découperaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais découpé",
+      "tu": "aurais découpé",
+      "il": "aurait découpé",
+      "nous": "aurions découpé",
+      "vous": "auriez découpé",
+      "ils": "auraient découpé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse découpé",
+      "tu": "eusses découpé",
+      "il": "eût découpé",
+      "nous": "eussions découpé",
+      "vous": "eussiez découpé",
+      "ils": "eussent découpé"
+    },
+    "translation": "kroić",
+    "group": 1
+  },
+  {
+    "infinitive": "décourager",
+    "présent": {
+      "je": "décourage",
+      "tu": "décourages",
+      "il": "décourage",
+      "nous": "décourageons",
+      "vous": "découragez",
+      "ils": "découragent"
+    },
+    "passé_composé": {
+      "je": "ai découragé",
+      "tu": "as découragé",
+      "il": "a découragé",
+      "nous": "avons découragé",
+      "vous": "avez découragé",
+      "ils": "ont découragé"
+    },
+    "imparfait": {
+      "je": "décourageais",
+      "tu": "décourageais",
+      "il": "décourageait",
+      "nous": "découragions",
+      "vous": "découragiez",
+      "ils": "décourageaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais découragé",
+      "tu": "avais découragé",
+      "il": "avait découragé",
+      "nous": "avions découragé",
+      "vous": "aviez découragé",
+      "ils": "avaient découragé"
+    },
+    "passé_simple": {
+      "je": "décourageai",
+      "tu": "décourageas",
+      "il": "découragea",
+      "nous": "décourageâmes",
+      "vous": "décourageâtes",
+      "ils": "découragèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus découragé",
+      "tu": "eus découragé",
+      "il": "eut découragé",
+      "nous": "eûmes découragé",
+      "vous": "eûtes découragé",
+      "ils": "eurent découragé"
+    },
+    "futur_simple": {
+      "je": "découragerai",
+      "tu": "décourageras",
+      "il": "découragera",
+      "nous": "découragerons",
+      "vous": "découragerez",
+      "ils": "décourageront"
+    },
+    "futur_antérieur": {
+      "je": "aurai découragé",
+      "tu": "auras découragé",
+      "il": "aura découragé",
+      "nous": "aurons découragé",
+      "vous": "aurez découragé",
+      "ils": "auront découragé"
+    },
+    "subjonctif_présent": {
+      "je": "décourage",
+      "tu": "décourages",
+      "il": "décourage",
+      "nous": "découragions",
+      "vous": "découragiez",
+      "ils": "découragent"
+    },
+    "subjonctif_passé": {
+      "je": "aie découragé",
+      "tu": "aies découragé",
+      "il": "ait découragé",
+      "nous": "ayons découragé",
+      "vous": "ayez découragé",
+      "ils": "aient découragé"
+    },
+    "subjonctif_imparfait": {
+      "je": "décourageasse",
+      "tu": "décourageasses",
+      "il": "décourageât",
+      "nous": "décourageassions",
+      "vous": "décourageassiez",
+      "ils": "décourageassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse découragé",
+      "tu": "eusses découragé",
+      "il": "eût découragé",
+      "nous": "eussions découragé",
+      "vous": "eussiez découragé",
+      "ils": "eussent découragé"
+    },
+    "conditionnel_présent": {
+      "je": "découragerais",
+      "tu": "découragerais",
+      "il": "découragerait",
+      "nous": "découragerions",
+      "vous": "décourageriez",
+      "ils": "décourageraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais découragé",
+      "tu": "aurais découragé",
+      "il": "aurait découragé",
+      "nous": "aurions découragé",
+      "vous": "auriez découragé",
+      "ils": "auraient découragé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse découragé",
+      "tu": "eusses découragé",
+      "il": "eût découragé",
+      "nous": "eussions découragé",
+      "vous": "eussiez découragé",
+      "ils": "eussent découragé"
+    },
+    "translation": "przygnębiać",
+    "group": 1
+  },
+  {
+    "infinitive": "découvrir",
+    "présent": {
+      "je": "découvre",
+      "tu": "découvres",
+      "il": "découvre",
+      "nous": "découvrons",
+      "vous": "découvrez",
+      "ils": "découvrent"
+    },
+    "passé_composé": {
+      "je": "ai découvert",
+      "tu": "as découvert",
+      "il": "a découvert",
+      "nous": "avons découvert",
+      "vous": "avez découvert",
+      "ils": "ont découvert"
+    },
+    "imparfait": {
+      "je": "découvrais",
+      "tu": "découvrais",
+      "il": "découvrait",
+      "nous": "découvrions",
+      "vous": "découvriez",
+      "ils": "découvraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais découvert",
+      "tu": "avais découvert",
+      "il": "avait découvert",
+      "nous": "avions découvert",
+      "vous": "aviez découvert",
+      "ils": "avaient découvert"
+    },
+    "passé_simple": {
+      "je": "découvris",
+      "tu": "découvris",
+      "il": "découvrit",
+      "nous": "découvrîmes",
+      "vous": "découvrîtes",
+      "ils": "découvrirent"
+    },
+    "passé_antérieur": {
+      "je": "eus découvert",
+      "tu": "eus découvert",
+      "il": "eut découvert",
+      "nous": "eûmes découvert",
+      "vous": "eûtes découvert",
+      "ils": "eurent découvert"
+    },
+    "futur_simple": {
+      "je": "découvrirai",
+      "tu": "découvriras",
+      "il": "découvrira",
+      "nous": "découvrirons",
+      "vous": "découvrirez",
+      "ils": "découvriront"
+    },
+    "futur_antérieur": {
+      "je": "aurai découvert",
+      "tu": "auras découvert",
+      "il": "aura découvert",
+      "nous": "aurons découvert",
+      "vous": "aurez découvert",
+      "ils": "auront découvert"
+    },
+    "subjonctif_présent": {
+      "je": "découvre",
+      "tu": "découvres",
+      "il": "découvre",
+      "nous": "découvrions",
+      "vous": "découvriez",
+      "ils": "découvrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie découvert",
+      "tu": "aies découvert",
+      "il": "ait découvert",
+      "nous": "ayons découvert",
+      "vous": "ayez découvert",
+      "ils": "aient découvert"
+    },
+    "subjonctif_imparfait": {
+      "je": "découvrisse",
+      "tu": "découvrisses",
+      "il": "découvrît",
+      "nous": "découvrissions",
+      "vous": "découvrissiez",
+      "ils": "découvrissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse découvert",
+      "tu": "eusses découvert",
+      "il": "eût découvert",
+      "nous": "eussions découvert",
+      "vous": "eussiez découvert",
+      "ils": "eussent découvert"
+    },
+    "conditionnel_présent": {
+      "je": "découvrirais",
+      "tu": "découvrirais",
+      "il": "découvrirait",
+      "nous": "découvririons",
+      "vous": "découvririez",
+      "ils": "découvriraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais découvert",
+      "tu": "aurais découvert",
+      "il": "aurait découvert",
+      "nous": "aurions découvert",
+      "vous": "auriez découvert",
+      "ils": "auraient découvert"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse découvert",
+      "tu": "eusses découvert",
+      "il": "eût découvert",
+      "nous": "eussions découvert",
+      "vous": "eussiez découvert",
+      "ils": "eussent découvert"
+    },
+    "translation": "odkrywać",
+    "group": 3
+  },
+  {
+    "infinitive": "décrier",
+    "présent": {
+      "je": "décrie",
+      "tu": "décries",
+      "il": "décrie",
+      "nous": "décrions",
+      "vous": "décriez",
+      "ils": "décrient"
+    },
+    "passé_composé": {
+      "je": "ai décrié",
+      "tu": "as décrié",
+      "il": "a décrié",
+      "nous": "avons décrié",
+      "vous": "avez décrié",
+      "ils": "ont décrié"
+    },
+    "imparfait": {
+      "je": "décriais",
+      "tu": "décriais",
+      "il": "décriait",
+      "nous": "décriions",
+      "vous": "décriiez",
+      "ils": "décriaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais décrié",
+      "tu": "avais décrié",
+      "il": "avait décrié",
+      "nous": "avions décrié",
+      "vous": "aviez décrié",
+      "ils": "avaient décrié"
+    },
+    "passé_simple": {
+      "je": "décriai",
+      "tu": "décrias",
+      "il": "décria",
+      "nous": "décriâmes",
+      "vous": "décriâtes",
+      "ils": "décrièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus décrié",
+      "tu": "eus décrié",
+      "il": "eut décrié",
+      "nous": "eûmes décrié",
+      "vous": "eûtes décrié",
+      "ils": "eurent décrié"
+    },
+    "futur_simple": {
+      "je": "décrierai",
+      "tu": "décrieras",
+      "il": "décriera",
+      "nous": "décrierons",
+      "vous": "décrierez",
+      "ils": "décrieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai décrié",
+      "tu": "auras décrié",
+      "il": "aura décrié",
+      "nous": "aurons décrié",
+      "vous": "aurez décrié",
+      "ils": "auront décrié"
+    },
+    "subjonctif_présent": {
+      "je": "décrie",
+      "tu": "décries",
+      "il": "décrie",
+      "nous": "décriions",
+      "vous": "décriiez",
+      "ils": "décrient"
+    },
+    "subjonctif_passé": {
+      "je": "aie décrié",
+      "tu": "aies décrié",
+      "il": "ait décrié",
+      "nous": "ayons décrié",
+      "vous": "ayez décrié",
+      "ils": "aient décrié"
+    },
+    "subjonctif_imparfait": {
+      "je": "décriasse",
+      "tu": "décriasses",
+      "il": "décriât",
+      "nous": "décriassions",
+      "vous": "décriassiez",
+      "ils": "décriassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse décrié",
+      "tu": "eusses décrié",
+      "il": "eût décrié",
+      "nous": "eussions décrié",
+      "vous": "eussiez décrié",
+      "ils": "eussent décrié"
+    },
+    "conditionnel_présent": {
+      "je": "décrierais",
+      "tu": "décrierais",
+      "il": "décrierait",
+      "nous": "décrierions",
+      "vous": "décrieriez",
+      "ils": "décrieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais décrié",
+      "tu": "aurais décrié",
+      "il": "aurait décrié",
+      "nous": "aurions décrié",
+      "vous": "auriez décrié",
+      "ils": "auraient décrié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse décrié",
+      "tu": "eusses décrié",
+      "il": "eût décrié",
+      "nous": "eussions décrié",
+      "vous": "eussiez décrié",
+      "ils": "eussent décrié"
+    },
+    "translation": "wykrzykiwać",
+    "group": 1
+  },
+  {
+    "infinitive": "décrire",
+    "présent": {
+      "je": "décris",
+      "tu": "décris",
+      "il": "décrit",
+      "nous": "décrivons",
+      "vous": "décrivez",
+      "ils": "décrivent"
+    },
+    "passé_composé": {
+      "je": "ai décrit",
+      "tu": "as décrit",
+      "il": "a décrit",
+      "nous": "avons décrit",
+      "vous": "avez décrit",
+      "ils": "ont décrit"
+    },
+    "imparfait": {
+      "je": "décrivais",
+      "tu": "décrivais",
+      "il": "décrivait",
+      "nous": "décrivions",
+      "vous": "décriviez",
+      "ils": "décrivaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais décrit",
+      "tu": "avais décrit",
+      "il": "avait décrit",
+      "nous": "avions décrit",
+      "vous": "aviez décrit",
+      "ils": "avaient décrit"
+    },
+    "passé_simple": {
+      "je": "décrivis",
+      "tu": "décrivis",
+      "il": "décrivit",
+      "nous": "décrivîmes",
+      "vous": "décrivîtes",
+      "ils": "décrivirent"
+    },
+    "passé_antérieur": {
+      "je": "eus décrit",
+      "tu": "eus décrit",
+      "il": "eut décrit",
+      "nous": "eûmes décrit",
+      "vous": "eûtes décrit",
+      "ils": "eurent décrit"
+    },
+    "futur_simple": {
+      "je": "décrirai",
+      "tu": "décriras",
+      "il": "décrira",
+      "nous": "décrirons",
+      "vous": "décrirez",
+      "ils": "décriront"
+    },
+    "futur_antérieur": {
+      "je": "aurai décrit",
+      "tu": "auras décrit",
+      "il": "aura décrit",
+      "nous": "aurons décrit",
+      "vous": "aurez décrit",
+      "ils": "auront décrit"
+    },
+    "subjonctif_présent": {
+      "je": "décrive",
+      "tu": "décrives",
+      "il": "décrive",
+      "nous": "décrivions",
+      "vous": "décriviez",
+      "ils": "décrivent"
+    },
+    "subjonctif_passé": {
+      "je": "aie décrit",
+      "tu": "aies décrit",
+      "il": "ait décrit",
+      "nous": "ayons décrit",
+      "vous": "ayez décrit",
+      "ils": "aient décrit"
+    },
+    "subjonctif_imparfait": {
+      "je": "décrivisse",
+      "tu": "décrivisses",
+      "il": "décrivît",
+      "nous": "décrivissions",
+      "vous": "décrivissiez",
+      "ils": "décrivissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse décrit",
+      "tu": "eusses décrit",
+      "il": "eût décrit",
+      "nous": "eussions décrit",
+      "vous": "eussiez décrit",
+      "ils": "eussent décrit"
+    },
+    "conditionnel_présent": {
+      "je": "décrirais",
+      "tu": "décrirais",
+      "il": "décrirait",
+      "nous": "décririons",
+      "vous": "décririez",
+      "ils": "décriraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais décrit",
+      "tu": "aurais décrit",
+      "il": "aurait décrit",
+      "nous": "aurions décrit",
+      "vous": "auriez décrit",
+      "ils": "auraient décrit"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse décrit",
+      "tu": "eusses décrit",
+      "il": "eût décrit",
+      "nous": "eussions décrit",
+      "vous": "eussiez décrit",
+      "ils": "eussent décrit"
+    },
+    "translation": "opisywać",
+    "group": 3
+  },
+  {
+    "infinitive": "décrocher",
+    "présent": {
+      "je": "décroche",
+      "tu": "décroches",
+      "il": "décroche",
+      "nous": "décrochons",
+      "vous": "décrochez",
+      "ils": "décrochent"
+    },
+    "passé_composé": {
+      "je": "ai décroché",
+      "tu": "as décroché",
+      "il": "a décroché",
+      "nous": "avons décroché",
+      "vous": "avez décroché",
+      "ils": "ont décroché"
+    },
+    "imparfait": {
+      "je": "décrochais",
+      "tu": "décrochais",
+      "il": "décrochait",
+      "nous": "décrochions",
+      "vous": "décrochiez",
+      "ils": "décrochaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais décroché",
+      "tu": "avais décroché",
+      "il": "avait décroché",
+      "nous": "avions décroché",
+      "vous": "aviez décroché",
+      "ils": "avaient décroché"
+    },
+    "passé_simple": {
+      "je": "décrochai",
+      "tu": "décrochas",
+      "il": "décrocha",
+      "nous": "décrochâmes",
+      "vous": "décrochâtes",
+      "ils": "décrochèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus décroché",
+      "tu": "eus décroché",
+      "il": "eut décroché",
+      "nous": "eûmes décroché",
+      "vous": "eûtes décroché",
+      "ils": "eurent décroché"
+    },
+    "futur_simple": {
+      "je": "décrocherai",
+      "tu": "décrocheras",
+      "il": "décrochera",
+      "nous": "décrocherons",
+      "vous": "décrocherez",
+      "ils": "décrocheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai décroché",
+      "tu": "auras décroché",
+      "il": "aura décroché",
+      "nous": "aurons décroché",
+      "vous": "aurez décroché",
+      "ils": "auront décroché"
+    },
+    "subjonctif_présent": {
+      "je": "décroche",
+      "tu": "décroches",
+      "il": "décroche",
+      "nous": "décrochions",
+      "vous": "décrochiez",
+      "ils": "décrochent"
+    },
+    "subjonctif_passé": {
+      "je": "aie décroché",
+      "tu": "aies décroché",
+      "il": "ait décroché",
+      "nous": "ayons décroché",
+      "vous": "ayez décroché",
+      "ils": "aient décroché"
+    },
+    "subjonctif_imparfait": {
+      "je": "décrochasse",
+      "tu": "décrochasses",
+      "il": "décrochât",
+      "nous": "décrochassions",
+      "vous": "décrochassiez",
+      "ils": "décrochassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse décroché",
+      "tu": "eusses décroché",
+      "il": "eût décroché",
+      "nous": "eussions décroché",
+      "vous": "eussiez décroché",
+      "ils": "eussent décroché"
+    },
+    "conditionnel_présent": {
+      "je": "décrocherais",
+      "tu": "décrocherais",
+      "il": "décrocherait",
+      "nous": "décrocherions",
+      "vous": "décrocheriez",
+      "ils": "décrocheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais décroché",
+      "tu": "aurais décroché",
+      "il": "aurait décroché",
+      "nous": "aurions décroché",
+      "vous": "auriez décroché",
+      "ils": "auraient décroché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse décroché",
+      "tu": "eusses décroché",
+      "il": "eût décroché",
+      "nous": "eussions décroché",
+      "vous": "eussiez décroché",
+      "ils": "eussent décroché"
+    },
+    "translation": "odczepiać",
+    "group": 1
+  },
+  {
+    "infinitive": "décroître",
+    "présent": {
+      "je": "décrois",
+      "tu": "décrois",
+      "il": "décroît",
+      "nous": "décroissons",
+      "vous": "décroissez",
+      "ils": "décroissent"
+    },
+    "passé_composé": {
+      "je": "ai décru",
+      "tu": "as décru",
+      "il": "a décru",
+      "nous": "avons décru",
+      "vous": "avez décru",
+      "ils": "ont décru"
+    },
+    "imparfait": {
+      "je": "décroissais",
+      "tu": "décroissais",
+      "il": "décroissait",
+      "nous": "décroissions",
+      "vous": "décroissiez",
+      "ils": "décroissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais décru",
+      "tu": "avais décru",
+      "il": "avait décru",
+      "nous": "avions décru",
+      "vous": "aviez décru",
+      "ils": "avaient décru"
+    },
+    "passé_simple": {
+      "je": "décrus",
+      "tu": "décrus",
+      "il": "décrut",
+      "nous": "décrûmes",
+      "vous": "décrûtes",
+      "ils": "décrurent"
+    },
+    "passé_antérieur": {
+      "je": "eus décru",
+      "tu": "eus décru",
+      "il": "eut décru",
+      "nous": "eûmes décru",
+      "vous": "eûtes décru",
+      "ils": "eurent décru"
+    },
+    "futur_simple": {
+      "je": "décroîtrai",
+      "tu": "décroîtras",
+      "il": "décroîtra",
+      "nous": "décroîtrons",
+      "vous": "décroîtrez",
+      "ils": "décroîtront"
+    },
+    "futur_antérieur": {
+      "je": "aurai décru",
+      "tu": "auras décru",
+      "il": "aura décru",
+      "nous": "aurons décru",
+      "vous": "aurez décru",
+      "ils": "auront décru"
+    },
+    "subjonctif_présent": {
+      "je": "décroisse",
+      "tu": "décroisses",
+      "il": "décroisse",
+      "nous": "décroissions",
+      "vous": "décroissiez",
+      "ils": "décroissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie décru",
+      "tu": "aies décru",
+      "il": "ait décru",
+      "nous": "ayons décru",
+      "vous": "ayez décru",
+      "ils": "aient décru"
+    },
+    "subjonctif_imparfait": {
+      "je": "décrusse",
+      "tu": "décrusses",
+      "il": "décrût",
+      "nous": "décrussions",
+      "vous": "décrussiez",
+      "ils": "décrussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse décru",
+      "tu": "eusses décru",
+      "il": "eût décru",
+      "nous": "eussions décru",
+      "vous": "eussiez décru",
+      "ils": "eussent décru"
+    },
+    "conditionnel_présent": {
+      "je": "décroîtrais",
+      "tu": "décroîtrais",
+      "il": "décroîtrait",
+      "nous": "décroîtrions",
+      "vous": "décroîtriez",
+      "ils": "décroîtraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais décru",
+      "tu": "aurais décru",
+      "il": "aurait décru",
+      "nous": "aurions décru",
+      "vous": "auriez décru",
+      "ils": "auraient décru"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse décru",
+      "tu": "eusses décru",
+      "il": "eût décru",
+      "nous": "eussions décru",
+      "vous": "eussiez décru",
+      "ils": "eussent décru"
+    },
+    "translation": "zmniejszać",
+    "group": 3
+  }
+]

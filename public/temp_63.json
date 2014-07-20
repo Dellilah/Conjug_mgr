@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "dérouler",
+    "présent": {
+      "je": "déroule",
+      "tu": "déroules",
+      "il": "déroule",
+      "nous": "déroulons",
+      "vous": "déroulez",
+      "ils": "déroulent"
+    },
+    "passé_composé": {
+      "je": "ai déroulé",
+      "tu": "as déroulé",
+      "il": "a déroulé",
+      "nous": "avons déroulé",
+      "vous": "avez déroulé",
+      "ils": "ont déroulé"
+    },
+    "imparfait": {
+      "je": "déroulais",
+      "tu": "déroulais",
+      "il": "déroulait",
+      "nous": "déroulions",
+      "vous": "dérouliez",
+      "ils": "déroulaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais déroulé",
+      "tu": "avais déroulé",
+      "il": "avait déroulé",
+      "nous": "avions déroulé",
+      "vous": "aviez déroulé",
+      "ils": "avaient déroulé"
+    },
+    "passé_simple": {
+      "je": "déroulai",
+      "tu": "déroulas",
+      "il": "déroula",
+      "nous": "déroulâmes",
+      "vous": "déroulâtes",
+      "ils": "déroulèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus déroulé",
+      "tu": "eus déroulé",
+      "il": "eut déroulé",
+      "nous": "eûmes déroulé",
+      "vous": "eûtes déroulé",
+      "ils": "eurent déroulé"
+    },
+    "futur_simple": {
+      "je": "déroulerai",
+      "tu": "dérouleras",
+      "il": "déroulera",
+      "nous": "déroulerons",
+      "vous": "déroulerez",
+      "ils": "dérouleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai déroulé",
+      "tu": "auras déroulé",
+      "il": "aura déroulé",
+      "nous": "aurons déroulé",
+      "vous": "aurez déroulé",
+      "ils": "auront déroulé"
+    },
+    "subjonctif_présent": {
+      "je": "déroule",
+      "tu": "déroules",
+      "il": "déroule",
+      "nous": "déroulions",
+      "vous": "dérouliez",
+      "ils": "déroulent"
+    },
+    "subjonctif_passé": {
+      "je": "aie déroulé",
+      "tu": "aies déroulé",
+      "il": "ait déroulé",
+      "nous": "ayons déroulé",
+      "vous": "ayez déroulé",
+      "ils": "aient déroulé"
+    },
+    "subjonctif_imparfait": {
+      "je": "déroulasse",
+      "tu": "déroulasses",
+      "il": "déroulât",
+      "nous": "déroulassions",
+      "vous": "déroulassiez",
+      "ils": "déroulassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse déroulé",
+      "tu": "eusses déroulé",
+      "il": "eût déroulé",
+      "nous": "eussions déroulé",
+      "vous": "eussiez déroulé",
+      "ils": "eussent déroulé"
+    },
+    "conditionnel_présent": {
+      "je": "déroulerais",
+      "tu": "déroulerais",
+      "il": "déroulerait",
+      "nous": "déroulerions",
+      "vous": "dérouleriez",
+      "ils": "dérouleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais déroulé",
+      "tu": "aurais déroulé",
+      "il": "aurait déroulé",
+      "nous": "aurions déroulé",
+      "vous": "auriez déroulé",
+      "ils": "auraient déroulé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse déroulé",
+      "tu": "eusses déroulé",
+      "il": "eût déroulé",
+      "nous": "eussions déroulé",
+      "vous": "eussiez déroulé",
+      "ils": "eussent déroulé"
+    },
+    "translation": "rozwijać",
+    "group": 1
+  },
+  {
+    "infinitive": "désapprendre",
+    "présent": {
+      "je": "désapprends",
+      "tu": "désapprends",
+      "il": "désapprend",
+      "nous": "désapprenons",
+      "vous": "désapprenez",
+      "ils": "désapprennent"
+    },
+    "passé_composé": {
+      "je": "ai désappris",
+      "tu": "as désappris",
+      "il": "a désappris",
+      "nous": "avons désappris",
+      "vous": "avez désappris",
+      "ils": "ont désappris"
+    },
+    "imparfait": {
+      "je": "désapprenais",
+      "tu": "désapprenais",
+      "il": "désapprenait",
+      "nous": "désapprenions",
+      "vous": "désappreniez",
+      "ils": "désapprenaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais désappris",
+      "tu": "avais désappris",
+      "il": "avait désappris",
+      "nous": "avions désappris",
+      "vous": "aviez désappris",
+      "ils": "avaient désappris"
+    },
+    "passé_simple": {
+      "je": "désappris",
+      "tu": "désappris",
+      "il": "désapprit",
+      "nous": "désapprîmes",
+      "vous": "désapprîtes",
+      "ils": "désapprirent"
+    },
+    "passé_antérieur": {
+      "je": "eus désappris",
+      "tu": "eus désappris",
+      "il": "eut désappris",
+      "nous": "eûmes désappris",
+      "vous": "eûtes désappris",
+      "ils": "eurent désappris"
+    },
+    "futur_simple": {
+      "je": "désapprendrai",
+      "tu": "désapprendras",
+      "il": "désapprendra",
+      "nous": "désapprendrons",
+      "vous": "désapprendrez",
+      "ils": "désapprendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai désappris",
+      "tu": "auras désappris",
+      "il": "aura désappris",
+      "nous": "aurons désappris",
+      "vous": "aurez désappris",
+      "ils": "auront désappris"
+    },
+    "subjonctif_présent": {
+      "je": "désapprenne",
+      "tu": "désapprennes",
+      "il": "désapprenne",
+      "nous": "désapprenions",
+      "vous": "désappreniez",
+      "ils": "désapprennent"
+    },
+    "subjonctif_passé": {
+      "je": "aie désappris",
+      "tu": "aies désappris",
+      "il": "ait désappris",
+      "nous": "ayons désappris",
+      "vous": "ayez désappris",
+      "ils": "aient désappris"
+    },
+    "subjonctif_imparfait": {
+      "je": "désapprisse",
+      "tu": "désapprisses",
+      "il": "désapprît",
+      "nous": "désapprissions",
+      "vous": "désapprissiez",
+      "ils": "désapprissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse désappris",
+      "tu": "eusses désappris",
+      "il": "eût désappris",
+      "nous": "eussions désappris",
+      "vous": "eussiez désappris",
+      "ils": "eussent désappris"
+    },
+    "conditionnel_présent": {
+      "je": "désapprendrais",
+      "tu": "désapprendrais",
+      "il": "désapprendrait",
+      "nous": "désapprendrions",
+      "vous": "désapprendriez",
+      "ils": "désapprendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais désappris",
+      "tu": "aurais désappris",
+      "il": "aurait désappris",
+      "nous": "aurions désappris",
+      "vous": "auriez désappris",
+      "ils": "auraient désappris"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse désappris",
+      "tu": "eusses désappris",
+      "il": "eût désappris",
+      "nous": "eussions désappris",
+      "vous": "eussiez désappris",
+      "ils": "eussent désappris"
+    },
+    "translation": "powiadamiać",
+    "group": 3
+  },
+  {
+    "infinitive": "descendre",
+    "présent": {
+      "je": "descends",
+      "tu": "descends",
+      "il": "descend",
+      "nous": "descendons",
+      "vous": "descendez",
+      "ils": "descendent"
+    },
+    "passé_composé": {
+      "je": "suis descendu",
+      "tu": "es descendu",
+      "il": "est descendu",
+      "nous": "sommes descendus",
+      "vous": "êtes descendus",
+      "ils": "sont descendus"
+    },
+    "imparfait": {
+      "je": "descendais",
+      "tu": "descendais",
+      "il": "descendait",
+      "nous": "descendions",
+      "vous": "descendiez",
+      "ils": "descendaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais descendu",
+      "tu": "étais descendu",
+      "il": "était descendu",
+      "nous": "étions descendus",
+      "vous": "étiez descendus",
+      "ils": "étaient descendus"
+    },
+    "passé_simple": {
+      "je": "descendis",
+      "tu": "descendis",
+      "il": "descendit",
+      "nous": "descendîmes",
+      "vous": "descendîtes",
+      "ils": "descendirent"
+    },
+    "passé_antérieur": {
+      "je": "fus descendu",
+      "tu": "fus descendu",
+      "il": "fut descendu",
+      "nous": "fûmes descendus",
+      "vous": "fûtes descendus",
+      "ils": "furent descendus"
+    },
+    "futur_simple": {
+      "je": "descendrai",
+      "tu": "descendras",
+      "il": "descendra",
+      "nous": "descendrons",
+      "vous": "descendrez",
+      "ils": "descendront"
+    },
+    "futur_antérieur": {
+      "je": "serai descendu",
+      "tu": "seras descendu",
+      "il": "sera descendu",
+      "nous": "serons descendus",
+      "vous": "serez descendus",
+      "ils": "seront descendus"
+    },
+    "subjonctif_présent": {
+      "je": "descende",
+      "tu": "descendes",
+      "il": "descende",
+      "nous": "descendions",
+      "vous": "descendiez",
+      "ils": "descendent"
+    },
+    "subjonctif_passé": {
+      "je": "sois descendu",
+      "tu": "sois descendu",
+      "il": "soit descendu",
+      "nous": "soyons descendus",
+      "vous": "soyez descendus",
+      "ils": "soient descendus"
+    },
+    "subjonctif_imparfait": {
+      "je": "descendisse",
+      "tu": "descendisses",
+      "il": "descendît",
+      "nous": "descendissions",
+      "vous": "descendissiez",
+      "ils": "descendissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "fusse descendu",
+      "tu": "fusses descendu",
+      "il": "fût descendu",
+      "nous": "fussions descendus",
+      "vous": "fussiez descendus",
+      "ils": "fussent descendus"
+    },
+    "conditionnel_présent": {
+      "je": "descendrais",
+      "tu": "descendrais",
+      "il": "descendrait",
+      "nous": "descendrions",
+      "vous": "descendriez",
+      "ils": "descendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "serais descendu",
+      "tu": "serais descendu",
+      "il": "serait descendu",
+      "nous": "serions descendus",
+      "vous": "seriez descendus",
+      "ils": "seraient descendus"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "fusse descendu",
+      "tu": "fusses descendu",
+      "il": "fût descendu",
+      "nous": "fussions descendus",
+      "vous": "fussiez descendus",
+      "ils": "fussent descendus"
+    },
+    "translation": "schodzić",
+    "group": 3
+  },
+  {
+    "infinitive": "désespérer",
+    "présent": {
+      "je": "désespère",
+      "tu": "désespères",
+      "il": "désespère",
+      "nous": "désespérons",
+      "vous": "désespérez",
+      "ils": "désespèrent"
+    },
+    "passé_composé": {
+      "je": "ai désespéré",
+      "tu": "as désespéré",
+      "il": "a désespéré",
+      "nous": "avons désespéré",
+      "vous": "avez désespéré",
+      "ils": "ont désespéré"
+    },
+    "imparfait": {
+      "je": "désespérais",
+      "tu": "désespérais",
+      "il": "désespérait",
+      "nous": "désespérions",
+      "vous": "désespériez",
+      "ils": "désespéraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais désespéré",
+      "tu": "avais désespéré",
+      "il": "avait désespéré",
+      "nous": "avions désespéré",
+      "vous": "aviez désespéré",
+      "ils": "avaient désespéré"
+    },
+    "passé_simple": {
+      "je": "désespérai",
+      "tu": "désespéras",
+      "il": "désespéra",
+      "nous": "désespérâmes",
+      "vous": "désespérâtes",
+      "ils": "désespérèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus désespéré",
+      "tu": "eus désespéré",
+      "il": "eut désespéré",
+      "nous": "eûmes désespéré",
+      "vous": "eûtes désespéré",
+      "ils": "eurent désespéré"
+    },
+    "futur_simple": {
+      "je": "désespérerai",
+      "tu": "désespéreras",
+      "il": "désespérera",
+      "nous": "désespérerons",
+      "vous": "désespérerez",
+      "ils": "désespéreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai désespéré",
+      "tu": "auras désespéré",
+      "il": "aura désespéré",
+      "nous": "aurons désespéré",
+      "vous": "aurez désespéré",
+      "ils": "auront désespéré"
+    },
+    "subjonctif_présent": {
+      "je": "désespère",
+      "tu": "désespères",
+      "il": "désespère",
+      "nous": "désespérions",
+      "vous": "désespériez",
+      "ils": "désespèrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie désespéré",
+      "tu": "aies désespéré",
+      "il": "ait désespéré",
+      "nous": "ayons désespéré",
+      "vous": "ayez désespéré",
+      "ils": "aient désespéré"
+    },
+    "subjonctif_imparfait": {
+      "je": "désespérasse",
+      "tu": "désespérasses",
+      "il": "désespérât",
+      "nous": "désespérassions",
+      "vous": "désespérassiez",
+      "ils": "désespérassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse désespéré",
+      "tu": "eusses désespéré",
+      "il": "eût désespéré",
+      "nous": "eussions désespéré",
+      "vous": "eussiez désespéré",
+      "ils": "eussent désespéré"
+    },
+    "conditionnel_présent": {
+      "je": "désespérerais",
+      "tu": "désespérerais",
+      "il": "désespérerait",
+      "nous": "désespérerions",
+      "vous": "désespéreriez",
+      "ils": "désespéreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais désespéré",
+      "tu": "aurais désespéré",
+      "il": "aurait désespéré",
+      "nous": "aurions désespéré",
+      "vous": "auriez désespéré",
+      "ils": "auraient désespéré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse désespéré",
+      "tu": "eusses désespéré",
+      "il": "eût désespéré",
+      "nous": "eussions désespéré",
+      "vous": "eussiez désespéré",
+      "ils": "eussent désespéré"
+    },
+    "translation": "rozpaczać",
+    "group": 1
+  },
+  {
+    "infinitive": "déshabiller",
+    "présent": {
+      "je": "déshabille",
+      "tu": "déshabilles",
+      "il": "déshabille",
+      "nous": "déshabillons",
+      "vous": "déshabillez",
+      "ils": "déshabillent"
+    },
+    "passé_composé": {
+      "je": "ai déshabillé",
+      "tu": "as déshabillé",
+      "il": "a déshabillé",
+      "nous": "avons déshabillé",
+      "vous": "avez déshabillé",
+      "ils": "ont déshabillé"
+    },
+    "imparfait": {
+      "je": "déshabillais",
+      "tu": "déshabillais",
+      "il": "déshabillait",
+      "nous": "déshabillions",
+      "vous": "déshabilliez",
+      "ils": "déshabillaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais déshabillé",
+      "tu": "avais déshabillé",
+      "il": "avait déshabillé",
+      "nous": "avions déshabillé",
+      "vous": "aviez déshabillé",
+      "ils": "avaient déshabillé"
+    },
+    "passé_simple": {
+      "je": "déshabillai",
+      "tu": "déshabillas",
+      "il": "déshabilla",
+      "nous": "déshabillâmes",
+      "vous": "déshabillâtes",
+      "ils": "déshabillèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus déshabillé",
+      "tu": "eus déshabillé",
+      "il": "eut déshabillé",
+      "nous": "eûmes déshabillé",
+      "vous": "eûtes déshabillé",
+      "ils": "eurent déshabillé"
+    },
+    "futur_simple": {
+      "je": "déshabillerai",
+      "tu": "déshabilleras",
+      "il": "déshabillera",
+      "nous": "déshabillerons",
+      "vous": "déshabillerez",
+      "ils": "déshabilleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai déshabillé",
+      "tu": "auras déshabillé",
+      "il": "aura déshabillé",
+      "nous": "aurons déshabillé",
+      "vous": "aurez déshabillé",
+      "ils": "auront déshabillé"
+    },
+    "subjonctif_présent": {
+      "je": "déshabille",
+      "tu": "déshabilles",
+      "il": "déshabille",
+      "nous": "déshabillions",
+      "vous": "déshabilliez",
+      "ils": "déshabillent"
+    },
+    "subjonctif_passé": {
+      "je": "aie déshabillé",
+      "tu": "aies déshabillé",
+      "il": "ait déshabillé",
+      "nous": "ayons déshabillé",
+      "vous": "ayez déshabillé",
+      "ils": "aient déshabillé"
+    },
+    "subjonctif_imparfait": {
+      "je": "déshabillasse",
+      "tu": "déshabillasses",
+      "il": "déshabillât",
+      "nous": "déshabillassions",
+      "vous": "déshabillassiez",
+      "ils": "déshabillassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse déshabillé",
+      "tu": "eusses déshabillé",
+      "il": "eût déshabillé",
+      "nous": "eussions déshabillé",
+      "vous": "eussiez déshabillé",
+      "ils": "eussent déshabillé"
+    },
+    "conditionnel_présent": {
+      "je": "déshabillerais",
+      "tu": "déshabillerais",
+      "il": "déshabillerait",
+      "nous": "déshabillerions",
+      "vous": "déshabilleriez",
+      "ils": "déshabilleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais déshabillé",
+      "tu": "aurais déshabillé",
+      "il": "aurait déshabillé",
+      "nous": "aurions déshabillé",
+      "vous": "auriez déshabillé",
+      "ils": "auraient déshabillé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse déshabillé",
+      "tu": "eusses déshabillé",
+      "il": "eût déshabillé",
+      "nous": "eussions déshabillé",
+      "vous": "eussiez déshabillé",
+      "ils": "eussent déshabillé"
+    },
+    "translation": "rozbierać",
+    "group": 1
+  },
+  {
+    "infinitive": "désigner",
+    "présent": {
+      "je": "désigne",
+      "tu": "désignes",
+      "il": "désigne",
+      "nous": "désignons",
+      "vous": "désignez",
+      "ils": "désignent"
+    },
+    "passé_composé": {
+      "je": "ai désigné",
+      "tu": "as désigné",
+      "il": "a désigné",
+      "nous": "avons désigné",
+      "vous": "avez désigné",
+      "ils": "ont désigné"
+    },
+    "imparfait": {
+      "je": "désignais",
+      "tu": "désignais",
+      "il": "désignait",
+      "nous": "désignions",
+      "vous": "désigniez",
+      "ils": "désignaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais désigné",
+      "tu": "avais désigné",
+      "il": "avait désigné",
+      "nous": "avions désigné",
+      "vous": "aviez désigné",
+      "ils": "avaient désigné"
+    },
+    "passé_simple": {
+      "je": "désignai",
+      "tu": "désignas",
+      "il": "désigna",
+      "nous": "désignâmes",
+      "vous": "désignâtes",
+      "ils": "désignèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus désigné",
+      "tu": "eus désigné",
+      "il": "eut désigné",
+      "nous": "eûmes désigné",
+      "vous": "eûtes désigné",
+      "ils": "eurent désigné"
+    },
+    "futur_simple": {
+      "je": "désignerai",
+      "tu": "désigneras",
+      "il": "désignera",
+      "nous": "désignerons",
+      "vous": "désignerez",
+      "ils": "désigneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai désigné",
+      "tu": "auras désigné",
+      "il": "aura désigné",
+      "nous": "aurons désigné",
+      "vous": "aurez désigné",
+      "ils": "auront désigné"
+    },
+    "subjonctif_présent": {
+      "je": "désigne",
+      "tu": "désignes",
+      "il": "désigne",
+      "nous": "désignions",
+      "vous": "désigniez",
+      "ils": "désignent"
+    },
+    "subjonctif_passé": {
+      "je": "aie désigné",
+      "tu": "aies désigné",
+      "il": "ait désigné",
+      "nous": "ayons désigné",
+      "vous": "ayez désigné",
+      "ils": "aient désigné"
+    },
+    "subjonctif_imparfait": {
+      "je": "désignasse",
+      "tu": "désignasses",
+      "il": "désignât",
+      "nous": "désignassions",
+      "vous": "désignassiez",
+      "ils": "désignassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse désigné",
+      "tu": "eusses désigné",
+      "il": "eût désigné",
+      "nous": "eussions désigné",
+      "vous": "eussiez désigné",
+      "ils": "eussent désigné"
+    },
+    "conditionnel_présent": {
+      "je": "désignerais",
+      "tu": "désignerais",
+      "il": "désignerait",
+      "nous": "désignerions",
+      "vous": "désigneriez",
+      "ils": "désigneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais désigné",
+      "tu": "aurais désigné",
+      "il": "aurait désigné",
+      "nous": "aurions désigné",
+      "vous": "auriez désigné",
+      "ils": "auraient désigné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse désigné",
+      "tu": "eusses désigné",
+      "il": "eût désigné",
+      "nous": "eussions désigné",
+      "vous": "eussiez désigné",
+      "ils": "eussent désigné"
+    },
+    "translation": "designer",
+    "group": 1
+  },
+  {
+    "infinitive": "désirer",
+    "présent": {
+      "je": "désire",
+      "tu": "désires",
+      "il": "désire",
+      "nous": "désirons",
+      "vous": "désirez",
+      "ils": "désirent"
+    },
+    "passé_composé": {
+      "je": "ai désiré",
+      "tu": "as désiré",
+      "il": "a désiré",
+      "nous": "avons désiré",
+      "vous": "avez désiré",
+      "ils": "ont désiré"
+    },
+    "imparfait": {
+      "je": "désirais",
+      "tu": "désirais",
+      "il": "désirait",
+      "nous": "désirions",
+      "vous": "désiriez",
+      "ils": "désiraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais désiré",
+      "tu": "avais désiré",
+      "il": "avait désiré",
+      "nous": "avions désiré",
+      "vous": "aviez désiré",
+      "ils": "avaient désiré"
+    },
+    "passé_simple": {
+      "je": "désirai",
+      "tu": "désiras",
+      "il": "désira",
+      "nous": "désirâmes",
+      "vous": "désirâtes",
+      "ils": "désirèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus désiré",
+      "tu": "eus désiré",
+      "il": "eut désiré",
+      "nous": "eûmes désiré",
+      "vous": "eûtes désiré",
+      "ils": "eurent désiré"
+    },
+    "futur_simple": {
+      "je": "désirerai",
+      "tu": "désireras",
+      "il": "désirera",
+      "nous": "désirerons",
+      "vous": "désirerez",
+      "ils": "désireront"
+    },
+    "futur_antérieur": {
+      "je": "aurai désiré",
+      "tu": "auras désiré",
+      "il": "aura désiré",
+      "nous": "aurons désiré",
+      "vous": "aurez désiré",
+      "ils": "auront désiré"
+    },
+    "subjonctif_présent": {
+      "je": "désire",
+      "tu": "désires",
+      "il": "désire",
+      "nous": "désirions",
+      "vous": "désiriez",
+      "ils": "désirent"
+    },
+    "subjonctif_passé": {
+      "je": "aie désiré",
+      "tu": "aies désiré",
+      "il": "ait désiré",
+      "nous": "ayons désiré",
+      "vous": "ayez désiré",
+      "ils": "aient désiré"
+    },
+    "subjonctif_imparfait": {
+      "je": "désirasse",
+      "tu": "désirasses",
+      "il": "désirât",
+      "nous": "désirassions",
+      "vous": "désirassiez",
+      "ils": "désirassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse désiré",
+      "tu": "eusses désiré",
+      "il": "eût désiré",
+      "nous": "eussions désiré",
+      "vous": "eussiez désiré",
+      "ils": "eussent désiré"
+    },
+    "conditionnel_présent": {
+      "je": "désirerais",
+      "tu": "désirerais",
+      "il": "désirerait",
+      "nous": "désirerions",
+      "vous": "désireriez",
+      "ils": "désireraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais désiré",
+      "tu": "aurais désiré",
+      "il": "aurait désiré",
+      "nous": "aurions désiré",
+      "vous": "auriez désiré",
+      "ils": "auraient désiré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse désiré",
+      "tu": "eusses désiré",
+      "il": "eût désiré",
+      "nous": "eussions désiré",
+      "vous": "eussiez désiré",
+      "ils": "eussent désiré"
+    },
+    "translation": "chcieć",
+    "group": 1
+  },
+  {
+    "infinitive": "désister",
+    "présent": {
+      "je": "me désiste",
+      "tu": "te désistes",
+      "il": "se désiste",
+      "nous": "nous désistons",
+      "vous": "vous désistez",
+      "ils": "se désistent"
+    },
+    "passé_composé": {
+      "je": "me suis désisté",
+      "tu": "es désisté",
+      "il": "est désisté",
+      "nous": "nous sommes désistés",
+      "vous": "vous êtes désistés",
+      "ils": "se sont désistés"
+    },
+    "imparfait": {
+      "je": "me désistais",
+      "tu": "te désistais",
+      "il": "se désistait",
+      "nous": "nous désistions",
+      "vous": "vous désistiez",
+      "ils": "se désistaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais désisté",
+      "tu": "étais désisté",
+      "il": "était désisté",
+      "nous": "nous étions désistés",
+      "vous": "vous étiez désistés",
+      "ils": "étaient désistés"
+    },
+    "passé_simple": {
+      "je": "me désistai",
+      "tu": "te désistas",
+      "il": "se désista",
+      "nous": "nous désistâmes",
+      "vous": "vous désistâtes",
+      "ils": "se désistèrent"
+    },
+    "passé_antérieur": {
+      "je": "me fus désisté",
+      "tu": "te fus désisté",
+      "il": "se fut désisté",
+      "nous": "nous fûmes désistés",
+      "vous": "vous fûtes désistés",
+      "ils": "se furent désistés"
+    },
+    "futur_simple": {
+      "je": "me désisterai",
+      "tu": "te désisteras",
+      "il": "se désistera",
+      "nous": "nous désisterons",
+      "vous": "vous désisterez",
+      "ils": "se désisteront"
+    },
+    "futur_antérieur": {
+      "je": "me serai désisté",
+      "tu": "te seras désisté",
+      "il": "se sera désisté",
+      "nous": "nous serons désistés",
+      "vous": "vous serez désistés",
+      "ils": "se seront désistés"
+    },
+    "subjonctif_présent": {
+      "je": "me désiste",
+      "tu": "te désistes",
+      "il": "se désiste",
+      "nous": "nous désistions",
+      "vous": "vous désistiez",
+      "ils": "se désistent"
+    },
+    "subjonctif_passé": {
+      "je": "me sois désisté",
+      "tu": "te sois désisté",
+      "il": "se soit désisté",
+      "nous": "nous soyons désistés",
+      "vous": "vous soyez désistés",
+      "ils": "se soient désistés"
+    },
+    "subjonctif_imparfait": {
+      "je": "me désistasse",
+      "tu": "te désistasses",
+      "il": "se désistât",
+      "nous": "nous désistassions",
+      "vous": "vous désistassiez",
+      "ils": "se désistassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse désisté",
+      "tu": "te fusses désisté",
+      "il": "se fût désisté",
+      "nous": "nous fussions désistés",
+      "vous": "vous fussiez désistés",
+      "ils": "se fussent désistés"
+    },
+    "conditionnel_présent": {
+      "je": "me désisterais",
+      "tu": "te désisterais",
+      "il": "se désisterait",
+      "nous": "nous désisterions",
+      "vous": "vous désisteriez",
+      "ils": "se désisteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais désisté",
+      "tu": "te serais désisté",
+      "il": "se serait désisté",
+      "nous": "nous serions désistés",
+      "vous": "vous seriez désistés",
+      "ils": "se seraient désistés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse désisté",
+      "tu": "te fusses désisté",
+      "il": "se fût désisté",
+      "nous": "nous fussions désistés",
+      "vous": "vous fussiez désistés",
+      "ils": "se fussent désistés"
+    },
+    "translation": "se",
+    "group": 1
+  },
+  {
+    "infinitive": "désobéir",
+    "présent": {
+      "je": "désobéis",
+      "tu": "désobéis",
+      "il": "désobéit",
+      "nous": "désobéissons",
+      "vous": "désobéissez",
+      "ils": "désobéissent"
+    },
+    "passé_composé": {
+      "je": "ai désobéi",
+      "tu": "as désobéi",
+      "il": "a désobéi",
+      "nous": "avons désobéi",
+      "vous": "avez désobéi",
+      "ils": "ont désobéi"
+    },
+    "imparfait": {
+      "je": "désobéissais",
+      "tu": "désobéissais",
+      "il": "désobéissait",
+      "nous": "désobéissions",
+      "vous": "désobéissiez",
+      "ils": "désobéissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais désobéi",
+      "tu": "avais désobéi",
+      "il": "avait désobéi",
+      "nous": "avions désobéi",
+      "vous": "aviez désobéi",
+      "ils": "avaient désobéi"
+    },
+    "passé_simple": {
+      "je": "désobéis",
+      "tu": "désobéis",
+      "il": "désobéit",
+      "nous": "désobéîmes",
+      "vous": "désobéîtes",
+      "ils": "désobéirent"
+    },
+    "passé_antérieur": {
+      "je": "eus désobéi",
+      "tu": "eus désobéi",
+      "il": "eut désobéi",
+      "nous": "eûmes désobéi",
+      "vous": "eûtes désobéi",
+      "ils": "eurent désobéi"
+    },
+    "futur_simple": {
+      "je": "désobéirai",
+      "tu": "désobéiras",
+      "il": "désobéira",
+      "nous": "désobéirons",
+      "vous": "désobéirez",
+      "ils": "désobéiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai désobéi",
+      "tu": "auras désobéi",
+      "il": "aura désobéi",
+      "nous": "aurons désobéi",
+      "vous": "aurez désobéi",
+      "ils": "auront désobéi"
+    },
+    "subjonctif_présent": {
+      "je": "désobéisse",
+      "tu": "désobéisses",
+      "il": "désobéisse",
+      "nous": "désobéissions",
+      "vous": "désobéissiez",
+      "ils": "désobéissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie désobéi",
+      "tu": "aies désobéi",
+      "il": "ait désobéi",
+      "nous": "ayons désobéi",
+      "vous": "ayez désobéi",
+      "ils": "aient désobéi"
+    },
+    "subjonctif_imparfait": {
+      "je": "désobéisse",
+      "tu": "désobéisses",
+      "il": "désobéît",
+      "nous": "désobéissions",
+      "vous": "désobéissiez",
+      "ils": "désobéissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse désobéi",
+      "tu": "eusses désobéi",
+      "il": "eût désobéi",
+      "nous": "eussions désobéi",
+      "vous": "eussiez désobéi",
+      "ils": "eussent désobéi"
+    },
+    "conditionnel_présent": {
+      "je": "désobéirais",
+      "tu": "désobéirais",
+      "il": "désobéirait",
+      "nous": "désobéirions",
+      "vous": "désobéiriez",
+      "ils": "désobéiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais désobéi",
+      "tu": "aurais désobéi",
+      "il": "aurait désobéi",
+      "nous": "aurions désobéi",
+      "vous": "auriez désobéi",
+      "ils": "auraient désobéi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse désobéi",
+      "tu": "eusses désobéi",
+      "il": "eût désobéi",
+      "nous": "eussions désobéi",
+      "vous": "eussiez désobéi",
+      "ils": "eussent désobéi"
+    },
+    "translation": "być",
+    "group": 2
+  },
+  {
+    "infinitive": "désoler",
+    "présent": {
+      "je": "désole",
+      "tu": "désoles",
+      "il": "désole",
+      "nous": "désolons",
+      "vous": "désolez",
+      "ils": "désolent"
+    },
+    "passé_composé": {
+      "je": "ai désolé",
+      "tu": "as désolé",
+      "il": "a désolé",
+      "nous": "avons désolé",
+      "vous": "avez désolé",
+      "ils": "ont désolé"
+    },
+    "imparfait": {
+      "je": "désolais",
+      "tu": "désolais",
+      "il": "désolait",
+      "nous": "désolions",
+      "vous": "désoliez",
+      "ils": "désolaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais désolé",
+      "tu": "avais désolé",
+      "il": "avait désolé",
+      "nous": "avions désolé",
+      "vous": "aviez désolé",
+      "ils": "avaient désolé"
+    },
+    "passé_simple": {
+      "je": "désolai",
+      "tu": "désolas",
+      "il": "désola",
+      "nous": "désolâmes",
+      "vous": "désolâtes",
+      "ils": "désolèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus désolé",
+      "tu": "eus désolé",
+      "il": "eut désolé",
+      "nous": "eûmes désolé",
+      "vous": "eûtes désolé",
+      "ils": "eurent désolé"
+    },
+    "futur_simple": {
+      "je": "désolerai",
+      "tu": "désoleras",
+      "il": "désolera",
+      "nous": "désolerons",
+      "vous": "désolerez",
+      "ils": "désoleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai désolé",
+      "tu": "auras désolé",
+      "il": "aura désolé",
+      "nous": "aurons désolé",
+      "vous": "aurez désolé",
+      "ils": "auront désolé"
+    },
+    "subjonctif_présent": {
+      "je": "désole",
+      "tu": "désoles",
+      "il": "désole",
+      "nous": "désolions",
+      "vous": "désoliez",
+      "ils": "désolent"
+    },
+    "subjonctif_passé": {
+      "je": "aie désolé",
+      "tu": "aies désolé",
+      "il": "ait désolé",
+      "nous": "ayons désolé",
+      "vous": "ayez désolé",
+      "ils": "aient désolé"
+    },
+    "subjonctif_imparfait": {
+      "je": "désolasse",
+      "tu": "désolasses",
+      "il": "désolât",
+      "nous": "désolassions",
+      "vous": "désolassiez",
+      "ils": "désolassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse désolé",
+      "tu": "eusses désolé",
+      "il": "eût désolé",
+      "nous": "eussions désolé",
+      "vous": "eussiez désolé",
+      "ils": "eussent désolé"
+    },
+    "conditionnel_présent": {
+      "je": "désolerais",
+      "tu": "désolerais",
+      "il": "désolerait",
+      "nous": "désolerions",
+      "vous": "désoleriez",
+      "ils": "désoleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais désolé",
+      "tu": "aurais désolé",
+      "il": "aurait désolé",
+      "nous": "aurions désolé",
+      "vous": "auriez désolé",
+      "ils": "auraient désolé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse désolé",
+      "tu": "eusses désolé",
+      "il": "eût désolé",
+      "nous": "eussions désolé",
+      "vous": "eussiez désolé",
+      "ils": "eussent désolé"
+    },
+    "translation": "odłączać",
+    "group": 1
+  }
+]

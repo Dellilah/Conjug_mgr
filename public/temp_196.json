@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "vernir",
+    "présent": {
+      "je": "vernis",
+      "tu": "vernis",
+      "il": "vernit",
+      "nous": "vernissons",
+      "vous": "vernissez",
+      "ils": "vernissent"
+    },
+    "passé_composé": {
+      "je": "ai verni",
+      "tu": "as verni",
+      "il": "a verni",
+      "nous": "avons verni",
+      "vous": "avez verni",
+      "ils": "ont verni"
+    },
+    "imparfait": {
+      "je": "vernissais",
+      "tu": "vernissais",
+      "il": "vernissait",
+      "nous": "vernissions",
+      "vous": "vernissiez",
+      "ils": "vernissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais verni",
+      "tu": "avais verni",
+      "il": "avait verni",
+      "nous": "avions verni",
+      "vous": "aviez verni",
+      "ils": "avaient verni"
+    },
+    "passé_simple": {
+      "je": "vernis",
+      "tu": "vernis",
+      "il": "vernit",
+      "nous": "vernîmes",
+      "vous": "vernîtes",
+      "ils": "vernirent"
+    },
+    "passé_antérieur": {
+      "je": "eus verni",
+      "tu": "eus verni",
+      "il": "eut verni",
+      "nous": "eûmes verni",
+      "vous": "eûtes verni",
+      "ils": "eurent verni"
+    },
+    "futur_simple": {
+      "je": "vernirai",
+      "tu": "verniras",
+      "il": "vernira",
+      "nous": "vernirons",
+      "vous": "vernirez",
+      "ils": "verniront"
+    },
+    "futur_antérieur": {
+      "je": "aurai verni",
+      "tu": "auras verni",
+      "il": "aura verni",
+      "nous": "aurons verni",
+      "vous": "aurez verni",
+      "ils": "auront verni"
+    },
+    "subjonctif_présent": {
+      "je": "vernisse",
+      "tu": "vernisses",
+      "il": "vernisse",
+      "nous": "vernissions",
+      "vous": "vernissiez",
+      "ils": "vernissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie verni",
+      "tu": "aies verni",
+      "il": "ait verni",
+      "nous": "ayons verni",
+      "vous": "ayez verni",
+      "ils": "aient verni"
+    },
+    "subjonctif_imparfait": {
+      "je": "vernisse",
+      "tu": "vernisses",
+      "il": "vernît",
+      "nous": "vernissions",
+      "vous": "vernissiez",
+      "ils": "vernissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse verni",
+      "tu": "eusses verni",
+      "il": "eût verni",
+      "nous": "eussions verni",
+      "vous": "eussiez verni",
+      "ils": "eussent verni"
+    },
+    "conditionnel_présent": {
+      "je": "vernirais",
+      "tu": "vernirais",
+      "il": "vernirait",
+      "nous": "vernirions",
+      "vous": "verniriez",
+      "ils": "verniraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais verni",
+      "tu": "aurais verni",
+      "il": "aurait verni",
+      "nous": "aurions verni",
+      "vous": "auriez verni",
+      "ils": "auraient verni"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse verni",
+      "tu": "eusses verni",
+      "il": "eût verni",
+      "nous": "eussions verni",
+      "vous": "eussiez verni",
+      "ils": "eussent verni"
+    },
+    "translation": "lakierować",
+    "group": 2
+  },
+  {
+    "infinitive": "verrouiller",
+    "présent": {
+      "je": "verrouille",
+      "tu": "verrouilles",
+      "il": "verrouille",
+      "nous": "verrouillons",
+      "vous": "verrouillez",
+      "ils": "verrouillent"
+    },
+    "passé_composé": {
+      "je": "ai verrouillé",
+      "tu": "as verrouillé",
+      "il": "a verrouillé",
+      "nous": "avons verrouillé",
+      "vous": "avez verrouillé",
+      "ils": "ont verrouillé"
+    },
+    "imparfait": {
+      "je": "verrouillais",
+      "tu": "verrouillais",
+      "il": "verrouillait",
+      "nous": "verrouillions",
+      "vous": "verrouilliez",
+      "ils": "verrouillaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais verrouillé",
+      "tu": "avais verrouillé",
+      "il": "avait verrouillé",
+      "nous": "avions verrouillé",
+      "vous": "aviez verrouillé",
+      "ils": "avaient verrouillé"
+    },
+    "passé_simple": {
+      "je": "verrouillai",
+      "tu": "verrouillas",
+      "il": "verrouilla",
+      "nous": "verrouillâmes",
+      "vous": "verrouillâtes",
+      "ils": "verrouillèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus verrouillé",
+      "tu": "eus verrouillé",
+      "il": "eut verrouillé",
+      "nous": "eûmes verrouillé",
+      "vous": "eûtes verrouillé",
+      "ils": "eurent verrouillé"
+    },
+    "futur_simple": {
+      "je": "verrouillerai",
+      "tu": "verrouilleras",
+      "il": "verrouillera",
+      "nous": "verrouillerons",
+      "vous": "verrouillerez",
+      "ils": "verrouilleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai verrouillé",
+      "tu": "auras verrouillé",
+      "il": "aura verrouillé",
+      "nous": "aurons verrouillé",
+      "vous": "aurez verrouillé",
+      "ils": "auront verrouillé"
+    },
+    "subjonctif_présent": {
+      "je": "verrouille",
+      "tu": "verrouilles",
+      "il": "verrouille",
+      "nous": "verrouillions",
+      "vous": "verrouilliez",
+      "ils": "verrouillent"
+    },
+    "subjonctif_passé": {
+      "je": "aie verrouillé",
+      "tu": "aies verrouillé",
+      "il": "ait verrouillé",
+      "nous": "ayons verrouillé",
+      "vous": "ayez verrouillé",
+      "ils": "aient verrouillé"
+    },
+    "subjonctif_imparfait": {
+      "je": "verrouillasse",
+      "tu": "verrouillasses",
+      "il": "verrouillât",
+      "nous": "verrouillassions",
+      "vous": "verrouillassiez",
+      "ils": "verrouillassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse verrouillé",
+      "tu": "eusses verrouillé",
+      "il": "eût verrouillé",
+      "nous": "eussions verrouillé",
+      "vous": "eussiez verrouillé",
+      "ils": "eussent verrouillé"
+    },
+    "conditionnel_présent": {
+      "je": "verrouillerais",
+      "tu": "verrouillerais",
+      "il": "verrouillerait",
+      "nous": "verrouillerions",
+      "vous": "verrouilleriez",
+      "ils": "verrouilleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais verrouillé",
+      "tu": "aurais verrouillé",
+      "il": "aurait verrouillé",
+      "nous": "aurions verrouillé",
+      "vous": "auriez verrouillé",
+      "ils": "auraient verrouillé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse verrouillé",
+      "tu": "eusses verrouillé",
+      "il": "eût verrouillé",
+      "nous": "eussions verrouillé",
+      "vous": "eussiez verrouillé",
+      "ils": "eussent verrouillé"
+    },
+    "translation": "zamykać",
+    "group": 1
+  },
+  {
+    "infinitive": "verser",
+    "présent": {
+      "je": "verse",
+      "tu": "verses",
+      "il": "verse",
+      "nous": "versons",
+      "vous": "versez",
+      "ils": "versent"
+    },
+    "passé_composé": {
+      "je": "ai versé",
+      "tu": "as versé",
+      "il": "a versé",
+      "nous": "avons versé",
+      "vous": "avez versé",
+      "ils": "ont versé"
+    },
+    "imparfait": {
+      "je": "versais",
+      "tu": "versais",
+      "il": "versait",
+      "nous": "versions",
+      "vous": "versiez",
+      "ils": "versaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais versé",
+      "tu": "avais versé",
+      "il": "avait versé",
+      "nous": "avions versé",
+      "vous": "aviez versé",
+      "ils": "avaient versé"
+    },
+    "passé_simple": {
+      "je": "versai",
+      "tu": "versas",
+      "il": "versa",
+      "nous": "versâmes",
+      "vous": "versâtes",
+      "ils": "versèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus versé",
+      "tu": "eus versé",
+      "il": "eut versé",
+      "nous": "eûmes versé",
+      "vous": "eûtes versé",
+      "ils": "eurent versé"
+    },
+    "futur_simple": {
+      "je": "verserai",
+      "tu": "verseras",
+      "il": "versera",
+      "nous": "verserons",
+      "vous": "verserez",
+      "ils": "verseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai versé",
+      "tu": "auras versé",
+      "il": "aura versé",
+      "nous": "aurons versé",
+      "vous": "aurez versé",
+      "ils": "auront versé"
+    },
+    "subjonctif_présent": {
+      "je": "verse",
+      "tu": "verses",
+      "il": "verse",
+      "nous": "versions",
+      "vous": "versiez",
+      "ils": "versent"
+    },
+    "subjonctif_passé": {
+      "je": "aie versé",
+      "tu": "aies versé",
+      "il": "ait versé",
+      "nous": "ayons versé",
+      "vous": "ayez versé",
+      "ils": "aient versé"
+    },
+    "subjonctif_imparfait": {
+      "je": "versasse",
+      "tu": "versasses",
+      "il": "versât",
+      "nous": "versassions",
+      "vous": "versassiez",
+      "ils": "versassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse versé",
+      "tu": "eusses versé",
+      "il": "eût versé",
+      "nous": "eussions versé",
+      "vous": "eussiez versé",
+      "ils": "eussent versé"
+    },
+    "conditionnel_présent": {
+      "je": "verserais",
+      "tu": "verserais",
+      "il": "verserait",
+      "nous": "verserions",
+      "vous": "verseriez",
+      "ils": "verseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais versé",
+      "tu": "aurais versé",
+      "il": "aurait versé",
+      "nous": "aurions versé",
+      "vous": "auriez versé",
+      "ils": "auraient versé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse versé",
+      "tu": "eusses versé",
+      "il": "eût versé",
+      "nous": "eussions versé",
+      "vous": "eussiez versé",
+      "ils": "eussent versé"
+    },
+    "translation": "lać",
+    "group": 1
+  },
+  {
+    "infinitive": "vêtir",
+    "présent": {
+      "je": "vêts",
+      "tu": "vêts",
+      "il": "vêt",
+      "nous": "vêtons",
+      "vous": "vêtez",
+      "ils": "vêtent"
+    },
+    "passé_composé": {
+      "je": "ai vêtu",
+      "tu": "as vêtu",
+      "il": "a vêtu",
+      "nous": "avons vêtu",
+      "vous": "avez vêtu",
+      "ils": "ont vêtu"
+    },
+    "imparfait": {
+      "je": "vêtais",
+      "tu": "vêtais",
+      "il": "vêtait",
+      "nous": "vêtions",
+      "vous": "vêtiez",
+      "ils": "vêtaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais vêtu",
+      "tu": "avais vêtu",
+      "il": "avait vêtu",
+      "nous": "avions vêtu",
+      "vous": "aviez vêtu",
+      "ils": "avaient vêtu"
+    },
+    "passé_simple": {
+      "je": "vêtis",
+      "tu": "vêtis",
+      "il": "vêtit",
+      "nous": "vêtîmes",
+      "vous": "vêtîtes",
+      "ils": "vêtirent"
+    },
+    "passé_antérieur": {
+      "je": "eus vêtu",
+      "tu": "eus vêtu",
+      "il": "eut vêtu",
+      "nous": "eûmes vêtu",
+      "vous": "eûtes vêtu",
+      "ils": "eurent vêtu"
+    },
+    "futur_simple": {
+      "je": "vêtirai",
+      "tu": "vêtiras",
+      "il": "vêtira",
+      "nous": "vêtirons",
+      "vous": "vêtirez",
+      "ils": "vêtiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai vêtu",
+      "tu": "auras vêtu",
+      "il": "aura vêtu",
+      "nous": "aurons vêtu",
+      "vous": "aurez vêtu",
+      "ils": "auront vêtu"
+    },
+    "subjonctif_présent": {
+      "je": "vête",
+      "tu": "vêtes",
+      "il": "vête",
+      "nous": "vêtions",
+      "vous": "vêtiez",
+      "ils": "vêtent"
+    },
+    "subjonctif_passé": {
+      "je": "aie vêtu",
+      "tu": "aies vêtu",
+      "il": "ait vêtu",
+      "nous": "ayons vêtu",
+      "vous": "ayez vêtu",
+      "ils": "aient vêtu"
+    },
+    "subjonctif_imparfait": {
+      "je": "vêtisse",
+      "tu": "vêtisses",
+      "il": "vêtît",
+      "nous": "vêtissions",
+      "vous": "vêtissiez",
+      "ils": "vêtissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse vêtu",
+      "tu": "eusses vêtu",
+      "il": "eût vêtu",
+      "nous": "eussions vêtu",
+      "vous": "eussiez vêtu",
+      "ils": "eussent vêtu"
+    },
+    "conditionnel_présent": {
+      "je": "vêtirais",
+      "tu": "vêtirais",
+      "il": "vêtirait",
+      "nous": "vêtirions",
+      "vous": "vêtiriez",
+      "ils": "vêtiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais vêtu",
+      "tu": "aurais vêtu",
+      "il": "aurait vêtu",
+      "nous": "aurions vêtu",
+      "vous": "auriez vêtu",
+      "ils": "auraient vêtu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse vêtu",
+      "tu": "eusses vêtu",
+      "il": "eût vêtu",
+      "nous": "eussions vêtu",
+      "vous": "eussiez vêtu",
+      "ils": "eussent vêtu"
+    },
+    "translation": "ubierać",
+    "group": 3
+  },
+  {
+    "infinitive": "vexer",
+    "présent": {
+      "je": "vexe",
+      "tu": "vexes",
+      "il": "vexe",
+      "nous": "vexons",
+      "vous": "vexez",
+      "ils": "vexent"
+    },
+    "passé_composé": {
+      "je": "ai vexé",
+      "tu": "as vexé",
+      "il": "a vexé",
+      "nous": "avons vexé",
+      "vous": "avez vexé",
+      "ils": "ont vexé"
+    },
+    "imparfait": {
+      "je": "vexais",
+      "tu": "vexais",
+      "il": "vexait",
+      "nous": "vexions",
+      "vous": "vexiez",
+      "ils": "vexaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais vexé",
+      "tu": "avais vexé",
+      "il": "avait vexé",
+      "nous": "avions vexé",
+      "vous": "aviez vexé",
+      "ils": "avaient vexé"
+    },
+    "passé_simple": {
+      "je": "vexai",
+      "tu": "vexas",
+      "il": "vexa",
+      "nous": "vexâmes",
+      "vous": "vexâtes",
+      "ils": "vexèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus vexé",
+      "tu": "eus vexé",
+      "il": "eut vexé",
+      "nous": "eûmes vexé",
+      "vous": "eûtes vexé",
+      "ils": "eurent vexé"
+    },
+    "futur_simple": {
+      "je": "vexerai",
+      "tu": "vexeras",
+      "il": "vexera",
+      "nous": "vexerons",
+      "vous": "vexerez",
+      "ils": "vexeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai vexé",
+      "tu": "auras vexé",
+      "il": "aura vexé",
+      "nous": "aurons vexé",
+      "vous": "aurez vexé",
+      "ils": "auront vexé"
+    },
+    "subjonctif_présent": {
+      "je": "vexe",
+      "tu": "vexes",
+      "il": "vexe",
+      "nous": "vexions",
+      "vous": "vexiez",
+      "ils": "vexent"
+    },
+    "subjonctif_passé": {
+      "je": "aie vexé",
+      "tu": "aies vexé",
+      "il": "ait vexé",
+      "nous": "ayons vexé",
+      "vous": "ayez vexé",
+      "ils": "aient vexé"
+    },
+    "subjonctif_imparfait": {
+      "je": "vexasse",
+      "tu": "vexasses",
+      "il": "vexât",
+      "nous": "vexassions",
+      "vous": "vexassiez",
+      "ils": "vexassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse vexé",
+      "tu": "eusses vexé",
+      "il": "eût vexé",
+      "nous": "eussions vexé",
+      "vous": "eussiez vexé",
+      "ils": "eussent vexé"
+    },
+    "conditionnel_présent": {
+      "je": "vexerais",
+      "tu": "vexerais",
+      "il": "vexerait",
+      "nous": "vexerions",
+      "vous": "vexeriez",
+      "ils": "vexeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais vexé",
+      "tu": "aurais vexé",
+      "il": "aurait vexé",
+      "nous": "aurions vexé",
+      "vous": "auriez vexé",
+      "ils": "auraient vexé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse vexé",
+      "tu": "eusses vexé",
+      "il": "eût vexé",
+      "nous": "eussions vexé",
+      "vous": "eussiez vexé",
+      "ils": "eussent vexé"
+    },
+    "translation": "obrażać",
+    "group": 1
+  },
+  {
+    "infinitive": "vider",
+    "présent": {
+      "je": "vide",
+      "tu": "vides",
+      "il": "vide",
+      "nous": "vidons",
+      "vous": "videz",
+      "ils": "vident"
+    },
+    "passé_composé": {
+      "je": "ai vidé",
+      "tu": "as vidé",
+      "il": "a vidé",
+      "nous": "avons vidé",
+      "vous": "avez vidé",
+      "ils": "ont vidé"
+    },
+    "imparfait": {
+      "je": "vidais",
+      "tu": "vidais",
+      "il": "vidait",
+      "nous": "vidions",
+      "vous": "vidiez",
+      "ils": "vidaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais vidé",
+      "tu": "avais vidé",
+      "il": "avait vidé",
+      "nous": "avions vidé",
+      "vous": "aviez vidé",
+      "ils": "avaient vidé"
+    },
+    "passé_simple": {
+      "je": "vidai",
+      "tu": "vidas",
+      "il": "vida",
+      "nous": "vidâmes",
+      "vous": "vidâtes",
+      "ils": "vidèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus vidé",
+      "tu": "eus vidé",
+      "il": "eut vidé",
+      "nous": "eûmes vidé",
+      "vous": "eûtes vidé",
+      "ils": "eurent vidé"
+    },
+    "futur_simple": {
+      "je": "viderai",
+      "tu": "videras",
+      "il": "videra",
+      "nous": "viderons",
+      "vous": "viderez",
+      "ils": "videront"
+    },
+    "futur_antérieur": {
+      "je": "aurai vidé",
+      "tu": "auras vidé",
+      "il": "aura vidé",
+      "nous": "aurons vidé",
+      "vous": "aurez vidé",
+      "ils": "auront vidé"
+    },
+    "subjonctif_présent": {
+      "je": "vide",
+      "tu": "vides",
+      "il": "vide",
+      "nous": "vidions",
+      "vous": "vidiez",
+      "ils": "vident"
+    },
+    "subjonctif_passé": {
+      "je": "aie vidé",
+      "tu": "aies vidé",
+      "il": "ait vidé",
+      "nous": "ayons vidé",
+      "vous": "ayez vidé",
+      "ils": "aient vidé"
+    },
+    "subjonctif_imparfait": {
+      "je": "vidasse",
+      "tu": "vidasses",
+      "il": "vidât",
+      "nous": "vidassions",
+      "vous": "vidassiez",
+      "ils": "vidassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse vidé",
+      "tu": "eusses vidé",
+      "il": "eût vidé",
+      "nous": "eussions vidé",
+      "vous": "eussiez vidé",
+      "ils": "eussent vidé"
+    },
+    "conditionnel_présent": {
+      "je": "viderais",
+      "tu": "viderais",
+      "il": "viderait",
+      "nous": "viderions",
+      "vous": "videriez",
+      "ils": "videraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais vidé",
+      "tu": "aurais vidé",
+      "il": "aurait vidé",
+      "nous": "aurions vidé",
+      "vous": "auriez vidé",
+      "ils": "auraient vidé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse vidé",
+      "tu": "eusses vidé",
+      "il": "eût vidé",
+      "nous": "eussions vidé",
+      "vous": "eussiez vidé",
+      "ils": "eussent vidé"
+    },
+    "translation": "opróżniać",
+    "group": 1
+  },
+  {
+    "infinitive": "vieillir",
+    "présent": {
+      "je": "vieillis",
+      "tu": "vieillis",
+      "il": "vieillit",
+      "nous": "vieillissons",
+      "vous": "vieillissez",
+      "ils": "vieillissent"
+    },
+    "passé_composé": {
+      "je": "ai vieilli",
+      "tu": "as vieilli",
+      "il": "a vieilli",
+      "nous": "avons vieilli",
+      "vous": "avez vieilli",
+      "ils": "ont vieilli"
+    },
+    "imparfait": {
+      "je": "vieillissais",
+      "tu": "vieillissais",
+      "il": "vieillissait",
+      "nous": "vieillissions",
+      "vous": "vieillissiez",
+      "ils": "vieillissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais vieilli",
+      "tu": "avais vieilli",
+      "il": "avait vieilli",
+      "nous": "avions vieilli",
+      "vous": "aviez vieilli",
+      "ils": "avaient vieilli"
+    },
+    "passé_simple": {
+      "je": "vieillis",
+      "tu": "vieillis",
+      "il": "vieillit",
+      "nous": "vieillîmes",
+      "vous": "vieillîtes",
+      "ils": "vieillirent"
+    },
+    "passé_antérieur": {
+      "je": "eus vieilli",
+      "tu": "eus vieilli",
+      "il": "eut vieilli",
+      "nous": "eûmes vieilli",
+      "vous": "eûtes vieilli",
+      "ils": "eurent vieilli"
+    },
+    "futur_simple": {
+      "je": "vieillirai",
+      "tu": "vieilliras",
+      "il": "vieillira",
+      "nous": "vieillirons",
+      "vous": "vieillirez",
+      "ils": "vieilliront"
+    },
+    "futur_antérieur": {
+      "je": "aurai vieilli",
+      "tu": "auras vieilli",
+      "il": "aura vieilli",
+      "nous": "aurons vieilli",
+      "vous": "aurez vieilli",
+      "ils": "auront vieilli"
+    },
+    "subjonctif_présent": {
+      "je": "vieillisse",
+      "tu": "vieillisses",
+      "il": "vieillisse",
+      "nous": "vieillissions",
+      "vous": "vieillissiez",
+      "ils": "vieillissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie vieilli",
+      "tu": "aies vieilli",
+      "il": "ait vieilli",
+      "nous": "ayons vieilli",
+      "vous": "ayez vieilli",
+      "ils": "aient vieilli"
+    },
+    "subjonctif_imparfait": {
+      "je": "vieillisse",
+      "tu": "vieillisses",
+      "il": "vieillît",
+      "nous": "vieillissions",
+      "vous": "vieillissiez",
+      "ils": "vieillissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse vieilli",
+      "tu": "eusses vieilli",
+      "il": "eût vieilli",
+      "nous": "eussions vieilli",
+      "vous": "eussiez vieilli",
+      "ils": "eussent vieilli"
+    },
+    "conditionnel_présent": {
+      "je": "vieillirais",
+      "tu": "vieillirais",
+      "il": "vieillirait",
+      "nous": "vieillirions",
+      "vous": "vieilliriez",
+      "ils": "vieilliraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais vieilli",
+      "tu": "aurais vieilli",
+      "il": "aurait vieilli",
+      "nous": "aurions vieilli",
+      "vous": "auriez vieilli",
+      "ils": "auraient vieilli"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse vieilli",
+      "tu": "eusses vieilli",
+      "il": "eût vieilli",
+      "nous": "eussions vieilli",
+      "vous": "eussiez vieilli",
+      "ils": "eussent vieilli"
+    },
+    "translation": "starzeć",
+    "group": 2
+  },
+  {
+    "infinitive": "viner",
+    "présent": {
+      "je": "vine",
+      "tu": "vines",
+      "il": "vine",
+      "nous": "vinons",
+      "vous": "vinez",
+      "ils": "vinent"
+    },
+    "passé_composé": {
+      "je": "ai viné",
+      "tu": "as viné",
+      "il": "a viné",
+      "nous": "avons viné",
+      "vous": "avez viné",
+      "ils": "ont viné"
+    },
+    "imparfait": {
+      "je": "vinais",
+      "tu": "vinais",
+      "il": "vinait",
+      "nous": "vinions",
+      "vous": "viniez",
+      "ils": "vinaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais viné",
+      "tu": "avais viné",
+      "il": "avait viné",
+      "nous": "avions viné",
+      "vous": "aviez viné",
+      "ils": "avaient viné"
+    },
+    "passé_simple": {
+      "je": "vinai",
+      "tu": "vinas",
+      "il": "vina",
+      "nous": "vinâmes",
+      "vous": "vinâtes",
+      "ils": "vinèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus viné",
+      "tu": "eus viné",
+      "il": "eut viné",
+      "nous": "eûmes viné",
+      "vous": "eûtes viné",
+      "ils": "eurent viné"
+    },
+    "futur_simple": {
+      "je": "vinerai",
+      "tu": "vineras",
+      "il": "vinera",
+      "nous": "vinerons",
+      "vous": "vinerez",
+      "ils": "vineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai viné",
+      "tu": "auras viné",
+      "il": "aura viné",
+      "nous": "aurons viné",
+      "vous": "aurez viné",
+      "ils": "auront viné"
+    },
+    "subjonctif_présent": {
+      "je": "vine",
+      "tu": "vines",
+      "il": "vine",
+      "nous": "vinions",
+      "vous": "viniez",
+      "ils": "vinent"
+    },
+    "subjonctif_passé": {
+      "je": "aie viné",
+      "tu": "aies viné",
+      "il": "ait viné",
+      "nous": "ayons viné",
+      "vous": "ayez viné",
+      "ils": "aient viné"
+    },
+    "subjonctif_imparfait": {
+      "je": "vinasse",
+      "tu": "vinasses",
+      "il": "vinât",
+      "nous": "vinassions",
+      "vous": "vinassiez",
+      "ils": "vinassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse viné",
+      "tu": "eusses viné",
+      "il": "eût viné",
+      "nous": "eussions viné",
+      "vous": "eussiez viné",
+      "ils": "eussent viné"
+    },
+    "conditionnel_présent": {
+      "je": "vinerais",
+      "tu": "vinerais",
+      "il": "vinerait",
+      "nous": "vinerions",
+      "vous": "vineriez",
+      "ils": "vineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais viné",
+      "tu": "aurais viné",
+      "il": "aurait viné",
+      "nous": "aurions viné",
+      "vous": "auriez viné",
+      "ils": "auraient viné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse viné",
+      "tu": "eusses viné",
+      "il": "eût viné",
+      "nous": "eussions viné",
+      "vous": "eussiez viné",
+      "ils": "eussent viné"
+    },
+    "translation": "zaminować",
+    "group": 1
+  },
+  {
+    "infinitive": "violer",
+    "présent": {
+      "je": "viole",
+      "tu": "violes",
+      "il": "viole",
+      "nous": "violons",
+      "vous": "violez",
+      "ils": "violent"
+    },
+    "passé_composé": {
+      "je": "ai violé",
+      "tu": "as violé",
+      "il": "a violé",
+      "nous": "avons violé",
+      "vous": "avez violé",
+      "ils": "ont violé"
+    },
+    "imparfait": {
+      "je": "violais",
+      "tu": "violais",
+      "il": "violait",
+      "nous": "violions",
+      "vous": "violiez",
+      "ils": "violaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais violé",
+      "tu": "avais violé",
+      "il": "avait violé",
+      "nous": "avions violé",
+      "vous": "aviez violé",
+      "ils": "avaient violé"
+    },
+    "passé_simple": {
+      "je": "violai",
+      "tu": "violas",
+      "il": "viola",
+      "nous": "violâmes",
+      "vous": "violâtes",
+      "ils": "violèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus violé",
+      "tu": "eus violé",
+      "il": "eut violé",
+      "nous": "eûmes violé",
+      "vous": "eûtes violé",
+      "ils": "eurent violé"
+    },
+    "futur_simple": {
+      "je": "violerai",
+      "tu": "violeras",
+      "il": "violera",
+      "nous": "violerons",
+      "vous": "violerez",
+      "ils": "violeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai violé",
+      "tu": "auras violé",
+      "il": "aura violé",
+      "nous": "aurons violé",
+      "vous": "aurez violé",
+      "ils": "auront violé"
+    },
+    "subjonctif_présent": {
+      "je": "viole",
+      "tu": "violes",
+      "il": "viole",
+      "nous": "violions",
+      "vous": "violiez",
+      "ils": "violent"
+    },
+    "subjonctif_passé": {
+      "je": "aie violé",
+      "tu": "aies violé",
+      "il": "ait violé",
+      "nous": "ayons violé",
+      "vous": "ayez violé",
+      "ils": "aient violé"
+    },
+    "subjonctif_imparfait": {
+      "je": "violasse",
+      "tu": "violasses",
+      "il": "violât",
+      "nous": "violassions",
+      "vous": "violassiez",
+      "ils": "violassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse violé",
+      "tu": "eusses violé",
+      "il": "eût violé",
+      "nous": "eussions violé",
+      "vous": "eussiez violé",
+      "ils": "eussent violé"
+    },
+    "conditionnel_présent": {
+      "je": "violerais",
+      "tu": "violerais",
+      "il": "violerait",
+      "nous": "violerions",
+      "vous": "violeriez",
+      "ils": "violeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais violé",
+      "tu": "aurais violé",
+      "il": "aurait violé",
+      "nous": "aurions violé",
+      "vous": "auriez violé",
+      "ils": "auraient violé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse violé",
+      "tu": "eusses violé",
+      "il": "eût violé",
+      "nous": "eussions violé",
+      "vous": "eussiez violé",
+      "ils": "eussent violé"
+    },
+    "translation": "gwałcić",
+    "group": 1
+  },
+  {
+    "infinitive": "virer",
+    "présent": {
+      "je": "vire",
+      "tu": "vires",
+      "il": "vire",
+      "nous": "virons",
+      "vous": "virez",
+      "ils": "virent"
+    },
+    "passé_composé": {
+      "je": "ai viré",
+      "tu": "as viré",
+      "il": "a viré",
+      "nous": "avons viré",
+      "vous": "avez viré",
+      "ils": "ont viré"
+    },
+    "imparfait": {
+      "je": "virais",
+      "tu": "virais",
+      "il": "virait",
+      "nous": "virions",
+      "vous": "viriez",
+      "ils": "viraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais viré",
+      "tu": "avais viré",
+      "il": "avait viré",
+      "nous": "avions viré",
+      "vous": "aviez viré",
+      "ils": "avaient viré"
+    },
+    "passé_simple": {
+      "je": "virai",
+      "tu": "viras",
+      "il": "vira",
+      "nous": "virâmes",
+      "vous": "virâtes",
+      "ils": "virèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus viré",
+      "tu": "eus viré",
+      "il": "eut viré",
+      "nous": "eûmes viré",
+      "vous": "eûtes viré",
+      "ils": "eurent viré"
+    },
+    "futur_simple": {
+      "je": "virerai",
+      "tu": "vireras",
+      "il": "virera",
+      "nous": "virerons",
+      "vous": "virerez",
+      "ils": "vireront"
+    },
+    "futur_antérieur": {
+      "je": "aurai viré",
+      "tu": "auras viré",
+      "il": "aura viré",
+      "nous": "aurons viré",
+      "vous": "aurez viré",
+      "ils": "auront viré"
+    },
+    "subjonctif_présent": {
+      "je": "vire",
+      "tu": "vires",
+      "il": "vire",
+      "nous": "virions",
+      "vous": "viriez",
+      "ils": "virent"
+    },
+    "subjonctif_passé": {
+      "je": "aie viré",
+      "tu": "aies viré",
+      "il": "ait viré",
+      "nous": "ayons viré",
+      "vous": "ayez viré",
+      "ils": "aient viré"
+    },
+    "subjonctif_imparfait": {
+      "je": "virasse",
+      "tu": "virasses",
+      "il": "virât",
+      "nous": "virassions",
+      "vous": "virassiez",
+      "ils": "virassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse viré",
+      "tu": "eusses viré",
+      "il": "eût viré",
+      "nous": "eussions viré",
+      "vous": "eussiez viré",
+      "ils": "eussent viré"
+    },
+    "conditionnel_présent": {
+      "je": "virerais",
+      "tu": "virerais",
+      "il": "virerait",
+      "nous": "virerions",
+      "vous": "vireriez",
+      "ils": "vireraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais viré",
+      "tu": "aurais viré",
+      "il": "aurait viré",
+      "nous": "aurions viré",
+      "vous": "auriez viré",
+      "ils": "auraient viré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse viré",
+      "tu": "eusses viré",
+      "il": "eût viré",
+      "nous": "eussions viré",
+      "vous": "eussiez viré",
+      "ils": "eussent viré"
+    },
+    "translation": "skręcać",
+    "group": 1
+  }
+]

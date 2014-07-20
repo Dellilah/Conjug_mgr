@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "cloner",
+    "présent": {
+      "je": "clone",
+      "tu": "clones",
+      "il": "clone",
+      "nous": "clonons",
+      "vous": "clonez",
+      "ils": "clonent"
+    },
+    "passé_composé": {
+      "je": "ai cloné",
+      "tu": "as cloné",
+      "il": "a cloné",
+      "nous": "avons cloné",
+      "vous": "avez cloné",
+      "ils": "ont cloné"
+    },
+    "imparfait": {
+      "je": "clonais",
+      "tu": "clonais",
+      "il": "clonait",
+      "nous": "clonions",
+      "vous": "cloniez",
+      "ils": "clonaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais cloné",
+      "tu": "avais cloné",
+      "il": "avait cloné",
+      "nous": "avions cloné",
+      "vous": "aviez cloné",
+      "ils": "avaient cloné"
+    },
+    "passé_simple": {
+      "je": "clonai",
+      "tu": "clonas",
+      "il": "clona",
+      "nous": "clonâmes",
+      "vous": "clonâtes",
+      "ils": "clonèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus cloné",
+      "tu": "eus cloné",
+      "il": "eut cloné",
+      "nous": "eûmes cloné",
+      "vous": "eûtes cloné",
+      "ils": "eurent cloné"
+    },
+    "futur_simple": {
+      "je": "clonerai",
+      "tu": "cloneras",
+      "il": "clonera",
+      "nous": "clonerons",
+      "vous": "clonerez",
+      "ils": "cloneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai cloné",
+      "tu": "auras cloné",
+      "il": "aura cloné",
+      "nous": "aurons cloné",
+      "vous": "aurez cloné",
+      "ils": "auront cloné"
+    },
+    "subjonctif_présent": {
+      "je": "clone",
+      "tu": "clones",
+      "il": "clone",
+      "nous": "clonions",
+      "vous": "cloniez",
+      "ils": "clonent"
+    },
+    "subjonctif_passé": {
+      "je": "aie cloné",
+      "tu": "aies cloné",
+      "il": "ait cloné",
+      "nous": "ayons cloné",
+      "vous": "ayez cloné",
+      "ils": "aient cloné"
+    },
+    "subjonctif_imparfait": {
+      "je": "clonasse",
+      "tu": "clonasses",
+      "il": "clonât",
+      "nous": "clonassions",
+      "vous": "clonassiez",
+      "ils": "clonassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse cloné",
+      "tu": "eusses cloné",
+      "il": "eût cloné",
+      "nous": "eussions cloné",
+      "vous": "eussiez cloné",
+      "ils": "eussent cloné"
+    },
+    "conditionnel_présent": {
+      "je": "clonerais",
+      "tu": "clonerais",
+      "il": "clonerait",
+      "nous": "clonerions",
+      "vous": "cloneriez",
+      "ils": "cloneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais cloné",
+      "tu": "aurais cloné",
+      "il": "aurait cloné",
+      "nous": "aurions cloné",
+      "vous": "auriez cloné",
+      "ils": "auraient cloné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse cloné",
+      "tu": "eusses cloné",
+      "il": "eût cloné",
+      "nous": "eussions cloné",
+      "vous": "eussiez cloné",
+      "ils": "eussent cloné"
+    },
+    "translation": "cloner",
+    "group": 1
+  },
+  {
+    "infinitive": "clore",
+    "présent": {
+      "je": "clos",
+      "tu": "clos",
+      "il": "clôt",
+      "nous": "-",
+      "vous": "-",
+      "ils": "closent"
+    },
+    "passé_composé": {
+      "je": "ai clos",
+      "tu": "as clos",
+      "il": "a clos",
+      "nous": "avons clos",
+      "vous": "avez clos",
+      "ils": "ont clos"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "avais clos",
+      "tu": "avais clos",
+      "il": "avait clos",
+      "nous": "avions clos",
+      "vous": "aviez clos",
+      "ils": "avaient clos"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "eus clos",
+      "tu": "eus clos",
+      "il": "eut clos",
+      "nous": "eûmes clos",
+      "vous": "eûtes clos",
+      "ils": "eurent clos"
+    },
+    "futur_simple": {
+      "je": "clorai",
+      "tu": "cloras",
+      "il": "clora",
+      "nous": "clorons",
+      "vous": "clorez",
+      "ils": "cloront"
+    },
+    "futur_antérieur": {
+      "je": "aurai clos",
+      "tu": "auras clos",
+      "il": "aura clos",
+      "nous": "aurons clos",
+      "vous": "aurez clos",
+      "ils": "auront clos"
+    },
+    "subjonctif_présent": {
+      "je": "close",
+      "tu": "closes",
+      "il": "close",
+      "nous": "closions",
+      "vous": "closiez",
+      "ils": "closent"
+    },
+    "subjonctif_passé": {
+      "je": "aie clos",
+      "tu": "aies clos",
+      "il": "ait clos",
+      "nous": "ayons clos",
+      "vous": "ayez clos",
+      "ils": "aient clos"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse clos",
+      "tu": "eusses clos",
+      "il": "eût clos",
+      "nous": "eussions clos",
+      "vous": "eussiez clos",
+      "ils": "eussent clos"
+    },
+    "conditionnel_présent": {
+      "je": "clorais",
+      "tu": "clorais",
+      "il": "clorait",
+      "nous": "clorions",
+      "vous": "cloriez",
+      "ils": "cloraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais clos",
+      "tu": "aurais clos",
+      "il": "aurait clos",
+      "nous": "aurions clos",
+      "vous": "auriez clos",
+      "ils": "auraient clos"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse clos",
+      "tu": "eusses clos",
+      "il": "eût clos",
+      "nous": "eussions clos",
+      "vous": "eussiez clos",
+      "ils": "eussent clos"
+    },
+    "translation": "otwierać",
+    "group": 3
+  },
+  {
+    "infinitive": "clôturer",
+    "présent": {
+      "je": "clôture",
+      "tu": "clôtures",
+      "il": "clôture",
+      "nous": "clôturons",
+      "vous": "clôturez",
+      "ils": "clôturent"
+    },
+    "passé_composé": {
+      "je": "ai clôturé",
+      "tu": "as clôturé",
+      "il": "a clôturé",
+      "nous": "avons clôturé",
+      "vous": "avez clôturé",
+      "ils": "ont clôturé"
+    },
+    "imparfait": {
+      "je": "clôturais",
+      "tu": "clôturais",
+      "il": "clôturait",
+      "nous": "clôturions",
+      "vous": "clôturiez",
+      "ils": "clôturaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais clôturé",
+      "tu": "avais clôturé",
+      "il": "avait clôturé",
+      "nous": "avions clôturé",
+      "vous": "aviez clôturé",
+      "ils": "avaient clôturé"
+    },
+    "passé_simple": {
+      "je": "clôturai",
+      "tu": "clôturas",
+      "il": "clôtura",
+      "nous": "clôturâmes",
+      "vous": "clôturâtes",
+      "ils": "clôturèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus clôturé",
+      "tu": "eus clôturé",
+      "il": "eut clôturé",
+      "nous": "eûmes clôturé",
+      "vous": "eûtes clôturé",
+      "ils": "eurent clôturé"
+    },
+    "futur_simple": {
+      "je": "clôturerai",
+      "tu": "clôtureras",
+      "il": "clôturera",
+      "nous": "clôturerons",
+      "vous": "clôturerez",
+      "ils": "clôtureront"
+    },
+    "futur_antérieur": {
+      "je": "aurai clôturé",
+      "tu": "auras clôturé",
+      "il": "aura clôturé",
+      "nous": "aurons clôturé",
+      "vous": "aurez clôturé",
+      "ils": "auront clôturé"
+    },
+    "subjonctif_présent": {
+      "je": "clôture",
+      "tu": "clôtures",
+      "il": "clôture",
+      "nous": "clôturions",
+      "vous": "clôturiez",
+      "ils": "clôturent"
+    },
+    "subjonctif_passé": {
+      "je": "aie clôturé",
+      "tu": "aies clôturé",
+      "il": "ait clôturé",
+      "nous": "ayons clôturé",
+      "vous": "ayez clôturé",
+      "ils": "aient clôturé"
+    },
+    "subjonctif_imparfait": {
+      "je": "clôturasse",
+      "tu": "clôturasses",
+      "il": "clôturât",
+      "nous": "clôturassions",
+      "vous": "clôturassiez",
+      "ils": "clôturassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse clôturé",
+      "tu": "eusses clôturé",
+      "il": "eût clôturé",
+      "nous": "eussions clôturé",
+      "vous": "eussiez clôturé",
+      "ils": "eussent clôturé"
+    },
+    "conditionnel_présent": {
+      "je": "clôturerais",
+      "tu": "clôturerais",
+      "il": "clôturerait",
+      "nous": "clôturerions",
+      "vous": "clôtureriez",
+      "ils": "clôtureraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais clôturé",
+      "tu": "aurais clôturé",
+      "il": "aurait clôturé",
+      "nous": "aurions clôturé",
+      "vous": "auriez clôturé",
+      "ils": "auraient clôturé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse clôturé",
+      "tu": "eusses clôturé",
+      "il": "eût clôturé",
+      "nous": "eussions clôturé",
+      "vous": "eussiez clôturé",
+      "ils": "eussent clôturé"
+    },
+    "translation": "ogradzać",
+    "group": 1
+  },
+  {
+    "infinitive": "clouer",
+    "présent": {
+      "je": "cloue",
+      "tu": "cloues",
+      "il": "cloue",
+      "nous": "clouons",
+      "vous": "clouez",
+      "ils": "clouent"
+    },
+    "passé_composé": {
+      "je": "ai cloué",
+      "tu": "as cloué",
+      "il": "a cloué",
+      "nous": "avons cloué",
+      "vous": "avez cloué",
+      "ils": "ont cloué"
+    },
+    "imparfait": {
+      "je": "clouais",
+      "tu": "clouais",
+      "il": "clouait",
+      "nous": "clouions",
+      "vous": "clouiez",
+      "ils": "clouaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais cloué",
+      "tu": "avais cloué",
+      "il": "avait cloué",
+      "nous": "avions cloué",
+      "vous": "aviez cloué",
+      "ils": "avaient cloué"
+    },
+    "passé_simple": {
+      "je": "clouai",
+      "tu": "clouas",
+      "il": "cloua",
+      "nous": "clouâmes",
+      "vous": "clouâtes",
+      "ils": "clouèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus cloué",
+      "tu": "eus cloué",
+      "il": "eut cloué",
+      "nous": "eûmes cloué",
+      "vous": "eûtes cloué",
+      "ils": "eurent cloué"
+    },
+    "futur_simple": {
+      "je": "clouerai",
+      "tu": "cloueras",
+      "il": "clouera",
+      "nous": "clouerons",
+      "vous": "clouerez",
+      "ils": "cloueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai cloué",
+      "tu": "auras cloué",
+      "il": "aura cloué",
+      "nous": "aurons cloué",
+      "vous": "aurez cloué",
+      "ils": "auront cloué"
+    },
+    "subjonctif_présent": {
+      "je": "cloue",
+      "tu": "cloues",
+      "il": "cloue",
+      "nous": "clouions",
+      "vous": "clouiez",
+      "ils": "clouent"
+    },
+    "subjonctif_passé": {
+      "je": "aie cloué",
+      "tu": "aies cloué",
+      "il": "ait cloué",
+      "nous": "ayons cloué",
+      "vous": "ayez cloué",
+      "ils": "aient cloué"
+    },
+    "subjonctif_imparfait": {
+      "je": "clouasse",
+      "tu": "clouasses",
+      "il": "clouât",
+      "nous": "clouassions",
+      "vous": "clouassiez",
+      "ils": "clouassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse cloué",
+      "tu": "eusses cloué",
+      "il": "eût cloué",
+      "nous": "eussions cloué",
+      "vous": "eussiez cloué",
+      "ils": "eussent cloué"
+    },
+    "conditionnel_présent": {
+      "je": "clouerais",
+      "tu": "clouerais",
+      "il": "clouerait",
+      "nous": "clouerions",
+      "vous": "cloueriez",
+      "ils": "cloueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais cloué",
+      "tu": "aurais cloué",
+      "il": "aurait cloué",
+      "nous": "aurions cloué",
+      "vous": "auriez cloué",
+      "ils": "auraient cloué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse cloué",
+      "tu": "eusses cloué",
+      "il": "eût cloué",
+      "nous": "eussions cloué",
+      "vous": "eussiez cloué",
+      "ils": "eussent cloué"
+    },
+    "translation": "przybijać",
+    "group": 1
+  },
+  {
+    "infinitive": "cocher",
+    "présent": {
+      "je": "coche",
+      "tu": "coches",
+      "il": "coche",
+      "nous": "cochons",
+      "vous": "cochez",
+      "ils": "cochent"
+    },
+    "passé_composé": {
+      "je": "ai coché",
+      "tu": "as coché",
+      "il": "a coché",
+      "nous": "avons coché",
+      "vous": "avez coché",
+      "ils": "ont coché"
+    },
+    "imparfait": {
+      "je": "cochais",
+      "tu": "cochais",
+      "il": "cochait",
+      "nous": "cochions",
+      "vous": "cochiez",
+      "ils": "cochaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais coché",
+      "tu": "avais coché",
+      "il": "avait coché",
+      "nous": "avions coché",
+      "vous": "aviez coché",
+      "ils": "avaient coché"
+    },
+    "passé_simple": {
+      "je": "cochai",
+      "tu": "cochas",
+      "il": "cocha",
+      "nous": "cochâmes",
+      "vous": "cochâtes",
+      "ils": "cochèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus coché",
+      "tu": "eus coché",
+      "il": "eut coché",
+      "nous": "eûmes coché",
+      "vous": "eûtes coché",
+      "ils": "eurent coché"
+    },
+    "futur_simple": {
+      "je": "cocherai",
+      "tu": "cocheras",
+      "il": "cochera",
+      "nous": "cocherons",
+      "vous": "cocherez",
+      "ils": "cocheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai coché",
+      "tu": "auras coché",
+      "il": "aura coché",
+      "nous": "aurons coché",
+      "vous": "aurez coché",
+      "ils": "auront coché"
+    },
+    "subjonctif_présent": {
+      "je": "coche",
+      "tu": "coches",
+      "il": "coche",
+      "nous": "cochions",
+      "vous": "cochiez",
+      "ils": "cochent"
+    },
+    "subjonctif_passé": {
+      "je": "aie coché",
+      "tu": "aies coché",
+      "il": "ait coché",
+      "nous": "ayons coché",
+      "vous": "ayez coché",
+      "ils": "aient coché"
+    },
+    "subjonctif_imparfait": {
+      "je": "cochasse",
+      "tu": "cochasses",
+      "il": "cochât",
+      "nous": "cochassions",
+      "vous": "cochassiez",
+      "ils": "cochassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse coché",
+      "tu": "eusses coché",
+      "il": "eût coché",
+      "nous": "eussions coché",
+      "vous": "eussiez coché",
+      "ils": "eussent coché"
+    },
+    "conditionnel_présent": {
+      "je": "cocherais",
+      "tu": "cocherais",
+      "il": "cocherait",
+      "nous": "cocherions",
+      "vous": "cocheriez",
+      "ils": "cocheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais coché",
+      "tu": "aurais coché",
+      "il": "aurait coché",
+      "nous": "aurions coché",
+      "vous": "auriez coché",
+      "ils": "auraient coché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse coché",
+      "tu": "eusses coché",
+      "il": "eût coché",
+      "nous": "eussions coché",
+      "vous": "eussiez coché",
+      "ils": "eussent coché"
+    },
+    "translation": "zaznaczać",
+    "group": 1
+  },
+  {
+    "infinitive": "côcher",
+    "présent": {
+      "je": "coche",
+      "tu": "coches",
+      "il": "coche",
+      "nous": "cochons",
+      "vous": "cochez",
+      "ils": "cochent"
+    },
+    "passé_composé": {
+      "je": "ai coché",
+      "tu": "as coché",
+      "il": "a coché",
+      "nous": "avons coché",
+      "vous": "avez coché",
+      "ils": "ont coché"
+    },
+    "imparfait": {
+      "je": "cochais",
+      "tu": "cochais",
+      "il": "cochait",
+      "nous": "cochions",
+      "vous": "cochiez",
+      "ils": "cochaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais coché",
+      "tu": "avais coché",
+      "il": "avait coché",
+      "nous": "avions coché",
+      "vous": "aviez coché",
+      "ils": "avaient coché"
+    },
+    "passé_simple": {
+      "je": "cochai",
+      "tu": "cochas",
+      "il": "cocha",
+      "nous": "cochâmes",
+      "vous": "cochâtes",
+      "ils": "cochèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus coché",
+      "tu": "eus coché",
+      "il": "eut coché",
+      "nous": "eûmes coché",
+      "vous": "eûtes coché",
+      "ils": "eurent coché"
+    },
+    "futur_simple": {
+      "je": "cocherai",
+      "tu": "cocheras",
+      "il": "cochera",
+      "nous": "cocherons",
+      "vous": "cocherez",
+      "ils": "cocheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai coché",
+      "tu": "auras coché",
+      "il": "aura coché",
+      "nous": "aurons coché",
+      "vous": "aurez coché",
+      "ils": "auront coché"
+    },
+    "subjonctif_présent": {
+      "je": "coche",
+      "tu": "coches",
+      "il": "coche",
+      "nous": "cochions",
+      "vous": "cochiez",
+      "ils": "cochent"
+    },
+    "subjonctif_passé": {
+      "je": "aie coché",
+      "tu": "aies coché",
+      "il": "ait coché",
+      "nous": "ayons coché",
+      "vous": "ayez coché",
+      "ils": "aient coché"
+    },
+    "subjonctif_imparfait": {
+      "je": "cochasse",
+      "tu": "cochasses",
+      "il": "cochât",
+      "nous": "cochassions",
+      "vous": "cochassiez",
+      "ils": "cochassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse coché",
+      "tu": "eusses coché",
+      "il": "eût coché",
+      "nous": "eussions coché",
+      "vous": "eussiez coché",
+      "ils": "eussent coché"
+    },
+    "conditionnel_présent": {
+      "je": "cocherais",
+      "tu": "cocherais",
+      "il": "cocherait",
+      "nous": "cocherions",
+      "vous": "cocheriez",
+      "ils": "cocheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais coché",
+      "tu": "aurais coché",
+      "il": "aurait coché",
+      "nous": "aurions coché",
+      "vous": "auriez coché",
+      "ils": "auraient coché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse coché",
+      "tu": "eusses coché",
+      "il": "eût coché",
+      "nous": "eussions coché",
+      "vous": "eussiez coché",
+      "ils": "eussent coché"
+    },
+    "translation": "zaznaczać",
+    "group": 1
+  },
+  {
+    "infinitive": "cogiter",
+    "présent": {
+      "je": "cogite",
+      "tu": "cogites",
+      "il": "cogite",
+      "nous": "cogitons",
+      "vous": "cogitez",
+      "ils": "cogitent"
+    },
+    "passé_composé": {
+      "je": "ai cogité",
+      "tu": "as cogité",
+      "il": "a cogité",
+      "nous": "avons cogité",
+      "vous": "avez cogité",
+      "ils": "ont cogité"
+    },
+    "imparfait": {
+      "je": "cogitais",
+      "tu": "cogitais",
+      "il": "cogitait",
+      "nous": "cogitions",
+      "vous": "cogitiez",
+      "ils": "cogitaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais cogité",
+      "tu": "avais cogité",
+      "il": "avait cogité",
+      "nous": "avions cogité",
+      "vous": "aviez cogité",
+      "ils": "avaient cogité"
+    },
+    "passé_simple": {
+      "je": "cogitai",
+      "tu": "cogitas",
+      "il": "cogita",
+      "nous": "cogitâmes",
+      "vous": "cogitâtes",
+      "ils": "cogitèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus cogité",
+      "tu": "eus cogité",
+      "il": "eut cogité",
+      "nous": "eûmes cogité",
+      "vous": "eûtes cogité",
+      "ils": "eurent cogité"
+    },
+    "futur_simple": {
+      "je": "cogiterai",
+      "tu": "cogiteras",
+      "il": "cogitera",
+      "nous": "cogiterons",
+      "vous": "cogiterez",
+      "ils": "cogiteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai cogité",
+      "tu": "auras cogité",
+      "il": "aura cogité",
+      "nous": "aurons cogité",
+      "vous": "aurez cogité",
+      "ils": "auront cogité"
+    },
+    "subjonctif_présent": {
+      "je": "cogite",
+      "tu": "cogites",
+      "il": "cogite",
+      "nous": "cogitions",
+      "vous": "cogitiez",
+      "ils": "cogitent"
+    },
+    "subjonctif_passé": {
+      "je": "aie cogité",
+      "tu": "aies cogité",
+      "il": "ait cogité",
+      "nous": "ayons cogité",
+      "vous": "ayez cogité",
+      "ils": "aient cogité"
+    },
+    "subjonctif_imparfait": {
+      "je": "cogitasse",
+      "tu": "cogitasses",
+      "il": "cogitât",
+      "nous": "cogitassions",
+      "vous": "cogitassiez",
+      "ils": "cogitassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse cogité",
+      "tu": "eusses cogité",
+      "il": "eût cogité",
+      "nous": "eussions cogité",
+      "vous": "eussiez cogité",
+      "ils": "eussent cogité"
+    },
+    "conditionnel_présent": {
+      "je": "cogiterais",
+      "tu": "cogiterais",
+      "il": "cogiterait",
+      "nous": "cogiterions",
+      "vous": "cogiteriez",
+      "ils": "cogiteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais cogité",
+      "tu": "aurais cogité",
+      "il": "aurait cogité",
+      "nous": "aurions cogité",
+      "vous": "auriez cogité",
+      "ils": "auraient cogité"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse cogité",
+      "tu": "eusses cogité",
+      "il": "eût cogité",
+      "nous": "eussions cogité",
+      "vous": "eussiez cogité",
+      "ils": "eussent cogité"
+    },
+    "translation": "uderzać",
+    "group": 1
+  },
+  {
+    "infinitive": "cogner",
+    "présent": {
+      "je": "cogne",
+      "tu": "cognes",
+      "il": "cogne",
+      "nous": "cognons",
+      "vous": "cognez",
+      "ils": "cognent"
+    },
+    "passé_composé": {
+      "je": "ai cogné",
+      "tu": "as cogné",
+      "il": "a cogné",
+      "nous": "avons cogné",
+      "vous": "avez cogné",
+      "ils": "ont cogné"
+    },
+    "imparfait": {
+      "je": "cognais",
+      "tu": "cognais",
+      "il": "cognait",
+      "nous": "cognions",
+      "vous": "cogniez",
+      "ils": "cognaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais cogné",
+      "tu": "avais cogné",
+      "il": "avait cogné",
+      "nous": "avions cogné",
+      "vous": "aviez cogné",
+      "ils": "avaient cogné"
+    },
+    "passé_simple": {
+      "je": "cognai",
+      "tu": "cognas",
+      "il": "cogna",
+      "nous": "cognâmes",
+      "vous": "cognâtes",
+      "ils": "cognèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus cogné",
+      "tu": "eus cogné",
+      "il": "eut cogné",
+      "nous": "eûmes cogné",
+      "vous": "eûtes cogné",
+      "ils": "eurent cogné"
+    },
+    "futur_simple": {
+      "je": "cognerai",
+      "tu": "cogneras",
+      "il": "cognera",
+      "nous": "cognerons",
+      "vous": "cognerez",
+      "ils": "cogneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai cogné",
+      "tu": "auras cogné",
+      "il": "aura cogné",
+      "nous": "aurons cogné",
+      "vous": "aurez cogné",
+      "ils": "auront cogné"
+    },
+    "subjonctif_présent": {
+      "je": "cogne",
+      "tu": "cognes",
+      "il": "cogne",
+      "nous": "cognions",
+      "vous": "cogniez",
+      "ils": "cognent"
+    },
+    "subjonctif_passé": {
+      "je": "aie cogné",
+      "tu": "aies cogné",
+      "il": "ait cogné",
+      "nous": "ayons cogné",
+      "vous": "ayez cogné",
+      "ils": "aient cogné"
+    },
+    "subjonctif_imparfait": {
+      "je": "cognasse",
+      "tu": "cognasses",
+      "il": "cognât",
+      "nous": "cognassions",
+      "vous": "cognassiez",
+      "ils": "cognassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse cogné",
+      "tu": "eusses cogné",
+      "il": "eût cogné",
+      "nous": "eussions cogné",
+      "vous": "eussiez cogné",
+      "ils": "eussent cogné"
+    },
+    "conditionnel_présent": {
+      "je": "cognerais",
+      "tu": "cognerais",
+      "il": "cognerait",
+      "nous": "cognerions",
+      "vous": "cogneriez",
+      "ils": "cogneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais cogné",
+      "tu": "aurais cogné",
+      "il": "aurait cogné",
+      "nous": "aurions cogné",
+      "vous": "auriez cogné",
+      "ils": "auraient cogné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse cogné",
+      "tu": "eusses cogné",
+      "il": "eût cogné",
+      "nous": "eussions cogné",
+      "vous": "eussiez cogné",
+      "ils": "eussent cogné"
+    },
+    "translation": "uderzać",
+    "group": 1
+  },
+  {
+    "infinitive": "coiffer",
+    "présent": {
+      "je": "coiffe",
+      "tu": "coiffes",
+      "il": "coiffe",
+      "nous": "coiffons",
+      "vous": "coiffez",
+      "ils": "coiffent"
+    },
+    "passé_composé": {
+      "je": "ai coiffé",
+      "tu": "as coiffé",
+      "il": "a coiffé",
+      "nous": "avons coiffé",
+      "vous": "avez coiffé",
+      "ils": "ont coiffé"
+    },
+    "imparfait": {
+      "je": "coiffais",
+      "tu": "coiffais",
+      "il": "coiffait",
+      "nous": "coiffions",
+      "vous": "coiffiez",
+      "ils": "coiffaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais coiffé",
+      "tu": "avais coiffé",
+      "il": "avait coiffé",
+      "nous": "avions coiffé",
+      "vous": "aviez coiffé",
+      "ils": "avaient coiffé"
+    },
+    "passé_simple": {
+      "je": "coiffai",
+      "tu": "coiffas",
+      "il": "coiffa",
+      "nous": "coiffâmes",
+      "vous": "coiffâtes",
+      "ils": "coiffèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus coiffé",
+      "tu": "eus coiffé",
+      "il": "eut coiffé",
+      "nous": "eûmes coiffé",
+      "vous": "eûtes coiffé",
+      "ils": "eurent coiffé"
+    },
+    "futur_simple": {
+      "je": "coifferai",
+      "tu": "coifferas",
+      "il": "coiffera",
+      "nous": "coifferons",
+      "vous": "coifferez",
+      "ils": "coifferont"
+    },
+    "futur_antérieur": {
+      "je": "aurai coiffé",
+      "tu": "auras coiffé",
+      "il": "aura coiffé",
+      "nous": "aurons coiffé",
+      "vous": "aurez coiffé",
+      "ils": "auront coiffé"
+    },
+    "subjonctif_présent": {
+      "je": "coiffe",
+      "tu": "coiffes",
+      "il": "coiffe",
+      "nous": "coiffions",
+      "vous": "coiffiez",
+      "ils": "coiffent"
+    },
+    "subjonctif_passé": {
+      "je": "aie coiffé",
+      "tu": "aies coiffé",
+      "il": "ait coiffé",
+      "nous": "ayons coiffé",
+      "vous": "ayez coiffé",
+      "ils": "aient coiffé"
+    },
+    "subjonctif_imparfait": {
+      "je": "coiffasse",
+      "tu": "coiffasses",
+      "il": "coiffât",
+      "nous": "coiffassions",
+      "vous": "coiffassiez",
+      "ils": "coiffassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse coiffé",
+      "tu": "eusses coiffé",
+      "il": "eût coiffé",
+      "nous": "eussions coiffé",
+      "vous": "eussiez coiffé",
+      "ils": "eussent coiffé"
+    },
+    "conditionnel_présent": {
+      "je": "coifferais",
+      "tu": "coifferais",
+      "il": "coifferait",
+      "nous": "coifferions",
+      "vous": "coifferiez",
+      "ils": "coifferaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais coiffé",
+      "tu": "aurais coiffé",
+      "il": "aurait coiffé",
+      "nous": "aurions coiffé",
+      "vous": "auriez coiffé",
+      "ils": "auraient coiffé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse coiffé",
+      "tu": "eusses coiffé",
+      "il": "eût coiffé",
+      "nous": "eussions coiffé",
+      "vous": "eussiez coiffé",
+      "ils": "eussent coiffé"
+    },
+    "translation": "czesać",
+    "group": 1
+  },
+  {
+    "infinitive": "coincer",
+    "présent": {
+      "je": "coince",
+      "tu": "coinces",
+      "il": "coince",
+      "nous": "coinçons",
+      "vous": "coincez",
+      "ils": "coincent"
+    },
+    "passé_composé": {
+      "je": "ai coincé",
+      "tu": "as coincé",
+      "il": "a coincé",
+      "nous": "avons coincé",
+      "vous": "avez coincé",
+      "ils": "ont coincé"
+    },
+    "imparfait": {
+      "je": "coinçais",
+      "tu": "coinçais",
+      "il": "coinçait",
+      "nous": "coincions",
+      "vous": "coinciez",
+      "ils": "coinçaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais coincé",
+      "tu": "avais coincé",
+      "il": "avait coincé",
+      "nous": "avions coincé",
+      "vous": "aviez coincé",
+      "ils": "avaient coincé"
+    },
+    "passé_simple": {
+      "je": "coinçai",
+      "tu": "coinças",
+      "il": "coinça",
+      "nous": "coinçâmes",
+      "vous": "coinçâtes",
+      "ils": "coincèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus coincé",
+      "tu": "eus coincé",
+      "il": "eut coincé",
+      "nous": "eûmes coincé",
+      "vous": "eûtes coincé",
+      "ils": "eurent coincé"
+    },
+    "futur_simple": {
+      "je": "coincerai",
+      "tu": "coinceras",
+      "il": "coincera",
+      "nous": "coincerons",
+      "vous": "coincerez",
+      "ils": "coinceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai coincé",
+      "tu": "auras coincé",
+      "il": "aura coincé",
+      "nous": "aurons coincé",
+      "vous": "aurez coincé",
+      "ils": "auront coincé"
+    },
+    "subjonctif_présent": {
+      "je": "coince",
+      "tu": "coinces",
+      "il": "coince",
+      "nous": "coincions",
+      "vous": "coinciez",
+      "ils": "coincent"
+    },
+    "subjonctif_passé": {
+      "je": "aie coincé",
+      "tu": "aies coincé",
+      "il": "ait coincé",
+      "nous": "ayons coincé",
+      "vous": "ayez coincé",
+      "ils": "aient coincé"
+    },
+    "subjonctif_imparfait": {
+      "je": "coinçasse",
+      "tu": "coinçasses",
+      "il": "coinçât",
+      "nous": "coinçassions",
+      "vous": "coinçassiez",
+      "ils": "coinçassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse coincé",
+      "tu": "eusses coincé",
+      "il": "eût coincé",
+      "nous": "eussions coincé",
+      "vous": "eussiez coincé",
+      "ils": "eussent coincé"
+    },
+    "conditionnel_présent": {
+      "je": "coincerais",
+      "tu": "coincerais",
+      "il": "coincerait",
+      "nous": "coincerions",
+      "vous": "coinceriez",
+      "ils": "coinceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais coincé",
+      "tu": "aurais coincé",
+      "il": "aurait coincé",
+      "nous": "aurions coincé",
+      "vous": "auriez coincé",
+      "ils": "auraient coincé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse coincé",
+      "tu": "eusses coincé",
+      "il": "eût coincé",
+      "nous": "eussions coincé",
+      "vous": "eussiez coincé",
+      "ils": "eussent coincé"
+    },
+    "translation": "unieruchamiać",
+    "group": 1
+  }
+]

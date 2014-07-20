@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "feuilleter",
+    "présent": {
+      "je": "feuillette",
+      "tu": "feuillettes",
+      "il": "feuillette",
+      "nous": "feuilletons",
+      "vous": "feuilletez",
+      "ils": "feuillettent"
+    },
+    "passé_composé": {
+      "je": "ai feuilleté",
+      "tu": "as feuilleté",
+      "il": "a feuilleté",
+      "nous": "avons feuilleté",
+      "vous": "avez feuilleté",
+      "ils": "ont feuilleté"
+    },
+    "imparfait": {
+      "je": "feuilletais",
+      "tu": "feuilletais",
+      "il": "feuilletait",
+      "nous": "feuilletions",
+      "vous": "feuilletiez",
+      "ils": "feuilletaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais feuilleté",
+      "tu": "avais feuilleté",
+      "il": "avait feuilleté",
+      "nous": "avions feuilleté",
+      "vous": "aviez feuilleté",
+      "ils": "avaient feuilleté"
+    },
+    "passé_simple": {
+      "je": "feuilletai",
+      "tu": "feuilletas",
+      "il": "feuilleta",
+      "nous": "feuilletâmes",
+      "vous": "feuilletâtes",
+      "ils": "feuilletèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus feuilleté",
+      "tu": "eus feuilleté",
+      "il": "eut feuilleté",
+      "nous": "eûmes feuilleté",
+      "vous": "eûtes feuilleté",
+      "ils": "eurent feuilleté"
+    },
+    "futur_simple": {
+      "je": "feuilletterai",
+      "tu": "feuilletteras",
+      "il": "feuillettera",
+      "nous": "feuilletterons",
+      "vous": "feuilletterez",
+      "ils": "feuilletteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai feuilleté",
+      "tu": "auras feuilleté",
+      "il": "aura feuilleté",
+      "nous": "aurons feuilleté",
+      "vous": "aurez feuilleté",
+      "ils": "auront feuilleté"
+    },
+    "subjonctif_présent": {
+      "je": "feuillette",
+      "tu": "feuillettes",
+      "il": "feuillette",
+      "nous": "feuilletions",
+      "vous": "feuilletiez",
+      "ils": "feuillettent"
+    },
+    "subjonctif_passé": {
+      "je": "aie feuilleté",
+      "tu": "aies feuilleté",
+      "il": "ait feuilleté",
+      "nous": "ayons feuilleté",
+      "vous": "ayez feuilleté",
+      "ils": "aient feuilleté"
+    },
+    "subjonctif_imparfait": {
+      "je": "feuilletasse",
+      "tu": "feuilletasses",
+      "il": "feuilletât",
+      "nous": "feuilletassions",
+      "vous": "feuilletassiez",
+      "ils": "feuilletassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse feuilleté",
+      "tu": "eusses feuilleté",
+      "il": "eût feuilleté",
+      "nous": "eussions feuilleté",
+      "vous": "eussiez feuilleté",
+      "ils": "eussent feuilleté"
+    },
+    "conditionnel_présent": {
+      "je": "feuilletterais",
+      "tu": "feuilletterais",
+      "il": "feuilletterait",
+      "nous": "feuilletterions",
+      "vous": "feuilletteriez",
+      "ils": "feuilletteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais feuilleté",
+      "tu": "aurais feuilleté",
+      "il": "aurait feuilleté",
+      "nous": "aurions feuilleté",
+      "vous": "auriez feuilleté",
+      "ils": "auraient feuilleté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse feuilleté",
+      "tu": "eusses feuilleté",
+      "il": "eût feuilleté",
+      "nous": "eussions feuilleté",
+      "vous": "eussiez feuilleté",
+      "ils": "eussent feuilleté"
+    },
+    "translation": "wertować",
+    "group": 1
+  },
+  {
+    "infinitive": "fiancer",
+    "présent": {
+      "je": "fiance",
+      "tu": "fiances",
+      "il": "fiance",
+      "nous": "fiançons",
+      "vous": "fiancez",
+      "ils": "fiancent"
+    },
+    "passé_composé": {
+      "je": "ai fiancé",
+      "tu": "as fiancé",
+      "il": "a fiancé",
+      "nous": "avons fiancé",
+      "vous": "avez fiancé",
+      "ils": "ont fiancé"
+    },
+    "imparfait": {
+      "je": "fiançais",
+      "tu": "fiançais",
+      "il": "fiançait",
+      "nous": "fiancions",
+      "vous": "fianciez",
+      "ils": "fiançaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais fiancé",
+      "tu": "avais fiancé",
+      "il": "avait fiancé",
+      "nous": "avions fiancé",
+      "vous": "aviez fiancé",
+      "ils": "avaient fiancé"
+    },
+    "passé_simple": {
+      "je": "fiançai",
+      "tu": "fianças",
+      "il": "fiança",
+      "nous": "fiançâmes",
+      "vous": "fiançâtes",
+      "ils": "fiancèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus fiancé",
+      "tu": "eus fiancé",
+      "il": "eut fiancé",
+      "nous": "eûmes fiancé",
+      "vous": "eûtes fiancé",
+      "ils": "eurent fiancé"
+    },
+    "futur_simple": {
+      "je": "fiancerai",
+      "tu": "fianceras",
+      "il": "fiancera",
+      "nous": "fiancerons",
+      "vous": "fiancerez",
+      "ils": "fianceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai fiancé",
+      "tu": "auras fiancé",
+      "il": "aura fiancé",
+      "nous": "aurons fiancé",
+      "vous": "aurez fiancé",
+      "ils": "auront fiancé"
+    },
+    "subjonctif_présent": {
+      "je": "fiance",
+      "tu": "fiances",
+      "il": "fiance",
+      "nous": "fiancions",
+      "vous": "fianciez",
+      "ils": "fiancent"
+    },
+    "subjonctif_passé": {
+      "je": "aie fiancé",
+      "tu": "aies fiancé",
+      "il": "ait fiancé",
+      "nous": "ayons fiancé",
+      "vous": "ayez fiancé",
+      "ils": "aient fiancé"
+    },
+    "subjonctif_imparfait": {
+      "je": "fiançasse",
+      "tu": "fiançasses",
+      "il": "fiançât",
+      "nous": "fiançassions",
+      "vous": "fiançassiez",
+      "ils": "fiançassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse fiancé",
+      "tu": "eusses fiancé",
+      "il": "eût fiancé",
+      "nous": "eussions fiancé",
+      "vous": "eussiez fiancé",
+      "ils": "eussent fiancé"
+    },
+    "conditionnel_présent": {
+      "je": "fiancerais",
+      "tu": "fiancerais",
+      "il": "fiancerait",
+      "nous": "fiancerions",
+      "vous": "fianceriez",
+      "ils": "fianceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais fiancé",
+      "tu": "aurais fiancé",
+      "il": "aurait fiancé",
+      "nous": "aurions fiancé",
+      "vous": "auriez fiancé",
+      "ils": "auraient fiancé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse fiancé",
+      "tu": "eusses fiancé",
+      "il": "eût fiancé",
+      "nous": "eussions fiancé",
+      "vous": "eussiez fiancé",
+      "ils": "eussent fiancé"
+    },
+    "translation": "zaręczać",
+    "group": 1
+  },
+  {
+    "infinitive": "ficeler",
+    "présent": {
+      "je": "ficelle",
+      "tu": "ficelles",
+      "il": "ficelle",
+      "nous": "ficelons",
+      "vous": "ficelez",
+      "ils": "ficellent"
+    },
+    "passé_composé": {
+      "je": "ai ficelé",
+      "tu": "as ficelé",
+      "il": "a ficelé",
+      "nous": "avons ficelé",
+      "vous": "avez ficelé",
+      "ils": "ont ficelé"
+    },
+    "imparfait": {
+      "je": "ficelais",
+      "tu": "ficelais",
+      "il": "ficelait",
+      "nous": "ficelions",
+      "vous": "ficeliez",
+      "ils": "ficelaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ficelé",
+      "tu": "avais ficelé",
+      "il": "avait ficelé",
+      "nous": "avions ficelé",
+      "vous": "aviez ficelé",
+      "ils": "avaient ficelé"
+    },
+    "passé_simple": {
+      "je": "ficelai",
+      "tu": "ficelas",
+      "il": "ficela",
+      "nous": "ficelâmes",
+      "vous": "ficelâtes",
+      "ils": "ficelèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus ficelé",
+      "tu": "eus ficelé",
+      "il": "eut ficelé",
+      "nous": "eûmes ficelé",
+      "vous": "eûtes ficelé",
+      "ils": "eurent ficelé"
+    },
+    "futur_simple": {
+      "je": "ficellerai",
+      "tu": "ficelleras",
+      "il": "ficellera",
+      "nous": "ficellerons",
+      "vous": "ficellerez",
+      "ils": "ficelleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ficelé",
+      "tu": "auras ficelé",
+      "il": "aura ficelé",
+      "nous": "aurons ficelé",
+      "vous": "aurez ficelé",
+      "ils": "auront ficelé"
+    },
+    "subjonctif_présent": {
+      "je": "ficelle",
+      "tu": "ficelles",
+      "il": "ficelle",
+      "nous": "ficelions",
+      "vous": "ficeliez",
+      "ils": "ficellent"
+    },
+    "subjonctif_passé": {
+      "je": "aie ficelé",
+      "tu": "aies ficelé",
+      "il": "ait ficelé",
+      "nous": "ayons ficelé",
+      "vous": "ayez ficelé",
+      "ils": "aient ficelé"
+    },
+    "subjonctif_imparfait": {
+      "je": "ficelasse",
+      "tu": "ficelasses",
+      "il": "ficelât",
+      "nous": "ficelassions",
+      "vous": "ficelassiez",
+      "ils": "ficelassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ficelé",
+      "tu": "eusses ficelé",
+      "il": "eût ficelé",
+      "nous": "eussions ficelé",
+      "vous": "eussiez ficelé",
+      "ils": "eussent ficelé"
+    },
+    "conditionnel_présent": {
+      "je": "ficellerais",
+      "tu": "ficellerais",
+      "il": "ficellerait",
+      "nous": "ficellerions",
+      "vous": "ficelleriez",
+      "ils": "ficelleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ficelé",
+      "tu": "aurais ficelé",
+      "il": "aurait ficelé",
+      "nous": "aurions ficelé",
+      "vous": "auriez ficelé",
+      "ils": "auraient ficelé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ficelé",
+      "tu": "eusses ficelé",
+      "il": "eût ficelé",
+      "nous": "eussions ficelé",
+      "vous": "eussiez ficelé",
+      "ils": "eussent ficelé"
+    },
+    "translation": "przewiązywać",
+    "group": 1
+  },
+  {
+    "infinitive": "ficher",
+    "présent": {
+      "je": "fiche",
+      "tu": "fiches",
+      "il": "fiche",
+      "nous": "fichons",
+      "vous": "fichez",
+      "ils": "fichent"
+    },
+    "passé_composé": {
+      "je": "ai fiché",
+      "tu": "as fiché",
+      "il": "a fiché",
+      "nous": "avons fiché",
+      "vous": "avez fiché",
+      "ils": "ont fiché"
+    },
+    "imparfait": {
+      "je": "fichais",
+      "tu": "fichais",
+      "il": "fichait",
+      "nous": "fichions",
+      "vous": "fichiez",
+      "ils": "fichaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais fiché",
+      "tu": "avais fiché",
+      "il": "avait fiché",
+      "nous": "avions fiché",
+      "vous": "aviez fiché",
+      "ils": "avaient fiché"
+    },
+    "passé_simple": {
+      "je": "fichai",
+      "tu": "fichas",
+      "il": "ficha",
+      "nous": "fichâmes",
+      "vous": "fichâtes",
+      "ils": "fichèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus fiché",
+      "tu": "eus fiché",
+      "il": "eut fiché",
+      "nous": "eûmes fiché",
+      "vous": "eûtes fiché",
+      "ils": "eurent fiché"
+    },
+    "futur_simple": {
+      "je": "ficherai",
+      "tu": "ficheras",
+      "il": "fichera",
+      "nous": "ficherons",
+      "vous": "ficherez",
+      "ils": "ficheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai fiché",
+      "tu": "auras fiché",
+      "il": "aura fiché",
+      "nous": "aurons fiché",
+      "vous": "aurez fiché",
+      "ils": "auront fiché"
+    },
+    "subjonctif_présent": {
+      "je": "fiche",
+      "tu": "fiches",
+      "il": "fiche",
+      "nous": "fichions",
+      "vous": "fichiez",
+      "ils": "fichent"
+    },
+    "subjonctif_passé": {
+      "je": "aie fiché",
+      "tu": "aies fiché",
+      "il": "ait fiché",
+      "nous": "ayons fiché",
+      "vous": "ayez fiché",
+      "ils": "aient fiché"
+    },
+    "subjonctif_imparfait": {
+      "je": "fichasse",
+      "tu": "fichasses",
+      "il": "fichât",
+      "nous": "fichassions",
+      "vous": "fichassiez",
+      "ils": "fichassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse fiché",
+      "tu": "eusses fiché",
+      "il": "eût fiché",
+      "nous": "eussions fiché",
+      "vous": "eussiez fiché",
+      "ils": "eussent fiché"
+    },
+    "conditionnel_présent": {
+      "je": "ficherais",
+      "tu": "ficherais",
+      "il": "ficherait",
+      "nous": "ficherions",
+      "vous": "ficheriez",
+      "ils": "ficheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais fiché",
+      "tu": "aurais fiché",
+      "il": "aurait fiché",
+      "nous": "aurions fiché",
+      "vous": "auriez fiché",
+      "ils": "auraient fiché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse fiché",
+      "tu": "eusses fiché",
+      "il": "eût fiché",
+      "nous": "eussions fiché",
+      "vous": "eussiez fiché",
+      "ils": "eussent fiché"
+    },
+    "translation": "robić",
+    "group": 1
+  },
+  {
+    "infinitive": "fier",
+    "présent": {
+      "je": "me fie",
+      "tu": "te fies",
+      "il": "se fie",
+      "nous": "nous fions",
+      "vous": "vous fiez",
+      "ils": "se fient"
+    },
+    "passé_composé": {
+      "je": "me suis fié",
+      "tu": "es fié",
+      "il": "est fié",
+      "nous": "nous sommes fiés",
+      "vous": "vous êtes fiés",
+      "ils": "se sont fiés"
+    },
+    "imparfait": {
+      "je": "me fiais",
+      "tu": "te fiais",
+      "il": "se fiait",
+      "nous": "nous fiions",
+      "vous": "vous fiiez",
+      "ils": "se fiaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais fié",
+      "tu": "étais fié",
+      "il": "était fié",
+      "nous": "nous étions fiés",
+      "vous": "vous étiez fiés",
+      "ils": "étaient fiés"
+    },
+    "passé_simple": {
+      "je": "me fiai",
+      "tu": "te fias",
+      "il": "se fia",
+      "nous": "nous fiâmes",
+      "vous": "vous fiâtes",
+      "ils": "se fièrent"
+    },
+    "passé_antérieur": {
+      "je": "me fus fié",
+      "tu": "te fus fié",
+      "il": "se fut fié",
+      "nous": "nous fûmes fiés",
+      "vous": "vous fûtes fiés",
+      "ils": "se furent fiés"
+    },
+    "futur_simple": {
+      "je": "me fierai",
+      "tu": "te fieras",
+      "il": "se fiera",
+      "nous": "nous fierons",
+      "vous": "vous fierez",
+      "ils": "se fieront"
+    },
+    "futur_antérieur": {
+      "je": "me serai fié",
+      "tu": "te seras fié",
+      "il": "se sera fié",
+      "nous": "nous serons fiés",
+      "vous": "vous serez fiés",
+      "ils": "se seront fiés"
+    },
+    "subjonctif_présent": {
+      "je": "me fie",
+      "tu": "te fies",
+      "il": "se fie",
+      "nous": "nous fiions",
+      "vous": "vous fiiez",
+      "ils": "se fient"
+    },
+    "subjonctif_passé": {
+      "je": "me sois fié",
+      "tu": "te sois fié",
+      "il": "se soit fié",
+      "nous": "nous soyons fiés",
+      "vous": "vous soyez fiés",
+      "ils": "se soient fiés"
+    },
+    "subjonctif_imparfait": {
+      "je": "me fiasse",
+      "tu": "te fiasses",
+      "il": "se fiât",
+      "nous": "nous fiassions",
+      "vous": "vous fiassiez",
+      "ils": "se fiassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse fié",
+      "tu": "te fusses fié",
+      "il": "se fût fié",
+      "nous": "nous fussions fiés",
+      "vous": "vous fussiez fiés",
+      "ils": "se fussent fiés"
+    },
+    "conditionnel_présent": {
+      "je": "me fierais",
+      "tu": "te fierais",
+      "il": "se fierait",
+      "nous": "nous fierions",
+      "vous": "vous fieriez",
+      "ils": "se fieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais fié",
+      "tu": "te serais fié",
+      "il": "se serait fié",
+      "nous": "nous serions fiés",
+      "vous": "vous seriez fiés",
+      "ils": "se seraient fiés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse fié",
+      "tu": "te fusses fié",
+      "il": "se fût fié",
+      "nous": "nous fussions fiés",
+      "vous": "vous fussiez fiés",
+      "ils": "se fussent fiés"
+    },
+    "translation": "ufać",
+    "group": 1
+  },
+  {
+    "infinitive": "figer",
+    "présent": {
+      "je": "fige",
+      "tu": "figes",
+      "il": "fige",
+      "nous": "figeons",
+      "vous": "figez",
+      "ils": "figent"
+    },
+    "passé_composé": {
+      "je": "ai figé",
+      "tu": "as figé",
+      "il": "a figé",
+      "nous": "avons figé",
+      "vous": "avez figé",
+      "ils": "ont figé"
+    },
+    "imparfait": {
+      "je": "figeais",
+      "tu": "figeais",
+      "il": "figeait",
+      "nous": "figions",
+      "vous": "figiez",
+      "ils": "figeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais figé",
+      "tu": "avais figé",
+      "il": "avait figé",
+      "nous": "avions figé",
+      "vous": "aviez figé",
+      "ils": "avaient figé"
+    },
+    "passé_simple": {
+      "je": "figeai",
+      "tu": "figeas",
+      "il": "figea",
+      "nous": "figeâmes",
+      "vous": "figeâtes",
+      "ils": "figèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus figé",
+      "tu": "eus figé",
+      "il": "eut figé",
+      "nous": "eûmes figé",
+      "vous": "eûtes figé",
+      "ils": "eurent figé"
+    },
+    "futur_simple": {
+      "je": "figerai",
+      "tu": "figeras",
+      "il": "figera",
+      "nous": "figerons",
+      "vous": "figerez",
+      "ils": "figeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai figé",
+      "tu": "auras figé",
+      "il": "aura figé",
+      "nous": "aurons figé",
+      "vous": "aurez figé",
+      "ils": "auront figé"
+    },
+    "subjonctif_présent": {
+      "je": "fige",
+      "tu": "figes",
+      "il": "fige",
+      "nous": "figions",
+      "vous": "figiez",
+      "ils": "figent"
+    },
+    "subjonctif_passé": {
+      "je": "aie figé",
+      "tu": "aies figé",
+      "il": "ait figé",
+      "nous": "ayons figé",
+      "vous": "ayez figé",
+      "ils": "aient figé"
+    },
+    "subjonctif_imparfait": {
+      "je": "figeasse",
+      "tu": "figeasses",
+      "il": "figeât",
+      "nous": "figeassions",
+      "vous": "figeassiez",
+      "ils": "figeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse figé",
+      "tu": "eusses figé",
+      "il": "eût figé",
+      "nous": "eussions figé",
+      "vous": "eussiez figé",
+      "ils": "eussent figé"
+    },
+    "conditionnel_présent": {
+      "je": "figerais",
+      "tu": "figerais",
+      "il": "figerait",
+      "nous": "figerions",
+      "vous": "figeriez",
+      "ils": "figeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais figé",
+      "tu": "aurais figé",
+      "il": "aurait figé",
+      "nous": "aurions figé",
+      "vous": "auriez figé",
+      "ils": "auraient figé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse figé",
+      "tu": "eusses figé",
+      "il": "eût figé",
+      "nous": "eussions figé",
+      "vous": "eussiez figé",
+      "ils": "eussent figé"
+    },
+    "translation": "ścinać",
+    "group": 1
+  },
+  {
+    "infinitive": "figurer",
+    "présent": {
+      "je": "figure",
+      "tu": "figures",
+      "il": "figure",
+      "nous": "figurons",
+      "vous": "figurez",
+      "ils": "figurent"
+    },
+    "passé_composé": {
+      "je": "ai figuré",
+      "tu": "as figuré",
+      "il": "a figuré",
+      "nous": "avons figuré",
+      "vous": "avez figuré",
+      "ils": "ont figuré"
+    },
+    "imparfait": {
+      "je": "figurais",
+      "tu": "figurais",
+      "il": "figurait",
+      "nous": "figurions",
+      "vous": "figuriez",
+      "ils": "figuraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais figuré",
+      "tu": "avais figuré",
+      "il": "avait figuré",
+      "nous": "avions figuré",
+      "vous": "aviez figuré",
+      "ils": "avaient figuré"
+    },
+    "passé_simple": {
+      "je": "figurai",
+      "tu": "figuras",
+      "il": "figura",
+      "nous": "figurâmes",
+      "vous": "figurâtes",
+      "ils": "figurèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus figuré",
+      "tu": "eus figuré",
+      "il": "eut figuré",
+      "nous": "eûmes figuré",
+      "vous": "eûtes figuré",
+      "ils": "eurent figuré"
+    },
+    "futur_simple": {
+      "je": "figurerai",
+      "tu": "figureras",
+      "il": "figurera",
+      "nous": "figurerons",
+      "vous": "figurerez",
+      "ils": "figureront"
+    },
+    "futur_antérieur": {
+      "je": "aurai figuré",
+      "tu": "auras figuré",
+      "il": "aura figuré",
+      "nous": "aurons figuré",
+      "vous": "aurez figuré",
+      "ils": "auront figuré"
+    },
+    "subjonctif_présent": {
+      "je": "figure",
+      "tu": "figures",
+      "il": "figure",
+      "nous": "figurions",
+      "vous": "figuriez",
+      "ils": "figurent"
+    },
+    "subjonctif_passé": {
+      "je": "aie figuré",
+      "tu": "aies figuré",
+      "il": "ait figuré",
+      "nous": "ayons figuré",
+      "vous": "ayez figuré",
+      "ils": "aient figuré"
+    },
+    "subjonctif_imparfait": {
+      "je": "figurasse",
+      "tu": "figurasses",
+      "il": "figurât",
+      "nous": "figurassions",
+      "vous": "figurassiez",
+      "ils": "figurassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse figuré",
+      "tu": "eusses figuré",
+      "il": "eût figuré",
+      "nous": "eussions figuré",
+      "vous": "eussiez figuré",
+      "ils": "eussent figuré"
+    },
+    "conditionnel_présent": {
+      "je": "figurerais",
+      "tu": "figurerais",
+      "il": "figurerait",
+      "nous": "figurerions",
+      "vous": "figureriez",
+      "ils": "figureraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais figuré",
+      "tu": "aurais figuré",
+      "il": "aurait figuré",
+      "nous": "aurions figuré",
+      "vous": "auriez figuré",
+      "ils": "auraient figuré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse figuré",
+      "tu": "eusses figuré",
+      "il": "eût figuré",
+      "nous": "eussions figuré",
+      "vous": "eussiez figuré",
+      "ils": "eussent figuré"
+    },
+    "translation": "przedstawiać",
+    "group": 1
+  },
+  {
+    "infinitive": "filer",
+    "présent": {
+      "je": "file",
+      "tu": "files",
+      "il": "file",
+      "nous": "filons",
+      "vous": "filez",
+      "ils": "filent"
+    },
+    "passé_composé": {
+      "je": "ai filé",
+      "tu": "as filé",
+      "il": "a filé",
+      "nous": "avons filé",
+      "vous": "avez filé",
+      "ils": "ont filé"
+    },
+    "imparfait": {
+      "je": "filais",
+      "tu": "filais",
+      "il": "filait",
+      "nous": "filions",
+      "vous": "filiez",
+      "ils": "filaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais filé",
+      "tu": "avais filé",
+      "il": "avait filé",
+      "nous": "avions filé",
+      "vous": "aviez filé",
+      "ils": "avaient filé"
+    },
+    "passé_simple": {
+      "je": "filai",
+      "tu": "filas",
+      "il": "fila",
+      "nous": "filâmes",
+      "vous": "filâtes",
+      "ils": "filèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus filé",
+      "tu": "eus filé",
+      "il": "eut filé",
+      "nous": "eûmes filé",
+      "vous": "eûtes filé",
+      "ils": "eurent filé"
+    },
+    "futur_simple": {
+      "je": "filerai",
+      "tu": "fileras",
+      "il": "filera",
+      "nous": "filerons",
+      "vous": "filerez",
+      "ils": "fileront"
+    },
+    "futur_antérieur": {
+      "je": "aurai filé",
+      "tu": "auras filé",
+      "il": "aura filé",
+      "nous": "aurons filé",
+      "vous": "aurez filé",
+      "ils": "auront filé"
+    },
+    "subjonctif_présent": {
+      "je": "file",
+      "tu": "files",
+      "il": "file",
+      "nous": "filions",
+      "vous": "filiez",
+      "ils": "filent"
+    },
+    "subjonctif_passé": {
+      "je": "aie filé",
+      "tu": "aies filé",
+      "il": "ait filé",
+      "nous": "ayons filé",
+      "vous": "ayez filé",
+      "ils": "aient filé"
+    },
+    "subjonctif_imparfait": {
+      "je": "filasse",
+      "tu": "filasses",
+      "il": "filât",
+      "nous": "filassions",
+      "vous": "filassiez",
+      "ils": "filassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse filé",
+      "tu": "eusses filé",
+      "il": "eût filé",
+      "nous": "eussions filé",
+      "vous": "eussiez filé",
+      "ils": "eussent filé"
+    },
+    "conditionnel_présent": {
+      "je": "filerais",
+      "tu": "filerais",
+      "il": "filerait",
+      "nous": "filerions",
+      "vous": "fileriez",
+      "ils": "fileraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais filé",
+      "tu": "aurais filé",
+      "il": "aurait filé",
+      "nous": "aurions filé",
+      "vous": "auriez filé",
+      "ils": "auraient filé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse filé",
+      "tu": "eusses filé",
+      "il": "eût filé",
+      "nous": "eussions filé",
+      "vous": "eussiez filé",
+      "ils": "eussent filé"
+    },
+    "translation": "pruć",
+    "group": 1
+  },
+  {
+    "infinitive": "filmer",
+    "présent": {
+      "je": "filme",
+      "tu": "filmes",
+      "il": "filme",
+      "nous": "filmons",
+      "vous": "filmez",
+      "ils": "filment"
+    },
+    "passé_composé": {
+      "je": "ai filmé",
+      "tu": "as filmé",
+      "il": "a filmé",
+      "nous": "avons filmé",
+      "vous": "avez filmé",
+      "ils": "ont filmé"
+    },
+    "imparfait": {
+      "je": "filmais",
+      "tu": "filmais",
+      "il": "filmait",
+      "nous": "filmions",
+      "vous": "filmiez",
+      "ils": "filmaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais filmé",
+      "tu": "avais filmé",
+      "il": "avait filmé",
+      "nous": "avions filmé",
+      "vous": "aviez filmé",
+      "ils": "avaient filmé"
+    },
+    "passé_simple": {
+      "je": "filmai",
+      "tu": "filmas",
+      "il": "filma",
+      "nous": "filmâmes",
+      "vous": "filmâtes",
+      "ils": "filmèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus filmé",
+      "tu": "eus filmé",
+      "il": "eut filmé",
+      "nous": "eûmes filmé",
+      "vous": "eûtes filmé",
+      "ils": "eurent filmé"
+    },
+    "futur_simple": {
+      "je": "filmerai",
+      "tu": "filmeras",
+      "il": "filmera",
+      "nous": "filmerons",
+      "vous": "filmerez",
+      "ils": "filmeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai filmé",
+      "tu": "auras filmé",
+      "il": "aura filmé",
+      "nous": "aurons filmé",
+      "vous": "aurez filmé",
+      "ils": "auront filmé"
+    },
+    "subjonctif_présent": {
+      "je": "filme",
+      "tu": "filmes",
+      "il": "filme",
+      "nous": "filmions",
+      "vous": "filmiez",
+      "ils": "filment"
+    },
+    "subjonctif_passé": {
+      "je": "aie filmé",
+      "tu": "aies filmé",
+      "il": "ait filmé",
+      "nous": "ayons filmé",
+      "vous": "ayez filmé",
+      "ils": "aient filmé"
+    },
+    "subjonctif_imparfait": {
+      "je": "filmasse",
+      "tu": "filmasses",
+      "il": "filmât",
+      "nous": "filmassions",
+      "vous": "filmassiez",
+      "ils": "filmassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse filmé",
+      "tu": "eusses filmé",
+      "il": "eût filmé",
+      "nous": "eussions filmé",
+      "vous": "eussiez filmé",
+      "ils": "eussent filmé"
+    },
+    "conditionnel_présent": {
+      "je": "filmerais",
+      "tu": "filmerais",
+      "il": "filmerait",
+      "nous": "filmerions",
+      "vous": "filmeriez",
+      "ils": "filmeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais filmé",
+      "tu": "aurais filmé",
+      "il": "aurait filmé",
+      "nous": "aurions filmé",
+      "vous": "auriez filmé",
+      "ils": "auraient filmé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse filmé",
+      "tu": "eusses filmé",
+      "il": "eût filmé",
+      "nous": "eussions filmé",
+      "vous": "eussiez filmé",
+      "ils": "eussent filmé"
+    },
+    "translation": "filmować",
+    "group": 1
+  },
+  {
+    "infinitive": "finaliser",
+    "présent": {
+      "je": "finalise",
+      "tu": "finalises",
+      "il": "finalise",
+      "nous": "finalisons",
+      "vous": "finalisez",
+      "ils": "finalisent"
+    },
+    "passé_composé": {
+      "je": "ai finalisé",
+      "tu": "as finalisé",
+      "il": "a finalisé",
+      "nous": "avons finalisé",
+      "vous": "avez finalisé",
+      "ils": "ont finalisé"
+    },
+    "imparfait": {
+      "je": "finalisais",
+      "tu": "finalisais",
+      "il": "finalisait",
+      "nous": "finalisions",
+      "vous": "finalisiez",
+      "ils": "finalisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais finalisé",
+      "tu": "avais finalisé",
+      "il": "avait finalisé",
+      "nous": "avions finalisé",
+      "vous": "aviez finalisé",
+      "ils": "avaient finalisé"
+    },
+    "passé_simple": {
+      "je": "finalisai",
+      "tu": "finalisas",
+      "il": "finalisa",
+      "nous": "finalisâmes",
+      "vous": "finalisâtes",
+      "ils": "finalisèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus finalisé",
+      "tu": "eus finalisé",
+      "il": "eut finalisé",
+      "nous": "eûmes finalisé",
+      "vous": "eûtes finalisé",
+      "ils": "eurent finalisé"
+    },
+    "futur_simple": {
+      "je": "finaliserai",
+      "tu": "finaliseras",
+      "il": "finalisera",
+      "nous": "finaliserons",
+      "vous": "finaliserez",
+      "ils": "finaliseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai finalisé",
+      "tu": "auras finalisé",
+      "il": "aura finalisé",
+      "nous": "aurons finalisé",
+      "vous": "aurez finalisé",
+      "ils": "auront finalisé"
+    },
+    "subjonctif_présent": {
+      "je": "finalise",
+      "tu": "finalises",
+      "il": "finalise",
+      "nous": "finalisions",
+      "vous": "finalisiez",
+      "ils": "finalisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie finalisé",
+      "tu": "aies finalisé",
+      "il": "ait finalisé",
+      "nous": "ayons finalisé",
+      "vous": "ayez finalisé",
+      "ils": "aient finalisé"
+    },
+    "subjonctif_imparfait": {
+      "je": "finalisasse",
+      "tu": "finalisasses",
+      "il": "finalisât",
+      "nous": "finalisassions",
+      "vous": "finalisassiez",
+      "ils": "finalisassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse finalisé",
+      "tu": "eusses finalisé",
+      "il": "eût finalisé",
+      "nous": "eussions finalisé",
+      "vous": "eussiez finalisé",
+      "ils": "eussent finalisé"
+    },
+    "conditionnel_présent": {
+      "je": "finaliserais",
+      "tu": "finaliserais",
+      "il": "finaliserait",
+      "nous": "finaliserions",
+      "vous": "finaliseriez",
+      "ils": "finaliseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais finalisé",
+      "tu": "aurais finalisé",
+      "il": "aurait finalisé",
+      "nous": "aurions finalisé",
+      "vous": "auriez finalisé",
+      "ils": "auraient finalisé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse finalisé",
+      "tu": "eusses finalisé",
+      "il": "eût finalisé",
+      "nous": "eussions finalisé",
+      "vous": "eussiez finalisé",
+      "ils": "eussent finalisé"
+    },
+    "translation": "finaliser",
+    "group": 1
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "célébrer",
+    "présent": {
+      "je": "célèbre",
+      "tu": "célèbres",
+      "il": "célèbre",
+      "nous": "célébrons",
+      "vous": "célébrez",
+      "ils": "célèbrent"
+    },
+    "passé_composé": {
+      "je": "ai célébré",
+      "tu": "as célébré",
+      "il": "a célébré",
+      "nous": "avons célébré",
+      "vous": "avez célébré",
+      "ils": "ont célébré"
+    },
+    "imparfait": {
+      "je": "célébrais",
+      "tu": "célébrais",
+      "il": "célébrait",
+      "nous": "célébrions",
+      "vous": "célébriez",
+      "ils": "célébraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais célébré",
+      "tu": "avais célébré",
+      "il": "avait célébré",
+      "nous": "avions célébré",
+      "vous": "aviez célébré",
+      "ils": "avaient célébré"
+    },
+    "passé_simple": {
+      "je": "célébrai",
+      "tu": "célébras",
+      "il": "célébra",
+      "nous": "célébrâmes",
+      "vous": "célébrâtes",
+      "ils": "célébrèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus célébré",
+      "tu": "eus célébré",
+      "il": "eut célébré",
+      "nous": "eûmes célébré",
+      "vous": "eûtes célébré",
+      "ils": "eurent célébré"
+    },
+    "futur_simple": {
+      "je": "célébrerai",
+      "tu": "célébreras",
+      "il": "célébrera",
+      "nous": "célébrerons",
+      "vous": "célébrerez",
+      "ils": "célébreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai célébré",
+      "tu": "auras célébré",
+      "il": "aura célébré",
+      "nous": "aurons célébré",
+      "vous": "aurez célébré",
+      "ils": "auront célébré"
+    },
+    "subjonctif_présent": {
+      "je": "célèbre",
+      "tu": "célèbres",
+      "il": "célèbre",
+      "nous": "célébrions",
+      "vous": "célébriez",
+      "ils": "célèbrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie célébré",
+      "tu": "aies célébré",
+      "il": "ait célébré",
+      "nous": "ayons célébré",
+      "vous": "ayez célébré",
+      "ils": "aient célébré"
+    },
+    "subjonctif_imparfait": {
+      "je": "célébrasse",
+      "tu": "célébrasses",
+      "il": "célébrât",
+      "nous": "célébrassions",
+      "vous": "célébrassiez",
+      "ils": "célébrassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse célébré",
+      "tu": "eusses célébré",
+      "il": "eût célébré",
+      "nous": "eussions célébré",
+      "vous": "eussiez célébré",
+      "ils": "eussent célébré"
+    },
+    "conditionnel_présent": {
+      "je": "célébrerais",
+      "tu": "célébrerais",
+      "il": "célébrerait",
+      "nous": "célébrerions",
+      "vous": "célébreriez",
+      "ils": "célébreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais célébré",
+      "tu": "aurais célébré",
+      "il": "aurait célébré",
+      "nous": "aurions célébré",
+      "vous": "auriez célébré",
+      "ils": "auraient célébré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse célébré",
+      "tu": "eusses célébré",
+      "il": "eût célébré",
+      "nous": "eussions célébré",
+      "vous": "eussiez célébré",
+      "ils": "eussent célébré"
+    },
+    "translation": "świętować",
+    "group": 1
+  },
+  {
+    "infinitive": "celer",
+    "présent": {
+      "je": "cèle",
+      "tu": "cèles",
+      "il": "cèle",
+      "nous": "celons",
+      "vous": "celez",
+      "ils": "cèlent"
+    },
+    "passé_composé": {
+      "je": "ai celé",
+      "tu": "as celé",
+      "il": "a celé",
+      "nous": "avons celé",
+      "vous": "avez celé",
+      "ils": "ont celé"
+    },
+    "imparfait": {
+      "je": "celais",
+      "tu": "celais",
+      "il": "celait",
+      "nous": "celions",
+      "vous": "celiez",
+      "ils": "celaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais celé",
+      "tu": "avais celé",
+      "il": "avait celé",
+      "nous": "avions celé",
+      "vous": "aviez celé",
+      "ils": "avaient celé"
+    },
+    "passé_simple": {
+      "je": "celai",
+      "tu": "celas",
+      "il": "cela",
+      "nous": "celâmes",
+      "vous": "celâtes",
+      "ils": "celèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus celé",
+      "tu": "eus celé",
+      "il": "eut celé",
+      "nous": "eûmes celé",
+      "vous": "eûtes celé",
+      "ils": "eurent celé"
+    },
+    "futur_simple": {
+      "je": "cèlerai",
+      "tu": "cèleras",
+      "il": "cèlera",
+      "nous": "cèlerons",
+      "vous": "cèlerez",
+      "ils": "cèleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai celé",
+      "tu": "auras celé",
+      "il": "aura celé",
+      "nous": "aurons celé",
+      "vous": "aurez celé",
+      "ils": "auront celé"
+    },
+    "subjonctif_présent": {
+      "je": "cèle",
+      "tu": "cèles",
+      "il": "cèle",
+      "nous": "celions",
+      "vous": "celiez",
+      "ils": "cèlent"
+    },
+    "subjonctif_passé": {
+      "je": "aie celé",
+      "tu": "aies celé",
+      "il": "ait celé",
+      "nous": "ayons celé",
+      "vous": "ayez celé",
+      "ils": "aient celé"
+    },
+    "subjonctif_imparfait": {
+      "je": "celasse",
+      "tu": "celasses",
+      "il": "celât",
+      "nous": "celassions",
+      "vous": "celassiez",
+      "ils": "celassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse celé",
+      "tu": "eusses celé",
+      "il": "eût celé",
+      "nous": "eussions celé",
+      "vous": "eussiez celé",
+      "ils": "eussent celé"
+    },
+    "conditionnel_présent": {
+      "je": "cèlerais",
+      "tu": "cèlerais",
+      "il": "cèlerait",
+      "nous": "cèlerions",
+      "vous": "cèleriez",
+      "ils": "cèleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais celé",
+      "tu": "aurais celé",
+      "il": "aurait celé",
+      "nous": "aurions celé",
+      "vous": "auriez celé",
+      "ils": "auraient celé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse celé",
+      "tu": "eusses celé",
+      "il": "eût celé",
+      "nous": "eussions celé",
+      "vous": "eussiez celé",
+      "ils": "eussent celé"
+    },
+    "translation": "ścinać",
+    "group": 1
+  },
+  {
+    "infinitive": "cerner",
+    "présent": {
+      "je": "cerne",
+      "tu": "cernes",
+      "il": "cerne",
+      "nous": "cernons",
+      "vous": "cernez",
+      "ils": "cernent"
+    },
+    "passé_composé": {
+      "je": "ai cerné",
+      "tu": "as cerné",
+      "il": "a cerné",
+      "nous": "avons cerné",
+      "vous": "avez cerné",
+      "ils": "ont cerné"
+    },
+    "imparfait": {
+      "je": "cernais",
+      "tu": "cernais",
+      "il": "cernait",
+      "nous": "cernions",
+      "vous": "cerniez",
+      "ils": "cernaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais cerné",
+      "tu": "avais cerné",
+      "il": "avait cerné",
+      "nous": "avions cerné",
+      "vous": "aviez cerné",
+      "ils": "avaient cerné"
+    },
+    "passé_simple": {
+      "je": "cernai",
+      "tu": "cernas",
+      "il": "cerna",
+      "nous": "cernâmes",
+      "vous": "cernâtes",
+      "ils": "cernèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus cerné",
+      "tu": "eus cerné",
+      "il": "eut cerné",
+      "nous": "eûmes cerné",
+      "vous": "eûtes cerné",
+      "ils": "eurent cerné"
+    },
+    "futur_simple": {
+      "je": "cernerai",
+      "tu": "cerneras",
+      "il": "cernera",
+      "nous": "cernerons",
+      "vous": "cernerez",
+      "ils": "cerneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai cerné",
+      "tu": "auras cerné",
+      "il": "aura cerné",
+      "nous": "aurons cerné",
+      "vous": "aurez cerné",
+      "ils": "auront cerné"
+    },
+    "subjonctif_présent": {
+      "je": "cerne",
+      "tu": "cernes",
+      "il": "cerne",
+      "nous": "cernions",
+      "vous": "cerniez",
+      "ils": "cernent"
+    },
+    "subjonctif_passé": {
+      "je": "aie cerné",
+      "tu": "aies cerné",
+      "il": "ait cerné",
+      "nous": "ayons cerné",
+      "vous": "ayez cerné",
+      "ils": "aient cerné"
+    },
+    "subjonctif_imparfait": {
+      "je": "cernasse",
+      "tu": "cernasses",
+      "il": "cernât",
+      "nous": "cernassions",
+      "vous": "cernassiez",
+      "ils": "cernassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse cerné",
+      "tu": "eusses cerné",
+      "il": "eût cerné",
+      "nous": "eussions cerné",
+      "vous": "eussiez cerné",
+      "ils": "eussent cerné"
+    },
+    "conditionnel_présent": {
+      "je": "cernerais",
+      "tu": "cernerais",
+      "il": "cernerait",
+      "nous": "cernerions",
+      "vous": "cerneriez",
+      "ils": "cerneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais cerné",
+      "tu": "aurais cerné",
+      "il": "aurait cerné",
+      "nous": "aurions cerné",
+      "vous": "auriez cerné",
+      "ils": "auraient cerné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse cerné",
+      "tu": "eusses cerné",
+      "il": "eût cerné",
+      "nous": "eussions cerné",
+      "vous": "eussiez cerné",
+      "ils": "eussent cerné"
+    },
+    "translation": "zakreślać",
+    "group": 1
+  },
+  {
+    "infinitive": "certifier",
+    "présent": {
+      "je": "certifie",
+      "tu": "certifies",
+      "il": "certifie",
+      "nous": "certifions",
+      "vous": "certifiez",
+      "ils": "certifient"
+    },
+    "passé_composé": {
+      "je": "ai certifié",
+      "tu": "as certifié",
+      "il": "a certifié",
+      "nous": "avons certifié",
+      "vous": "avez certifié",
+      "ils": "ont certifié"
+    },
+    "imparfait": {
+      "je": "certifiais",
+      "tu": "certifiais",
+      "il": "certifiait",
+      "nous": "certifiions",
+      "vous": "certifiiez",
+      "ils": "certifiaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais certifié",
+      "tu": "avais certifié",
+      "il": "avait certifié",
+      "nous": "avions certifié",
+      "vous": "aviez certifié",
+      "ils": "avaient certifié"
+    },
+    "passé_simple": {
+      "je": "certifiai",
+      "tu": "certifias",
+      "il": "certifia",
+      "nous": "certifiâmes",
+      "vous": "certifiâtes",
+      "ils": "certifièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus certifié",
+      "tu": "eus certifié",
+      "il": "eut certifié",
+      "nous": "eûmes certifié",
+      "vous": "eûtes certifié",
+      "ils": "eurent certifié"
+    },
+    "futur_simple": {
+      "je": "certifierai",
+      "tu": "certifieras",
+      "il": "certifiera",
+      "nous": "certifierons",
+      "vous": "certifierez",
+      "ils": "certifieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai certifié",
+      "tu": "auras certifié",
+      "il": "aura certifié",
+      "nous": "aurons certifié",
+      "vous": "aurez certifié",
+      "ils": "auront certifié"
+    },
+    "subjonctif_présent": {
+      "je": "certifie",
+      "tu": "certifies",
+      "il": "certifie",
+      "nous": "certifiions",
+      "vous": "certifiiez",
+      "ils": "certifient"
+    },
+    "subjonctif_passé": {
+      "je": "aie certifié",
+      "tu": "aies certifié",
+      "il": "ait certifié",
+      "nous": "ayons certifié",
+      "vous": "ayez certifié",
+      "ils": "aient certifié"
+    },
+    "subjonctif_imparfait": {
+      "je": "certifiasse",
+      "tu": "certifiasses",
+      "il": "certifiât",
+      "nous": "certifiassions",
+      "vous": "certifiassiez",
+      "ils": "certifiassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse certifié",
+      "tu": "eusses certifié",
+      "il": "eût certifié",
+      "nous": "eussions certifié",
+      "vous": "eussiez certifié",
+      "ils": "eussent certifié"
+    },
+    "conditionnel_présent": {
+      "je": "certifierais",
+      "tu": "certifierais",
+      "il": "certifierait",
+      "nous": "certifierions",
+      "vous": "certifieriez",
+      "ils": "certifieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais certifié",
+      "tu": "aurais certifié",
+      "il": "aurait certifié",
+      "nous": "aurions certifié",
+      "vous": "auriez certifié",
+      "ils": "auraient certifié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse certifié",
+      "tu": "eusses certifié",
+      "il": "eût certifié",
+      "nous": "eussions certifié",
+      "vous": "eussiez certifié",
+      "ils": "eussent certifié"
+    },
+    "translation": "potwierdzać",
+    "group": 1
+  },
+  {
+    "infinitive": "cesser",
+    "présent": {
+      "je": "cesse",
+      "tu": "cesses",
+      "il": "cesse",
+      "nous": "cessons",
+      "vous": "cessez",
+      "ils": "cessent"
+    },
+    "passé_composé": {
+      "je": "ai cessé",
+      "tu": "as cessé",
+      "il": "a cessé",
+      "nous": "avons cessé",
+      "vous": "avez cessé",
+      "ils": "ont cessé"
+    },
+    "imparfait": {
+      "je": "cessais",
+      "tu": "cessais",
+      "il": "cessait",
+      "nous": "cessions",
+      "vous": "cessiez",
+      "ils": "cessaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais cessé",
+      "tu": "avais cessé",
+      "il": "avait cessé",
+      "nous": "avions cessé",
+      "vous": "aviez cessé",
+      "ils": "avaient cessé"
+    },
+    "passé_simple": {
+      "je": "cessai",
+      "tu": "cessas",
+      "il": "cessa",
+      "nous": "cessâmes",
+      "vous": "cessâtes",
+      "ils": "cessèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus cessé",
+      "tu": "eus cessé",
+      "il": "eut cessé",
+      "nous": "eûmes cessé",
+      "vous": "eûtes cessé",
+      "ils": "eurent cessé"
+    },
+    "futur_simple": {
+      "je": "cesserai",
+      "tu": "cesseras",
+      "il": "cessera",
+      "nous": "cesserons",
+      "vous": "cesserez",
+      "ils": "cesseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai cessé",
+      "tu": "auras cessé",
+      "il": "aura cessé",
+      "nous": "aurons cessé",
+      "vous": "aurez cessé",
+      "ils": "auront cessé"
+    },
+    "subjonctif_présent": {
+      "je": "cesse",
+      "tu": "cesses",
+      "il": "cesse",
+      "nous": "cessions",
+      "vous": "cessiez",
+      "ils": "cessent"
+    },
+    "subjonctif_passé": {
+      "je": "aie cessé",
+      "tu": "aies cessé",
+      "il": "ait cessé",
+      "nous": "ayons cessé",
+      "vous": "ayez cessé",
+      "ils": "aient cessé"
+    },
+    "subjonctif_imparfait": {
+      "je": "cessasse",
+      "tu": "cessasses",
+      "il": "cessât",
+      "nous": "cessassions",
+      "vous": "cessassiez",
+      "ils": "cessassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse cessé",
+      "tu": "eusses cessé",
+      "il": "eût cessé",
+      "nous": "eussions cessé",
+      "vous": "eussiez cessé",
+      "ils": "eussent cessé"
+    },
+    "conditionnel_présent": {
+      "je": "cesserais",
+      "tu": "cesserais",
+      "il": "cesserait",
+      "nous": "cesserions",
+      "vous": "cesseriez",
+      "ils": "cesseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais cessé",
+      "tu": "aurais cessé",
+      "il": "aurait cessé",
+      "nous": "aurions cessé",
+      "vous": "auriez cessé",
+      "ils": "auraient cessé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse cessé",
+      "tu": "eusses cessé",
+      "il": "eût cessé",
+      "nous": "eussions cessé",
+      "vous": "eussiez cessé",
+      "ils": "eussent cessé"
+    },
+    "translation": "przestawać",
+    "group": 1
+  },
+  {
+    "infinitive": "chahuter",
+    "présent": {
+      "je": "chahute",
+      "tu": "chahutes",
+      "il": "chahute",
+      "nous": "chahutons",
+      "vous": "chahutez",
+      "ils": "chahutent"
+    },
+    "passé_composé": {
+      "je": "ai chahuté",
+      "tu": "as chahuté",
+      "il": "a chahuté",
+      "nous": "avons chahuté",
+      "vous": "avez chahuté",
+      "ils": "ont chahuté"
+    },
+    "imparfait": {
+      "je": "chahutais",
+      "tu": "chahutais",
+      "il": "chahutait",
+      "nous": "chahutions",
+      "vous": "chahutiez",
+      "ils": "chahutaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais chahuté",
+      "tu": "avais chahuté",
+      "il": "avait chahuté",
+      "nous": "avions chahuté",
+      "vous": "aviez chahuté",
+      "ils": "avaient chahuté"
+    },
+    "passé_simple": {
+      "je": "chahutai",
+      "tu": "chahutas",
+      "il": "chahuta",
+      "nous": "chahutâmes",
+      "vous": "chahutâtes",
+      "ils": "chahutèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus chahuté",
+      "tu": "eus chahuté",
+      "il": "eut chahuté",
+      "nous": "eûmes chahuté",
+      "vous": "eûtes chahuté",
+      "ils": "eurent chahuté"
+    },
+    "futur_simple": {
+      "je": "chahuterai",
+      "tu": "chahuteras",
+      "il": "chahutera",
+      "nous": "chahuterons",
+      "vous": "chahuterez",
+      "ils": "chahuteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai chahuté",
+      "tu": "auras chahuté",
+      "il": "aura chahuté",
+      "nous": "aurons chahuté",
+      "vous": "aurez chahuté",
+      "ils": "auront chahuté"
+    },
+    "subjonctif_présent": {
+      "je": "chahute",
+      "tu": "chahutes",
+      "il": "chahute",
+      "nous": "chahutions",
+      "vous": "chahutiez",
+      "ils": "chahutent"
+    },
+    "subjonctif_passé": {
+      "je": "aie chahuté",
+      "tu": "aies chahuté",
+      "il": "ait chahuté",
+      "nous": "ayons chahuté",
+      "vous": "ayez chahuté",
+      "ils": "aient chahuté"
+    },
+    "subjonctif_imparfait": {
+      "je": "chahutasse",
+      "tu": "chahutasses",
+      "il": "chahutât",
+      "nous": "chahutassions",
+      "vous": "chahutassiez",
+      "ils": "chahutassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse chahuté",
+      "tu": "eusses chahuté",
+      "il": "eût chahuté",
+      "nous": "eussions chahuté",
+      "vous": "eussiez chahuté",
+      "ils": "eussent chahuté"
+    },
+    "conditionnel_présent": {
+      "je": "chahuterais",
+      "tu": "chahuterais",
+      "il": "chahuterait",
+      "nous": "chahuterions",
+      "vous": "chahuteriez",
+      "ils": "chahuteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais chahuté",
+      "tu": "aurais chahuté",
+      "il": "aurait chahuté",
+      "nous": "aurions chahuté",
+      "vous": "auriez chahuté",
+      "ils": "auraient chahuté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse chahuté",
+      "tu": "eusses chahuté",
+      "il": "eût chahuté",
+      "nous": "eussions chahuté",
+      "vous": "eussiez chahuté",
+      "ils": "eussent chahuté"
+    },
+    "translation": "rozrabiać",
+    "group": 1
+  },
+  {
+    "infinitive": "chaloir",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "chaut",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "kosztować",
+    "group": 3
+  },
+  {
+    "infinitive": "chanceler",
+    "présent": {
+      "je": "chancelle",
+      "tu": "chancelles",
+      "il": "chancelle",
+      "nous": "chancelons",
+      "vous": "chancelez",
+      "ils": "chancellent"
+    },
+    "passé_composé": {
+      "je": "ai chancelé",
+      "tu": "as chancelé",
+      "il": "a chancelé",
+      "nous": "avons chancelé",
+      "vous": "avez chancelé",
+      "ils": "ont chancelé"
+    },
+    "imparfait": {
+      "je": "chancelais",
+      "tu": "chancelais",
+      "il": "chancelait",
+      "nous": "chancelions",
+      "vous": "chanceliez",
+      "ils": "chancelaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais chancelé",
+      "tu": "avais chancelé",
+      "il": "avait chancelé",
+      "nous": "avions chancelé",
+      "vous": "aviez chancelé",
+      "ils": "avaient chancelé"
+    },
+    "passé_simple": {
+      "je": "chancelai",
+      "tu": "chancelas",
+      "il": "chancela",
+      "nous": "chancelâmes",
+      "vous": "chancelâtes",
+      "ils": "chancelèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus chancelé",
+      "tu": "eus chancelé",
+      "il": "eut chancelé",
+      "nous": "eûmes chancelé",
+      "vous": "eûtes chancelé",
+      "ils": "eurent chancelé"
+    },
+    "futur_simple": {
+      "je": "chancellerai",
+      "tu": "chancelleras",
+      "il": "chancellera",
+      "nous": "chancellerons",
+      "vous": "chancellerez",
+      "ils": "chancelleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai chancelé",
+      "tu": "auras chancelé",
+      "il": "aura chancelé",
+      "nous": "aurons chancelé",
+      "vous": "aurez chancelé",
+      "ils": "auront chancelé"
+    },
+    "subjonctif_présent": {
+      "je": "chancelle",
+      "tu": "chancelles",
+      "il": "chancelle",
+      "nous": "chancelions",
+      "vous": "chanceliez",
+      "ils": "chancellent"
+    },
+    "subjonctif_passé": {
+      "je": "aie chancelé",
+      "tu": "aies chancelé",
+      "il": "ait chancelé",
+      "nous": "ayons chancelé",
+      "vous": "ayez chancelé",
+      "ils": "aient chancelé"
+    },
+    "subjonctif_imparfait": {
+      "je": "chancelasse",
+      "tu": "chancelasses",
+      "il": "chancelât",
+      "nous": "chancelassions",
+      "vous": "chancelassiez",
+      "ils": "chancelassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse chancelé",
+      "tu": "eusses chancelé",
+      "il": "eût chancelé",
+      "nous": "eussions chancelé",
+      "vous": "eussiez chancelé",
+      "ils": "eussent chancelé"
+    },
+    "conditionnel_présent": {
+      "je": "chancellerais",
+      "tu": "chancellerais",
+      "il": "chancellerait",
+      "nous": "chancellerions",
+      "vous": "chancelleriez",
+      "ils": "chancelleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais chancelé",
+      "tu": "aurais chancelé",
+      "il": "aurait chancelé",
+      "nous": "aurions chancelé",
+      "vous": "auriez chancelé",
+      "ils": "auraient chancelé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse chancelé",
+      "tu": "eusses chancelé",
+      "il": "eût chancelé",
+      "nous": "eussions chancelé",
+      "vous": "eussiez chancelé",
+      "ils": "eussent chancelé"
+    },
+    "translation": "słaniać",
+    "group": 1
+  },
+  {
+    "infinitive": "changer",
+    "présent": {
+      "je": "change",
+      "tu": "changes",
+      "il": "change",
+      "nous": "changeons",
+      "vous": "changez",
+      "ils": "changent"
+    },
+    "passé_composé": {
+      "je": "ai changé",
+      "tu": "as changé",
+      "il": "a changé",
+      "nous": "avons changé",
+      "vous": "avez changé",
+      "ils": "ont changé"
+    },
+    "imparfait": {
+      "je": "changeais",
+      "tu": "changeais",
+      "il": "changeait",
+      "nous": "changions",
+      "vous": "changiez",
+      "ils": "changeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais changé",
+      "tu": "avais changé",
+      "il": "avait changé",
+      "nous": "avions changé",
+      "vous": "aviez changé",
+      "ils": "avaient changé"
+    },
+    "passé_simple": {
+      "je": "changeai",
+      "tu": "changeas",
+      "il": "changea",
+      "nous": "changeâmes",
+      "vous": "changeâtes",
+      "ils": "changèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus changé",
+      "tu": "eus changé",
+      "il": "eut changé",
+      "nous": "eûmes changé",
+      "vous": "eûtes changé",
+      "ils": "eurent changé"
+    },
+    "futur_simple": {
+      "je": "changerai",
+      "tu": "changeras",
+      "il": "changera",
+      "nous": "changerons",
+      "vous": "changerez",
+      "ils": "changeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai changé",
+      "tu": "auras changé",
+      "il": "aura changé",
+      "nous": "aurons changé",
+      "vous": "aurez changé",
+      "ils": "auront changé"
+    },
+    "subjonctif_présent": {
+      "je": "change",
+      "tu": "changes",
+      "il": "change",
+      "nous": "changions",
+      "vous": "changiez",
+      "ils": "changent"
+    },
+    "subjonctif_passé": {
+      "je": "aie changé",
+      "tu": "aies changé",
+      "il": "ait changé",
+      "nous": "ayons changé",
+      "vous": "ayez changé",
+      "ils": "aient changé"
+    },
+    "subjonctif_imparfait": {
+      "je": "changeasse",
+      "tu": "changeasses",
+      "il": "changeât",
+      "nous": "changeassions",
+      "vous": "changeassiez",
+      "ils": "changeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse changé",
+      "tu": "eusses changé",
+      "il": "eût changé",
+      "nous": "eussions changé",
+      "vous": "eussiez changé",
+      "ils": "eussent changé"
+    },
+    "conditionnel_présent": {
+      "je": "changerais",
+      "tu": "changerais",
+      "il": "changerait",
+      "nous": "changerions",
+      "vous": "changeriez",
+      "ils": "changeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais changé",
+      "tu": "aurais changé",
+      "il": "aurait changé",
+      "nous": "aurions changé",
+      "vous": "auriez changé",
+      "ils": "auraient changé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse changé",
+      "tu": "eusses changé",
+      "il": "eût changé",
+      "nous": "eussions changé",
+      "vous": "eussiez changé",
+      "ils": "eussent changé"
+    },
+    "translation": "zmieniać",
+    "group": 1
+  },
+  {
+    "infinitive": "chanter",
+    "présent": {
+      "je": "chante",
+      "tu": "chantes",
+      "il": "chante",
+      "nous": "chantons",
+      "vous": "chantez",
+      "ils": "chantent"
+    },
+    "passé_composé": {
+      "je": "ai chanté",
+      "tu": "as chanté",
+      "il": "a chanté",
+      "nous": "avons chanté",
+      "vous": "avez chanté",
+      "ils": "ont chanté"
+    },
+    "imparfait": {
+      "je": "chantais",
+      "tu": "chantais",
+      "il": "chantait",
+      "nous": "chantions",
+      "vous": "chantiez",
+      "ils": "chantaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais chanté",
+      "tu": "avais chanté",
+      "il": "avait chanté",
+      "nous": "avions chanté",
+      "vous": "aviez chanté",
+      "ils": "avaient chanté"
+    },
+    "passé_simple": {
+      "je": "chantai",
+      "tu": "chantas",
+      "il": "chanta",
+      "nous": "chantâmes",
+      "vous": "chantâtes",
+      "ils": "chantèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus chanté",
+      "tu": "eus chanté",
+      "il": "eut chanté",
+      "nous": "eûmes chanté",
+      "vous": "eûtes chanté",
+      "ils": "eurent chanté"
+    },
+    "futur_simple": {
+      "je": "chanterai",
+      "tu": "chanteras",
+      "il": "chantera",
+      "nous": "chanterons",
+      "vous": "chanterez",
+      "ils": "chanteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai chanté",
+      "tu": "auras chanté",
+      "il": "aura chanté",
+      "nous": "aurons chanté",
+      "vous": "aurez chanté",
+      "ils": "auront chanté"
+    },
+    "subjonctif_présent": {
+      "je": "chante",
+      "tu": "chantes",
+      "il": "chante",
+      "nous": "chantions",
+      "vous": "chantiez",
+      "ils": "chantent"
+    },
+    "subjonctif_passé": {
+      "je": "aie chanté",
+      "tu": "aies chanté",
+      "il": "ait chanté",
+      "nous": "ayons chanté",
+      "vous": "ayez chanté",
+      "ils": "aient chanté"
+    },
+    "subjonctif_imparfait": {
+      "je": "chantasse",
+      "tu": "chantasses",
+      "il": "chantât",
+      "nous": "chantassions",
+      "vous": "chantassiez",
+      "ils": "chantassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse chanté",
+      "tu": "eusses chanté",
+      "il": "eût chanté",
+      "nous": "eussions chanté",
+      "vous": "eussiez chanté",
+      "ils": "eussent chanté"
+    },
+    "conditionnel_présent": {
+      "je": "chanterais",
+      "tu": "chanterais",
+      "il": "chanterait",
+      "nous": "chanterions",
+      "vous": "chanteriez",
+      "ils": "chanteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais chanté",
+      "tu": "aurais chanté",
+      "il": "aurait chanté",
+      "nous": "aurions chanté",
+      "vous": "auriez chanté",
+      "ils": "auraient chanté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse chanté",
+      "tu": "eusses chanté",
+      "il": "eût chanté",
+      "nous": "eussions chanté",
+      "vous": "eussiez chanté",
+      "ils": "eussent chanté"
+    },
+    "translation": "śpiewać",
+    "group": 1
+  }
+]

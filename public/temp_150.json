@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "rafraîchir",
+    "présent": {
+      "je": "rafraîchis",
+      "tu": "rafraîchis",
+      "il": "rafraîchit",
+      "nous": "rafraîchissons",
+      "vous": "rafraîchissez",
+      "ils": "rafraîchissent"
+    },
+    "passé_composé": {
+      "je": "ai rafraîchi",
+      "tu": "as rafraîchi",
+      "il": "a rafraîchi",
+      "nous": "avons rafraîchi",
+      "vous": "avez rafraîchi",
+      "ils": "ont rafraîchi"
+    },
+    "imparfait": {
+      "je": "rafraîchissais",
+      "tu": "rafraîchissais",
+      "il": "rafraîchissait",
+      "nous": "rafraîchissions",
+      "vous": "rafraîchissiez",
+      "ils": "rafraîchissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais rafraîchi",
+      "tu": "avais rafraîchi",
+      "il": "avait rafraîchi",
+      "nous": "avions rafraîchi",
+      "vous": "aviez rafraîchi",
+      "ils": "avaient rafraîchi"
+    },
+    "passé_simple": {
+      "je": "rafraîchis",
+      "tu": "rafraîchis",
+      "il": "rafraîchit",
+      "nous": "rafraîchîmes",
+      "vous": "rafraîchîtes",
+      "ils": "rafraîchirent"
+    },
+    "passé_antérieur": {
+      "je": "eus rafraîchi",
+      "tu": "eus rafraîchi",
+      "il": "eut rafraîchi",
+      "nous": "eûmes rafraîchi",
+      "vous": "eûtes rafraîchi",
+      "ils": "eurent rafraîchi"
+    },
+    "futur_simple": {
+      "je": "rafraîchirai",
+      "tu": "rafraîchiras",
+      "il": "rafraîchira",
+      "nous": "rafraîchirons",
+      "vous": "rafraîchirez",
+      "ils": "rafraîchiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai rafraîchi",
+      "tu": "auras rafraîchi",
+      "il": "aura rafraîchi",
+      "nous": "aurons rafraîchi",
+      "vous": "aurez rafraîchi",
+      "ils": "auront rafraîchi"
+    },
+    "subjonctif_présent": {
+      "je": "rafraîchisse",
+      "tu": "rafraîchisses",
+      "il": "rafraîchisse",
+      "nous": "rafraîchissions",
+      "vous": "rafraîchissiez",
+      "ils": "rafraîchissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie rafraîchi",
+      "tu": "aies rafraîchi",
+      "il": "ait rafraîchi",
+      "nous": "ayons rafraîchi",
+      "vous": "ayez rafraîchi",
+      "ils": "aient rafraîchi"
+    },
+    "subjonctif_imparfait": {
+      "je": "rafraîchisse",
+      "tu": "rafraîchisses",
+      "il": "rafraîchît",
+      "nous": "rafraîchissions",
+      "vous": "rafraîchissiez",
+      "ils": "rafraîchissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse rafraîchi",
+      "tu": "eusses rafraîchi",
+      "il": "eût rafraîchi",
+      "nous": "eussions rafraîchi",
+      "vous": "eussiez rafraîchi",
+      "ils": "eussent rafraîchi"
+    },
+    "conditionnel_présent": {
+      "je": "rafraîchirais",
+      "tu": "rafraîchirais",
+      "il": "rafraîchirait",
+      "nous": "rafraîchirions",
+      "vous": "rafraîchiriez",
+      "ils": "rafraîchiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais rafraîchi",
+      "tu": "aurais rafraîchi",
+      "il": "aurait rafraîchi",
+      "nous": "aurions rafraîchi",
+      "vous": "auriez rafraîchi",
+      "ils": "auraient rafraîchi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse rafraîchi",
+      "tu": "eusses rafraîchi",
+      "il": "eût rafraîchi",
+      "nous": "eussions rafraîchi",
+      "vous": "eussiez rafraîchi",
+      "ils": "eussent rafraîchi"
+    },
+    "translation": "ochładzać",
+    "group": 2
+  },
+  {
+    "infinitive": "rager",
+    "présent": {
+      "je": "rage",
+      "tu": "rages",
+      "il": "rage",
+      "nous": "rageons",
+      "vous": "ragez",
+      "ils": "ragent"
+    },
+    "passé_composé": {
+      "je": "ai ragé",
+      "tu": "as ragé",
+      "il": "a ragé",
+      "nous": "avons ragé",
+      "vous": "avez ragé",
+      "ils": "ont ragé"
+    },
+    "imparfait": {
+      "je": "rageais",
+      "tu": "rageais",
+      "il": "rageait",
+      "nous": "ragions",
+      "vous": "ragiez",
+      "ils": "rageaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ragé",
+      "tu": "avais ragé",
+      "il": "avait ragé",
+      "nous": "avions ragé",
+      "vous": "aviez ragé",
+      "ils": "avaient ragé"
+    },
+    "passé_simple": {
+      "je": "rageai",
+      "tu": "rageas",
+      "il": "ragea",
+      "nous": "rageâmes",
+      "vous": "rageâtes",
+      "ils": "ragèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus ragé",
+      "tu": "eus ragé",
+      "il": "eut ragé",
+      "nous": "eûmes ragé",
+      "vous": "eûtes ragé",
+      "ils": "eurent ragé"
+    },
+    "futur_simple": {
+      "je": "ragerai",
+      "tu": "rageras",
+      "il": "ragera",
+      "nous": "ragerons",
+      "vous": "ragerez",
+      "ils": "rageront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ragé",
+      "tu": "auras ragé",
+      "il": "aura ragé",
+      "nous": "aurons ragé",
+      "vous": "aurez ragé",
+      "ils": "auront ragé"
+    },
+    "subjonctif_présent": {
+      "je": "rage",
+      "tu": "rages",
+      "il": "rage",
+      "nous": "ragions",
+      "vous": "ragiez",
+      "ils": "ragent"
+    },
+    "subjonctif_passé": {
+      "je": "aie ragé",
+      "tu": "aies ragé",
+      "il": "ait ragé",
+      "nous": "ayons ragé",
+      "vous": "ayez ragé",
+      "ils": "aient ragé"
+    },
+    "subjonctif_imparfait": {
+      "je": "rageasse",
+      "tu": "rageasses",
+      "il": "rageât",
+      "nous": "rageassions",
+      "vous": "rageassiez",
+      "ils": "rageassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ragé",
+      "tu": "eusses ragé",
+      "il": "eût ragé",
+      "nous": "eussions ragé",
+      "vous": "eussiez ragé",
+      "ils": "eussent ragé"
+    },
+    "conditionnel_présent": {
+      "je": "ragerais",
+      "tu": "ragerais",
+      "il": "ragerait",
+      "nous": "ragerions",
+      "vous": "rageriez",
+      "ils": "rageraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ragé",
+      "tu": "aurais ragé",
+      "il": "aurait ragé",
+      "nous": "aurions ragé",
+      "vous": "auriez ragé",
+      "ils": "auraient ragé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ragé",
+      "tu": "eusses ragé",
+      "il": "eût ragé",
+      "nous": "eussions ragé",
+      "vous": "eussiez ragé",
+      "ils": "eussent ragé"
+    },
+    "translation": "porządkować",
+    "group": 1
+  },
+  {
+    "infinitive": "raidir",
+    "présent": {
+      "je": "raidis",
+      "tu": "raidis",
+      "il": "raidit",
+      "nous": "raidissons",
+      "vous": "raidissez",
+      "ils": "raidissent"
+    },
+    "passé_composé": {
+      "je": "ai raidi",
+      "tu": "as raidi",
+      "il": "a raidi",
+      "nous": "avons raidi",
+      "vous": "avez raidi",
+      "ils": "ont raidi"
+    },
+    "imparfait": {
+      "je": "raidissais",
+      "tu": "raidissais",
+      "il": "raidissait",
+      "nous": "raidissions",
+      "vous": "raidissiez",
+      "ils": "raidissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais raidi",
+      "tu": "avais raidi",
+      "il": "avait raidi",
+      "nous": "avions raidi",
+      "vous": "aviez raidi",
+      "ils": "avaient raidi"
+    },
+    "passé_simple": {
+      "je": "raidis",
+      "tu": "raidis",
+      "il": "raidit",
+      "nous": "raidîmes",
+      "vous": "raidîtes",
+      "ils": "raidirent"
+    },
+    "passé_antérieur": {
+      "je": "eus raidi",
+      "tu": "eus raidi",
+      "il": "eut raidi",
+      "nous": "eûmes raidi",
+      "vous": "eûtes raidi",
+      "ils": "eurent raidi"
+    },
+    "futur_simple": {
+      "je": "raidirai",
+      "tu": "raidiras",
+      "il": "raidira",
+      "nous": "raidirons",
+      "vous": "raidirez",
+      "ils": "raidiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai raidi",
+      "tu": "auras raidi",
+      "il": "aura raidi",
+      "nous": "aurons raidi",
+      "vous": "aurez raidi",
+      "ils": "auront raidi"
+    },
+    "subjonctif_présent": {
+      "je": "raidisse",
+      "tu": "raidisses",
+      "il": "raidisse",
+      "nous": "raidissions",
+      "vous": "raidissiez",
+      "ils": "raidissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie raidi",
+      "tu": "aies raidi",
+      "il": "ait raidi",
+      "nous": "ayons raidi",
+      "vous": "ayez raidi",
+      "ils": "aient raidi"
+    },
+    "subjonctif_imparfait": {
+      "je": "raidisse",
+      "tu": "raidisses",
+      "il": "raidît",
+      "nous": "raidissions",
+      "vous": "raidissiez",
+      "ils": "raidissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse raidi",
+      "tu": "eusses raidi",
+      "il": "eût raidi",
+      "nous": "eussions raidi",
+      "vous": "eussiez raidi",
+      "ils": "eussent raidi"
+    },
+    "conditionnel_présent": {
+      "je": "raidirais",
+      "tu": "raidirais",
+      "il": "raidirait",
+      "nous": "raidirions",
+      "vous": "raidiriez",
+      "ils": "raidiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais raidi",
+      "tu": "aurais raidi",
+      "il": "aurait raidi",
+      "nous": "aurions raidi",
+      "vous": "auriez raidi",
+      "ils": "auraient raidi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse raidi",
+      "tu": "eusses raidi",
+      "il": "eût raidi",
+      "nous": "eussions raidi",
+      "vous": "eussiez raidi",
+      "ils": "eussent raidi"
+    },
+    "translation": "raidir",
+    "group": 2
+  },
+  {
+    "infinitive": "railler",
+    "présent": {
+      "je": "raille",
+      "tu": "railles",
+      "il": "raille",
+      "nous": "raillons",
+      "vous": "raillez",
+      "ils": "raillent"
+    },
+    "passé_composé": {
+      "je": "ai raillé",
+      "tu": "as raillé",
+      "il": "a raillé",
+      "nous": "avons raillé",
+      "vous": "avez raillé",
+      "ils": "ont raillé"
+    },
+    "imparfait": {
+      "je": "raillais",
+      "tu": "raillais",
+      "il": "raillait",
+      "nous": "raillions",
+      "vous": "railliez",
+      "ils": "raillaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais raillé",
+      "tu": "avais raillé",
+      "il": "avait raillé",
+      "nous": "avions raillé",
+      "vous": "aviez raillé",
+      "ils": "avaient raillé"
+    },
+    "passé_simple": {
+      "je": "raillai",
+      "tu": "raillas",
+      "il": "railla",
+      "nous": "raillâmes",
+      "vous": "raillâtes",
+      "ils": "raillèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus raillé",
+      "tu": "eus raillé",
+      "il": "eut raillé",
+      "nous": "eûmes raillé",
+      "vous": "eûtes raillé",
+      "ils": "eurent raillé"
+    },
+    "futur_simple": {
+      "je": "raillerai",
+      "tu": "railleras",
+      "il": "raillera",
+      "nous": "raillerons",
+      "vous": "raillerez",
+      "ils": "railleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai raillé",
+      "tu": "auras raillé",
+      "il": "aura raillé",
+      "nous": "aurons raillé",
+      "vous": "aurez raillé",
+      "ils": "auront raillé"
+    },
+    "subjonctif_présent": {
+      "je": "raille",
+      "tu": "railles",
+      "il": "raille",
+      "nous": "raillions",
+      "vous": "railliez",
+      "ils": "raillent"
+    },
+    "subjonctif_passé": {
+      "je": "aie raillé",
+      "tu": "aies raillé",
+      "il": "ait raillé",
+      "nous": "ayons raillé",
+      "vous": "ayez raillé",
+      "ils": "aient raillé"
+    },
+    "subjonctif_imparfait": {
+      "je": "raillasse",
+      "tu": "raillasses",
+      "il": "raillât",
+      "nous": "raillassions",
+      "vous": "raillassiez",
+      "ils": "raillassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse raillé",
+      "tu": "eusses raillé",
+      "il": "eût raillé",
+      "nous": "eussions raillé",
+      "vous": "eussiez raillé",
+      "ils": "eussent raillé"
+    },
+    "conditionnel_présent": {
+      "je": "raillerais",
+      "tu": "raillerais",
+      "il": "raillerait",
+      "nous": "raillerions",
+      "vous": "railleriez",
+      "ils": "railleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais raillé",
+      "tu": "aurais raillé",
+      "il": "aurait raillé",
+      "nous": "aurions raillé",
+      "vous": "auriez raillé",
+      "ils": "auraient raillé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse raillé",
+      "tu": "eusses raillé",
+      "il": "eût raillé",
+      "nous": "eussions raillé",
+      "vous": "eussiez raillé",
+      "ils": "eussent raillé"
+    },
+    "translation": "railler",
+    "group": 1
+  },
+  {
+    "infinitive": "raire",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "rait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "raira",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "rairait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "doić",
+    "group": 3
+  },
+  {
+    "infinitive": "raisonner",
+    "présent": {
+      "je": "raisonne",
+      "tu": "raisonnes",
+      "il": "raisonne",
+      "nous": "raisonnons",
+      "vous": "raisonnez",
+      "ils": "raisonnent"
+    },
+    "passé_composé": {
+      "je": "ai raisonné",
+      "tu": "as raisonné",
+      "il": "a raisonné",
+      "nous": "avons raisonné",
+      "vous": "avez raisonné",
+      "ils": "ont raisonné"
+    },
+    "imparfait": {
+      "je": "raisonnais",
+      "tu": "raisonnais",
+      "il": "raisonnait",
+      "nous": "raisonnions",
+      "vous": "raisonniez",
+      "ils": "raisonnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais raisonné",
+      "tu": "avais raisonné",
+      "il": "avait raisonné",
+      "nous": "avions raisonné",
+      "vous": "aviez raisonné",
+      "ils": "avaient raisonné"
+    },
+    "passé_simple": {
+      "je": "raisonnai",
+      "tu": "raisonnas",
+      "il": "raisonna",
+      "nous": "raisonnâmes",
+      "vous": "raisonnâtes",
+      "ils": "raisonnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus raisonné",
+      "tu": "eus raisonné",
+      "il": "eut raisonné",
+      "nous": "eûmes raisonné",
+      "vous": "eûtes raisonné",
+      "ils": "eurent raisonné"
+    },
+    "futur_simple": {
+      "je": "raisonnerai",
+      "tu": "raisonneras",
+      "il": "raisonnera",
+      "nous": "raisonnerons",
+      "vous": "raisonnerez",
+      "ils": "raisonneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai raisonné",
+      "tu": "auras raisonné",
+      "il": "aura raisonné",
+      "nous": "aurons raisonné",
+      "vous": "aurez raisonné",
+      "ils": "auront raisonné"
+    },
+    "subjonctif_présent": {
+      "je": "raisonne",
+      "tu": "raisonnes",
+      "il": "raisonne",
+      "nous": "raisonnions",
+      "vous": "raisonniez",
+      "ils": "raisonnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie raisonné",
+      "tu": "aies raisonné",
+      "il": "ait raisonné",
+      "nous": "ayons raisonné",
+      "vous": "ayez raisonné",
+      "ils": "aient raisonné"
+    },
+    "subjonctif_imparfait": {
+      "je": "raisonnasse",
+      "tu": "raisonnasses",
+      "il": "raisonnât",
+      "nous": "raisonnassions",
+      "vous": "raisonnassiez",
+      "ils": "raisonnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse raisonné",
+      "tu": "eusses raisonné",
+      "il": "eût raisonné",
+      "nous": "eussions raisonné",
+      "vous": "eussiez raisonné",
+      "ils": "eussent raisonné"
+    },
+    "conditionnel_présent": {
+      "je": "raisonnerais",
+      "tu": "raisonnerais",
+      "il": "raisonnerait",
+      "nous": "raisonnerions",
+      "vous": "raisonneriez",
+      "ils": "raisonneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais raisonné",
+      "tu": "aurais raisonné",
+      "il": "aurait raisonné",
+      "nous": "aurions raisonné",
+      "vous": "auriez raisonné",
+      "ils": "auraient raisonné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse raisonné",
+      "tu": "eusses raisonné",
+      "il": "eût raisonné",
+      "nous": "eussions raisonné",
+      "vous": "eussiez raisonné",
+      "ils": "eussent raisonné"
+    },
+    "translation": "przemawiać",
+    "group": 1
+  },
+  {
+    "infinitive": "rajeunir",
+    "présent": {
+      "je": "rajeunis",
+      "tu": "rajeunis",
+      "il": "rajeunit",
+      "nous": "rajeunissons",
+      "vous": "rajeunissez",
+      "ils": "rajeunissent"
+    },
+    "passé_composé": {
+      "je": "ai rajeuni",
+      "tu": "as rajeuni",
+      "il": "a rajeuni",
+      "nous": "avons rajeuni",
+      "vous": "avez rajeuni",
+      "ils": "ont rajeuni"
+    },
+    "imparfait": {
+      "je": "rajeunissais",
+      "tu": "rajeunissais",
+      "il": "rajeunissait",
+      "nous": "rajeunissions",
+      "vous": "rajeunissiez",
+      "ils": "rajeunissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais rajeuni",
+      "tu": "avais rajeuni",
+      "il": "avait rajeuni",
+      "nous": "avions rajeuni",
+      "vous": "aviez rajeuni",
+      "ils": "avaient rajeuni"
+    },
+    "passé_simple": {
+      "je": "rajeunis",
+      "tu": "rajeunis",
+      "il": "rajeunit",
+      "nous": "rajeunîmes",
+      "vous": "rajeunîtes",
+      "ils": "rajeunirent"
+    },
+    "passé_antérieur": {
+      "je": "eus rajeuni",
+      "tu": "eus rajeuni",
+      "il": "eut rajeuni",
+      "nous": "eûmes rajeuni",
+      "vous": "eûtes rajeuni",
+      "ils": "eurent rajeuni"
+    },
+    "futur_simple": {
+      "je": "rajeunirai",
+      "tu": "rajeuniras",
+      "il": "rajeunira",
+      "nous": "rajeunirons",
+      "vous": "rajeunirez",
+      "ils": "rajeuniront"
+    },
+    "futur_antérieur": {
+      "je": "aurai rajeuni",
+      "tu": "auras rajeuni",
+      "il": "aura rajeuni",
+      "nous": "aurons rajeuni",
+      "vous": "aurez rajeuni",
+      "ils": "auront rajeuni"
+    },
+    "subjonctif_présent": {
+      "je": "rajeunisse",
+      "tu": "rajeunisses",
+      "il": "rajeunisse",
+      "nous": "rajeunissions",
+      "vous": "rajeunissiez",
+      "ils": "rajeunissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie rajeuni",
+      "tu": "aies rajeuni",
+      "il": "ait rajeuni",
+      "nous": "ayons rajeuni",
+      "vous": "ayez rajeuni",
+      "ils": "aient rajeuni"
+    },
+    "subjonctif_imparfait": {
+      "je": "rajeunisse",
+      "tu": "rajeunisses",
+      "il": "rajeunît",
+      "nous": "rajeunissions",
+      "vous": "rajeunissiez",
+      "ils": "rajeunissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse rajeuni",
+      "tu": "eusses rajeuni",
+      "il": "eût rajeuni",
+      "nous": "eussions rajeuni",
+      "vous": "eussiez rajeuni",
+      "ils": "eussent rajeuni"
+    },
+    "conditionnel_présent": {
+      "je": "rajeunirais",
+      "tu": "rajeunirais",
+      "il": "rajeunirait",
+      "nous": "rajeunirions",
+      "vous": "rajeuniriez",
+      "ils": "rajeuniraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais rajeuni",
+      "tu": "aurais rajeuni",
+      "il": "aurait rajeuni",
+      "nous": "aurions rajeuni",
+      "vous": "auriez rajeuni",
+      "ils": "auraient rajeuni"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse rajeuni",
+      "tu": "eusses rajeuni",
+      "il": "eût rajeuni",
+      "nous": "eussions rajeuni",
+      "vous": "eussiez rajeuni",
+      "ils": "eussent rajeuni"
+    },
+    "translation": "odmładzać",
+    "group": 2
+  },
+  {
+    "infinitive": "rajouter",
+    "présent": {
+      "je": "rajoute",
+      "tu": "rajoutes",
+      "il": "rajoute",
+      "nous": "rajoutons",
+      "vous": "rajoutez",
+      "ils": "rajoutent"
+    },
+    "passé_composé": {
+      "je": "ai rajouté",
+      "tu": "as rajouté",
+      "il": "a rajouté",
+      "nous": "avons rajouté",
+      "vous": "avez rajouté",
+      "ils": "ont rajouté"
+    },
+    "imparfait": {
+      "je": "rajoutais",
+      "tu": "rajoutais",
+      "il": "rajoutait",
+      "nous": "rajoutions",
+      "vous": "rajoutiez",
+      "ils": "rajoutaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais rajouté",
+      "tu": "avais rajouté",
+      "il": "avait rajouté",
+      "nous": "avions rajouté",
+      "vous": "aviez rajouté",
+      "ils": "avaient rajouté"
+    },
+    "passé_simple": {
+      "je": "rajoutai",
+      "tu": "rajoutas",
+      "il": "rajouta",
+      "nous": "rajoutâmes",
+      "vous": "rajoutâtes",
+      "ils": "rajoutèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus rajouté",
+      "tu": "eus rajouté",
+      "il": "eut rajouté",
+      "nous": "eûmes rajouté",
+      "vous": "eûtes rajouté",
+      "ils": "eurent rajouté"
+    },
+    "futur_simple": {
+      "je": "rajouterai",
+      "tu": "rajouteras",
+      "il": "rajoutera",
+      "nous": "rajouterons",
+      "vous": "rajouterez",
+      "ils": "rajouteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai rajouté",
+      "tu": "auras rajouté",
+      "il": "aura rajouté",
+      "nous": "aurons rajouté",
+      "vous": "aurez rajouté",
+      "ils": "auront rajouté"
+    },
+    "subjonctif_présent": {
+      "je": "rajoute",
+      "tu": "rajoutes",
+      "il": "rajoute",
+      "nous": "rajoutions",
+      "vous": "rajoutiez",
+      "ils": "rajoutent"
+    },
+    "subjonctif_passé": {
+      "je": "aie rajouté",
+      "tu": "aies rajouté",
+      "il": "ait rajouté",
+      "nous": "ayons rajouté",
+      "vous": "ayez rajouté",
+      "ils": "aient rajouté"
+    },
+    "subjonctif_imparfait": {
+      "je": "rajoutasse",
+      "tu": "rajoutasses",
+      "il": "rajoutât",
+      "nous": "rajoutassions",
+      "vous": "rajoutassiez",
+      "ils": "rajoutassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse rajouté",
+      "tu": "eusses rajouté",
+      "il": "eût rajouté",
+      "nous": "eussions rajouté",
+      "vous": "eussiez rajouté",
+      "ils": "eussent rajouté"
+    },
+    "conditionnel_présent": {
+      "je": "rajouterais",
+      "tu": "rajouterais",
+      "il": "rajouterait",
+      "nous": "rajouterions",
+      "vous": "rajouteriez",
+      "ils": "rajouteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais rajouté",
+      "tu": "aurais rajouté",
+      "il": "aurait rajouté",
+      "nous": "aurions rajouté",
+      "vous": "auriez rajouté",
+      "ils": "auraient rajouté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse rajouté",
+      "tu": "eusses rajouté",
+      "il": "eût rajouté",
+      "nous": "eussions rajouté",
+      "vous": "eussiez rajouté",
+      "ils": "eussent rajouté"
+    },
+    "translation": "dorzucać",
+    "group": 1
+  },
+  {
+    "infinitive": "ralentir",
+    "présent": {
+      "je": "ralentis",
+      "tu": "ralentis",
+      "il": "ralentit",
+      "nous": "ralentissons",
+      "vous": "ralentissez",
+      "ils": "ralentissent"
+    },
+    "passé_composé": {
+      "je": "ai ralenti",
+      "tu": "as ralenti",
+      "il": "a ralenti",
+      "nous": "avons ralenti",
+      "vous": "avez ralenti",
+      "ils": "ont ralenti"
+    },
+    "imparfait": {
+      "je": "ralentissais",
+      "tu": "ralentissais",
+      "il": "ralentissait",
+      "nous": "ralentissions",
+      "vous": "ralentissiez",
+      "ils": "ralentissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ralenti",
+      "tu": "avais ralenti",
+      "il": "avait ralenti",
+      "nous": "avions ralenti",
+      "vous": "aviez ralenti",
+      "ils": "avaient ralenti"
+    },
+    "passé_simple": {
+      "je": "ralentis",
+      "tu": "ralentis",
+      "il": "ralentit",
+      "nous": "ralentîmes",
+      "vous": "ralentîtes",
+      "ils": "ralentirent"
+    },
+    "passé_antérieur": {
+      "je": "eus ralenti",
+      "tu": "eus ralenti",
+      "il": "eut ralenti",
+      "nous": "eûmes ralenti",
+      "vous": "eûtes ralenti",
+      "ils": "eurent ralenti"
+    },
+    "futur_simple": {
+      "je": "ralentirai",
+      "tu": "ralentiras",
+      "il": "ralentira",
+      "nous": "ralentirons",
+      "vous": "ralentirez",
+      "ils": "ralentiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ralenti",
+      "tu": "auras ralenti",
+      "il": "aura ralenti",
+      "nous": "aurons ralenti",
+      "vous": "aurez ralenti",
+      "ils": "auront ralenti"
+    },
+    "subjonctif_présent": {
+      "je": "ralentisse",
+      "tu": "ralentisses",
+      "il": "ralentisse",
+      "nous": "ralentissions",
+      "vous": "ralentissiez",
+      "ils": "ralentissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie ralenti",
+      "tu": "aies ralenti",
+      "il": "ait ralenti",
+      "nous": "ayons ralenti",
+      "vous": "ayez ralenti",
+      "ils": "aient ralenti"
+    },
+    "subjonctif_imparfait": {
+      "je": "ralentisse",
+      "tu": "ralentisses",
+      "il": "ralentît",
+      "nous": "ralentissions",
+      "vous": "ralentissiez",
+      "ils": "ralentissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ralenti",
+      "tu": "eusses ralenti",
+      "il": "eût ralenti",
+      "nous": "eussions ralenti",
+      "vous": "eussiez ralenti",
+      "ils": "eussent ralenti"
+    },
+    "conditionnel_présent": {
+      "je": "ralentirais",
+      "tu": "ralentirais",
+      "il": "ralentirait",
+      "nous": "ralentirions",
+      "vous": "ralentiriez",
+      "ils": "ralentiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ralenti",
+      "tu": "aurais ralenti",
+      "il": "aurait ralenti",
+      "nous": "aurions ralenti",
+      "vous": "auriez ralenti",
+      "ils": "auraient ralenti"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ralenti",
+      "tu": "eusses ralenti",
+      "il": "eût ralenti",
+      "nous": "eussions ralenti",
+      "vous": "eussiez ralenti",
+      "ils": "eussent ralenti"
+    },
+    "translation": "zwalniać",
+    "group": 2
+  },
+  {
+    "infinitive": "râler",
+    "présent": {
+      "je": "râle",
+      "tu": "râles",
+      "il": "râle",
+      "nous": "râlons",
+      "vous": "râlez",
+      "ils": "râlent"
+    },
+    "passé_composé": {
+      "je": "ai râlé",
+      "tu": "as râlé",
+      "il": "a râlé",
+      "nous": "avons râlé",
+      "vous": "avez râlé",
+      "ils": "ont râlé"
+    },
+    "imparfait": {
+      "je": "râlais",
+      "tu": "râlais",
+      "il": "râlait",
+      "nous": "râlions",
+      "vous": "râliez",
+      "ils": "râlaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais râlé",
+      "tu": "avais râlé",
+      "il": "avait râlé",
+      "nous": "avions râlé",
+      "vous": "aviez râlé",
+      "ils": "avaient râlé"
+    },
+    "passé_simple": {
+      "je": "râlai",
+      "tu": "râlas",
+      "il": "râla",
+      "nous": "râlâmes",
+      "vous": "râlâtes",
+      "ils": "râlèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus râlé",
+      "tu": "eus râlé",
+      "il": "eut râlé",
+      "nous": "eûmes râlé",
+      "vous": "eûtes râlé",
+      "ils": "eurent râlé"
+    },
+    "futur_simple": {
+      "je": "râlerai",
+      "tu": "râleras",
+      "il": "râlera",
+      "nous": "râlerons",
+      "vous": "râlerez",
+      "ils": "râleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai râlé",
+      "tu": "auras râlé",
+      "il": "aura râlé",
+      "nous": "aurons râlé",
+      "vous": "aurez râlé",
+      "ils": "auront râlé"
+    },
+    "subjonctif_présent": {
+      "je": "râle",
+      "tu": "râles",
+      "il": "râle",
+      "nous": "râlions",
+      "vous": "râliez",
+      "ils": "râlent"
+    },
+    "subjonctif_passé": {
+      "je": "aie râlé",
+      "tu": "aies râlé",
+      "il": "ait râlé",
+      "nous": "ayons râlé",
+      "vous": "ayez râlé",
+      "ils": "aient râlé"
+    },
+    "subjonctif_imparfait": {
+      "je": "râlasse",
+      "tu": "râlasses",
+      "il": "râlât",
+      "nous": "râlassions",
+      "vous": "râlassiez",
+      "ils": "râlassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse râlé",
+      "tu": "eusses râlé",
+      "il": "eût râlé",
+      "nous": "eussions râlé",
+      "vous": "eussiez râlé",
+      "ils": "eussent râlé"
+    },
+    "conditionnel_présent": {
+      "je": "râlerais",
+      "tu": "râlerais",
+      "il": "râlerait",
+      "nous": "râlerions",
+      "vous": "râleriez",
+      "ils": "râleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais râlé",
+      "tu": "aurais râlé",
+      "il": "aurait râlé",
+      "nous": "aurions râlé",
+      "vous": "auriez râlé",
+      "ils": "auraient râlé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse râlé",
+      "tu": "eusses râlé",
+      "il": "eût râlé",
+      "nous": "eussions râlé",
+      "vous": "eussiez râlé",
+      "ils": "eussent râlé"
+    },
+    "translation": "burczeć",
+    "group": 1
+  }
+]

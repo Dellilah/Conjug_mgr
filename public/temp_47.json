@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "contrefaire",
+    "présent": {
+      "je": "contrefais",
+      "tu": "contrefais",
+      "il": "contrefait",
+      "nous": "contrefaisons",
+      "vous": "contrefaites",
+      "ils": "contrefont"
+    },
+    "passé_composé": {
+      "je": "ai contrefait",
+      "tu": "as contrefait",
+      "il": "a contrefait",
+      "nous": "avons contrefait",
+      "vous": "avez contrefait",
+      "ils": "ont contrefait"
+    },
+    "imparfait": {
+      "je": "contrefaisais",
+      "tu": "contrefaisais",
+      "il": "contrefaisait",
+      "nous": "contrefaisions",
+      "vous": "contrefaisiez",
+      "ils": "contrefaisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais contrefait",
+      "tu": "avais contrefait",
+      "il": "avait contrefait",
+      "nous": "avions contrefait",
+      "vous": "aviez contrefait",
+      "ils": "avaient contrefait"
+    },
+    "passé_simple": {
+      "je": "contrefis",
+      "tu": "contrefis",
+      "il": "contrefit",
+      "nous": "contrefîmes",
+      "vous": "contrefîtes",
+      "ils": "contrefirent"
+    },
+    "passé_antérieur": {
+      "je": "eus contrefait",
+      "tu": "eus contrefait",
+      "il": "eut contrefait",
+      "nous": "eûmes contrefait",
+      "vous": "eûtes contrefait",
+      "ils": "eurent contrefait"
+    },
+    "futur_simple": {
+      "je": "contreferai",
+      "tu": "contreferas",
+      "il": "contrefera",
+      "nous": "contreferons",
+      "vous": "contreferez",
+      "ils": "contreferont"
+    },
+    "futur_antérieur": {
+      "je": "aurai contrefait",
+      "tu": "auras contrefait",
+      "il": "aura contrefait",
+      "nous": "aurons contrefait",
+      "vous": "aurez contrefait",
+      "ils": "auront contrefait"
+    },
+    "subjonctif_présent": {
+      "je": "contrefasse",
+      "tu": "contrefasses",
+      "il": "contrefasse",
+      "nous": "contrefassions",
+      "vous": "contrefassiez",
+      "ils": "contrefassent"
+    },
+    "subjonctif_passé": {
+      "je": "aie contrefait",
+      "tu": "aies contrefait",
+      "il": "ait contrefait",
+      "nous": "ayons contrefait",
+      "vous": "ayez contrefait",
+      "ils": "aient contrefait"
+    },
+    "subjonctif_imparfait": {
+      "je": "contrefisse",
+      "tu": "contrefisses",
+      "il": "contrefît",
+      "nous": "contrefissions",
+      "vous": "contrefissiez",
+      "ils": "contrefissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse contrefait",
+      "tu": "eusses contrefait",
+      "il": "eût contrefait",
+      "nous": "eussions contrefait",
+      "vous": "eussiez contrefait",
+      "ils": "eussent contrefait"
+    },
+    "conditionnel_présent": {
+      "je": "contreferais",
+      "tu": "contreferais",
+      "il": "contreferait",
+      "nous": "contreferions",
+      "vous": "contreferiez",
+      "ils": "contreferaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais contrefait",
+      "tu": "aurais contrefait",
+      "il": "aurait contrefait",
+      "nous": "aurions contrefait",
+      "vous": "auriez contrefait",
+      "ils": "auraient contrefait"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse contrefait",
+      "tu": "eusses contrefait",
+      "il": "eût contrefait",
+      "nous": "eussions contrefait",
+      "vous": "eussiez contrefait",
+      "ils": "eussent contrefait"
+    },
+    "translation": "podrabiać",
+    "group": 3
+  },
+  {
+    "infinitive": "contrer",
+    "présent": {
+      "je": "contre",
+      "tu": "contres",
+      "il": "contre",
+      "nous": "controns",
+      "vous": "contrez",
+      "ils": "contrent"
+    },
+    "passé_composé": {
+      "je": "ai contré",
+      "tu": "as contré",
+      "il": "a contré",
+      "nous": "avons contré",
+      "vous": "avez contré",
+      "ils": "ont contré"
+    },
+    "imparfait": {
+      "je": "contrais",
+      "tu": "contrais",
+      "il": "contrait",
+      "nous": "contrions",
+      "vous": "contriez",
+      "ils": "contraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais contré",
+      "tu": "avais contré",
+      "il": "avait contré",
+      "nous": "avions contré",
+      "vous": "aviez contré",
+      "ils": "avaient contré"
+    },
+    "passé_simple": {
+      "je": "contrai",
+      "tu": "contras",
+      "il": "contra",
+      "nous": "contrâmes",
+      "vous": "contrâtes",
+      "ils": "contrèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus contré",
+      "tu": "eus contré",
+      "il": "eut contré",
+      "nous": "eûmes contré",
+      "vous": "eûtes contré",
+      "ils": "eurent contré"
+    },
+    "futur_simple": {
+      "je": "contrerai",
+      "tu": "contreras",
+      "il": "contrera",
+      "nous": "contrerons",
+      "vous": "contrerez",
+      "ils": "contreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai contré",
+      "tu": "auras contré",
+      "il": "aura contré",
+      "nous": "aurons contré",
+      "vous": "aurez contré",
+      "ils": "auront contré"
+    },
+    "subjonctif_présent": {
+      "je": "contre",
+      "tu": "contres",
+      "il": "contre",
+      "nous": "contrions",
+      "vous": "contriez",
+      "ils": "contrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie contré",
+      "tu": "aies contré",
+      "il": "ait contré",
+      "nous": "ayons contré",
+      "vous": "ayez contré",
+      "ils": "aient contré"
+    },
+    "subjonctif_imparfait": {
+      "je": "contrasse",
+      "tu": "contrasses",
+      "il": "contrât",
+      "nous": "contrassions",
+      "vous": "contrassiez",
+      "ils": "contrassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse contré",
+      "tu": "eusses contré",
+      "il": "eût contré",
+      "nous": "eussions contré",
+      "vous": "eussiez contré",
+      "ils": "eussent contré"
+    },
+    "conditionnel_présent": {
+      "je": "contrerais",
+      "tu": "contrerais",
+      "il": "contrerait",
+      "nous": "contrerions",
+      "vous": "contreriez",
+      "ils": "contreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais contré",
+      "tu": "aurais contré",
+      "il": "aurait contré",
+      "nous": "aurions contré",
+      "vous": "auriez contré",
+      "ils": "auraient contré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse contré",
+      "tu": "eusses contré",
+      "il": "eût contré",
+      "nous": "eussions contré",
+      "vous": "eussiez contré",
+      "ils": "eussent contré"
+    },
+    "translation": "działać",
+    "group": 1
+  },
+  {
+    "infinitive": "contrevenir",
+    "présent": {
+      "je": "contreviens",
+      "tu": "contreviens",
+      "il": "contrevient",
+      "nous": "contrevenons",
+      "vous": "contrevenez",
+      "ils": "contreviennent"
+    },
+    "passé_composé": {
+      "je": "ai contrevenu",
+      "tu": "as contrevenu",
+      "il": "a contrevenu",
+      "nous": "avons contrevenu",
+      "vous": "avez contrevenu",
+      "ils": "ont contrevenu"
+    },
+    "imparfait": {
+      "je": "contrevenais",
+      "tu": "contrevenais",
+      "il": "contrevenait",
+      "nous": "contrevenions",
+      "vous": "contreveniez",
+      "ils": "contrevenaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais contrevenu",
+      "tu": "avais contrevenu",
+      "il": "avait contrevenu",
+      "nous": "avions contrevenu",
+      "vous": "aviez contrevenu",
+      "ils": "avaient contrevenu"
+    },
+    "passé_simple": {
+      "je": "contrevins",
+      "tu": "contrevins",
+      "il": "contrevint",
+      "nous": "contrevînmes",
+      "vous": "contrevîntes",
+      "ils": "contrevinrent"
+    },
+    "passé_antérieur": {
+      "je": "eus contrevenu",
+      "tu": "eus contrevenu",
+      "il": "eut contrevenu",
+      "nous": "eûmes contrevenu",
+      "vous": "eûtes contrevenu",
+      "ils": "eurent contrevenu"
+    },
+    "futur_simple": {
+      "je": "contreviendrai",
+      "tu": "contreviendras",
+      "il": "contreviendra",
+      "nous": "contreviendrons",
+      "vous": "contreviendrez",
+      "ils": "contreviendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai contrevenu",
+      "tu": "auras contrevenu",
+      "il": "aura contrevenu",
+      "nous": "aurons contrevenu",
+      "vous": "aurez contrevenu",
+      "ils": "auront contrevenu"
+    },
+    "subjonctif_présent": {
+      "je": "contrevienne",
+      "tu": "contreviennes",
+      "il": "contrevienne",
+      "nous": "contrevenions",
+      "vous": "contreveniez",
+      "ils": "contreviennent"
+    },
+    "subjonctif_passé": {
+      "je": "aie contrevenu",
+      "tu": "aies contrevenu",
+      "il": "ait contrevenu",
+      "nous": "ayons contrevenu",
+      "vous": "ayez contrevenu",
+      "ils": "aient contrevenu"
+    },
+    "subjonctif_imparfait": {
+      "je": "contrevinsse",
+      "tu": "contrevinsses",
+      "il": "contrevînt",
+      "nous": "contrevinssions",
+      "vous": "contrevinssiez",
+      "ils": "contrevinssent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse contrevenu",
+      "tu": "eusses contrevenu",
+      "il": "eût contrevenu",
+      "nous": "eussions contrevenu",
+      "vous": "eussiez contrevenu",
+      "ils": "eussent contrevenu"
+    },
+    "conditionnel_présent": {
+      "je": "contreviendrais",
+      "tu": "contreviendrais",
+      "il": "contreviendrait",
+      "nous": "contreviendrions",
+      "vous": "contreviendriez",
+      "ils": "contreviendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais contrevenu",
+      "tu": "aurais contrevenu",
+      "il": "aurait contrevenu",
+      "nous": "aurions contrevenu",
+      "vous": "auriez contrevenu",
+      "ils": "auraient contrevenu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse contrevenu",
+      "tu": "eusses contrevenu",
+      "il": "eût contrevenu",
+      "nous": "eussions contrevenu",
+      "vous": "eussiez contrevenu",
+      "ils": "eussent contrevenu"
+    },
+    "translation": "zawierać",
+    "group": 3
+  },
+  {
+    "infinitive": "contribuer",
+    "présent": {
+      "je": "contribue",
+      "tu": "contribues",
+      "il": "contribue",
+      "nous": "contribuons",
+      "vous": "contribuez",
+      "ils": "contribuent"
+    },
+    "passé_composé": {
+      "je": "ai contribué",
+      "tu": "as contribué",
+      "il": "a contribué",
+      "nous": "avons contribué",
+      "vous": "avez contribué",
+      "ils": "ont contribué"
+    },
+    "imparfait": {
+      "je": "contribuais",
+      "tu": "contribuais",
+      "il": "contribuait",
+      "nous": "contribuions",
+      "vous": "contribuiez",
+      "ils": "contribuaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais contribué",
+      "tu": "avais contribué",
+      "il": "avait contribué",
+      "nous": "avions contribué",
+      "vous": "aviez contribué",
+      "ils": "avaient contribué"
+    },
+    "passé_simple": {
+      "je": "contribuai",
+      "tu": "contribuas",
+      "il": "contribua",
+      "nous": "contribuâmes",
+      "vous": "contribuâtes",
+      "ils": "contribuèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus contribué",
+      "tu": "eus contribué",
+      "il": "eut contribué",
+      "nous": "eûmes contribué",
+      "vous": "eûtes contribué",
+      "ils": "eurent contribué"
+    },
+    "futur_simple": {
+      "je": "contribuerai",
+      "tu": "contribueras",
+      "il": "contribuera",
+      "nous": "contribuerons",
+      "vous": "contribuerez",
+      "ils": "contribueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai contribué",
+      "tu": "auras contribué",
+      "il": "aura contribué",
+      "nous": "aurons contribué",
+      "vous": "aurez contribué",
+      "ils": "auront contribué"
+    },
+    "subjonctif_présent": {
+      "je": "contribue",
+      "tu": "contribues",
+      "il": "contribue",
+      "nous": "contribuions",
+      "vous": "contribuiez",
+      "ils": "contribuent"
+    },
+    "subjonctif_passé": {
+      "je": "aie contribué",
+      "tu": "aies contribué",
+      "il": "ait contribué",
+      "nous": "ayons contribué",
+      "vous": "ayez contribué",
+      "ils": "aient contribué"
+    },
+    "subjonctif_imparfait": {
+      "je": "contribuasse",
+      "tu": "contribuasses",
+      "il": "contribuât",
+      "nous": "contribuassions",
+      "vous": "contribuassiez",
+      "ils": "contribuassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse contribué",
+      "tu": "eusses contribué",
+      "il": "eût contribué",
+      "nous": "eussions contribué",
+      "vous": "eussiez contribué",
+      "ils": "eussent contribué"
+    },
+    "conditionnel_présent": {
+      "je": "contribuerais",
+      "tu": "contribuerais",
+      "il": "contribuerait",
+      "nous": "contribuerions",
+      "vous": "contribueriez",
+      "ils": "contribueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais contribué",
+      "tu": "aurais contribué",
+      "il": "aurait contribué",
+      "nous": "aurions contribué",
+      "vous": "auriez contribué",
+      "ils": "auraient contribué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse contribué",
+      "tu": "eusses contribué",
+      "il": "eût contribué",
+      "nous": "eussions contribué",
+      "vous": "eussiez contribué",
+      "ils": "eussent contribué"
+    },
+    "translation": "przyczyniać",
+    "group": 1
+  },
+  {
+    "infinitive": "contrôler",
+    "présent": {
+      "je": "contrôle",
+      "tu": "contrôles",
+      "il": "contrôle",
+      "nous": "contrôlons",
+      "vous": "contrôlez",
+      "ils": "contrôlent"
+    },
+    "passé_composé": {
+      "je": "ai contrôlé",
+      "tu": "as contrôlé",
+      "il": "a contrôlé",
+      "nous": "avons contrôlé",
+      "vous": "avez contrôlé",
+      "ils": "ont contrôlé"
+    },
+    "imparfait": {
+      "je": "contrôlais",
+      "tu": "contrôlais",
+      "il": "contrôlait",
+      "nous": "contrôlions",
+      "vous": "contrôliez",
+      "ils": "contrôlaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais contrôlé",
+      "tu": "avais contrôlé",
+      "il": "avait contrôlé",
+      "nous": "avions contrôlé",
+      "vous": "aviez contrôlé",
+      "ils": "avaient contrôlé"
+    },
+    "passé_simple": {
+      "je": "contrôlai",
+      "tu": "contrôlas",
+      "il": "contrôla",
+      "nous": "contrôlâmes",
+      "vous": "contrôlâtes",
+      "ils": "contrôlèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus contrôlé",
+      "tu": "eus contrôlé",
+      "il": "eut contrôlé",
+      "nous": "eûmes contrôlé",
+      "vous": "eûtes contrôlé",
+      "ils": "eurent contrôlé"
+    },
+    "futur_simple": {
+      "je": "contrôlerai",
+      "tu": "contrôleras",
+      "il": "contrôlera",
+      "nous": "contrôlerons",
+      "vous": "contrôlerez",
+      "ils": "contrôleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai contrôlé",
+      "tu": "auras contrôlé",
+      "il": "aura contrôlé",
+      "nous": "aurons contrôlé",
+      "vous": "aurez contrôlé",
+      "ils": "auront contrôlé"
+    },
+    "subjonctif_présent": {
+      "je": "contrôle",
+      "tu": "contrôles",
+      "il": "contrôle",
+      "nous": "contrôlions",
+      "vous": "contrôliez",
+      "ils": "contrôlent"
+    },
+    "subjonctif_passé": {
+      "je": "aie contrôlé",
+      "tu": "aies contrôlé",
+      "il": "ait contrôlé",
+      "nous": "ayons contrôlé",
+      "vous": "ayez contrôlé",
+      "ils": "aient contrôlé"
+    },
+    "subjonctif_imparfait": {
+      "je": "contrôlasse",
+      "tu": "contrôlasses",
+      "il": "contrôlât",
+      "nous": "contrôlassions",
+      "vous": "contrôlassiez",
+      "ils": "contrôlassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse contrôlé",
+      "tu": "eusses contrôlé",
+      "il": "eût contrôlé",
+      "nous": "eussions contrôlé",
+      "vous": "eussiez contrôlé",
+      "ils": "eussent contrôlé"
+    },
+    "conditionnel_présent": {
+      "je": "contrôlerais",
+      "tu": "contrôlerais",
+      "il": "contrôlerait",
+      "nous": "contrôlerions",
+      "vous": "contrôleriez",
+      "ils": "contrôleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais contrôlé",
+      "tu": "aurais contrôlé",
+      "il": "aurait contrôlé",
+      "nous": "aurions contrôlé",
+      "vous": "auriez contrôlé",
+      "ils": "auraient contrôlé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse contrôlé",
+      "tu": "eusses contrôlé",
+      "il": "eût contrôlé",
+      "nous": "eussions contrôlé",
+      "vous": "eussiez contrôlé",
+      "ils": "eussent contrôlé"
+    },
+    "translation": "sprawdzać",
+    "group": 1
+  },
+  {
+    "infinitive": "convaincre",
+    "présent": {
+      "je": "convaincs",
+      "tu": "convaincs",
+      "il": "convainc",
+      "nous": "convainquons",
+      "vous": "convainquez",
+      "ils": "convainquent"
+    },
+    "passé_composé": {
+      "je": "ai convaincu",
+      "tu": "as convaincu",
+      "il": "a convaincu",
+      "nous": "avons convaincu",
+      "vous": "avez convaincu",
+      "ils": "ont convaincu"
+    },
+    "imparfait": {
+      "je": "convainquais",
+      "tu": "convainquais",
+      "il": "convainquait",
+      "nous": "convainquions",
+      "vous": "convainquiez",
+      "ils": "convainquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais convaincu",
+      "tu": "avais convaincu",
+      "il": "avait convaincu",
+      "nous": "avions convaincu",
+      "vous": "aviez convaincu",
+      "ils": "avaient convaincu"
+    },
+    "passé_simple": {
+      "je": "convainquis",
+      "tu": "convainquis",
+      "il": "convainquit",
+      "nous": "convainquîmes",
+      "vous": "convainquîtes",
+      "ils": "convainquirent"
+    },
+    "passé_antérieur": {
+      "je": "eus convaincu",
+      "tu": "eus convaincu",
+      "il": "eut convaincu",
+      "nous": "eûmes convaincu",
+      "vous": "eûtes convaincu",
+      "ils": "eurent convaincu"
+    },
+    "futur_simple": {
+      "je": "convaincrai",
+      "tu": "convaincras",
+      "il": "convaincra",
+      "nous": "convaincrons",
+      "vous": "convaincrez",
+      "ils": "convaincront"
+    },
+    "futur_antérieur": {
+      "je": "aurai convaincu",
+      "tu": "auras convaincu",
+      "il": "aura convaincu",
+      "nous": "aurons convaincu",
+      "vous": "aurez convaincu",
+      "ils": "auront convaincu"
+    },
+    "subjonctif_présent": {
+      "je": "convainque",
+      "tu": "convainques",
+      "il": "convainque",
+      "nous": "convainquions",
+      "vous": "convainquiez",
+      "ils": "convainquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie convaincu",
+      "tu": "aies convaincu",
+      "il": "ait convaincu",
+      "nous": "ayons convaincu",
+      "vous": "ayez convaincu",
+      "ils": "aient convaincu"
+    },
+    "subjonctif_imparfait": {
+      "je": "convainquisse",
+      "tu": "convainquisses",
+      "il": "convainquît",
+      "nous": "convainquissions",
+      "vous": "convainquissiez",
+      "ils": "convainquissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse convaincu",
+      "tu": "eusses convaincu",
+      "il": "eût convaincu",
+      "nous": "eussions convaincu",
+      "vous": "eussiez convaincu",
+      "ils": "eussent convaincu"
+    },
+    "conditionnel_présent": {
+      "je": "convaincrais",
+      "tu": "convaincrais",
+      "il": "convaincrait",
+      "nous": "convaincrions",
+      "vous": "convaincriez",
+      "ils": "convaincraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais convaincu",
+      "tu": "aurais convaincu",
+      "il": "aurait convaincu",
+      "nous": "aurions convaincu",
+      "vous": "auriez convaincu",
+      "ils": "auraient convaincu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse convaincu",
+      "tu": "eusses convaincu",
+      "il": "eût convaincu",
+      "nous": "eussions convaincu",
+      "vous": "eussiez convaincu",
+      "ils": "eussent convaincu"
+    },
+    "translation": "przekonywać",
+    "group": 3
+  },
+  {
+    "infinitive": "convenir",
+    "présent": {
+      "je": "conviens",
+      "tu": "conviens",
+      "il": "convient",
+      "nous": "convenons",
+      "vous": "convenez",
+      "ils": "conviennent"
+    },
+    "passé_composé": {
+      "je": "ai convenu",
+      "tu": "as convenu",
+      "il": "a convenu",
+      "nous": "avons convenu",
+      "vous": "avez convenu",
+      "ils": "ont convenu"
+    },
+    "imparfait": {
+      "je": "convenais",
+      "tu": "convenais",
+      "il": "convenait",
+      "nous": "convenions",
+      "vous": "conveniez",
+      "ils": "convenaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais convenu",
+      "tu": "avais convenu",
+      "il": "avait convenu",
+      "nous": "avions convenu",
+      "vous": "aviez convenu",
+      "ils": "avaient convenu"
+    },
+    "passé_simple": {
+      "je": "convins",
+      "tu": "convins",
+      "il": "convint",
+      "nous": "convînmes",
+      "vous": "convîntes",
+      "ils": "convinrent"
+    },
+    "passé_antérieur": {
+      "je": "eus convenu",
+      "tu": "eus convenu",
+      "il": "eut convenu",
+      "nous": "eûmes convenu",
+      "vous": "eûtes convenu",
+      "ils": "eurent convenu"
+    },
+    "futur_simple": {
+      "je": "conviendrai",
+      "tu": "conviendras",
+      "il": "conviendra",
+      "nous": "conviendrons",
+      "vous": "conviendrez",
+      "ils": "conviendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai convenu",
+      "tu": "auras convenu",
+      "il": "aura convenu",
+      "nous": "aurons convenu",
+      "vous": "aurez convenu",
+      "ils": "auront convenu"
+    },
+    "subjonctif_présent": {
+      "je": "convienne",
+      "tu": "conviennes",
+      "il": "convienne",
+      "nous": "convenions",
+      "vous": "conveniez",
+      "ils": "conviennent"
+    },
+    "subjonctif_passé": {
+      "je": "aie convenu",
+      "tu": "aies convenu",
+      "il": "ait convenu",
+      "nous": "ayons convenu",
+      "vous": "ayez convenu",
+      "ils": "aient convenu"
+    },
+    "subjonctif_imparfait": {
+      "je": "convinsse",
+      "tu": "convinsses",
+      "il": "convînt",
+      "nous": "convinssions",
+      "vous": "convinssiez",
+      "ils": "convinssent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse convenu",
+      "tu": "eusses convenu",
+      "il": "eût convenu",
+      "nous": "eussions convenu",
+      "vous": "eussiez convenu",
+      "ils": "eussent convenu"
+    },
+    "conditionnel_présent": {
+      "je": "conviendrais",
+      "tu": "conviendrais",
+      "il": "conviendrait",
+      "nous": "conviendrions",
+      "vous": "conviendriez",
+      "ils": "conviendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais convenu",
+      "tu": "aurais convenu",
+      "il": "aurait convenu",
+      "nous": "aurions convenu",
+      "vous": "auriez convenu",
+      "ils": "auraient convenu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse convenu",
+      "tu": "eusses convenu",
+      "il": "eût convenu",
+      "nous": "eussions convenu",
+      "vous": "eussiez convenu",
+      "ils": "eussent convenu"
+    },
+    "translation": "pasować",
+    "group": 3
+  },
+  {
+    "infinitive": "convertir",
+    "présent": {
+      "je": "convertis",
+      "tu": "convertis",
+      "il": "convertit",
+      "nous": "convertissons",
+      "vous": "convertissez",
+      "ils": "convertissent"
+    },
+    "passé_composé": {
+      "je": "ai converti",
+      "tu": "as converti",
+      "il": "a converti",
+      "nous": "avons converti",
+      "vous": "avez converti",
+      "ils": "ont converti"
+    },
+    "imparfait": {
+      "je": "convertissais",
+      "tu": "convertissais",
+      "il": "convertissait",
+      "nous": "convertissions",
+      "vous": "convertissiez",
+      "ils": "convertissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais converti",
+      "tu": "avais converti",
+      "il": "avait converti",
+      "nous": "avions converti",
+      "vous": "aviez converti",
+      "ils": "avaient converti"
+    },
+    "passé_simple": {
+      "je": "convertis",
+      "tu": "convertis",
+      "il": "convertit",
+      "nous": "convertîmes",
+      "vous": "convertîtes",
+      "ils": "convertirent"
+    },
+    "passé_antérieur": {
+      "je": "eus converti",
+      "tu": "eus converti",
+      "il": "eut converti",
+      "nous": "eûmes converti",
+      "vous": "eûtes converti",
+      "ils": "eurent converti"
+    },
+    "futur_simple": {
+      "je": "convertirai",
+      "tu": "convertiras",
+      "il": "convertira",
+      "nous": "convertirons",
+      "vous": "convertirez",
+      "ils": "convertiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai converti",
+      "tu": "auras converti",
+      "il": "aura converti",
+      "nous": "aurons converti",
+      "vous": "aurez converti",
+      "ils": "auront converti"
+    },
+    "subjonctif_présent": {
+      "je": "convertisse",
+      "tu": "convertisses",
+      "il": "convertisse",
+      "nous": "convertissions",
+      "vous": "convertissiez",
+      "ils": "convertissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie converti",
+      "tu": "aies converti",
+      "il": "ait converti",
+      "nous": "ayons converti",
+      "vous": "ayez converti",
+      "ils": "aient converti"
+    },
+    "subjonctif_imparfait": {
+      "je": "convertisse",
+      "tu": "convertisses",
+      "il": "convertît",
+      "nous": "convertissions",
+      "vous": "convertissiez",
+      "ils": "convertissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse converti",
+      "tu": "eusses converti",
+      "il": "eût converti",
+      "nous": "eussions converti",
+      "vous": "eussiez converti",
+      "ils": "eussent converti"
+    },
+    "conditionnel_présent": {
+      "je": "convertirais",
+      "tu": "convertirais",
+      "il": "convertirait",
+      "nous": "convertirions",
+      "vous": "convertiriez",
+      "ils": "convertiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais converti",
+      "tu": "aurais converti",
+      "il": "aurait converti",
+      "nous": "aurions converti",
+      "vous": "auriez converti",
+      "ils": "auraient converti"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse converti",
+      "tu": "eusses converti",
+      "il": "eût converti",
+      "nous": "eussions converti",
+      "vous": "eussiez converti",
+      "ils": "eussent converti"
+    },
+    "translation": "nawracać",
+    "group": 2
+  },
+  {
+    "infinitive": "convier",
+    "présent": {
+      "je": "convie",
+      "tu": "convies",
+      "il": "convie",
+      "nous": "convions",
+      "vous": "conviez",
+      "ils": "convient"
+    },
+    "passé_composé": {
+      "je": "ai convié",
+      "tu": "as convié",
+      "il": "a convié",
+      "nous": "avons convié",
+      "vous": "avez convié",
+      "ils": "ont convié"
+    },
+    "imparfait": {
+      "je": "conviais",
+      "tu": "conviais",
+      "il": "conviait",
+      "nous": "conviions",
+      "vous": "conviiez",
+      "ils": "conviaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais convié",
+      "tu": "avais convié",
+      "il": "avait convié",
+      "nous": "avions convié",
+      "vous": "aviez convié",
+      "ils": "avaient convié"
+    },
+    "passé_simple": {
+      "je": "conviai",
+      "tu": "convias",
+      "il": "convia",
+      "nous": "conviâmes",
+      "vous": "conviâtes",
+      "ils": "convièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus convié",
+      "tu": "eus convié",
+      "il": "eut convié",
+      "nous": "eûmes convié",
+      "vous": "eûtes convié",
+      "ils": "eurent convié"
+    },
+    "futur_simple": {
+      "je": "convierai",
+      "tu": "convieras",
+      "il": "conviera",
+      "nous": "convierons",
+      "vous": "convierez",
+      "ils": "convieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai convié",
+      "tu": "auras convié",
+      "il": "aura convié",
+      "nous": "aurons convié",
+      "vous": "aurez convié",
+      "ils": "auront convié"
+    },
+    "subjonctif_présent": {
+      "je": "convie",
+      "tu": "convies",
+      "il": "convie",
+      "nous": "conviions",
+      "vous": "conviiez",
+      "ils": "convient"
+    },
+    "subjonctif_passé": {
+      "je": "aie convié",
+      "tu": "aies convié",
+      "il": "ait convié",
+      "nous": "ayons convié",
+      "vous": "ayez convié",
+      "ils": "aient convié"
+    },
+    "subjonctif_imparfait": {
+      "je": "conviasse",
+      "tu": "conviasses",
+      "il": "conviât",
+      "nous": "conviassions",
+      "vous": "conviassiez",
+      "ils": "conviassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse convié",
+      "tu": "eusses convié",
+      "il": "eût convié",
+      "nous": "eussions convié",
+      "vous": "eussiez convié",
+      "ils": "eussent convié"
+    },
+    "conditionnel_présent": {
+      "je": "convierais",
+      "tu": "convierais",
+      "il": "convierait",
+      "nous": "convierions",
+      "vous": "convieriez",
+      "ils": "convieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais convié",
+      "tu": "aurais convié",
+      "il": "aurait convié",
+      "nous": "aurions convié",
+      "vous": "auriez convié",
+      "ils": "auraient convié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse convié",
+      "tu": "eusses convié",
+      "il": "eût convié",
+      "nous": "eussions convié",
+      "vous": "eussiez convié",
+      "ils": "eussent convié"
+    },
+    "translation": "prosić",
+    "group": 1
+  },
+  {
+    "infinitive": "convoiter",
+    "présent": {
+      "je": "convoite",
+      "tu": "convoites",
+      "il": "convoite",
+      "nous": "convoitons",
+      "vous": "convoitez",
+      "ils": "convoitent"
+    },
+    "passé_composé": {
+      "je": "ai convoité",
+      "tu": "as convoité",
+      "il": "a convoité",
+      "nous": "avons convoité",
+      "vous": "avez convoité",
+      "ils": "ont convoité"
+    },
+    "imparfait": {
+      "je": "convoitais",
+      "tu": "convoitais",
+      "il": "convoitait",
+      "nous": "convoitions",
+      "vous": "convoitiez",
+      "ils": "convoitaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais convoité",
+      "tu": "avais convoité",
+      "il": "avait convoité",
+      "nous": "avions convoité",
+      "vous": "aviez convoité",
+      "ils": "avaient convoité"
+    },
+    "passé_simple": {
+      "je": "convoitai",
+      "tu": "convoitas",
+      "il": "convoita",
+      "nous": "convoitâmes",
+      "vous": "convoitâtes",
+      "ils": "convoitèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus convoité",
+      "tu": "eus convoité",
+      "il": "eut convoité",
+      "nous": "eûmes convoité",
+      "vous": "eûtes convoité",
+      "ils": "eurent convoité"
+    },
+    "futur_simple": {
+      "je": "convoiterai",
+      "tu": "convoiteras",
+      "il": "convoitera",
+      "nous": "convoiterons",
+      "vous": "convoiterez",
+      "ils": "convoiteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai convoité",
+      "tu": "auras convoité",
+      "il": "aura convoité",
+      "nous": "aurons convoité",
+      "vous": "aurez convoité",
+      "ils": "auront convoité"
+    },
+    "subjonctif_présent": {
+      "je": "convoite",
+      "tu": "convoites",
+      "il": "convoite",
+      "nous": "convoitions",
+      "vous": "convoitiez",
+      "ils": "convoitent"
+    },
+    "subjonctif_passé": {
+      "je": "aie convoité",
+      "tu": "aies convoité",
+      "il": "ait convoité",
+      "nous": "ayons convoité",
+      "vous": "ayez convoité",
+      "ils": "aient convoité"
+    },
+    "subjonctif_imparfait": {
+      "je": "convoitasse",
+      "tu": "convoitasses",
+      "il": "convoitât",
+      "nous": "convoitassions",
+      "vous": "convoitassiez",
+      "ils": "convoitassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse convoité",
+      "tu": "eusses convoité",
+      "il": "eût convoité",
+      "nous": "eussions convoité",
+      "vous": "eussiez convoité",
+      "ils": "eussent convoité"
+    },
+    "conditionnel_présent": {
+      "je": "convoiterais",
+      "tu": "convoiterais",
+      "il": "convoiterait",
+      "nous": "convoiterions",
+      "vous": "convoiteriez",
+      "ils": "convoiteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais convoité",
+      "tu": "aurais convoité",
+      "il": "aurait convoité",
+      "nous": "aurions convoité",
+      "vous": "auriez convoité",
+      "ils": "auraient convoité"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse convoité",
+      "tu": "eusses convoité",
+      "il": "eût convoité",
+      "nous": "eussions convoité",
+      "vous": "eussiez convoité",
+      "ils": "eussent convoité"
+    },
+    "translation": "pożądać",
+    "group": 1
+  }
+]

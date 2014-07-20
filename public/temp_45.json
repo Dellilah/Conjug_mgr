@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "consentir",
+    "présent": {
+      "je": "consens",
+      "tu": "consens",
+      "il": "consent",
+      "nous": "consentons",
+      "vous": "consentez",
+      "ils": "consentent"
+    },
+    "passé_composé": {
+      "je": "ai consenti",
+      "tu": "as consenti",
+      "il": "a consenti",
+      "nous": "avons consenti",
+      "vous": "avez consenti",
+      "ils": "ont consenti"
+    },
+    "imparfait": {
+      "je": "consentais",
+      "tu": "consentais",
+      "il": "consentait",
+      "nous": "consentions",
+      "vous": "consentiez",
+      "ils": "consentaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais consenti",
+      "tu": "avais consenti",
+      "il": "avait consenti",
+      "nous": "avions consenti",
+      "vous": "aviez consenti",
+      "ils": "avaient consenti"
+    },
+    "passé_simple": {
+      "je": "consentis",
+      "tu": "consentis",
+      "il": "consentit",
+      "nous": "consentîmes",
+      "vous": "consentîtes",
+      "ils": "consentirent"
+    },
+    "passé_antérieur": {
+      "je": "eus consenti",
+      "tu": "eus consenti",
+      "il": "eut consenti",
+      "nous": "eûmes consenti",
+      "vous": "eûtes consenti",
+      "ils": "eurent consenti"
+    },
+    "futur_simple": {
+      "je": "consentirai",
+      "tu": "consentiras",
+      "il": "consentira",
+      "nous": "consentirons",
+      "vous": "consentirez",
+      "ils": "consentiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai consenti",
+      "tu": "auras consenti",
+      "il": "aura consenti",
+      "nous": "aurons consenti",
+      "vous": "aurez consenti",
+      "ils": "auront consenti"
+    },
+    "subjonctif_présent": {
+      "je": "consente",
+      "tu": "consentes",
+      "il": "consente",
+      "nous": "consentions",
+      "vous": "consentiez",
+      "ils": "consentent"
+    },
+    "subjonctif_passé": {
+      "je": "aie consenti",
+      "tu": "aies consenti",
+      "il": "ait consenti",
+      "nous": "ayons consenti",
+      "vous": "ayez consenti",
+      "ils": "aient consenti"
+    },
+    "subjonctif_imparfait": {
+      "je": "consentisse",
+      "tu": "consentisses",
+      "il": "consentît",
+      "nous": "consentissions",
+      "vous": "consentissiez",
+      "ils": "consentissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse consenti",
+      "tu": "eusses consenti",
+      "il": "eût consenti",
+      "nous": "eussions consenti",
+      "vous": "eussiez consenti",
+      "ils": "eussent consenti"
+    },
+    "conditionnel_présent": {
+      "je": "consentirais",
+      "tu": "consentirais",
+      "il": "consentirait",
+      "nous": "consentirions",
+      "vous": "consentiriez",
+      "ils": "consentiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais consenti",
+      "tu": "aurais consenti",
+      "il": "aurait consenti",
+      "nous": "aurions consenti",
+      "vous": "auriez consenti",
+      "ils": "auraient consenti"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse consenti",
+      "tu": "eusses consenti",
+      "il": "eût consenti",
+      "nous": "eussions consenti",
+      "vous": "eussiez consenti",
+      "ils": "eussent consenti"
+    },
+    "translation": "przyzwalać",
+    "group": 3
+  },
+  {
+    "infinitive": "conserver",
+    "présent": {
+      "je": "conserve",
+      "tu": "conserves",
+      "il": "conserve",
+      "nous": "conservons",
+      "vous": "conservez",
+      "ils": "conservent"
+    },
+    "passé_composé": {
+      "je": "ai conservé",
+      "tu": "as conservé",
+      "il": "a conservé",
+      "nous": "avons conservé",
+      "vous": "avez conservé",
+      "ils": "ont conservé"
+    },
+    "imparfait": {
+      "je": "conservais",
+      "tu": "conservais",
+      "il": "conservait",
+      "nous": "conservions",
+      "vous": "conserviez",
+      "ils": "conservaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais conservé",
+      "tu": "avais conservé",
+      "il": "avait conservé",
+      "nous": "avions conservé",
+      "vous": "aviez conservé",
+      "ils": "avaient conservé"
+    },
+    "passé_simple": {
+      "je": "conservai",
+      "tu": "conservas",
+      "il": "conserva",
+      "nous": "conservâmes",
+      "vous": "conservâtes",
+      "ils": "conservèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus conservé",
+      "tu": "eus conservé",
+      "il": "eut conservé",
+      "nous": "eûmes conservé",
+      "vous": "eûtes conservé",
+      "ils": "eurent conservé"
+    },
+    "futur_simple": {
+      "je": "conserverai",
+      "tu": "conserveras",
+      "il": "conservera",
+      "nous": "conserverons",
+      "vous": "conserverez",
+      "ils": "conserveront"
+    },
+    "futur_antérieur": {
+      "je": "aurai conservé",
+      "tu": "auras conservé",
+      "il": "aura conservé",
+      "nous": "aurons conservé",
+      "vous": "aurez conservé",
+      "ils": "auront conservé"
+    },
+    "subjonctif_présent": {
+      "je": "conserve",
+      "tu": "conserves",
+      "il": "conserve",
+      "nous": "conservions",
+      "vous": "conserviez",
+      "ils": "conservent"
+    },
+    "subjonctif_passé": {
+      "je": "aie conservé",
+      "tu": "aies conservé",
+      "il": "ait conservé",
+      "nous": "ayons conservé",
+      "vous": "ayez conservé",
+      "ils": "aient conservé"
+    },
+    "subjonctif_imparfait": {
+      "je": "conservasse",
+      "tu": "conservasses",
+      "il": "conservât",
+      "nous": "conservassions",
+      "vous": "conservassiez",
+      "ils": "conservassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse conservé",
+      "tu": "eusses conservé",
+      "il": "eût conservé",
+      "nous": "eussions conservé",
+      "vous": "eussiez conservé",
+      "ils": "eussent conservé"
+    },
+    "conditionnel_présent": {
+      "je": "conserverais",
+      "tu": "conserverais",
+      "il": "conserverait",
+      "nous": "conserverions",
+      "vous": "conserveriez",
+      "ils": "conserveraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais conservé",
+      "tu": "aurais conservé",
+      "il": "aurait conservé",
+      "nous": "aurions conservé",
+      "vous": "auriez conservé",
+      "ils": "auraient conservé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse conservé",
+      "tu": "eusses conservé",
+      "il": "eût conservé",
+      "nous": "eussions conservé",
+      "vous": "eussiez conservé",
+      "ils": "eussent conservé"
+    },
+    "translation": "zachowywać",
+    "group": 1
+  },
+  {
+    "infinitive": "considérer",
+    "présent": {
+      "je": "considère",
+      "tu": "considères",
+      "il": "considère",
+      "nous": "considérons",
+      "vous": "considérez",
+      "ils": "considèrent"
+    },
+    "passé_composé": {
+      "je": "ai considéré",
+      "tu": "as considéré",
+      "il": "a considéré",
+      "nous": "avons considéré",
+      "vous": "avez considéré",
+      "ils": "ont considéré"
+    },
+    "imparfait": {
+      "je": "considérais",
+      "tu": "considérais",
+      "il": "considérait",
+      "nous": "considérions",
+      "vous": "considériez",
+      "ils": "considéraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais considéré",
+      "tu": "avais considéré",
+      "il": "avait considéré",
+      "nous": "avions considéré",
+      "vous": "aviez considéré",
+      "ils": "avaient considéré"
+    },
+    "passé_simple": {
+      "je": "considérai",
+      "tu": "considéras",
+      "il": "considéra",
+      "nous": "considérâmes",
+      "vous": "considérâtes",
+      "ils": "considérèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus considéré",
+      "tu": "eus considéré",
+      "il": "eut considéré",
+      "nous": "eûmes considéré",
+      "vous": "eûtes considéré",
+      "ils": "eurent considéré"
+    },
+    "futur_simple": {
+      "je": "considérerai",
+      "tu": "considéreras",
+      "il": "considérera",
+      "nous": "considérerons",
+      "vous": "considérerez",
+      "ils": "considéreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai considéré",
+      "tu": "auras considéré",
+      "il": "aura considéré",
+      "nous": "aurons considéré",
+      "vous": "aurez considéré",
+      "ils": "auront considéré"
+    },
+    "subjonctif_présent": {
+      "je": "considère",
+      "tu": "considères",
+      "il": "considère",
+      "nous": "considérions",
+      "vous": "considériez",
+      "ils": "considèrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie considéré",
+      "tu": "aies considéré",
+      "il": "ait considéré",
+      "nous": "ayons considéré",
+      "vous": "ayez considéré",
+      "ils": "aient considéré"
+    },
+    "subjonctif_imparfait": {
+      "je": "considérasse",
+      "tu": "considérasses",
+      "il": "considérât",
+      "nous": "considérassions",
+      "vous": "considérassiez",
+      "ils": "considérassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse considéré",
+      "tu": "eusses considéré",
+      "il": "eût considéré",
+      "nous": "eussions considéré",
+      "vous": "eussiez considéré",
+      "ils": "eussent considéré"
+    },
+    "conditionnel_présent": {
+      "je": "considérerais",
+      "tu": "considérerais",
+      "il": "considérerait",
+      "nous": "considérerions",
+      "vous": "considéreriez",
+      "ils": "considéreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais considéré",
+      "tu": "aurais considéré",
+      "il": "aurait considéré",
+      "nous": "aurions considéré",
+      "vous": "auriez considéré",
+      "ils": "auraient considéré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse considéré",
+      "tu": "eusses considéré",
+      "il": "eût considéré",
+      "nous": "eussions considéré",
+      "vous": "eussiez considéré",
+      "ils": "eussent considéré"
+    },
+    "translation": "przypatrywać",
+    "group": 1
+  },
+  {
+    "infinitive": "consister",
+    "présent": {
+      "je": "consiste",
+      "tu": "consistes",
+      "il": "consiste",
+      "nous": "consistons",
+      "vous": "consistez",
+      "ils": "consistent"
+    },
+    "passé_composé": {
+      "je": "ai consisté",
+      "tu": "as consisté",
+      "il": "a consisté",
+      "nous": "avons consisté",
+      "vous": "avez consisté",
+      "ils": "ont consisté"
+    },
+    "imparfait": {
+      "je": "consistais",
+      "tu": "consistais",
+      "il": "consistait",
+      "nous": "consistions",
+      "vous": "consistiez",
+      "ils": "consistaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais consisté",
+      "tu": "avais consisté",
+      "il": "avait consisté",
+      "nous": "avions consisté",
+      "vous": "aviez consisté",
+      "ils": "avaient consisté"
+    },
+    "passé_simple": {
+      "je": "consistai",
+      "tu": "consistas",
+      "il": "consista",
+      "nous": "consistâmes",
+      "vous": "consistâtes",
+      "ils": "consistèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus consisté",
+      "tu": "eus consisté",
+      "il": "eut consisté",
+      "nous": "eûmes consisté",
+      "vous": "eûtes consisté",
+      "ils": "eurent consisté"
+    },
+    "futur_simple": {
+      "je": "consisterai",
+      "tu": "consisteras",
+      "il": "consistera",
+      "nous": "consisterons",
+      "vous": "consisterez",
+      "ils": "consisteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai consisté",
+      "tu": "auras consisté",
+      "il": "aura consisté",
+      "nous": "aurons consisté",
+      "vous": "aurez consisté",
+      "ils": "auront consisté"
+    },
+    "subjonctif_présent": {
+      "je": "consiste",
+      "tu": "consistes",
+      "il": "consiste",
+      "nous": "consistions",
+      "vous": "consistiez",
+      "ils": "consistent"
+    },
+    "subjonctif_passé": {
+      "je": "aie consisté",
+      "tu": "aies consisté",
+      "il": "ait consisté",
+      "nous": "ayons consisté",
+      "vous": "ayez consisté",
+      "ils": "aient consisté"
+    },
+    "subjonctif_imparfait": {
+      "je": "consistasse",
+      "tu": "consistasses",
+      "il": "consistât",
+      "nous": "consistassions",
+      "vous": "consistassiez",
+      "ils": "consistassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse consisté",
+      "tu": "eusses consisté",
+      "il": "eût consisté",
+      "nous": "eussions consisté",
+      "vous": "eussiez consisté",
+      "ils": "eussent consisté"
+    },
+    "conditionnel_présent": {
+      "je": "consisterais",
+      "tu": "consisterais",
+      "il": "consisterait",
+      "nous": "consisterions",
+      "vous": "consisteriez",
+      "ils": "consisteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais consisté",
+      "tu": "aurais consisté",
+      "il": "aurait consisté",
+      "nous": "aurions consisté",
+      "vous": "auriez consisté",
+      "ils": "auraient consisté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse consisté",
+      "tu": "eusses consisté",
+      "il": "eût consisté",
+      "nous": "eussions consisté",
+      "vous": "eussiez consisté",
+      "ils": "eussent consisté"
+    },
+    "translation": "składać",
+    "group": 1
+  },
+  {
+    "infinitive": "consoler",
+    "présent": {
+      "je": "console",
+      "tu": "consoles",
+      "il": "console",
+      "nous": "consolons",
+      "vous": "consolez",
+      "ils": "consolent"
+    },
+    "passé_composé": {
+      "je": "ai consolé",
+      "tu": "as consolé",
+      "il": "a consolé",
+      "nous": "avons consolé",
+      "vous": "avez consolé",
+      "ils": "ont consolé"
+    },
+    "imparfait": {
+      "je": "consolais",
+      "tu": "consolais",
+      "il": "consolait",
+      "nous": "consolions",
+      "vous": "consoliez",
+      "ils": "consolaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais consolé",
+      "tu": "avais consolé",
+      "il": "avait consolé",
+      "nous": "avions consolé",
+      "vous": "aviez consolé",
+      "ils": "avaient consolé"
+    },
+    "passé_simple": {
+      "je": "consolai",
+      "tu": "consolas",
+      "il": "consola",
+      "nous": "consolâmes",
+      "vous": "consolâtes",
+      "ils": "consolèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus consolé",
+      "tu": "eus consolé",
+      "il": "eut consolé",
+      "nous": "eûmes consolé",
+      "vous": "eûtes consolé",
+      "ils": "eurent consolé"
+    },
+    "futur_simple": {
+      "je": "consolerai",
+      "tu": "consoleras",
+      "il": "consolera",
+      "nous": "consolerons",
+      "vous": "consolerez",
+      "ils": "consoleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai consolé",
+      "tu": "auras consolé",
+      "il": "aura consolé",
+      "nous": "aurons consolé",
+      "vous": "aurez consolé",
+      "ils": "auront consolé"
+    },
+    "subjonctif_présent": {
+      "je": "console",
+      "tu": "consoles",
+      "il": "console",
+      "nous": "consolions",
+      "vous": "consoliez",
+      "ils": "consolent"
+    },
+    "subjonctif_passé": {
+      "je": "aie consolé",
+      "tu": "aies consolé",
+      "il": "ait consolé",
+      "nous": "ayons consolé",
+      "vous": "ayez consolé",
+      "ils": "aient consolé"
+    },
+    "subjonctif_imparfait": {
+      "je": "consolasse",
+      "tu": "consolasses",
+      "il": "consolât",
+      "nous": "consolassions",
+      "vous": "consolassiez",
+      "ils": "consolassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse consolé",
+      "tu": "eusses consolé",
+      "il": "eût consolé",
+      "nous": "eussions consolé",
+      "vous": "eussiez consolé",
+      "ils": "eussent consolé"
+    },
+    "conditionnel_présent": {
+      "je": "consolerais",
+      "tu": "consolerais",
+      "il": "consolerait",
+      "nous": "consolerions",
+      "vous": "consoleriez",
+      "ils": "consoleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais consolé",
+      "tu": "aurais consolé",
+      "il": "aurait consolé",
+      "nous": "aurions consolé",
+      "vous": "auriez consolé",
+      "ils": "auraient consolé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse consolé",
+      "tu": "eusses consolé",
+      "il": "eût consolé",
+      "nous": "eussions consolé",
+      "vous": "eussiez consolé",
+      "ils": "eussent consolé"
+    },
+    "translation": "pocieszać",
+    "group": 1
+  },
+  {
+    "infinitive": "consommer",
+    "présent": {
+      "je": "consomme",
+      "tu": "consommes",
+      "il": "consomme",
+      "nous": "consommons",
+      "vous": "consommez",
+      "ils": "consomment"
+    },
+    "passé_composé": {
+      "je": "ai consommé",
+      "tu": "as consommé",
+      "il": "a consommé",
+      "nous": "avons consommé",
+      "vous": "avez consommé",
+      "ils": "ont consommé"
+    },
+    "imparfait": {
+      "je": "consommais",
+      "tu": "consommais",
+      "il": "consommait",
+      "nous": "consommions",
+      "vous": "consommiez",
+      "ils": "consommaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais consommé",
+      "tu": "avais consommé",
+      "il": "avait consommé",
+      "nous": "avions consommé",
+      "vous": "aviez consommé",
+      "ils": "avaient consommé"
+    },
+    "passé_simple": {
+      "je": "consommai",
+      "tu": "consommas",
+      "il": "consomma",
+      "nous": "consommâmes",
+      "vous": "consommâtes",
+      "ils": "consommèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus consommé",
+      "tu": "eus consommé",
+      "il": "eut consommé",
+      "nous": "eûmes consommé",
+      "vous": "eûtes consommé",
+      "ils": "eurent consommé"
+    },
+    "futur_simple": {
+      "je": "consommerai",
+      "tu": "consommeras",
+      "il": "consommera",
+      "nous": "consommerons",
+      "vous": "consommerez",
+      "ils": "consommeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai consommé",
+      "tu": "auras consommé",
+      "il": "aura consommé",
+      "nous": "aurons consommé",
+      "vous": "aurez consommé",
+      "ils": "auront consommé"
+    },
+    "subjonctif_présent": {
+      "je": "consomme",
+      "tu": "consommes",
+      "il": "consomme",
+      "nous": "consommions",
+      "vous": "consommiez",
+      "ils": "consomment"
+    },
+    "subjonctif_passé": {
+      "je": "aie consommé",
+      "tu": "aies consommé",
+      "il": "ait consommé",
+      "nous": "ayons consommé",
+      "vous": "ayez consommé",
+      "ils": "aient consommé"
+    },
+    "subjonctif_imparfait": {
+      "je": "consommasse",
+      "tu": "consommasses",
+      "il": "consommât",
+      "nous": "consommassions",
+      "vous": "consommassiez",
+      "ils": "consommassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse consommé",
+      "tu": "eusses consommé",
+      "il": "eût consommé",
+      "nous": "eussions consommé",
+      "vous": "eussiez consommé",
+      "ils": "eussent consommé"
+    },
+    "conditionnel_présent": {
+      "je": "consommerais",
+      "tu": "consommerais",
+      "il": "consommerait",
+      "nous": "consommerions",
+      "vous": "consommeriez",
+      "ils": "consommeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais consommé",
+      "tu": "aurais consommé",
+      "il": "aurait consommé",
+      "nous": "aurions consommé",
+      "vous": "auriez consommé",
+      "ils": "auraient consommé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse consommé",
+      "tu": "eusses consommé",
+      "il": "eût consommé",
+      "nous": "eussions consommé",
+      "vous": "eussiez consommé",
+      "ils": "eussent consommé"
+    },
+    "translation": "konsumować",
+    "group": 1
+  },
+  {
+    "infinitive": "constater",
+    "présent": {
+      "je": "constate",
+      "tu": "constates",
+      "il": "constate",
+      "nous": "constatons",
+      "vous": "constatez",
+      "ils": "constatent"
+    },
+    "passé_composé": {
+      "je": "ai constaté",
+      "tu": "as constaté",
+      "il": "a constaté",
+      "nous": "avons constaté",
+      "vous": "avez constaté",
+      "ils": "ont constaté"
+    },
+    "imparfait": {
+      "je": "constatais",
+      "tu": "constatais",
+      "il": "constatait",
+      "nous": "constations",
+      "vous": "constatiez",
+      "ils": "constataient"
+    },
+    "plus_que_parfait": {
+      "je": "avais constaté",
+      "tu": "avais constaté",
+      "il": "avait constaté",
+      "nous": "avions constaté",
+      "vous": "aviez constaté",
+      "ils": "avaient constaté"
+    },
+    "passé_simple": {
+      "je": "constatai",
+      "tu": "constatas",
+      "il": "constata",
+      "nous": "constatâmes",
+      "vous": "constatâtes",
+      "ils": "constatèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus constaté",
+      "tu": "eus constaté",
+      "il": "eut constaté",
+      "nous": "eûmes constaté",
+      "vous": "eûtes constaté",
+      "ils": "eurent constaté"
+    },
+    "futur_simple": {
+      "je": "constaterai",
+      "tu": "constateras",
+      "il": "constatera",
+      "nous": "constaterons",
+      "vous": "constaterez",
+      "ils": "constateront"
+    },
+    "futur_antérieur": {
+      "je": "aurai constaté",
+      "tu": "auras constaté",
+      "il": "aura constaté",
+      "nous": "aurons constaté",
+      "vous": "aurez constaté",
+      "ils": "auront constaté"
+    },
+    "subjonctif_présent": {
+      "je": "constate",
+      "tu": "constates",
+      "il": "constate",
+      "nous": "constations",
+      "vous": "constatiez",
+      "ils": "constatent"
+    },
+    "subjonctif_passé": {
+      "je": "aie constaté",
+      "tu": "aies constaté",
+      "il": "ait constaté",
+      "nous": "ayons constaté",
+      "vous": "ayez constaté",
+      "ils": "aient constaté"
+    },
+    "subjonctif_imparfait": {
+      "je": "constatasse",
+      "tu": "constatasses",
+      "il": "constatât",
+      "nous": "constatassions",
+      "vous": "constatassiez",
+      "ils": "constatassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse constaté",
+      "tu": "eusses constaté",
+      "il": "eût constaté",
+      "nous": "eussions constaté",
+      "vous": "eussiez constaté",
+      "ils": "eussent constaté"
+    },
+    "conditionnel_présent": {
+      "je": "constaterais",
+      "tu": "constaterais",
+      "il": "constaterait",
+      "nous": "constaterions",
+      "vous": "constateriez",
+      "ils": "constateraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais constaté",
+      "tu": "aurais constaté",
+      "il": "aurait constaté",
+      "nous": "aurions constaté",
+      "vous": "auriez constaté",
+      "ils": "auraient constaté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse constaté",
+      "tu": "eusses constaté",
+      "il": "eût constaté",
+      "nous": "eussions constaté",
+      "vous": "eussiez constaté",
+      "ils": "eussent constaté"
+    },
+    "translation": "twierdzić",
+    "group": 1
+  },
+  {
+    "infinitive": "constituer",
+    "présent": {
+      "je": "constitue",
+      "tu": "constitues",
+      "il": "constitue",
+      "nous": "constituons",
+      "vous": "constituez",
+      "ils": "constituent"
+    },
+    "passé_composé": {
+      "je": "ai constitué",
+      "tu": "as constitué",
+      "il": "a constitué",
+      "nous": "avons constitué",
+      "vous": "avez constitué",
+      "ils": "ont constitué"
+    },
+    "imparfait": {
+      "je": "constituais",
+      "tu": "constituais",
+      "il": "constituait",
+      "nous": "constituions",
+      "vous": "constituiez",
+      "ils": "constituaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais constitué",
+      "tu": "avais constitué",
+      "il": "avait constitué",
+      "nous": "avions constitué",
+      "vous": "aviez constitué",
+      "ils": "avaient constitué"
+    },
+    "passé_simple": {
+      "je": "constituai",
+      "tu": "constituas",
+      "il": "constitua",
+      "nous": "constituâmes",
+      "vous": "constituâtes",
+      "ils": "constituèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus constitué",
+      "tu": "eus constitué",
+      "il": "eut constitué",
+      "nous": "eûmes constitué",
+      "vous": "eûtes constitué",
+      "ils": "eurent constitué"
+    },
+    "futur_simple": {
+      "je": "constituerai",
+      "tu": "constitueras",
+      "il": "constituera",
+      "nous": "constituerons",
+      "vous": "constituerez",
+      "ils": "constitueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai constitué",
+      "tu": "auras constitué",
+      "il": "aura constitué",
+      "nous": "aurons constitué",
+      "vous": "aurez constitué",
+      "ils": "auront constitué"
+    },
+    "subjonctif_présent": {
+      "je": "constitue",
+      "tu": "constitues",
+      "il": "constitue",
+      "nous": "constituions",
+      "vous": "constituiez",
+      "ils": "constituent"
+    },
+    "subjonctif_passé": {
+      "je": "aie constitué",
+      "tu": "aies constitué",
+      "il": "ait constitué",
+      "nous": "ayons constitué",
+      "vous": "ayez constitué",
+      "ils": "aient constitué"
+    },
+    "subjonctif_imparfait": {
+      "je": "constituasse",
+      "tu": "constituasses",
+      "il": "constituât",
+      "nous": "constituassions",
+      "vous": "constituassiez",
+      "ils": "constituassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse constitué",
+      "tu": "eusses constitué",
+      "il": "eût constitué",
+      "nous": "eussions constitué",
+      "vous": "eussiez constitué",
+      "ils": "eussent constitué"
+    },
+    "conditionnel_présent": {
+      "je": "constituerais",
+      "tu": "constituerais",
+      "il": "constituerait",
+      "nous": "constituerions",
+      "vous": "constitueriez",
+      "ils": "constitueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais constitué",
+      "tu": "aurais constitué",
+      "il": "aurait constitué",
+      "nous": "aurions constitué",
+      "vous": "auriez constitué",
+      "ils": "auraient constitué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse constitué",
+      "tu": "eusses constitué",
+      "il": "eût constitué",
+      "nous": "eussions constitué",
+      "vous": "eussiez constitué",
+      "ils": "eussent constitué"
+    },
+    "translation": "tworzyć",
+    "group": 1
+  },
+  {
+    "infinitive": "construire",
+    "présent": {
+      "je": "construis",
+      "tu": "construis",
+      "il": "construit",
+      "nous": "construisons",
+      "vous": "construisez",
+      "ils": "construisent"
+    },
+    "passé_composé": {
+      "je": "ai construit",
+      "tu": "as construit",
+      "il": "a construit",
+      "nous": "avons construit",
+      "vous": "avez construit",
+      "ils": "ont construit"
+    },
+    "imparfait": {
+      "je": "construisais",
+      "tu": "construisais",
+      "il": "construisait",
+      "nous": "construisions",
+      "vous": "construisiez",
+      "ils": "construisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais construit",
+      "tu": "avais construit",
+      "il": "avait construit",
+      "nous": "avions construit",
+      "vous": "aviez construit",
+      "ils": "avaient construit"
+    },
+    "passé_simple": {
+      "je": "construisis",
+      "tu": "construisis",
+      "il": "construisit",
+      "nous": "construisîmes",
+      "vous": "construisîtes",
+      "ils": "construisirent"
+    },
+    "passé_antérieur": {
+      "je": "eus construit",
+      "tu": "eus construit",
+      "il": "eut construit",
+      "nous": "eûmes construit",
+      "vous": "eûtes construit",
+      "ils": "eurent construit"
+    },
+    "futur_simple": {
+      "je": "construirai",
+      "tu": "construiras",
+      "il": "construira",
+      "nous": "construirons",
+      "vous": "construirez",
+      "ils": "construiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai construit",
+      "tu": "auras construit",
+      "il": "aura construit",
+      "nous": "aurons construit",
+      "vous": "aurez construit",
+      "ils": "auront construit"
+    },
+    "subjonctif_présent": {
+      "je": "construise",
+      "tu": "construises",
+      "il": "construise",
+      "nous": "construisions",
+      "vous": "construisiez",
+      "ils": "construisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie construit",
+      "tu": "aies construit",
+      "il": "ait construit",
+      "nous": "ayons construit",
+      "vous": "ayez construit",
+      "ils": "aient construit"
+    },
+    "subjonctif_imparfait": {
+      "je": "construisisse",
+      "tu": "construisisses",
+      "il": "construisît",
+      "nous": "construisissions",
+      "vous": "construisissiez",
+      "ils": "construisissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse construit",
+      "tu": "eusses construit",
+      "il": "eût construit",
+      "nous": "eussions construit",
+      "vous": "eussiez construit",
+      "ils": "eussent construit"
+    },
+    "conditionnel_présent": {
+      "je": "construirais",
+      "tu": "construirais",
+      "il": "construirait",
+      "nous": "construirions",
+      "vous": "construiriez",
+      "ils": "construiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais construit",
+      "tu": "aurais construit",
+      "il": "aurait construit",
+      "nous": "aurions construit",
+      "vous": "auriez construit",
+      "ils": "auraient construit"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse construit",
+      "tu": "eusses construit",
+      "il": "eût construit",
+      "nous": "eussions construit",
+      "vous": "eussiez construit",
+      "ils": "eussent construit"
+    },
+    "translation": "budować",
+    "group": 3
+  },
+  {
+    "infinitive": "consulter",
+    "présent": {
+      "je": "consulte",
+      "tu": "consultes",
+      "il": "consulte",
+      "nous": "consultons",
+      "vous": "consultez",
+      "ils": "consultent"
+    },
+    "passé_composé": {
+      "je": "ai consulté",
+      "tu": "as consulté",
+      "il": "a consulté",
+      "nous": "avons consulté",
+      "vous": "avez consulté",
+      "ils": "ont consulté"
+    },
+    "imparfait": {
+      "je": "consultais",
+      "tu": "consultais",
+      "il": "consultait",
+      "nous": "consultions",
+      "vous": "consultiez",
+      "ils": "consultaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais consulté",
+      "tu": "avais consulté",
+      "il": "avait consulté",
+      "nous": "avions consulté",
+      "vous": "aviez consulté",
+      "ils": "avaient consulté"
+    },
+    "passé_simple": {
+      "je": "consultai",
+      "tu": "consultas",
+      "il": "consulta",
+      "nous": "consultâmes",
+      "vous": "consultâtes",
+      "ils": "consultèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus consulté",
+      "tu": "eus consulté",
+      "il": "eut consulté",
+      "nous": "eûmes consulté",
+      "vous": "eûtes consulté",
+      "ils": "eurent consulté"
+    },
+    "futur_simple": {
+      "je": "consulterai",
+      "tu": "consulteras",
+      "il": "consultera",
+      "nous": "consulterons",
+      "vous": "consulterez",
+      "ils": "consulteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai consulté",
+      "tu": "auras consulté",
+      "il": "aura consulté",
+      "nous": "aurons consulté",
+      "vous": "aurez consulté",
+      "ils": "auront consulté"
+    },
+    "subjonctif_présent": {
+      "je": "consulte",
+      "tu": "consultes",
+      "il": "consulte",
+      "nous": "consultions",
+      "vous": "consultiez",
+      "ils": "consultent"
+    },
+    "subjonctif_passé": {
+      "je": "aie consulté",
+      "tu": "aies consulté",
+      "il": "ait consulté",
+      "nous": "ayons consulté",
+      "vous": "ayez consulté",
+      "ils": "aient consulté"
+    },
+    "subjonctif_imparfait": {
+      "je": "consultasse",
+      "tu": "consultasses",
+      "il": "consultât",
+      "nous": "consultassions",
+      "vous": "consultassiez",
+      "ils": "consultassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse consulté",
+      "tu": "eusses consulté",
+      "il": "eût consulté",
+      "nous": "eussions consulté",
+      "vous": "eussiez consulté",
+      "ils": "eussent consulté"
+    },
+    "conditionnel_présent": {
+      "je": "consulterais",
+      "tu": "consulterais",
+      "il": "consulterait",
+      "nous": "consulterions",
+      "vous": "consulteriez",
+      "ils": "consulteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais consulté",
+      "tu": "aurais consulté",
+      "il": "aurait consulté",
+      "nous": "aurions consulté",
+      "vous": "auriez consulté",
+      "ils": "auraient consulté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse consulté",
+      "tu": "eusses consulté",
+      "il": "eût consulté",
+      "nous": "eussions consulté",
+      "vous": "eussiez consulté",
+      "ils": "eussent consulté"
+    },
+    "translation": "udzielać",
+    "group": 1
+  }
+]

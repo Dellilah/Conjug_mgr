@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "siéger",
+    "présent": {
+      "je": "siège",
+      "tu": "sièges",
+      "il": "siège",
+      "nous": "siégeons",
+      "vous": "siégez",
+      "ils": "siègent"
+    },
+    "passé_composé": {
+      "je": "ai siégé",
+      "tu": "as siégé",
+      "il": "a siégé",
+      "nous": "avons siégé",
+      "vous": "avez siégé",
+      "ils": "ont siégé"
+    },
+    "imparfait": {
+      "je": "siégeais",
+      "tu": "siégeais",
+      "il": "siégeait",
+      "nous": "siégions",
+      "vous": "siégiez",
+      "ils": "siégeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais siégé",
+      "tu": "avais siégé",
+      "il": "avait siégé",
+      "nous": "avions siégé",
+      "vous": "aviez siégé",
+      "ils": "avaient siégé"
+    },
+    "passé_simple": {
+      "je": "siégeai",
+      "tu": "siégeas",
+      "il": "siégea",
+      "nous": "siégeâmes",
+      "vous": "siégeâtes",
+      "ils": "siégèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus siégé",
+      "tu": "eus siégé",
+      "il": "eut siégé",
+      "nous": "eûmes siégé",
+      "vous": "eûtes siégé",
+      "ils": "eurent siégé"
+    },
+    "futur_simple": {
+      "je": "siégerai",
+      "tu": "siégeras",
+      "il": "siégera",
+      "nous": "siégerons",
+      "vous": "siégerez",
+      "ils": "siégeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai siégé",
+      "tu": "auras siégé",
+      "il": "aura siégé",
+      "nous": "aurons siégé",
+      "vous": "aurez siégé",
+      "ils": "auront siégé"
+    },
+    "subjonctif_présent": {
+      "je": "siège",
+      "tu": "sièges",
+      "il": "siège",
+      "nous": "siégions",
+      "vous": "siégiez",
+      "ils": "siègent"
+    },
+    "subjonctif_passé": {
+      "je": "aie siégé",
+      "tu": "aies siégé",
+      "il": "ait siégé",
+      "nous": "ayons siégé",
+      "vous": "ayez siégé",
+      "ils": "aient siégé"
+    },
+    "subjonctif_imparfait": {
+      "je": "siégeasse",
+      "tu": "siégeasses",
+      "il": "siégeât",
+      "nous": "siégeassions",
+      "vous": "siégeassiez",
+      "ils": "siégeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse siégé",
+      "tu": "eusses siégé",
+      "il": "eût siégé",
+      "nous": "eussions siégé",
+      "vous": "eussiez siégé",
+      "ils": "eussent siégé"
+    },
+    "conditionnel_présent": {
+      "je": "siégerais",
+      "tu": "siégerais",
+      "il": "siégerait",
+      "nous": "siégerions",
+      "vous": "siégeriez",
+      "ils": "siégeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais siégé",
+      "tu": "aurais siégé",
+      "il": "aurait siégé",
+      "nous": "aurions siégé",
+      "vous": "auriez siégé",
+      "ils": "auraient siégé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse siégé",
+      "tu": "eusses siégé",
+      "il": "eût siégé",
+      "nous": "eussions siégé",
+      "vous": "eussiez siégé",
+      "ils": "eussent siégé"
+    },
+    "translation": "zasiadać",
+    "group": 1
+  },
+  {
+    "infinitive": "siffler",
+    "présent": {
+      "je": "siffle",
+      "tu": "siffles",
+      "il": "siffle",
+      "nous": "sifflons",
+      "vous": "sifflez",
+      "ils": "sifflent"
+    },
+    "passé_composé": {
+      "je": "ai sifflé",
+      "tu": "as sifflé",
+      "il": "a sifflé",
+      "nous": "avons sifflé",
+      "vous": "avez sifflé",
+      "ils": "ont sifflé"
+    },
+    "imparfait": {
+      "je": "sifflais",
+      "tu": "sifflais",
+      "il": "sifflait",
+      "nous": "sifflions",
+      "vous": "siffliez",
+      "ils": "sifflaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais sifflé",
+      "tu": "avais sifflé",
+      "il": "avait sifflé",
+      "nous": "avions sifflé",
+      "vous": "aviez sifflé",
+      "ils": "avaient sifflé"
+    },
+    "passé_simple": {
+      "je": "sifflai",
+      "tu": "sifflas",
+      "il": "siffla",
+      "nous": "sifflâmes",
+      "vous": "sifflâtes",
+      "ils": "sifflèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus sifflé",
+      "tu": "eus sifflé",
+      "il": "eut sifflé",
+      "nous": "eûmes sifflé",
+      "vous": "eûtes sifflé",
+      "ils": "eurent sifflé"
+    },
+    "futur_simple": {
+      "je": "sifflerai",
+      "tu": "siffleras",
+      "il": "sifflera",
+      "nous": "sifflerons",
+      "vous": "sifflerez",
+      "ils": "siffleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai sifflé",
+      "tu": "auras sifflé",
+      "il": "aura sifflé",
+      "nous": "aurons sifflé",
+      "vous": "aurez sifflé",
+      "ils": "auront sifflé"
+    },
+    "subjonctif_présent": {
+      "je": "siffle",
+      "tu": "siffles",
+      "il": "siffle",
+      "nous": "sifflions",
+      "vous": "siffliez",
+      "ils": "sifflent"
+    },
+    "subjonctif_passé": {
+      "je": "aie sifflé",
+      "tu": "aies sifflé",
+      "il": "ait sifflé",
+      "nous": "ayons sifflé",
+      "vous": "ayez sifflé",
+      "ils": "aient sifflé"
+    },
+    "subjonctif_imparfait": {
+      "je": "sifflasse",
+      "tu": "sifflasses",
+      "il": "sifflât",
+      "nous": "sifflassions",
+      "vous": "sifflassiez",
+      "ils": "sifflassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse sifflé",
+      "tu": "eusses sifflé",
+      "il": "eût sifflé",
+      "nous": "eussions sifflé",
+      "vous": "eussiez sifflé",
+      "ils": "eussent sifflé"
+    },
+    "conditionnel_présent": {
+      "je": "sifflerais",
+      "tu": "sifflerais",
+      "il": "sifflerait",
+      "nous": "sifflerions",
+      "vous": "siffleriez",
+      "ils": "siffleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais sifflé",
+      "tu": "aurais sifflé",
+      "il": "aurait sifflé",
+      "nous": "aurions sifflé",
+      "vous": "auriez sifflé",
+      "ils": "auraient sifflé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse sifflé",
+      "tu": "eusses sifflé",
+      "il": "eût sifflé",
+      "nous": "eussions sifflé",
+      "vous": "eussiez sifflé",
+      "ils": "eussent sifflé"
+    },
+    "translation": "świszczeć",
+    "group": 1
+  },
+  {
+    "infinitive": "signaler",
+    "présent": {
+      "je": "signale",
+      "tu": "signales",
+      "il": "signale",
+      "nous": "signalons",
+      "vous": "signalez",
+      "ils": "signalent"
+    },
+    "passé_composé": {
+      "je": "ai signalé",
+      "tu": "as signalé",
+      "il": "a signalé",
+      "nous": "avons signalé",
+      "vous": "avez signalé",
+      "ils": "ont signalé"
+    },
+    "imparfait": {
+      "je": "signalais",
+      "tu": "signalais",
+      "il": "signalait",
+      "nous": "signalions",
+      "vous": "signaliez",
+      "ils": "signalaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais signalé",
+      "tu": "avais signalé",
+      "il": "avait signalé",
+      "nous": "avions signalé",
+      "vous": "aviez signalé",
+      "ils": "avaient signalé"
+    },
+    "passé_simple": {
+      "je": "signalai",
+      "tu": "signalas",
+      "il": "signala",
+      "nous": "signalâmes",
+      "vous": "signalâtes",
+      "ils": "signalèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus signalé",
+      "tu": "eus signalé",
+      "il": "eut signalé",
+      "nous": "eûmes signalé",
+      "vous": "eûtes signalé",
+      "ils": "eurent signalé"
+    },
+    "futur_simple": {
+      "je": "signalerai",
+      "tu": "signaleras",
+      "il": "signalera",
+      "nous": "signalerons",
+      "vous": "signalerez",
+      "ils": "signaleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai signalé",
+      "tu": "auras signalé",
+      "il": "aura signalé",
+      "nous": "aurons signalé",
+      "vous": "aurez signalé",
+      "ils": "auront signalé"
+    },
+    "subjonctif_présent": {
+      "je": "signale",
+      "tu": "signales",
+      "il": "signale",
+      "nous": "signalions",
+      "vous": "signaliez",
+      "ils": "signalent"
+    },
+    "subjonctif_passé": {
+      "je": "aie signalé",
+      "tu": "aies signalé",
+      "il": "ait signalé",
+      "nous": "ayons signalé",
+      "vous": "ayez signalé",
+      "ils": "aient signalé"
+    },
+    "subjonctif_imparfait": {
+      "je": "signalasse",
+      "tu": "signalasses",
+      "il": "signalât",
+      "nous": "signalassions",
+      "vous": "signalassiez",
+      "ils": "signalassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse signalé",
+      "tu": "eusses signalé",
+      "il": "eût signalé",
+      "nous": "eussions signalé",
+      "vous": "eussiez signalé",
+      "ils": "eussent signalé"
+    },
+    "conditionnel_présent": {
+      "je": "signalerais",
+      "tu": "signalerais",
+      "il": "signalerait",
+      "nous": "signalerions",
+      "vous": "signaleriez",
+      "ils": "signaleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais signalé",
+      "tu": "aurais signalé",
+      "il": "aurait signalé",
+      "nous": "aurions signalé",
+      "vous": "auriez signalé",
+      "ils": "auraient signalé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse signalé",
+      "tu": "eusses signalé",
+      "il": "eût signalé",
+      "nous": "eussions signalé",
+      "vous": "eussiez signalé",
+      "ils": "eussent signalé"
+    },
+    "translation": "powiadamiać",
+    "group": 1
+  },
+  {
+    "infinitive": "signer",
+    "présent": {
+      "je": "signe",
+      "tu": "signes",
+      "il": "signe",
+      "nous": "signons",
+      "vous": "signez",
+      "ils": "signent"
+    },
+    "passé_composé": {
+      "je": "ai signé",
+      "tu": "as signé",
+      "il": "a signé",
+      "nous": "avons signé",
+      "vous": "avez signé",
+      "ils": "ont signé"
+    },
+    "imparfait": {
+      "je": "signais",
+      "tu": "signais",
+      "il": "signait",
+      "nous": "signions",
+      "vous": "signiez",
+      "ils": "signaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais signé",
+      "tu": "avais signé",
+      "il": "avait signé",
+      "nous": "avions signé",
+      "vous": "aviez signé",
+      "ils": "avaient signé"
+    },
+    "passé_simple": {
+      "je": "signai",
+      "tu": "signas",
+      "il": "signa",
+      "nous": "signâmes",
+      "vous": "signâtes",
+      "ils": "signèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus signé",
+      "tu": "eus signé",
+      "il": "eut signé",
+      "nous": "eûmes signé",
+      "vous": "eûtes signé",
+      "ils": "eurent signé"
+    },
+    "futur_simple": {
+      "je": "signerai",
+      "tu": "signeras",
+      "il": "signera",
+      "nous": "signerons",
+      "vous": "signerez",
+      "ils": "signeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai signé",
+      "tu": "auras signé",
+      "il": "aura signé",
+      "nous": "aurons signé",
+      "vous": "aurez signé",
+      "ils": "auront signé"
+    },
+    "subjonctif_présent": {
+      "je": "signe",
+      "tu": "signes",
+      "il": "signe",
+      "nous": "signions",
+      "vous": "signiez",
+      "ils": "signent"
+    },
+    "subjonctif_passé": {
+      "je": "aie signé",
+      "tu": "aies signé",
+      "il": "ait signé",
+      "nous": "ayons signé",
+      "vous": "ayez signé",
+      "ils": "aient signé"
+    },
+    "subjonctif_imparfait": {
+      "je": "signasse",
+      "tu": "signasses",
+      "il": "signât",
+      "nous": "signassions",
+      "vous": "signassiez",
+      "ils": "signassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse signé",
+      "tu": "eusses signé",
+      "il": "eût signé",
+      "nous": "eussions signé",
+      "vous": "eussiez signé",
+      "ils": "eussent signé"
+    },
+    "conditionnel_présent": {
+      "je": "signerais",
+      "tu": "signerais",
+      "il": "signerait",
+      "nous": "signerions",
+      "vous": "signeriez",
+      "ils": "signeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais signé",
+      "tu": "aurais signé",
+      "il": "aurait signé",
+      "nous": "aurions signé",
+      "vous": "auriez signé",
+      "ils": "auraient signé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse signé",
+      "tu": "eusses signé",
+      "il": "eût signé",
+      "nous": "eussions signé",
+      "vous": "eussiez signé",
+      "ils": "eussent signé"
+    },
+    "translation": "podpisywać",
+    "group": 1
+  },
+  {
+    "infinitive": "signifier",
+    "présent": {
+      "je": "signifie",
+      "tu": "signifies",
+      "il": "signifie",
+      "nous": "signifions",
+      "vous": "signifiez",
+      "ils": "signifient"
+    },
+    "passé_composé": {
+      "je": "ai signifié",
+      "tu": "as signifié",
+      "il": "a signifié",
+      "nous": "avons signifié",
+      "vous": "avez signifié",
+      "ils": "ont signifié"
+    },
+    "imparfait": {
+      "je": "signifiais",
+      "tu": "signifiais",
+      "il": "signifiait",
+      "nous": "signifiions",
+      "vous": "signifiiez",
+      "ils": "signifiaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais signifié",
+      "tu": "avais signifié",
+      "il": "avait signifié",
+      "nous": "avions signifié",
+      "vous": "aviez signifié",
+      "ils": "avaient signifié"
+    },
+    "passé_simple": {
+      "je": "signifiai",
+      "tu": "signifias",
+      "il": "signifia",
+      "nous": "signifiâmes",
+      "vous": "signifiâtes",
+      "ils": "signifièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus signifié",
+      "tu": "eus signifié",
+      "il": "eut signifié",
+      "nous": "eûmes signifié",
+      "vous": "eûtes signifié",
+      "ils": "eurent signifié"
+    },
+    "futur_simple": {
+      "je": "signifierai",
+      "tu": "signifieras",
+      "il": "signifiera",
+      "nous": "signifierons",
+      "vous": "signifierez",
+      "ils": "signifieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai signifié",
+      "tu": "auras signifié",
+      "il": "aura signifié",
+      "nous": "aurons signifié",
+      "vous": "aurez signifié",
+      "ils": "auront signifié"
+    },
+    "subjonctif_présent": {
+      "je": "signifie",
+      "tu": "signifies",
+      "il": "signifie",
+      "nous": "signifiions",
+      "vous": "signifiiez",
+      "ils": "signifient"
+    },
+    "subjonctif_passé": {
+      "je": "aie signifié",
+      "tu": "aies signifié",
+      "il": "ait signifié",
+      "nous": "ayons signifié",
+      "vous": "ayez signifié",
+      "ils": "aient signifié"
+    },
+    "subjonctif_imparfait": {
+      "je": "signifiasse",
+      "tu": "signifiasses",
+      "il": "signifiât",
+      "nous": "signifiassions",
+      "vous": "signifiassiez",
+      "ils": "signifiassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse signifié",
+      "tu": "eusses signifié",
+      "il": "eût signifié",
+      "nous": "eussions signifié",
+      "vous": "eussiez signifié",
+      "ils": "eussent signifié"
+    },
+    "conditionnel_présent": {
+      "je": "signifierais",
+      "tu": "signifierais",
+      "il": "signifierait",
+      "nous": "signifierions",
+      "vous": "signifieriez",
+      "ils": "signifieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais signifié",
+      "tu": "aurais signifié",
+      "il": "aurait signifié",
+      "nous": "aurions signifié",
+      "vous": "auriez signifié",
+      "ils": "auraient signifié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse signifié",
+      "tu": "eusses signifié",
+      "il": "eût signifié",
+      "nous": "eussions signifié",
+      "vous": "eussiez signifié",
+      "ils": "eussent signifié"
+    },
+    "translation": "znaczyć",
+    "group": 1
+  },
+  {
+    "infinitive": "simplifier",
+    "présent": {
+      "je": "simplifie",
+      "tu": "simplifies",
+      "il": "simplifie",
+      "nous": "simplifions",
+      "vous": "simplifiez",
+      "ils": "simplifient"
+    },
+    "passé_composé": {
+      "je": "ai simplifié",
+      "tu": "as simplifié",
+      "il": "a simplifié",
+      "nous": "avons simplifié",
+      "vous": "avez simplifié",
+      "ils": "ont simplifié"
+    },
+    "imparfait": {
+      "je": "simplifiais",
+      "tu": "simplifiais",
+      "il": "simplifiait",
+      "nous": "simplifiions",
+      "vous": "simplifiiez",
+      "ils": "simplifiaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais simplifié",
+      "tu": "avais simplifié",
+      "il": "avait simplifié",
+      "nous": "avions simplifié",
+      "vous": "aviez simplifié",
+      "ils": "avaient simplifié"
+    },
+    "passé_simple": {
+      "je": "simplifiai",
+      "tu": "simplifias",
+      "il": "simplifia",
+      "nous": "simplifiâmes",
+      "vous": "simplifiâtes",
+      "ils": "simplifièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus simplifié",
+      "tu": "eus simplifié",
+      "il": "eut simplifié",
+      "nous": "eûmes simplifié",
+      "vous": "eûtes simplifié",
+      "ils": "eurent simplifié"
+    },
+    "futur_simple": {
+      "je": "simplifierai",
+      "tu": "simplifieras",
+      "il": "simplifiera",
+      "nous": "simplifierons",
+      "vous": "simplifierez",
+      "ils": "simplifieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai simplifié",
+      "tu": "auras simplifié",
+      "il": "aura simplifié",
+      "nous": "aurons simplifié",
+      "vous": "aurez simplifié",
+      "ils": "auront simplifié"
+    },
+    "subjonctif_présent": {
+      "je": "simplifie",
+      "tu": "simplifies",
+      "il": "simplifie",
+      "nous": "simplifiions",
+      "vous": "simplifiiez",
+      "ils": "simplifient"
+    },
+    "subjonctif_passé": {
+      "je": "aie simplifié",
+      "tu": "aies simplifié",
+      "il": "ait simplifié",
+      "nous": "ayons simplifié",
+      "vous": "ayez simplifié",
+      "ils": "aient simplifié"
+    },
+    "subjonctif_imparfait": {
+      "je": "simplifiasse",
+      "tu": "simplifiasses",
+      "il": "simplifiât",
+      "nous": "simplifiassions",
+      "vous": "simplifiassiez",
+      "ils": "simplifiassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse simplifié",
+      "tu": "eusses simplifié",
+      "il": "eût simplifié",
+      "nous": "eussions simplifié",
+      "vous": "eussiez simplifié",
+      "ils": "eussent simplifié"
+    },
+    "conditionnel_présent": {
+      "je": "simplifierais",
+      "tu": "simplifierais",
+      "il": "simplifierait",
+      "nous": "simplifierions",
+      "vous": "simplifieriez",
+      "ils": "simplifieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais simplifié",
+      "tu": "aurais simplifié",
+      "il": "aurait simplifié",
+      "nous": "aurions simplifié",
+      "vous": "auriez simplifié",
+      "ils": "auraient simplifié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse simplifié",
+      "tu": "eusses simplifié",
+      "il": "eût simplifié",
+      "nous": "eussions simplifié",
+      "vous": "eussiez simplifié",
+      "ils": "eussent simplifié"
+    },
+    "translation": "upraszczać",
+    "group": 1
+  },
+  {
+    "infinitive": "siroter",
+    "présent": {
+      "je": "sirote",
+      "tu": "sirotes",
+      "il": "sirote",
+      "nous": "sirotons",
+      "vous": "sirotez",
+      "ils": "sirotent"
+    },
+    "passé_composé": {
+      "je": "ai siroté",
+      "tu": "as siroté",
+      "il": "a siroté",
+      "nous": "avons siroté",
+      "vous": "avez siroté",
+      "ils": "ont siroté"
+    },
+    "imparfait": {
+      "je": "sirotais",
+      "tu": "sirotais",
+      "il": "sirotait",
+      "nous": "sirotions",
+      "vous": "sirotiez",
+      "ils": "sirotaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais siroté",
+      "tu": "avais siroté",
+      "il": "avait siroté",
+      "nous": "avions siroté",
+      "vous": "aviez siroté",
+      "ils": "avaient siroté"
+    },
+    "passé_simple": {
+      "je": "sirotai",
+      "tu": "sirotas",
+      "il": "sirota",
+      "nous": "sirotâmes",
+      "vous": "sirotâtes",
+      "ils": "sirotèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus siroté",
+      "tu": "eus siroté",
+      "il": "eut siroté",
+      "nous": "eûmes siroté",
+      "vous": "eûtes siroté",
+      "ils": "eurent siroté"
+    },
+    "futur_simple": {
+      "je": "siroterai",
+      "tu": "siroteras",
+      "il": "sirotera",
+      "nous": "siroterons",
+      "vous": "siroterez",
+      "ils": "siroteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai siroté",
+      "tu": "auras siroté",
+      "il": "aura siroté",
+      "nous": "aurons siroté",
+      "vous": "aurez siroté",
+      "ils": "auront siroté"
+    },
+    "subjonctif_présent": {
+      "je": "sirote",
+      "tu": "sirotes",
+      "il": "sirote",
+      "nous": "sirotions",
+      "vous": "sirotiez",
+      "ils": "sirotent"
+    },
+    "subjonctif_passé": {
+      "je": "aie siroté",
+      "tu": "aies siroté",
+      "il": "ait siroté",
+      "nous": "ayons siroté",
+      "vous": "ayez siroté",
+      "ils": "aient siroté"
+    },
+    "subjonctif_imparfait": {
+      "je": "sirotasse",
+      "tu": "sirotasses",
+      "il": "sirotât",
+      "nous": "sirotassions",
+      "vous": "sirotassiez",
+      "ils": "sirotassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse siroté",
+      "tu": "eusses siroté",
+      "il": "eût siroté",
+      "nous": "eussions siroté",
+      "vous": "eussiez siroté",
+      "ils": "eussent siroté"
+    },
+    "conditionnel_présent": {
+      "je": "siroterais",
+      "tu": "siroterais",
+      "il": "siroterait",
+      "nous": "siroterions",
+      "vous": "siroteriez",
+      "ils": "siroteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais siroté",
+      "tu": "aurais siroté",
+      "il": "aurait siroté",
+      "nous": "aurions siroté",
+      "vous": "auriez siroté",
+      "ils": "auraient siroté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse siroté",
+      "tu": "eusses siroté",
+      "il": "eût siroté",
+      "nous": "eussions siroté",
+      "vous": "eussiez siroté",
+      "ils": "eussent siroté"
+    },
+    "translation": "sączyć",
+    "group": 1
+  },
+  {
+    "infinitive": "situer",
+    "présent": {
+      "je": "situe",
+      "tu": "situes",
+      "il": "situe",
+      "nous": "situons",
+      "vous": "situez",
+      "ils": "situent"
+    },
+    "passé_composé": {
+      "je": "ai situé",
+      "tu": "as situé",
+      "il": "a situé",
+      "nous": "avons situé",
+      "vous": "avez situé",
+      "ils": "ont situé"
+    },
+    "imparfait": {
+      "je": "situais",
+      "tu": "situais",
+      "il": "situait",
+      "nous": "situions",
+      "vous": "situiez",
+      "ils": "situaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais situé",
+      "tu": "avais situé",
+      "il": "avait situé",
+      "nous": "avions situé",
+      "vous": "aviez situé",
+      "ils": "avaient situé"
+    },
+    "passé_simple": {
+      "je": "situai",
+      "tu": "situas",
+      "il": "situa",
+      "nous": "situâmes",
+      "vous": "situâtes",
+      "ils": "situèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus situé",
+      "tu": "eus situé",
+      "il": "eut situé",
+      "nous": "eûmes situé",
+      "vous": "eûtes situé",
+      "ils": "eurent situé"
+    },
+    "futur_simple": {
+      "je": "situerai",
+      "tu": "situeras",
+      "il": "situera",
+      "nous": "situerons",
+      "vous": "situerez",
+      "ils": "situeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai situé",
+      "tu": "auras situé",
+      "il": "aura situé",
+      "nous": "aurons situé",
+      "vous": "aurez situé",
+      "ils": "auront situé"
+    },
+    "subjonctif_présent": {
+      "je": "situe",
+      "tu": "situes",
+      "il": "situe",
+      "nous": "situions",
+      "vous": "situiez",
+      "ils": "situent"
+    },
+    "subjonctif_passé": {
+      "je": "aie situé",
+      "tu": "aies situé",
+      "il": "ait situé",
+      "nous": "ayons situé",
+      "vous": "ayez situé",
+      "ils": "aient situé"
+    },
+    "subjonctif_imparfait": {
+      "je": "situasse",
+      "tu": "situasses",
+      "il": "situât",
+      "nous": "situassions",
+      "vous": "situassiez",
+      "ils": "situassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse situé",
+      "tu": "eusses situé",
+      "il": "eût situé",
+      "nous": "eussions situé",
+      "vous": "eussiez situé",
+      "ils": "eussent situé"
+    },
+    "conditionnel_présent": {
+      "je": "situerais",
+      "tu": "situerais",
+      "il": "situerait",
+      "nous": "situerions",
+      "vous": "situeriez",
+      "ils": "situeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais situé",
+      "tu": "aurais situé",
+      "il": "aurait situé",
+      "nous": "aurions situé",
+      "vous": "auriez situé",
+      "ils": "auraient situé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse situé",
+      "tu": "eusses situé",
+      "il": "eût situé",
+      "nous": "eussions situé",
+      "vous": "eussiez situé",
+      "ils": "eussent situé"
+    },
+    "translation": "umieścić",
+    "group": 1
+  },
+  {
+    "infinitive": "skier",
+    "présent": {
+      "je": "skie",
+      "tu": "skies",
+      "il": "skie",
+      "nous": "skions",
+      "vous": "skiez",
+      "ils": "skient"
+    },
+    "passé_composé": {
+      "je": "ai skié",
+      "tu": "as skié",
+      "il": "a skié",
+      "nous": "avons skié",
+      "vous": "avez skié",
+      "ils": "ont skié"
+    },
+    "imparfait": {
+      "je": "skiais",
+      "tu": "skiais",
+      "il": "skiait",
+      "nous": "skiions",
+      "vous": "skiiez",
+      "ils": "skiaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais skié",
+      "tu": "avais skié",
+      "il": "avait skié",
+      "nous": "avions skié",
+      "vous": "aviez skié",
+      "ils": "avaient skié"
+    },
+    "passé_simple": {
+      "je": "skiai",
+      "tu": "skias",
+      "il": "skia",
+      "nous": "skiâmes",
+      "vous": "skiâtes",
+      "ils": "skièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus skié",
+      "tu": "eus skié",
+      "il": "eut skié",
+      "nous": "eûmes skié",
+      "vous": "eûtes skié",
+      "ils": "eurent skié"
+    },
+    "futur_simple": {
+      "je": "skierai",
+      "tu": "skieras",
+      "il": "skiera",
+      "nous": "skierons",
+      "vous": "skierez",
+      "ils": "skieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai skié",
+      "tu": "auras skié",
+      "il": "aura skié",
+      "nous": "aurons skié",
+      "vous": "aurez skié",
+      "ils": "auront skié"
+    },
+    "subjonctif_présent": {
+      "je": "skie",
+      "tu": "skies",
+      "il": "skie",
+      "nous": "skiions",
+      "vous": "skiiez",
+      "ils": "skient"
+    },
+    "subjonctif_passé": {
+      "je": "aie skié",
+      "tu": "aies skié",
+      "il": "ait skié",
+      "nous": "ayons skié",
+      "vous": "ayez skié",
+      "ils": "aient skié"
+    },
+    "subjonctif_imparfait": {
+      "je": "skiasse",
+      "tu": "skiasses",
+      "il": "skiât",
+      "nous": "skiassions",
+      "vous": "skiassiez",
+      "ils": "skiassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse skié",
+      "tu": "eusses skié",
+      "il": "eût skié",
+      "nous": "eussions skié",
+      "vous": "eussiez skié",
+      "ils": "eussent skié"
+    },
+    "conditionnel_présent": {
+      "je": "skierais",
+      "tu": "skierais",
+      "il": "skierait",
+      "nous": "skierions",
+      "vous": "skieriez",
+      "ils": "skieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais skié",
+      "tu": "aurais skié",
+      "il": "aurait skié",
+      "nous": "aurions skié",
+      "vous": "auriez skié",
+      "ils": "auraient skié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse skié",
+      "tu": "eusses skié",
+      "il": "eût skié",
+      "nous": "eussions skié",
+      "vous": "eussiez skié",
+      "ils": "eussent skié"
+    },
+    "translation": "jeździć",
+    "group": 1
+  },
+  {
+    "infinitive": "soigner",
+    "présent": {
+      "je": "soigne",
+      "tu": "soignes",
+      "il": "soigne",
+      "nous": "soignons",
+      "vous": "soignez",
+      "ils": "soignent"
+    },
+    "passé_composé": {
+      "je": "ai soigné",
+      "tu": "as soigné",
+      "il": "a soigné",
+      "nous": "avons soigné",
+      "vous": "avez soigné",
+      "ils": "ont soigné"
+    },
+    "imparfait": {
+      "je": "soignais",
+      "tu": "soignais",
+      "il": "soignait",
+      "nous": "soignions",
+      "vous": "soigniez",
+      "ils": "soignaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais soigné",
+      "tu": "avais soigné",
+      "il": "avait soigné",
+      "nous": "avions soigné",
+      "vous": "aviez soigné",
+      "ils": "avaient soigné"
+    },
+    "passé_simple": {
+      "je": "soignai",
+      "tu": "soignas",
+      "il": "soigna",
+      "nous": "soignâmes",
+      "vous": "soignâtes",
+      "ils": "soignèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus soigné",
+      "tu": "eus soigné",
+      "il": "eut soigné",
+      "nous": "eûmes soigné",
+      "vous": "eûtes soigné",
+      "ils": "eurent soigné"
+    },
+    "futur_simple": {
+      "je": "soignerai",
+      "tu": "soigneras",
+      "il": "soignera",
+      "nous": "soignerons",
+      "vous": "soignerez",
+      "ils": "soigneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai soigné",
+      "tu": "auras soigné",
+      "il": "aura soigné",
+      "nous": "aurons soigné",
+      "vous": "aurez soigné",
+      "ils": "auront soigné"
+    },
+    "subjonctif_présent": {
+      "je": "soigne",
+      "tu": "soignes",
+      "il": "soigne",
+      "nous": "soignions",
+      "vous": "soigniez",
+      "ils": "soignent"
+    },
+    "subjonctif_passé": {
+      "je": "aie soigné",
+      "tu": "aies soigné",
+      "il": "ait soigné",
+      "nous": "ayons soigné",
+      "vous": "ayez soigné",
+      "ils": "aient soigné"
+    },
+    "subjonctif_imparfait": {
+      "je": "soignasse",
+      "tu": "soignasses",
+      "il": "soignât",
+      "nous": "soignassions",
+      "vous": "soignassiez",
+      "ils": "soignassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse soigné",
+      "tu": "eusses soigné",
+      "il": "eût soigné",
+      "nous": "eussions soigné",
+      "vous": "eussiez soigné",
+      "ils": "eussent soigné"
+    },
+    "conditionnel_présent": {
+      "je": "soignerais",
+      "tu": "soignerais",
+      "il": "soignerait",
+      "nous": "soignerions",
+      "vous": "soigneriez",
+      "ils": "soigneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais soigné",
+      "tu": "aurais soigné",
+      "il": "aurait soigné",
+      "nous": "aurions soigné",
+      "vous": "auriez soigné",
+      "ils": "auraient soigné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse soigné",
+      "tu": "eusses soigné",
+      "il": "eût soigné",
+      "nous": "eussions soigné",
+      "vous": "eussiez soigné",
+      "ils": "eussent soigné"
+    },
+    "translation": "leczyć",
+    "group": 1
+  }
+]

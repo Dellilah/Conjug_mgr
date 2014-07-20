@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "provenir",
+    "présent": {
+      "je": "proviens",
+      "tu": "proviens",
+      "il": "provient",
+      "nous": "provenons",
+      "vous": "provenez",
+      "ils": "proviennent"
+    },
+    "passé_composé": {
+      "je": "suis provenu",
+      "tu": "es provenu",
+      "il": "est provenu",
+      "nous": "sommes provenus",
+      "vous": "êtes provenus",
+      "ils": "sont provenus"
+    },
+    "imparfait": {
+      "je": "provenais",
+      "tu": "provenais",
+      "il": "provenait",
+      "nous": "provenions",
+      "vous": "proveniez",
+      "ils": "provenaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais provenu",
+      "tu": "étais provenu",
+      "il": "était provenu",
+      "nous": "étions provenus",
+      "vous": "étiez provenus",
+      "ils": "étaient provenus"
+    },
+    "passé_simple": {
+      "je": "provins",
+      "tu": "provins",
+      "il": "provint",
+      "nous": "provînmes",
+      "vous": "provîntes",
+      "ils": "provinrent"
+    },
+    "passé_antérieur": {
+      "je": "fus provenu",
+      "tu": "fus provenu",
+      "il": "fut provenu",
+      "nous": "fûmes provenus",
+      "vous": "fûtes provenus",
+      "ils": "furent provenus"
+    },
+    "futur_simple": {
+      "je": "proviendrai",
+      "tu": "proviendras",
+      "il": "proviendra",
+      "nous": "proviendrons",
+      "vous": "proviendrez",
+      "ils": "proviendront"
+    },
+    "futur_antérieur": {
+      "je": "serai provenu",
+      "tu": "seras provenu",
+      "il": "sera provenu",
+      "nous": "serons provenus",
+      "vous": "serez provenus",
+      "ils": "seront provenus"
+    },
+    "subjonctif_présent": {
+      "je": "provienne",
+      "tu": "proviennes",
+      "il": "provienne",
+      "nous": "provenions",
+      "vous": "proveniez",
+      "ils": "proviennent"
+    },
+    "subjonctif_passé": {
+      "je": "sois provenu",
+      "tu": "sois provenu",
+      "il": "soit provenu",
+      "nous": "soyons provenus",
+      "vous": "soyez provenus",
+      "ils": "soient provenus"
+    },
+    "subjonctif_imparfait": {
+      "je": "provinsse",
+      "tu": "provinsses",
+      "il": "provînt",
+      "nous": "provinssions",
+      "vous": "provinssiez",
+      "ils": "provinssent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "fusse provenu",
+      "tu": "fusses provenu",
+      "il": "fût provenu",
+      "nous": "fussions provenus",
+      "vous": "fussiez provenus",
+      "ils": "fussent provenus"
+    },
+    "conditionnel_présent": {
+      "je": "proviendrais",
+      "tu": "proviendrais",
+      "il": "proviendrait",
+      "nous": "proviendrions",
+      "vous": "proviendriez",
+      "ils": "proviendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "serais provenu",
+      "tu": "serais provenu",
+      "il": "serait provenu",
+      "nous": "serions provenus",
+      "vous": "seriez provenus",
+      "ils": "seraient provenus"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "fusse provenu",
+      "tu": "fusses provenu",
+      "il": "fût provenu",
+      "nous": "fussions provenus",
+      "vous": "fussiez provenus",
+      "ils": "fussent provenus"
+    },
+    "translation": "provenir",
+    "group": 3
+  },
+  {
+    "infinitive": "provoquer",
+    "présent": {
+      "je": "provoque",
+      "tu": "provoques",
+      "il": "provoque",
+      "nous": "provoquons",
+      "vous": "provoquez",
+      "ils": "provoquent"
+    },
+    "passé_composé": {
+      "je": "ai provoqué",
+      "tu": "as provoqué",
+      "il": "a provoqué",
+      "nous": "avons provoqué",
+      "vous": "avez provoqué",
+      "ils": "ont provoqué"
+    },
+    "imparfait": {
+      "je": "provoquais",
+      "tu": "provoquais",
+      "il": "provoquait",
+      "nous": "provoquions",
+      "vous": "provoquiez",
+      "ils": "provoquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais provoqué",
+      "tu": "avais provoqué",
+      "il": "avait provoqué",
+      "nous": "avions provoqué",
+      "vous": "aviez provoqué",
+      "ils": "avaient provoqué"
+    },
+    "passé_simple": {
+      "je": "provoquai",
+      "tu": "provoquas",
+      "il": "provoqua",
+      "nous": "provoquâmes",
+      "vous": "provoquâtes",
+      "ils": "provoquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus provoqué",
+      "tu": "eus provoqué",
+      "il": "eut provoqué",
+      "nous": "eûmes provoqué",
+      "vous": "eûtes provoqué",
+      "ils": "eurent provoqué"
+    },
+    "futur_simple": {
+      "je": "provoquerai",
+      "tu": "provoqueras",
+      "il": "provoquera",
+      "nous": "provoquerons",
+      "vous": "provoquerez",
+      "ils": "provoqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai provoqué",
+      "tu": "auras provoqué",
+      "il": "aura provoqué",
+      "nous": "aurons provoqué",
+      "vous": "aurez provoqué",
+      "ils": "auront provoqué"
+    },
+    "subjonctif_présent": {
+      "je": "provoque",
+      "tu": "provoques",
+      "il": "provoque",
+      "nous": "provoquions",
+      "vous": "provoquiez",
+      "ils": "provoquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie provoqué",
+      "tu": "aies provoqué",
+      "il": "ait provoqué",
+      "nous": "ayons provoqué",
+      "vous": "ayez provoqué",
+      "ils": "aient provoqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "provoquasse",
+      "tu": "provoquasses",
+      "il": "provoquât",
+      "nous": "provoquassions",
+      "vous": "provoquassiez",
+      "ils": "provoquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse provoqué",
+      "tu": "eusses provoqué",
+      "il": "eût provoqué",
+      "nous": "eussions provoqué",
+      "vous": "eussiez provoqué",
+      "ils": "eussent provoqué"
+    },
+    "conditionnel_présent": {
+      "je": "provoquerais",
+      "tu": "provoquerais",
+      "il": "provoquerait",
+      "nous": "provoquerions",
+      "vous": "provoqueriez",
+      "ils": "provoqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais provoqué",
+      "tu": "aurais provoqué",
+      "il": "aurait provoqué",
+      "nous": "aurions provoqué",
+      "vous": "auriez provoqué",
+      "ils": "auraient provoqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse provoqué",
+      "tu": "eusses provoqué",
+      "il": "eût provoqué",
+      "nous": "eussions provoqué",
+      "vous": "eussiez provoqué",
+      "ils": "eussent provoqué"
+    },
+    "translation": "powodować",
+    "group": 1
+  },
+  {
+    "infinitive": "publier",
+    "présent": {
+      "je": "publie",
+      "tu": "publies",
+      "il": "publie",
+      "nous": "publions",
+      "vous": "publiez",
+      "ils": "publient"
+    },
+    "passé_composé": {
+      "je": "ai publié",
+      "tu": "as publié",
+      "il": "a publié",
+      "nous": "avons publié",
+      "vous": "avez publié",
+      "ils": "ont publié"
+    },
+    "imparfait": {
+      "je": "publiais",
+      "tu": "publiais",
+      "il": "publiait",
+      "nous": "publiions",
+      "vous": "publiiez",
+      "ils": "publiaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais publié",
+      "tu": "avais publié",
+      "il": "avait publié",
+      "nous": "avions publié",
+      "vous": "aviez publié",
+      "ils": "avaient publié"
+    },
+    "passé_simple": {
+      "je": "publiai",
+      "tu": "publias",
+      "il": "publia",
+      "nous": "publiâmes",
+      "vous": "publiâtes",
+      "ils": "publièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus publié",
+      "tu": "eus publié",
+      "il": "eut publié",
+      "nous": "eûmes publié",
+      "vous": "eûtes publié",
+      "ils": "eurent publié"
+    },
+    "futur_simple": {
+      "je": "publierai",
+      "tu": "publieras",
+      "il": "publiera",
+      "nous": "publierons",
+      "vous": "publierez",
+      "ils": "publieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai publié",
+      "tu": "auras publié",
+      "il": "aura publié",
+      "nous": "aurons publié",
+      "vous": "aurez publié",
+      "ils": "auront publié"
+    },
+    "subjonctif_présent": {
+      "je": "publie",
+      "tu": "publies",
+      "il": "publie",
+      "nous": "publiions",
+      "vous": "publiiez",
+      "ils": "publient"
+    },
+    "subjonctif_passé": {
+      "je": "aie publié",
+      "tu": "aies publié",
+      "il": "ait publié",
+      "nous": "ayons publié",
+      "vous": "ayez publié",
+      "ils": "aient publié"
+    },
+    "subjonctif_imparfait": {
+      "je": "publiasse",
+      "tu": "publiasses",
+      "il": "publiât",
+      "nous": "publiassions",
+      "vous": "publiassiez",
+      "ils": "publiassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse publié",
+      "tu": "eusses publié",
+      "il": "eût publié",
+      "nous": "eussions publié",
+      "vous": "eussiez publié",
+      "ils": "eussent publié"
+    },
+    "conditionnel_présent": {
+      "je": "publierais",
+      "tu": "publierais",
+      "il": "publierait",
+      "nous": "publierions",
+      "vous": "publieriez",
+      "ils": "publieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais publié",
+      "tu": "aurais publié",
+      "il": "aurait publié",
+      "nous": "aurions publié",
+      "vous": "auriez publié",
+      "ils": "auraient publié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse publié",
+      "tu": "eusses publié",
+      "il": "eût publié",
+      "nous": "eussions publié",
+      "vous": "eussiez publié",
+      "ils": "eussent publié"
+    },
+    "translation": "publikować",
+    "group": 1
+  },
+  {
+    "infinitive": "puer",
+    "présent": {
+      "je": "pue",
+      "tu": "pues",
+      "il": "pue",
+      "nous": "puons",
+      "vous": "puez",
+      "ils": "puent"
+    },
+    "passé_composé": {
+      "je": "ai pué",
+      "tu": "as pué",
+      "il": "a pué",
+      "nous": "avons pué",
+      "vous": "avez pué",
+      "ils": "ont pué"
+    },
+    "imparfait": {
+      "je": "puais",
+      "tu": "puais",
+      "il": "puait",
+      "nous": "puions",
+      "vous": "puiez",
+      "ils": "puaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais pué",
+      "tu": "avais pué",
+      "il": "avait pué",
+      "nous": "avions pué",
+      "vous": "aviez pué",
+      "ils": "avaient pué"
+    },
+    "passé_simple": {
+      "je": "puai",
+      "tu": "puas",
+      "il": "pua",
+      "nous": "puâmes",
+      "vous": "puâtes",
+      "ils": "puèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus pué",
+      "tu": "eus pué",
+      "il": "eut pué",
+      "nous": "eûmes pué",
+      "vous": "eûtes pué",
+      "ils": "eurent pué"
+    },
+    "futur_simple": {
+      "je": "puerai",
+      "tu": "pueras",
+      "il": "puera",
+      "nous": "puerons",
+      "vous": "puerez",
+      "ils": "pueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai pué",
+      "tu": "auras pué",
+      "il": "aura pué",
+      "nous": "aurons pué",
+      "vous": "aurez pué",
+      "ils": "auront pué"
+    },
+    "subjonctif_présent": {
+      "je": "pue",
+      "tu": "pues",
+      "il": "pue",
+      "nous": "puions",
+      "vous": "puiez",
+      "ils": "puent"
+    },
+    "subjonctif_passé": {
+      "je": "aie pué",
+      "tu": "aies pué",
+      "il": "ait pué",
+      "nous": "ayons pué",
+      "vous": "ayez pué",
+      "ils": "aient pué"
+    },
+    "subjonctif_imparfait": {
+      "je": "puasse",
+      "tu": "puasses",
+      "il": "puât",
+      "nous": "puassions",
+      "vous": "puassiez",
+      "ils": "puassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse pué",
+      "tu": "eusses pué",
+      "il": "eût pué",
+      "nous": "eussions pué",
+      "vous": "eussiez pué",
+      "ils": "eussent pué"
+    },
+    "conditionnel_présent": {
+      "je": "puerais",
+      "tu": "puerais",
+      "il": "puerait",
+      "nous": "puerions",
+      "vous": "pueriez",
+      "ils": "pueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais pué",
+      "tu": "aurais pué",
+      "il": "aurait pué",
+      "nous": "aurions pué",
+      "vous": "auriez pué",
+      "ils": "auraient pué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse pué",
+      "tu": "eusses pué",
+      "il": "eût pué",
+      "nous": "eussions pué",
+      "vous": "eussiez pué",
+      "ils": "eussent pué"
+    },
+    "translation": "cuchnąć",
+    "group": 1
+  },
+  {
+    "infinitive": "puiser",
+    "présent": {
+      "je": "puise",
+      "tu": "puises",
+      "il": "puise",
+      "nous": "puisons",
+      "vous": "puisez",
+      "ils": "puisent"
+    },
+    "passé_composé": {
+      "je": "ai puisé",
+      "tu": "as puisé",
+      "il": "a puisé",
+      "nous": "avons puisé",
+      "vous": "avez puisé",
+      "ils": "ont puisé"
+    },
+    "imparfait": {
+      "je": "puisais",
+      "tu": "puisais",
+      "il": "puisait",
+      "nous": "puisions",
+      "vous": "puisiez",
+      "ils": "puisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais puisé",
+      "tu": "avais puisé",
+      "il": "avait puisé",
+      "nous": "avions puisé",
+      "vous": "aviez puisé",
+      "ils": "avaient puisé"
+    },
+    "passé_simple": {
+      "je": "puisai",
+      "tu": "puisas",
+      "il": "puisa",
+      "nous": "puisâmes",
+      "vous": "puisâtes",
+      "ils": "puisèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus puisé",
+      "tu": "eus puisé",
+      "il": "eut puisé",
+      "nous": "eûmes puisé",
+      "vous": "eûtes puisé",
+      "ils": "eurent puisé"
+    },
+    "futur_simple": {
+      "je": "puiserai",
+      "tu": "puiseras",
+      "il": "puisera",
+      "nous": "puiserons",
+      "vous": "puiserez",
+      "ils": "puiseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai puisé",
+      "tu": "auras puisé",
+      "il": "aura puisé",
+      "nous": "aurons puisé",
+      "vous": "aurez puisé",
+      "ils": "auront puisé"
+    },
+    "subjonctif_présent": {
+      "je": "puise",
+      "tu": "puises",
+      "il": "puise",
+      "nous": "puisions",
+      "vous": "puisiez",
+      "ils": "puisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie puisé",
+      "tu": "aies puisé",
+      "il": "ait puisé",
+      "nous": "ayons puisé",
+      "vous": "ayez puisé",
+      "ils": "aient puisé"
+    },
+    "subjonctif_imparfait": {
+      "je": "puisasse",
+      "tu": "puisasses",
+      "il": "puisât",
+      "nous": "puisassions",
+      "vous": "puisassiez",
+      "ils": "puisassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse puisé",
+      "tu": "eusses puisé",
+      "il": "eût puisé",
+      "nous": "eussions puisé",
+      "vous": "eussiez puisé",
+      "ils": "eussent puisé"
+    },
+    "conditionnel_présent": {
+      "je": "puiserais",
+      "tu": "puiserais",
+      "il": "puiserait",
+      "nous": "puiserions",
+      "vous": "puiseriez",
+      "ils": "puiseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais puisé",
+      "tu": "aurais puisé",
+      "il": "aurait puisé",
+      "nous": "aurions puisé",
+      "vous": "auriez puisé",
+      "ils": "auraient puisé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse puisé",
+      "tu": "eusses puisé",
+      "il": "eût puisé",
+      "nous": "eussions puisé",
+      "vous": "eussiez puisé",
+      "ils": "eussent puisé"
+    },
+    "translation": "puiser",
+    "group": 1
+  },
+  {
+    "infinitive": "pulluler",
+    "présent": {
+      "je": "pullule",
+      "tu": "pullules",
+      "il": "pullule",
+      "nous": "pullulons",
+      "vous": "pullulez",
+      "ils": "pullulent"
+    },
+    "passé_composé": {
+      "je": "ai pullulé",
+      "tu": "as pullulé",
+      "il": "a pullulé",
+      "nous": "avons pullulé",
+      "vous": "avez pullulé",
+      "ils": "ont pullulé"
+    },
+    "imparfait": {
+      "je": "pullulais",
+      "tu": "pullulais",
+      "il": "pullulait",
+      "nous": "pullulions",
+      "vous": "pulluliez",
+      "ils": "pullulaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais pullulé",
+      "tu": "avais pullulé",
+      "il": "avait pullulé",
+      "nous": "avions pullulé",
+      "vous": "aviez pullulé",
+      "ils": "avaient pullulé"
+    },
+    "passé_simple": {
+      "je": "pullulai",
+      "tu": "pullulas",
+      "il": "pullula",
+      "nous": "pullulâmes",
+      "vous": "pullulâtes",
+      "ils": "pullulèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus pullulé",
+      "tu": "eus pullulé",
+      "il": "eut pullulé",
+      "nous": "eûmes pullulé",
+      "vous": "eûtes pullulé",
+      "ils": "eurent pullulé"
+    },
+    "futur_simple": {
+      "je": "pullulerai",
+      "tu": "pulluleras",
+      "il": "pullulera",
+      "nous": "pullulerons",
+      "vous": "pullulerez",
+      "ils": "pulluleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai pullulé",
+      "tu": "auras pullulé",
+      "il": "aura pullulé",
+      "nous": "aurons pullulé",
+      "vous": "aurez pullulé",
+      "ils": "auront pullulé"
+    },
+    "subjonctif_présent": {
+      "je": "pullule",
+      "tu": "pullules",
+      "il": "pullule",
+      "nous": "pullulions",
+      "vous": "pulluliez",
+      "ils": "pullulent"
+    },
+    "subjonctif_passé": {
+      "je": "aie pullulé",
+      "tu": "aies pullulé",
+      "il": "ait pullulé",
+      "nous": "ayons pullulé",
+      "vous": "ayez pullulé",
+      "ils": "aient pullulé"
+    },
+    "subjonctif_imparfait": {
+      "je": "pullulasse",
+      "tu": "pullulasses",
+      "il": "pullulât",
+      "nous": "pullulassions",
+      "vous": "pullulassiez",
+      "ils": "pullulassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse pullulé",
+      "tu": "eusses pullulé",
+      "il": "eût pullulé",
+      "nous": "eussions pullulé",
+      "vous": "eussiez pullulé",
+      "ils": "eussent pullulé"
+    },
+    "conditionnel_présent": {
+      "je": "pullulerais",
+      "tu": "pullulerais",
+      "il": "pullulerait",
+      "nous": "pullulerions",
+      "vous": "pulluleriez",
+      "ils": "pulluleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais pullulé",
+      "tu": "aurais pullulé",
+      "il": "aurait pullulé",
+      "nous": "aurions pullulé",
+      "vous": "auriez pullulé",
+      "ils": "auraient pullulé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse pullulé",
+      "tu": "eusses pullulé",
+      "il": "eût pullulé",
+      "nous": "eussions pullulé",
+      "vous": "eussiez pullulé",
+      "ils": "eussent pullulé"
+    },
+    "translation": "sweter",
+    "group": 1
+  },
+  {
+    "infinitive": "punir",
+    "présent": {
+      "je": "punis",
+      "tu": "punis",
+      "il": "punit",
+      "nous": "punissons",
+      "vous": "punissez",
+      "ils": "punissent"
+    },
+    "passé_composé": {
+      "je": "ai puni",
+      "tu": "as puni",
+      "il": "a puni",
+      "nous": "avons puni",
+      "vous": "avez puni",
+      "ils": "ont puni"
+    },
+    "imparfait": {
+      "je": "punissais",
+      "tu": "punissais",
+      "il": "punissait",
+      "nous": "punissions",
+      "vous": "punissiez",
+      "ils": "punissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais puni",
+      "tu": "avais puni",
+      "il": "avait puni",
+      "nous": "avions puni",
+      "vous": "aviez puni",
+      "ils": "avaient puni"
+    },
+    "passé_simple": {
+      "je": "punis",
+      "tu": "punis",
+      "il": "punit",
+      "nous": "punîmes",
+      "vous": "punîtes",
+      "ils": "punirent"
+    },
+    "passé_antérieur": {
+      "je": "eus puni",
+      "tu": "eus puni",
+      "il": "eut puni",
+      "nous": "eûmes puni",
+      "vous": "eûtes puni",
+      "ils": "eurent puni"
+    },
+    "futur_simple": {
+      "je": "punirai",
+      "tu": "puniras",
+      "il": "punira",
+      "nous": "punirons",
+      "vous": "punirez",
+      "ils": "puniront"
+    },
+    "futur_antérieur": {
+      "je": "aurai puni",
+      "tu": "auras puni",
+      "il": "aura puni",
+      "nous": "aurons puni",
+      "vous": "aurez puni",
+      "ils": "auront puni"
+    },
+    "subjonctif_présent": {
+      "je": "punisse",
+      "tu": "punisses",
+      "il": "punisse",
+      "nous": "punissions",
+      "vous": "punissiez",
+      "ils": "punissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie puni",
+      "tu": "aies puni",
+      "il": "ait puni",
+      "nous": "ayons puni",
+      "vous": "ayez puni",
+      "ils": "aient puni"
+    },
+    "subjonctif_imparfait": {
+      "je": "punisse",
+      "tu": "punisses",
+      "il": "punît",
+      "nous": "punissions",
+      "vous": "punissiez",
+      "ils": "punissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse puni",
+      "tu": "eusses puni",
+      "il": "eût puni",
+      "nous": "eussions puni",
+      "vous": "eussiez puni",
+      "ils": "eussent puni"
+    },
+    "conditionnel_présent": {
+      "je": "punirais",
+      "tu": "punirais",
+      "il": "punirait",
+      "nous": "punirions",
+      "vous": "puniriez",
+      "ils": "puniraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais puni",
+      "tu": "aurais puni",
+      "il": "aurait puni",
+      "nous": "aurions puni",
+      "vous": "auriez puni",
+      "ils": "auraient puni"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse puni",
+      "tu": "eusses puni",
+      "il": "eût puni",
+      "nous": "eussions puni",
+      "vous": "eussiez puni",
+      "ils": "eussent puni"
+    },
+    "translation": "karać",
+    "group": 2
+  },
+  {
+    "infinitive": "qualifier",
+    "présent": {
+      "je": "qualifie",
+      "tu": "qualifies",
+      "il": "qualifie",
+      "nous": "qualifions",
+      "vous": "qualifiez",
+      "ils": "qualifient"
+    },
+    "passé_composé": {
+      "je": "ai qualifié",
+      "tu": "as qualifié",
+      "il": "a qualifié",
+      "nous": "avons qualifié",
+      "vous": "avez qualifié",
+      "ils": "ont qualifié"
+    },
+    "imparfait": {
+      "je": "qualifiais",
+      "tu": "qualifiais",
+      "il": "qualifiait",
+      "nous": "qualifiions",
+      "vous": "qualifiiez",
+      "ils": "qualifiaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais qualifié",
+      "tu": "avais qualifié",
+      "il": "avait qualifié",
+      "nous": "avions qualifié",
+      "vous": "aviez qualifié",
+      "ils": "avaient qualifié"
+    },
+    "passé_simple": {
+      "je": "qualifiai",
+      "tu": "qualifias",
+      "il": "qualifia",
+      "nous": "qualifiâmes",
+      "vous": "qualifiâtes",
+      "ils": "qualifièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus qualifié",
+      "tu": "eus qualifié",
+      "il": "eut qualifié",
+      "nous": "eûmes qualifié",
+      "vous": "eûtes qualifié",
+      "ils": "eurent qualifié"
+    },
+    "futur_simple": {
+      "je": "qualifierai",
+      "tu": "qualifieras",
+      "il": "qualifiera",
+      "nous": "qualifierons",
+      "vous": "qualifierez",
+      "ils": "qualifieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai qualifié",
+      "tu": "auras qualifié",
+      "il": "aura qualifié",
+      "nous": "aurons qualifié",
+      "vous": "aurez qualifié",
+      "ils": "auront qualifié"
+    },
+    "subjonctif_présent": {
+      "je": "qualifie",
+      "tu": "qualifies",
+      "il": "qualifie",
+      "nous": "qualifiions",
+      "vous": "qualifiiez",
+      "ils": "qualifient"
+    },
+    "subjonctif_passé": {
+      "je": "aie qualifié",
+      "tu": "aies qualifié",
+      "il": "ait qualifié",
+      "nous": "ayons qualifié",
+      "vous": "ayez qualifié",
+      "ils": "aient qualifié"
+    },
+    "subjonctif_imparfait": {
+      "je": "qualifiasse",
+      "tu": "qualifiasses",
+      "il": "qualifiât",
+      "nous": "qualifiassions",
+      "vous": "qualifiassiez",
+      "ils": "qualifiassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse qualifié",
+      "tu": "eusses qualifié",
+      "il": "eût qualifié",
+      "nous": "eussions qualifié",
+      "vous": "eussiez qualifié",
+      "ils": "eussent qualifié"
+    },
+    "conditionnel_présent": {
+      "je": "qualifierais",
+      "tu": "qualifierais",
+      "il": "qualifierait",
+      "nous": "qualifierions",
+      "vous": "qualifieriez",
+      "ils": "qualifieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais qualifié",
+      "tu": "aurais qualifié",
+      "il": "aurait qualifié",
+      "nous": "aurions qualifié",
+      "vous": "auriez qualifié",
+      "ils": "auraient qualifié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse qualifié",
+      "tu": "eusses qualifié",
+      "il": "eût qualifié",
+      "nous": "eussions qualifié",
+      "vous": "eussiez qualifié",
+      "ils": "eussent qualifié"
+    },
+    "translation": "zakwalifikować",
+    "group": 1
+  },
+  {
+    "infinitive": "quémander",
+    "présent": {
+      "je": "quémande",
+      "tu": "quémandes",
+      "il": "quémande",
+      "nous": "quémandons",
+      "vous": "quémandez",
+      "ils": "quémandent"
+    },
+    "passé_composé": {
+      "je": "ai quémandé",
+      "tu": "as quémandé",
+      "il": "a quémandé",
+      "nous": "avons quémandé",
+      "vous": "avez quémandé",
+      "ils": "ont quémandé"
+    },
+    "imparfait": {
+      "je": "quémandais",
+      "tu": "quémandais",
+      "il": "quémandait",
+      "nous": "quémandions",
+      "vous": "quémandiez",
+      "ils": "quémandaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais quémandé",
+      "tu": "avais quémandé",
+      "il": "avait quémandé",
+      "nous": "avions quémandé",
+      "vous": "aviez quémandé",
+      "ils": "avaient quémandé"
+    },
+    "passé_simple": {
+      "je": "quémandai",
+      "tu": "quémandas",
+      "il": "quémanda",
+      "nous": "quémandâmes",
+      "vous": "quémandâtes",
+      "ils": "quémandèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus quémandé",
+      "tu": "eus quémandé",
+      "il": "eut quémandé",
+      "nous": "eûmes quémandé",
+      "vous": "eûtes quémandé",
+      "ils": "eurent quémandé"
+    },
+    "futur_simple": {
+      "je": "quémanderai",
+      "tu": "quémanderas",
+      "il": "quémandera",
+      "nous": "quémanderons",
+      "vous": "quémanderez",
+      "ils": "quémanderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai quémandé",
+      "tu": "auras quémandé",
+      "il": "aura quémandé",
+      "nous": "aurons quémandé",
+      "vous": "aurez quémandé",
+      "ils": "auront quémandé"
+    },
+    "subjonctif_présent": {
+      "je": "quémande",
+      "tu": "quémandes",
+      "il": "quémande",
+      "nous": "quémandions",
+      "vous": "quémandiez",
+      "ils": "quémandent"
+    },
+    "subjonctif_passé": {
+      "je": "aie quémandé",
+      "tu": "aies quémandé",
+      "il": "ait quémandé",
+      "nous": "ayons quémandé",
+      "vous": "ayez quémandé",
+      "ils": "aient quémandé"
+    },
+    "subjonctif_imparfait": {
+      "je": "quémandasse",
+      "tu": "quémandasses",
+      "il": "quémandât",
+      "nous": "quémandassions",
+      "vous": "quémandassiez",
+      "ils": "quémandassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse quémandé",
+      "tu": "eusses quémandé",
+      "il": "eût quémandé",
+      "nous": "eussions quémandé",
+      "vous": "eussiez quémandé",
+      "ils": "eussent quémandé"
+    },
+    "conditionnel_présent": {
+      "je": "quémanderais",
+      "tu": "quémanderais",
+      "il": "quémanderait",
+      "nous": "quémanderions",
+      "vous": "quémanderiez",
+      "ils": "quémanderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais quémandé",
+      "tu": "aurais quémandé",
+      "il": "aurait quémandé",
+      "nous": "aurions quémandé",
+      "vous": "auriez quémandé",
+      "ils": "auraient quémandé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse quémandé",
+      "tu": "eusses quémandé",
+      "il": "eût quémandé",
+      "nous": "eussions quémandé",
+      "vous": "eussiez quémandé",
+      "ils": "eussent quémandé"
+    },
+    "translation": "żebrać",
+    "group": 1
+  },
+  {
+    "infinitive": "querir",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "leczyć",
+    "group": 3
+  }
+]

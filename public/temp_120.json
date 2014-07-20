@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "louper",
+    "présent": {
+      "je": "loupe",
+      "tu": "loupes",
+      "il": "loupe",
+      "nous": "loupons",
+      "vous": "loupez",
+      "ils": "loupent"
+    },
+    "passé_composé": {
+      "je": "ai loupé",
+      "tu": "as loupé",
+      "il": "a loupé",
+      "nous": "avons loupé",
+      "vous": "avez loupé",
+      "ils": "ont loupé"
+    },
+    "imparfait": {
+      "je": "loupais",
+      "tu": "loupais",
+      "il": "loupait",
+      "nous": "loupions",
+      "vous": "loupiez",
+      "ils": "loupaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais loupé",
+      "tu": "avais loupé",
+      "il": "avait loupé",
+      "nous": "avions loupé",
+      "vous": "aviez loupé",
+      "ils": "avaient loupé"
+    },
+    "passé_simple": {
+      "je": "loupai",
+      "tu": "loupas",
+      "il": "loupa",
+      "nous": "loupâmes",
+      "vous": "loupâtes",
+      "ils": "loupèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus loupé",
+      "tu": "eus loupé",
+      "il": "eut loupé",
+      "nous": "eûmes loupé",
+      "vous": "eûtes loupé",
+      "ils": "eurent loupé"
+    },
+    "futur_simple": {
+      "je": "louperai",
+      "tu": "louperas",
+      "il": "loupera",
+      "nous": "louperons",
+      "vous": "louperez",
+      "ils": "louperont"
+    },
+    "futur_antérieur": {
+      "je": "aurai loupé",
+      "tu": "auras loupé",
+      "il": "aura loupé",
+      "nous": "aurons loupé",
+      "vous": "aurez loupé",
+      "ils": "auront loupé"
+    },
+    "subjonctif_présent": {
+      "je": "loupe",
+      "tu": "loupes",
+      "il": "loupe",
+      "nous": "loupions",
+      "vous": "loupiez",
+      "ils": "loupent"
+    },
+    "subjonctif_passé": {
+      "je": "aie loupé",
+      "tu": "aies loupé",
+      "il": "ait loupé",
+      "nous": "ayons loupé",
+      "vous": "ayez loupé",
+      "ils": "aient loupé"
+    },
+    "subjonctif_imparfait": {
+      "je": "loupasse",
+      "tu": "loupasses",
+      "il": "loupât",
+      "nous": "loupassions",
+      "vous": "loupassiez",
+      "ils": "loupassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse loupé",
+      "tu": "eusses loupé",
+      "il": "eût loupé",
+      "nous": "eussions loupé",
+      "vous": "eussiez loupé",
+      "ils": "eussent loupé"
+    },
+    "conditionnel_présent": {
+      "je": "louperais",
+      "tu": "louperais",
+      "il": "louperait",
+      "nous": "louperions",
+      "vous": "louperiez",
+      "ils": "louperaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais loupé",
+      "tu": "aurais loupé",
+      "il": "aurait loupé",
+      "nous": "aurions loupé",
+      "vous": "auriez loupé",
+      "ils": "auraient loupé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse loupé",
+      "tu": "eusses loupé",
+      "il": "eût loupé",
+      "nous": "eussions loupé",
+      "vous": "eussiez loupé",
+      "ils": "eussent loupé"
+    },
+    "translation": "zawalić",
+    "group": 1
+  },
+  {
+    "infinitive": "louvoyer",
+    "présent": {
+      "je": "louvoie",
+      "tu": "louvoies",
+      "il": "louvoie",
+      "nous": "louvoyons",
+      "vous": "louvoyez",
+      "ils": "louvoient"
+    },
+    "passé_composé": {
+      "je": "ai louvoyé",
+      "tu": "as louvoyé",
+      "il": "a louvoyé",
+      "nous": "avons louvoyé",
+      "vous": "avez louvoyé",
+      "ils": "ont louvoyé"
+    },
+    "imparfait": {
+      "je": "louvoyais",
+      "tu": "louvoyais",
+      "il": "louvoyait",
+      "nous": "louvoyions",
+      "vous": "louvoyiez",
+      "ils": "louvoyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais louvoyé",
+      "tu": "avais louvoyé",
+      "il": "avait louvoyé",
+      "nous": "avions louvoyé",
+      "vous": "aviez louvoyé",
+      "ils": "avaient louvoyé"
+    },
+    "passé_simple": {
+      "je": "louvoyai",
+      "tu": "louvoyas",
+      "il": "louvoya",
+      "nous": "louvoyâmes",
+      "vous": "louvoyâtes",
+      "ils": "louvoyèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus louvoyé",
+      "tu": "eus louvoyé",
+      "il": "eut louvoyé",
+      "nous": "eûmes louvoyé",
+      "vous": "eûtes louvoyé",
+      "ils": "eurent louvoyé"
+    },
+    "futur_simple": {
+      "je": "louvoierai",
+      "tu": "louvoieras",
+      "il": "louvoiera",
+      "nous": "louvoierons",
+      "vous": "louvoierez",
+      "ils": "louvoieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai louvoyé",
+      "tu": "auras louvoyé",
+      "il": "aura louvoyé",
+      "nous": "aurons louvoyé",
+      "vous": "aurez louvoyé",
+      "ils": "auront louvoyé"
+    },
+    "subjonctif_présent": {
+      "je": "louvoie",
+      "tu": "louvoies",
+      "il": "louvoie",
+      "nous": "louvoyions",
+      "vous": "louvoyiez",
+      "ils": "louvoient"
+    },
+    "subjonctif_passé": {
+      "je": "aie louvoyé",
+      "tu": "aies louvoyé",
+      "il": "ait louvoyé",
+      "nous": "ayons louvoyé",
+      "vous": "ayez louvoyé",
+      "ils": "aient louvoyé"
+    },
+    "subjonctif_imparfait": {
+      "je": "louvoyasse",
+      "tu": "louvoyasses",
+      "il": "louvoyât",
+      "nous": "louvoyassions",
+      "vous": "louvoyassiez",
+      "ils": "louvoyassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse louvoyé",
+      "tu": "eusses louvoyé",
+      "il": "eût louvoyé",
+      "nous": "eussions louvoyé",
+      "vous": "eussiez louvoyé",
+      "ils": "eussent louvoyé"
+    },
+    "conditionnel_présent": {
+      "je": "louvoierais",
+      "tu": "louvoierais",
+      "il": "louvoierait",
+      "nous": "louvoierions",
+      "vous": "louvoieriez",
+      "ils": "louvoieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais louvoyé",
+      "tu": "aurais louvoyé",
+      "il": "aurait louvoyé",
+      "nous": "aurions louvoyé",
+      "vous": "auriez louvoyé",
+      "ils": "auraient louvoyé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse louvoyé",
+      "tu": "eusses louvoyé",
+      "il": "eût louvoyé",
+      "nous": "eussions louvoyé",
+      "vous": "eussiez louvoyé",
+      "ils": "eussent louvoyé"
+    },
+    "translation": "lawirować",
+    "group": 1
+  },
+  {
+    "infinitive": "lover",
+    "présent": {
+      "je": "love",
+      "tu": "loves",
+      "il": "love",
+      "nous": "lovons",
+      "vous": "lovez",
+      "ils": "lovent"
+    },
+    "passé_composé": {
+      "je": "ai lové",
+      "tu": "as lové",
+      "il": "a lové",
+      "nous": "avons lové",
+      "vous": "avez lové",
+      "ils": "ont lové"
+    },
+    "imparfait": {
+      "je": "lovais",
+      "tu": "lovais",
+      "il": "lovait",
+      "nous": "lovions",
+      "vous": "loviez",
+      "ils": "lovaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais lové",
+      "tu": "avais lové",
+      "il": "avait lové",
+      "nous": "avions lové",
+      "vous": "aviez lové",
+      "ils": "avaient lové"
+    },
+    "passé_simple": {
+      "je": "lovai",
+      "tu": "lovas",
+      "il": "lova",
+      "nous": "lovâmes",
+      "vous": "lovâtes",
+      "ils": "lovèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus lové",
+      "tu": "eus lové",
+      "il": "eut lové",
+      "nous": "eûmes lové",
+      "vous": "eûtes lové",
+      "ils": "eurent lové"
+    },
+    "futur_simple": {
+      "je": "loverai",
+      "tu": "loveras",
+      "il": "lovera",
+      "nous": "loverons",
+      "vous": "loverez",
+      "ils": "loveront"
+    },
+    "futur_antérieur": {
+      "je": "aurai lové",
+      "tu": "auras lové",
+      "il": "aura lové",
+      "nous": "aurons lové",
+      "vous": "aurez lové",
+      "ils": "auront lové"
+    },
+    "subjonctif_présent": {
+      "je": "love",
+      "tu": "loves",
+      "il": "love",
+      "nous": "lovions",
+      "vous": "loviez",
+      "ils": "lovent"
+    },
+    "subjonctif_passé": {
+      "je": "aie lové",
+      "tu": "aies lové",
+      "il": "ait lové",
+      "nous": "ayons lové",
+      "vous": "ayez lové",
+      "ils": "aient lové"
+    },
+    "subjonctif_imparfait": {
+      "je": "lovasse",
+      "tu": "lovasses",
+      "il": "lovât",
+      "nous": "lovassions",
+      "vous": "lovassiez",
+      "ils": "lovassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse lové",
+      "tu": "eusses lové",
+      "il": "eût lové",
+      "nous": "eussions lové",
+      "vous": "eussiez lové",
+      "ils": "eussent lové"
+    },
+    "conditionnel_présent": {
+      "je": "loverais",
+      "tu": "loverais",
+      "il": "loverait",
+      "nous": "loverions",
+      "vous": "loveriez",
+      "ils": "loveraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais lové",
+      "tu": "aurais lové",
+      "il": "aurait lové",
+      "nous": "aurions lové",
+      "vous": "auriez lové",
+      "ils": "auraient lové"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse lové",
+      "tu": "eusses lové",
+      "il": "eût lové",
+      "nous": "eussions lové",
+      "vous": "eussiez lové",
+      "ils": "eussent lové"
+    },
+    "translation": "zwijać",
+    "group": 1
+  },
+  {
+    "infinitive": "luire",
+    "présent": {
+      "je": "luis",
+      "tu": "luis",
+      "il": "luit",
+      "nous": "luisons",
+      "vous": "luisez",
+      "ils": "luisent"
+    },
+    "passé_composé": {
+      "je": "ai lui",
+      "tu": "as lui",
+      "il": "a lui",
+      "nous": "avons lui",
+      "vous": "avez lui",
+      "ils": "ont lui"
+    },
+    "imparfait": {
+      "je": "luisais",
+      "tu": "luisais",
+      "il": "luisait",
+      "nous": "luisions",
+      "vous": "luisiez",
+      "ils": "luisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais lui",
+      "tu": "avais lui",
+      "il": "avait lui",
+      "nous": "avions lui",
+      "vous": "aviez lui",
+      "ils": "avaient lui"
+    },
+    "passé_simple": {
+      "je": "luis",
+      "tu": "luis",
+      "il": "luit",
+      "nous": "luîmes",
+      "vous": "luîtes",
+      "ils": "luirent"
+    },
+    "passé_antérieur": {
+      "je": "eus lui",
+      "tu": "eus lui",
+      "il": "eut lui",
+      "nous": "eûmes lui",
+      "vous": "eûtes lui",
+      "ils": "eurent lui"
+    },
+    "futur_simple": {
+      "je": "luirai",
+      "tu": "luiras",
+      "il": "luira",
+      "nous": "luirons",
+      "vous": "luirez",
+      "ils": "luiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai lui",
+      "tu": "auras lui",
+      "il": "aura lui",
+      "nous": "aurons lui",
+      "vous": "aurez lui",
+      "ils": "auront lui"
+    },
+    "subjonctif_présent": {
+      "je": "luise",
+      "tu": "luises",
+      "il": "luise",
+      "nous": "luisions",
+      "vous": "luisiez",
+      "ils": "luisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie lui",
+      "tu": "aies lui",
+      "il": "ait lui",
+      "nous": "ayons lui",
+      "vous": "ayez lui",
+      "ils": "aient lui"
+    },
+    "subjonctif_imparfait": {
+      "je": "luisse",
+      "tu": "luisses",
+      "il": "luît",
+      "nous": "luissions",
+      "vous": "luissiez",
+      "ils": "luissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse lui",
+      "tu": "eusses lui",
+      "il": "eût lui",
+      "nous": "eussions lui",
+      "vous": "eussiez lui",
+      "ils": "eussent lui"
+    },
+    "conditionnel_présent": {
+      "je": "luirais",
+      "tu": "luirais",
+      "il": "luirait",
+      "nous": "luirions",
+      "vous": "luiriez",
+      "ils": "luiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais lui",
+      "tu": "aurais lui",
+      "il": "aurait lui",
+      "nous": "aurions lui",
+      "vous": "auriez lui",
+      "ils": "auraient lui"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse lui",
+      "tu": "eusses lui",
+      "il": "eût lui",
+      "nous": "eussions lui",
+      "vous": "eussiez lui",
+      "ils": "eussent lui"
+    },
+    "translation": "lśnić",
+    "group": 3
+  },
+  {
+    "infinitive": "luter",
+    "présent": {
+      "je": "lute",
+      "tu": "lutes",
+      "il": "lute",
+      "nous": "lutons",
+      "vous": "lutez",
+      "ils": "lutent"
+    },
+    "passé_composé": {
+      "je": "ai luté",
+      "tu": "as luté",
+      "il": "a luté",
+      "nous": "avons luté",
+      "vous": "avez luté",
+      "ils": "ont luté"
+    },
+    "imparfait": {
+      "je": "lutais",
+      "tu": "lutais",
+      "il": "lutait",
+      "nous": "lutions",
+      "vous": "lutiez",
+      "ils": "lutaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais luté",
+      "tu": "avais luté",
+      "il": "avait luté",
+      "nous": "avions luté",
+      "vous": "aviez luté",
+      "ils": "avaient luté"
+    },
+    "passé_simple": {
+      "je": "lutai",
+      "tu": "lutas",
+      "il": "luta",
+      "nous": "lutâmes",
+      "vous": "lutâtes",
+      "ils": "lutèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus luté",
+      "tu": "eus luté",
+      "il": "eut luté",
+      "nous": "eûmes luté",
+      "vous": "eûtes luté",
+      "ils": "eurent luté"
+    },
+    "futur_simple": {
+      "je": "luterai",
+      "tu": "luteras",
+      "il": "lutera",
+      "nous": "luterons",
+      "vous": "luterez",
+      "ils": "luteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai luté",
+      "tu": "auras luté",
+      "il": "aura luté",
+      "nous": "aurons luté",
+      "vous": "aurez luté",
+      "ils": "auront luté"
+    },
+    "subjonctif_présent": {
+      "je": "lute",
+      "tu": "lutes",
+      "il": "lute",
+      "nous": "lutions",
+      "vous": "lutiez",
+      "ils": "lutent"
+    },
+    "subjonctif_passé": {
+      "je": "aie luté",
+      "tu": "aies luté",
+      "il": "ait luté",
+      "nous": "ayons luté",
+      "vous": "ayez luté",
+      "ils": "aient luté"
+    },
+    "subjonctif_imparfait": {
+      "je": "lutasse",
+      "tu": "lutasses",
+      "il": "lutât",
+      "nous": "lutassions",
+      "vous": "lutassiez",
+      "ils": "lutassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse luté",
+      "tu": "eusses luté",
+      "il": "eût luté",
+      "nous": "eussions luté",
+      "vous": "eussiez luté",
+      "ils": "eussent luté"
+    },
+    "conditionnel_présent": {
+      "je": "luterais",
+      "tu": "luterais",
+      "il": "luterait",
+      "nous": "luterions",
+      "vous": "luteriez",
+      "ils": "luteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais luté",
+      "tu": "aurais luté",
+      "il": "aurait luté",
+      "nous": "aurions luté",
+      "vous": "auriez luté",
+      "ils": "auraient luté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse luté",
+      "tu": "eusses luté",
+      "il": "eût luté",
+      "nous": "eussions luté",
+      "vous": "eussiez luté",
+      "ils": "eussent luté"
+    },
+    "translation": "walczyć",
+    "group": 1
+  },
+  {
+    "infinitive": "lutter",
+    "présent": {
+      "je": "lutte",
+      "tu": "luttes",
+      "il": "lutte",
+      "nous": "luttons",
+      "vous": "luttez",
+      "ils": "luttent"
+    },
+    "passé_composé": {
+      "je": "ai lutté",
+      "tu": "as lutté",
+      "il": "a lutté",
+      "nous": "avons lutté",
+      "vous": "avez lutté",
+      "ils": "ont lutté"
+    },
+    "imparfait": {
+      "je": "luttais",
+      "tu": "luttais",
+      "il": "luttait",
+      "nous": "luttions",
+      "vous": "luttiez",
+      "ils": "luttaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais lutté",
+      "tu": "avais lutté",
+      "il": "avait lutté",
+      "nous": "avions lutté",
+      "vous": "aviez lutté",
+      "ils": "avaient lutté"
+    },
+    "passé_simple": {
+      "je": "luttai",
+      "tu": "luttas",
+      "il": "lutta",
+      "nous": "luttâmes",
+      "vous": "luttâtes",
+      "ils": "luttèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus lutté",
+      "tu": "eus lutté",
+      "il": "eut lutté",
+      "nous": "eûmes lutté",
+      "vous": "eûtes lutté",
+      "ils": "eurent lutté"
+    },
+    "futur_simple": {
+      "je": "lutterai",
+      "tu": "lutteras",
+      "il": "luttera",
+      "nous": "lutterons",
+      "vous": "lutterez",
+      "ils": "lutteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai lutté",
+      "tu": "auras lutté",
+      "il": "aura lutté",
+      "nous": "aurons lutté",
+      "vous": "aurez lutté",
+      "ils": "auront lutté"
+    },
+    "subjonctif_présent": {
+      "je": "lutte",
+      "tu": "luttes",
+      "il": "lutte",
+      "nous": "luttions",
+      "vous": "luttiez",
+      "ils": "luttent"
+    },
+    "subjonctif_passé": {
+      "je": "aie lutté",
+      "tu": "aies lutté",
+      "il": "ait lutté",
+      "nous": "ayons lutté",
+      "vous": "ayez lutté",
+      "ils": "aient lutté"
+    },
+    "subjonctif_imparfait": {
+      "je": "luttasse",
+      "tu": "luttasses",
+      "il": "luttât",
+      "nous": "luttassions",
+      "vous": "luttassiez",
+      "ils": "luttassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse lutté",
+      "tu": "eusses lutté",
+      "il": "eût lutté",
+      "nous": "eussions lutté",
+      "vous": "eussiez lutté",
+      "ils": "eussent lutté"
+    },
+    "conditionnel_présent": {
+      "je": "lutterais",
+      "tu": "lutterais",
+      "il": "lutterait",
+      "nous": "lutterions",
+      "vous": "lutteriez",
+      "ils": "lutteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais lutté",
+      "tu": "aurais lutté",
+      "il": "aurait lutté",
+      "nous": "aurions lutté",
+      "vous": "auriez lutté",
+      "ils": "auraient lutté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse lutté",
+      "tu": "eusses lutté",
+      "il": "eût lutté",
+      "nous": "eussions lutté",
+      "vous": "eussiez lutté",
+      "ils": "eussent lutté"
+    },
+    "translation": "walczyć",
+    "group": 1
+  },
+  {
+    "infinitive": "luxer",
+    "présent": {
+      "je": "luxe",
+      "tu": "luxes",
+      "il": "luxe",
+      "nous": "luxons",
+      "vous": "luxez",
+      "ils": "luxent"
+    },
+    "passé_composé": {
+      "je": "ai luxé",
+      "tu": "as luxé",
+      "il": "a luxé",
+      "nous": "avons luxé",
+      "vous": "avez luxé",
+      "ils": "ont luxé"
+    },
+    "imparfait": {
+      "je": "luxais",
+      "tu": "luxais",
+      "il": "luxait",
+      "nous": "luxions",
+      "vous": "luxiez",
+      "ils": "luxaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais luxé",
+      "tu": "avais luxé",
+      "il": "avait luxé",
+      "nous": "avions luxé",
+      "vous": "aviez luxé",
+      "ils": "avaient luxé"
+    },
+    "passé_simple": {
+      "je": "luxai",
+      "tu": "luxas",
+      "il": "luxa",
+      "nous": "luxâmes",
+      "vous": "luxâtes",
+      "ils": "luxèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus luxé",
+      "tu": "eus luxé",
+      "il": "eut luxé",
+      "nous": "eûmes luxé",
+      "vous": "eûtes luxé",
+      "ils": "eurent luxé"
+    },
+    "futur_simple": {
+      "je": "luxerai",
+      "tu": "luxeras",
+      "il": "luxera",
+      "nous": "luxerons",
+      "vous": "luxerez",
+      "ils": "luxeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai luxé",
+      "tu": "auras luxé",
+      "il": "aura luxé",
+      "nous": "aurons luxé",
+      "vous": "aurez luxé",
+      "ils": "auront luxé"
+    },
+    "subjonctif_présent": {
+      "je": "luxe",
+      "tu": "luxes",
+      "il": "luxe",
+      "nous": "luxions",
+      "vous": "luxiez",
+      "ils": "luxent"
+    },
+    "subjonctif_passé": {
+      "je": "aie luxé",
+      "tu": "aies luxé",
+      "il": "ait luxé",
+      "nous": "ayons luxé",
+      "vous": "ayez luxé",
+      "ils": "aient luxé"
+    },
+    "subjonctif_imparfait": {
+      "je": "luxasse",
+      "tu": "luxasses",
+      "il": "luxât",
+      "nous": "luxassions",
+      "vous": "luxassiez",
+      "ils": "luxassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse luxé",
+      "tu": "eusses luxé",
+      "il": "eût luxé",
+      "nous": "eussions luxé",
+      "vous": "eussiez luxé",
+      "ils": "eussent luxé"
+    },
+    "conditionnel_présent": {
+      "je": "luxerais",
+      "tu": "luxerais",
+      "il": "luxerait",
+      "nous": "luxerions",
+      "vous": "luxeriez",
+      "ils": "luxeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais luxé",
+      "tu": "aurais luxé",
+      "il": "aurait luxé",
+      "nous": "aurions luxé",
+      "vous": "auriez luxé",
+      "ils": "auraient luxé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse luxé",
+      "tu": "eusses luxé",
+      "il": "eût luxé",
+      "nous": "eussions luxé",
+      "vous": "eussiez luxé",
+      "ils": "eussent luxé"
+    },
+    "translation": "zwichnąć",
+    "group": 1
+  },
+  {
+    "infinitive": "mâcher",
+    "présent": {
+      "je": "mâche",
+      "tu": "mâches",
+      "il": "mâche",
+      "nous": "mâchons",
+      "vous": "mâchez",
+      "ils": "mâchent"
+    },
+    "passé_composé": {
+      "je": "ai mâché",
+      "tu": "as mâché",
+      "il": "a mâché",
+      "nous": "avons mâché",
+      "vous": "avez mâché",
+      "ils": "ont mâché"
+    },
+    "imparfait": {
+      "je": "mâchais",
+      "tu": "mâchais",
+      "il": "mâchait",
+      "nous": "mâchions",
+      "vous": "mâchiez",
+      "ils": "mâchaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais mâché",
+      "tu": "avais mâché",
+      "il": "avait mâché",
+      "nous": "avions mâché",
+      "vous": "aviez mâché",
+      "ils": "avaient mâché"
+    },
+    "passé_simple": {
+      "je": "mâchai",
+      "tu": "mâchas",
+      "il": "mâcha",
+      "nous": "mâchâmes",
+      "vous": "mâchâtes",
+      "ils": "mâchèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus mâché",
+      "tu": "eus mâché",
+      "il": "eut mâché",
+      "nous": "eûmes mâché",
+      "vous": "eûtes mâché",
+      "ils": "eurent mâché"
+    },
+    "futur_simple": {
+      "je": "mâcherai",
+      "tu": "mâcheras",
+      "il": "mâchera",
+      "nous": "mâcherons",
+      "vous": "mâcherez",
+      "ils": "mâcheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai mâché",
+      "tu": "auras mâché",
+      "il": "aura mâché",
+      "nous": "aurons mâché",
+      "vous": "aurez mâché",
+      "ils": "auront mâché"
+    },
+    "subjonctif_présent": {
+      "je": "mâche",
+      "tu": "mâches",
+      "il": "mâche",
+      "nous": "mâchions",
+      "vous": "mâchiez",
+      "ils": "mâchent"
+    },
+    "subjonctif_passé": {
+      "je": "aie mâché",
+      "tu": "aies mâché",
+      "il": "ait mâché",
+      "nous": "ayons mâché",
+      "vous": "ayez mâché",
+      "ils": "aient mâché"
+    },
+    "subjonctif_imparfait": {
+      "je": "mâchasse",
+      "tu": "mâchasses",
+      "il": "mâchât",
+      "nous": "mâchassions",
+      "vous": "mâchassiez",
+      "ils": "mâchassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse mâché",
+      "tu": "eusses mâché",
+      "il": "eût mâché",
+      "nous": "eussions mâché",
+      "vous": "eussiez mâché",
+      "ils": "eussent mâché"
+    },
+    "conditionnel_présent": {
+      "je": "mâcherais",
+      "tu": "mâcherais",
+      "il": "mâcherait",
+      "nous": "mâcherions",
+      "vous": "mâcheriez",
+      "ils": "mâcheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais mâché",
+      "tu": "aurais mâché",
+      "il": "aurait mâché",
+      "nous": "aurions mâché",
+      "vous": "auriez mâché",
+      "ils": "auraient mâché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse mâché",
+      "tu": "eusses mâché",
+      "il": "eût mâché",
+      "nous": "eussions mâché",
+      "vous": "eussiez mâché",
+      "ils": "eussent mâché"
+    },
+    "translation": "żuć",
+    "group": 1
+  },
+  {
+    "infinitive": "maigrir",
+    "présent": {
+      "je": "maigris",
+      "tu": "maigris",
+      "il": "maigrit",
+      "nous": "maigrissons",
+      "vous": "maigrissez",
+      "ils": "maigrissent"
+    },
+    "passé_composé": {
+      "je": "ai maigri",
+      "tu": "as maigri",
+      "il": "a maigri",
+      "nous": "avons maigri",
+      "vous": "avez maigri",
+      "ils": "ont maigri"
+    },
+    "imparfait": {
+      "je": "maigrissais",
+      "tu": "maigrissais",
+      "il": "maigrissait",
+      "nous": "maigrissions",
+      "vous": "maigrissiez",
+      "ils": "maigrissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais maigri",
+      "tu": "avais maigri",
+      "il": "avait maigri",
+      "nous": "avions maigri",
+      "vous": "aviez maigri",
+      "ils": "avaient maigri"
+    },
+    "passé_simple": {
+      "je": "maigris",
+      "tu": "maigris",
+      "il": "maigrit",
+      "nous": "maigrîmes",
+      "vous": "maigrîtes",
+      "ils": "maigrirent"
+    },
+    "passé_antérieur": {
+      "je": "eus maigri",
+      "tu": "eus maigri",
+      "il": "eut maigri",
+      "nous": "eûmes maigri",
+      "vous": "eûtes maigri",
+      "ils": "eurent maigri"
+    },
+    "futur_simple": {
+      "je": "maigrirai",
+      "tu": "maigriras",
+      "il": "maigrira",
+      "nous": "maigrirons",
+      "vous": "maigrirez",
+      "ils": "maigriront"
+    },
+    "futur_antérieur": {
+      "je": "aurai maigri",
+      "tu": "auras maigri",
+      "il": "aura maigri",
+      "nous": "aurons maigri",
+      "vous": "aurez maigri",
+      "ils": "auront maigri"
+    },
+    "subjonctif_présent": {
+      "je": "maigrisse",
+      "tu": "maigrisses",
+      "il": "maigrisse",
+      "nous": "maigrissions",
+      "vous": "maigrissiez",
+      "ils": "maigrissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie maigri",
+      "tu": "aies maigri",
+      "il": "ait maigri",
+      "nous": "ayons maigri",
+      "vous": "ayez maigri",
+      "ils": "aient maigri"
+    },
+    "subjonctif_imparfait": {
+      "je": "maigrisse",
+      "tu": "maigrisses",
+      "il": "maigrît",
+      "nous": "maigrissions",
+      "vous": "maigrissiez",
+      "ils": "maigrissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse maigri",
+      "tu": "eusses maigri",
+      "il": "eût maigri",
+      "nous": "eussions maigri",
+      "vous": "eussiez maigri",
+      "ils": "eussent maigri"
+    },
+    "conditionnel_présent": {
+      "je": "maigrirais",
+      "tu": "maigrirais",
+      "il": "maigrirait",
+      "nous": "maigririons",
+      "vous": "maigririez",
+      "ils": "maigriraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais maigri",
+      "tu": "aurais maigri",
+      "il": "aurait maigri",
+      "nous": "aurions maigri",
+      "vous": "auriez maigri",
+      "ils": "auraient maigri"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse maigri",
+      "tu": "eusses maigri",
+      "il": "eût maigri",
+      "nous": "eussions maigri",
+      "vous": "eussiez maigri",
+      "ils": "eussent maigri"
+    },
+    "translation": "chudnąć",
+    "group": 2
+  },
+  {
+    "infinitive": "maintenir",
+    "présent": {
+      "je": "maintiens",
+      "tu": "maintiens",
+      "il": "maintient",
+      "nous": "maintenons",
+      "vous": "maintenez",
+      "ils": "maintiennent"
+    },
+    "passé_composé": {
+      "je": "ai maintenu",
+      "tu": "as maintenu",
+      "il": "a maintenu",
+      "nous": "avons maintenu",
+      "vous": "avez maintenu",
+      "ils": "ont maintenu"
+    },
+    "imparfait": {
+      "je": "maintenais",
+      "tu": "maintenais",
+      "il": "maintenait",
+      "nous": "maintenions",
+      "vous": "mainteniez",
+      "ils": "maintenaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais maintenu",
+      "tu": "avais maintenu",
+      "il": "avait maintenu",
+      "nous": "avions maintenu",
+      "vous": "aviez maintenu",
+      "ils": "avaient maintenu"
+    },
+    "passé_simple": {
+      "je": "maintins",
+      "tu": "maintins",
+      "il": "maintint",
+      "nous": "maintînmes",
+      "vous": "maintîntes",
+      "ils": "maintinrent"
+    },
+    "passé_antérieur": {
+      "je": "eus maintenu",
+      "tu": "eus maintenu",
+      "il": "eut maintenu",
+      "nous": "eûmes maintenu",
+      "vous": "eûtes maintenu",
+      "ils": "eurent maintenu"
+    },
+    "futur_simple": {
+      "je": "maintiendrai",
+      "tu": "maintiendras",
+      "il": "maintiendra",
+      "nous": "maintiendrons",
+      "vous": "maintiendrez",
+      "ils": "maintiendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai maintenu",
+      "tu": "auras maintenu",
+      "il": "aura maintenu",
+      "nous": "aurons maintenu",
+      "vous": "aurez maintenu",
+      "ils": "auront maintenu"
+    },
+    "subjonctif_présent": {
+      "je": "maintienne",
+      "tu": "maintiennes",
+      "il": "maintienne",
+      "nous": "maintenions",
+      "vous": "mainteniez",
+      "ils": "maintiennent"
+    },
+    "subjonctif_passé": {
+      "je": "aie maintenu",
+      "tu": "aies maintenu",
+      "il": "ait maintenu",
+      "nous": "ayons maintenu",
+      "vous": "ayez maintenu",
+      "ils": "aient maintenu"
+    },
+    "subjonctif_imparfait": {
+      "je": "maintinsse",
+      "tu": "maintinsses",
+      "il": "maintînt",
+      "nous": "maintinssions",
+      "vous": "maintinssiez",
+      "ils": "maintinssent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse maintenu",
+      "tu": "eusses maintenu",
+      "il": "eût maintenu",
+      "nous": "eussions maintenu",
+      "vous": "eussiez maintenu",
+      "ils": "eussent maintenu"
+    },
+    "conditionnel_présent": {
+      "je": "maintiendrais",
+      "tu": "maintiendrais",
+      "il": "maintiendrait",
+      "nous": "maintiendrions",
+      "vous": "maintiendriez",
+      "ils": "maintiendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais maintenu",
+      "tu": "aurais maintenu",
+      "il": "aurait maintenu",
+      "nous": "aurions maintenu",
+      "vous": "auriez maintenu",
+      "ils": "auraient maintenu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse maintenu",
+      "tu": "eusses maintenu",
+      "il": "eût maintenu",
+      "nous": "eussions maintenu",
+      "vous": "eussiez maintenu",
+      "ils": "eussent maintenu"
+    },
+    "translation": "utrzymywać",
+    "group": 3
+  }
+]

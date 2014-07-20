@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "charger",
+    "présent": {
+      "je": "charge",
+      "tu": "charges",
+      "il": "charge",
+      "nous": "chargeons",
+      "vous": "chargez",
+      "ils": "chargent"
+    },
+    "passé_composé": {
+      "je": "ai chargé",
+      "tu": "as chargé",
+      "il": "a chargé",
+      "nous": "avons chargé",
+      "vous": "avez chargé",
+      "ils": "ont chargé"
+    },
+    "imparfait": {
+      "je": "chargeais",
+      "tu": "chargeais",
+      "il": "chargeait",
+      "nous": "chargions",
+      "vous": "chargiez",
+      "ils": "chargeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais chargé",
+      "tu": "avais chargé",
+      "il": "avait chargé",
+      "nous": "avions chargé",
+      "vous": "aviez chargé",
+      "ils": "avaient chargé"
+    },
+    "passé_simple": {
+      "je": "chargeai",
+      "tu": "chargeas",
+      "il": "chargea",
+      "nous": "chargeâmes",
+      "vous": "chargeâtes",
+      "ils": "chargèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus chargé",
+      "tu": "eus chargé",
+      "il": "eut chargé",
+      "nous": "eûmes chargé",
+      "vous": "eûtes chargé",
+      "ils": "eurent chargé"
+    },
+    "futur_simple": {
+      "je": "chargerai",
+      "tu": "chargeras",
+      "il": "chargera",
+      "nous": "chargerons",
+      "vous": "chargerez",
+      "ils": "chargeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai chargé",
+      "tu": "auras chargé",
+      "il": "aura chargé",
+      "nous": "aurons chargé",
+      "vous": "aurez chargé",
+      "ils": "auront chargé"
+    },
+    "subjonctif_présent": {
+      "je": "charge",
+      "tu": "charges",
+      "il": "charge",
+      "nous": "chargions",
+      "vous": "chargiez",
+      "ils": "chargent"
+    },
+    "subjonctif_passé": {
+      "je": "aie chargé",
+      "tu": "aies chargé",
+      "il": "ait chargé",
+      "nous": "ayons chargé",
+      "vous": "ayez chargé",
+      "ils": "aient chargé"
+    },
+    "subjonctif_imparfait": {
+      "je": "chargeasse",
+      "tu": "chargeasses",
+      "il": "chargeât",
+      "nous": "chargeassions",
+      "vous": "chargeassiez",
+      "ils": "chargeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse chargé",
+      "tu": "eusses chargé",
+      "il": "eût chargé",
+      "nous": "eussions chargé",
+      "vous": "eussiez chargé",
+      "ils": "eussent chargé"
+    },
+    "conditionnel_présent": {
+      "je": "chargerais",
+      "tu": "chargerais",
+      "il": "chargerait",
+      "nous": "chargerions",
+      "vous": "chargeriez",
+      "ils": "chargeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais chargé",
+      "tu": "aurais chargé",
+      "il": "aurait chargé",
+      "nous": "aurions chargé",
+      "vous": "auriez chargé",
+      "ils": "auraient chargé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse chargé",
+      "tu": "eusses chargé",
+      "il": "eût chargé",
+      "nous": "eussions chargé",
+      "vous": "eussiez chargé",
+      "ils": "eussent chargé"
+    },
+    "translation": "ładować",
+    "group": 1
+  },
+  {
+    "infinitive": "charmer",
+    "présent": {
+      "je": "charme",
+      "tu": "charmes",
+      "il": "charme",
+      "nous": "charmons",
+      "vous": "charmez",
+      "ils": "charment"
+    },
+    "passé_composé": {
+      "je": "ai charmé",
+      "tu": "as charmé",
+      "il": "a charmé",
+      "nous": "avons charmé",
+      "vous": "avez charmé",
+      "ils": "ont charmé"
+    },
+    "imparfait": {
+      "je": "charmais",
+      "tu": "charmais",
+      "il": "charmait",
+      "nous": "charmions",
+      "vous": "charmiez",
+      "ils": "charmaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais charmé",
+      "tu": "avais charmé",
+      "il": "avait charmé",
+      "nous": "avions charmé",
+      "vous": "aviez charmé",
+      "ils": "avaient charmé"
+    },
+    "passé_simple": {
+      "je": "charmai",
+      "tu": "charmas",
+      "il": "charma",
+      "nous": "charmâmes",
+      "vous": "charmâtes",
+      "ils": "charmèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus charmé",
+      "tu": "eus charmé",
+      "il": "eut charmé",
+      "nous": "eûmes charmé",
+      "vous": "eûtes charmé",
+      "ils": "eurent charmé"
+    },
+    "futur_simple": {
+      "je": "charmerai",
+      "tu": "charmeras",
+      "il": "charmera",
+      "nous": "charmerons",
+      "vous": "charmerez",
+      "ils": "charmeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai charmé",
+      "tu": "auras charmé",
+      "il": "aura charmé",
+      "nous": "aurons charmé",
+      "vous": "aurez charmé",
+      "ils": "auront charmé"
+    },
+    "subjonctif_présent": {
+      "je": "charme",
+      "tu": "charmes",
+      "il": "charme",
+      "nous": "charmions",
+      "vous": "charmiez",
+      "ils": "charment"
+    },
+    "subjonctif_passé": {
+      "je": "aie charmé",
+      "tu": "aies charmé",
+      "il": "ait charmé",
+      "nous": "ayons charmé",
+      "vous": "ayez charmé",
+      "ils": "aient charmé"
+    },
+    "subjonctif_imparfait": {
+      "je": "charmasse",
+      "tu": "charmasses",
+      "il": "charmât",
+      "nous": "charmassions",
+      "vous": "charmassiez",
+      "ils": "charmassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse charmé",
+      "tu": "eusses charmé",
+      "il": "eût charmé",
+      "nous": "eussions charmé",
+      "vous": "eussiez charmé",
+      "ils": "eussent charmé"
+    },
+    "conditionnel_présent": {
+      "je": "charmerais",
+      "tu": "charmerais",
+      "il": "charmerait",
+      "nous": "charmerions",
+      "vous": "charmeriez",
+      "ils": "charmeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais charmé",
+      "tu": "aurais charmé",
+      "il": "aurait charmé",
+      "nous": "aurions charmé",
+      "vous": "auriez charmé",
+      "ils": "auraient charmé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse charmé",
+      "tu": "eusses charmé",
+      "il": "eût charmé",
+      "nous": "eussions charmé",
+      "vous": "eussiez charmé",
+      "ils": "eussent charmé"
+    },
+    "translation": "oczarować",
+    "group": 1
+  },
+  {
+    "infinitive": "charrier",
+    "présent": {
+      "je": "charrie",
+      "tu": "charries",
+      "il": "charrie",
+      "nous": "charrions",
+      "vous": "charriez",
+      "ils": "charrient"
+    },
+    "passé_composé": {
+      "je": "ai charrié",
+      "tu": "as charrié",
+      "il": "a charrié",
+      "nous": "avons charrié",
+      "vous": "avez charrié",
+      "ils": "ont charrié"
+    },
+    "imparfait": {
+      "je": "charriais",
+      "tu": "charriais",
+      "il": "charriait",
+      "nous": "charriions",
+      "vous": "charriiez",
+      "ils": "charriaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais charrié",
+      "tu": "avais charrié",
+      "il": "avait charrié",
+      "nous": "avions charrié",
+      "vous": "aviez charrié",
+      "ils": "avaient charrié"
+    },
+    "passé_simple": {
+      "je": "charriai",
+      "tu": "charrias",
+      "il": "charria",
+      "nous": "charriâmes",
+      "vous": "charriâtes",
+      "ils": "charrièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus charrié",
+      "tu": "eus charrié",
+      "il": "eut charrié",
+      "nous": "eûmes charrié",
+      "vous": "eûtes charrié",
+      "ils": "eurent charrié"
+    },
+    "futur_simple": {
+      "je": "charrierai",
+      "tu": "charrieras",
+      "il": "charriera",
+      "nous": "charrierons",
+      "vous": "charrierez",
+      "ils": "charrieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai charrié",
+      "tu": "auras charrié",
+      "il": "aura charrié",
+      "nous": "aurons charrié",
+      "vous": "aurez charrié",
+      "ils": "auront charrié"
+    },
+    "subjonctif_présent": {
+      "je": "charrie",
+      "tu": "charries",
+      "il": "charrie",
+      "nous": "charriions",
+      "vous": "charriiez",
+      "ils": "charrient"
+    },
+    "subjonctif_passé": {
+      "je": "aie charrié",
+      "tu": "aies charrié",
+      "il": "ait charrié",
+      "nous": "ayons charrié",
+      "vous": "ayez charrié",
+      "ils": "aient charrié"
+    },
+    "subjonctif_imparfait": {
+      "je": "charriasse",
+      "tu": "charriasses",
+      "il": "charriât",
+      "nous": "charriassions",
+      "vous": "charriassiez",
+      "ils": "charriassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse charrié",
+      "tu": "eusses charrié",
+      "il": "eût charrié",
+      "nous": "eussions charrié",
+      "vous": "eussiez charrié",
+      "ils": "eussent charrié"
+    },
+    "conditionnel_présent": {
+      "je": "charrierais",
+      "tu": "charrierais",
+      "il": "charrierait",
+      "nous": "charrierions",
+      "vous": "charrieriez",
+      "ils": "charrieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais charrié",
+      "tu": "aurais charrié",
+      "il": "aurait charrié",
+      "nous": "aurions charrié",
+      "vous": "auriez charrié",
+      "ils": "auraient charrié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse charrié",
+      "tu": "eusses charrié",
+      "il": "eût charrié",
+      "nous": "eussions charrié",
+      "vous": "eussiez charrié",
+      "ils": "eussent charrié"
+    },
+    "translation": "zwozić",
+    "group": 1
+  },
+  {
+    "infinitive": "chasser",
+    "présent": {
+      "je": "chasse",
+      "tu": "chasses",
+      "il": "chasse",
+      "nous": "chassons",
+      "vous": "chassez",
+      "ils": "chassent"
+    },
+    "passé_composé": {
+      "je": "ai chassé",
+      "tu": "as chassé",
+      "il": "a chassé",
+      "nous": "avons chassé",
+      "vous": "avez chassé",
+      "ils": "ont chassé"
+    },
+    "imparfait": {
+      "je": "chassais",
+      "tu": "chassais",
+      "il": "chassait",
+      "nous": "chassions",
+      "vous": "chassiez",
+      "ils": "chassaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais chassé",
+      "tu": "avais chassé",
+      "il": "avait chassé",
+      "nous": "avions chassé",
+      "vous": "aviez chassé",
+      "ils": "avaient chassé"
+    },
+    "passé_simple": {
+      "je": "chassai",
+      "tu": "chassas",
+      "il": "chassa",
+      "nous": "chassâmes",
+      "vous": "chassâtes",
+      "ils": "chassèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus chassé",
+      "tu": "eus chassé",
+      "il": "eut chassé",
+      "nous": "eûmes chassé",
+      "vous": "eûtes chassé",
+      "ils": "eurent chassé"
+    },
+    "futur_simple": {
+      "je": "chasserai",
+      "tu": "chasseras",
+      "il": "chassera",
+      "nous": "chasserons",
+      "vous": "chasserez",
+      "ils": "chasseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai chassé",
+      "tu": "auras chassé",
+      "il": "aura chassé",
+      "nous": "aurons chassé",
+      "vous": "aurez chassé",
+      "ils": "auront chassé"
+    },
+    "subjonctif_présent": {
+      "je": "chasse",
+      "tu": "chasses",
+      "il": "chasse",
+      "nous": "chassions",
+      "vous": "chassiez",
+      "ils": "chassent"
+    },
+    "subjonctif_passé": {
+      "je": "aie chassé",
+      "tu": "aies chassé",
+      "il": "ait chassé",
+      "nous": "ayons chassé",
+      "vous": "ayez chassé",
+      "ils": "aient chassé"
+    },
+    "subjonctif_imparfait": {
+      "je": "chassasse",
+      "tu": "chassasses",
+      "il": "chassât",
+      "nous": "chassassions",
+      "vous": "chassassiez",
+      "ils": "chassassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse chassé",
+      "tu": "eusses chassé",
+      "il": "eût chassé",
+      "nous": "eussions chassé",
+      "vous": "eussiez chassé",
+      "ils": "eussent chassé"
+    },
+    "conditionnel_présent": {
+      "je": "chasserais",
+      "tu": "chasserais",
+      "il": "chasserait",
+      "nous": "chasserions",
+      "vous": "chasseriez",
+      "ils": "chasseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais chassé",
+      "tu": "aurais chassé",
+      "il": "aurait chassé",
+      "nous": "aurions chassé",
+      "vous": "auriez chassé",
+      "ils": "auraient chassé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse chassé",
+      "tu": "eusses chassé",
+      "il": "eût chassé",
+      "nous": "eussions chassé",
+      "vous": "eussiez chassé",
+      "ils": "eussent chassé"
+    },
+    "translation": "polować",
+    "group": 1
+  },
+  {
+    "infinitive": "châtier",
+    "présent": {
+      "je": "châtie",
+      "tu": "châties",
+      "il": "châtie",
+      "nous": "châtions",
+      "vous": "châtiez",
+      "ils": "châtient"
+    },
+    "passé_composé": {
+      "je": "ai châtié",
+      "tu": "as châtié",
+      "il": "a châtié",
+      "nous": "avons châtié",
+      "vous": "avez châtié",
+      "ils": "ont châtié"
+    },
+    "imparfait": {
+      "je": "châtiais",
+      "tu": "châtiais",
+      "il": "châtiait",
+      "nous": "châtiions",
+      "vous": "châtiiez",
+      "ils": "châtiaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais châtié",
+      "tu": "avais châtié",
+      "il": "avait châtié",
+      "nous": "avions châtié",
+      "vous": "aviez châtié",
+      "ils": "avaient châtié"
+    },
+    "passé_simple": {
+      "je": "châtiai",
+      "tu": "châtias",
+      "il": "châtia",
+      "nous": "châtiâmes",
+      "vous": "châtiâtes",
+      "ils": "châtièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus châtié",
+      "tu": "eus châtié",
+      "il": "eut châtié",
+      "nous": "eûmes châtié",
+      "vous": "eûtes châtié",
+      "ils": "eurent châtié"
+    },
+    "futur_simple": {
+      "je": "châtierai",
+      "tu": "châtieras",
+      "il": "châtiera",
+      "nous": "châtierons",
+      "vous": "châtierez",
+      "ils": "châtieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai châtié",
+      "tu": "auras châtié",
+      "il": "aura châtié",
+      "nous": "aurons châtié",
+      "vous": "aurez châtié",
+      "ils": "auront châtié"
+    },
+    "subjonctif_présent": {
+      "je": "châtie",
+      "tu": "châties",
+      "il": "châtie",
+      "nous": "châtiions",
+      "vous": "châtiiez",
+      "ils": "châtient"
+    },
+    "subjonctif_passé": {
+      "je": "aie châtié",
+      "tu": "aies châtié",
+      "il": "ait châtié",
+      "nous": "ayons châtié",
+      "vous": "ayez châtié",
+      "ils": "aient châtié"
+    },
+    "subjonctif_imparfait": {
+      "je": "châtiasse",
+      "tu": "châtiasses",
+      "il": "châtiât",
+      "nous": "châtiassions",
+      "vous": "châtiassiez",
+      "ils": "châtiassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse châtié",
+      "tu": "eusses châtié",
+      "il": "eût châtié",
+      "nous": "eussions châtié",
+      "vous": "eussiez châtié",
+      "ils": "eussent châtié"
+    },
+    "conditionnel_présent": {
+      "je": "châtierais",
+      "tu": "châtierais",
+      "il": "châtierait",
+      "nous": "châtierions",
+      "vous": "châtieriez",
+      "ils": "châtieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais châtié",
+      "tu": "aurais châtié",
+      "il": "aurait châtié",
+      "nous": "aurions châtié",
+      "vous": "auriez châtié",
+      "ils": "auraient châtié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse châtié",
+      "tu": "eusses châtié",
+      "il": "eût châtié",
+      "nous": "eussions châtié",
+      "vous": "eussiez châtié",
+      "ils": "eussent châtié"
+    },
+    "translation": "kastrować",
+    "group": 1
+  },
+  {
+    "infinitive": "chauffer",
+    "présent": {
+      "je": "chauffe",
+      "tu": "chauffes",
+      "il": "chauffe",
+      "nous": "chauffons",
+      "vous": "chauffez",
+      "ils": "chauffent"
+    },
+    "passé_composé": {
+      "je": "ai chauffé",
+      "tu": "as chauffé",
+      "il": "a chauffé",
+      "nous": "avons chauffé",
+      "vous": "avez chauffé",
+      "ils": "ont chauffé"
+    },
+    "imparfait": {
+      "je": "chauffais",
+      "tu": "chauffais",
+      "il": "chauffait",
+      "nous": "chauffions",
+      "vous": "chauffiez",
+      "ils": "chauffaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais chauffé",
+      "tu": "avais chauffé",
+      "il": "avait chauffé",
+      "nous": "avions chauffé",
+      "vous": "aviez chauffé",
+      "ils": "avaient chauffé"
+    },
+    "passé_simple": {
+      "je": "chauffai",
+      "tu": "chauffas",
+      "il": "chauffa",
+      "nous": "chauffâmes",
+      "vous": "chauffâtes",
+      "ils": "chauffèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus chauffé",
+      "tu": "eus chauffé",
+      "il": "eut chauffé",
+      "nous": "eûmes chauffé",
+      "vous": "eûtes chauffé",
+      "ils": "eurent chauffé"
+    },
+    "futur_simple": {
+      "je": "chaufferai",
+      "tu": "chaufferas",
+      "il": "chauffera",
+      "nous": "chaufferons",
+      "vous": "chaufferez",
+      "ils": "chaufferont"
+    },
+    "futur_antérieur": {
+      "je": "aurai chauffé",
+      "tu": "auras chauffé",
+      "il": "aura chauffé",
+      "nous": "aurons chauffé",
+      "vous": "aurez chauffé",
+      "ils": "auront chauffé"
+    },
+    "subjonctif_présent": {
+      "je": "chauffe",
+      "tu": "chauffes",
+      "il": "chauffe",
+      "nous": "chauffions",
+      "vous": "chauffiez",
+      "ils": "chauffent"
+    },
+    "subjonctif_passé": {
+      "je": "aie chauffé",
+      "tu": "aies chauffé",
+      "il": "ait chauffé",
+      "nous": "ayons chauffé",
+      "vous": "ayez chauffé",
+      "ils": "aient chauffé"
+    },
+    "subjonctif_imparfait": {
+      "je": "chauffasse",
+      "tu": "chauffasses",
+      "il": "chauffât",
+      "nous": "chauffassions",
+      "vous": "chauffassiez",
+      "ils": "chauffassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse chauffé",
+      "tu": "eusses chauffé",
+      "il": "eût chauffé",
+      "nous": "eussions chauffé",
+      "vous": "eussiez chauffé",
+      "ils": "eussent chauffé"
+    },
+    "conditionnel_présent": {
+      "je": "chaufferais",
+      "tu": "chaufferais",
+      "il": "chaufferait",
+      "nous": "chaufferions",
+      "vous": "chaufferiez",
+      "ils": "chaufferaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais chauffé",
+      "tu": "aurais chauffé",
+      "il": "aurait chauffé",
+      "nous": "aurions chauffé",
+      "vous": "auriez chauffé",
+      "ils": "auraient chauffé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse chauffé",
+      "tu": "eusses chauffé",
+      "il": "eût chauffé",
+      "nous": "eussions chauffé",
+      "vous": "eussiez chauffé",
+      "ils": "eussent chauffé"
+    },
+    "translation": "podgrzewać",
+    "group": 1
+  },
+  {
+    "infinitive": "chausser",
+    "présent": {
+      "je": "chausse",
+      "tu": "chausses",
+      "il": "chausse",
+      "nous": "chaussons",
+      "vous": "chaussez",
+      "ils": "chaussent"
+    },
+    "passé_composé": {
+      "je": "ai chaussé",
+      "tu": "as chaussé",
+      "il": "a chaussé",
+      "nous": "avons chaussé",
+      "vous": "avez chaussé",
+      "ils": "ont chaussé"
+    },
+    "imparfait": {
+      "je": "chaussais",
+      "tu": "chaussais",
+      "il": "chaussait",
+      "nous": "chaussions",
+      "vous": "chaussiez",
+      "ils": "chaussaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais chaussé",
+      "tu": "avais chaussé",
+      "il": "avait chaussé",
+      "nous": "avions chaussé",
+      "vous": "aviez chaussé",
+      "ils": "avaient chaussé"
+    },
+    "passé_simple": {
+      "je": "chaussai",
+      "tu": "chaussas",
+      "il": "chaussa",
+      "nous": "chaussâmes",
+      "vous": "chaussâtes",
+      "ils": "chaussèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus chaussé",
+      "tu": "eus chaussé",
+      "il": "eut chaussé",
+      "nous": "eûmes chaussé",
+      "vous": "eûtes chaussé",
+      "ils": "eurent chaussé"
+    },
+    "futur_simple": {
+      "je": "chausserai",
+      "tu": "chausseras",
+      "il": "chaussera",
+      "nous": "chausserons",
+      "vous": "chausserez",
+      "ils": "chausseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai chaussé",
+      "tu": "auras chaussé",
+      "il": "aura chaussé",
+      "nous": "aurons chaussé",
+      "vous": "aurez chaussé",
+      "ils": "auront chaussé"
+    },
+    "subjonctif_présent": {
+      "je": "chausse",
+      "tu": "chausses",
+      "il": "chausse",
+      "nous": "chaussions",
+      "vous": "chaussiez",
+      "ils": "chaussent"
+    },
+    "subjonctif_passé": {
+      "je": "aie chaussé",
+      "tu": "aies chaussé",
+      "il": "ait chaussé",
+      "nous": "ayons chaussé",
+      "vous": "ayez chaussé",
+      "ils": "aient chaussé"
+    },
+    "subjonctif_imparfait": {
+      "je": "chaussasse",
+      "tu": "chaussasses",
+      "il": "chaussât",
+      "nous": "chaussassions",
+      "vous": "chaussassiez",
+      "ils": "chaussassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse chaussé",
+      "tu": "eusses chaussé",
+      "il": "eût chaussé",
+      "nous": "eussions chaussé",
+      "vous": "eussiez chaussé",
+      "ils": "eussent chaussé"
+    },
+    "conditionnel_présent": {
+      "je": "chausserais",
+      "tu": "chausserais",
+      "il": "chausserait",
+      "nous": "chausserions",
+      "vous": "chausseriez",
+      "ils": "chausseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais chaussé",
+      "tu": "aurais chaussé",
+      "il": "aurait chaussé",
+      "nous": "aurions chaussé",
+      "vous": "auriez chaussé",
+      "ils": "auraient chaussé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse chaussé",
+      "tu": "eusses chaussé",
+      "il": "eût chaussé",
+      "nous": "eussions chaussé",
+      "vous": "eussiez chaussé",
+      "ils": "eussent chaussé"
+    },
+    "translation": "zakładać",
+    "group": 1
+  },
+  {
+    "infinitive": "chercher",
+    "présent": {
+      "je": "cherche",
+      "tu": "cherches",
+      "il": "cherche",
+      "nous": "cherchons",
+      "vous": "cherchez",
+      "ils": "cherchent"
+    },
+    "passé_composé": {
+      "je": "ai cherché",
+      "tu": "as cherché",
+      "il": "a cherché",
+      "nous": "avons cherché",
+      "vous": "avez cherché",
+      "ils": "ont cherché"
+    },
+    "imparfait": {
+      "je": "cherchais",
+      "tu": "cherchais",
+      "il": "cherchait",
+      "nous": "cherchions",
+      "vous": "cherchiez",
+      "ils": "cherchaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais cherché",
+      "tu": "avais cherché",
+      "il": "avait cherché",
+      "nous": "avions cherché",
+      "vous": "aviez cherché",
+      "ils": "avaient cherché"
+    },
+    "passé_simple": {
+      "je": "cherchai",
+      "tu": "cherchas",
+      "il": "chercha",
+      "nous": "cherchâmes",
+      "vous": "cherchâtes",
+      "ils": "cherchèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus cherché",
+      "tu": "eus cherché",
+      "il": "eut cherché",
+      "nous": "eûmes cherché",
+      "vous": "eûtes cherché",
+      "ils": "eurent cherché"
+    },
+    "futur_simple": {
+      "je": "chercherai",
+      "tu": "chercheras",
+      "il": "cherchera",
+      "nous": "chercherons",
+      "vous": "chercherez",
+      "ils": "chercheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai cherché",
+      "tu": "auras cherché",
+      "il": "aura cherché",
+      "nous": "aurons cherché",
+      "vous": "aurez cherché",
+      "ils": "auront cherché"
+    },
+    "subjonctif_présent": {
+      "je": "cherche",
+      "tu": "cherches",
+      "il": "cherche",
+      "nous": "cherchions",
+      "vous": "cherchiez",
+      "ils": "cherchent"
+    },
+    "subjonctif_passé": {
+      "je": "aie cherché",
+      "tu": "aies cherché",
+      "il": "ait cherché",
+      "nous": "ayons cherché",
+      "vous": "ayez cherché",
+      "ils": "aient cherché"
+    },
+    "subjonctif_imparfait": {
+      "je": "cherchasse",
+      "tu": "cherchasses",
+      "il": "cherchât",
+      "nous": "cherchassions",
+      "vous": "cherchassiez",
+      "ils": "cherchassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse cherché",
+      "tu": "eusses cherché",
+      "il": "eût cherché",
+      "nous": "eussions cherché",
+      "vous": "eussiez cherché",
+      "ils": "eussent cherché"
+    },
+    "conditionnel_présent": {
+      "je": "chercherais",
+      "tu": "chercherais",
+      "il": "chercherait",
+      "nous": "chercherions",
+      "vous": "chercheriez",
+      "ils": "chercheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais cherché",
+      "tu": "aurais cherché",
+      "il": "aurait cherché",
+      "nous": "aurions cherché",
+      "vous": "auriez cherché",
+      "ils": "auraient cherché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse cherché",
+      "tu": "eusses cherché",
+      "il": "eût cherché",
+      "nous": "eussions cherché",
+      "vous": "eussiez cherché",
+      "ils": "eussent cherché"
+    },
+    "translation": "szukać",
+    "group": 1
+  },
+  {
+    "infinitive": "chérir",
+    "présent": {
+      "je": "chéris",
+      "tu": "chéris",
+      "il": "chérit",
+      "nous": "chérissons",
+      "vous": "chérissez",
+      "ils": "chérissent"
+    },
+    "passé_composé": {
+      "je": "ai chéri",
+      "tu": "as chéri",
+      "il": "a chéri",
+      "nous": "avons chéri",
+      "vous": "avez chéri",
+      "ils": "ont chéri"
+    },
+    "imparfait": {
+      "je": "chérissais",
+      "tu": "chérissais",
+      "il": "chérissait",
+      "nous": "chérissions",
+      "vous": "chérissiez",
+      "ils": "chérissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais chéri",
+      "tu": "avais chéri",
+      "il": "avait chéri",
+      "nous": "avions chéri",
+      "vous": "aviez chéri",
+      "ils": "avaient chéri"
+    },
+    "passé_simple": {
+      "je": "chéris",
+      "tu": "chéris",
+      "il": "chérit",
+      "nous": "chérîmes",
+      "vous": "chérîtes",
+      "ils": "chérirent"
+    },
+    "passé_antérieur": {
+      "je": "eus chéri",
+      "tu": "eus chéri",
+      "il": "eut chéri",
+      "nous": "eûmes chéri",
+      "vous": "eûtes chéri",
+      "ils": "eurent chéri"
+    },
+    "futur_simple": {
+      "je": "chérirai",
+      "tu": "chériras",
+      "il": "chérira",
+      "nous": "chérirons",
+      "vous": "chérirez",
+      "ils": "chériront"
+    },
+    "futur_antérieur": {
+      "je": "aurai chéri",
+      "tu": "auras chéri",
+      "il": "aura chéri",
+      "nous": "aurons chéri",
+      "vous": "aurez chéri",
+      "ils": "auront chéri"
+    },
+    "subjonctif_présent": {
+      "je": "chérisse",
+      "tu": "chérisses",
+      "il": "chérisse",
+      "nous": "chérissions",
+      "vous": "chérissiez",
+      "ils": "chérissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie chéri",
+      "tu": "aies chéri",
+      "il": "ait chéri",
+      "nous": "ayons chéri",
+      "vous": "ayez chéri",
+      "ils": "aient chéri"
+    },
+    "subjonctif_imparfait": {
+      "je": "chérisse",
+      "tu": "chérisses",
+      "il": "chérît",
+      "nous": "chérissions",
+      "vous": "chérissiez",
+      "ils": "chérissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse chéri",
+      "tu": "eusses chéri",
+      "il": "eût chéri",
+      "nous": "eussions chéri",
+      "vous": "eussiez chéri",
+      "ils": "eussent chéri"
+    },
+    "conditionnel_présent": {
+      "je": "chérirais",
+      "tu": "chérirais",
+      "il": "chérirait",
+      "nous": "chéririons",
+      "vous": "chéririez",
+      "ils": "chériraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais chéri",
+      "tu": "aurais chéri",
+      "il": "aurait chéri",
+      "nous": "aurions chéri",
+      "vous": "auriez chéri",
+      "ils": "auraient chéri"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse chéri",
+      "tu": "eusses chéri",
+      "il": "eût chéri",
+      "nous": "eussions chéri",
+      "vous": "eussiez chéri",
+      "ils": "eussent chéri"
+    },
+    "translation": "kochany",
+    "group": 2
+  },
+  {
+    "infinitive": "cherrer",
+    "présent": {
+      "je": "cherre",
+      "tu": "cherres",
+      "il": "cherre",
+      "nous": "cherrons",
+      "vous": "cherrez",
+      "ils": "cherrent"
+    },
+    "passé_composé": {
+      "je": "ai cherré",
+      "tu": "as cherré",
+      "il": "a cherré",
+      "nous": "avons cherré",
+      "vous": "avez cherré",
+      "ils": "ont cherré"
+    },
+    "imparfait": {
+      "je": "cherrais",
+      "tu": "cherrais",
+      "il": "cherrait",
+      "nous": "cherrions",
+      "vous": "cherriez",
+      "ils": "cherraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais cherré",
+      "tu": "avais cherré",
+      "il": "avait cherré",
+      "nous": "avions cherré",
+      "vous": "aviez cherré",
+      "ils": "avaient cherré"
+    },
+    "passé_simple": {
+      "je": "cherrai",
+      "tu": "cherras",
+      "il": "cherra",
+      "nous": "cherrâmes",
+      "vous": "cherrâtes",
+      "ils": "cherrèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus cherré",
+      "tu": "eus cherré",
+      "il": "eut cherré",
+      "nous": "eûmes cherré",
+      "vous": "eûtes cherré",
+      "ils": "eurent cherré"
+    },
+    "futur_simple": {
+      "je": "cherrerai",
+      "tu": "cherreras",
+      "il": "cherrera",
+      "nous": "cherrerons",
+      "vous": "cherrerez",
+      "ils": "cherreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai cherré",
+      "tu": "auras cherré",
+      "il": "aura cherré",
+      "nous": "aurons cherré",
+      "vous": "aurez cherré",
+      "ils": "auront cherré"
+    },
+    "subjonctif_présent": {
+      "je": "cherre",
+      "tu": "cherres",
+      "il": "cherre",
+      "nous": "cherrions",
+      "vous": "cherriez",
+      "ils": "cherrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie cherré",
+      "tu": "aies cherré",
+      "il": "ait cherré",
+      "nous": "ayons cherré",
+      "vous": "ayez cherré",
+      "ils": "aient cherré"
+    },
+    "subjonctif_imparfait": {
+      "je": "cherrasse",
+      "tu": "cherrasses",
+      "il": "cherrât",
+      "nous": "cherrassions",
+      "vous": "cherrassiez",
+      "ils": "cherrassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse cherré",
+      "tu": "eusses cherré",
+      "il": "eût cherré",
+      "nous": "eussions cherré",
+      "vous": "eussiez cherré",
+      "ils": "eussent cherré"
+    },
+    "conditionnel_présent": {
+      "je": "cherrerais",
+      "tu": "cherrerais",
+      "il": "cherrerait",
+      "nous": "cherrerions",
+      "vous": "cherreriez",
+      "ils": "cherreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais cherré",
+      "tu": "aurais cherré",
+      "il": "aurait cherré",
+      "nous": "aurions cherré",
+      "vous": "auriez cherré",
+      "ils": "auraient cherré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse cherré",
+      "tu": "eusses cherré",
+      "il": "eût cherré",
+      "nous": "eussions cherré",
+      "vous": "eussiez cherré",
+      "ils": "eussent cherré"
+    },
+    "translation": "wałęsać",
+    "group": 1
+  }
+]

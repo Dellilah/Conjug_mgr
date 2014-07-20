@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "bouder",
+    "présent": {
+      "je": "boude",
+      "tu": "boudes",
+      "il": "boude",
+      "nous": "boudons",
+      "vous": "boudez",
+      "ils": "boudent"
+    },
+    "passé_composé": {
+      "je": "ai boudé",
+      "tu": "as boudé",
+      "il": "a boudé",
+      "nous": "avons boudé",
+      "vous": "avez boudé",
+      "ils": "ont boudé"
+    },
+    "imparfait": {
+      "je": "boudais",
+      "tu": "boudais",
+      "il": "boudait",
+      "nous": "boudions",
+      "vous": "boudiez",
+      "ils": "boudaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais boudé",
+      "tu": "avais boudé",
+      "il": "avait boudé",
+      "nous": "avions boudé",
+      "vous": "aviez boudé",
+      "ils": "avaient boudé"
+    },
+    "passé_simple": {
+      "je": "boudai",
+      "tu": "boudas",
+      "il": "bouda",
+      "nous": "boudâmes",
+      "vous": "boudâtes",
+      "ils": "boudèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus boudé",
+      "tu": "eus boudé",
+      "il": "eut boudé",
+      "nous": "eûmes boudé",
+      "vous": "eûtes boudé",
+      "ils": "eurent boudé"
+    },
+    "futur_simple": {
+      "je": "bouderai",
+      "tu": "bouderas",
+      "il": "boudera",
+      "nous": "bouderons",
+      "vous": "bouderez",
+      "ils": "bouderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai boudé",
+      "tu": "auras boudé",
+      "il": "aura boudé",
+      "nous": "aurons boudé",
+      "vous": "aurez boudé",
+      "ils": "auront boudé"
+    },
+    "subjonctif_présent": {
+      "je": "boude",
+      "tu": "boudes",
+      "il": "boude",
+      "nous": "boudions",
+      "vous": "boudiez",
+      "ils": "boudent"
+    },
+    "subjonctif_passé": {
+      "je": "aie boudé",
+      "tu": "aies boudé",
+      "il": "ait boudé",
+      "nous": "ayons boudé",
+      "vous": "ayez boudé",
+      "ils": "aient boudé"
+    },
+    "subjonctif_imparfait": {
+      "je": "boudasse",
+      "tu": "boudasses",
+      "il": "boudât",
+      "nous": "boudassions",
+      "vous": "boudassiez",
+      "ils": "boudassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse boudé",
+      "tu": "eusses boudé",
+      "il": "eût boudé",
+      "nous": "eussions boudé",
+      "vous": "eussiez boudé",
+      "ils": "eussent boudé"
+    },
+    "conditionnel_présent": {
+      "je": "bouderais",
+      "tu": "bouderais",
+      "il": "bouderait",
+      "nous": "bouderions",
+      "vous": "bouderiez",
+      "ils": "bouderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais boudé",
+      "tu": "aurais boudé",
+      "il": "aurait boudé",
+      "nous": "aurions boudé",
+      "vous": "auriez boudé",
+      "ils": "auraient boudé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse boudé",
+      "tu": "eusses boudé",
+      "il": "eût boudé",
+      "nous": "eussions boudé",
+      "vous": "eussiez boudé",
+      "ils": "eussent boudé"
+    },
+    "translation": "kaprysić",
+    "group": 1
+  },
+  {
+    "infinitive": "bouffer",
+    "présent": {
+      "je": "bouffe",
+      "tu": "bouffes",
+      "il": "bouffe",
+      "nous": "bouffons",
+      "vous": "bouffez",
+      "ils": "bouffent"
+    },
+    "passé_composé": {
+      "je": "ai bouffé",
+      "tu": "as bouffé",
+      "il": "a bouffé",
+      "nous": "avons bouffé",
+      "vous": "avez bouffé",
+      "ils": "ont bouffé"
+    },
+    "imparfait": {
+      "je": "bouffais",
+      "tu": "bouffais",
+      "il": "bouffait",
+      "nous": "bouffions",
+      "vous": "bouffiez",
+      "ils": "bouffaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais bouffé",
+      "tu": "avais bouffé",
+      "il": "avait bouffé",
+      "nous": "avions bouffé",
+      "vous": "aviez bouffé",
+      "ils": "avaient bouffé"
+    },
+    "passé_simple": {
+      "je": "bouffai",
+      "tu": "bouffas",
+      "il": "bouffa",
+      "nous": "bouffâmes",
+      "vous": "bouffâtes",
+      "ils": "bouffèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus bouffé",
+      "tu": "eus bouffé",
+      "il": "eut bouffé",
+      "nous": "eûmes bouffé",
+      "vous": "eûtes bouffé",
+      "ils": "eurent bouffé"
+    },
+    "futur_simple": {
+      "je": "boufferai",
+      "tu": "boufferas",
+      "il": "bouffera",
+      "nous": "boufferons",
+      "vous": "boufferez",
+      "ils": "boufferont"
+    },
+    "futur_antérieur": {
+      "je": "aurai bouffé",
+      "tu": "auras bouffé",
+      "il": "aura bouffé",
+      "nous": "aurons bouffé",
+      "vous": "aurez bouffé",
+      "ils": "auront bouffé"
+    },
+    "subjonctif_présent": {
+      "je": "bouffe",
+      "tu": "bouffes",
+      "il": "bouffe",
+      "nous": "bouffions",
+      "vous": "bouffiez",
+      "ils": "bouffent"
+    },
+    "subjonctif_passé": {
+      "je": "aie bouffé",
+      "tu": "aies bouffé",
+      "il": "ait bouffé",
+      "nous": "ayons bouffé",
+      "vous": "ayez bouffé",
+      "ils": "aient bouffé"
+    },
+    "subjonctif_imparfait": {
+      "je": "bouffasse",
+      "tu": "bouffasses",
+      "il": "bouffât",
+      "nous": "bouffassions",
+      "vous": "bouffassiez",
+      "ils": "bouffassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse bouffé",
+      "tu": "eusses bouffé",
+      "il": "eût bouffé",
+      "nous": "eussions bouffé",
+      "vous": "eussiez bouffé",
+      "ils": "eussent bouffé"
+    },
+    "conditionnel_présent": {
+      "je": "boufferais",
+      "tu": "boufferais",
+      "il": "boufferait",
+      "nous": "boufferions",
+      "vous": "boufferiez",
+      "ils": "boufferaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais bouffé",
+      "tu": "aurais bouffé",
+      "il": "aurait bouffé",
+      "nous": "aurions bouffé",
+      "vous": "auriez bouffé",
+      "ils": "auraient bouffé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse bouffé",
+      "tu": "eusses bouffé",
+      "il": "eût bouffé",
+      "nous": "eussions bouffé",
+      "vous": "eussiez bouffé",
+      "ils": "eussent bouffé"
+    },
+    "translation": "obżerać",
+    "group": 1
+  },
+  {
+    "infinitive": "bouger",
+    "présent": {
+      "je": "bouge",
+      "tu": "bouges",
+      "il": "bouge",
+      "nous": "bougeons",
+      "vous": "bougez",
+      "ils": "bougent"
+    },
+    "passé_composé": {
+      "je": "ai bougé",
+      "tu": "as bougé",
+      "il": "a bougé",
+      "nous": "avons bougé",
+      "vous": "avez bougé",
+      "ils": "ont bougé"
+    },
+    "imparfait": {
+      "je": "bougeais",
+      "tu": "bougeais",
+      "il": "bougeait",
+      "nous": "bougions",
+      "vous": "bougiez",
+      "ils": "bougeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais bougé",
+      "tu": "avais bougé",
+      "il": "avait bougé",
+      "nous": "avions bougé",
+      "vous": "aviez bougé",
+      "ils": "avaient bougé"
+    },
+    "passé_simple": {
+      "je": "bougeai",
+      "tu": "bougeas",
+      "il": "bougea",
+      "nous": "bougeâmes",
+      "vous": "bougeâtes",
+      "ils": "bougèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus bougé",
+      "tu": "eus bougé",
+      "il": "eut bougé",
+      "nous": "eûmes bougé",
+      "vous": "eûtes bougé",
+      "ils": "eurent bougé"
+    },
+    "futur_simple": {
+      "je": "bougerai",
+      "tu": "bougeras",
+      "il": "bougera",
+      "nous": "bougerons",
+      "vous": "bougerez",
+      "ils": "bougeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai bougé",
+      "tu": "auras bougé",
+      "il": "aura bougé",
+      "nous": "aurons bougé",
+      "vous": "aurez bougé",
+      "ils": "auront bougé"
+    },
+    "subjonctif_présent": {
+      "je": "bouge",
+      "tu": "bouges",
+      "il": "bouge",
+      "nous": "bougions",
+      "vous": "bougiez",
+      "ils": "bougent"
+    },
+    "subjonctif_passé": {
+      "je": "aie bougé",
+      "tu": "aies bougé",
+      "il": "ait bougé",
+      "nous": "ayons bougé",
+      "vous": "ayez bougé",
+      "ils": "aient bougé"
+    },
+    "subjonctif_imparfait": {
+      "je": "bougeasse",
+      "tu": "bougeasses",
+      "il": "bougeât",
+      "nous": "bougeassions",
+      "vous": "bougeassiez",
+      "ils": "bougeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse bougé",
+      "tu": "eusses bougé",
+      "il": "eût bougé",
+      "nous": "eussions bougé",
+      "vous": "eussiez bougé",
+      "ils": "eussent bougé"
+    },
+    "conditionnel_présent": {
+      "je": "bougerais",
+      "tu": "bougerais",
+      "il": "bougerait",
+      "nous": "bougerions",
+      "vous": "bougeriez",
+      "ils": "bougeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais bougé",
+      "tu": "aurais bougé",
+      "il": "aurait bougé",
+      "nous": "aurions bougé",
+      "vous": "auriez bougé",
+      "ils": "auraient bougé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse bougé",
+      "tu": "eusses bougé",
+      "il": "eût bougé",
+      "nous": "eussions bougé",
+      "vous": "eussiez bougé",
+      "ils": "eussent bougé"
+    },
+    "translation": "ruszać",
+    "group": 1
+  },
+  {
+    "infinitive": "bouillir",
+    "présent": {
+      "je": "bous",
+      "tu": "bous",
+      "il": "bout",
+      "nous": "bouillons",
+      "vous": "bouillez",
+      "ils": "bouillent"
+    },
+    "passé_composé": {
+      "je": "ai bouilli",
+      "tu": "as bouilli",
+      "il": "a bouilli",
+      "nous": "avons bouilli",
+      "vous": "avez bouilli",
+      "ils": "ont bouilli"
+    },
+    "imparfait": {
+      "je": "bouillais",
+      "tu": "bouillais",
+      "il": "bouillait",
+      "nous": "bouillions",
+      "vous": "bouilliez",
+      "ils": "bouillaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais bouilli",
+      "tu": "avais bouilli",
+      "il": "avait bouilli",
+      "nous": "avions bouilli",
+      "vous": "aviez bouilli",
+      "ils": "avaient bouilli"
+    },
+    "passé_simple": {
+      "je": "bouillis",
+      "tu": "bouillis",
+      "il": "bouillit",
+      "nous": "bouillîmes",
+      "vous": "bouillîtes",
+      "ils": "bouillirent"
+    },
+    "passé_antérieur": {
+      "je": "eus bouilli",
+      "tu": "eus bouilli",
+      "il": "eut bouilli",
+      "nous": "eûmes bouilli",
+      "vous": "eûtes bouilli",
+      "ils": "eurent bouilli"
+    },
+    "futur_simple": {
+      "je": "bouillirai",
+      "tu": "bouilliras",
+      "il": "bouillira",
+      "nous": "bouillirons",
+      "vous": "bouillirez",
+      "ils": "bouilliront"
+    },
+    "futur_antérieur": {
+      "je": "aurai bouilli",
+      "tu": "auras bouilli",
+      "il": "aura bouilli",
+      "nous": "aurons bouilli",
+      "vous": "aurez bouilli",
+      "ils": "auront bouilli"
+    },
+    "subjonctif_présent": {
+      "je": "bouille",
+      "tu": "bouilles",
+      "il": "bouille",
+      "nous": "bouillions",
+      "vous": "bouilliez",
+      "ils": "bouillent"
+    },
+    "subjonctif_passé": {
+      "je": "aie bouilli",
+      "tu": "aies bouilli",
+      "il": "ait bouilli",
+      "nous": "ayons bouilli",
+      "vous": "ayez bouilli",
+      "ils": "aient bouilli"
+    },
+    "subjonctif_imparfait": {
+      "je": "bouillisse",
+      "tu": "bouillisses",
+      "il": "bouillît",
+      "nous": "bouillissions",
+      "vous": "bouillissiez",
+      "ils": "bouillissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse bouilli",
+      "tu": "eusses bouilli",
+      "il": "eût bouilli",
+      "nous": "eussions bouilli",
+      "vous": "eussiez bouilli",
+      "ils": "eussent bouilli"
+    },
+    "conditionnel_présent": {
+      "je": "bouillirais",
+      "tu": "bouillirais",
+      "il": "bouillirait",
+      "nous": "bouillirions",
+      "vous": "bouilliriez",
+      "ils": "bouilliraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais bouilli",
+      "tu": "aurais bouilli",
+      "il": "aurait bouilli",
+      "nous": "aurions bouilli",
+      "vous": "auriez bouilli",
+      "ils": "auraient bouilli"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse bouilli",
+      "tu": "eusses bouilli",
+      "il": "eût bouilli",
+      "nous": "eussions bouilli",
+      "vous": "eussiez bouilli",
+      "ils": "eussent bouilli"
+    },
+    "translation": "gotować",
+    "group": 3
+  },
+  {
+    "infinitive": "bouler",
+    "présent": {
+      "je": "boule",
+      "tu": "boules",
+      "il": "boule",
+      "nous": "boulons",
+      "vous": "boulez",
+      "ils": "boulent"
+    },
+    "passé_composé": {
+      "je": "ai boulé",
+      "tu": "as boulé",
+      "il": "a boulé",
+      "nous": "avons boulé",
+      "vous": "avez boulé",
+      "ils": "ont boulé"
+    },
+    "imparfait": {
+      "je": "boulais",
+      "tu": "boulais",
+      "il": "boulait",
+      "nous": "boulions",
+      "vous": "bouliez",
+      "ils": "boulaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais boulé",
+      "tu": "avais boulé",
+      "il": "avait boulé",
+      "nous": "avions boulé",
+      "vous": "aviez boulé",
+      "ils": "avaient boulé"
+    },
+    "passé_simple": {
+      "je": "boulai",
+      "tu": "boulas",
+      "il": "boula",
+      "nous": "boulâmes",
+      "vous": "boulâtes",
+      "ils": "boulèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus boulé",
+      "tu": "eus boulé",
+      "il": "eut boulé",
+      "nous": "eûmes boulé",
+      "vous": "eûtes boulé",
+      "ils": "eurent boulé"
+    },
+    "futur_simple": {
+      "je": "boulerai",
+      "tu": "bouleras",
+      "il": "boulera",
+      "nous": "boulerons",
+      "vous": "boulerez",
+      "ils": "bouleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai boulé",
+      "tu": "auras boulé",
+      "il": "aura boulé",
+      "nous": "aurons boulé",
+      "vous": "aurez boulé",
+      "ils": "auront boulé"
+    },
+    "subjonctif_présent": {
+      "je": "boule",
+      "tu": "boules",
+      "il": "boule",
+      "nous": "boulions",
+      "vous": "bouliez",
+      "ils": "boulent"
+    },
+    "subjonctif_passé": {
+      "je": "aie boulé",
+      "tu": "aies boulé",
+      "il": "ait boulé",
+      "nous": "ayons boulé",
+      "vous": "ayez boulé",
+      "ils": "aient boulé"
+    },
+    "subjonctif_imparfait": {
+      "je": "boulasse",
+      "tu": "boulasses",
+      "il": "boulât",
+      "nous": "boulassions",
+      "vous": "boulassiez",
+      "ils": "boulassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse boulé",
+      "tu": "eusses boulé",
+      "il": "eût boulé",
+      "nous": "eussions boulé",
+      "vous": "eussiez boulé",
+      "ils": "eussent boulé"
+    },
+    "conditionnel_présent": {
+      "je": "boulerais",
+      "tu": "boulerais",
+      "il": "boulerait",
+      "nous": "boulerions",
+      "vous": "bouleriez",
+      "ils": "bouleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais boulé",
+      "tu": "aurais boulé",
+      "il": "aurait boulé",
+      "nous": "aurions boulé",
+      "vous": "auriez boulé",
+      "ils": "auraient boulé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse boulé",
+      "tu": "eusses boulé",
+      "il": "eût boulé",
+      "nous": "eussions boulé",
+      "vous": "eussiez boulé",
+      "ils": "eussent boulé"
+    },
+    "translation": "zapinać",
+    "group": 1
+  },
+  {
+    "infinitive": "bouleverser",
+    "présent": {
+      "je": "bouleverse",
+      "tu": "bouleverses",
+      "il": "bouleverse",
+      "nous": "bouleversons",
+      "vous": "bouleversez",
+      "ils": "bouleversent"
+    },
+    "passé_composé": {
+      "je": "ai bouleversé",
+      "tu": "as bouleversé",
+      "il": "a bouleversé",
+      "nous": "avons bouleversé",
+      "vous": "avez bouleversé",
+      "ils": "ont bouleversé"
+    },
+    "imparfait": {
+      "je": "bouleversais",
+      "tu": "bouleversais",
+      "il": "bouleversait",
+      "nous": "bouleversions",
+      "vous": "bouleversiez",
+      "ils": "bouleversaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais bouleversé",
+      "tu": "avais bouleversé",
+      "il": "avait bouleversé",
+      "nous": "avions bouleversé",
+      "vous": "aviez bouleversé",
+      "ils": "avaient bouleversé"
+    },
+    "passé_simple": {
+      "je": "bouleversai",
+      "tu": "bouleversas",
+      "il": "bouleversa",
+      "nous": "bouleversâmes",
+      "vous": "bouleversâtes",
+      "ils": "bouleversèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus bouleversé",
+      "tu": "eus bouleversé",
+      "il": "eut bouleversé",
+      "nous": "eûmes bouleversé",
+      "vous": "eûtes bouleversé",
+      "ils": "eurent bouleversé"
+    },
+    "futur_simple": {
+      "je": "bouleverserai",
+      "tu": "bouleverseras",
+      "il": "bouleversera",
+      "nous": "bouleverserons",
+      "vous": "bouleverserez",
+      "ils": "bouleverseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai bouleversé",
+      "tu": "auras bouleversé",
+      "il": "aura bouleversé",
+      "nous": "aurons bouleversé",
+      "vous": "aurez bouleversé",
+      "ils": "auront bouleversé"
+    },
+    "subjonctif_présent": {
+      "je": "bouleverse",
+      "tu": "bouleverses",
+      "il": "bouleverse",
+      "nous": "bouleversions",
+      "vous": "bouleversiez",
+      "ils": "bouleversent"
+    },
+    "subjonctif_passé": {
+      "je": "aie bouleversé",
+      "tu": "aies bouleversé",
+      "il": "ait bouleversé",
+      "nous": "ayons bouleversé",
+      "vous": "ayez bouleversé",
+      "ils": "aient bouleversé"
+    },
+    "subjonctif_imparfait": {
+      "je": "bouleversasse",
+      "tu": "bouleversasses",
+      "il": "bouleversât",
+      "nous": "bouleversassions",
+      "vous": "bouleversassiez",
+      "ils": "bouleversassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse bouleversé",
+      "tu": "eusses bouleversé",
+      "il": "eût bouleversé",
+      "nous": "eussions bouleversé",
+      "vous": "eussiez bouleversé",
+      "ils": "eussent bouleversé"
+    },
+    "conditionnel_présent": {
+      "je": "bouleverserais",
+      "tu": "bouleverserais",
+      "il": "bouleverserait",
+      "nous": "bouleverserions",
+      "vous": "bouleverseriez",
+      "ils": "bouleverseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais bouleversé",
+      "tu": "aurais bouleversé",
+      "il": "aurait bouleversé",
+      "nous": "aurions bouleversé",
+      "vous": "auriez bouleversé",
+      "ils": "auraient bouleversé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse bouleversé",
+      "tu": "eusses bouleversé",
+      "il": "eût bouleversé",
+      "nous": "eussions bouleversé",
+      "vous": "eussiez bouleversé",
+      "ils": "eussent bouleversé"
+    },
+    "translation": "bulwersować",
+    "group": 1
+  },
+  {
+    "infinitive": "bourrer",
+    "présent": {
+      "je": "bourre",
+      "tu": "bourres",
+      "il": "bourre",
+      "nous": "bourrons",
+      "vous": "bourrez",
+      "ils": "bourrent"
+    },
+    "passé_composé": {
+      "je": "ai bourré",
+      "tu": "as bourré",
+      "il": "a bourré",
+      "nous": "avons bourré",
+      "vous": "avez bourré",
+      "ils": "ont bourré"
+    },
+    "imparfait": {
+      "je": "bourrais",
+      "tu": "bourrais",
+      "il": "bourrait",
+      "nous": "bourrions",
+      "vous": "bourriez",
+      "ils": "bourraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais bourré",
+      "tu": "avais bourré",
+      "il": "avait bourré",
+      "nous": "avions bourré",
+      "vous": "aviez bourré",
+      "ils": "avaient bourré"
+    },
+    "passé_simple": {
+      "je": "bourrai",
+      "tu": "bourras",
+      "il": "bourra",
+      "nous": "bourrâmes",
+      "vous": "bourrâtes",
+      "ils": "bourrèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus bourré",
+      "tu": "eus bourré",
+      "il": "eut bourré",
+      "nous": "eûmes bourré",
+      "vous": "eûtes bourré",
+      "ils": "eurent bourré"
+    },
+    "futur_simple": {
+      "je": "bourrerai",
+      "tu": "bourreras",
+      "il": "bourrera",
+      "nous": "bourrerons",
+      "vous": "bourrerez",
+      "ils": "bourreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai bourré",
+      "tu": "auras bourré",
+      "il": "aura bourré",
+      "nous": "aurons bourré",
+      "vous": "aurez bourré",
+      "ils": "auront bourré"
+    },
+    "subjonctif_présent": {
+      "je": "bourre",
+      "tu": "bourres",
+      "il": "bourre",
+      "nous": "bourrions",
+      "vous": "bourriez",
+      "ils": "bourrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie bourré",
+      "tu": "aies bourré",
+      "il": "ait bourré",
+      "nous": "ayons bourré",
+      "vous": "ayez bourré",
+      "ils": "aient bourré"
+    },
+    "subjonctif_imparfait": {
+      "je": "bourrasse",
+      "tu": "bourrasses",
+      "il": "bourrât",
+      "nous": "bourrassions",
+      "vous": "bourrassiez",
+      "ils": "bourrassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse bourré",
+      "tu": "eusses bourré",
+      "il": "eût bourré",
+      "nous": "eussions bourré",
+      "vous": "eussiez bourré",
+      "ils": "eussent bourré"
+    },
+    "conditionnel_présent": {
+      "je": "bourrerais",
+      "tu": "bourrerais",
+      "il": "bourrerait",
+      "nous": "bourrerions",
+      "vous": "bourreriez",
+      "ils": "bourreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais bourré",
+      "tu": "aurais bourré",
+      "il": "aurait bourré",
+      "nous": "aurions bourré",
+      "vous": "auriez bourré",
+      "ils": "auraient bourré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse bourré",
+      "tu": "eusses bourré",
+      "il": "eût bourré",
+      "nous": "eussions bourré",
+      "vous": "eussiez bourré",
+      "ils": "eussent bourré"
+    },
+    "translation": "napełniać",
+    "group": 1
+  },
+  {
+    "infinitive": "bousculer",
+    "présent": {
+      "je": "bouscule",
+      "tu": "bouscules",
+      "il": "bouscule",
+      "nous": "bousculons",
+      "vous": "bousculez",
+      "ils": "bousculent"
+    },
+    "passé_composé": {
+      "je": "ai bousculé",
+      "tu": "as bousculé",
+      "il": "a bousculé",
+      "nous": "avons bousculé",
+      "vous": "avez bousculé",
+      "ils": "ont bousculé"
+    },
+    "imparfait": {
+      "je": "bousculais",
+      "tu": "bousculais",
+      "il": "bousculait",
+      "nous": "bousculions",
+      "vous": "bousculiez",
+      "ils": "bousculaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais bousculé",
+      "tu": "avais bousculé",
+      "il": "avait bousculé",
+      "nous": "avions bousculé",
+      "vous": "aviez bousculé",
+      "ils": "avaient bousculé"
+    },
+    "passé_simple": {
+      "je": "bousculai",
+      "tu": "bousculas",
+      "il": "bouscula",
+      "nous": "bousculâmes",
+      "vous": "bousculâtes",
+      "ils": "bousculèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus bousculé",
+      "tu": "eus bousculé",
+      "il": "eut bousculé",
+      "nous": "eûmes bousculé",
+      "vous": "eûtes bousculé",
+      "ils": "eurent bousculé"
+    },
+    "futur_simple": {
+      "je": "bousculerai",
+      "tu": "bousculeras",
+      "il": "bousculera",
+      "nous": "bousculerons",
+      "vous": "bousculerez",
+      "ils": "bousculeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai bousculé",
+      "tu": "auras bousculé",
+      "il": "aura bousculé",
+      "nous": "aurons bousculé",
+      "vous": "aurez bousculé",
+      "ils": "auront bousculé"
+    },
+    "subjonctif_présent": {
+      "je": "bouscule",
+      "tu": "bouscules",
+      "il": "bouscule",
+      "nous": "bousculions",
+      "vous": "bousculiez",
+      "ils": "bousculent"
+    },
+    "subjonctif_passé": {
+      "je": "aie bousculé",
+      "tu": "aies bousculé",
+      "il": "ait bousculé",
+      "nous": "ayons bousculé",
+      "vous": "ayez bousculé",
+      "ils": "aient bousculé"
+    },
+    "subjonctif_imparfait": {
+      "je": "bousculasse",
+      "tu": "bousculasses",
+      "il": "bousculât",
+      "nous": "bousculassions",
+      "vous": "bousculassiez",
+      "ils": "bousculassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse bousculé",
+      "tu": "eusses bousculé",
+      "il": "eût bousculé",
+      "nous": "eussions bousculé",
+      "vous": "eussiez bousculé",
+      "ils": "eussent bousculé"
+    },
+    "conditionnel_présent": {
+      "je": "bousculerais",
+      "tu": "bousculerais",
+      "il": "bousculerait",
+      "nous": "bousculerions",
+      "vous": "bousculeriez",
+      "ils": "bousculeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais bousculé",
+      "tu": "aurais bousculé",
+      "il": "aurait bousculé",
+      "nous": "aurions bousculé",
+      "vous": "auriez bousculé",
+      "ils": "auraient bousculé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse bousculé",
+      "tu": "eusses bousculé",
+      "il": "eût bousculé",
+      "nous": "eussions bousculé",
+      "vous": "eussiez bousculé",
+      "ils": "eussent bousculé"
+    },
+    "translation": "popychać",
+    "group": 1
+  },
+  {
+    "infinitive": "bouter",
+    "présent": {
+      "je": "boute",
+      "tu": "boutes",
+      "il": "boute",
+      "nous": "boutons",
+      "vous": "boutez",
+      "ils": "boutent"
+    },
+    "passé_composé": {
+      "je": "ai bouté",
+      "tu": "as bouté",
+      "il": "a bouté",
+      "nous": "avons bouté",
+      "vous": "avez bouté",
+      "ils": "ont bouté"
+    },
+    "imparfait": {
+      "je": "boutais",
+      "tu": "boutais",
+      "il": "boutait",
+      "nous": "boutions",
+      "vous": "boutiez",
+      "ils": "boutaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais bouté",
+      "tu": "avais bouté",
+      "il": "avait bouté",
+      "nous": "avions bouté",
+      "vous": "aviez bouté",
+      "ils": "avaient bouté"
+    },
+    "passé_simple": {
+      "je": "boutai",
+      "tu": "boutas",
+      "il": "bouta",
+      "nous": "boutâmes",
+      "vous": "boutâtes",
+      "ils": "boutèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus bouté",
+      "tu": "eus bouté",
+      "il": "eut bouté",
+      "nous": "eûmes bouté",
+      "vous": "eûtes bouté",
+      "ils": "eurent bouté"
+    },
+    "futur_simple": {
+      "je": "bouterai",
+      "tu": "bouteras",
+      "il": "boutera",
+      "nous": "bouterons",
+      "vous": "bouterez",
+      "ils": "bouteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai bouté",
+      "tu": "auras bouté",
+      "il": "aura bouté",
+      "nous": "aurons bouté",
+      "vous": "aurez bouté",
+      "ils": "auront bouté"
+    },
+    "subjonctif_présent": {
+      "je": "boute",
+      "tu": "boutes",
+      "il": "boute",
+      "nous": "boutions",
+      "vous": "boutiez",
+      "ils": "boutent"
+    },
+    "subjonctif_passé": {
+      "je": "aie bouté",
+      "tu": "aies bouté",
+      "il": "ait bouté",
+      "nous": "ayons bouté",
+      "vous": "ayez bouté",
+      "ils": "aient bouté"
+    },
+    "subjonctif_imparfait": {
+      "je": "boutasse",
+      "tu": "boutasses",
+      "il": "boutât",
+      "nous": "boutassions",
+      "vous": "boutassiez",
+      "ils": "boutassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse bouté",
+      "tu": "eusses bouté",
+      "il": "eût bouté",
+      "nous": "eussions bouté",
+      "vous": "eussiez bouté",
+      "ils": "eussent bouté"
+    },
+    "conditionnel_présent": {
+      "je": "bouterais",
+      "tu": "bouterais",
+      "il": "bouterait",
+      "nous": "bouterions",
+      "vous": "bouteriez",
+      "ils": "bouteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais bouté",
+      "tu": "aurais bouté",
+      "il": "aurait bouté",
+      "nous": "aurions bouté",
+      "vous": "auriez bouté",
+      "ils": "auraient bouté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse bouté",
+      "tu": "eusses bouté",
+      "il": "eût bouté",
+      "nous": "eussions bouté",
+      "vous": "eussiez bouté",
+      "ils": "eussent bouté"
+    },
+    "translation": "skubać",
+    "group": 1
+  },
+  {
+    "infinitive": "braire",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "brait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "braient"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "braira",
+      "nous": "-",
+      "vous": "-",
+      "ils": "brairont"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "brairait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "brairaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "braire",
+    "group": 3
+  }
+]

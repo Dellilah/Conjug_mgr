@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "gésir",
+    "présent": {
+      "je": "gis",
+      "tu": "gis",
+      "il": "gît",
+      "nous": "gisons",
+      "vous": "gisez",
+      "ils": "gisent"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "gisais",
+      "tu": "gisais",
+      "il": "gisait",
+      "nous": "gisions",
+      "vous": "gisiez",
+      "ils": "gisaient"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "żołądek",
+    "group": 3
+  },
+  {
+    "infinitive": "gîter",
+    "présent": {
+      "je": "gîte",
+      "tu": "gîtes",
+      "il": "gîte",
+      "nous": "gîtons",
+      "vous": "gîtez",
+      "ils": "gîtent"
+    },
+    "passé_composé": {
+      "je": "ai gîté",
+      "tu": "as gîté",
+      "il": "a gîté",
+      "nous": "avons gîté",
+      "vous": "avez gîté",
+      "ils": "ont gîté"
+    },
+    "imparfait": {
+      "je": "gîtais",
+      "tu": "gîtais",
+      "il": "gîtait",
+      "nous": "gîtions",
+      "vous": "gîtiez",
+      "ils": "gîtaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais gîté",
+      "tu": "avais gîté",
+      "il": "avait gîté",
+      "nous": "avions gîté",
+      "vous": "aviez gîté",
+      "ils": "avaient gîté"
+    },
+    "passé_simple": {
+      "je": "gîtai",
+      "tu": "gîtas",
+      "il": "gîta",
+      "nous": "gîtâmes",
+      "vous": "gîtâtes",
+      "ils": "gîtèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus gîté",
+      "tu": "eus gîté",
+      "il": "eut gîté",
+      "nous": "eûmes gîté",
+      "vous": "eûtes gîté",
+      "ils": "eurent gîté"
+    },
+    "futur_simple": {
+      "je": "gîterai",
+      "tu": "gîteras",
+      "il": "gîtera",
+      "nous": "gîterons",
+      "vous": "gîterez",
+      "ils": "gîteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai gîté",
+      "tu": "auras gîté",
+      "il": "aura gîté",
+      "nous": "aurons gîté",
+      "vous": "aurez gîté",
+      "ils": "auront gîté"
+    },
+    "subjonctif_présent": {
+      "je": "gîte",
+      "tu": "gîtes",
+      "il": "gîte",
+      "nous": "gîtions",
+      "vous": "gîtiez",
+      "ils": "gîtent"
+    },
+    "subjonctif_passé": {
+      "je": "aie gîté",
+      "tu": "aies gîté",
+      "il": "ait gîté",
+      "nous": "ayons gîté",
+      "vous": "ayez gîté",
+      "ils": "aient gîté"
+    },
+    "subjonctif_imparfait": {
+      "je": "gîtasse",
+      "tu": "gîtasses",
+      "il": "gîtât",
+      "nous": "gîtassions",
+      "vous": "gîtassiez",
+      "ils": "gîtassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse gîté",
+      "tu": "eusses gîté",
+      "il": "eût gîté",
+      "nous": "eussions gîté",
+      "vous": "eussiez gîté",
+      "ils": "eussent gîté"
+    },
+    "conditionnel_présent": {
+      "je": "gîterais",
+      "tu": "gîterais",
+      "il": "gîterait",
+      "nous": "gîterions",
+      "vous": "gîteriez",
+      "ils": "gîteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais gîté",
+      "tu": "aurais gîté",
+      "il": "aurait gîté",
+      "nous": "aurions gîté",
+      "vous": "auriez gîté",
+      "ils": "auraient gîté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse gîté",
+      "tu": "eusses gîté",
+      "il": "eût gîté",
+      "nous": "eussions gîté",
+      "vous": "eussiez gîté",
+      "ils": "eussent gîté"
+    },
+    "translation": "ruszać",
+    "group": 1
+  },
+  {
+    "infinitive": "glacer",
+    "présent": {
+      "je": "glace",
+      "tu": "glaces",
+      "il": "glace",
+      "nous": "glaçons",
+      "vous": "glacez",
+      "ils": "glacent"
+    },
+    "passé_composé": {
+      "je": "ai glacé",
+      "tu": "as glacé",
+      "il": "a glacé",
+      "nous": "avons glacé",
+      "vous": "avez glacé",
+      "ils": "ont glacé"
+    },
+    "imparfait": {
+      "je": "glaçais",
+      "tu": "glaçais",
+      "il": "glaçait",
+      "nous": "glacions",
+      "vous": "glaciez",
+      "ils": "glaçaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais glacé",
+      "tu": "avais glacé",
+      "il": "avait glacé",
+      "nous": "avions glacé",
+      "vous": "aviez glacé",
+      "ils": "avaient glacé"
+    },
+    "passé_simple": {
+      "je": "glaçai",
+      "tu": "glaças",
+      "il": "glaça",
+      "nous": "glaçâmes",
+      "vous": "glaçâtes",
+      "ils": "glacèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus glacé",
+      "tu": "eus glacé",
+      "il": "eut glacé",
+      "nous": "eûmes glacé",
+      "vous": "eûtes glacé",
+      "ils": "eurent glacé"
+    },
+    "futur_simple": {
+      "je": "glacerai",
+      "tu": "glaceras",
+      "il": "glacera",
+      "nous": "glacerons",
+      "vous": "glacerez",
+      "ils": "glaceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai glacé",
+      "tu": "auras glacé",
+      "il": "aura glacé",
+      "nous": "aurons glacé",
+      "vous": "aurez glacé",
+      "ils": "auront glacé"
+    },
+    "subjonctif_présent": {
+      "je": "glace",
+      "tu": "glaces",
+      "il": "glace",
+      "nous": "glacions",
+      "vous": "glaciez",
+      "ils": "glacent"
+    },
+    "subjonctif_passé": {
+      "je": "aie glacé",
+      "tu": "aies glacé",
+      "il": "ait glacé",
+      "nous": "ayons glacé",
+      "vous": "ayez glacé",
+      "ils": "aient glacé"
+    },
+    "subjonctif_imparfait": {
+      "je": "glaçasse",
+      "tu": "glaçasses",
+      "il": "glaçât",
+      "nous": "glaçassions",
+      "vous": "glaçassiez",
+      "ils": "glaçassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse glacé",
+      "tu": "eusses glacé",
+      "il": "eût glacé",
+      "nous": "eussions glacé",
+      "vous": "eussiez glacé",
+      "ils": "eussent glacé"
+    },
+    "conditionnel_présent": {
+      "je": "glacerais",
+      "tu": "glacerais",
+      "il": "glacerait",
+      "nous": "glacerions",
+      "vous": "glaceriez",
+      "ils": "glaceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais glacé",
+      "tu": "aurais glacé",
+      "il": "aurait glacé",
+      "nous": "aurions glacé",
+      "vous": "auriez glacé",
+      "ils": "auraient glacé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse glacé",
+      "tu": "eusses glacé",
+      "il": "eût glacé",
+      "nous": "eussions glacé",
+      "vous": "eussiez glacé",
+      "ils": "eussent glacé"
+    },
+    "translation": "mrozić",
+    "group": 1
+  },
+  {
+    "infinitive": "glander",
+    "présent": {
+      "je": "glande",
+      "tu": "glandes",
+      "il": "glande",
+      "nous": "glandons",
+      "vous": "glandez",
+      "ils": "glandent"
+    },
+    "passé_composé": {
+      "je": "ai glandé",
+      "tu": "as glandé",
+      "il": "a glandé",
+      "nous": "avons glandé",
+      "vous": "avez glandé",
+      "ils": "ont glandé"
+    },
+    "imparfait": {
+      "je": "glandais",
+      "tu": "glandais",
+      "il": "glandait",
+      "nous": "glandions",
+      "vous": "glandiez",
+      "ils": "glandaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais glandé",
+      "tu": "avais glandé",
+      "il": "avait glandé",
+      "nous": "avions glandé",
+      "vous": "aviez glandé",
+      "ils": "avaient glandé"
+    },
+    "passé_simple": {
+      "je": "glandai",
+      "tu": "glandas",
+      "il": "glanda",
+      "nous": "glandâmes",
+      "vous": "glandâtes",
+      "ils": "glandèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus glandé",
+      "tu": "eus glandé",
+      "il": "eut glandé",
+      "nous": "eûmes glandé",
+      "vous": "eûtes glandé",
+      "ils": "eurent glandé"
+    },
+    "futur_simple": {
+      "je": "glanderai",
+      "tu": "glanderas",
+      "il": "glandera",
+      "nous": "glanderons",
+      "vous": "glanderez",
+      "ils": "glanderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai glandé",
+      "tu": "auras glandé",
+      "il": "aura glandé",
+      "nous": "aurons glandé",
+      "vous": "aurez glandé",
+      "ils": "auront glandé"
+    },
+    "subjonctif_présent": {
+      "je": "glande",
+      "tu": "glandes",
+      "il": "glande",
+      "nous": "glandions",
+      "vous": "glandiez",
+      "ils": "glandent"
+    },
+    "subjonctif_passé": {
+      "je": "aie glandé",
+      "tu": "aies glandé",
+      "il": "ait glandé",
+      "nous": "ayons glandé",
+      "vous": "ayez glandé",
+      "ils": "aient glandé"
+    },
+    "subjonctif_imparfait": {
+      "je": "glandasse",
+      "tu": "glandasses",
+      "il": "glandât",
+      "nous": "glandassions",
+      "vous": "glandassiez",
+      "ils": "glandassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse glandé",
+      "tu": "eusses glandé",
+      "il": "eût glandé",
+      "nous": "eussions glandé",
+      "vous": "eussiez glandé",
+      "ils": "eussent glandé"
+    },
+    "conditionnel_présent": {
+      "je": "glanderais",
+      "tu": "glanderais",
+      "il": "glanderait",
+      "nous": "glanderions",
+      "vous": "glanderiez",
+      "ils": "glanderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais glandé",
+      "tu": "aurais glandé",
+      "il": "aurait glandé",
+      "nous": "aurions glandé",
+      "vous": "auriez glandé",
+      "ils": "auraient glandé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse glandé",
+      "tu": "eusses glandé",
+      "il": "eût glandé",
+      "nous": "eussions glandé",
+      "vous": "eussiez glandé",
+      "ils": "eussent glandé"
+    },
+    "translation": "obijać",
+    "group": 1
+  },
+  {
+    "infinitive": "glisser",
+    "présent": {
+      "je": "glisse",
+      "tu": "glisses",
+      "il": "glisse",
+      "nous": "glissons",
+      "vous": "glissez",
+      "ils": "glissent"
+    },
+    "passé_composé": {
+      "je": "ai glissé",
+      "tu": "as glissé",
+      "il": "a glissé",
+      "nous": "avons glissé",
+      "vous": "avez glissé",
+      "ils": "ont glissé"
+    },
+    "imparfait": {
+      "je": "glissais",
+      "tu": "glissais",
+      "il": "glissait",
+      "nous": "glissions",
+      "vous": "glissiez",
+      "ils": "glissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais glissé",
+      "tu": "avais glissé",
+      "il": "avait glissé",
+      "nous": "avions glissé",
+      "vous": "aviez glissé",
+      "ils": "avaient glissé"
+    },
+    "passé_simple": {
+      "je": "glissai",
+      "tu": "glissas",
+      "il": "glissa",
+      "nous": "glissâmes",
+      "vous": "glissâtes",
+      "ils": "glissèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus glissé",
+      "tu": "eus glissé",
+      "il": "eut glissé",
+      "nous": "eûmes glissé",
+      "vous": "eûtes glissé",
+      "ils": "eurent glissé"
+    },
+    "futur_simple": {
+      "je": "glisserai",
+      "tu": "glisseras",
+      "il": "glissera",
+      "nous": "glisserons",
+      "vous": "glisserez",
+      "ils": "glisseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai glissé",
+      "tu": "auras glissé",
+      "il": "aura glissé",
+      "nous": "aurons glissé",
+      "vous": "aurez glissé",
+      "ils": "auront glissé"
+    },
+    "subjonctif_présent": {
+      "je": "glisse",
+      "tu": "glisses",
+      "il": "glisse",
+      "nous": "glissions",
+      "vous": "glissiez",
+      "ils": "glissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie glissé",
+      "tu": "aies glissé",
+      "il": "ait glissé",
+      "nous": "ayons glissé",
+      "vous": "ayez glissé",
+      "ils": "aient glissé"
+    },
+    "subjonctif_imparfait": {
+      "je": "glissasse",
+      "tu": "glissasses",
+      "il": "glissât",
+      "nous": "glissassions",
+      "vous": "glissassiez",
+      "ils": "glissassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse glissé",
+      "tu": "eusses glissé",
+      "il": "eût glissé",
+      "nous": "eussions glissé",
+      "vous": "eussiez glissé",
+      "ils": "eussent glissé"
+    },
+    "conditionnel_présent": {
+      "je": "glisserais",
+      "tu": "glisserais",
+      "il": "glisserait",
+      "nous": "glisserions",
+      "vous": "glisseriez",
+      "ils": "glisseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais glissé",
+      "tu": "aurais glissé",
+      "il": "aurait glissé",
+      "nous": "aurions glissé",
+      "vous": "auriez glissé",
+      "ils": "auraient glissé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse glissé",
+      "tu": "eusses glissé",
+      "il": "eût glissé",
+      "nous": "eussions glissé",
+      "vous": "eussiez glissé",
+      "ils": "eussent glissé"
+    },
+    "translation": "ślizgać",
+    "group": 1
+  },
+  {
+    "infinitive": "gonfler",
+    "présent": {
+      "je": "gonfle",
+      "tu": "gonfles",
+      "il": "gonfle",
+      "nous": "gonflons",
+      "vous": "gonflez",
+      "ils": "gonflent"
+    },
+    "passé_composé": {
+      "je": "ai gonflé",
+      "tu": "as gonflé",
+      "il": "a gonflé",
+      "nous": "avons gonflé",
+      "vous": "avez gonflé",
+      "ils": "ont gonflé"
+    },
+    "imparfait": {
+      "je": "gonflais",
+      "tu": "gonflais",
+      "il": "gonflait",
+      "nous": "gonflions",
+      "vous": "gonfliez",
+      "ils": "gonflaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais gonflé",
+      "tu": "avais gonflé",
+      "il": "avait gonflé",
+      "nous": "avions gonflé",
+      "vous": "aviez gonflé",
+      "ils": "avaient gonflé"
+    },
+    "passé_simple": {
+      "je": "gonflai",
+      "tu": "gonflas",
+      "il": "gonfla",
+      "nous": "gonflâmes",
+      "vous": "gonflâtes",
+      "ils": "gonflèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus gonflé",
+      "tu": "eus gonflé",
+      "il": "eut gonflé",
+      "nous": "eûmes gonflé",
+      "vous": "eûtes gonflé",
+      "ils": "eurent gonflé"
+    },
+    "futur_simple": {
+      "je": "gonflerai",
+      "tu": "gonfleras",
+      "il": "gonflera",
+      "nous": "gonflerons",
+      "vous": "gonflerez",
+      "ils": "gonfleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai gonflé",
+      "tu": "auras gonflé",
+      "il": "aura gonflé",
+      "nous": "aurons gonflé",
+      "vous": "aurez gonflé",
+      "ils": "auront gonflé"
+    },
+    "subjonctif_présent": {
+      "je": "gonfle",
+      "tu": "gonfles",
+      "il": "gonfle",
+      "nous": "gonflions",
+      "vous": "gonfliez",
+      "ils": "gonflent"
+    },
+    "subjonctif_passé": {
+      "je": "aie gonflé",
+      "tu": "aies gonflé",
+      "il": "ait gonflé",
+      "nous": "ayons gonflé",
+      "vous": "ayez gonflé",
+      "ils": "aient gonflé"
+    },
+    "subjonctif_imparfait": {
+      "je": "gonflasse",
+      "tu": "gonflasses",
+      "il": "gonflât",
+      "nous": "gonflassions",
+      "vous": "gonflassiez",
+      "ils": "gonflassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse gonflé",
+      "tu": "eusses gonflé",
+      "il": "eût gonflé",
+      "nous": "eussions gonflé",
+      "vous": "eussiez gonflé",
+      "ils": "eussent gonflé"
+    },
+    "conditionnel_présent": {
+      "je": "gonflerais",
+      "tu": "gonflerais",
+      "il": "gonflerait",
+      "nous": "gonflerions",
+      "vous": "gonfleriez",
+      "ils": "gonfleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais gonflé",
+      "tu": "aurais gonflé",
+      "il": "aurait gonflé",
+      "nous": "aurions gonflé",
+      "vous": "auriez gonflé",
+      "ils": "auraient gonflé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse gonflé",
+      "tu": "eusses gonflé",
+      "il": "eût gonflé",
+      "nous": "eussions gonflé",
+      "vous": "eussiez gonflé",
+      "ils": "eussent gonflé"
+    },
+    "translation": "pompować",
+    "group": 1
+  },
+  {
+    "infinitive": "gourer",
+    "présent": {
+      "je": "me goure",
+      "tu": "te goures",
+      "il": "se goure",
+      "nous": "nous gourons",
+      "vous": "vous gourez",
+      "ils": "se gourent"
+    },
+    "passé_composé": {
+      "je": "me suis gouré",
+      "tu": "es gouré",
+      "il": "est gouré",
+      "nous": "nous sommes gourés",
+      "vous": "vous êtes gourés",
+      "ils": "se sont gourés"
+    },
+    "imparfait": {
+      "je": "me gourais",
+      "tu": "te gourais",
+      "il": "se gourait",
+      "nous": "nous gourions",
+      "vous": "vous gouriez",
+      "ils": "se gouraient"
+    },
+    "plus_que_parfait": {
+      "je": "étais gouré",
+      "tu": "étais gouré",
+      "il": "était gouré",
+      "nous": "nous étions gourés",
+      "vous": "vous étiez gourés",
+      "ils": "étaient gourés"
+    },
+    "passé_simple": {
+      "je": "me gourai",
+      "tu": "te gouras",
+      "il": "se goura",
+      "nous": "nous gourâmes",
+      "vous": "vous gourâtes",
+      "ils": "se gourèrent"
+    },
+    "passé_antérieur": {
+      "je": "me fus gouré",
+      "tu": "te fus gouré",
+      "il": "se fut gouré",
+      "nous": "nous fûmes gourés",
+      "vous": "vous fûtes gourés",
+      "ils": "se furent gourés"
+    },
+    "futur_simple": {
+      "je": "me gourerai",
+      "tu": "te goureras",
+      "il": "se gourera",
+      "nous": "nous gourerons",
+      "vous": "vous gourerez",
+      "ils": "se goureront"
+    },
+    "futur_antérieur": {
+      "je": "me serai gouré",
+      "tu": "te seras gouré",
+      "il": "se sera gouré",
+      "nous": "nous serons gourés",
+      "vous": "vous serez gourés",
+      "ils": "se seront gourés"
+    },
+    "subjonctif_présent": {
+      "je": "me goure",
+      "tu": "te goures",
+      "il": "se goure",
+      "nous": "nous gourions",
+      "vous": "vous gouriez",
+      "ils": "se gourent"
+    },
+    "subjonctif_passé": {
+      "je": "me sois gouré",
+      "tu": "te sois gouré",
+      "il": "se soit gouré",
+      "nous": "nous soyons gourés",
+      "vous": "vous soyez gourés",
+      "ils": "se soient gourés"
+    },
+    "subjonctif_imparfait": {
+      "je": "me gourasse",
+      "tu": "te gourasses",
+      "il": "se gourât",
+      "nous": "nous gourassions",
+      "vous": "vous gourassiez",
+      "ils": "se gourassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse gouré",
+      "tu": "te fusses gouré",
+      "il": "se fût gouré",
+      "nous": "nous fussions gourés",
+      "vous": "vous fussiez gourés",
+      "ils": "se fussent gourés"
+    },
+    "conditionnel_présent": {
+      "je": "me gourerais",
+      "tu": "te gourerais",
+      "il": "se gourerait",
+      "nous": "nous gourerions",
+      "vous": "vous goureriez",
+      "ils": "se goureraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais gouré",
+      "tu": "te serais gouré",
+      "il": "se serait gouré",
+      "nous": "nous serions gourés",
+      "vous": "vous seriez gourés",
+      "ils": "se seraient gourés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse gouré",
+      "tu": "te fusses gouré",
+      "il": "se fût gouré",
+      "nous": "nous fussions gourés",
+      "vous": "vous fussiez gourés",
+      "ils": "se fussent gourés"
+    },
+    "translation": "komuś",
+    "group": 1
+  },
+  {
+    "infinitive": "goûter",
+    "présent": {
+      "je": "goûte",
+      "tu": "goûtes",
+      "il": "goûte",
+      "nous": "goûtons",
+      "vous": "goûtez",
+      "ils": "goûtent"
+    },
+    "passé_composé": {
+      "je": "ai goûté",
+      "tu": "as goûté",
+      "il": "a goûté",
+      "nous": "avons goûté",
+      "vous": "avez goûté",
+      "ils": "ont goûté"
+    },
+    "imparfait": {
+      "je": "goûtais",
+      "tu": "goûtais",
+      "il": "goûtait",
+      "nous": "goûtions",
+      "vous": "goûtiez",
+      "ils": "goûtaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais goûté",
+      "tu": "avais goûté",
+      "il": "avait goûté",
+      "nous": "avions goûté",
+      "vous": "aviez goûté",
+      "ils": "avaient goûté"
+    },
+    "passé_simple": {
+      "je": "goûtai",
+      "tu": "goûtas",
+      "il": "goûta",
+      "nous": "goûtâmes",
+      "vous": "goûtâtes",
+      "ils": "goûtèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus goûté",
+      "tu": "eus goûté",
+      "il": "eut goûté",
+      "nous": "eûmes goûté",
+      "vous": "eûtes goûté",
+      "ils": "eurent goûté"
+    },
+    "futur_simple": {
+      "je": "goûterai",
+      "tu": "goûteras",
+      "il": "goûtera",
+      "nous": "goûterons",
+      "vous": "goûterez",
+      "ils": "goûteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai goûté",
+      "tu": "auras goûté",
+      "il": "aura goûté",
+      "nous": "aurons goûté",
+      "vous": "aurez goûté",
+      "ils": "auront goûté"
+    },
+    "subjonctif_présent": {
+      "je": "goûte",
+      "tu": "goûtes",
+      "il": "goûte",
+      "nous": "goûtions",
+      "vous": "goûtiez",
+      "ils": "goûtent"
+    },
+    "subjonctif_passé": {
+      "je": "aie goûté",
+      "tu": "aies goûté",
+      "il": "ait goûté",
+      "nous": "ayons goûté",
+      "vous": "ayez goûté",
+      "ils": "aient goûté"
+    },
+    "subjonctif_imparfait": {
+      "je": "goûtasse",
+      "tu": "goûtasses",
+      "il": "goûtât",
+      "nous": "goûtassions",
+      "vous": "goûtassiez",
+      "ils": "goûtassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse goûté",
+      "tu": "eusses goûté",
+      "il": "eût goûté",
+      "nous": "eussions goûté",
+      "vous": "eussiez goûté",
+      "ils": "eussent goûté"
+    },
+    "conditionnel_présent": {
+      "je": "goûterais",
+      "tu": "goûterais",
+      "il": "goûterait",
+      "nous": "goûterions",
+      "vous": "goûteriez",
+      "ils": "goûteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais goûté",
+      "tu": "aurais goûté",
+      "il": "aurait goûté",
+      "nous": "aurions goûté",
+      "vous": "auriez goûté",
+      "ils": "auraient goûté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse goûté",
+      "tu": "eusses goûté",
+      "il": "eût goûté",
+      "nous": "eussions goûté",
+      "vous": "eussiez goûté",
+      "ils": "eussent goûté"
+    },
+    "translation": "jeść",
+    "group": 1
+  },
+  {
+    "infinitive": "grandir",
+    "présent": {
+      "je": "grandis",
+      "tu": "grandis",
+      "il": "grandit",
+      "nous": "grandissons",
+      "vous": "grandissez",
+      "ils": "grandissent"
+    },
+    "passé_composé": {
+      "je": "ai grandi",
+      "tu": "as grandi",
+      "il": "a grandi",
+      "nous": "avons grandi",
+      "vous": "avez grandi",
+      "ils": "ont grandi"
+    },
+    "imparfait": {
+      "je": "grandissais",
+      "tu": "grandissais",
+      "il": "grandissait",
+      "nous": "grandissions",
+      "vous": "grandissiez",
+      "ils": "grandissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais grandi",
+      "tu": "avais grandi",
+      "il": "avait grandi",
+      "nous": "avions grandi",
+      "vous": "aviez grandi",
+      "ils": "avaient grandi"
+    },
+    "passé_simple": {
+      "je": "grandis",
+      "tu": "grandis",
+      "il": "grandit",
+      "nous": "grandîmes",
+      "vous": "grandîtes",
+      "ils": "grandirent"
+    },
+    "passé_antérieur": {
+      "je": "eus grandi",
+      "tu": "eus grandi",
+      "il": "eut grandi",
+      "nous": "eûmes grandi",
+      "vous": "eûtes grandi",
+      "ils": "eurent grandi"
+    },
+    "futur_simple": {
+      "je": "grandirai",
+      "tu": "grandiras",
+      "il": "grandira",
+      "nous": "grandirons",
+      "vous": "grandirez",
+      "ils": "grandiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai grandi",
+      "tu": "auras grandi",
+      "il": "aura grandi",
+      "nous": "aurons grandi",
+      "vous": "aurez grandi",
+      "ils": "auront grandi"
+    },
+    "subjonctif_présent": {
+      "je": "grandisse",
+      "tu": "grandisses",
+      "il": "grandisse",
+      "nous": "grandissions",
+      "vous": "grandissiez",
+      "ils": "grandissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie grandi",
+      "tu": "aies grandi",
+      "il": "ait grandi",
+      "nous": "ayons grandi",
+      "vous": "ayez grandi",
+      "ils": "aient grandi"
+    },
+    "subjonctif_imparfait": {
+      "je": "grandisse",
+      "tu": "grandisses",
+      "il": "grandît",
+      "nous": "grandissions",
+      "vous": "grandissiez",
+      "ils": "grandissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse grandi",
+      "tu": "eusses grandi",
+      "il": "eût grandi",
+      "nous": "eussions grandi",
+      "vous": "eussiez grandi",
+      "ils": "eussent grandi"
+    },
+    "conditionnel_présent": {
+      "je": "grandirais",
+      "tu": "grandirais",
+      "il": "grandirait",
+      "nous": "grandirions",
+      "vous": "grandiriez",
+      "ils": "grandiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais grandi",
+      "tu": "aurais grandi",
+      "il": "aurait grandi",
+      "nous": "aurions grandi",
+      "vous": "auriez grandi",
+      "ils": "auraient grandi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse grandi",
+      "tu": "eusses grandi",
+      "il": "eût grandi",
+      "nous": "eussions grandi",
+      "vous": "eussiez grandi",
+      "ils": "eussent grandi"
+    },
+    "translation": "rosnąć",
+    "group": 2
+  },
+  {
+    "infinitive": "grasseyer",
+    "présent": {
+      "je": "grasseye",
+      "tu": "grasseyes",
+      "il": "grasseye",
+      "nous": "grasseyons",
+      "vous": "grasseyez",
+      "ils": "grasseyent"
+    },
+    "passé_composé": {
+      "je": "ai grasseyé",
+      "tu": "as grasseyé",
+      "il": "a grasseyé",
+      "nous": "avons grasseyé",
+      "vous": "avez grasseyé",
+      "ils": "ont grasseyé"
+    },
+    "imparfait": {
+      "je": "grasseyais",
+      "tu": "grasseyais",
+      "il": "grasseyait",
+      "nous": "grasseyions",
+      "vous": "grasseyiez",
+      "ils": "grasseyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais grasseyé",
+      "tu": "avais grasseyé",
+      "il": "avait grasseyé",
+      "nous": "avions grasseyé",
+      "vous": "aviez grasseyé",
+      "ils": "avaient grasseyé"
+    },
+    "passé_simple": {
+      "je": "grasseyai",
+      "tu": "grasseyas",
+      "il": "grasseya",
+      "nous": "grasseyâmes",
+      "vous": "grasseyâtes",
+      "ils": "grasseyèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus grasseyé",
+      "tu": "eus grasseyé",
+      "il": "eut grasseyé",
+      "nous": "eûmes grasseyé",
+      "vous": "eûtes grasseyé",
+      "ils": "eurent grasseyé"
+    },
+    "futur_simple": {
+      "je": "grasseyerai",
+      "tu": "grasseyeras",
+      "il": "grasseyera",
+      "nous": "grasseyerons",
+      "vous": "grasseyerez",
+      "ils": "grasseyeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai grasseyé",
+      "tu": "auras grasseyé",
+      "il": "aura grasseyé",
+      "nous": "aurons grasseyé",
+      "vous": "aurez grasseyé",
+      "ils": "auront grasseyé"
+    },
+    "subjonctif_présent": {
+      "je": "grasseye",
+      "tu": "grasseyes",
+      "il": "grasseye",
+      "nous": "grasseyions",
+      "vous": "grasseyiez",
+      "ils": "grasseyent"
+    },
+    "subjonctif_passé": {
+      "je": "aie grasseyé",
+      "tu": "aies grasseyé",
+      "il": "ait grasseyé",
+      "nous": "ayons grasseyé",
+      "vous": "ayez grasseyé",
+      "ils": "aient grasseyé"
+    },
+    "subjonctif_imparfait": {
+      "je": "grasseyasse",
+      "tu": "grasseyasses",
+      "il": "grasseyât",
+      "nous": "grasseyassions",
+      "vous": "grasseyassiez",
+      "ils": "grasseyassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse grasseyé",
+      "tu": "eusses grasseyé",
+      "il": "eût grasseyé",
+      "nous": "eussions grasseyé",
+      "vous": "eussiez grasseyé",
+      "ils": "eussent grasseyé"
+    },
+    "conditionnel_présent": {
+      "je": "grasseyerais",
+      "tu": "grasseyerais",
+      "il": "grasseyerait",
+      "nous": "grasseyerions",
+      "vous": "grasseyeriez",
+      "ils": "grasseyeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais grasseyé",
+      "tu": "aurais grasseyé",
+      "il": "aurait grasseyé",
+      "nous": "aurions grasseyé",
+      "vous": "auriez grasseyé",
+      "ils": "auraient grasseyé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse grasseyé",
+      "tu": "eusses grasseyé",
+      "il": "eût grasseyé",
+      "nous": "eussions grasseyé",
+      "vous": "eussiez grasseyé",
+      "ils": "eussent grasseyé"
+    },
+    "translation": "szczodrze",
+    "group": 1
+  }
+]

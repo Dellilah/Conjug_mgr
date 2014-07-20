@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "mûrir",
+    "présent": {
+      "je": "mûris",
+      "tu": "mûris",
+      "il": "mûrit",
+      "nous": "mûrissons",
+      "vous": "mûrissez",
+      "ils": "mûrissent"
+    },
+    "passé_composé": {
+      "je": "ai mûri",
+      "tu": "as mûri",
+      "il": "a mûri",
+      "nous": "avons mûri",
+      "vous": "avez mûri",
+      "ils": "ont mûri"
+    },
+    "imparfait": {
+      "je": "mûrissais",
+      "tu": "mûrissais",
+      "il": "mûrissait",
+      "nous": "mûrissions",
+      "vous": "mûrissiez",
+      "ils": "mûrissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais mûri",
+      "tu": "avais mûri",
+      "il": "avait mûri",
+      "nous": "avions mûri",
+      "vous": "aviez mûri",
+      "ils": "avaient mûri"
+    },
+    "passé_simple": {
+      "je": "mûris",
+      "tu": "mûris",
+      "il": "mûrit",
+      "nous": "mûrîmes",
+      "vous": "mûrîtes",
+      "ils": "mûrirent"
+    },
+    "passé_antérieur": {
+      "je": "eus mûri",
+      "tu": "eus mûri",
+      "il": "eut mûri",
+      "nous": "eûmes mûri",
+      "vous": "eûtes mûri",
+      "ils": "eurent mûri"
+    },
+    "futur_simple": {
+      "je": "mûrirai",
+      "tu": "mûriras",
+      "il": "mûrira",
+      "nous": "mûrirons",
+      "vous": "mûrirez",
+      "ils": "mûriront"
+    },
+    "futur_antérieur": {
+      "je": "aurai mûri",
+      "tu": "auras mûri",
+      "il": "aura mûri",
+      "nous": "aurons mûri",
+      "vous": "aurez mûri",
+      "ils": "auront mûri"
+    },
+    "subjonctif_présent": {
+      "je": "mûrisse",
+      "tu": "mûrisses",
+      "il": "mûrisse",
+      "nous": "mûrissions",
+      "vous": "mûrissiez",
+      "ils": "mûrissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie mûri",
+      "tu": "aies mûri",
+      "il": "ait mûri",
+      "nous": "ayons mûri",
+      "vous": "ayez mûri",
+      "ils": "aient mûri"
+    },
+    "subjonctif_imparfait": {
+      "je": "mûrisse",
+      "tu": "mûrisses",
+      "il": "mûrît",
+      "nous": "mûrissions",
+      "vous": "mûrissiez",
+      "ils": "mûrissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse mûri",
+      "tu": "eusses mûri",
+      "il": "eût mûri",
+      "nous": "eussions mûri",
+      "vous": "eussiez mûri",
+      "ils": "eussent mûri"
+    },
+    "conditionnel_présent": {
+      "je": "mûrirais",
+      "tu": "mûrirais",
+      "il": "mûrirait",
+      "nous": "mûririons",
+      "vous": "mûririez",
+      "ils": "mûriraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais mûri",
+      "tu": "aurais mûri",
+      "il": "aurait mûri",
+      "nous": "aurions mûri",
+      "vous": "auriez mûri",
+      "ils": "auraient mûri"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse mûri",
+      "tu": "eusses mûri",
+      "il": "eût mûri",
+      "nous": "eussions mûri",
+      "vous": "eussiez mûri",
+      "ils": "eussent mûri"
+    },
+    "translation": "dojrzewać",
+    "group": 2
+  },
+  {
+    "infinitive": "murmurer",
+    "présent": {
+      "je": "murmure",
+      "tu": "murmures",
+      "il": "murmure",
+      "nous": "murmurons",
+      "vous": "murmurez",
+      "ils": "murmurent"
+    },
+    "passé_composé": {
+      "je": "ai murmuré",
+      "tu": "as murmuré",
+      "il": "a murmuré",
+      "nous": "avons murmuré",
+      "vous": "avez murmuré",
+      "ils": "ont murmuré"
+    },
+    "imparfait": {
+      "je": "murmurais",
+      "tu": "murmurais",
+      "il": "murmurait",
+      "nous": "murmurions",
+      "vous": "murmuriez",
+      "ils": "murmuraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais murmuré",
+      "tu": "avais murmuré",
+      "il": "avait murmuré",
+      "nous": "avions murmuré",
+      "vous": "aviez murmuré",
+      "ils": "avaient murmuré"
+    },
+    "passé_simple": {
+      "je": "murmurai",
+      "tu": "murmuras",
+      "il": "murmura",
+      "nous": "murmurâmes",
+      "vous": "murmurâtes",
+      "ils": "murmurèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus murmuré",
+      "tu": "eus murmuré",
+      "il": "eut murmuré",
+      "nous": "eûmes murmuré",
+      "vous": "eûtes murmuré",
+      "ils": "eurent murmuré"
+    },
+    "futur_simple": {
+      "je": "murmurerai",
+      "tu": "murmureras",
+      "il": "murmurera",
+      "nous": "murmurerons",
+      "vous": "murmurerez",
+      "ils": "murmureront"
+    },
+    "futur_antérieur": {
+      "je": "aurai murmuré",
+      "tu": "auras murmuré",
+      "il": "aura murmuré",
+      "nous": "aurons murmuré",
+      "vous": "aurez murmuré",
+      "ils": "auront murmuré"
+    },
+    "subjonctif_présent": {
+      "je": "murmure",
+      "tu": "murmures",
+      "il": "murmure",
+      "nous": "murmurions",
+      "vous": "murmuriez",
+      "ils": "murmurent"
+    },
+    "subjonctif_passé": {
+      "je": "aie murmuré",
+      "tu": "aies murmuré",
+      "il": "ait murmuré",
+      "nous": "ayons murmuré",
+      "vous": "ayez murmuré",
+      "ils": "aient murmuré"
+    },
+    "subjonctif_imparfait": {
+      "je": "murmurasse",
+      "tu": "murmurasses",
+      "il": "murmurât",
+      "nous": "murmurassions",
+      "vous": "murmurassiez",
+      "ils": "murmurassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse murmuré",
+      "tu": "eusses murmuré",
+      "il": "eût murmuré",
+      "nous": "eussions murmuré",
+      "vous": "eussiez murmuré",
+      "ils": "eussent murmuré"
+    },
+    "conditionnel_présent": {
+      "je": "murmurerais",
+      "tu": "murmurerais",
+      "il": "murmurerait",
+      "nous": "murmurerions",
+      "vous": "murmureriez",
+      "ils": "murmureraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais murmuré",
+      "tu": "aurais murmuré",
+      "il": "aurait murmuré",
+      "nous": "aurions murmuré",
+      "vous": "auriez murmuré",
+      "ils": "auraient murmuré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse murmuré",
+      "tu": "eusses murmuré",
+      "il": "eût murmuré",
+      "nous": "eussions murmuré",
+      "vous": "eussiez murmuré",
+      "ils": "eussent murmuré"
+    },
+    "translation": "szeptać",
+    "group": 1
+  },
+  {
+    "infinitive": "muser",
+    "présent": {
+      "je": "muse",
+      "tu": "muses",
+      "il": "muse",
+      "nous": "musons",
+      "vous": "musez",
+      "ils": "musent"
+    },
+    "passé_composé": {
+      "je": "ai musé",
+      "tu": "as musé",
+      "il": "a musé",
+      "nous": "avons musé",
+      "vous": "avez musé",
+      "ils": "ont musé"
+    },
+    "imparfait": {
+      "je": "musais",
+      "tu": "musais",
+      "il": "musait",
+      "nous": "musions",
+      "vous": "musiez",
+      "ils": "musaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais musé",
+      "tu": "avais musé",
+      "il": "avait musé",
+      "nous": "avions musé",
+      "vous": "aviez musé",
+      "ils": "avaient musé"
+    },
+    "passé_simple": {
+      "je": "musai",
+      "tu": "musas",
+      "il": "musa",
+      "nous": "musâmes",
+      "vous": "musâtes",
+      "ils": "musèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus musé",
+      "tu": "eus musé",
+      "il": "eut musé",
+      "nous": "eûmes musé",
+      "vous": "eûtes musé",
+      "ils": "eurent musé"
+    },
+    "futur_simple": {
+      "je": "muserai",
+      "tu": "museras",
+      "il": "musera",
+      "nous": "muserons",
+      "vous": "muserez",
+      "ils": "museront"
+    },
+    "futur_antérieur": {
+      "je": "aurai musé",
+      "tu": "auras musé",
+      "il": "aura musé",
+      "nous": "aurons musé",
+      "vous": "aurez musé",
+      "ils": "auront musé"
+    },
+    "subjonctif_présent": {
+      "je": "muse",
+      "tu": "muses",
+      "il": "muse",
+      "nous": "musions",
+      "vous": "musiez",
+      "ils": "musent"
+    },
+    "subjonctif_passé": {
+      "je": "aie musé",
+      "tu": "aies musé",
+      "il": "ait musé",
+      "nous": "ayons musé",
+      "vous": "ayez musé",
+      "ils": "aient musé"
+    },
+    "subjonctif_imparfait": {
+      "je": "musasse",
+      "tu": "musasses",
+      "il": "musât",
+      "nous": "musassions",
+      "vous": "musassiez",
+      "ils": "musassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse musé",
+      "tu": "eusses musé",
+      "il": "eût musé",
+      "nous": "eussions musé",
+      "vous": "eussiez musé",
+      "ils": "eussent musé"
+    },
+    "conditionnel_présent": {
+      "je": "muserais",
+      "tu": "muserais",
+      "il": "muserait",
+      "nous": "muserions",
+      "vous": "museriez",
+      "ils": "museraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais musé",
+      "tu": "aurais musé",
+      "il": "aurait musé",
+      "nous": "aurions musé",
+      "vous": "auriez musé",
+      "ils": "auraient musé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse musé",
+      "tu": "eusses musé",
+      "il": "eût musé",
+      "nous": "eussions musé",
+      "vous": "eussiez musé",
+      "ils": "eussent musé"
+    },
+    "translation": "zabawiać",
+    "group": 1
+  },
+  {
+    "infinitive": "muter",
+    "présent": {
+      "je": "mute",
+      "tu": "mutes",
+      "il": "mute",
+      "nous": "mutons",
+      "vous": "mutez",
+      "ils": "mutent"
+    },
+    "passé_composé": {
+      "je": "ai muté",
+      "tu": "as muté",
+      "il": "a muté",
+      "nous": "avons muté",
+      "vous": "avez muté",
+      "ils": "ont muté"
+    },
+    "imparfait": {
+      "je": "mutais",
+      "tu": "mutais",
+      "il": "mutait",
+      "nous": "mutions",
+      "vous": "mutiez",
+      "ils": "mutaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais muté",
+      "tu": "avais muté",
+      "il": "avait muté",
+      "nous": "avions muté",
+      "vous": "aviez muté",
+      "ils": "avaient muté"
+    },
+    "passé_simple": {
+      "je": "mutai",
+      "tu": "mutas",
+      "il": "muta",
+      "nous": "mutâmes",
+      "vous": "mutâtes",
+      "ils": "mutèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus muté",
+      "tu": "eus muté",
+      "il": "eut muté",
+      "nous": "eûmes muté",
+      "vous": "eûtes muté",
+      "ils": "eurent muté"
+    },
+    "futur_simple": {
+      "je": "muterai",
+      "tu": "muteras",
+      "il": "mutera",
+      "nous": "muterons",
+      "vous": "muterez",
+      "ils": "muteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai muté",
+      "tu": "auras muté",
+      "il": "aura muté",
+      "nous": "aurons muté",
+      "vous": "aurez muté",
+      "ils": "auront muté"
+    },
+    "subjonctif_présent": {
+      "je": "mute",
+      "tu": "mutes",
+      "il": "mute",
+      "nous": "mutions",
+      "vous": "mutiez",
+      "ils": "mutent"
+    },
+    "subjonctif_passé": {
+      "je": "aie muté",
+      "tu": "aies muté",
+      "il": "ait muté",
+      "nous": "ayons muté",
+      "vous": "ayez muté",
+      "ils": "aient muté"
+    },
+    "subjonctif_imparfait": {
+      "je": "mutasse",
+      "tu": "mutasses",
+      "il": "mutât",
+      "nous": "mutassions",
+      "vous": "mutassiez",
+      "ils": "mutassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse muté",
+      "tu": "eusses muté",
+      "il": "eût muté",
+      "nous": "eussions muté",
+      "vous": "eussiez muté",
+      "ils": "eussent muté"
+    },
+    "conditionnel_présent": {
+      "je": "muterais",
+      "tu": "muterais",
+      "il": "muterait",
+      "nous": "muterions",
+      "vous": "muteriez",
+      "ils": "muteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais muté",
+      "tu": "aurais muté",
+      "il": "aurait muté",
+      "nous": "aurions muté",
+      "vous": "auriez muté",
+      "ils": "auraient muté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse muté",
+      "tu": "eusses muté",
+      "il": "eût muté",
+      "nous": "eussions muté",
+      "vous": "eussiez muté",
+      "ils": "eussent muté"
+    },
+    "translation": "przenosić",
+    "group": 1
+  },
+  {
+    "infinitive": "nager",
+    "présent": {
+      "je": "nage",
+      "tu": "nages",
+      "il": "nage",
+      "nous": "nageons",
+      "vous": "nagez",
+      "ils": "nagent"
+    },
+    "passé_composé": {
+      "je": "ai nagé",
+      "tu": "as nagé",
+      "il": "a nagé",
+      "nous": "avons nagé",
+      "vous": "avez nagé",
+      "ils": "ont nagé"
+    },
+    "imparfait": {
+      "je": "nageais",
+      "tu": "nageais",
+      "il": "nageait",
+      "nous": "nagions",
+      "vous": "nagiez",
+      "ils": "nageaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais nagé",
+      "tu": "avais nagé",
+      "il": "avait nagé",
+      "nous": "avions nagé",
+      "vous": "aviez nagé",
+      "ils": "avaient nagé"
+    },
+    "passé_simple": {
+      "je": "nageai",
+      "tu": "nageas",
+      "il": "nagea",
+      "nous": "nageâmes",
+      "vous": "nageâtes",
+      "ils": "nagèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus nagé",
+      "tu": "eus nagé",
+      "il": "eut nagé",
+      "nous": "eûmes nagé",
+      "vous": "eûtes nagé",
+      "ils": "eurent nagé"
+    },
+    "futur_simple": {
+      "je": "nagerai",
+      "tu": "nageras",
+      "il": "nagera",
+      "nous": "nagerons",
+      "vous": "nagerez",
+      "ils": "nageront"
+    },
+    "futur_antérieur": {
+      "je": "aurai nagé",
+      "tu": "auras nagé",
+      "il": "aura nagé",
+      "nous": "aurons nagé",
+      "vous": "aurez nagé",
+      "ils": "auront nagé"
+    },
+    "subjonctif_présent": {
+      "je": "nage",
+      "tu": "nages",
+      "il": "nage",
+      "nous": "nagions",
+      "vous": "nagiez",
+      "ils": "nagent"
+    },
+    "subjonctif_passé": {
+      "je": "aie nagé",
+      "tu": "aies nagé",
+      "il": "ait nagé",
+      "nous": "ayons nagé",
+      "vous": "ayez nagé",
+      "ils": "aient nagé"
+    },
+    "subjonctif_imparfait": {
+      "je": "nageasse",
+      "tu": "nageasses",
+      "il": "nageât",
+      "nous": "nageassions",
+      "vous": "nageassiez",
+      "ils": "nageassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse nagé",
+      "tu": "eusses nagé",
+      "il": "eût nagé",
+      "nous": "eussions nagé",
+      "vous": "eussiez nagé",
+      "ils": "eussent nagé"
+    },
+    "conditionnel_présent": {
+      "je": "nagerais",
+      "tu": "nagerais",
+      "il": "nagerait",
+      "nous": "nagerions",
+      "vous": "nageriez",
+      "ils": "nageraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais nagé",
+      "tu": "aurais nagé",
+      "il": "aurait nagé",
+      "nous": "aurions nagé",
+      "vous": "auriez nagé",
+      "ils": "auraient nagé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse nagé",
+      "tu": "eusses nagé",
+      "il": "eût nagé",
+      "nous": "eussions nagé",
+      "vous": "eussiez nagé",
+      "ils": "eussent nagé"
+    },
+    "translation": "pływać",
+    "group": 1
+  },
+  {
+    "infinitive": "naître",
+    "présent": {
+      "je": "nais",
+      "tu": "nais",
+      "il": "naît",
+      "nous": "naissons",
+      "vous": "naissez",
+      "ils": "naissent"
+    },
+    "passé_composé": {
+      "je": "suis né",
+      "tu": "es né",
+      "il": "est né",
+      "nous": "sommes nés",
+      "vous": "êtes nés",
+      "ils": "sont nés"
+    },
+    "imparfait": {
+      "je": "naissais",
+      "tu": "naissais",
+      "il": "naissait",
+      "nous": "naissions",
+      "vous": "naissiez",
+      "ils": "naissaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais né",
+      "tu": "étais né",
+      "il": "était né",
+      "nous": "étions nés",
+      "vous": "étiez nés",
+      "ils": "étaient nés"
+    },
+    "passé_simple": {
+      "je": "naquis",
+      "tu": "naquis",
+      "il": "naquit",
+      "nous": "naquîmes",
+      "vous": "naquîtes",
+      "ils": "naquirent"
+    },
+    "passé_antérieur": {
+      "je": "fus né",
+      "tu": "fus né",
+      "il": "fut né",
+      "nous": "fûmes nés",
+      "vous": "fûtes nés",
+      "ils": "furent nés"
+    },
+    "futur_simple": {
+      "je": "naîtrai",
+      "tu": "naîtras",
+      "il": "naîtra",
+      "nous": "naîtrons",
+      "vous": "naîtrez",
+      "ils": "naîtront"
+    },
+    "futur_antérieur": {
+      "je": "serai né",
+      "tu": "seras né",
+      "il": "sera né",
+      "nous": "serons nés",
+      "vous": "serez nés",
+      "ils": "seront nés"
+    },
+    "subjonctif_présent": {
+      "je": "naisse",
+      "tu": "naisses",
+      "il": "naisse",
+      "nous": "naissions",
+      "vous": "naissiez",
+      "ils": "naissent"
+    },
+    "subjonctif_passé": {
+      "je": "sois né",
+      "tu": "sois né",
+      "il": "soit né",
+      "nous": "soyons nés",
+      "vous": "soyez nés",
+      "ils": "soient nés"
+    },
+    "subjonctif_imparfait": {
+      "je": "naquisse",
+      "tu": "naquisses",
+      "il": "naquît",
+      "nous": "naquissions",
+      "vous": "naquissiez",
+      "ils": "naquissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "fusse né",
+      "tu": "fusses né",
+      "il": "fût né",
+      "nous": "fussions nés",
+      "vous": "fussiez nés",
+      "ils": "fussent nés"
+    },
+    "conditionnel_présent": {
+      "je": "naîtrais",
+      "tu": "naîtrais",
+      "il": "naîtrait",
+      "nous": "naîtrions",
+      "vous": "naîtriez",
+      "ils": "naîtraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "serais né",
+      "tu": "serais né",
+      "il": "serait né",
+      "nous": "serions nés",
+      "vous": "seriez nés",
+      "ils": "seraient nés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "fusse né",
+      "tu": "fusses né",
+      "il": "fût né",
+      "nous": "fussions nés",
+      "vous": "fussiez nés",
+      "ils": "fussent nés"
+    },
+    "translation": "rodzić",
+    "group": 3
+  },
+  {
+    "infinitive": "narguer",
+    "présent": {
+      "je": "nargue",
+      "tu": "nargues",
+      "il": "nargue",
+      "nous": "narguons",
+      "vous": "narguez",
+      "ils": "narguent"
+    },
+    "passé_composé": {
+      "je": "ai nargué",
+      "tu": "as nargué",
+      "il": "a nargué",
+      "nous": "avons nargué",
+      "vous": "avez nargué",
+      "ils": "ont nargué"
+    },
+    "imparfait": {
+      "je": "narguais",
+      "tu": "narguais",
+      "il": "narguait",
+      "nous": "narguions",
+      "vous": "narguiez",
+      "ils": "narguaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais nargué",
+      "tu": "avais nargué",
+      "il": "avait nargué",
+      "nous": "avions nargué",
+      "vous": "aviez nargué",
+      "ils": "avaient nargué"
+    },
+    "passé_simple": {
+      "je": "narguai",
+      "tu": "narguas",
+      "il": "nargua",
+      "nous": "narguâmes",
+      "vous": "narguâtes",
+      "ils": "narguèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus nargué",
+      "tu": "eus nargué",
+      "il": "eut nargué",
+      "nous": "eûmes nargué",
+      "vous": "eûtes nargué",
+      "ils": "eurent nargué"
+    },
+    "futur_simple": {
+      "je": "narguerai",
+      "tu": "nargueras",
+      "il": "narguera",
+      "nous": "narguerons",
+      "vous": "narguerez",
+      "ils": "nargueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai nargué",
+      "tu": "auras nargué",
+      "il": "aura nargué",
+      "nous": "aurons nargué",
+      "vous": "aurez nargué",
+      "ils": "auront nargué"
+    },
+    "subjonctif_présent": {
+      "je": "nargue",
+      "tu": "nargues",
+      "il": "nargue",
+      "nous": "narguions",
+      "vous": "narguiez",
+      "ils": "narguent"
+    },
+    "subjonctif_passé": {
+      "je": "aie nargué",
+      "tu": "aies nargué",
+      "il": "ait nargué",
+      "nous": "ayons nargué",
+      "vous": "ayez nargué",
+      "ils": "aient nargué"
+    },
+    "subjonctif_imparfait": {
+      "je": "narguasse",
+      "tu": "narguasses",
+      "il": "narguât",
+      "nous": "narguassions",
+      "vous": "narguassiez",
+      "ils": "narguassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse nargué",
+      "tu": "eusses nargué",
+      "il": "eût nargué",
+      "nous": "eussions nargué",
+      "vous": "eussiez nargué",
+      "ils": "eussent nargué"
+    },
+    "conditionnel_présent": {
+      "je": "narguerais",
+      "tu": "narguerais",
+      "il": "narguerait",
+      "nous": "narguerions",
+      "vous": "nargueriez",
+      "ils": "nargueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais nargué",
+      "tu": "aurais nargué",
+      "il": "aurait nargué",
+      "nous": "aurions nargué",
+      "vous": "auriez nargué",
+      "ils": "auraient nargué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse nargué",
+      "tu": "eusses nargué",
+      "il": "eût nargué",
+      "nous": "eussions nargué",
+      "vous": "eussiez nargué",
+      "ils": "eussent nargué"
+    },
+    "translation": "szydzić",
+    "group": 1
+  },
+  {
+    "infinitive": "narrer",
+    "présent": {
+      "je": "narre",
+      "tu": "narres",
+      "il": "narre",
+      "nous": "narrons",
+      "vous": "narrez",
+      "ils": "narrent"
+    },
+    "passé_composé": {
+      "je": "ai narré",
+      "tu": "as narré",
+      "il": "a narré",
+      "nous": "avons narré",
+      "vous": "avez narré",
+      "ils": "ont narré"
+    },
+    "imparfait": {
+      "je": "narrais",
+      "tu": "narrais",
+      "il": "narrait",
+      "nous": "narrions",
+      "vous": "narriez",
+      "ils": "narraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais narré",
+      "tu": "avais narré",
+      "il": "avait narré",
+      "nous": "avions narré",
+      "vous": "aviez narré",
+      "ils": "avaient narré"
+    },
+    "passé_simple": {
+      "je": "narrai",
+      "tu": "narras",
+      "il": "narra",
+      "nous": "narrâmes",
+      "vous": "narrâtes",
+      "ils": "narrèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus narré",
+      "tu": "eus narré",
+      "il": "eut narré",
+      "nous": "eûmes narré",
+      "vous": "eûtes narré",
+      "ils": "eurent narré"
+    },
+    "futur_simple": {
+      "je": "narrerai",
+      "tu": "narreras",
+      "il": "narrera",
+      "nous": "narrerons",
+      "vous": "narrerez",
+      "ils": "narreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai narré",
+      "tu": "auras narré",
+      "il": "aura narré",
+      "nous": "aurons narré",
+      "vous": "aurez narré",
+      "ils": "auront narré"
+    },
+    "subjonctif_présent": {
+      "je": "narre",
+      "tu": "narres",
+      "il": "narre",
+      "nous": "narrions",
+      "vous": "narriez",
+      "ils": "narrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie narré",
+      "tu": "aies narré",
+      "il": "ait narré",
+      "nous": "ayons narré",
+      "vous": "ayez narré",
+      "ils": "aient narré"
+    },
+    "subjonctif_imparfait": {
+      "je": "narrasse",
+      "tu": "narrasses",
+      "il": "narrât",
+      "nous": "narrassions",
+      "vous": "narrassiez",
+      "ils": "narrassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse narré",
+      "tu": "eusses narré",
+      "il": "eût narré",
+      "nous": "eussions narré",
+      "vous": "eussiez narré",
+      "ils": "eussent narré"
+    },
+    "conditionnel_présent": {
+      "je": "narrerais",
+      "tu": "narrerais",
+      "il": "narrerait",
+      "nous": "narrerions",
+      "vous": "narreriez",
+      "ils": "narreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais narré",
+      "tu": "aurais narré",
+      "il": "aurait narré",
+      "nous": "aurions narré",
+      "vous": "auriez narré",
+      "ils": "auraient narré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse narré",
+      "tu": "eusses narré",
+      "il": "eût narré",
+      "nous": "eussions narré",
+      "vous": "eussiez narré",
+      "ils": "eussent narré"
+    },
+    "translation": "zamykać",
+    "group": 1
+  },
+  {
+    "infinitive": "naviguer",
+    "présent": {
+      "je": "navigue",
+      "tu": "navigues",
+      "il": "navigue",
+      "nous": "naviguons",
+      "vous": "naviguez",
+      "ils": "naviguent"
+    },
+    "passé_composé": {
+      "je": "ai navigué",
+      "tu": "as navigué",
+      "il": "a navigué",
+      "nous": "avons navigué",
+      "vous": "avez navigué",
+      "ils": "ont navigué"
+    },
+    "imparfait": {
+      "je": "naviguais",
+      "tu": "naviguais",
+      "il": "naviguait",
+      "nous": "naviguions",
+      "vous": "naviguiez",
+      "ils": "naviguaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais navigué",
+      "tu": "avais navigué",
+      "il": "avait navigué",
+      "nous": "avions navigué",
+      "vous": "aviez navigué",
+      "ils": "avaient navigué"
+    },
+    "passé_simple": {
+      "je": "naviguai",
+      "tu": "naviguas",
+      "il": "navigua",
+      "nous": "naviguâmes",
+      "vous": "naviguâtes",
+      "ils": "naviguèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus navigué",
+      "tu": "eus navigué",
+      "il": "eut navigué",
+      "nous": "eûmes navigué",
+      "vous": "eûtes navigué",
+      "ils": "eurent navigué"
+    },
+    "futur_simple": {
+      "je": "naviguerai",
+      "tu": "navigueras",
+      "il": "naviguera",
+      "nous": "naviguerons",
+      "vous": "naviguerez",
+      "ils": "navigueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai navigué",
+      "tu": "auras navigué",
+      "il": "aura navigué",
+      "nous": "aurons navigué",
+      "vous": "aurez navigué",
+      "ils": "auront navigué"
+    },
+    "subjonctif_présent": {
+      "je": "navigue",
+      "tu": "navigues",
+      "il": "navigue",
+      "nous": "naviguions",
+      "vous": "naviguiez",
+      "ils": "naviguent"
+    },
+    "subjonctif_passé": {
+      "je": "aie navigué",
+      "tu": "aies navigué",
+      "il": "ait navigué",
+      "nous": "ayons navigué",
+      "vous": "ayez navigué",
+      "ils": "aient navigué"
+    },
+    "subjonctif_imparfait": {
+      "je": "naviguasse",
+      "tu": "naviguasses",
+      "il": "naviguât",
+      "nous": "naviguassions",
+      "vous": "naviguassiez",
+      "ils": "naviguassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse navigué",
+      "tu": "eusses navigué",
+      "il": "eût navigué",
+      "nous": "eussions navigué",
+      "vous": "eussiez navigué",
+      "ils": "eussent navigué"
+    },
+    "conditionnel_présent": {
+      "je": "naviguerais",
+      "tu": "naviguerais",
+      "il": "naviguerait",
+      "nous": "naviguerions",
+      "vous": "navigueriez",
+      "ils": "navigueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais navigué",
+      "tu": "aurais navigué",
+      "il": "aurait navigué",
+      "nous": "aurions navigué",
+      "vous": "auriez navigué",
+      "ils": "auraient navigué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse navigué",
+      "tu": "eusses navigué",
+      "il": "eût navigué",
+      "nous": "eussions navigué",
+      "vous": "eussiez navigué",
+      "ils": "eussent navigué"
+    },
+    "translation": "pływać",
+    "group": 1
+  },
+  {
+    "infinitive": "nécessiter",
+    "présent": {
+      "je": "nécessite",
+      "tu": "nécessites",
+      "il": "nécessite",
+      "nous": "nécessitons",
+      "vous": "nécessitez",
+      "ils": "nécessitent"
+    },
+    "passé_composé": {
+      "je": "ai nécessité",
+      "tu": "as nécessité",
+      "il": "a nécessité",
+      "nous": "avons nécessité",
+      "vous": "avez nécessité",
+      "ils": "ont nécessité"
+    },
+    "imparfait": {
+      "je": "nécessitais",
+      "tu": "nécessitais",
+      "il": "nécessitait",
+      "nous": "nécessitions",
+      "vous": "nécessitiez",
+      "ils": "nécessitaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais nécessité",
+      "tu": "avais nécessité",
+      "il": "avait nécessité",
+      "nous": "avions nécessité",
+      "vous": "aviez nécessité",
+      "ils": "avaient nécessité"
+    },
+    "passé_simple": {
+      "je": "nécessitai",
+      "tu": "nécessitas",
+      "il": "nécessita",
+      "nous": "nécessitâmes",
+      "vous": "nécessitâtes",
+      "ils": "nécessitèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus nécessité",
+      "tu": "eus nécessité",
+      "il": "eut nécessité",
+      "nous": "eûmes nécessité",
+      "vous": "eûtes nécessité",
+      "ils": "eurent nécessité"
+    },
+    "futur_simple": {
+      "je": "nécessiterai",
+      "tu": "nécessiteras",
+      "il": "nécessitera",
+      "nous": "nécessiterons",
+      "vous": "nécessiterez",
+      "ils": "nécessiteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai nécessité",
+      "tu": "auras nécessité",
+      "il": "aura nécessité",
+      "nous": "aurons nécessité",
+      "vous": "aurez nécessité",
+      "ils": "auront nécessité"
+    },
+    "subjonctif_présent": {
+      "je": "nécessite",
+      "tu": "nécessites",
+      "il": "nécessite",
+      "nous": "nécessitions",
+      "vous": "nécessitiez",
+      "ils": "nécessitent"
+    },
+    "subjonctif_passé": {
+      "je": "aie nécessité",
+      "tu": "aies nécessité",
+      "il": "ait nécessité",
+      "nous": "ayons nécessité",
+      "vous": "ayez nécessité",
+      "ils": "aient nécessité"
+    },
+    "subjonctif_imparfait": {
+      "je": "nécessitasse",
+      "tu": "nécessitasses",
+      "il": "nécessitât",
+      "nous": "nécessitassions",
+      "vous": "nécessitassiez",
+      "ils": "nécessitassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse nécessité",
+      "tu": "eusses nécessité",
+      "il": "eût nécessité",
+      "nous": "eussions nécessité",
+      "vous": "eussiez nécessité",
+      "ils": "eussent nécessité"
+    },
+    "conditionnel_présent": {
+      "je": "nécessiterais",
+      "tu": "nécessiterais",
+      "il": "nécessiterait",
+      "nous": "nécessiterions",
+      "vous": "nécessiteriez",
+      "ils": "nécessiteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais nécessité",
+      "tu": "aurais nécessité",
+      "il": "aurait nécessité",
+      "nous": "aurions nécessité",
+      "vous": "auriez nécessité",
+      "ils": "auraient nécessité"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse nécessité",
+      "tu": "eusses nécessité",
+      "il": "eût nécessité",
+      "nous": "eussions nécessité",
+      "vous": "eussiez nécessité",
+      "ils": "eussent nécessité"
+    },
+    "translation": "wymagać",
+    "group": 1
+  }
+]

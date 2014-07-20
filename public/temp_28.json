@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "boire",
+    "présent": {
+      "je": "bois",
+      "tu": "bois",
+      "il": "boit",
+      "nous": "buvons",
+      "vous": "buvez",
+      "ils": "boivent"
+    },
+    "passé_composé": {
+      "je": "ai bu",
+      "tu": "as bu",
+      "il": "a bu",
+      "nous": "avons bu",
+      "vous": "avez bu",
+      "ils": "ont bu"
+    },
+    "imparfait": {
+      "je": "buvais",
+      "tu": "buvais",
+      "il": "buvait",
+      "nous": "buvions",
+      "vous": "buviez",
+      "ils": "buvaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais bu",
+      "tu": "avais bu",
+      "il": "avait bu",
+      "nous": "avions bu",
+      "vous": "aviez bu",
+      "ils": "avaient bu"
+    },
+    "passé_simple": {
+      "je": "bus",
+      "tu": "bus",
+      "il": "but",
+      "nous": "bûmes",
+      "vous": "bûtes",
+      "ils": "burent"
+    },
+    "passé_antérieur": {
+      "je": "eus bu",
+      "tu": "eus bu",
+      "il": "eut bu",
+      "nous": "eûmes bu",
+      "vous": "eûtes bu",
+      "ils": "eurent bu"
+    },
+    "futur_simple": {
+      "je": "boirai",
+      "tu": "boiras",
+      "il": "boira",
+      "nous": "boirons",
+      "vous": "boirez",
+      "ils": "boiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai bu",
+      "tu": "auras bu",
+      "il": "aura bu",
+      "nous": "aurons bu",
+      "vous": "aurez bu",
+      "ils": "auront bu"
+    },
+    "subjonctif_présent": {
+      "je": "boive",
+      "tu": "boives",
+      "il": "boive",
+      "nous": "buvions",
+      "vous": "buviez",
+      "ils": "boivent"
+    },
+    "subjonctif_passé": {
+      "je": "aie bu",
+      "tu": "aies bu",
+      "il": "ait bu",
+      "nous": "ayons bu",
+      "vous": "ayez bu",
+      "ils": "aient bu"
+    },
+    "subjonctif_imparfait": {
+      "je": "busse",
+      "tu": "busses",
+      "il": "bût",
+      "nous": "bussions",
+      "vous": "bussiez",
+      "ils": "bussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse bu",
+      "tu": "eusses bu",
+      "il": "eût bu",
+      "nous": "eussions bu",
+      "vous": "eussiez bu",
+      "ils": "eussent bu"
+    },
+    "conditionnel_présent": {
+      "je": "boirais",
+      "tu": "boirais",
+      "il": "boirait",
+      "nous": "boirions",
+      "vous": "boiriez",
+      "ils": "boiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais bu",
+      "tu": "aurais bu",
+      "il": "aurait bu",
+      "nous": "aurions bu",
+      "vous": "auriez bu",
+      "ils": "auraient bu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse bu",
+      "tu": "eusses bu",
+      "il": "eût bu",
+      "nous": "eussions bu",
+      "vous": "eussiez bu",
+      "ils": "eussent bu"
+    },
+    "translation": "pić",
+    "group": 3
+  },
+  {
+    "infinitive": "boiser",
+    "présent": {
+      "je": "boise",
+      "tu": "boises",
+      "il": "boise",
+      "nous": "boisons",
+      "vous": "boisez",
+      "ils": "boisent"
+    },
+    "passé_composé": {
+      "je": "ai boisé",
+      "tu": "as boisé",
+      "il": "a boisé",
+      "nous": "avons boisé",
+      "vous": "avez boisé",
+      "ils": "ont boisé"
+    },
+    "imparfait": {
+      "je": "boisais",
+      "tu": "boisais",
+      "il": "boisait",
+      "nous": "boisions",
+      "vous": "boisiez",
+      "ils": "boisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais boisé",
+      "tu": "avais boisé",
+      "il": "avait boisé",
+      "nous": "avions boisé",
+      "vous": "aviez boisé",
+      "ils": "avaient boisé"
+    },
+    "passé_simple": {
+      "je": "boisai",
+      "tu": "boisas",
+      "il": "boisa",
+      "nous": "boisâmes",
+      "vous": "boisâtes",
+      "ils": "boisèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus boisé",
+      "tu": "eus boisé",
+      "il": "eut boisé",
+      "nous": "eûmes boisé",
+      "vous": "eûtes boisé",
+      "ils": "eurent boisé"
+    },
+    "futur_simple": {
+      "je": "boiserai",
+      "tu": "boiseras",
+      "il": "boisera",
+      "nous": "boiserons",
+      "vous": "boiserez",
+      "ils": "boiseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai boisé",
+      "tu": "auras boisé",
+      "il": "aura boisé",
+      "nous": "aurons boisé",
+      "vous": "aurez boisé",
+      "ils": "auront boisé"
+    },
+    "subjonctif_présent": {
+      "je": "boise",
+      "tu": "boises",
+      "il": "boise",
+      "nous": "boisions",
+      "vous": "boisiez",
+      "ils": "boisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie boisé",
+      "tu": "aies boisé",
+      "il": "ait boisé",
+      "nous": "ayons boisé",
+      "vous": "ayez boisé",
+      "ils": "aient boisé"
+    },
+    "subjonctif_imparfait": {
+      "je": "boisasse",
+      "tu": "boisasses",
+      "il": "boisât",
+      "nous": "boisassions",
+      "vous": "boisassiez",
+      "ils": "boisassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse boisé",
+      "tu": "eusses boisé",
+      "il": "eût boisé",
+      "nous": "eussions boisé",
+      "vous": "eussiez boisé",
+      "ils": "eussent boisé"
+    },
+    "conditionnel_présent": {
+      "je": "boiserais",
+      "tu": "boiserais",
+      "il": "boiserait",
+      "nous": "boiserions",
+      "vous": "boiseriez",
+      "ils": "boiseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais boisé",
+      "tu": "aurais boisé",
+      "il": "aurait boisé",
+      "nous": "aurions boisé",
+      "vous": "auriez boisé",
+      "ils": "auraient boisé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse boisé",
+      "tu": "eusses boisé",
+      "il": "eût boisé",
+      "nous": "eussions boisé",
+      "vous": "eussiez boisé",
+      "ils": "eussent boisé"
+    },
+    "translation": "zalesiać",
+    "group": 1
+  },
+  {
+    "infinitive": "boiter",
+    "présent": {
+      "je": "boite",
+      "tu": "boites",
+      "il": "boite",
+      "nous": "boitons",
+      "vous": "boitez",
+      "ils": "boitent"
+    },
+    "passé_composé": {
+      "je": "ai boité",
+      "tu": "as boité",
+      "il": "a boité",
+      "nous": "avons boité",
+      "vous": "avez boité",
+      "ils": "ont boité"
+    },
+    "imparfait": {
+      "je": "boitais",
+      "tu": "boitais",
+      "il": "boitait",
+      "nous": "boitions",
+      "vous": "boitiez",
+      "ils": "boitaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais boité",
+      "tu": "avais boité",
+      "il": "avait boité",
+      "nous": "avions boité",
+      "vous": "aviez boité",
+      "ils": "avaient boité"
+    },
+    "passé_simple": {
+      "je": "boitai",
+      "tu": "boitas",
+      "il": "boita",
+      "nous": "boitâmes",
+      "vous": "boitâtes",
+      "ils": "boitèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus boité",
+      "tu": "eus boité",
+      "il": "eut boité",
+      "nous": "eûmes boité",
+      "vous": "eûtes boité",
+      "ils": "eurent boité"
+    },
+    "futur_simple": {
+      "je": "boiterai",
+      "tu": "boiteras",
+      "il": "boitera",
+      "nous": "boiterons",
+      "vous": "boiterez",
+      "ils": "boiteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai boité",
+      "tu": "auras boité",
+      "il": "aura boité",
+      "nous": "aurons boité",
+      "vous": "aurez boité",
+      "ils": "auront boité"
+    },
+    "subjonctif_présent": {
+      "je": "boite",
+      "tu": "boites",
+      "il": "boite",
+      "nous": "boitions",
+      "vous": "boitiez",
+      "ils": "boitent"
+    },
+    "subjonctif_passé": {
+      "je": "aie boité",
+      "tu": "aies boité",
+      "il": "ait boité",
+      "nous": "ayons boité",
+      "vous": "ayez boité",
+      "ils": "aient boité"
+    },
+    "subjonctif_imparfait": {
+      "je": "boitasse",
+      "tu": "boitasses",
+      "il": "boitât",
+      "nous": "boitassions",
+      "vous": "boitassiez",
+      "ils": "boitassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse boité",
+      "tu": "eusses boité",
+      "il": "eût boité",
+      "nous": "eussions boité",
+      "vous": "eussiez boité",
+      "ils": "eussent boité"
+    },
+    "conditionnel_présent": {
+      "je": "boiterais",
+      "tu": "boiterais",
+      "il": "boiterait",
+      "nous": "boiterions",
+      "vous": "boiteriez",
+      "ils": "boiteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais boité",
+      "tu": "aurais boité",
+      "il": "aurait boité",
+      "nous": "aurions boité",
+      "vous": "auriez boité",
+      "ils": "auraient boité"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse boité",
+      "tu": "eusses boité",
+      "il": "eût boité",
+      "nous": "eussions boité",
+      "vous": "eussiez boité",
+      "ils": "eussent boité"
+    },
+    "translation": "kuleć",
+    "group": 1
+  },
+  {
+    "infinitive": "boîter",
+    "présent": {
+      "je": "boite",
+      "tu": "boites",
+      "il": "boite",
+      "nous": "boitons",
+      "vous": "boitez",
+      "ils": "boitent"
+    },
+    "passé_composé": {
+      "je": "ai boité",
+      "tu": "as boité",
+      "il": "a boité",
+      "nous": "avons boité",
+      "vous": "avez boité",
+      "ils": "ont boité"
+    },
+    "imparfait": {
+      "je": "boitais",
+      "tu": "boitais",
+      "il": "boitait",
+      "nous": "boitions",
+      "vous": "boitiez",
+      "ils": "boitaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais boité",
+      "tu": "avais boité",
+      "il": "avait boité",
+      "nous": "avions boité",
+      "vous": "aviez boité",
+      "ils": "avaient boité"
+    },
+    "passé_simple": {
+      "je": "boitai",
+      "tu": "boitas",
+      "il": "boita",
+      "nous": "boitâmes",
+      "vous": "boitâtes",
+      "ils": "boitèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus boité",
+      "tu": "eus boité",
+      "il": "eut boité",
+      "nous": "eûmes boité",
+      "vous": "eûtes boité",
+      "ils": "eurent boité"
+    },
+    "futur_simple": {
+      "je": "boiterai",
+      "tu": "boiteras",
+      "il": "boitera",
+      "nous": "boiterons",
+      "vous": "boiterez",
+      "ils": "boiteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai boité",
+      "tu": "auras boité",
+      "il": "aura boité",
+      "nous": "aurons boité",
+      "vous": "aurez boité",
+      "ils": "auront boité"
+    },
+    "subjonctif_présent": {
+      "je": "boite",
+      "tu": "boites",
+      "il": "boite",
+      "nous": "boitions",
+      "vous": "boitiez",
+      "ils": "boitent"
+    },
+    "subjonctif_passé": {
+      "je": "aie boité",
+      "tu": "aies boité",
+      "il": "ait boité",
+      "nous": "ayons boité",
+      "vous": "ayez boité",
+      "ils": "aient boité"
+    },
+    "subjonctif_imparfait": {
+      "je": "boitasse",
+      "tu": "boitasses",
+      "il": "boitât",
+      "nous": "boitassions",
+      "vous": "boitassiez",
+      "ils": "boitassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse boité",
+      "tu": "eusses boité",
+      "il": "eût boité",
+      "nous": "eussions boité",
+      "vous": "eussiez boité",
+      "ils": "eussent boité"
+    },
+    "conditionnel_présent": {
+      "je": "boiterais",
+      "tu": "boiterais",
+      "il": "boiterait",
+      "nous": "boiterions",
+      "vous": "boiteriez",
+      "ils": "boiteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais boité",
+      "tu": "aurais boité",
+      "il": "aurait boité",
+      "nous": "aurions boité",
+      "vous": "auriez boité",
+      "ils": "auraient boité"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse boité",
+      "tu": "eusses boité",
+      "il": "eût boité",
+      "nous": "eussions boité",
+      "vous": "eussiez boité",
+      "ils": "eussent boité"
+    },
+    "translation": "kuleć",
+    "group": 1
+  },
+  {
+    "infinitive": "bonder",
+    "présent": {
+      "je": "bonde",
+      "tu": "bondes",
+      "il": "bonde",
+      "nous": "bondons",
+      "vous": "bondez",
+      "ils": "bondent"
+    },
+    "passé_composé": {
+      "je": "ai bondé",
+      "tu": "as bondé",
+      "il": "a bondé",
+      "nous": "avons bondé",
+      "vous": "avez bondé",
+      "ils": "ont bondé"
+    },
+    "imparfait": {
+      "je": "bondais",
+      "tu": "bondais",
+      "il": "bondait",
+      "nous": "bondions",
+      "vous": "bondiez",
+      "ils": "bondaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais bondé",
+      "tu": "avais bondé",
+      "il": "avait bondé",
+      "nous": "avions bondé",
+      "vous": "aviez bondé",
+      "ils": "avaient bondé"
+    },
+    "passé_simple": {
+      "je": "bondai",
+      "tu": "bondas",
+      "il": "bonda",
+      "nous": "bondâmes",
+      "vous": "bondâtes",
+      "ils": "bondèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus bondé",
+      "tu": "eus bondé",
+      "il": "eut bondé",
+      "nous": "eûmes bondé",
+      "vous": "eûtes bondé",
+      "ils": "eurent bondé"
+    },
+    "futur_simple": {
+      "je": "bonderai",
+      "tu": "bonderas",
+      "il": "bondera",
+      "nous": "bonderons",
+      "vous": "bonderez",
+      "ils": "bonderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai bondé",
+      "tu": "auras bondé",
+      "il": "aura bondé",
+      "nous": "aurons bondé",
+      "vous": "aurez bondé",
+      "ils": "auront bondé"
+    },
+    "subjonctif_présent": {
+      "je": "bonde",
+      "tu": "bondes",
+      "il": "bonde",
+      "nous": "bondions",
+      "vous": "bondiez",
+      "ils": "bondent"
+    },
+    "subjonctif_passé": {
+      "je": "aie bondé",
+      "tu": "aies bondé",
+      "il": "ait bondé",
+      "nous": "ayons bondé",
+      "vous": "ayez bondé",
+      "ils": "aient bondé"
+    },
+    "subjonctif_imparfait": {
+      "je": "bondasse",
+      "tu": "bondasses",
+      "il": "bondât",
+      "nous": "bondassions",
+      "vous": "bondassiez",
+      "ils": "bondassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse bondé",
+      "tu": "eusses bondé",
+      "il": "eût bondé",
+      "nous": "eussions bondé",
+      "vous": "eussiez bondé",
+      "ils": "eussent bondé"
+    },
+    "conditionnel_présent": {
+      "je": "bonderais",
+      "tu": "bonderais",
+      "il": "bonderait",
+      "nous": "bonderions",
+      "vous": "bonderiez",
+      "ils": "bonderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais bondé",
+      "tu": "aurais bondé",
+      "il": "aurait bondé",
+      "nous": "aurions bondé",
+      "vous": "auriez bondé",
+      "ils": "auraient bondé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse bondé",
+      "tu": "eusses bondé",
+      "il": "eût bondé",
+      "nous": "eussions bondé",
+      "vous": "eussiez bondé",
+      "ils": "eussent bondé"
+    },
+    "translation": "obfitować",
+    "group": 1
+  },
+  {
+    "infinitive": "bondir",
+    "présent": {
+      "je": "bondis",
+      "tu": "bondis",
+      "il": "bondit",
+      "nous": "bondissons",
+      "vous": "bondissez",
+      "ils": "bondissent"
+    },
+    "passé_composé": {
+      "je": "ai bondi",
+      "tu": "as bondi",
+      "il": "a bondi",
+      "nous": "avons bondi",
+      "vous": "avez bondi",
+      "ils": "ont bondi"
+    },
+    "imparfait": {
+      "je": "bondissais",
+      "tu": "bondissais",
+      "il": "bondissait",
+      "nous": "bondissions",
+      "vous": "bondissiez",
+      "ils": "bondissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais bondi",
+      "tu": "avais bondi",
+      "il": "avait bondi",
+      "nous": "avions bondi",
+      "vous": "aviez bondi",
+      "ils": "avaient bondi"
+    },
+    "passé_simple": {
+      "je": "bondis",
+      "tu": "bondis",
+      "il": "bondit",
+      "nous": "bondîmes",
+      "vous": "bondîtes",
+      "ils": "bondirent"
+    },
+    "passé_antérieur": {
+      "je": "eus bondi",
+      "tu": "eus bondi",
+      "il": "eut bondi",
+      "nous": "eûmes bondi",
+      "vous": "eûtes bondi",
+      "ils": "eurent bondi"
+    },
+    "futur_simple": {
+      "je": "bondirai",
+      "tu": "bondiras",
+      "il": "bondira",
+      "nous": "bondirons",
+      "vous": "bondirez",
+      "ils": "bondiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai bondi",
+      "tu": "auras bondi",
+      "il": "aura bondi",
+      "nous": "aurons bondi",
+      "vous": "aurez bondi",
+      "ils": "auront bondi"
+    },
+    "subjonctif_présent": {
+      "je": "bondisse",
+      "tu": "bondisses",
+      "il": "bondisse",
+      "nous": "bondissions",
+      "vous": "bondissiez",
+      "ils": "bondissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie bondi",
+      "tu": "aies bondi",
+      "il": "ait bondi",
+      "nous": "ayons bondi",
+      "vous": "ayez bondi",
+      "ils": "aient bondi"
+    },
+    "subjonctif_imparfait": {
+      "je": "bondisse",
+      "tu": "bondisses",
+      "il": "bondît",
+      "nous": "bondissions",
+      "vous": "bondissiez",
+      "ils": "bondissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse bondi",
+      "tu": "eusses bondi",
+      "il": "eût bondi",
+      "nous": "eussions bondi",
+      "vous": "eussiez bondi",
+      "ils": "eussent bondi"
+    },
+    "conditionnel_présent": {
+      "je": "bondirais",
+      "tu": "bondirais",
+      "il": "bondirait",
+      "nous": "bondirions",
+      "vous": "bondiriez",
+      "ils": "bondiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais bondi",
+      "tu": "aurais bondi",
+      "il": "aurait bondi",
+      "nous": "aurions bondi",
+      "vous": "auriez bondi",
+      "ils": "auraient bondi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse bondi",
+      "tu": "eusses bondi",
+      "il": "eût bondi",
+      "nous": "eussions bondi",
+      "vous": "eussiez bondi",
+      "ils": "eussent bondi"
+    },
+    "translation": "skakać",
+    "group": 2
+  },
+  {
+    "infinitive": "bonifier",
+    "présent": {
+      "je": "bonifie",
+      "tu": "bonifies",
+      "il": "bonifie",
+      "nous": "bonifions",
+      "vous": "bonifiez",
+      "ils": "bonifient"
+    },
+    "passé_composé": {
+      "je": "ai bonifié",
+      "tu": "as bonifié",
+      "il": "a bonifié",
+      "nous": "avons bonifié",
+      "vous": "avez bonifié",
+      "ils": "ont bonifié"
+    },
+    "imparfait": {
+      "je": "bonifiais",
+      "tu": "bonifiais",
+      "il": "bonifiait",
+      "nous": "bonifiions",
+      "vous": "bonifiiez",
+      "ils": "bonifiaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais bonifié",
+      "tu": "avais bonifié",
+      "il": "avait bonifié",
+      "nous": "avions bonifié",
+      "vous": "aviez bonifié",
+      "ils": "avaient bonifié"
+    },
+    "passé_simple": {
+      "je": "bonifiai",
+      "tu": "bonifias",
+      "il": "bonifia",
+      "nous": "bonifiâmes",
+      "vous": "bonifiâtes",
+      "ils": "bonifièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus bonifié",
+      "tu": "eus bonifié",
+      "il": "eut bonifié",
+      "nous": "eûmes bonifié",
+      "vous": "eûtes bonifié",
+      "ils": "eurent bonifié"
+    },
+    "futur_simple": {
+      "je": "bonifierai",
+      "tu": "bonifieras",
+      "il": "bonifiera",
+      "nous": "bonifierons",
+      "vous": "bonifierez",
+      "ils": "bonifieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai bonifié",
+      "tu": "auras bonifié",
+      "il": "aura bonifié",
+      "nous": "aurons bonifié",
+      "vous": "aurez bonifié",
+      "ils": "auront bonifié"
+    },
+    "subjonctif_présent": {
+      "je": "bonifie",
+      "tu": "bonifies",
+      "il": "bonifie",
+      "nous": "bonifiions",
+      "vous": "bonifiiez",
+      "ils": "bonifient"
+    },
+    "subjonctif_passé": {
+      "je": "aie bonifié",
+      "tu": "aies bonifié",
+      "il": "ait bonifié",
+      "nous": "ayons bonifié",
+      "vous": "ayez bonifié",
+      "ils": "aient bonifié"
+    },
+    "subjonctif_imparfait": {
+      "je": "bonifiasse",
+      "tu": "bonifiasses",
+      "il": "bonifiât",
+      "nous": "bonifiassions",
+      "vous": "bonifiassiez",
+      "ils": "bonifiassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse bonifié",
+      "tu": "eusses bonifié",
+      "il": "eût bonifié",
+      "nous": "eussions bonifié",
+      "vous": "eussiez bonifié",
+      "ils": "eussent bonifié"
+    },
+    "conditionnel_présent": {
+      "je": "bonifierais",
+      "tu": "bonifierais",
+      "il": "bonifierait",
+      "nous": "bonifierions",
+      "vous": "bonifieriez",
+      "ils": "bonifieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais bonifié",
+      "tu": "aurais bonifié",
+      "il": "aurait bonifié",
+      "nous": "aurions bonifié",
+      "vous": "auriez bonifié",
+      "ils": "auraient bonifié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse bonifié",
+      "tu": "eusses bonifié",
+      "il": "eût bonifié",
+      "nous": "eussions bonifié",
+      "vous": "eussiez bonifié",
+      "ils": "eussent bonifié"
+    },
+    "translation": "polepszać",
+    "group": 1
+  },
+  {
+    "infinitive": "bosser",
+    "présent": {
+      "je": "bosse",
+      "tu": "bosses",
+      "il": "bosse",
+      "nous": "bossons",
+      "vous": "bossez",
+      "ils": "bossent"
+    },
+    "passé_composé": {
+      "je": "ai bossé",
+      "tu": "as bossé",
+      "il": "a bossé",
+      "nous": "avons bossé",
+      "vous": "avez bossé",
+      "ils": "ont bossé"
+    },
+    "imparfait": {
+      "je": "bossais",
+      "tu": "bossais",
+      "il": "bossait",
+      "nous": "bossions",
+      "vous": "bossiez",
+      "ils": "bossaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais bossé",
+      "tu": "avais bossé",
+      "il": "avait bossé",
+      "nous": "avions bossé",
+      "vous": "aviez bossé",
+      "ils": "avaient bossé"
+    },
+    "passé_simple": {
+      "je": "bossai",
+      "tu": "bossas",
+      "il": "bossa",
+      "nous": "bossâmes",
+      "vous": "bossâtes",
+      "ils": "bossèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus bossé",
+      "tu": "eus bossé",
+      "il": "eut bossé",
+      "nous": "eûmes bossé",
+      "vous": "eûtes bossé",
+      "ils": "eurent bossé"
+    },
+    "futur_simple": {
+      "je": "bosserai",
+      "tu": "bosseras",
+      "il": "bossera",
+      "nous": "bosserons",
+      "vous": "bosserez",
+      "ils": "bosseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai bossé",
+      "tu": "auras bossé",
+      "il": "aura bossé",
+      "nous": "aurons bossé",
+      "vous": "aurez bossé",
+      "ils": "auront bossé"
+    },
+    "subjonctif_présent": {
+      "je": "bosse",
+      "tu": "bosses",
+      "il": "bosse",
+      "nous": "bossions",
+      "vous": "bossiez",
+      "ils": "bossent"
+    },
+    "subjonctif_passé": {
+      "je": "aie bossé",
+      "tu": "aies bossé",
+      "il": "ait bossé",
+      "nous": "ayons bossé",
+      "vous": "ayez bossé",
+      "ils": "aient bossé"
+    },
+    "subjonctif_imparfait": {
+      "je": "bossasse",
+      "tu": "bossasses",
+      "il": "bossât",
+      "nous": "bossassions",
+      "vous": "bossassiez",
+      "ils": "bossassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse bossé",
+      "tu": "eusses bossé",
+      "il": "eût bossé",
+      "nous": "eussions bossé",
+      "vous": "eussiez bossé",
+      "ils": "eussent bossé"
+    },
+    "conditionnel_présent": {
+      "je": "bosserais",
+      "tu": "bosserais",
+      "il": "bosserait",
+      "nous": "bosserions",
+      "vous": "bosseriez",
+      "ils": "bosseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais bossé",
+      "tu": "aurais bossé",
+      "il": "aurait bossé",
+      "nous": "aurions bossé",
+      "vous": "auriez bossé",
+      "ils": "auraient bossé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse bossé",
+      "tu": "eusses bossé",
+      "il": "eût bossé",
+      "nous": "eussions bossé",
+      "vous": "eussiez bossé",
+      "ils": "eussent bossé"
+    },
+    "translation": "tyrać",
+    "group": 1
+  },
+  {
+    "infinitive": "botter",
+    "présent": {
+      "je": "botte",
+      "tu": "bottes",
+      "il": "botte",
+      "nous": "bottons",
+      "vous": "bottez",
+      "ils": "bottent"
+    },
+    "passé_composé": {
+      "je": "ai botté",
+      "tu": "as botté",
+      "il": "a botté",
+      "nous": "avons botté",
+      "vous": "avez botté",
+      "ils": "ont botté"
+    },
+    "imparfait": {
+      "je": "bottais",
+      "tu": "bottais",
+      "il": "bottait",
+      "nous": "bottions",
+      "vous": "bottiez",
+      "ils": "bottaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais botté",
+      "tu": "avais botté",
+      "il": "avait botté",
+      "nous": "avions botté",
+      "vous": "aviez botté",
+      "ils": "avaient botté"
+    },
+    "passé_simple": {
+      "je": "bottai",
+      "tu": "bottas",
+      "il": "botta",
+      "nous": "bottâmes",
+      "vous": "bottâtes",
+      "ils": "bottèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus botté",
+      "tu": "eus botté",
+      "il": "eut botté",
+      "nous": "eûmes botté",
+      "vous": "eûtes botté",
+      "ils": "eurent botté"
+    },
+    "futur_simple": {
+      "je": "botterai",
+      "tu": "botteras",
+      "il": "bottera",
+      "nous": "botterons",
+      "vous": "botterez",
+      "ils": "botteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai botté",
+      "tu": "auras botté",
+      "il": "aura botté",
+      "nous": "aurons botté",
+      "vous": "aurez botté",
+      "ils": "auront botté"
+    },
+    "subjonctif_présent": {
+      "je": "botte",
+      "tu": "bottes",
+      "il": "botte",
+      "nous": "bottions",
+      "vous": "bottiez",
+      "ils": "bottent"
+    },
+    "subjonctif_passé": {
+      "je": "aie botté",
+      "tu": "aies botté",
+      "il": "ait botté",
+      "nous": "ayons botté",
+      "vous": "ayez botté",
+      "ils": "aient botté"
+    },
+    "subjonctif_imparfait": {
+      "je": "bottasse",
+      "tu": "bottasses",
+      "il": "bottât",
+      "nous": "bottassions",
+      "vous": "bottassiez",
+      "ils": "bottassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse botté",
+      "tu": "eusses botté",
+      "il": "eût botté",
+      "nous": "eussions botté",
+      "vous": "eussiez botté",
+      "ils": "eussent botté"
+    },
+    "conditionnel_présent": {
+      "je": "botterais",
+      "tu": "botterais",
+      "il": "botterait",
+      "nous": "botterions",
+      "vous": "botteriez",
+      "ils": "botteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais botté",
+      "tu": "aurais botté",
+      "il": "aurait botté",
+      "nous": "aurions botté",
+      "vous": "auriez botté",
+      "ils": "auraient botté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse botté",
+      "tu": "eusses botté",
+      "il": "eût botté",
+      "nous": "eussions botté",
+      "vous": "eussiez botté",
+      "ils": "eussent botté"
+    },
+    "translation": "dać",
+    "group": 1
+  },
+  {
+    "infinitive": "boucher",
+    "présent": {
+      "je": "bouche",
+      "tu": "bouches",
+      "il": "bouche",
+      "nous": "bouchons",
+      "vous": "bouchez",
+      "ils": "bouchent"
+    },
+    "passé_composé": {
+      "je": "ai bouché",
+      "tu": "as bouché",
+      "il": "a bouché",
+      "nous": "avons bouché",
+      "vous": "avez bouché",
+      "ils": "ont bouché"
+    },
+    "imparfait": {
+      "je": "bouchais",
+      "tu": "bouchais",
+      "il": "bouchait",
+      "nous": "bouchions",
+      "vous": "bouchiez",
+      "ils": "bouchaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais bouché",
+      "tu": "avais bouché",
+      "il": "avait bouché",
+      "nous": "avions bouché",
+      "vous": "aviez bouché",
+      "ils": "avaient bouché"
+    },
+    "passé_simple": {
+      "je": "bouchai",
+      "tu": "bouchas",
+      "il": "boucha",
+      "nous": "bouchâmes",
+      "vous": "bouchâtes",
+      "ils": "bouchèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus bouché",
+      "tu": "eus bouché",
+      "il": "eut bouché",
+      "nous": "eûmes bouché",
+      "vous": "eûtes bouché",
+      "ils": "eurent bouché"
+    },
+    "futur_simple": {
+      "je": "boucherai",
+      "tu": "boucheras",
+      "il": "bouchera",
+      "nous": "boucherons",
+      "vous": "boucherez",
+      "ils": "boucheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai bouché",
+      "tu": "auras bouché",
+      "il": "aura bouché",
+      "nous": "aurons bouché",
+      "vous": "aurez bouché",
+      "ils": "auront bouché"
+    },
+    "subjonctif_présent": {
+      "je": "bouche",
+      "tu": "bouches",
+      "il": "bouche",
+      "nous": "bouchions",
+      "vous": "bouchiez",
+      "ils": "bouchent"
+    },
+    "subjonctif_passé": {
+      "je": "aie bouché",
+      "tu": "aies bouché",
+      "il": "ait bouché",
+      "nous": "ayons bouché",
+      "vous": "ayez bouché",
+      "ils": "aient bouché"
+    },
+    "subjonctif_imparfait": {
+      "je": "bouchasse",
+      "tu": "bouchasses",
+      "il": "bouchât",
+      "nous": "bouchassions",
+      "vous": "bouchassiez",
+      "ils": "bouchassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse bouché",
+      "tu": "eusses bouché",
+      "il": "eût bouché",
+      "nous": "eussions bouché",
+      "vous": "eussiez bouché",
+      "ils": "eussent bouché"
+    },
+    "conditionnel_présent": {
+      "je": "boucherais",
+      "tu": "boucherais",
+      "il": "boucherait",
+      "nous": "boucherions",
+      "vous": "boucheriez",
+      "ils": "boucheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais bouché",
+      "tu": "aurais bouché",
+      "il": "aurait bouché",
+      "nous": "aurions bouché",
+      "vous": "auriez bouché",
+      "ils": "auraient bouché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse bouché",
+      "tu": "eusses bouché",
+      "il": "eût bouché",
+      "nous": "eussions bouché",
+      "vous": "eussiez bouché",
+      "ils": "eussent bouché"
+    },
+    "translation": "zakorkowywać",
+    "group": 1
+  }
+]

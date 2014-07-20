@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "astreindre",
+    "présent": {
+      "je": "astreins",
+      "tu": "astreins",
+      "il": "astreint",
+      "nous": "astreignons",
+      "vous": "astreignez",
+      "ils": "astreignent"
+    },
+    "passé_composé": {
+      "je": "ai astreint",
+      "tu": "as astreint",
+      "il": "a astreint",
+      "nous": "avons astreint",
+      "vous": "avez astreint",
+      "ils": "ont astreint"
+    },
+    "imparfait": {
+      "je": "astreignais",
+      "tu": "astreignais",
+      "il": "astreignait",
+      "nous": "astreignions",
+      "vous": "astreigniez",
+      "ils": "astreignaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais astreint",
+      "tu": "avais astreint",
+      "il": "avait astreint",
+      "nous": "avions astreint",
+      "vous": "aviez astreint",
+      "ils": "avaient astreint"
+    },
+    "passé_simple": {
+      "je": "astreignis",
+      "tu": "astreignis",
+      "il": "astreignit",
+      "nous": "astreignîmes",
+      "vous": "astreignîtes",
+      "ils": "astreignirent"
+    },
+    "passé_antérieur": {
+      "je": "eus astreint",
+      "tu": "eus astreint",
+      "il": "eut astreint",
+      "nous": "eûmes astreint",
+      "vous": "eûtes astreint",
+      "ils": "eurent astreint"
+    },
+    "futur_simple": {
+      "je": "astreindrai",
+      "tu": "astreindras",
+      "il": "astreindra",
+      "nous": "astreindrons",
+      "vous": "astreindrez",
+      "ils": "astreindront"
+    },
+    "futur_antérieur": {
+      "je": "aurai astreint",
+      "tu": "auras astreint",
+      "il": "aura astreint",
+      "nous": "aurons astreint",
+      "vous": "aurez astreint",
+      "ils": "auront astreint"
+    },
+    "subjonctif_présent": {
+      "je": "astreigne",
+      "tu": "astreignes",
+      "il": "astreigne",
+      "nous": "astreignions",
+      "vous": "astreigniez",
+      "ils": "astreignent"
+    },
+    "subjonctif_passé": {
+      "je": "aie astreint",
+      "tu": "aies astreint",
+      "il": "ait astreint",
+      "nous": "ayons astreint",
+      "vous": "ayez astreint",
+      "ils": "aient astreint"
+    },
+    "subjonctif_imparfait": {
+      "je": "astreignisse",
+      "tu": "astreignisses",
+      "il": "astreignît",
+      "nous": "astreignissions",
+      "vous": "astreignissiez",
+      "ils": "astreignissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse astreint",
+      "tu": "eusses astreint",
+      "il": "eût astreint",
+      "nous": "eussions astreint",
+      "vous": "eussiez astreint",
+      "ils": "eussent astreint"
+    },
+    "conditionnel_présent": {
+      "je": "astreindrais",
+      "tu": "astreindrais",
+      "il": "astreindrait",
+      "nous": "astreindrions",
+      "vous": "astreindriez",
+      "ils": "astreindraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais astreint",
+      "tu": "aurais astreint",
+      "il": "aurait astreint",
+      "nous": "aurions astreint",
+      "vous": "auriez astreint",
+      "ils": "auraient astreint"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse astreint",
+      "tu": "eusses astreint",
+      "il": "eût astreint",
+      "nous": "eussions astreint",
+      "vous": "eussiez astreint",
+      "ils": "eussent astreint"
+    },
+    "translation": "przymus",
+    "group": 3
+  },
+  {
+    "infinitive": "attacher",
+    "présent": {
+      "je": "attache",
+      "tu": "attaches",
+      "il": "attache",
+      "nous": "attachons",
+      "vous": "attachez",
+      "ils": "attachent"
+    },
+    "passé_composé": {
+      "je": "ai attaché",
+      "tu": "as attaché",
+      "il": "a attaché",
+      "nous": "avons attaché",
+      "vous": "avez attaché",
+      "ils": "ont attaché"
+    },
+    "imparfait": {
+      "je": "attachais",
+      "tu": "attachais",
+      "il": "attachait",
+      "nous": "attachions",
+      "vous": "attachiez",
+      "ils": "attachaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais attaché",
+      "tu": "avais attaché",
+      "il": "avait attaché",
+      "nous": "avions attaché",
+      "vous": "aviez attaché",
+      "ils": "avaient attaché"
+    },
+    "passé_simple": {
+      "je": "attachai",
+      "tu": "attachas",
+      "il": "attacha",
+      "nous": "attachâmes",
+      "vous": "attachâtes",
+      "ils": "attachèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus attaché",
+      "tu": "eus attaché",
+      "il": "eut attaché",
+      "nous": "eûmes attaché",
+      "vous": "eûtes attaché",
+      "ils": "eurent attaché"
+    },
+    "futur_simple": {
+      "je": "attacherai",
+      "tu": "attacheras",
+      "il": "attachera",
+      "nous": "attacherons",
+      "vous": "attacherez",
+      "ils": "attacheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai attaché",
+      "tu": "auras attaché",
+      "il": "aura attaché",
+      "nous": "aurons attaché",
+      "vous": "aurez attaché",
+      "ils": "auront attaché"
+    },
+    "subjonctif_présent": {
+      "je": "attache",
+      "tu": "attaches",
+      "il": "attache",
+      "nous": "attachions",
+      "vous": "attachiez",
+      "ils": "attachent"
+    },
+    "subjonctif_passé": {
+      "je": "aie attaché",
+      "tu": "aies attaché",
+      "il": "ait attaché",
+      "nous": "ayons attaché",
+      "vous": "ayez attaché",
+      "ils": "aient attaché"
+    },
+    "subjonctif_imparfait": {
+      "je": "attachasse",
+      "tu": "attachasses",
+      "il": "attachât",
+      "nous": "attachassions",
+      "vous": "attachassiez",
+      "ils": "attachassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse attaché",
+      "tu": "eusses attaché",
+      "il": "eût attaché",
+      "nous": "eussions attaché",
+      "vous": "eussiez attaché",
+      "ils": "eussent attaché"
+    },
+    "conditionnel_présent": {
+      "je": "attacherais",
+      "tu": "attacherais",
+      "il": "attacherait",
+      "nous": "attacherions",
+      "vous": "attacheriez",
+      "ils": "attacheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais attaché",
+      "tu": "aurais attaché",
+      "il": "aurait attaché",
+      "nous": "aurions attaché",
+      "vous": "auriez attaché",
+      "ils": "auraient attaché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse attaché",
+      "tu": "eusses attaché",
+      "il": "eût attaché",
+      "nous": "eussions attaché",
+      "vous": "eussiez attaché",
+      "ils": "eussent attaché"
+    },
+    "translation": "wiązać",
+    "group": 1
+  },
+  {
+    "infinitive": "attaquer",
+    "présent": {
+      "je": "attaque",
+      "tu": "attaques",
+      "il": "attaque",
+      "nous": "attaquons",
+      "vous": "attaquez",
+      "ils": "attaquent"
+    },
+    "passé_composé": {
+      "je": "ai attaqué",
+      "tu": "as attaqué",
+      "il": "a attaqué",
+      "nous": "avons attaqué",
+      "vous": "avez attaqué",
+      "ils": "ont attaqué"
+    },
+    "imparfait": {
+      "je": "attaquais",
+      "tu": "attaquais",
+      "il": "attaquait",
+      "nous": "attaquions",
+      "vous": "attaquiez",
+      "ils": "attaquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais attaqué",
+      "tu": "avais attaqué",
+      "il": "avait attaqué",
+      "nous": "avions attaqué",
+      "vous": "aviez attaqué",
+      "ils": "avaient attaqué"
+    },
+    "passé_simple": {
+      "je": "attaquai",
+      "tu": "attaquas",
+      "il": "attaqua",
+      "nous": "attaquâmes",
+      "vous": "attaquâtes",
+      "ils": "attaquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus attaqué",
+      "tu": "eus attaqué",
+      "il": "eut attaqué",
+      "nous": "eûmes attaqué",
+      "vous": "eûtes attaqué",
+      "ils": "eurent attaqué"
+    },
+    "futur_simple": {
+      "je": "attaquerai",
+      "tu": "attaqueras",
+      "il": "attaquera",
+      "nous": "attaquerons",
+      "vous": "attaquerez",
+      "ils": "attaqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai attaqué",
+      "tu": "auras attaqué",
+      "il": "aura attaqué",
+      "nous": "aurons attaqué",
+      "vous": "aurez attaqué",
+      "ils": "auront attaqué"
+    },
+    "subjonctif_présent": {
+      "je": "attaque",
+      "tu": "attaques",
+      "il": "attaque",
+      "nous": "attaquions",
+      "vous": "attaquiez",
+      "ils": "attaquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie attaqué",
+      "tu": "aies attaqué",
+      "il": "ait attaqué",
+      "nous": "ayons attaqué",
+      "vous": "ayez attaqué",
+      "ils": "aient attaqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "attaquasse",
+      "tu": "attaquasses",
+      "il": "attaquât",
+      "nous": "attaquassions",
+      "vous": "attaquassiez",
+      "ils": "attaquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse attaqué",
+      "tu": "eusses attaqué",
+      "il": "eût attaqué",
+      "nous": "eussions attaqué",
+      "vous": "eussiez attaqué",
+      "ils": "eussent attaqué"
+    },
+    "conditionnel_présent": {
+      "je": "attaquerais",
+      "tu": "attaquerais",
+      "il": "attaquerait",
+      "nous": "attaquerions",
+      "vous": "attaqueriez",
+      "ils": "attaqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais attaqué",
+      "tu": "aurais attaqué",
+      "il": "aurait attaqué",
+      "nous": "aurions attaqué",
+      "vous": "auriez attaqué",
+      "ils": "auraient attaqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse attaqué",
+      "tu": "eusses attaqué",
+      "il": "eût attaqué",
+      "nous": "eussions attaqué",
+      "vous": "eussiez attaqué",
+      "ils": "eussent attaqué"
+    },
+    "translation": "atakować",
+    "group": 1
+  },
+  {
+    "infinitive": "attarder",
+    "présent": {
+      "je": "attarde",
+      "tu": "attardes",
+      "il": "attarde",
+      "nous": "attardons",
+      "vous": "attardez",
+      "ils": "attardent"
+    },
+    "passé_composé": {
+      "je": "ai attardé",
+      "tu": "as attardé",
+      "il": "a attardé",
+      "nous": "avons attardé",
+      "vous": "avez attardé",
+      "ils": "ont attardé"
+    },
+    "imparfait": {
+      "je": "attardais",
+      "tu": "attardais",
+      "il": "attardait",
+      "nous": "attardions",
+      "vous": "attardiez",
+      "ils": "attardaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais attardé",
+      "tu": "avais attardé",
+      "il": "avait attardé",
+      "nous": "avions attardé",
+      "vous": "aviez attardé",
+      "ils": "avaient attardé"
+    },
+    "passé_simple": {
+      "je": "attardai",
+      "tu": "attardas",
+      "il": "attarda",
+      "nous": "attardâmes",
+      "vous": "attardâtes",
+      "ils": "attardèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus attardé",
+      "tu": "eus attardé",
+      "il": "eut attardé",
+      "nous": "eûmes attardé",
+      "vous": "eûtes attardé",
+      "ils": "eurent attardé"
+    },
+    "futur_simple": {
+      "je": "attarderai",
+      "tu": "attarderas",
+      "il": "attardera",
+      "nous": "attarderons",
+      "vous": "attarderez",
+      "ils": "attarderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai attardé",
+      "tu": "auras attardé",
+      "il": "aura attardé",
+      "nous": "aurons attardé",
+      "vous": "aurez attardé",
+      "ils": "auront attardé"
+    },
+    "subjonctif_présent": {
+      "je": "attarde",
+      "tu": "attardes",
+      "il": "attarde",
+      "nous": "attardions",
+      "vous": "attardiez",
+      "ils": "attardent"
+    },
+    "subjonctif_passé": {
+      "je": "aie attardé",
+      "tu": "aies attardé",
+      "il": "ait attardé",
+      "nous": "ayons attardé",
+      "vous": "ayez attardé",
+      "ils": "aient attardé"
+    },
+    "subjonctif_imparfait": {
+      "je": "attardasse",
+      "tu": "attardasses",
+      "il": "attardât",
+      "nous": "attardassions",
+      "vous": "attardassiez",
+      "ils": "attardassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse attardé",
+      "tu": "eusses attardé",
+      "il": "eût attardé",
+      "nous": "eussions attardé",
+      "vous": "eussiez attardé",
+      "ils": "eussent attardé"
+    },
+    "conditionnel_présent": {
+      "je": "attarderais",
+      "tu": "attarderais",
+      "il": "attarderait",
+      "nous": "attarderions",
+      "vous": "attarderiez",
+      "ils": "attarderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais attardé",
+      "tu": "aurais attardé",
+      "il": "aurait attardé",
+      "nous": "aurions attardé",
+      "vous": "auriez attardé",
+      "ils": "auraient attardé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse attardé",
+      "tu": "eusses attardé",
+      "il": "eût attardé",
+      "nous": "eussions attardé",
+      "vous": "eussiez attardé",
+      "ils": "eussent attardé"
+    },
+    "translation": "spóźniać",
+    "group": 1
+  },
+  {
+    "infinitive": "atteindre",
+    "présent": {
+      "je": "atteins",
+      "tu": "atteins",
+      "il": "atteint",
+      "nous": "atteignons",
+      "vous": "atteignez",
+      "ils": "atteignent"
+    },
+    "passé_composé": {
+      "je": "ai atteint",
+      "tu": "as atteint",
+      "il": "a atteint",
+      "nous": "avons atteint",
+      "vous": "avez atteint",
+      "ils": "ont atteint"
+    },
+    "imparfait": {
+      "je": "atteignais",
+      "tu": "atteignais",
+      "il": "atteignait",
+      "nous": "atteignions",
+      "vous": "atteigniez",
+      "ils": "atteignaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais atteint",
+      "tu": "avais atteint",
+      "il": "avait atteint",
+      "nous": "avions atteint",
+      "vous": "aviez atteint",
+      "ils": "avaient atteint"
+    },
+    "passé_simple": {
+      "je": "atteignis",
+      "tu": "atteignis",
+      "il": "atteignit",
+      "nous": "atteignîmes",
+      "vous": "atteignîtes",
+      "ils": "atteignirent"
+    },
+    "passé_antérieur": {
+      "je": "eus atteint",
+      "tu": "eus atteint",
+      "il": "eut atteint",
+      "nous": "eûmes atteint",
+      "vous": "eûtes atteint",
+      "ils": "eurent atteint"
+    },
+    "futur_simple": {
+      "je": "atteindrai",
+      "tu": "atteindras",
+      "il": "atteindra",
+      "nous": "atteindrons",
+      "vous": "atteindrez",
+      "ils": "atteindront"
+    },
+    "futur_antérieur": {
+      "je": "aurai atteint",
+      "tu": "auras atteint",
+      "il": "aura atteint",
+      "nous": "aurons atteint",
+      "vous": "aurez atteint",
+      "ils": "auront atteint"
+    },
+    "subjonctif_présent": {
+      "je": "atteigne",
+      "tu": "atteignes",
+      "il": "atteigne",
+      "nous": "atteignions",
+      "vous": "atteigniez",
+      "ils": "atteignent"
+    },
+    "subjonctif_passé": {
+      "je": "aie atteint",
+      "tu": "aies atteint",
+      "il": "ait atteint",
+      "nous": "ayons atteint",
+      "vous": "ayez atteint",
+      "ils": "aient atteint"
+    },
+    "subjonctif_imparfait": {
+      "je": "atteignisse",
+      "tu": "atteignisses",
+      "il": "atteignît",
+      "nous": "atteignissions",
+      "vous": "atteignissiez",
+      "ils": "atteignissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse atteint",
+      "tu": "eusses atteint",
+      "il": "eût atteint",
+      "nous": "eussions atteint",
+      "vous": "eussiez atteint",
+      "ils": "eussent atteint"
+    },
+    "conditionnel_présent": {
+      "je": "atteindrais",
+      "tu": "atteindrais",
+      "il": "atteindrait",
+      "nous": "atteindrions",
+      "vous": "atteindriez",
+      "ils": "atteindraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais atteint",
+      "tu": "aurais atteint",
+      "il": "aurait atteint",
+      "nous": "aurions atteint",
+      "vous": "auriez atteint",
+      "ils": "auraient atteint"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse atteint",
+      "tu": "eusses atteint",
+      "il": "eût atteint",
+      "nous": "eussions atteint",
+      "vous": "eussiez atteint",
+      "ils": "eussent atteint"
+    },
+    "translation": "docierać",
+    "group": 3
+  },
+  {
+    "infinitive": "atteler",
+    "présent": {
+      "je": "attelle",
+      "tu": "attelles",
+      "il": "attelle",
+      "nous": "attelons",
+      "vous": "attelez",
+      "ils": "attellent"
+    },
+    "passé_composé": {
+      "je": "ai attelé",
+      "tu": "as attelé",
+      "il": "a attelé",
+      "nous": "avons attelé",
+      "vous": "avez attelé",
+      "ils": "ont attelé"
+    },
+    "imparfait": {
+      "je": "attelais",
+      "tu": "attelais",
+      "il": "attelait",
+      "nous": "attelions",
+      "vous": "atteliez",
+      "ils": "attelaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais attelé",
+      "tu": "avais attelé",
+      "il": "avait attelé",
+      "nous": "avions attelé",
+      "vous": "aviez attelé",
+      "ils": "avaient attelé"
+    },
+    "passé_simple": {
+      "je": "attelai",
+      "tu": "attelas",
+      "il": "attela",
+      "nous": "attelâmes",
+      "vous": "attelâtes",
+      "ils": "attelèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus attelé",
+      "tu": "eus attelé",
+      "il": "eut attelé",
+      "nous": "eûmes attelé",
+      "vous": "eûtes attelé",
+      "ils": "eurent attelé"
+    },
+    "futur_simple": {
+      "je": "attellerai",
+      "tu": "attelleras",
+      "il": "attellera",
+      "nous": "attellerons",
+      "vous": "attellerez",
+      "ils": "attelleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai attelé",
+      "tu": "auras attelé",
+      "il": "aura attelé",
+      "nous": "aurons attelé",
+      "vous": "aurez attelé",
+      "ils": "auront attelé"
+    },
+    "subjonctif_présent": {
+      "je": "attelle",
+      "tu": "attelles",
+      "il": "attelle",
+      "nous": "attelions",
+      "vous": "atteliez",
+      "ils": "attellent"
+    },
+    "subjonctif_passé": {
+      "je": "aie attelé",
+      "tu": "aies attelé",
+      "il": "ait attelé",
+      "nous": "ayons attelé",
+      "vous": "ayez attelé",
+      "ils": "aient attelé"
+    },
+    "subjonctif_imparfait": {
+      "je": "attelasse",
+      "tu": "attelasses",
+      "il": "attelât",
+      "nous": "attelassions",
+      "vous": "attelassiez",
+      "ils": "attelassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse attelé",
+      "tu": "eusses attelé",
+      "il": "eût attelé",
+      "nous": "eussions attelé",
+      "vous": "eussiez attelé",
+      "ils": "eussent attelé"
+    },
+    "conditionnel_présent": {
+      "je": "attellerais",
+      "tu": "attellerais",
+      "il": "attellerait",
+      "nous": "attellerions",
+      "vous": "attelleriez",
+      "ils": "attelleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais attelé",
+      "tu": "aurais attelé",
+      "il": "aurait attelé",
+      "nous": "aurions attelé",
+      "vous": "auriez attelé",
+      "ils": "auraient attelé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse attelé",
+      "tu": "eusses attelé",
+      "il": "eût attelé",
+      "nous": "eussions attelé",
+      "vous": "eussiez attelé",
+      "ils": "eussent attelé"
+    },
+    "translation": "zaprzęgać",
+    "group": 1
+  },
+  {
+    "infinitive": "attendre",
+    "présent": {
+      "je": "attends",
+      "tu": "attends",
+      "il": "attend",
+      "nous": "attendons",
+      "vous": "attendez",
+      "ils": "attendent"
+    },
+    "passé_composé": {
+      "je": "ai attendu",
+      "tu": "as attendu",
+      "il": "a attendu",
+      "nous": "avons attendu",
+      "vous": "avez attendu",
+      "ils": "ont attendu"
+    },
+    "imparfait": {
+      "je": "attendais",
+      "tu": "attendais",
+      "il": "attendait",
+      "nous": "attendions",
+      "vous": "attendiez",
+      "ils": "attendaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais attendu",
+      "tu": "avais attendu",
+      "il": "avait attendu",
+      "nous": "avions attendu",
+      "vous": "aviez attendu",
+      "ils": "avaient attendu"
+    },
+    "passé_simple": {
+      "je": "attendis",
+      "tu": "attendis",
+      "il": "attendit",
+      "nous": "attendîmes",
+      "vous": "attendîtes",
+      "ils": "attendirent"
+    },
+    "passé_antérieur": {
+      "je": "eus attendu",
+      "tu": "eus attendu",
+      "il": "eut attendu",
+      "nous": "eûmes attendu",
+      "vous": "eûtes attendu",
+      "ils": "eurent attendu"
+    },
+    "futur_simple": {
+      "je": "attendrai",
+      "tu": "attendras",
+      "il": "attendra",
+      "nous": "attendrons",
+      "vous": "attendrez",
+      "ils": "attendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai attendu",
+      "tu": "auras attendu",
+      "il": "aura attendu",
+      "nous": "aurons attendu",
+      "vous": "aurez attendu",
+      "ils": "auront attendu"
+    },
+    "subjonctif_présent": {
+      "je": "attende",
+      "tu": "attendes",
+      "il": "attende",
+      "nous": "attendions",
+      "vous": "attendiez",
+      "ils": "attendent"
+    },
+    "subjonctif_passé": {
+      "je": "aie attendu",
+      "tu": "aies attendu",
+      "il": "ait attendu",
+      "nous": "ayons attendu",
+      "vous": "ayez attendu",
+      "ils": "aient attendu"
+    },
+    "subjonctif_imparfait": {
+      "je": "attendisse",
+      "tu": "attendisses",
+      "il": "attendît",
+      "nous": "attendissions",
+      "vous": "attendissiez",
+      "ils": "attendissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse attendu",
+      "tu": "eusses attendu",
+      "il": "eût attendu",
+      "nous": "eussions attendu",
+      "vous": "eussiez attendu",
+      "ils": "eussent attendu"
+    },
+    "conditionnel_présent": {
+      "je": "attendrais",
+      "tu": "attendrais",
+      "il": "attendrait",
+      "nous": "attendrions",
+      "vous": "attendriez",
+      "ils": "attendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais attendu",
+      "tu": "aurais attendu",
+      "il": "aurait attendu",
+      "nous": "aurions attendu",
+      "vous": "auriez attendu",
+      "ils": "auraient attendu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse attendu",
+      "tu": "eusses attendu",
+      "il": "eût attendu",
+      "nous": "eussions attendu",
+      "vous": "eussiez attendu",
+      "ils": "eussent attendu"
+    },
+    "translation": "czekać",
+    "group": 3
+  },
+  {
+    "infinitive": "attendrir",
+    "présent": {
+      "je": "attendris",
+      "tu": "attendris",
+      "il": "attendrit",
+      "nous": "attendrissons",
+      "vous": "attendrissez",
+      "ils": "attendrissent"
+    },
+    "passé_composé": {
+      "je": "ai attendri",
+      "tu": "as attendri",
+      "il": "a attendri",
+      "nous": "avons attendri",
+      "vous": "avez attendri",
+      "ils": "ont attendri"
+    },
+    "imparfait": {
+      "je": "attendrissais",
+      "tu": "attendrissais",
+      "il": "attendrissait",
+      "nous": "attendrissions",
+      "vous": "attendrissiez",
+      "ils": "attendrissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais attendri",
+      "tu": "avais attendri",
+      "il": "avait attendri",
+      "nous": "avions attendri",
+      "vous": "aviez attendri",
+      "ils": "avaient attendri"
+    },
+    "passé_simple": {
+      "je": "attendris",
+      "tu": "attendris",
+      "il": "attendrit",
+      "nous": "attendrîmes",
+      "vous": "attendrîtes",
+      "ils": "attendrirent"
+    },
+    "passé_antérieur": {
+      "je": "eus attendri",
+      "tu": "eus attendri",
+      "il": "eut attendri",
+      "nous": "eûmes attendri",
+      "vous": "eûtes attendri",
+      "ils": "eurent attendri"
+    },
+    "futur_simple": {
+      "je": "attendrirai",
+      "tu": "attendriras",
+      "il": "attendrira",
+      "nous": "attendrirons",
+      "vous": "attendrirez",
+      "ils": "attendriront"
+    },
+    "futur_antérieur": {
+      "je": "aurai attendri",
+      "tu": "auras attendri",
+      "il": "aura attendri",
+      "nous": "aurons attendri",
+      "vous": "aurez attendri",
+      "ils": "auront attendri"
+    },
+    "subjonctif_présent": {
+      "je": "attendrisse",
+      "tu": "attendrisses",
+      "il": "attendrisse",
+      "nous": "attendrissions",
+      "vous": "attendrissiez",
+      "ils": "attendrissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie attendri",
+      "tu": "aies attendri",
+      "il": "ait attendri",
+      "nous": "ayons attendri",
+      "vous": "ayez attendri",
+      "ils": "aient attendri"
+    },
+    "subjonctif_imparfait": {
+      "je": "attendrisse",
+      "tu": "attendrisses",
+      "il": "attendrît",
+      "nous": "attendrissions",
+      "vous": "attendrissiez",
+      "ils": "attendrissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse attendri",
+      "tu": "eusses attendri",
+      "il": "eût attendri",
+      "nous": "eussions attendri",
+      "vous": "eussiez attendri",
+      "ils": "eussent attendri"
+    },
+    "conditionnel_présent": {
+      "je": "attendrirais",
+      "tu": "attendrirais",
+      "il": "attendrirait",
+      "nous": "attendririons",
+      "vous": "attendririez",
+      "ils": "attendriraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais attendri",
+      "tu": "aurais attendri",
+      "il": "aurait attendri",
+      "nous": "aurions attendri",
+      "vous": "auriez attendri",
+      "ils": "auraient attendri"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse attendri",
+      "tu": "eusses attendri",
+      "il": "eût attendri",
+      "nous": "eussions attendri",
+      "vous": "eussiez attendri",
+      "ils": "eussent attendri"
+    },
+    "translation": "rozczulać",
+    "group": 2
+  },
+  {
+    "infinitive": "attenter",
+    "présent": {
+      "je": "attente",
+      "tu": "attentes",
+      "il": "attente",
+      "nous": "attentons",
+      "vous": "attentez",
+      "ils": "attentent"
+    },
+    "passé_composé": {
+      "je": "ai attenté",
+      "tu": "as attenté",
+      "il": "a attenté",
+      "nous": "avons attenté",
+      "vous": "avez attenté",
+      "ils": "ont attenté"
+    },
+    "imparfait": {
+      "je": "attentais",
+      "tu": "attentais",
+      "il": "attentait",
+      "nous": "attentions",
+      "vous": "attentiez",
+      "ils": "attentaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais attenté",
+      "tu": "avais attenté",
+      "il": "avait attenté",
+      "nous": "avions attenté",
+      "vous": "aviez attenté",
+      "ils": "avaient attenté"
+    },
+    "passé_simple": {
+      "je": "attentai",
+      "tu": "attentas",
+      "il": "attenta",
+      "nous": "attentâmes",
+      "vous": "attentâtes",
+      "ils": "attentèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus attenté",
+      "tu": "eus attenté",
+      "il": "eut attenté",
+      "nous": "eûmes attenté",
+      "vous": "eûtes attenté",
+      "ils": "eurent attenté"
+    },
+    "futur_simple": {
+      "je": "attenterai",
+      "tu": "attenteras",
+      "il": "attentera",
+      "nous": "attenterons",
+      "vous": "attenterez",
+      "ils": "attenteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai attenté",
+      "tu": "auras attenté",
+      "il": "aura attenté",
+      "nous": "aurons attenté",
+      "vous": "aurez attenté",
+      "ils": "auront attenté"
+    },
+    "subjonctif_présent": {
+      "je": "attente",
+      "tu": "attentes",
+      "il": "attente",
+      "nous": "attentions",
+      "vous": "attentiez",
+      "ils": "attentent"
+    },
+    "subjonctif_passé": {
+      "je": "aie attenté",
+      "tu": "aies attenté",
+      "il": "ait attenté",
+      "nous": "ayons attenté",
+      "vous": "ayez attenté",
+      "ils": "aient attenté"
+    },
+    "subjonctif_imparfait": {
+      "je": "attentasse",
+      "tu": "attentasses",
+      "il": "attentât",
+      "nous": "attentassions",
+      "vous": "attentassiez",
+      "ils": "attentassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse attenté",
+      "tu": "eusses attenté",
+      "il": "eût attenté",
+      "nous": "eussions attenté",
+      "vous": "eussiez attenté",
+      "ils": "eussent attenté"
+    },
+    "conditionnel_présent": {
+      "je": "attenterais",
+      "tu": "attenterais",
+      "il": "attenterait",
+      "nous": "attenterions",
+      "vous": "attenteriez",
+      "ils": "attenteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais attenté",
+      "tu": "aurais attenté",
+      "il": "aurait attenté",
+      "nous": "aurions attenté",
+      "vous": "auriez attenté",
+      "ils": "auraient attenté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse attenté",
+      "tu": "eusses attenté",
+      "il": "eût attenté",
+      "nous": "eussions attenté",
+      "vous": "eussiez attenté",
+      "ils": "eussent attenté"
+    },
+    "translation": "targnąć",
+    "group": 1
+  },
+  {
+    "infinitive": "atténuer",
+    "présent": {
+      "je": "atténue",
+      "tu": "atténues",
+      "il": "atténue",
+      "nous": "atténuons",
+      "vous": "atténuez",
+      "ils": "atténuent"
+    },
+    "passé_composé": {
+      "je": "ai atténué",
+      "tu": "as atténué",
+      "il": "a atténué",
+      "nous": "avons atténué",
+      "vous": "avez atténué",
+      "ils": "ont atténué"
+    },
+    "imparfait": {
+      "je": "atténuais",
+      "tu": "atténuais",
+      "il": "atténuait",
+      "nous": "atténuions",
+      "vous": "atténuiez",
+      "ils": "atténuaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais atténué",
+      "tu": "avais atténué",
+      "il": "avait atténué",
+      "nous": "avions atténué",
+      "vous": "aviez atténué",
+      "ils": "avaient atténué"
+    },
+    "passé_simple": {
+      "je": "atténuai",
+      "tu": "atténuas",
+      "il": "atténua",
+      "nous": "atténuâmes",
+      "vous": "atténuâtes",
+      "ils": "atténuèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus atténué",
+      "tu": "eus atténué",
+      "il": "eut atténué",
+      "nous": "eûmes atténué",
+      "vous": "eûtes atténué",
+      "ils": "eurent atténué"
+    },
+    "futur_simple": {
+      "je": "atténuerai",
+      "tu": "atténueras",
+      "il": "atténuera",
+      "nous": "atténuerons",
+      "vous": "atténuerez",
+      "ils": "atténueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai atténué",
+      "tu": "auras atténué",
+      "il": "aura atténué",
+      "nous": "aurons atténué",
+      "vous": "aurez atténué",
+      "ils": "auront atténué"
+    },
+    "subjonctif_présent": {
+      "je": "atténue",
+      "tu": "atténues",
+      "il": "atténue",
+      "nous": "atténuions",
+      "vous": "atténuiez",
+      "ils": "atténuent"
+    },
+    "subjonctif_passé": {
+      "je": "aie atténué",
+      "tu": "aies atténué",
+      "il": "ait atténué",
+      "nous": "ayons atténué",
+      "vous": "ayez atténué",
+      "ils": "aient atténué"
+    },
+    "subjonctif_imparfait": {
+      "je": "atténuasse",
+      "tu": "atténuasses",
+      "il": "atténuât",
+      "nous": "atténuassions",
+      "vous": "atténuassiez",
+      "ils": "atténuassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse atténué",
+      "tu": "eusses atténué",
+      "il": "eût atténué",
+      "nous": "eussions atténué",
+      "vous": "eussiez atténué",
+      "ils": "eussent atténué"
+    },
+    "conditionnel_présent": {
+      "je": "atténuerais",
+      "tu": "atténuerais",
+      "il": "atténuerait",
+      "nous": "atténuerions",
+      "vous": "atténueriez",
+      "ils": "atténueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais atténué",
+      "tu": "aurais atténué",
+      "il": "aurait atténué",
+      "nous": "aurions atténué",
+      "vous": "auriez atténué",
+      "ils": "auraient atténué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse atténué",
+      "tu": "eusses atténué",
+      "il": "eût atténué",
+      "nous": "eussions atténué",
+      "vous": "eussiez atténué",
+      "ils": "eussent atténué"
+    },
+    "translation": "łagodzić",
+    "group": 1
+  }
+]

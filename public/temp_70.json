@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "donner",
+    "présent": {
+      "je": "donne",
+      "tu": "donnes",
+      "il": "donne",
+      "nous": "donnons",
+      "vous": "donnez",
+      "ils": "donnent"
+    },
+    "passé_composé": {
+      "je": "ai donné",
+      "tu": "as donné",
+      "il": "a donné",
+      "nous": "avons donné",
+      "vous": "avez donné",
+      "ils": "ont donné"
+    },
+    "imparfait": {
+      "je": "donnais",
+      "tu": "donnais",
+      "il": "donnait",
+      "nous": "donnions",
+      "vous": "donniez",
+      "ils": "donnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais donné",
+      "tu": "avais donné",
+      "il": "avait donné",
+      "nous": "avions donné",
+      "vous": "aviez donné",
+      "ils": "avaient donné"
+    },
+    "passé_simple": {
+      "je": "donnai",
+      "tu": "donnas",
+      "il": "donna",
+      "nous": "donnâmes",
+      "vous": "donnâtes",
+      "ils": "donnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus donné",
+      "tu": "eus donné",
+      "il": "eut donné",
+      "nous": "eûmes donné",
+      "vous": "eûtes donné",
+      "ils": "eurent donné"
+    },
+    "futur_simple": {
+      "je": "donnerai",
+      "tu": "donneras",
+      "il": "donnera",
+      "nous": "donnerons",
+      "vous": "donnerez",
+      "ils": "donneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai donné",
+      "tu": "auras donné",
+      "il": "aura donné",
+      "nous": "aurons donné",
+      "vous": "aurez donné",
+      "ils": "auront donné"
+    },
+    "subjonctif_présent": {
+      "je": "donne",
+      "tu": "donnes",
+      "il": "donne",
+      "nous": "donnions",
+      "vous": "donniez",
+      "ils": "donnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie donné",
+      "tu": "aies donné",
+      "il": "ait donné",
+      "nous": "ayons donné",
+      "vous": "ayez donné",
+      "ils": "aient donné"
+    },
+    "subjonctif_imparfait": {
+      "je": "donnasse",
+      "tu": "donnasses",
+      "il": "donnât",
+      "nous": "donnassions",
+      "vous": "donnassiez",
+      "ils": "donnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse donné",
+      "tu": "eusses donné",
+      "il": "eût donné",
+      "nous": "eussions donné",
+      "vous": "eussiez donné",
+      "ils": "eussent donné"
+    },
+    "conditionnel_présent": {
+      "je": "donnerais",
+      "tu": "donnerais",
+      "il": "donnerait",
+      "nous": "donnerions",
+      "vous": "donneriez",
+      "ils": "donneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais donné",
+      "tu": "aurais donné",
+      "il": "aurait donné",
+      "nous": "aurions donné",
+      "vous": "auriez donné",
+      "ils": "auraient donné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse donné",
+      "tu": "eusses donné",
+      "il": "eût donné",
+      "nous": "eussions donné",
+      "vous": "eussiez donné",
+      "ils": "eussent donné"
+    },
+    "translation": "dawać",
+    "group": 1
+  },
+  {
+    "infinitive": "doper",
+    "présent": {
+      "je": "dope",
+      "tu": "dopes",
+      "il": "dope",
+      "nous": "dopons",
+      "vous": "dopez",
+      "ils": "dopent"
+    },
+    "passé_composé": {
+      "je": "ai dopé",
+      "tu": "as dopé",
+      "il": "a dopé",
+      "nous": "avons dopé",
+      "vous": "avez dopé",
+      "ils": "ont dopé"
+    },
+    "imparfait": {
+      "je": "dopais",
+      "tu": "dopais",
+      "il": "dopait",
+      "nous": "dopions",
+      "vous": "dopiez",
+      "ils": "dopaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dopé",
+      "tu": "avais dopé",
+      "il": "avait dopé",
+      "nous": "avions dopé",
+      "vous": "aviez dopé",
+      "ils": "avaient dopé"
+    },
+    "passé_simple": {
+      "je": "dopai",
+      "tu": "dopas",
+      "il": "dopa",
+      "nous": "dopâmes",
+      "vous": "dopâtes",
+      "ils": "dopèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus dopé",
+      "tu": "eus dopé",
+      "il": "eut dopé",
+      "nous": "eûmes dopé",
+      "vous": "eûtes dopé",
+      "ils": "eurent dopé"
+    },
+    "futur_simple": {
+      "je": "doperai",
+      "tu": "doperas",
+      "il": "dopera",
+      "nous": "doperons",
+      "vous": "doperez",
+      "ils": "doperont"
+    },
+    "futur_antérieur": {
+      "je": "aurai dopé",
+      "tu": "auras dopé",
+      "il": "aura dopé",
+      "nous": "aurons dopé",
+      "vous": "aurez dopé",
+      "ils": "auront dopé"
+    },
+    "subjonctif_présent": {
+      "je": "dope",
+      "tu": "dopes",
+      "il": "dope",
+      "nous": "dopions",
+      "vous": "dopiez",
+      "ils": "dopent"
+    },
+    "subjonctif_passé": {
+      "je": "aie dopé",
+      "tu": "aies dopé",
+      "il": "ait dopé",
+      "nous": "ayons dopé",
+      "vous": "ayez dopé",
+      "ils": "aient dopé"
+    },
+    "subjonctif_imparfait": {
+      "je": "dopasse",
+      "tu": "dopasses",
+      "il": "dopât",
+      "nous": "dopassions",
+      "vous": "dopassiez",
+      "ils": "dopassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dopé",
+      "tu": "eusses dopé",
+      "il": "eût dopé",
+      "nous": "eussions dopé",
+      "vous": "eussiez dopé",
+      "ils": "eussent dopé"
+    },
+    "conditionnel_présent": {
+      "je": "doperais",
+      "tu": "doperais",
+      "il": "doperait",
+      "nous": "doperions",
+      "vous": "doperiez",
+      "ils": "doperaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dopé",
+      "tu": "aurais dopé",
+      "il": "aurait dopé",
+      "nous": "aurions dopé",
+      "vous": "auriez dopé",
+      "ils": "auraient dopé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dopé",
+      "tu": "eusses dopé",
+      "il": "eût dopé",
+      "nous": "eussions dopé",
+      "vous": "eussiez dopé",
+      "ils": "eussent dopé"
+    },
+    "translation": "brać",
+    "group": 1
+  },
+  {
+    "infinitive": "dorer",
+    "présent": {
+      "je": "dore",
+      "tu": "dores",
+      "il": "dore",
+      "nous": "dorons",
+      "vous": "dorez",
+      "ils": "dorent"
+    },
+    "passé_composé": {
+      "je": "ai doré",
+      "tu": "as doré",
+      "il": "a doré",
+      "nous": "avons doré",
+      "vous": "avez doré",
+      "ils": "ont doré"
+    },
+    "imparfait": {
+      "je": "dorais",
+      "tu": "dorais",
+      "il": "dorait",
+      "nous": "dorions",
+      "vous": "doriez",
+      "ils": "doraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais doré",
+      "tu": "avais doré",
+      "il": "avait doré",
+      "nous": "avions doré",
+      "vous": "aviez doré",
+      "ils": "avaient doré"
+    },
+    "passé_simple": {
+      "je": "dorai",
+      "tu": "doras",
+      "il": "dora",
+      "nous": "dorâmes",
+      "vous": "dorâtes",
+      "ils": "dorèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus doré",
+      "tu": "eus doré",
+      "il": "eut doré",
+      "nous": "eûmes doré",
+      "vous": "eûtes doré",
+      "ils": "eurent doré"
+    },
+    "futur_simple": {
+      "je": "dorerai",
+      "tu": "doreras",
+      "il": "dorera",
+      "nous": "dorerons",
+      "vous": "dorerez",
+      "ils": "doreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai doré",
+      "tu": "auras doré",
+      "il": "aura doré",
+      "nous": "aurons doré",
+      "vous": "aurez doré",
+      "ils": "auront doré"
+    },
+    "subjonctif_présent": {
+      "je": "dore",
+      "tu": "dores",
+      "il": "dore",
+      "nous": "dorions",
+      "vous": "doriez",
+      "ils": "dorent"
+    },
+    "subjonctif_passé": {
+      "je": "aie doré",
+      "tu": "aies doré",
+      "il": "ait doré",
+      "nous": "ayons doré",
+      "vous": "ayez doré",
+      "ils": "aient doré"
+    },
+    "subjonctif_imparfait": {
+      "je": "dorasse",
+      "tu": "dorasses",
+      "il": "dorât",
+      "nous": "dorassions",
+      "vous": "dorassiez",
+      "ils": "dorassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse doré",
+      "tu": "eusses doré",
+      "il": "eût doré",
+      "nous": "eussions doré",
+      "vous": "eussiez doré",
+      "ils": "eussent doré"
+    },
+    "conditionnel_présent": {
+      "je": "dorerais",
+      "tu": "dorerais",
+      "il": "dorerait",
+      "nous": "dorerions",
+      "vous": "doreriez",
+      "ils": "doreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais doré",
+      "tu": "aurais doré",
+      "il": "aurait doré",
+      "nous": "aurions doré",
+      "vous": "auriez doré",
+      "ils": "auraient doré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse doré",
+      "tu": "eusses doré",
+      "il": "eût doré",
+      "nous": "eussions doré",
+      "vous": "eussiez doré",
+      "ils": "eussent doré"
+    },
+    "translation": "złocić",
+    "group": 1
+  },
+  {
+    "infinitive": "dorloter",
+    "présent": {
+      "je": "dorlote",
+      "tu": "dorlotes",
+      "il": "dorlote",
+      "nous": "dorlotons",
+      "vous": "dorlotez",
+      "ils": "dorlotent"
+    },
+    "passé_composé": {
+      "je": "ai dorloté",
+      "tu": "as dorloté",
+      "il": "a dorloté",
+      "nous": "avons dorloté",
+      "vous": "avez dorloté",
+      "ils": "ont dorloté"
+    },
+    "imparfait": {
+      "je": "dorlotais",
+      "tu": "dorlotais",
+      "il": "dorlotait",
+      "nous": "dorlotions",
+      "vous": "dorlotiez",
+      "ils": "dorlotaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dorloté",
+      "tu": "avais dorloté",
+      "il": "avait dorloté",
+      "nous": "avions dorloté",
+      "vous": "aviez dorloté",
+      "ils": "avaient dorloté"
+    },
+    "passé_simple": {
+      "je": "dorlotai",
+      "tu": "dorlotas",
+      "il": "dorlota",
+      "nous": "dorlotâmes",
+      "vous": "dorlotâtes",
+      "ils": "dorlotèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus dorloté",
+      "tu": "eus dorloté",
+      "il": "eut dorloté",
+      "nous": "eûmes dorloté",
+      "vous": "eûtes dorloté",
+      "ils": "eurent dorloté"
+    },
+    "futur_simple": {
+      "je": "dorloterai",
+      "tu": "dorloteras",
+      "il": "dorlotera",
+      "nous": "dorloterons",
+      "vous": "dorloterez",
+      "ils": "dorloteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dorloté",
+      "tu": "auras dorloté",
+      "il": "aura dorloté",
+      "nous": "aurons dorloté",
+      "vous": "aurez dorloté",
+      "ils": "auront dorloté"
+    },
+    "subjonctif_présent": {
+      "je": "dorlote",
+      "tu": "dorlotes",
+      "il": "dorlote",
+      "nous": "dorlotions",
+      "vous": "dorlotiez",
+      "ils": "dorlotent"
+    },
+    "subjonctif_passé": {
+      "je": "aie dorloté",
+      "tu": "aies dorloté",
+      "il": "ait dorloté",
+      "nous": "ayons dorloté",
+      "vous": "ayez dorloté",
+      "ils": "aient dorloté"
+    },
+    "subjonctif_imparfait": {
+      "je": "dorlotasse",
+      "tu": "dorlotasses",
+      "il": "dorlotât",
+      "nous": "dorlotassions",
+      "vous": "dorlotassiez",
+      "ils": "dorlotassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dorloté",
+      "tu": "eusses dorloté",
+      "il": "eût dorloté",
+      "nous": "eussions dorloté",
+      "vous": "eussiez dorloté",
+      "ils": "eussent dorloté"
+    },
+    "conditionnel_présent": {
+      "je": "dorloterais",
+      "tu": "dorloterais",
+      "il": "dorloterait",
+      "nous": "dorloterions",
+      "vous": "dorloteriez",
+      "ils": "dorloteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dorloté",
+      "tu": "aurais dorloté",
+      "il": "aurait dorloté",
+      "nous": "aurions dorloté",
+      "vous": "auriez dorloté",
+      "ils": "auraient dorloté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dorloté",
+      "tu": "eusses dorloté",
+      "il": "eût dorloté",
+      "nous": "eussions dorloté",
+      "vous": "eussiez dorloté",
+      "ils": "eussent dorloté"
+    },
+    "translation": "dorloter",
+    "group": 1
+  },
+  {
+    "infinitive": "dormir",
+    "présent": {
+      "je": "dors",
+      "tu": "dors",
+      "il": "dort",
+      "nous": "dormons",
+      "vous": "dormez",
+      "ils": "dorment"
+    },
+    "passé_composé": {
+      "je": "ai dormi",
+      "tu": "as dormi",
+      "il": "a dormi",
+      "nous": "avons dormi",
+      "vous": "avez dormi",
+      "ils": "ont dormi"
+    },
+    "imparfait": {
+      "je": "dormais",
+      "tu": "dormais",
+      "il": "dormait",
+      "nous": "dormions",
+      "vous": "dormiez",
+      "ils": "dormaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dormi",
+      "tu": "avais dormi",
+      "il": "avait dormi",
+      "nous": "avions dormi",
+      "vous": "aviez dormi",
+      "ils": "avaient dormi"
+    },
+    "passé_simple": {
+      "je": "dormis",
+      "tu": "dormis",
+      "il": "dormit",
+      "nous": "dormîmes",
+      "vous": "dormîtes",
+      "ils": "dormirent"
+    },
+    "passé_antérieur": {
+      "je": "eus dormi",
+      "tu": "eus dormi",
+      "il": "eut dormi",
+      "nous": "eûmes dormi",
+      "vous": "eûtes dormi",
+      "ils": "eurent dormi"
+    },
+    "futur_simple": {
+      "je": "dormirai",
+      "tu": "dormiras",
+      "il": "dormira",
+      "nous": "dormirons",
+      "vous": "dormirez",
+      "ils": "dormiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dormi",
+      "tu": "auras dormi",
+      "il": "aura dormi",
+      "nous": "aurons dormi",
+      "vous": "aurez dormi",
+      "ils": "auront dormi"
+    },
+    "subjonctif_présent": {
+      "je": "dorme",
+      "tu": "dormes",
+      "il": "dorme",
+      "nous": "dormions",
+      "vous": "dormiez",
+      "ils": "dorment"
+    },
+    "subjonctif_passé": {
+      "je": "aie dormi",
+      "tu": "aies dormi",
+      "il": "ait dormi",
+      "nous": "ayons dormi",
+      "vous": "ayez dormi",
+      "ils": "aient dormi"
+    },
+    "subjonctif_imparfait": {
+      "je": "dormisse",
+      "tu": "dormisses",
+      "il": "dormît",
+      "nous": "dormissions",
+      "vous": "dormissiez",
+      "ils": "dormissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dormi",
+      "tu": "eusses dormi",
+      "il": "eût dormi",
+      "nous": "eussions dormi",
+      "vous": "eussiez dormi",
+      "ils": "eussent dormi"
+    },
+    "conditionnel_présent": {
+      "je": "dormirais",
+      "tu": "dormirais",
+      "il": "dormirait",
+      "nous": "dormirions",
+      "vous": "dormiriez",
+      "ils": "dormiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dormi",
+      "tu": "aurais dormi",
+      "il": "aurait dormi",
+      "nous": "aurions dormi",
+      "vous": "auriez dormi",
+      "ils": "auraient dormi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dormi",
+      "tu": "eusses dormi",
+      "il": "eût dormi",
+      "nous": "eussions dormi",
+      "vous": "eussiez dormi",
+      "ils": "eussent dormi"
+    },
+    "translation": "spać",
+    "group": 3
+  },
+  {
+    "infinitive": "doter",
+    "présent": {
+      "je": "dote",
+      "tu": "dotes",
+      "il": "dote",
+      "nous": "dotons",
+      "vous": "dotez",
+      "ils": "dotent"
+    },
+    "passé_composé": {
+      "je": "ai doté",
+      "tu": "as doté",
+      "il": "a doté",
+      "nous": "avons doté",
+      "vous": "avez doté",
+      "ils": "ont doté"
+    },
+    "imparfait": {
+      "je": "dotais",
+      "tu": "dotais",
+      "il": "dotait",
+      "nous": "dotions",
+      "vous": "dotiez",
+      "ils": "dotaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais doté",
+      "tu": "avais doté",
+      "il": "avait doté",
+      "nous": "avions doté",
+      "vous": "aviez doté",
+      "ils": "avaient doté"
+    },
+    "passé_simple": {
+      "je": "dotai",
+      "tu": "dotas",
+      "il": "dota",
+      "nous": "dotâmes",
+      "vous": "dotâtes",
+      "ils": "dotèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus doté",
+      "tu": "eus doté",
+      "il": "eut doté",
+      "nous": "eûmes doté",
+      "vous": "eûtes doté",
+      "ils": "eurent doté"
+    },
+    "futur_simple": {
+      "je": "doterai",
+      "tu": "doteras",
+      "il": "dotera",
+      "nous": "doterons",
+      "vous": "doterez",
+      "ils": "doteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai doté",
+      "tu": "auras doté",
+      "il": "aura doté",
+      "nous": "aurons doté",
+      "vous": "aurez doté",
+      "ils": "auront doté"
+    },
+    "subjonctif_présent": {
+      "je": "dote",
+      "tu": "dotes",
+      "il": "dote",
+      "nous": "dotions",
+      "vous": "dotiez",
+      "ils": "dotent"
+    },
+    "subjonctif_passé": {
+      "je": "aie doté",
+      "tu": "aies doté",
+      "il": "ait doté",
+      "nous": "ayons doté",
+      "vous": "ayez doté",
+      "ils": "aient doté"
+    },
+    "subjonctif_imparfait": {
+      "je": "dotasse",
+      "tu": "dotasses",
+      "il": "dotât",
+      "nous": "dotassions",
+      "vous": "dotassiez",
+      "ils": "dotassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse doté",
+      "tu": "eusses doté",
+      "il": "eût doté",
+      "nous": "eussions doté",
+      "vous": "eussiez doté",
+      "ils": "eussent doté"
+    },
+    "conditionnel_présent": {
+      "je": "doterais",
+      "tu": "doterais",
+      "il": "doterait",
+      "nous": "doterions",
+      "vous": "doteriez",
+      "ils": "doteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais doté",
+      "tu": "aurais doté",
+      "il": "aurait doté",
+      "nous": "aurions doté",
+      "vous": "auriez doté",
+      "ils": "auraient doté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse doté",
+      "tu": "eusses doté",
+      "il": "eût doté",
+      "nous": "eussions doté",
+      "vous": "eussiez doté",
+      "ils": "eussent doté"
+    },
+    "translation": "doter",
+    "group": 1
+  },
+  {
+    "infinitive": "doubler",
+    "présent": {
+      "je": "double",
+      "tu": "doubles",
+      "il": "double",
+      "nous": "doublons",
+      "vous": "doublez",
+      "ils": "doublent"
+    },
+    "passé_composé": {
+      "je": "ai doublé",
+      "tu": "as doublé",
+      "il": "a doublé",
+      "nous": "avons doublé",
+      "vous": "avez doublé",
+      "ils": "ont doublé"
+    },
+    "imparfait": {
+      "je": "doublais",
+      "tu": "doublais",
+      "il": "doublait",
+      "nous": "doublions",
+      "vous": "doubliez",
+      "ils": "doublaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais doublé",
+      "tu": "avais doublé",
+      "il": "avait doublé",
+      "nous": "avions doublé",
+      "vous": "aviez doublé",
+      "ils": "avaient doublé"
+    },
+    "passé_simple": {
+      "je": "doublai",
+      "tu": "doublas",
+      "il": "doubla",
+      "nous": "doublâmes",
+      "vous": "doublâtes",
+      "ils": "doublèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus doublé",
+      "tu": "eus doublé",
+      "il": "eut doublé",
+      "nous": "eûmes doublé",
+      "vous": "eûtes doublé",
+      "ils": "eurent doublé"
+    },
+    "futur_simple": {
+      "je": "doublerai",
+      "tu": "doubleras",
+      "il": "doublera",
+      "nous": "doublerons",
+      "vous": "doublerez",
+      "ils": "doubleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai doublé",
+      "tu": "auras doublé",
+      "il": "aura doublé",
+      "nous": "aurons doublé",
+      "vous": "aurez doublé",
+      "ils": "auront doublé"
+    },
+    "subjonctif_présent": {
+      "je": "double",
+      "tu": "doubles",
+      "il": "double",
+      "nous": "doublions",
+      "vous": "doubliez",
+      "ils": "doublent"
+    },
+    "subjonctif_passé": {
+      "je": "aie doublé",
+      "tu": "aies doublé",
+      "il": "ait doublé",
+      "nous": "ayons doublé",
+      "vous": "ayez doublé",
+      "ils": "aient doublé"
+    },
+    "subjonctif_imparfait": {
+      "je": "doublasse",
+      "tu": "doublasses",
+      "il": "doublât",
+      "nous": "doublassions",
+      "vous": "doublassiez",
+      "ils": "doublassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse doublé",
+      "tu": "eusses doublé",
+      "il": "eût doublé",
+      "nous": "eussions doublé",
+      "vous": "eussiez doublé",
+      "ils": "eussent doublé"
+    },
+    "conditionnel_présent": {
+      "je": "doublerais",
+      "tu": "doublerais",
+      "il": "doublerait",
+      "nous": "doublerions",
+      "vous": "doubleriez",
+      "ils": "doubleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais doublé",
+      "tu": "aurais doublé",
+      "il": "aurait doublé",
+      "nous": "aurions doublé",
+      "vous": "auriez doublé",
+      "ils": "auraient doublé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse doublé",
+      "tu": "eusses doublé",
+      "il": "eût doublé",
+      "nous": "eussions doublé",
+      "vous": "eussiez doublé",
+      "ils": "eussent doublé"
+    },
+    "translation": "podwajać",
+    "group": 1
+  },
+  {
+    "infinitive": "doucher",
+    "présent": {
+      "je": "douche",
+      "tu": "douches",
+      "il": "douche",
+      "nous": "douchons",
+      "vous": "douchez",
+      "ils": "douchent"
+    },
+    "passé_composé": {
+      "je": "ai douché",
+      "tu": "as douché",
+      "il": "a douché",
+      "nous": "avons douché",
+      "vous": "avez douché",
+      "ils": "ont douché"
+    },
+    "imparfait": {
+      "je": "douchais",
+      "tu": "douchais",
+      "il": "douchait",
+      "nous": "douchions",
+      "vous": "douchiez",
+      "ils": "douchaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais douché",
+      "tu": "avais douché",
+      "il": "avait douché",
+      "nous": "avions douché",
+      "vous": "aviez douché",
+      "ils": "avaient douché"
+    },
+    "passé_simple": {
+      "je": "douchai",
+      "tu": "douchas",
+      "il": "doucha",
+      "nous": "douchâmes",
+      "vous": "douchâtes",
+      "ils": "douchèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus douché",
+      "tu": "eus douché",
+      "il": "eut douché",
+      "nous": "eûmes douché",
+      "vous": "eûtes douché",
+      "ils": "eurent douché"
+    },
+    "futur_simple": {
+      "je": "doucherai",
+      "tu": "doucheras",
+      "il": "douchera",
+      "nous": "doucherons",
+      "vous": "doucherez",
+      "ils": "doucheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai douché",
+      "tu": "auras douché",
+      "il": "aura douché",
+      "nous": "aurons douché",
+      "vous": "aurez douché",
+      "ils": "auront douché"
+    },
+    "subjonctif_présent": {
+      "je": "douche",
+      "tu": "douches",
+      "il": "douche",
+      "nous": "douchions",
+      "vous": "douchiez",
+      "ils": "douchent"
+    },
+    "subjonctif_passé": {
+      "je": "aie douché",
+      "tu": "aies douché",
+      "il": "ait douché",
+      "nous": "ayons douché",
+      "vous": "ayez douché",
+      "ils": "aient douché"
+    },
+    "subjonctif_imparfait": {
+      "je": "douchasse",
+      "tu": "douchasses",
+      "il": "douchât",
+      "nous": "douchassions",
+      "vous": "douchassiez",
+      "ils": "douchassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse douché",
+      "tu": "eusses douché",
+      "il": "eût douché",
+      "nous": "eussions douché",
+      "vous": "eussiez douché",
+      "ils": "eussent douché"
+    },
+    "conditionnel_présent": {
+      "je": "doucherais",
+      "tu": "doucherais",
+      "il": "doucherait",
+      "nous": "doucherions",
+      "vous": "doucheriez",
+      "ils": "doucheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais douché",
+      "tu": "aurais douché",
+      "il": "aurait douché",
+      "nous": "aurions douché",
+      "vous": "auriez douché",
+      "ils": "auraient douché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse douché",
+      "tu": "eusses douché",
+      "il": "eût douché",
+      "nous": "eussions douché",
+      "vous": "eussiez douché",
+      "ils": "eussent douché"
+    },
+    "translation": "brać",
+    "group": 1
+  },
+  {
+    "infinitive": "douer",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "wątpić",
+    "group": 1
+  },
+  {
+    "infinitive": "douter",
+    "présent": {
+      "je": "doute",
+      "tu": "doutes",
+      "il": "doute",
+      "nous": "doutons",
+      "vous": "doutez",
+      "ils": "doutent"
+    },
+    "passé_composé": {
+      "je": "ai douté",
+      "tu": "as douté",
+      "il": "a douté",
+      "nous": "avons douté",
+      "vous": "avez douté",
+      "ils": "ont douté"
+    },
+    "imparfait": {
+      "je": "doutais",
+      "tu": "doutais",
+      "il": "doutait",
+      "nous": "doutions",
+      "vous": "doutiez",
+      "ils": "doutaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais douté",
+      "tu": "avais douté",
+      "il": "avait douté",
+      "nous": "avions douté",
+      "vous": "aviez douté",
+      "ils": "avaient douté"
+    },
+    "passé_simple": {
+      "je": "doutai",
+      "tu": "doutas",
+      "il": "douta",
+      "nous": "doutâmes",
+      "vous": "doutâtes",
+      "ils": "doutèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus douté",
+      "tu": "eus douté",
+      "il": "eut douté",
+      "nous": "eûmes douté",
+      "vous": "eûtes douté",
+      "ils": "eurent douté"
+    },
+    "futur_simple": {
+      "je": "douterai",
+      "tu": "douteras",
+      "il": "doutera",
+      "nous": "douterons",
+      "vous": "douterez",
+      "ils": "douteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai douté",
+      "tu": "auras douté",
+      "il": "aura douté",
+      "nous": "aurons douté",
+      "vous": "aurez douté",
+      "ils": "auront douté"
+    },
+    "subjonctif_présent": {
+      "je": "doute",
+      "tu": "doutes",
+      "il": "doute",
+      "nous": "doutions",
+      "vous": "doutiez",
+      "ils": "doutent"
+    },
+    "subjonctif_passé": {
+      "je": "aie douté",
+      "tu": "aies douté",
+      "il": "ait douté",
+      "nous": "ayons douté",
+      "vous": "ayez douté",
+      "ils": "aient douté"
+    },
+    "subjonctif_imparfait": {
+      "je": "doutasse",
+      "tu": "doutasses",
+      "il": "doutât",
+      "nous": "doutassions",
+      "vous": "doutassiez",
+      "ils": "doutassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse douté",
+      "tu": "eusses douté",
+      "il": "eût douté",
+      "nous": "eussions douté",
+      "vous": "eussiez douté",
+      "ils": "eussent douté"
+    },
+    "conditionnel_présent": {
+      "je": "douterais",
+      "tu": "douterais",
+      "il": "douterait",
+      "nous": "douterions",
+      "vous": "douteriez",
+      "ils": "douteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais douté",
+      "tu": "aurais douté",
+      "il": "aurait douté",
+      "nous": "aurions douté",
+      "vous": "auriez douté",
+      "ils": "auraient douté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse douté",
+      "tu": "eusses douté",
+      "il": "eût douté",
+      "nous": "eussions douté",
+      "vous": "eussiez douté",
+      "ils": "eussent douté"
+    },
+    "translation": "wątpić",
+    "group": 1
+  }
+]

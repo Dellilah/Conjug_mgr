@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "assassiner",
+    "présent": {
+      "je": "assassine",
+      "tu": "assassines",
+      "il": "assassine",
+      "nous": "assassinons",
+      "vous": "assassinez",
+      "ils": "assassinent"
+    },
+    "passé_composé": {
+      "je": "ai assassiné",
+      "tu": "as assassiné",
+      "il": "a assassiné",
+      "nous": "avons assassiné",
+      "vous": "avez assassiné",
+      "ils": "ont assassiné"
+    },
+    "imparfait": {
+      "je": "assassinais",
+      "tu": "assassinais",
+      "il": "assassinait",
+      "nous": "assassinions",
+      "vous": "assassiniez",
+      "ils": "assassinaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais assassiné",
+      "tu": "avais assassiné",
+      "il": "avait assassiné",
+      "nous": "avions assassiné",
+      "vous": "aviez assassiné",
+      "ils": "avaient assassiné"
+    },
+    "passé_simple": {
+      "je": "assassinai",
+      "tu": "assassinas",
+      "il": "assassina",
+      "nous": "assassinâmes",
+      "vous": "assassinâtes",
+      "ils": "assassinèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus assassiné",
+      "tu": "eus assassiné",
+      "il": "eut assassiné",
+      "nous": "eûmes assassiné",
+      "vous": "eûtes assassiné",
+      "ils": "eurent assassiné"
+    },
+    "futur_simple": {
+      "je": "assassinerai",
+      "tu": "assassineras",
+      "il": "assassinera",
+      "nous": "assassinerons",
+      "vous": "assassinerez",
+      "ils": "assassineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai assassiné",
+      "tu": "auras assassiné",
+      "il": "aura assassiné",
+      "nous": "aurons assassiné",
+      "vous": "aurez assassiné",
+      "ils": "auront assassiné"
+    },
+    "subjonctif_présent": {
+      "je": "assassine",
+      "tu": "assassines",
+      "il": "assassine",
+      "nous": "assassinions",
+      "vous": "assassiniez",
+      "ils": "assassinent"
+    },
+    "subjonctif_passé": {
+      "je": "aie assassiné",
+      "tu": "aies assassiné",
+      "il": "ait assassiné",
+      "nous": "ayons assassiné",
+      "vous": "ayez assassiné",
+      "ils": "aient assassiné"
+    },
+    "subjonctif_imparfait": {
+      "je": "assassinasse",
+      "tu": "assassinasses",
+      "il": "assassinât",
+      "nous": "assassinassions",
+      "vous": "assassinassiez",
+      "ils": "assassinassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse assassiné",
+      "tu": "eusses assassiné",
+      "il": "eût assassiné",
+      "nous": "eussions assassiné",
+      "vous": "eussiez assassiné",
+      "ils": "eussent assassiné"
+    },
+    "conditionnel_présent": {
+      "je": "assassinerais",
+      "tu": "assassinerais",
+      "il": "assassinerait",
+      "nous": "assassinerions",
+      "vous": "assassineriez",
+      "ils": "assassineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais assassiné",
+      "tu": "aurais assassiné",
+      "il": "aurait assassiné",
+      "nous": "aurions assassiné",
+      "vous": "auriez assassiné",
+      "ils": "auraient assassiné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse assassiné",
+      "tu": "eusses assassiné",
+      "il": "eût assassiné",
+      "nous": "eussions assassiné",
+      "vous": "eussiez assassiné",
+      "ils": "eussent assassiné"
+    },
+    "translation": "zamordować",
+    "group": 1
+  },
+  {
+    "infinitive": "assavoir",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "oczyszczać",
+    "group": 3
+  },
+  {
+    "infinitive": "assembler",
+    "présent": {
+      "je": "assemble",
+      "tu": "assembles",
+      "il": "assemble",
+      "nous": "assemblons",
+      "vous": "assemblez",
+      "ils": "assemblent"
+    },
+    "passé_composé": {
+      "je": "ai assemblé",
+      "tu": "as assemblé",
+      "il": "a assemblé",
+      "nous": "avons assemblé",
+      "vous": "avez assemblé",
+      "ils": "ont assemblé"
+    },
+    "imparfait": {
+      "je": "assemblais",
+      "tu": "assemblais",
+      "il": "assemblait",
+      "nous": "assemblions",
+      "vous": "assembliez",
+      "ils": "assemblaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais assemblé",
+      "tu": "avais assemblé",
+      "il": "avait assemblé",
+      "nous": "avions assemblé",
+      "vous": "aviez assemblé",
+      "ils": "avaient assemblé"
+    },
+    "passé_simple": {
+      "je": "assemblai",
+      "tu": "assemblas",
+      "il": "assembla",
+      "nous": "assemblâmes",
+      "vous": "assemblâtes",
+      "ils": "assemblèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus assemblé",
+      "tu": "eus assemblé",
+      "il": "eut assemblé",
+      "nous": "eûmes assemblé",
+      "vous": "eûtes assemblé",
+      "ils": "eurent assemblé"
+    },
+    "futur_simple": {
+      "je": "assemblerai",
+      "tu": "assembleras",
+      "il": "assemblera",
+      "nous": "assemblerons",
+      "vous": "assemblerez",
+      "ils": "assembleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai assemblé",
+      "tu": "auras assemblé",
+      "il": "aura assemblé",
+      "nous": "aurons assemblé",
+      "vous": "aurez assemblé",
+      "ils": "auront assemblé"
+    },
+    "subjonctif_présent": {
+      "je": "assemble",
+      "tu": "assembles",
+      "il": "assemble",
+      "nous": "assemblions",
+      "vous": "assembliez",
+      "ils": "assemblent"
+    },
+    "subjonctif_passé": {
+      "je": "aie assemblé",
+      "tu": "aies assemblé",
+      "il": "ait assemblé",
+      "nous": "ayons assemblé",
+      "vous": "ayez assemblé",
+      "ils": "aient assemblé"
+    },
+    "subjonctif_imparfait": {
+      "je": "assemblasse",
+      "tu": "assemblasses",
+      "il": "assemblât",
+      "nous": "assemblassions",
+      "vous": "assemblassiez",
+      "ils": "assemblassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse assemblé",
+      "tu": "eusses assemblé",
+      "il": "eût assemblé",
+      "nous": "eussions assemblé",
+      "vous": "eussiez assemblé",
+      "ils": "eussent assemblé"
+    },
+    "conditionnel_présent": {
+      "je": "assemblerais",
+      "tu": "assemblerais",
+      "il": "assemblerait",
+      "nous": "assemblerions",
+      "vous": "assembleriez",
+      "ils": "assembleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais assemblé",
+      "tu": "aurais assemblé",
+      "il": "aurait assemblé",
+      "nous": "aurions assemblé",
+      "vous": "auriez assemblé",
+      "ils": "auraient assemblé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse assemblé",
+      "tu": "eusses assemblé",
+      "il": "eût assemblé",
+      "nous": "eussions assemblé",
+      "vous": "eussiez assemblé",
+      "ils": "eussent assemblé"
+    },
+    "translation": "łączyć",
+    "group": 1
+  },
+  {
+    "infinitive": "assener",
+    "présent": {
+      "je": "assène",
+      "tu": "assènes",
+      "il": "assène",
+      "nous": "assenons",
+      "vous": "assenez",
+      "ils": "assènent"
+    },
+    "passé_composé": {
+      "je": "ai assené",
+      "tu": "as assené",
+      "il": "a assené",
+      "nous": "avons assené",
+      "vous": "avez assené",
+      "ils": "ont assené"
+    },
+    "imparfait": {
+      "je": "assenais",
+      "tu": "assenais",
+      "il": "assenait",
+      "nous": "assenions",
+      "vous": "asseniez",
+      "ils": "assenaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais assené",
+      "tu": "avais assené",
+      "il": "avait assené",
+      "nous": "avions assené",
+      "vous": "aviez assené",
+      "ils": "avaient assené"
+    },
+    "passé_simple": {
+      "je": "assenai",
+      "tu": "assenas",
+      "il": "assena",
+      "nous": "assenâmes",
+      "vous": "assenâtes",
+      "ils": "assenèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus assené",
+      "tu": "eus assené",
+      "il": "eut assené",
+      "nous": "eûmes assené",
+      "vous": "eûtes assené",
+      "ils": "eurent assené"
+    },
+    "futur_simple": {
+      "je": "assènerai",
+      "tu": "assèneras",
+      "il": "assènera",
+      "nous": "assènerons",
+      "vous": "assènerez",
+      "ils": "assèneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai assené",
+      "tu": "auras assené",
+      "il": "aura assené",
+      "nous": "aurons assené",
+      "vous": "aurez assené",
+      "ils": "auront assené"
+    },
+    "subjonctif_présent": {
+      "je": "assène",
+      "tu": "assènes",
+      "il": "assène",
+      "nous": "assenions",
+      "vous": "asseniez",
+      "ils": "assènent"
+    },
+    "subjonctif_passé": {
+      "je": "aie assené",
+      "tu": "aies assené",
+      "il": "ait assené",
+      "nous": "ayons assené",
+      "vous": "ayez assené",
+      "ils": "aient assené"
+    },
+    "subjonctif_imparfait": {
+      "je": "assenasse",
+      "tu": "assenasses",
+      "il": "assenât",
+      "nous": "assenassions",
+      "vous": "assenassiez",
+      "ils": "assenassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse assené",
+      "tu": "eusses assené",
+      "il": "eût assené",
+      "nous": "eussions assené",
+      "vous": "eussiez assené",
+      "ils": "eussent assené"
+    },
+    "conditionnel_présent": {
+      "je": "assènerais",
+      "tu": "assènerais",
+      "il": "assènerait",
+      "nous": "assènerions",
+      "vous": "assèneriez",
+      "ils": "assèneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais assené",
+      "tu": "aurais assené",
+      "il": "aurait assené",
+      "nous": "aurions assené",
+      "vous": "auriez assené",
+      "ils": "auraient assené"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse assené",
+      "tu": "eusses assené",
+      "il": "eût assené",
+      "nous": "eussions assené",
+      "vous": "eussiez assené",
+      "ils": "eussent assené"
+    },
+    "translation": "wyznaczać",
+    "group": 1
+  },
+  {
+    "infinitive": "asséner",
+    "présent": {
+      "je": "assène",
+      "tu": "assènes",
+      "il": "assène",
+      "nous": "assenons",
+      "vous": "assenez",
+      "ils": "assènent"
+    },
+    "passé_composé": {
+      "je": "ai assené",
+      "tu": "as assené",
+      "il": "a assené",
+      "nous": "avons assené",
+      "vous": "avez assené",
+      "ils": "ont assené"
+    },
+    "imparfait": {
+      "je": "assenais",
+      "tu": "assenais",
+      "il": "assenait",
+      "nous": "assenions",
+      "vous": "asseniez",
+      "ils": "assenaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais assené",
+      "tu": "avais assené",
+      "il": "avait assené",
+      "nous": "avions assené",
+      "vous": "aviez assené",
+      "ils": "avaient assené"
+    },
+    "passé_simple": {
+      "je": "assenai",
+      "tu": "assenas",
+      "il": "assena",
+      "nous": "assenâmes",
+      "vous": "assenâtes",
+      "ils": "assenèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus assené",
+      "tu": "eus assené",
+      "il": "eut assené",
+      "nous": "eûmes assené",
+      "vous": "eûtes assené",
+      "ils": "eurent assené"
+    },
+    "futur_simple": {
+      "je": "assènerai",
+      "tu": "assèneras",
+      "il": "assènera",
+      "nous": "assènerons",
+      "vous": "assènerez",
+      "ils": "assèneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai assené",
+      "tu": "auras assené",
+      "il": "aura assené",
+      "nous": "aurons assené",
+      "vous": "aurez assené",
+      "ils": "auront assené"
+    },
+    "subjonctif_présent": {
+      "je": "assène",
+      "tu": "assènes",
+      "il": "assène",
+      "nous": "assenions",
+      "vous": "asseniez",
+      "ils": "assènent"
+    },
+    "subjonctif_passé": {
+      "je": "aie assené",
+      "tu": "aies assené",
+      "il": "ait assené",
+      "nous": "ayons assené",
+      "vous": "ayez assené",
+      "ils": "aient assené"
+    },
+    "subjonctif_imparfait": {
+      "je": "assenasse",
+      "tu": "assenasses",
+      "il": "assenât",
+      "nous": "assenassions",
+      "vous": "assenassiez",
+      "ils": "assenassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse assené",
+      "tu": "eusses assené",
+      "il": "eût assené",
+      "nous": "eussions assené",
+      "vous": "eussiez assené",
+      "ils": "eussent assené"
+    },
+    "conditionnel_présent": {
+      "je": "assènerais",
+      "tu": "assènerais",
+      "il": "assènerait",
+      "nous": "assènerions",
+      "vous": "assèneriez",
+      "ils": "assèneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais assené",
+      "tu": "aurais assené",
+      "il": "aurait assené",
+      "nous": "aurions assené",
+      "vous": "auriez assené",
+      "ils": "auraient assené"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse assené",
+      "tu": "eusses assené",
+      "il": "eût assené",
+      "nous": "eussions assené",
+      "vous": "eussiez assené",
+      "ils": "eussent assené"
+    },
+    "translation": "wyznaczać",
+    "group": 1
+  },
+  {
+    "infinitive": "asseoir",
+    "présent": {
+      "je": "assois",
+      "tu": "assois",
+      "il": "assoit",
+      "nous": "assoyons",
+      "vous": "assoyez",
+      "ils": "assoient"
+    },
+    "passé_composé": {
+      "je": "ai assis",
+      "tu": "as assis",
+      "il": "a assis",
+      "nous": "avons assis",
+      "vous": "avez assis",
+      "ils": "ont assis"
+    },
+    "imparfait": {
+      "je": "assoyais",
+      "tu": "assoyais",
+      "il": "assoyait",
+      "nous": "assoyions",
+      "vous": "assoyiez",
+      "ils": "assoyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais assis",
+      "tu": "avais assis",
+      "il": "avait assis",
+      "nous": "avions assis",
+      "vous": "aviez assis",
+      "ils": "avaient assis"
+    },
+    "passé_simple": {
+      "je": "assis",
+      "tu": "assis",
+      "il": "assit",
+      "nous": "assîmes",
+      "vous": "assîtes",
+      "ils": "assirent"
+    },
+    "passé_antérieur": {
+      "je": "eus assis",
+      "tu": "eus assis",
+      "il": "eut assis",
+      "nous": "eûmes assis",
+      "vous": "eûtes assis",
+      "ils": "eurent assis"
+    },
+    "futur_simple": {
+      "je": "assoirai",
+      "tu": "assoiras",
+      "il": "assoira",
+      "nous": "assoirons",
+      "vous": "assoirez",
+      "ils": "assoiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai assis",
+      "tu": "auras assis",
+      "il": "aura assis",
+      "nous": "aurons assis",
+      "vous": "aurez assis",
+      "ils": "auront assis"
+    },
+    "subjonctif_présent": {
+      "je": "assoie",
+      "tu": "assoies",
+      "il": "assoie",
+      "nous": "assoyions",
+      "vous": "assoyiez",
+      "ils": "assoient"
+    },
+    "subjonctif_passé": {
+      "je": "aie assis",
+      "tu": "aies assis",
+      "il": "ait assis",
+      "nous": "ayons assis",
+      "vous": "ayez assis",
+      "ils": "aient assis"
+    },
+    "subjonctif_imparfait": {
+      "je": "assisse",
+      "tu": "assisses",
+      "il": "assît",
+      "nous": "assissions",
+      "vous": "assissiez",
+      "ils": "assissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse assis",
+      "tu": "eusses assis",
+      "il": "eût assis",
+      "nous": "eussions assis",
+      "vous": "eussiez assis",
+      "ils": "eussent assis"
+    },
+    "conditionnel_présent": {
+      "je": "assoirais",
+      "tu": "assoirais",
+      "il": "assoirait",
+      "nous": "assoirions",
+      "vous": "assoiriez",
+      "ils": "assoiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais assis",
+      "tu": "aurais assis",
+      "il": "aurait assis",
+      "nous": "aurions assis",
+      "vous": "auriez assis",
+      "ils": "auraient assis"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse assis",
+      "tu": "eusses assis",
+      "il": "eût assis",
+      "nous": "eussions assis",
+      "vous": "eussiez assis",
+      "ils": "eussent assis"
+    },
+    "translation": "posadzić",
+    "group": 3
+  },
+  {
+    "infinitive": "asservir",
+    "présent": {
+      "je": "asservis",
+      "tu": "asservis",
+      "il": "asservit",
+      "nous": "asservissons",
+      "vous": "asservissez",
+      "ils": "asservissent"
+    },
+    "passé_composé": {
+      "je": "ai asservi",
+      "tu": "as asservi",
+      "il": "a asservi",
+      "nous": "avons asservi",
+      "vous": "avez asservi",
+      "ils": "ont asservi"
+    },
+    "imparfait": {
+      "je": "asservissais",
+      "tu": "asservissais",
+      "il": "asservissait",
+      "nous": "asservissions",
+      "vous": "asservissiez",
+      "ils": "asservissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais asservi",
+      "tu": "avais asservi",
+      "il": "avait asservi",
+      "nous": "avions asservi",
+      "vous": "aviez asservi",
+      "ils": "avaient asservi"
+    },
+    "passé_simple": {
+      "je": "asservis",
+      "tu": "asservis",
+      "il": "asservit",
+      "nous": "asservîmes",
+      "vous": "asservîtes",
+      "ils": "asservirent"
+    },
+    "passé_antérieur": {
+      "je": "eus asservi",
+      "tu": "eus asservi",
+      "il": "eut asservi",
+      "nous": "eûmes asservi",
+      "vous": "eûtes asservi",
+      "ils": "eurent asservi"
+    },
+    "futur_simple": {
+      "je": "asservirai",
+      "tu": "asserviras",
+      "il": "asservira",
+      "nous": "asservirons",
+      "vous": "asservirez",
+      "ils": "asserviront"
+    },
+    "futur_antérieur": {
+      "je": "aurai asservi",
+      "tu": "auras asservi",
+      "il": "aura asservi",
+      "nous": "aurons asservi",
+      "vous": "aurez asservi",
+      "ils": "auront asservi"
+    },
+    "subjonctif_présent": {
+      "je": "asservisse",
+      "tu": "asservisses",
+      "il": "asservisse",
+      "nous": "asservissions",
+      "vous": "asservissiez",
+      "ils": "asservissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie asservi",
+      "tu": "aies asservi",
+      "il": "ait asservi",
+      "nous": "ayons asservi",
+      "vous": "ayez asservi",
+      "ils": "aient asservi"
+    },
+    "subjonctif_imparfait": {
+      "je": "asservisse",
+      "tu": "asservisses",
+      "il": "asservît",
+      "nous": "asservissions",
+      "vous": "asservissiez",
+      "ils": "asservissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse asservi",
+      "tu": "eusses asservi",
+      "il": "eût asservi",
+      "nous": "eussions asservi",
+      "vous": "eussiez asservi",
+      "ils": "eussent asservi"
+    },
+    "conditionnel_présent": {
+      "je": "asservirais",
+      "tu": "asservirais",
+      "il": "asservirait",
+      "nous": "asservirions",
+      "vous": "asserviriez",
+      "ils": "asserviraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais asservi",
+      "tu": "aurais asservi",
+      "il": "aurait asservi",
+      "nous": "aurions asservi",
+      "vous": "auriez asservi",
+      "ils": "auraient asservi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse asservi",
+      "tu": "eusses asservi",
+      "il": "eût asservi",
+      "nous": "eussions asservi",
+      "vous": "eussiez asservi",
+      "ils": "eussent asservi"
+    },
+    "translation": "podbijać",
+    "group": 2
+  },
+  {
+    "infinitive": "assiéger",
+    "présent": {
+      "je": "assiège",
+      "tu": "assièges",
+      "il": "assiège",
+      "nous": "assiégeons",
+      "vous": "assiégez",
+      "ils": "assiègent"
+    },
+    "passé_composé": {
+      "je": "ai assiégé",
+      "tu": "as assiégé",
+      "il": "a assiégé",
+      "nous": "avons assiégé",
+      "vous": "avez assiégé",
+      "ils": "ont assiégé"
+    },
+    "imparfait": {
+      "je": "assiégeais",
+      "tu": "assiégeais",
+      "il": "assiégeait",
+      "nous": "assiégions",
+      "vous": "assiégiez",
+      "ils": "assiégeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais assiégé",
+      "tu": "avais assiégé",
+      "il": "avait assiégé",
+      "nous": "avions assiégé",
+      "vous": "aviez assiégé",
+      "ils": "avaient assiégé"
+    },
+    "passé_simple": {
+      "je": "assiégeai",
+      "tu": "assiégeas",
+      "il": "assiégea",
+      "nous": "assiégeâmes",
+      "vous": "assiégeâtes",
+      "ils": "assiégèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus assiégé",
+      "tu": "eus assiégé",
+      "il": "eut assiégé",
+      "nous": "eûmes assiégé",
+      "vous": "eûtes assiégé",
+      "ils": "eurent assiégé"
+    },
+    "futur_simple": {
+      "je": "assiégerai",
+      "tu": "assiégeras",
+      "il": "assiégera",
+      "nous": "assiégerons",
+      "vous": "assiégerez",
+      "ils": "assiégeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai assiégé",
+      "tu": "auras assiégé",
+      "il": "aura assiégé",
+      "nous": "aurons assiégé",
+      "vous": "aurez assiégé",
+      "ils": "auront assiégé"
+    },
+    "subjonctif_présent": {
+      "je": "assiège",
+      "tu": "assièges",
+      "il": "assiège",
+      "nous": "assiégions",
+      "vous": "assiégiez",
+      "ils": "assiègent"
+    },
+    "subjonctif_passé": {
+      "je": "aie assiégé",
+      "tu": "aies assiégé",
+      "il": "ait assiégé",
+      "nous": "ayons assiégé",
+      "vous": "ayez assiégé",
+      "ils": "aient assiégé"
+    },
+    "subjonctif_imparfait": {
+      "je": "assiégeasse",
+      "tu": "assiégeasses",
+      "il": "assiégeât",
+      "nous": "assiégeassions",
+      "vous": "assiégeassiez",
+      "ils": "assiégeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse assiégé",
+      "tu": "eusses assiégé",
+      "il": "eût assiégé",
+      "nous": "eussions assiégé",
+      "vous": "eussiez assiégé",
+      "ils": "eussent assiégé"
+    },
+    "conditionnel_présent": {
+      "je": "assiégerais",
+      "tu": "assiégerais",
+      "il": "assiégerait",
+      "nous": "assiégerions",
+      "vous": "assiégeriez",
+      "ils": "assiégeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais assiégé",
+      "tu": "aurais assiégé",
+      "il": "aurait assiégé",
+      "nous": "aurions assiégé",
+      "vous": "auriez assiégé",
+      "ils": "auraient assiégé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse assiégé",
+      "tu": "eusses assiégé",
+      "il": "eût assiégé",
+      "nous": "eussions assiégé",
+      "vous": "eussiez assiégé",
+      "ils": "eussent assiégé"
+    },
+    "translation": "oblegać",
+    "group": 1
+  },
+  {
+    "infinitive": "assimiler",
+    "présent": {
+      "je": "assimile",
+      "tu": "assimiles",
+      "il": "assimile",
+      "nous": "assimilons",
+      "vous": "assimilez",
+      "ils": "assimilent"
+    },
+    "passé_composé": {
+      "je": "ai assimilé",
+      "tu": "as assimilé",
+      "il": "a assimilé",
+      "nous": "avons assimilé",
+      "vous": "avez assimilé",
+      "ils": "ont assimilé"
+    },
+    "imparfait": {
+      "je": "assimilais",
+      "tu": "assimilais",
+      "il": "assimilait",
+      "nous": "assimilions",
+      "vous": "assimiliez",
+      "ils": "assimilaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais assimilé",
+      "tu": "avais assimilé",
+      "il": "avait assimilé",
+      "nous": "avions assimilé",
+      "vous": "aviez assimilé",
+      "ils": "avaient assimilé"
+    },
+    "passé_simple": {
+      "je": "assimilai",
+      "tu": "assimilas",
+      "il": "assimila",
+      "nous": "assimilâmes",
+      "vous": "assimilâtes",
+      "ils": "assimilèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus assimilé",
+      "tu": "eus assimilé",
+      "il": "eut assimilé",
+      "nous": "eûmes assimilé",
+      "vous": "eûtes assimilé",
+      "ils": "eurent assimilé"
+    },
+    "futur_simple": {
+      "je": "assimilerai",
+      "tu": "assimileras",
+      "il": "assimilera",
+      "nous": "assimilerons",
+      "vous": "assimilerez",
+      "ils": "assimileront"
+    },
+    "futur_antérieur": {
+      "je": "aurai assimilé",
+      "tu": "auras assimilé",
+      "il": "aura assimilé",
+      "nous": "aurons assimilé",
+      "vous": "aurez assimilé",
+      "ils": "auront assimilé"
+    },
+    "subjonctif_présent": {
+      "je": "assimile",
+      "tu": "assimiles",
+      "il": "assimile",
+      "nous": "assimilions",
+      "vous": "assimiliez",
+      "ils": "assimilent"
+    },
+    "subjonctif_passé": {
+      "je": "aie assimilé",
+      "tu": "aies assimilé",
+      "il": "ait assimilé",
+      "nous": "ayons assimilé",
+      "vous": "ayez assimilé",
+      "ils": "aient assimilé"
+    },
+    "subjonctif_imparfait": {
+      "je": "assimilasse",
+      "tu": "assimilasses",
+      "il": "assimilât",
+      "nous": "assimilassions",
+      "vous": "assimilassiez",
+      "ils": "assimilassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse assimilé",
+      "tu": "eusses assimilé",
+      "il": "eût assimilé",
+      "nous": "eussions assimilé",
+      "vous": "eussiez assimilé",
+      "ils": "eussent assimilé"
+    },
+    "conditionnel_présent": {
+      "je": "assimilerais",
+      "tu": "assimilerais",
+      "il": "assimilerait",
+      "nous": "assimilerions",
+      "vous": "assimileriez",
+      "ils": "assimileraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais assimilé",
+      "tu": "aurais assimilé",
+      "il": "aurait assimilé",
+      "nous": "aurions assimilé",
+      "vous": "auriez assimilé",
+      "ils": "auraient assimilé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse assimilé",
+      "tu": "eusses assimilé",
+      "il": "eût assimilé",
+      "nous": "eussions assimilé",
+      "vous": "eussiez assimilé",
+      "ils": "eussent assimilé"
+    },
+    "translation": "łączyć",
+    "group": 1
+  },
+  {
+    "infinitive": "assister",
+    "présent": {
+      "je": "assiste",
+      "tu": "assistes",
+      "il": "assiste",
+      "nous": "assistons",
+      "vous": "assistez",
+      "ils": "assistent"
+    },
+    "passé_composé": {
+      "je": "ai assisté",
+      "tu": "as assisté",
+      "il": "a assisté",
+      "nous": "avons assisté",
+      "vous": "avez assisté",
+      "ils": "ont assisté"
+    },
+    "imparfait": {
+      "je": "assistais",
+      "tu": "assistais",
+      "il": "assistait",
+      "nous": "assistions",
+      "vous": "assistiez",
+      "ils": "assistaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais assisté",
+      "tu": "avais assisté",
+      "il": "avait assisté",
+      "nous": "avions assisté",
+      "vous": "aviez assisté",
+      "ils": "avaient assisté"
+    },
+    "passé_simple": {
+      "je": "assistai",
+      "tu": "assistas",
+      "il": "assista",
+      "nous": "assistâmes",
+      "vous": "assistâtes",
+      "ils": "assistèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus assisté",
+      "tu": "eus assisté",
+      "il": "eut assisté",
+      "nous": "eûmes assisté",
+      "vous": "eûtes assisté",
+      "ils": "eurent assisté"
+    },
+    "futur_simple": {
+      "je": "assisterai",
+      "tu": "assisteras",
+      "il": "assistera",
+      "nous": "assisterons",
+      "vous": "assisterez",
+      "ils": "assisteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai assisté",
+      "tu": "auras assisté",
+      "il": "aura assisté",
+      "nous": "aurons assisté",
+      "vous": "aurez assisté",
+      "ils": "auront assisté"
+    },
+    "subjonctif_présent": {
+      "je": "assiste",
+      "tu": "assistes",
+      "il": "assiste",
+      "nous": "assistions",
+      "vous": "assistiez",
+      "ils": "assistent"
+    },
+    "subjonctif_passé": {
+      "je": "aie assisté",
+      "tu": "aies assisté",
+      "il": "ait assisté",
+      "nous": "ayons assisté",
+      "vous": "ayez assisté",
+      "ils": "aient assisté"
+    },
+    "subjonctif_imparfait": {
+      "je": "assistasse",
+      "tu": "assistasses",
+      "il": "assistât",
+      "nous": "assistassions",
+      "vous": "assistassiez",
+      "ils": "assistassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse assisté",
+      "tu": "eusses assisté",
+      "il": "eût assisté",
+      "nous": "eussions assisté",
+      "vous": "eussiez assisté",
+      "ils": "eussent assisté"
+    },
+    "conditionnel_présent": {
+      "je": "assisterais",
+      "tu": "assisterais",
+      "il": "assisterait",
+      "nous": "assisterions",
+      "vous": "assisteriez",
+      "ils": "assisteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais assisté",
+      "tu": "aurais assisté",
+      "il": "aurait assisté",
+      "nous": "aurions assisté",
+      "vous": "auriez assisté",
+      "ils": "auraient assisté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse assisté",
+      "tu": "eusses assisté",
+      "il": "eût assisté",
+      "nous": "eussions assisté",
+      "vous": "eussiez assisté",
+      "ils": "eussent assisté"
+    },
+    "translation": "brać",
+    "group": 1
+  }
+]

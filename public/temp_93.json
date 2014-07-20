@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "exprimer",
+    "présent": {
+      "je": "exprime",
+      "tu": "exprimes",
+      "il": "exprime",
+      "nous": "exprimons",
+      "vous": "exprimez",
+      "ils": "expriment"
+    },
+    "passé_composé": {
+      "je": "ai exprimé",
+      "tu": "as exprimé",
+      "il": "a exprimé",
+      "nous": "avons exprimé",
+      "vous": "avez exprimé",
+      "ils": "ont exprimé"
+    },
+    "imparfait": {
+      "je": "exprimais",
+      "tu": "exprimais",
+      "il": "exprimait",
+      "nous": "exprimions",
+      "vous": "exprimiez",
+      "ils": "exprimaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais exprimé",
+      "tu": "avais exprimé",
+      "il": "avait exprimé",
+      "nous": "avions exprimé",
+      "vous": "aviez exprimé",
+      "ils": "avaient exprimé"
+    },
+    "passé_simple": {
+      "je": "exprimai",
+      "tu": "exprimas",
+      "il": "exprima",
+      "nous": "exprimâmes",
+      "vous": "exprimâtes",
+      "ils": "exprimèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus exprimé",
+      "tu": "eus exprimé",
+      "il": "eut exprimé",
+      "nous": "eûmes exprimé",
+      "vous": "eûtes exprimé",
+      "ils": "eurent exprimé"
+    },
+    "futur_simple": {
+      "je": "exprimerai",
+      "tu": "exprimeras",
+      "il": "exprimera",
+      "nous": "exprimerons",
+      "vous": "exprimerez",
+      "ils": "exprimeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai exprimé",
+      "tu": "auras exprimé",
+      "il": "aura exprimé",
+      "nous": "aurons exprimé",
+      "vous": "aurez exprimé",
+      "ils": "auront exprimé"
+    },
+    "subjonctif_présent": {
+      "je": "exprime",
+      "tu": "exprimes",
+      "il": "exprime",
+      "nous": "exprimions",
+      "vous": "exprimiez",
+      "ils": "expriment"
+    },
+    "subjonctif_passé": {
+      "je": "aie exprimé",
+      "tu": "aies exprimé",
+      "il": "ait exprimé",
+      "nous": "ayons exprimé",
+      "vous": "ayez exprimé",
+      "ils": "aient exprimé"
+    },
+    "subjonctif_imparfait": {
+      "je": "exprimasse",
+      "tu": "exprimasses",
+      "il": "exprimât",
+      "nous": "exprimassions",
+      "vous": "exprimassiez",
+      "ils": "exprimassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse exprimé",
+      "tu": "eusses exprimé",
+      "il": "eût exprimé",
+      "nous": "eussions exprimé",
+      "vous": "eussiez exprimé",
+      "ils": "eussent exprimé"
+    },
+    "conditionnel_présent": {
+      "je": "exprimerais",
+      "tu": "exprimerais",
+      "il": "exprimerait",
+      "nous": "exprimerions",
+      "vous": "exprimeriez",
+      "ils": "exprimeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais exprimé",
+      "tu": "aurais exprimé",
+      "il": "aurait exprimé",
+      "nous": "aurions exprimé",
+      "vous": "auriez exprimé",
+      "ils": "auraient exprimé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse exprimé",
+      "tu": "eusses exprimé",
+      "il": "eût exprimé",
+      "nous": "eussions exprimé",
+      "vous": "eussiez exprimé",
+      "ils": "eussent exprimé"
+    },
+    "translation": "wyrażać",
+    "group": 1
+  },
+  {
+    "infinitive": "extasier",
+    "présent": {
+      "je": "extasie",
+      "tu": "extasies",
+      "il": "extasie",
+      "nous": "nous extasions",
+      "vous": "vous extasiez",
+      "ils": "extasient"
+    },
+    "passé_composé": {
+      "je": "me suis extasié",
+      "tu": "es extasié",
+      "il": "est extasié",
+      "nous": "nous sommes extasiés",
+      "vous": "vous êtes extasiés",
+      "ils": "se sont extasiés"
+    },
+    "imparfait": {
+      "je": "extasiais",
+      "tu": "extasiais",
+      "il": "extasiait",
+      "nous": "nous extasiions",
+      "vous": "vous extasiiez",
+      "ils": "extasiaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais extasié",
+      "tu": "étais extasié",
+      "il": "était extasié",
+      "nous": "nous étions extasiés",
+      "vous": "vous étiez extasiés",
+      "ils": "étaient extasiés"
+    },
+    "passé_simple": {
+      "je": "extasiai",
+      "tu": "extasias",
+      "il": "extasia",
+      "nous": "nous extasiâmes",
+      "vous": "vous extasiâtes",
+      "ils": "extasièrent"
+    },
+    "passé_antérieur": {
+      "je": "me fus extasié",
+      "tu": "te fus extasié",
+      "il": "se fut extasié",
+      "nous": "nous fûmes extasiés",
+      "vous": "vous fûtes extasiés",
+      "ils": "se furent extasiés"
+    },
+    "futur_simple": {
+      "je": "extasierai",
+      "tu": "extasieras",
+      "il": "extasiera",
+      "nous": "nous extasierons",
+      "vous": "vous extasierez",
+      "ils": "extasieront"
+    },
+    "futur_antérieur": {
+      "je": "me serai extasié",
+      "tu": "te seras extasié",
+      "il": "se sera extasié",
+      "nous": "nous serons extasiés",
+      "vous": "vous serez extasiés",
+      "ils": "se seront extasiés"
+    },
+    "subjonctif_présent": {
+      "je": "extasie",
+      "tu": "extasies",
+      "il": "extasie",
+      "nous": "nous extasiions",
+      "vous": "vous extasiiez",
+      "ils": "extasient"
+    },
+    "subjonctif_passé": {
+      "je": "me sois extasié",
+      "tu": "te sois extasié",
+      "il": "se soit extasié",
+      "nous": "nous soyons extasiés",
+      "vous": "vous soyez extasiés",
+      "ils": "se soient extasiés"
+    },
+    "subjonctif_imparfait": {
+      "je": "extasiasse",
+      "tu": "extasiasses",
+      "il": "extasiât",
+      "nous": "nous extasiassions",
+      "vous": "vous extasiassiez",
+      "ils": "extasiassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse extasié",
+      "tu": "te fusses extasié",
+      "il": "se fût extasié",
+      "nous": "nous fussions extasiés",
+      "vous": "vous fussiez extasiés",
+      "ils": "se fussent extasiés"
+    },
+    "conditionnel_présent": {
+      "je": "extasierais",
+      "tu": "extasierais",
+      "il": "extasierait",
+      "nous": "nous extasierions",
+      "vous": "vous extasieriez",
+      "ils": "extasieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais extasié",
+      "tu": "te serais extasié",
+      "il": "se serait extasié",
+      "nous": "nous serions extasiés",
+      "vous": "vous seriez extasiés",
+      "ils": "se seraient extasiés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse extasié",
+      "tu": "te fusses extasié",
+      "il": "se fût extasié",
+      "nous": "nous fussions extasiés",
+      "vous": "vous fussiez extasiés",
+      "ils": "se fussent extasiés"
+    },
+    "translation": "część",
+    "group": 1
+  },
+  {
+    "infinitive": "extraire",
+    "présent": {
+      "je": "extrais",
+      "tu": "extrais",
+      "il": "extrait",
+      "nous": "extrayons",
+      "vous": "extrayez",
+      "ils": "extraient"
+    },
+    "passé_composé": {
+      "je": "ai extrait",
+      "tu": "as extrait",
+      "il": "a extrait",
+      "nous": "avons extrait",
+      "vous": "avez extrait",
+      "ils": "ont extrait"
+    },
+    "imparfait": {
+      "je": "extrayais",
+      "tu": "extrayais",
+      "il": "extrayait",
+      "nous": "extrayions",
+      "vous": "extrayiez",
+      "ils": "extrayaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais extrait",
+      "tu": "avais extrait",
+      "il": "avait extrait",
+      "nous": "avions extrait",
+      "vous": "aviez extrait",
+      "ils": "avaient extrait"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "eus extrait",
+      "tu": "eus extrait",
+      "il": "eut extrait",
+      "nous": "eûmes extrait",
+      "vous": "eûtes extrait",
+      "ils": "eurent extrait"
+    },
+    "futur_simple": {
+      "je": "extrairai",
+      "tu": "extrairas",
+      "il": "extraira",
+      "nous": "extrairons",
+      "vous": "extrairez",
+      "ils": "extrairont"
+    },
+    "futur_antérieur": {
+      "je": "aurai extrait",
+      "tu": "auras extrait",
+      "il": "aura extrait",
+      "nous": "aurons extrait",
+      "vous": "aurez extrait",
+      "ils": "auront extrait"
+    },
+    "subjonctif_présent": {
+      "je": "extraie",
+      "tu": "extraies",
+      "il": "extraie",
+      "nous": "extrayions",
+      "vous": "extrayiez",
+      "ils": "extraient"
+    },
+    "subjonctif_passé": {
+      "je": "aie extrait",
+      "tu": "aies extrait",
+      "il": "ait extrait",
+      "nous": "ayons extrait",
+      "vous": "ayez extrait",
+      "ils": "aient extrait"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse extrait",
+      "tu": "eusses extrait",
+      "il": "eût extrait",
+      "nous": "eussions extrait",
+      "vous": "eussiez extrait",
+      "ils": "eussent extrait"
+    },
+    "conditionnel_présent": {
+      "je": "extrairais",
+      "tu": "extrairais",
+      "il": "extrairait",
+      "nous": "extrairions",
+      "vous": "extrairiez",
+      "ils": "extrairaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais extrait",
+      "tu": "aurais extrait",
+      "il": "aurait extrait",
+      "nous": "aurions extrait",
+      "vous": "auriez extrait",
+      "ils": "auraient extrait"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse extrait",
+      "tu": "eusses extrait",
+      "il": "eût extrait",
+      "nous": "eussions extrait",
+      "vous": "eussiez extrait",
+      "ils": "eussent extrait"
+    },
+    "translation": "wyciągać",
+    "group": 3
+  },
+  {
+    "infinitive": "fabriquer",
+    "présent": {
+      "je": "fabrique",
+      "tu": "fabriques",
+      "il": "fabrique",
+      "nous": "fabriquons",
+      "vous": "fabriquez",
+      "ils": "fabriquent"
+    },
+    "passé_composé": {
+      "je": "ai fabriqué",
+      "tu": "as fabriqué",
+      "il": "a fabriqué",
+      "nous": "avons fabriqué",
+      "vous": "avez fabriqué",
+      "ils": "ont fabriqué"
+    },
+    "imparfait": {
+      "je": "fabriquais",
+      "tu": "fabriquais",
+      "il": "fabriquait",
+      "nous": "fabriquions",
+      "vous": "fabriquiez",
+      "ils": "fabriquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais fabriqué",
+      "tu": "avais fabriqué",
+      "il": "avait fabriqué",
+      "nous": "avions fabriqué",
+      "vous": "aviez fabriqué",
+      "ils": "avaient fabriqué"
+    },
+    "passé_simple": {
+      "je": "fabriquai",
+      "tu": "fabriquas",
+      "il": "fabriqua",
+      "nous": "fabriquâmes",
+      "vous": "fabriquâtes",
+      "ils": "fabriquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus fabriqué",
+      "tu": "eus fabriqué",
+      "il": "eut fabriqué",
+      "nous": "eûmes fabriqué",
+      "vous": "eûtes fabriqué",
+      "ils": "eurent fabriqué"
+    },
+    "futur_simple": {
+      "je": "fabriquerai",
+      "tu": "fabriqueras",
+      "il": "fabriquera",
+      "nous": "fabriquerons",
+      "vous": "fabriquerez",
+      "ils": "fabriqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai fabriqué",
+      "tu": "auras fabriqué",
+      "il": "aura fabriqué",
+      "nous": "aurons fabriqué",
+      "vous": "aurez fabriqué",
+      "ils": "auront fabriqué"
+    },
+    "subjonctif_présent": {
+      "je": "fabrique",
+      "tu": "fabriques",
+      "il": "fabrique",
+      "nous": "fabriquions",
+      "vous": "fabriquiez",
+      "ils": "fabriquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie fabriqué",
+      "tu": "aies fabriqué",
+      "il": "ait fabriqué",
+      "nous": "ayons fabriqué",
+      "vous": "ayez fabriqué",
+      "ils": "aient fabriqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "fabriquasse",
+      "tu": "fabriquasses",
+      "il": "fabriquât",
+      "nous": "fabriquassions",
+      "vous": "fabriquassiez",
+      "ils": "fabriquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse fabriqué",
+      "tu": "eusses fabriqué",
+      "il": "eût fabriqué",
+      "nous": "eussions fabriqué",
+      "vous": "eussiez fabriqué",
+      "ils": "eussent fabriqué"
+    },
+    "conditionnel_présent": {
+      "je": "fabriquerais",
+      "tu": "fabriquerais",
+      "il": "fabriquerait",
+      "nous": "fabriquerions",
+      "vous": "fabriqueriez",
+      "ils": "fabriqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais fabriqué",
+      "tu": "aurais fabriqué",
+      "il": "aurait fabriqué",
+      "nous": "aurions fabriqué",
+      "vous": "auriez fabriqué",
+      "ils": "auraient fabriqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse fabriqué",
+      "tu": "eusses fabriqué",
+      "il": "eût fabriqué",
+      "nous": "eussions fabriqué",
+      "vous": "eussiez fabriqué",
+      "ils": "eussent fabriqué"
+    },
+    "translation": "produkować",
+    "group": 1
+  },
+  {
+    "infinitive": "fâcher",
+    "présent": {
+      "je": "fâche",
+      "tu": "fâches",
+      "il": "fâche",
+      "nous": "fâchons",
+      "vous": "fâchez",
+      "ils": "fâchent"
+    },
+    "passé_composé": {
+      "je": "ai fâché",
+      "tu": "as fâché",
+      "il": "a fâché",
+      "nous": "avons fâché",
+      "vous": "avez fâché",
+      "ils": "ont fâché"
+    },
+    "imparfait": {
+      "je": "fâchais",
+      "tu": "fâchais",
+      "il": "fâchait",
+      "nous": "fâchions",
+      "vous": "fâchiez",
+      "ils": "fâchaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais fâché",
+      "tu": "avais fâché",
+      "il": "avait fâché",
+      "nous": "avions fâché",
+      "vous": "aviez fâché",
+      "ils": "avaient fâché"
+    },
+    "passé_simple": {
+      "je": "fâchai",
+      "tu": "fâchas",
+      "il": "fâcha",
+      "nous": "fâchâmes",
+      "vous": "fâchâtes",
+      "ils": "fâchèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus fâché",
+      "tu": "eus fâché",
+      "il": "eut fâché",
+      "nous": "eûmes fâché",
+      "vous": "eûtes fâché",
+      "ils": "eurent fâché"
+    },
+    "futur_simple": {
+      "je": "fâcherai",
+      "tu": "fâcheras",
+      "il": "fâchera",
+      "nous": "fâcherons",
+      "vous": "fâcherez",
+      "ils": "fâcheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai fâché",
+      "tu": "auras fâché",
+      "il": "aura fâché",
+      "nous": "aurons fâché",
+      "vous": "aurez fâché",
+      "ils": "auront fâché"
+    },
+    "subjonctif_présent": {
+      "je": "fâche",
+      "tu": "fâches",
+      "il": "fâche",
+      "nous": "fâchions",
+      "vous": "fâchiez",
+      "ils": "fâchent"
+    },
+    "subjonctif_passé": {
+      "je": "aie fâché",
+      "tu": "aies fâché",
+      "il": "ait fâché",
+      "nous": "ayons fâché",
+      "vous": "ayez fâché",
+      "ils": "aient fâché"
+    },
+    "subjonctif_imparfait": {
+      "je": "fâchasse",
+      "tu": "fâchasses",
+      "il": "fâchât",
+      "nous": "fâchassions",
+      "vous": "fâchassiez",
+      "ils": "fâchassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse fâché",
+      "tu": "eusses fâché",
+      "il": "eût fâché",
+      "nous": "eussions fâché",
+      "vous": "eussiez fâché",
+      "ils": "eussent fâché"
+    },
+    "conditionnel_présent": {
+      "je": "fâcherais",
+      "tu": "fâcherais",
+      "il": "fâcherait",
+      "nous": "fâcherions",
+      "vous": "fâcheriez",
+      "ils": "fâcheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais fâché",
+      "tu": "aurais fâché",
+      "il": "aurait fâché",
+      "nous": "aurions fâché",
+      "vous": "auriez fâché",
+      "ils": "auraient fâché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse fâché",
+      "tu": "eusses fâché",
+      "il": "eût fâché",
+      "nous": "eussions fâché",
+      "vous": "eussiez fâché",
+      "ils": "eussent fâché"
+    },
+    "translation": "gniewać",
+    "group": 1
+  },
+  {
+    "infinitive": "faciliter",
+    "présent": {
+      "je": "facilite",
+      "tu": "facilites",
+      "il": "facilite",
+      "nous": "facilitons",
+      "vous": "facilitez",
+      "ils": "facilitent"
+    },
+    "passé_composé": {
+      "je": "ai facilité",
+      "tu": "as facilité",
+      "il": "a facilité",
+      "nous": "avons facilité",
+      "vous": "avez facilité",
+      "ils": "ont facilité"
+    },
+    "imparfait": {
+      "je": "facilitais",
+      "tu": "facilitais",
+      "il": "facilitait",
+      "nous": "facilitions",
+      "vous": "facilitiez",
+      "ils": "facilitaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais facilité",
+      "tu": "avais facilité",
+      "il": "avait facilité",
+      "nous": "avions facilité",
+      "vous": "aviez facilité",
+      "ils": "avaient facilité"
+    },
+    "passé_simple": {
+      "je": "facilitai",
+      "tu": "facilitas",
+      "il": "facilita",
+      "nous": "facilitâmes",
+      "vous": "facilitâtes",
+      "ils": "facilitèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus facilité",
+      "tu": "eus facilité",
+      "il": "eut facilité",
+      "nous": "eûmes facilité",
+      "vous": "eûtes facilité",
+      "ils": "eurent facilité"
+    },
+    "futur_simple": {
+      "je": "faciliterai",
+      "tu": "faciliteras",
+      "il": "facilitera",
+      "nous": "faciliterons",
+      "vous": "faciliterez",
+      "ils": "faciliteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai facilité",
+      "tu": "auras facilité",
+      "il": "aura facilité",
+      "nous": "aurons facilité",
+      "vous": "aurez facilité",
+      "ils": "auront facilité"
+    },
+    "subjonctif_présent": {
+      "je": "facilite",
+      "tu": "facilites",
+      "il": "facilite",
+      "nous": "facilitions",
+      "vous": "facilitiez",
+      "ils": "facilitent"
+    },
+    "subjonctif_passé": {
+      "je": "aie facilité",
+      "tu": "aies facilité",
+      "il": "ait facilité",
+      "nous": "ayons facilité",
+      "vous": "ayez facilité",
+      "ils": "aient facilité"
+    },
+    "subjonctif_imparfait": {
+      "je": "facilitasse",
+      "tu": "facilitasses",
+      "il": "facilitât",
+      "nous": "facilitassions",
+      "vous": "facilitassiez",
+      "ils": "facilitassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse facilité",
+      "tu": "eusses facilité",
+      "il": "eût facilité",
+      "nous": "eussions facilité",
+      "vous": "eussiez facilité",
+      "ils": "eussent facilité"
+    },
+    "conditionnel_présent": {
+      "je": "faciliterais",
+      "tu": "faciliterais",
+      "il": "faciliterait",
+      "nous": "faciliterions",
+      "vous": "faciliteriez",
+      "ils": "faciliteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais facilité",
+      "tu": "aurais facilité",
+      "il": "aurait facilité",
+      "nous": "aurions facilité",
+      "vous": "auriez facilité",
+      "ils": "auraient facilité"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse facilité",
+      "tu": "eusses facilité",
+      "il": "eût facilité",
+      "nous": "eussions facilité",
+      "vous": "eussiez facilité",
+      "ils": "eussent facilité"
+    },
+    "translation": "ułatwiać",
+    "group": 1
+  },
+  {
+    "infinitive": "façonner",
+    "présent": {
+      "je": "façonne",
+      "tu": "façonnes",
+      "il": "façonne",
+      "nous": "façonnons",
+      "vous": "façonnez",
+      "ils": "façonnent"
+    },
+    "passé_composé": {
+      "je": "ai façonné",
+      "tu": "as façonné",
+      "il": "a façonné",
+      "nous": "avons façonné",
+      "vous": "avez façonné",
+      "ils": "ont façonné"
+    },
+    "imparfait": {
+      "je": "façonnais",
+      "tu": "façonnais",
+      "il": "façonnait",
+      "nous": "façonnions",
+      "vous": "façonniez",
+      "ils": "façonnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais façonné",
+      "tu": "avais façonné",
+      "il": "avait façonné",
+      "nous": "avions façonné",
+      "vous": "aviez façonné",
+      "ils": "avaient façonné"
+    },
+    "passé_simple": {
+      "je": "façonnai",
+      "tu": "façonnas",
+      "il": "façonna",
+      "nous": "façonnâmes",
+      "vous": "façonnâtes",
+      "ils": "façonnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus façonné",
+      "tu": "eus façonné",
+      "il": "eut façonné",
+      "nous": "eûmes façonné",
+      "vous": "eûtes façonné",
+      "ils": "eurent façonné"
+    },
+    "futur_simple": {
+      "je": "façonnerai",
+      "tu": "façonneras",
+      "il": "façonnera",
+      "nous": "façonnerons",
+      "vous": "façonnerez",
+      "ils": "façonneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai façonné",
+      "tu": "auras façonné",
+      "il": "aura façonné",
+      "nous": "aurons façonné",
+      "vous": "aurez façonné",
+      "ils": "auront façonné"
+    },
+    "subjonctif_présent": {
+      "je": "façonne",
+      "tu": "façonnes",
+      "il": "façonne",
+      "nous": "façonnions",
+      "vous": "façonniez",
+      "ils": "façonnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie façonné",
+      "tu": "aies façonné",
+      "il": "ait façonné",
+      "nous": "ayons façonné",
+      "vous": "ayez façonné",
+      "ils": "aient façonné"
+    },
+    "subjonctif_imparfait": {
+      "je": "façonnasse",
+      "tu": "façonnasses",
+      "il": "façonnât",
+      "nous": "façonnassions",
+      "vous": "façonnassiez",
+      "ils": "façonnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse façonné",
+      "tu": "eusses façonné",
+      "il": "eût façonné",
+      "nous": "eussions façonné",
+      "vous": "eussiez façonné",
+      "ils": "eussent façonné"
+    },
+    "conditionnel_présent": {
+      "je": "façonnerais",
+      "tu": "façonnerais",
+      "il": "façonnerait",
+      "nous": "façonnerions",
+      "vous": "façonneriez",
+      "ils": "façonneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais façonné",
+      "tu": "aurais façonné",
+      "il": "aurait façonné",
+      "nous": "aurions façonné",
+      "vous": "auriez façonné",
+      "ils": "auraient façonné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse façonné",
+      "tu": "eusses façonné",
+      "il": "eût façonné",
+      "nous": "eussions façonné",
+      "vous": "eussiez façonné",
+      "ils": "eussent façonné"
+    },
+    "translation": "obrabiać",
+    "group": 1
+  },
+  {
+    "infinitive": "facturer",
+    "présent": {
+      "je": "facture",
+      "tu": "factures",
+      "il": "facture",
+      "nous": "facturons",
+      "vous": "facturez",
+      "ils": "facturent"
+    },
+    "passé_composé": {
+      "je": "ai facturé",
+      "tu": "as facturé",
+      "il": "a facturé",
+      "nous": "avons facturé",
+      "vous": "avez facturé",
+      "ils": "ont facturé"
+    },
+    "imparfait": {
+      "je": "facturais",
+      "tu": "facturais",
+      "il": "facturait",
+      "nous": "facturions",
+      "vous": "facturiez",
+      "ils": "facturaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais facturé",
+      "tu": "avais facturé",
+      "il": "avait facturé",
+      "nous": "avions facturé",
+      "vous": "aviez facturé",
+      "ils": "avaient facturé"
+    },
+    "passé_simple": {
+      "je": "facturai",
+      "tu": "facturas",
+      "il": "factura",
+      "nous": "facturâmes",
+      "vous": "facturâtes",
+      "ils": "facturèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus facturé",
+      "tu": "eus facturé",
+      "il": "eut facturé",
+      "nous": "eûmes facturé",
+      "vous": "eûtes facturé",
+      "ils": "eurent facturé"
+    },
+    "futur_simple": {
+      "je": "facturerai",
+      "tu": "factureras",
+      "il": "facturera",
+      "nous": "facturerons",
+      "vous": "facturerez",
+      "ils": "factureront"
+    },
+    "futur_antérieur": {
+      "je": "aurai facturé",
+      "tu": "auras facturé",
+      "il": "aura facturé",
+      "nous": "aurons facturé",
+      "vous": "aurez facturé",
+      "ils": "auront facturé"
+    },
+    "subjonctif_présent": {
+      "je": "facture",
+      "tu": "factures",
+      "il": "facture",
+      "nous": "facturions",
+      "vous": "facturiez",
+      "ils": "facturent"
+    },
+    "subjonctif_passé": {
+      "je": "aie facturé",
+      "tu": "aies facturé",
+      "il": "ait facturé",
+      "nous": "ayons facturé",
+      "vous": "ayez facturé",
+      "ils": "aient facturé"
+    },
+    "subjonctif_imparfait": {
+      "je": "facturasse",
+      "tu": "facturasses",
+      "il": "facturât",
+      "nous": "facturassions",
+      "vous": "facturassiez",
+      "ils": "facturassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse facturé",
+      "tu": "eusses facturé",
+      "il": "eût facturé",
+      "nous": "eussions facturé",
+      "vous": "eussiez facturé",
+      "ils": "eussent facturé"
+    },
+    "conditionnel_présent": {
+      "je": "facturerais",
+      "tu": "facturerais",
+      "il": "facturerait",
+      "nous": "facturerions",
+      "vous": "factureriez",
+      "ils": "factureraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais facturé",
+      "tu": "aurais facturé",
+      "il": "aurait facturé",
+      "nous": "aurions facturé",
+      "vous": "auriez facturé",
+      "ils": "auraient facturé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse facturé",
+      "tu": "eusses facturé",
+      "il": "eût facturé",
+      "nous": "eussions facturé",
+      "vous": "eussiez facturé",
+      "ils": "eussent facturé"
+    },
+    "translation": "wystawiać",
+    "group": 1
+  },
+  {
+    "infinitive": "fader",
+    "présent": {
+      "je": "fade",
+      "tu": "fades",
+      "il": "fade",
+      "nous": "fadons",
+      "vous": "fadez",
+      "ils": "fadent"
+    },
+    "passé_composé": {
+      "je": "ai fadé",
+      "tu": "as fadé",
+      "il": "a fadé",
+      "nous": "avons fadé",
+      "vous": "avez fadé",
+      "ils": "ont fadé"
+    },
+    "imparfait": {
+      "je": "fadais",
+      "tu": "fadais",
+      "il": "fadait",
+      "nous": "fadions",
+      "vous": "fadiez",
+      "ils": "fadaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais fadé",
+      "tu": "avais fadé",
+      "il": "avait fadé",
+      "nous": "avions fadé",
+      "vous": "aviez fadé",
+      "ils": "avaient fadé"
+    },
+    "passé_simple": {
+      "je": "fadai",
+      "tu": "fadas",
+      "il": "fada",
+      "nous": "fadâmes",
+      "vous": "fadâtes",
+      "ils": "fadèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus fadé",
+      "tu": "eus fadé",
+      "il": "eut fadé",
+      "nous": "eûmes fadé",
+      "vous": "eûtes fadé",
+      "ils": "eurent fadé"
+    },
+    "futur_simple": {
+      "je": "faderai",
+      "tu": "faderas",
+      "il": "fadera",
+      "nous": "faderons",
+      "vous": "faderez",
+      "ils": "faderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai fadé",
+      "tu": "auras fadé",
+      "il": "aura fadé",
+      "nous": "aurons fadé",
+      "vous": "aurez fadé",
+      "ils": "auront fadé"
+    },
+    "subjonctif_présent": {
+      "je": "fade",
+      "tu": "fades",
+      "il": "fade",
+      "nous": "fadions",
+      "vous": "fadiez",
+      "ils": "fadent"
+    },
+    "subjonctif_passé": {
+      "je": "aie fadé",
+      "tu": "aies fadé",
+      "il": "ait fadé",
+      "nous": "ayons fadé",
+      "vous": "ayez fadé",
+      "ils": "aient fadé"
+    },
+    "subjonctif_imparfait": {
+      "je": "fadasse",
+      "tu": "fadasses",
+      "il": "fadât",
+      "nous": "fadassions",
+      "vous": "fadassiez",
+      "ils": "fadassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse fadé",
+      "tu": "eusses fadé",
+      "il": "eût fadé",
+      "nous": "eussions fadé",
+      "vous": "eussiez fadé",
+      "ils": "eussent fadé"
+    },
+    "conditionnel_présent": {
+      "je": "faderais",
+      "tu": "faderais",
+      "il": "faderait",
+      "nous": "faderions",
+      "vous": "faderiez",
+      "ils": "faderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais fadé",
+      "tu": "aurais fadé",
+      "il": "aurait fadé",
+      "nous": "aurions fadé",
+      "vous": "auriez fadé",
+      "ils": "auraient fadé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse fadé",
+      "tu": "eusses fadé",
+      "il": "eût fadé",
+      "nous": "eussions fadé",
+      "vous": "eussiez fadé",
+      "ils": "eussent fadé"
+    },
+    "translation": "jałowość",
+    "group": 1
+  },
+  {
+    "infinitive": "faiblir",
+    "présent": {
+      "je": "faiblis",
+      "tu": "faiblis",
+      "il": "faiblit",
+      "nous": "faiblissons",
+      "vous": "faiblissez",
+      "ils": "faiblissent"
+    },
+    "passé_composé": {
+      "je": "ai faibli",
+      "tu": "as faibli",
+      "il": "a faibli",
+      "nous": "avons faibli",
+      "vous": "avez faibli",
+      "ils": "ont faibli"
+    },
+    "imparfait": {
+      "je": "faiblissais",
+      "tu": "faiblissais",
+      "il": "faiblissait",
+      "nous": "faiblissions",
+      "vous": "faiblissiez",
+      "ils": "faiblissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais faibli",
+      "tu": "avais faibli",
+      "il": "avait faibli",
+      "nous": "avions faibli",
+      "vous": "aviez faibli",
+      "ils": "avaient faibli"
+    },
+    "passé_simple": {
+      "je": "faiblis",
+      "tu": "faiblis",
+      "il": "faiblit",
+      "nous": "faiblîmes",
+      "vous": "faiblîtes",
+      "ils": "faiblirent"
+    },
+    "passé_antérieur": {
+      "je": "eus faibli",
+      "tu": "eus faibli",
+      "il": "eut faibli",
+      "nous": "eûmes faibli",
+      "vous": "eûtes faibli",
+      "ils": "eurent faibli"
+    },
+    "futur_simple": {
+      "je": "faiblirai",
+      "tu": "faibliras",
+      "il": "faiblira",
+      "nous": "faiblirons",
+      "vous": "faiblirez",
+      "ils": "faibliront"
+    },
+    "futur_antérieur": {
+      "je": "aurai faibli",
+      "tu": "auras faibli",
+      "il": "aura faibli",
+      "nous": "aurons faibli",
+      "vous": "aurez faibli",
+      "ils": "auront faibli"
+    },
+    "subjonctif_présent": {
+      "je": "faiblisse",
+      "tu": "faiblisses",
+      "il": "faiblisse",
+      "nous": "faiblissions",
+      "vous": "faiblissiez",
+      "ils": "faiblissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie faibli",
+      "tu": "aies faibli",
+      "il": "ait faibli",
+      "nous": "ayons faibli",
+      "vous": "ayez faibli",
+      "ils": "aient faibli"
+    },
+    "subjonctif_imparfait": {
+      "je": "faiblisse",
+      "tu": "faiblisses",
+      "il": "faiblît",
+      "nous": "faiblissions",
+      "vous": "faiblissiez",
+      "ils": "faiblissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse faibli",
+      "tu": "eusses faibli",
+      "il": "eût faibli",
+      "nous": "eussions faibli",
+      "vous": "eussiez faibli",
+      "ils": "eussent faibli"
+    },
+    "conditionnel_présent": {
+      "je": "faiblirais",
+      "tu": "faiblirais",
+      "il": "faiblirait",
+      "nous": "faiblirions",
+      "vous": "faibliriez",
+      "ils": "faibliraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais faibli",
+      "tu": "aurais faibli",
+      "il": "aurait faibli",
+      "nous": "aurions faibli",
+      "vous": "auriez faibli",
+      "ils": "auraient faibli"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse faibli",
+      "tu": "eusses faibli",
+      "il": "eût faibli",
+      "nous": "eussions faibli",
+      "vous": "eussiez faibli",
+      "ils": "eussent faibli"
+    },
+    "translation": "słabnąć",
+    "group": 2
+  }
+]

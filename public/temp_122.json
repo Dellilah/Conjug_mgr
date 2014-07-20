@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "marier",
+    "présent": {
+      "je": "marie",
+      "tu": "maries",
+      "il": "marie",
+      "nous": "marions",
+      "vous": "mariez",
+      "ils": "marient"
+    },
+    "passé_composé": {
+      "je": "ai marié",
+      "tu": "as marié",
+      "il": "a marié",
+      "nous": "avons marié",
+      "vous": "avez marié",
+      "ils": "ont marié"
+    },
+    "imparfait": {
+      "je": "mariais",
+      "tu": "mariais",
+      "il": "mariait",
+      "nous": "mariions",
+      "vous": "mariiez",
+      "ils": "mariaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais marié",
+      "tu": "avais marié",
+      "il": "avait marié",
+      "nous": "avions marié",
+      "vous": "aviez marié",
+      "ils": "avaient marié"
+    },
+    "passé_simple": {
+      "je": "mariai",
+      "tu": "marias",
+      "il": "maria",
+      "nous": "mariâmes",
+      "vous": "mariâtes",
+      "ils": "marièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus marié",
+      "tu": "eus marié",
+      "il": "eut marié",
+      "nous": "eûmes marié",
+      "vous": "eûtes marié",
+      "ils": "eurent marié"
+    },
+    "futur_simple": {
+      "je": "marierai",
+      "tu": "marieras",
+      "il": "mariera",
+      "nous": "marierons",
+      "vous": "marierez",
+      "ils": "marieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai marié",
+      "tu": "auras marié",
+      "il": "aura marié",
+      "nous": "aurons marié",
+      "vous": "aurez marié",
+      "ils": "auront marié"
+    },
+    "subjonctif_présent": {
+      "je": "marie",
+      "tu": "maries",
+      "il": "marie",
+      "nous": "mariions",
+      "vous": "mariiez",
+      "ils": "marient"
+    },
+    "subjonctif_passé": {
+      "je": "aie marié",
+      "tu": "aies marié",
+      "il": "ait marié",
+      "nous": "ayons marié",
+      "vous": "ayez marié",
+      "ils": "aient marié"
+    },
+    "subjonctif_imparfait": {
+      "je": "mariasse",
+      "tu": "mariasses",
+      "il": "mariât",
+      "nous": "mariassions",
+      "vous": "mariassiez",
+      "ils": "mariassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse marié",
+      "tu": "eusses marié",
+      "il": "eût marié",
+      "nous": "eussions marié",
+      "vous": "eussiez marié",
+      "ils": "eussent marié"
+    },
+    "conditionnel_présent": {
+      "je": "marierais",
+      "tu": "marierais",
+      "il": "marierait",
+      "nous": "marierions",
+      "vous": "marieriez",
+      "ils": "marieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais marié",
+      "tu": "aurais marié",
+      "il": "aurait marié",
+      "nous": "aurions marié",
+      "vous": "auriez marié",
+      "ils": "auraient marié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse marié",
+      "tu": "eusses marié",
+      "il": "eût marié",
+      "nous": "eussions marié",
+      "vous": "eussiez marié",
+      "ils": "eussent marié"
+    },
+    "translation": "udzielać",
+    "group": 1
+  },
+  {
+    "infinitive": "marquer",
+    "présent": {
+      "je": "marque",
+      "tu": "marques",
+      "il": "marque",
+      "nous": "marquons",
+      "vous": "marquez",
+      "ils": "marquent"
+    },
+    "passé_composé": {
+      "je": "ai marqué",
+      "tu": "as marqué",
+      "il": "a marqué",
+      "nous": "avons marqué",
+      "vous": "avez marqué",
+      "ils": "ont marqué"
+    },
+    "imparfait": {
+      "je": "marquais",
+      "tu": "marquais",
+      "il": "marquait",
+      "nous": "marquions",
+      "vous": "marquiez",
+      "ils": "marquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais marqué",
+      "tu": "avais marqué",
+      "il": "avait marqué",
+      "nous": "avions marqué",
+      "vous": "aviez marqué",
+      "ils": "avaient marqué"
+    },
+    "passé_simple": {
+      "je": "marquai",
+      "tu": "marquas",
+      "il": "marqua",
+      "nous": "marquâmes",
+      "vous": "marquâtes",
+      "ils": "marquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus marqué",
+      "tu": "eus marqué",
+      "il": "eut marqué",
+      "nous": "eûmes marqué",
+      "vous": "eûtes marqué",
+      "ils": "eurent marqué"
+    },
+    "futur_simple": {
+      "je": "marquerai",
+      "tu": "marqueras",
+      "il": "marquera",
+      "nous": "marquerons",
+      "vous": "marquerez",
+      "ils": "marqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai marqué",
+      "tu": "auras marqué",
+      "il": "aura marqué",
+      "nous": "aurons marqué",
+      "vous": "aurez marqué",
+      "ils": "auront marqué"
+    },
+    "subjonctif_présent": {
+      "je": "marque",
+      "tu": "marques",
+      "il": "marque",
+      "nous": "marquions",
+      "vous": "marquiez",
+      "ils": "marquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie marqué",
+      "tu": "aies marqué",
+      "il": "ait marqué",
+      "nous": "ayons marqué",
+      "vous": "ayez marqué",
+      "ils": "aient marqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "marquasse",
+      "tu": "marquasses",
+      "il": "marquât",
+      "nous": "marquassions",
+      "vous": "marquassiez",
+      "ils": "marquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse marqué",
+      "tu": "eusses marqué",
+      "il": "eût marqué",
+      "nous": "eussions marqué",
+      "vous": "eussiez marqué",
+      "ils": "eussent marqué"
+    },
+    "conditionnel_présent": {
+      "je": "marquerais",
+      "tu": "marquerais",
+      "il": "marquerait",
+      "nous": "marquerions",
+      "vous": "marqueriez",
+      "ils": "marqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais marqué",
+      "tu": "aurais marqué",
+      "il": "aurait marqué",
+      "nous": "aurions marqué",
+      "vous": "auriez marqué",
+      "ils": "auraient marqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse marqué",
+      "tu": "eusses marqué",
+      "il": "eût marqué",
+      "nous": "eussions marqué",
+      "vous": "eussiez marqué",
+      "ils": "eussent marqué"
+    },
+    "translation": "wskazywać",
+    "group": 1
+  },
+  {
+    "infinitive": "marrer",
+    "présent": {
+      "je": "me marre",
+      "tu": "te marres",
+      "il": "se marre",
+      "nous": "nous marrons",
+      "vous": "vous marrez",
+      "ils": "se marrent"
+    },
+    "passé_composé": {
+      "je": "me suis marré",
+      "tu": "es marré",
+      "il": "est marré",
+      "nous": "nous sommes marrés",
+      "vous": "vous êtes marrés",
+      "ils": "se sont marrés"
+    },
+    "imparfait": {
+      "je": "me marrais",
+      "tu": "te marrais",
+      "il": "se marrait",
+      "nous": "nous marrions",
+      "vous": "vous marriez",
+      "ils": "se marraient"
+    },
+    "plus_que_parfait": {
+      "je": "étais marré",
+      "tu": "étais marré",
+      "il": "était marré",
+      "nous": "nous étions marrés",
+      "vous": "vous étiez marrés",
+      "ils": "étaient marrés"
+    },
+    "passé_simple": {
+      "je": "me marrai",
+      "tu": "te marras",
+      "il": "se marra",
+      "nous": "nous marrâmes",
+      "vous": "vous marrâtes",
+      "ils": "se marrèrent"
+    },
+    "passé_antérieur": {
+      "je": "me fus marré",
+      "tu": "te fus marré",
+      "il": "se fut marré",
+      "nous": "nous fûmes marrés",
+      "vous": "vous fûtes marrés",
+      "ils": "se furent marrés"
+    },
+    "futur_simple": {
+      "je": "me marrerai",
+      "tu": "te marreras",
+      "il": "se marrera",
+      "nous": "nous marrerons",
+      "vous": "vous marrerez",
+      "ils": "se marreront"
+    },
+    "futur_antérieur": {
+      "je": "me serai marré",
+      "tu": "te seras marré",
+      "il": "se sera marré",
+      "nous": "nous serons marrés",
+      "vous": "vous serez marrés",
+      "ils": "se seront marrés"
+    },
+    "subjonctif_présent": {
+      "je": "me marre",
+      "tu": "te marres",
+      "il": "se marre",
+      "nous": "nous marrions",
+      "vous": "vous marriez",
+      "ils": "se marrent"
+    },
+    "subjonctif_passé": {
+      "je": "me sois marré",
+      "tu": "te sois marré",
+      "il": "se soit marré",
+      "nous": "nous soyons marrés",
+      "vous": "vous soyez marrés",
+      "ils": "se soient marrés"
+    },
+    "subjonctif_imparfait": {
+      "je": "me marrasse",
+      "tu": "te marrasses",
+      "il": "se marrât",
+      "nous": "nous marrassions",
+      "vous": "vous marrassiez",
+      "ils": "se marrassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse marré",
+      "tu": "te fusses marré",
+      "il": "se fût marré",
+      "nous": "nous fussions marrés",
+      "vous": "vous fussiez marrés",
+      "ils": "se fussent marrés"
+    },
+    "conditionnel_présent": {
+      "je": "me marrerais",
+      "tu": "te marrerais",
+      "il": "se marrerait",
+      "nous": "nous marrerions",
+      "vous": "vous marreriez",
+      "ils": "se marreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais marré",
+      "tu": "te serais marré",
+      "il": "se serait marré",
+      "nous": "nous serions marrés",
+      "vous": "vous seriez marrés",
+      "ils": "se seraient marrés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse marré",
+      "tu": "te fusses marré",
+      "il": "se fût marré",
+      "nous": "nous fussions marrés",
+      "vous": "vous fussiez marrés",
+      "ils": "se fussent marrés"
+    },
+    "translation": "ubawić",
+    "group": 1
+  },
+  {
+    "infinitive": "marteler",
+    "présent": {
+      "je": "martèle",
+      "tu": "martèles",
+      "il": "martèle",
+      "nous": "martelons",
+      "vous": "martelez",
+      "ils": "martèlent"
+    },
+    "passé_composé": {
+      "je": "ai martelé",
+      "tu": "as martelé",
+      "il": "a martelé",
+      "nous": "avons martelé",
+      "vous": "avez martelé",
+      "ils": "ont martelé"
+    },
+    "imparfait": {
+      "je": "martelais",
+      "tu": "martelais",
+      "il": "martelait",
+      "nous": "martelions",
+      "vous": "marteliez",
+      "ils": "martelaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais martelé",
+      "tu": "avais martelé",
+      "il": "avait martelé",
+      "nous": "avions martelé",
+      "vous": "aviez martelé",
+      "ils": "avaient martelé"
+    },
+    "passé_simple": {
+      "je": "martelai",
+      "tu": "martelas",
+      "il": "martela",
+      "nous": "martelâmes",
+      "vous": "martelâtes",
+      "ils": "martelèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus martelé",
+      "tu": "eus martelé",
+      "il": "eut martelé",
+      "nous": "eûmes martelé",
+      "vous": "eûtes martelé",
+      "ils": "eurent martelé"
+    },
+    "futur_simple": {
+      "je": "martèlerai",
+      "tu": "martèleras",
+      "il": "martèlera",
+      "nous": "martèlerons",
+      "vous": "martèlerez",
+      "ils": "martèleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai martelé",
+      "tu": "auras martelé",
+      "il": "aura martelé",
+      "nous": "aurons martelé",
+      "vous": "aurez martelé",
+      "ils": "auront martelé"
+    },
+    "subjonctif_présent": {
+      "je": "martèle",
+      "tu": "martèles",
+      "il": "martèle",
+      "nous": "martelions",
+      "vous": "marteliez",
+      "ils": "martèlent"
+    },
+    "subjonctif_passé": {
+      "je": "aie martelé",
+      "tu": "aies martelé",
+      "il": "ait martelé",
+      "nous": "ayons martelé",
+      "vous": "ayez martelé",
+      "ils": "aient martelé"
+    },
+    "subjonctif_imparfait": {
+      "je": "martelasse",
+      "tu": "martelasses",
+      "il": "martelât",
+      "nous": "martelassions",
+      "vous": "martelassiez",
+      "ils": "martelassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse martelé",
+      "tu": "eusses martelé",
+      "il": "eût martelé",
+      "nous": "eussions martelé",
+      "vous": "eussiez martelé",
+      "ils": "eussent martelé"
+    },
+    "conditionnel_présent": {
+      "je": "martèlerais",
+      "tu": "martèlerais",
+      "il": "martèlerait",
+      "nous": "martèlerions",
+      "vous": "martèleriez",
+      "ils": "martèleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais martelé",
+      "tu": "aurais martelé",
+      "il": "aurait martelé",
+      "nous": "aurions martelé",
+      "vous": "auriez martelé",
+      "ils": "auraient martelé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse martelé",
+      "tu": "eusses martelé",
+      "il": "eût martelé",
+      "nous": "eussions martelé",
+      "vous": "eussiez martelé",
+      "ils": "eussent martelé"
+    },
+    "translation": "uderzać",
+    "group": 1
+  },
+  {
+    "infinitive": "masser",
+    "présent": {
+      "je": "masse",
+      "tu": "masses",
+      "il": "masse",
+      "nous": "massons",
+      "vous": "massez",
+      "ils": "massent"
+    },
+    "passé_composé": {
+      "je": "ai massé",
+      "tu": "as massé",
+      "il": "a massé",
+      "nous": "avons massé",
+      "vous": "avez massé",
+      "ils": "ont massé"
+    },
+    "imparfait": {
+      "je": "massais",
+      "tu": "massais",
+      "il": "massait",
+      "nous": "massions",
+      "vous": "massiez",
+      "ils": "massaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais massé",
+      "tu": "avais massé",
+      "il": "avait massé",
+      "nous": "avions massé",
+      "vous": "aviez massé",
+      "ils": "avaient massé"
+    },
+    "passé_simple": {
+      "je": "massai",
+      "tu": "massas",
+      "il": "massa",
+      "nous": "massâmes",
+      "vous": "massâtes",
+      "ils": "massèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus massé",
+      "tu": "eus massé",
+      "il": "eut massé",
+      "nous": "eûmes massé",
+      "vous": "eûtes massé",
+      "ils": "eurent massé"
+    },
+    "futur_simple": {
+      "je": "masserai",
+      "tu": "masseras",
+      "il": "massera",
+      "nous": "masserons",
+      "vous": "masserez",
+      "ils": "masseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai massé",
+      "tu": "auras massé",
+      "il": "aura massé",
+      "nous": "aurons massé",
+      "vous": "aurez massé",
+      "ils": "auront massé"
+    },
+    "subjonctif_présent": {
+      "je": "masse",
+      "tu": "masses",
+      "il": "masse",
+      "nous": "massions",
+      "vous": "massiez",
+      "ils": "massent"
+    },
+    "subjonctif_passé": {
+      "je": "aie massé",
+      "tu": "aies massé",
+      "il": "ait massé",
+      "nous": "ayons massé",
+      "vous": "ayez massé",
+      "ils": "aient massé"
+    },
+    "subjonctif_imparfait": {
+      "je": "massasse",
+      "tu": "massasses",
+      "il": "massât",
+      "nous": "massassions",
+      "vous": "massassiez",
+      "ils": "massassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse massé",
+      "tu": "eusses massé",
+      "il": "eût massé",
+      "nous": "eussions massé",
+      "vous": "eussiez massé",
+      "ils": "eussent massé"
+    },
+    "conditionnel_présent": {
+      "je": "masserais",
+      "tu": "masserais",
+      "il": "masserait",
+      "nous": "masserions",
+      "vous": "masseriez",
+      "ils": "masseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais massé",
+      "tu": "aurais massé",
+      "il": "aurait massé",
+      "nous": "aurions massé",
+      "vous": "auriez massé",
+      "ils": "auraient massé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse massé",
+      "tu": "eusses massé",
+      "il": "eût massé",
+      "nous": "eussions massé",
+      "vous": "eussiez massé",
+      "ils": "eussent massé"
+    },
+    "translation": "gromadzić",
+    "group": 1
+  },
+  {
+    "infinitive": "mater",
+    "présent": {
+      "je": "mate",
+      "tu": "mates",
+      "il": "mate",
+      "nous": "matons",
+      "vous": "matez",
+      "ils": "matent"
+    },
+    "passé_composé": {
+      "je": "ai maté",
+      "tu": "as maté",
+      "il": "a maté",
+      "nous": "avons maté",
+      "vous": "avez maté",
+      "ils": "ont maté"
+    },
+    "imparfait": {
+      "je": "matais",
+      "tu": "matais",
+      "il": "matait",
+      "nous": "mations",
+      "vous": "matiez",
+      "ils": "mataient"
+    },
+    "plus_que_parfait": {
+      "je": "avais maté",
+      "tu": "avais maté",
+      "il": "avait maté",
+      "nous": "avions maté",
+      "vous": "aviez maté",
+      "ils": "avaient maté"
+    },
+    "passé_simple": {
+      "je": "matai",
+      "tu": "matas",
+      "il": "mata",
+      "nous": "matâmes",
+      "vous": "matâtes",
+      "ils": "matèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus maté",
+      "tu": "eus maté",
+      "il": "eut maté",
+      "nous": "eûmes maté",
+      "vous": "eûtes maté",
+      "ils": "eurent maté"
+    },
+    "futur_simple": {
+      "je": "materai",
+      "tu": "materas",
+      "il": "matera",
+      "nous": "materons",
+      "vous": "materez",
+      "ils": "materont"
+    },
+    "futur_antérieur": {
+      "je": "aurai maté",
+      "tu": "auras maté",
+      "il": "aura maté",
+      "nous": "aurons maté",
+      "vous": "aurez maté",
+      "ils": "auront maté"
+    },
+    "subjonctif_présent": {
+      "je": "mate",
+      "tu": "mates",
+      "il": "mate",
+      "nous": "mations",
+      "vous": "matiez",
+      "ils": "matent"
+    },
+    "subjonctif_passé": {
+      "je": "aie maté",
+      "tu": "aies maté",
+      "il": "ait maté",
+      "nous": "ayons maté",
+      "vous": "ayez maté",
+      "ils": "aient maté"
+    },
+    "subjonctif_imparfait": {
+      "je": "matasse",
+      "tu": "matasses",
+      "il": "matât",
+      "nous": "matassions",
+      "vous": "matassiez",
+      "ils": "matassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse maté",
+      "tu": "eusses maté",
+      "il": "eût maté",
+      "nous": "eussions maté",
+      "vous": "eussiez maté",
+      "ils": "eussent maté"
+    },
+    "conditionnel_présent": {
+      "je": "materais",
+      "tu": "materais",
+      "il": "materait",
+      "nous": "materions",
+      "vous": "materiez",
+      "ils": "materaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais maté",
+      "tu": "aurais maté",
+      "il": "aurait maté",
+      "nous": "aurions maté",
+      "vous": "auriez maté",
+      "ils": "auraient maté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse maté",
+      "tu": "eusses maté",
+      "il": "eût maté",
+      "nous": "eussions maté",
+      "vous": "eussiez maté",
+      "ils": "eussent maté"
+    },
+    "translation": "poskramiać",
+    "group": 1
+  },
+  {
+    "infinitive": "mâter",
+    "présent": {
+      "je": "mate",
+      "tu": "mates",
+      "il": "mate",
+      "nous": "matons",
+      "vous": "matez",
+      "ils": "matent"
+    },
+    "passé_composé": {
+      "je": "ai maté",
+      "tu": "as maté",
+      "il": "a maté",
+      "nous": "avons maté",
+      "vous": "avez maté",
+      "ils": "ont maté"
+    },
+    "imparfait": {
+      "je": "matais",
+      "tu": "matais",
+      "il": "matait",
+      "nous": "mations",
+      "vous": "matiez",
+      "ils": "mataient"
+    },
+    "plus_que_parfait": {
+      "je": "avais maté",
+      "tu": "avais maté",
+      "il": "avait maté",
+      "nous": "avions maté",
+      "vous": "aviez maté",
+      "ils": "avaient maté"
+    },
+    "passé_simple": {
+      "je": "matai",
+      "tu": "matas",
+      "il": "mata",
+      "nous": "matâmes",
+      "vous": "matâtes",
+      "ils": "matèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus maté",
+      "tu": "eus maté",
+      "il": "eut maté",
+      "nous": "eûmes maté",
+      "vous": "eûtes maté",
+      "ils": "eurent maté"
+    },
+    "futur_simple": {
+      "je": "materai",
+      "tu": "materas",
+      "il": "matera",
+      "nous": "materons",
+      "vous": "materez",
+      "ils": "materont"
+    },
+    "futur_antérieur": {
+      "je": "aurai maté",
+      "tu": "auras maté",
+      "il": "aura maté",
+      "nous": "aurons maté",
+      "vous": "aurez maté",
+      "ils": "auront maté"
+    },
+    "subjonctif_présent": {
+      "je": "mate",
+      "tu": "mates",
+      "il": "mate",
+      "nous": "mations",
+      "vous": "matiez",
+      "ils": "matent"
+    },
+    "subjonctif_passé": {
+      "je": "aie maté",
+      "tu": "aies maté",
+      "il": "ait maté",
+      "nous": "ayons maté",
+      "vous": "ayez maté",
+      "ils": "aient maté"
+    },
+    "subjonctif_imparfait": {
+      "je": "matasse",
+      "tu": "matasses",
+      "il": "matât",
+      "nous": "matassions",
+      "vous": "matassiez",
+      "ils": "matassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse maté",
+      "tu": "eusses maté",
+      "il": "eût maté",
+      "nous": "eussions maté",
+      "vous": "eussiez maté",
+      "ils": "eussent maté"
+    },
+    "conditionnel_présent": {
+      "je": "materais",
+      "tu": "materais",
+      "il": "materait",
+      "nous": "materions",
+      "vous": "materiez",
+      "ils": "materaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais maté",
+      "tu": "aurais maté",
+      "il": "aurait maté",
+      "nous": "aurions maté",
+      "vous": "auriez maté",
+      "ils": "auraient maté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse maté",
+      "tu": "eusses maté",
+      "il": "eût maté",
+      "nous": "eussions maté",
+      "vous": "eussiez maté",
+      "ils": "eussent maté"
+    },
+    "translation": "poskramiać",
+    "group": 1
+  },
+  {
+    "infinitive": "maudire",
+    "présent": {
+      "je": "maudis",
+      "tu": "maudis",
+      "il": "maudit",
+      "nous": "maudissons",
+      "vous": "maudissez",
+      "ils": "maudissent"
+    },
+    "passé_composé": {
+      "je": "ai maudit",
+      "tu": "as maudit",
+      "il": "a maudit",
+      "nous": "avons maudit",
+      "vous": "avez maudit",
+      "ils": "ont maudit"
+    },
+    "imparfait": {
+      "je": "maudissais",
+      "tu": "maudissais",
+      "il": "maudissait",
+      "nous": "maudissions",
+      "vous": "maudissiez",
+      "ils": "maudissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais maudit",
+      "tu": "avais maudit",
+      "il": "avait maudit",
+      "nous": "avions maudit",
+      "vous": "aviez maudit",
+      "ils": "avaient maudit"
+    },
+    "passé_simple": {
+      "je": "maudis",
+      "tu": "maudis",
+      "il": "maudit",
+      "nous": "maudîmes",
+      "vous": "maudîtes",
+      "ils": "maudirent"
+    },
+    "passé_antérieur": {
+      "je": "eus maudit",
+      "tu": "eus maudit",
+      "il": "eut maudit",
+      "nous": "eûmes maudit",
+      "vous": "eûtes maudit",
+      "ils": "eurent maudit"
+    },
+    "futur_simple": {
+      "je": "maudirai",
+      "tu": "maudiras",
+      "il": "maudira",
+      "nous": "maudirons",
+      "vous": "maudirez",
+      "ils": "maudiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai maudit",
+      "tu": "auras maudit",
+      "il": "aura maudit",
+      "nous": "aurons maudit",
+      "vous": "aurez maudit",
+      "ils": "auront maudit"
+    },
+    "subjonctif_présent": {
+      "je": "maudisse",
+      "tu": "maudisses",
+      "il": "maudisse",
+      "nous": "maudissions",
+      "vous": "maudissiez",
+      "ils": "maudissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie maudit",
+      "tu": "aies maudit",
+      "il": "ait maudit",
+      "nous": "ayons maudit",
+      "vous": "ayez maudit",
+      "ils": "aient maudit"
+    },
+    "subjonctif_imparfait": {
+      "je": "maudisse",
+      "tu": "maudisses",
+      "il": "maudît",
+      "nous": "maudissions",
+      "vous": "maudissiez",
+      "ils": "maudissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse maudit",
+      "tu": "eusses maudit",
+      "il": "eût maudit",
+      "nous": "eussions maudit",
+      "vous": "eussiez maudit",
+      "ils": "eussent maudit"
+    },
+    "conditionnel_présent": {
+      "je": "maudirais",
+      "tu": "maudirais",
+      "il": "maudirait",
+      "nous": "maudirions",
+      "vous": "maudiriez",
+      "ils": "maudiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais maudit",
+      "tu": "aurais maudit",
+      "il": "aurait maudit",
+      "nous": "aurions maudit",
+      "vous": "auriez maudit",
+      "ils": "auraient maudit"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse maudit",
+      "tu": "eusses maudit",
+      "il": "eût maudit",
+      "nous": "eussions maudit",
+      "vous": "eussiez maudit",
+      "ils": "eussent maudit"
+    },
+    "translation": "maudire",
+    "group": 3
+  },
+  {
+    "infinitive": "maugréer",
+    "présent": {
+      "je": "maugrée",
+      "tu": "maugrées",
+      "il": "maugrée",
+      "nous": "maugréons",
+      "vous": "maugréez",
+      "ils": "maugréent"
+    },
+    "passé_composé": {
+      "je": "ai maugréé",
+      "tu": "as maugréé",
+      "il": "a maugréé",
+      "nous": "avons maugréé",
+      "vous": "avez maugréé",
+      "ils": "ont maugréé"
+    },
+    "imparfait": {
+      "je": "maugréais",
+      "tu": "maugréais",
+      "il": "maugréait",
+      "nous": "maugréions",
+      "vous": "maugréiez",
+      "ils": "maugréaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais maugréé",
+      "tu": "avais maugréé",
+      "il": "avait maugréé",
+      "nous": "avions maugréé",
+      "vous": "aviez maugréé",
+      "ils": "avaient maugréé"
+    },
+    "passé_simple": {
+      "je": "maugréai",
+      "tu": "maugréas",
+      "il": "maugréa",
+      "nous": "maugréâmes",
+      "vous": "maugréâtes",
+      "ils": "maugréèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus maugréé",
+      "tu": "eus maugréé",
+      "il": "eut maugréé",
+      "nous": "eûmes maugréé",
+      "vous": "eûtes maugréé",
+      "ils": "eurent maugréé"
+    },
+    "futur_simple": {
+      "je": "maugréerai",
+      "tu": "maugréeras",
+      "il": "maugréera",
+      "nous": "maugréerons",
+      "vous": "maugréerez",
+      "ils": "maugréeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai maugréé",
+      "tu": "auras maugréé",
+      "il": "aura maugréé",
+      "nous": "aurons maugréé",
+      "vous": "aurez maugréé",
+      "ils": "auront maugréé"
+    },
+    "subjonctif_présent": {
+      "je": "maugrée",
+      "tu": "maugrées",
+      "il": "maugrée",
+      "nous": "maugréions",
+      "vous": "maugréiez",
+      "ils": "maugréent"
+    },
+    "subjonctif_passé": {
+      "je": "aie maugréé",
+      "tu": "aies maugréé",
+      "il": "ait maugréé",
+      "nous": "ayons maugréé",
+      "vous": "ayez maugréé",
+      "ils": "aient maugréé"
+    },
+    "subjonctif_imparfait": {
+      "je": "maugréasse",
+      "tu": "maugréasses",
+      "il": "maugréât",
+      "nous": "maugréassions",
+      "vous": "maugréassiez",
+      "ils": "maugréassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse maugréé",
+      "tu": "eusses maugréé",
+      "il": "eût maugréé",
+      "nous": "eussions maugréé",
+      "vous": "eussiez maugréé",
+      "ils": "eussent maugréé"
+    },
+    "conditionnel_présent": {
+      "je": "maugréerais",
+      "tu": "maugréerais",
+      "il": "maugréerait",
+      "nous": "maugréerions",
+      "vous": "maugréeriez",
+      "ils": "maugréeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais maugréé",
+      "tu": "aurais maugréé",
+      "il": "aurait maugréé",
+      "nous": "aurions maugréé",
+      "vous": "auriez maugréé",
+      "ils": "auraient maugréé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse maugréé",
+      "tu": "eusses maugréé",
+      "il": "eût maugréé",
+      "nous": "eussions maugréé",
+      "vous": "eussiez maugréé",
+      "ils": "eussent maugréé"
+    },
+    "translation": "maugréer",
+    "group": 1
+  },
+  {
+    "infinitive": "mécroire",
+    "présent": {
+      "je": "mécrois",
+      "tu": "mécrois",
+      "il": "mécroit",
+      "nous": "mécroyons",
+      "vous": "mécroyez",
+      "ils": "mécroient"
+    },
+    "passé_composé": {
+      "je": "ai mécru",
+      "tu": "as mécru",
+      "il": "a mécru",
+      "nous": "avons mécru",
+      "vous": "avez mécru",
+      "ils": "ont mécru"
+    },
+    "imparfait": {
+      "je": "mécroyais",
+      "tu": "mécroyais",
+      "il": "mécroyait",
+      "nous": "mécroyions",
+      "vous": "mécroyiez",
+      "ils": "mécroyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais mécru",
+      "tu": "avais mécru",
+      "il": "avait mécru",
+      "nous": "avions mécru",
+      "vous": "aviez mécru",
+      "ils": "avaient mécru"
+    },
+    "passé_simple": {
+      "je": "mécrus",
+      "tu": "mécrus",
+      "il": "mécrut",
+      "nous": "mécrûmes",
+      "vous": "mécrûtes",
+      "ils": "mécrurent"
+    },
+    "passé_antérieur": {
+      "je": "eus mécru",
+      "tu": "eus mécru",
+      "il": "eut mécru",
+      "nous": "eûmes mécru",
+      "vous": "eûtes mécru",
+      "ils": "eurent mécru"
+    },
+    "futur_simple": {
+      "je": "mécroirai",
+      "tu": "mécroiras",
+      "il": "mécroira",
+      "nous": "mécroirons",
+      "vous": "mécroirez",
+      "ils": "mécroiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai mécru",
+      "tu": "auras mécru",
+      "il": "aura mécru",
+      "nous": "aurons mécru",
+      "vous": "aurez mécru",
+      "ils": "auront mécru"
+    },
+    "subjonctif_présent": {
+      "je": "mécroie",
+      "tu": "mécroies",
+      "il": "mécroie",
+      "nous": "mécroyions",
+      "vous": "mécroyiez",
+      "ils": "mécroient"
+    },
+    "subjonctif_passé": {
+      "je": "aie mécru",
+      "tu": "aies mécru",
+      "il": "ait mécru",
+      "nous": "ayons mécru",
+      "vous": "ayez mécru",
+      "ils": "aient mécru"
+    },
+    "subjonctif_imparfait": {
+      "je": "mécrusse",
+      "tu": "mécrusses",
+      "il": "mécrût",
+      "nous": "mécrussions",
+      "vous": "mécrussiez",
+      "ils": "mécrussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse mécru",
+      "tu": "eusses mécru",
+      "il": "eût mécru",
+      "nous": "eussions mécru",
+      "vous": "eussiez mécru",
+      "ils": "eussent mécru"
+    },
+    "conditionnel_présent": {
+      "je": "mécroirais",
+      "tu": "mécroirais",
+      "il": "mécroirait",
+      "nous": "mécroirions",
+      "vous": "mécroiriez",
+      "ils": "mécroiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais mécru",
+      "tu": "aurais mécru",
+      "il": "aurait mécru",
+      "nous": "aurions mécru",
+      "vous": "auriez mécru",
+      "ils": "auraient mécru"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse mécru",
+      "tu": "eusses mécru",
+      "il": "eût mécru",
+      "nous": "eussions mécru",
+      "vous": "eussiez mécru",
+      "ils": "eussent mécru"
+    },
+    "translation": "szczęka",
+    "group": 3
+  }
+]

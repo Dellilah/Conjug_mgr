@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "frayer",
+    "présent": {
+      "je": "fraie",
+      "tu": "fraies",
+      "il": "fraie",
+      "nous": "frayons",
+      "vous": "frayez",
+      "ils": "fraient"
+    },
+    "passé_composé": {
+      "je": "ai frayé",
+      "tu": "as frayé",
+      "il": "a frayé",
+      "nous": "avons frayé",
+      "vous": "avez frayé",
+      "ils": "ont frayé"
+    },
+    "imparfait": {
+      "je": "frayais",
+      "tu": "frayais",
+      "il": "frayait",
+      "nous": "frayions",
+      "vous": "frayiez",
+      "ils": "frayaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais frayé",
+      "tu": "avais frayé",
+      "il": "avait frayé",
+      "nous": "avions frayé",
+      "vous": "aviez frayé",
+      "ils": "avaient frayé"
+    },
+    "passé_simple": {
+      "je": "frayai",
+      "tu": "frayas",
+      "il": "fraya",
+      "nous": "frayâmes",
+      "vous": "frayâtes",
+      "ils": "frayèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus frayé",
+      "tu": "eus frayé",
+      "il": "eut frayé",
+      "nous": "eûmes frayé",
+      "vous": "eûtes frayé",
+      "ils": "eurent frayé"
+    },
+    "futur_simple": {
+      "je": "fraierai",
+      "tu": "fraieras",
+      "il": "fraiera",
+      "nous": "fraierons",
+      "vous": "fraierez",
+      "ils": "fraieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai frayé",
+      "tu": "auras frayé",
+      "il": "aura frayé",
+      "nous": "aurons frayé",
+      "vous": "aurez frayé",
+      "ils": "auront frayé"
+    },
+    "subjonctif_présent": {
+      "je": "fraie",
+      "tu": "fraies",
+      "il": "fraie",
+      "nous": "frayions",
+      "vous": "frayiez",
+      "ils": "fraient"
+    },
+    "subjonctif_passé": {
+      "je": "aie frayé",
+      "tu": "aies frayé",
+      "il": "ait frayé",
+      "nous": "ayons frayé",
+      "vous": "ayez frayé",
+      "ils": "aient frayé"
+    },
+    "subjonctif_imparfait": {
+      "je": "frayasse",
+      "tu": "frayasses",
+      "il": "frayât",
+      "nous": "frayassions",
+      "vous": "frayassiez",
+      "ils": "frayassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse frayé",
+      "tu": "eusses frayé",
+      "il": "eût frayé",
+      "nous": "eussions frayé",
+      "vous": "eussiez frayé",
+      "ils": "eussent frayé"
+    },
+    "conditionnel_présent": {
+      "je": "fraierais",
+      "tu": "fraierais",
+      "il": "fraierait",
+      "nous": "fraierions",
+      "vous": "fraieriez",
+      "ils": "fraieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais frayé",
+      "tu": "aurais frayé",
+      "il": "aurait frayé",
+      "nous": "aurions frayé",
+      "vous": "auriez frayé",
+      "ils": "auraient frayé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse frayé",
+      "tu": "eusses frayé",
+      "il": "eût frayé",
+      "nous": "eussions frayé",
+      "vous": "eussiez frayé",
+      "ils": "eussent frayé"
+    },
+    "translation": "torować",
+    "group": 1
+  },
+  {
+    "infinitive": "freiner",
+    "présent": {
+      "je": "freine",
+      "tu": "freines",
+      "il": "freine",
+      "nous": "freinons",
+      "vous": "freinez",
+      "ils": "freinent"
+    },
+    "passé_composé": {
+      "je": "ai freiné",
+      "tu": "as freiné",
+      "il": "a freiné",
+      "nous": "avons freiné",
+      "vous": "avez freiné",
+      "ils": "ont freiné"
+    },
+    "imparfait": {
+      "je": "freinais",
+      "tu": "freinais",
+      "il": "freinait",
+      "nous": "freinions",
+      "vous": "freiniez",
+      "ils": "freinaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais freiné",
+      "tu": "avais freiné",
+      "il": "avait freiné",
+      "nous": "avions freiné",
+      "vous": "aviez freiné",
+      "ils": "avaient freiné"
+    },
+    "passé_simple": {
+      "je": "freinai",
+      "tu": "freinas",
+      "il": "freina",
+      "nous": "freinâmes",
+      "vous": "freinâtes",
+      "ils": "freinèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus freiné",
+      "tu": "eus freiné",
+      "il": "eut freiné",
+      "nous": "eûmes freiné",
+      "vous": "eûtes freiné",
+      "ils": "eurent freiné"
+    },
+    "futur_simple": {
+      "je": "freinerai",
+      "tu": "freineras",
+      "il": "freinera",
+      "nous": "freinerons",
+      "vous": "freinerez",
+      "ils": "freineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai freiné",
+      "tu": "auras freiné",
+      "il": "aura freiné",
+      "nous": "aurons freiné",
+      "vous": "aurez freiné",
+      "ils": "auront freiné"
+    },
+    "subjonctif_présent": {
+      "je": "freine",
+      "tu": "freines",
+      "il": "freine",
+      "nous": "freinions",
+      "vous": "freiniez",
+      "ils": "freinent"
+    },
+    "subjonctif_passé": {
+      "je": "aie freiné",
+      "tu": "aies freiné",
+      "il": "ait freiné",
+      "nous": "ayons freiné",
+      "vous": "ayez freiné",
+      "ils": "aient freiné"
+    },
+    "subjonctif_imparfait": {
+      "je": "freinasse",
+      "tu": "freinasses",
+      "il": "freinât",
+      "nous": "freinassions",
+      "vous": "freinassiez",
+      "ils": "freinassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse freiné",
+      "tu": "eusses freiné",
+      "il": "eût freiné",
+      "nous": "eussions freiné",
+      "vous": "eussiez freiné",
+      "ils": "eussent freiné"
+    },
+    "conditionnel_présent": {
+      "je": "freinerais",
+      "tu": "freinerais",
+      "il": "freinerait",
+      "nous": "freinerions",
+      "vous": "freineriez",
+      "ils": "freineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais freiné",
+      "tu": "aurais freiné",
+      "il": "aurait freiné",
+      "nous": "aurions freiné",
+      "vous": "auriez freiné",
+      "ils": "auraient freiné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse freiné",
+      "tu": "eusses freiné",
+      "il": "eût freiné",
+      "nous": "eussions freiné",
+      "vous": "eussiez freiné",
+      "ils": "eussent freiné"
+    },
+    "translation": "hamować",
+    "group": 1
+  },
+  {
+    "infinitive": "frémir",
+    "présent": {
+      "je": "frémis",
+      "tu": "frémis",
+      "il": "frémit",
+      "nous": "frémissons",
+      "vous": "frémissez",
+      "ils": "frémissent"
+    },
+    "passé_composé": {
+      "je": "ai frémi",
+      "tu": "as frémi",
+      "il": "a frémi",
+      "nous": "avons frémi",
+      "vous": "avez frémi",
+      "ils": "ont frémi"
+    },
+    "imparfait": {
+      "je": "frémissais",
+      "tu": "frémissais",
+      "il": "frémissait",
+      "nous": "frémissions",
+      "vous": "frémissiez",
+      "ils": "frémissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais frémi",
+      "tu": "avais frémi",
+      "il": "avait frémi",
+      "nous": "avions frémi",
+      "vous": "aviez frémi",
+      "ils": "avaient frémi"
+    },
+    "passé_simple": {
+      "je": "frémis",
+      "tu": "frémis",
+      "il": "frémit",
+      "nous": "frémîmes",
+      "vous": "frémîtes",
+      "ils": "frémirent"
+    },
+    "passé_antérieur": {
+      "je": "eus frémi",
+      "tu": "eus frémi",
+      "il": "eut frémi",
+      "nous": "eûmes frémi",
+      "vous": "eûtes frémi",
+      "ils": "eurent frémi"
+    },
+    "futur_simple": {
+      "je": "frémirai",
+      "tu": "frémiras",
+      "il": "frémira",
+      "nous": "frémirons",
+      "vous": "frémirez",
+      "ils": "frémiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai frémi",
+      "tu": "auras frémi",
+      "il": "aura frémi",
+      "nous": "aurons frémi",
+      "vous": "aurez frémi",
+      "ils": "auront frémi"
+    },
+    "subjonctif_présent": {
+      "je": "frémisse",
+      "tu": "frémisses",
+      "il": "frémisse",
+      "nous": "frémissions",
+      "vous": "frémissiez",
+      "ils": "frémissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie frémi",
+      "tu": "aies frémi",
+      "il": "ait frémi",
+      "nous": "ayons frémi",
+      "vous": "ayez frémi",
+      "ils": "aient frémi"
+    },
+    "subjonctif_imparfait": {
+      "je": "frémisse",
+      "tu": "frémisses",
+      "il": "frémît",
+      "nous": "frémissions",
+      "vous": "frémissiez",
+      "ils": "frémissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse frémi",
+      "tu": "eusses frémi",
+      "il": "eût frémi",
+      "nous": "eussions frémi",
+      "vous": "eussiez frémi",
+      "ils": "eussent frémi"
+    },
+    "conditionnel_présent": {
+      "je": "frémirais",
+      "tu": "frémirais",
+      "il": "frémirait",
+      "nous": "frémirions",
+      "vous": "frémiriez",
+      "ils": "frémiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais frémi",
+      "tu": "aurais frémi",
+      "il": "aurait frémi",
+      "nous": "aurions frémi",
+      "vous": "auriez frémi",
+      "ils": "auraient frémi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse frémi",
+      "tu": "eusses frémi",
+      "il": "eût frémi",
+      "nous": "eussions frémi",
+      "vous": "eussiez frémi",
+      "ils": "eussent frémi"
+    },
+    "translation": "drżeć",
+    "group": 2
+  },
+  {
+    "infinitive": "fréquenter",
+    "présent": {
+      "je": "fréquente",
+      "tu": "fréquentes",
+      "il": "fréquente",
+      "nous": "fréquentons",
+      "vous": "fréquentez",
+      "ils": "fréquentent"
+    },
+    "passé_composé": {
+      "je": "ai fréquenté",
+      "tu": "as fréquenté",
+      "il": "a fréquenté",
+      "nous": "avons fréquenté",
+      "vous": "avez fréquenté",
+      "ils": "ont fréquenté"
+    },
+    "imparfait": {
+      "je": "fréquentais",
+      "tu": "fréquentais",
+      "il": "fréquentait",
+      "nous": "fréquentions",
+      "vous": "fréquentiez",
+      "ils": "fréquentaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais fréquenté",
+      "tu": "avais fréquenté",
+      "il": "avait fréquenté",
+      "nous": "avions fréquenté",
+      "vous": "aviez fréquenté",
+      "ils": "avaient fréquenté"
+    },
+    "passé_simple": {
+      "je": "fréquentai",
+      "tu": "fréquentas",
+      "il": "fréquenta",
+      "nous": "fréquentâmes",
+      "vous": "fréquentâtes",
+      "ils": "fréquentèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus fréquenté",
+      "tu": "eus fréquenté",
+      "il": "eut fréquenté",
+      "nous": "eûmes fréquenté",
+      "vous": "eûtes fréquenté",
+      "ils": "eurent fréquenté"
+    },
+    "futur_simple": {
+      "je": "fréquenterai",
+      "tu": "fréquenteras",
+      "il": "fréquentera",
+      "nous": "fréquenterons",
+      "vous": "fréquenterez",
+      "ils": "fréquenteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai fréquenté",
+      "tu": "auras fréquenté",
+      "il": "aura fréquenté",
+      "nous": "aurons fréquenté",
+      "vous": "aurez fréquenté",
+      "ils": "auront fréquenté"
+    },
+    "subjonctif_présent": {
+      "je": "fréquente",
+      "tu": "fréquentes",
+      "il": "fréquente",
+      "nous": "fréquentions",
+      "vous": "fréquentiez",
+      "ils": "fréquentent"
+    },
+    "subjonctif_passé": {
+      "je": "aie fréquenté",
+      "tu": "aies fréquenté",
+      "il": "ait fréquenté",
+      "nous": "ayons fréquenté",
+      "vous": "ayez fréquenté",
+      "ils": "aient fréquenté"
+    },
+    "subjonctif_imparfait": {
+      "je": "fréquentasse",
+      "tu": "fréquentasses",
+      "il": "fréquentât",
+      "nous": "fréquentassions",
+      "vous": "fréquentassiez",
+      "ils": "fréquentassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse fréquenté",
+      "tu": "eusses fréquenté",
+      "il": "eût fréquenté",
+      "nous": "eussions fréquenté",
+      "vous": "eussiez fréquenté",
+      "ils": "eussent fréquenté"
+    },
+    "conditionnel_présent": {
+      "je": "fréquenterais",
+      "tu": "fréquenterais",
+      "il": "fréquenterait",
+      "nous": "fréquenterions",
+      "vous": "fréquenteriez",
+      "ils": "fréquenteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais fréquenté",
+      "tu": "aurais fréquenté",
+      "il": "aurait fréquenté",
+      "nous": "aurions fréquenté",
+      "vous": "auriez fréquenté",
+      "ils": "auraient fréquenté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse fréquenté",
+      "tu": "eusses fréquenté",
+      "il": "eût fréquenté",
+      "nous": "eussions fréquenté",
+      "vous": "eussiez fréquenté",
+      "ils": "eussent fréquenté"
+    },
+    "translation": "bywać",
+    "group": 1
+  },
+  {
+    "infinitive": "frire",
+    "présent": {
+      "je": "fris",
+      "tu": "fris",
+      "il": "frit",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_composé": {
+      "je": "ai frit",
+      "tu": "as frit",
+      "il": "a frit",
+      "nous": "avons frit",
+      "vous": "avez frit",
+      "ils": "ont frit"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "avais frit",
+      "tu": "avais frit",
+      "il": "avait frit",
+      "nous": "avions frit",
+      "vous": "aviez frit",
+      "ils": "avaient frit"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "eus frit",
+      "tu": "eus frit",
+      "il": "eut frit",
+      "nous": "eûmes frit",
+      "vous": "eûtes frit",
+      "ils": "eurent frit"
+    },
+    "futur_simple": {
+      "je": "frirai",
+      "tu": "friras",
+      "il": "frira",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "aurai frit",
+      "tu": "auras frit",
+      "il": "aura frit",
+      "nous": "aurons frit",
+      "vous": "aurez frit",
+      "ils": "auront frit"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "aie frit",
+      "tu": "aies frit",
+      "il": "ait frit",
+      "nous": "ayons frit",
+      "vous": "ayez frit",
+      "ils": "aient frit"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse frit",
+      "tu": "eusses frit",
+      "il": "eût frit",
+      "nous": "eussions frit",
+      "vous": "eussiez frit",
+      "ils": "eussent frit"
+    },
+    "conditionnel_présent": {
+      "je": "frirais",
+      "tu": "frirais",
+      "il": "frirait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais frit",
+      "tu": "aurais frit",
+      "il": "aurait frit",
+      "nous": "aurions frit",
+      "vous": "auriez frit",
+      "ils": "auraient frit"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse frit",
+      "tu": "eusses frit",
+      "il": "eût frit",
+      "nous": "eussions frit",
+      "vous": "eussiez frit",
+      "ils": "eussent frit"
+    },
+    "translation": "smażyć",
+    "group": 3
+  },
+  {
+    "infinitive": "froisser",
+    "présent": {
+      "je": "froisse",
+      "tu": "froisses",
+      "il": "froisse",
+      "nous": "froissons",
+      "vous": "froissez",
+      "ils": "froissent"
+    },
+    "passé_composé": {
+      "je": "ai froissé",
+      "tu": "as froissé",
+      "il": "a froissé",
+      "nous": "avons froissé",
+      "vous": "avez froissé",
+      "ils": "ont froissé"
+    },
+    "imparfait": {
+      "je": "froissais",
+      "tu": "froissais",
+      "il": "froissait",
+      "nous": "froissions",
+      "vous": "froissiez",
+      "ils": "froissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais froissé",
+      "tu": "avais froissé",
+      "il": "avait froissé",
+      "nous": "avions froissé",
+      "vous": "aviez froissé",
+      "ils": "avaient froissé"
+    },
+    "passé_simple": {
+      "je": "froissai",
+      "tu": "froissas",
+      "il": "froissa",
+      "nous": "froissâmes",
+      "vous": "froissâtes",
+      "ils": "froissèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus froissé",
+      "tu": "eus froissé",
+      "il": "eut froissé",
+      "nous": "eûmes froissé",
+      "vous": "eûtes froissé",
+      "ils": "eurent froissé"
+    },
+    "futur_simple": {
+      "je": "froisserai",
+      "tu": "froisseras",
+      "il": "froissera",
+      "nous": "froisserons",
+      "vous": "froisserez",
+      "ils": "froisseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai froissé",
+      "tu": "auras froissé",
+      "il": "aura froissé",
+      "nous": "aurons froissé",
+      "vous": "aurez froissé",
+      "ils": "auront froissé"
+    },
+    "subjonctif_présent": {
+      "je": "froisse",
+      "tu": "froisses",
+      "il": "froisse",
+      "nous": "froissions",
+      "vous": "froissiez",
+      "ils": "froissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie froissé",
+      "tu": "aies froissé",
+      "il": "ait froissé",
+      "nous": "ayons froissé",
+      "vous": "ayez froissé",
+      "ils": "aient froissé"
+    },
+    "subjonctif_imparfait": {
+      "je": "froissasse",
+      "tu": "froissasses",
+      "il": "froissât",
+      "nous": "froissassions",
+      "vous": "froissassiez",
+      "ils": "froissassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse froissé",
+      "tu": "eusses froissé",
+      "il": "eût froissé",
+      "nous": "eussions froissé",
+      "vous": "eussiez froissé",
+      "ils": "eussent froissé"
+    },
+    "conditionnel_présent": {
+      "je": "froisserais",
+      "tu": "froisserais",
+      "il": "froisserait",
+      "nous": "froisserions",
+      "vous": "froisseriez",
+      "ils": "froisseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais froissé",
+      "tu": "aurais froissé",
+      "il": "aurait froissé",
+      "nous": "aurions froissé",
+      "vous": "auriez froissé",
+      "ils": "auraient froissé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse froissé",
+      "tu": "eusses froissé",
+      "il": "eût froissé",
+      "nous": "eussions froissé",
+      "vous": "eussiez froissé",
+      "ils": "eussent froissé"
+    },
+    "translation": "gnieść",
+    "group": 1
+  },
+  {
+    "infinitive": "frôler",
+    "présent": {
+      "je": "frôle",
+      "tu": "frôles",
+      "il": "frôle",
+      "nous": "frôlons",
+      "vous": "frôlez",
+      "ils": "frôlent"
+    },
+    "passé_composé": {
+      "je": "ai frôlé",
+      "tu": "as frôlé",
+      "il": "a frôlé",
+      "nous": "avons frôlé",
+      "vous": "avez frôlé",
+      "ils": "ont frôlé"
+    },
+    "imparfait": {
+      "je": "frôlais",
+      "tu": "frôlais",
+      "il": "frôlait",
+      "nous": "frôlions",
+      "vous": "frôliez",
+      "ils": "frôlaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais frôlé",
+      "tu": "avais frôlé",
+      "il": "avait frôlé",
+      "nous": "avions frôlé",
+      "vous": "aviez frôlé",
+      "ils": "avaient frôlé"
+    },
+    "passé_simple": {
+      "je": "frôlai",
+      "tu": "frôlas",
+      "il": "frôla",
+      "nous": "frôlâmes",
+      "vous": "frôlâtes",
+      "ils": "frôlèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus frôlé",
+      "tu": "eus frôlé",
+      "il": "eut frôlé",
+      "nous": "eûmes frôlé",
+      "vous": "eûtes frôlé",
+      "ils": "eurent frôlé"
+    },
+    "futur_simple": {
+      "je": "frôlerai",
+      "tu": "frôleras",
+      "il": "frôlera",
+      "nous": "frôlerons",
+      "vous": "frôlerez",
+      "ils": "frôleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai frôlé",
+      "tu": "auras frôlé",
+      "il": "aura frôlé",
+      "nous": "aurons frôlé",
+      "vous": "aurez frôlé",
+      "ils": "auront frôlé"
+    },
+    "subjonctif_présent": {
+      "je": "frôle",
+      "tu": "frôles",
+      "il": "frôle",
+      "nous": "frôlions",
+      "vous": "frôliez",
+      "ils": "frôlent"
+    },
+    "subjonctif_passé": {
+      "je": "aie frôlé",
+      "tu": "aies frôlé",
+      "il": "ait frôlé",
+      "nous": "ayons frôlé",
+      "vous": "ayez frôlé",
+      "ils": "aient frôlé"
+    },
+    "subjonctif_imparfait": {
+      "je": "frôlasse",
+      "tu": "frôlasses",
+      "il": "frôlât",
+      "nous": "frôlassions",
+      "vous": "frôlassiez",
+      "ils": "frôlassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse frôlé",
+      "tu": "eusses frôlé",
+      "il": "eût frôlé",
+      "nous": "eussions frôlé",
+      "vous": "eussiez frôlé",
+      "ils": "eussent frôlé"
+    },
+    "conditionnel_présent": {
+      "je": "frôlerais",
+      "tu": "frôlerais",
+      "il": "frôlerait",
+      "nous": "frôlerions",
+      "vous": "frôleriez",
+      "ils": "frôleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais frôlé",
+      "tu": "aurais frôlé",
+      "il": "aurait frôlé",
+      "nous": "aurions frôlé",
+      "vous": "auriez frôlé",
+      "ils": "auraient frôlé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse frôlé",
+      "tu": "eusses frôlé",
+      "il": "eût frôlé",
+      "nous": "eussions frôlé",
+      "vous": "eussiez frôlé",
+      "ils": "eussent frôlé"
+    },
+    "translation": "muskać",
+    "group": 1
+  },
+  {
+    "infinitive": "frotter",
+    "présent": {
+      "je": "frotte",
+      "tu": "frottes",
+      "il": "frotte",
+      "nous": "frottons",
+      "vous": "frottez",
+      "ils": "frottent"
+    },
+    "passé_composé": {
+      "je": "ai frotté",
+      "tu": "as frotté",
+      "il": "a frotté",
+      "nous": "avons frotté",
+      "vous": "avez frotté",
+      "ils": "ont frotté"
+    },
+    "imparfait": {
+      "je": "frottais",
+      "tu": "frottais",
+      "il": "frottait",
+      "nous": "frottions",
+      "vous": "frottiez",
+      "ils": "frottaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais frotté",
+      "tu": "avais frotté",
+      "il": "avait frotté",
+      "nous": "avions frotté",
+      "vous": "aviez frotté",
+      "ils": "avaient frotté"
+    },
+    "passé_simple": {
+      "je": "frottai",
+      "tu": "frottas",
+      "il": "frotta",
+      "nous": "frottâmes",
+      "vous": "frottâtes",
+      "ils": "frottèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus frotté",
+      "tu": "eus frotté",
+      "il": "eut frotté",
+      "nous": "eûmes frotté",
+      "vous": "eûtes frotté",
+      "ils": "eurent frotté"
+    },
+    "futur_simple": {
+      "je": "frotterai",
+      "tu": "frotteras",
+      "il": "frottera",
+      "nous": "frotterons",
+      "vous": "frotterez",
+      "ils": "frotteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai frotté",
+      "tu": "auras frotté",
+      "il": "aura frotté",
+      "nous": "aurons frotté",
+      "vous": "aurez frotté",
+      "ils": "auront frotté"
+    },
+    "subjonctif_présent": {
+      "je": "frotte",
+      "tu": "frottes",
+      "il": "frotte",
+      "nous": "frottions",
+      "vous": "frottiez",
+      "ils": "frottent"
+    },
+    "subjonctif_passé": {
+      "je": "aie frotté",
+      "tu": "aies frotté",
+      "il": "ait frotté",
+      "nous": "ayons frotté",
+      "vous": "ayez frotté",
+      "ils": "aient frotté"
+    },
+    "subjonctif_imparfait": {
+      "je": "frottasse",
+      "tu": "frottasses",
+      "il": "frottât",
+      "nous": "frottassions",
+      "vous": "frottassiez",
+      "ils": "frottassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse frotté",
+      "tu": "eusses frotté",
+      "il": "eût frotté",
+      "nous": "eussions frotté",
+      "vous": "eussiez frotté",
+      "ils": "eussent frotté"
+    },
+    "conditionnel_présent": {
+      "je": "frotterais",
+      "tu": "frotterais",
+      "il": "frotterait",
+      "nous": "frotterions",
+      "vous": "frotteriez",
+      "ils": "frotteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais frotté",
+      "tu": "aurais frotté",
+      "il": "aurait frotté",
+      "nous": "aurions frotté",
+      "vous": "auriez frotté",
+      "ils": "auraient frotté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse frotté",
+      "tu": "eusses frotté",
+      "il": "eût frotté",
+      "nous": "eussions frotté",
+      "vous": "eussiez frotté",
+      "ils": "eussent frotté"
+    },
+    "translation": "ocierać",
+    "group": 1
+  },
+  {
+    "infinitive": "fuir",
+    "présent": {
+      "je": "fuis",
+      "tu": "fuis",
+      "il": "fuit",
+      "nous": "fuyons",
+      "vous": "fuyez",
+      "ils": "fuient"
+    },
+    "passé_composé": {
+      "je": "ai fui",
+      "tu": "as fui",
+      "il": "a fui",
+      "nous": "avons fui",
+      "vous": "avez fui",
+      "ils": "ont fui"
+    },
+    "imparfait": {
+      "je": "fuyais",
+      "tu": "fuyais",
+      "il": "fuyait",
+      "nous": "fuyions",
+      "vous": "fuyiez",
+      "ils": "fuyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais fui",
+      "tu": "avais fui",
+      "il": "avait fui",
+      "nous": "avions fui",
+      "vous": "aviez fui",
+      "ils": "avaient fui"
+    },
+    "passé_simple": {
+      "je": "fuis",
+      "tu": "fuis",
+      "il": "fuit",
+      "nous": "fuîmes",
+      "vous": "fuîtes",
+      "ils": "fuirent"
+    },
+    "passé_antérieur": {
+      "je": "eus fui",
+      "tu": "eus fui",
+      "il": "eut fui",
+      "nous": "eûmes fui",
+      "vous": "eûtes fui",
+      "ils": "eurent fui"
+    },
+    "futur_simple": {
+      "je": "fuirai",
+      "tu": "fuiras",
+      "il": "fuira",
+      "nous": "fuirons",
+      "vous": "fuirez",
+      "ils": "fuiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai fui",
+      "tu": "auras fui",
+      "il": "aura fui",
+      "nous": "aurons fui",
+      "vous": "aurez fui",
+      "ils": "auront fui"
+    },
+    "subjonctif_présent": {
+      "je": "fuie",
+      "tu": "fuies",
+      "il": "fuie",
+      "nous": "fuyions",
+      "vous": "fuyiez",
+      "ils": "fuient"
+    },
+    "subjonctif_passé": {
+      "je": "aie fui",
+      "tu": "aies fui",
+      "il": "ait fui",
+      "nous": "ayons fui",
+      "vous": "ayez fui",
+      "ils": "aient fui"
+    },
+    "subjonctif_imparfait": {
+      "je": "fuisse",
+      "tu": "fuisses",
+      "il": "fuît",
+      "nous": "fuissions",
+      "vous": "fuissiez",
+      "ils": "fuissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse fui",
+      "tu": "eusses fui",
+      "il": "eût fui",
+      "nous": "eussions fui",
+      "vous": "eussiez fui",
+      "ils": "eussent fui"
+    },
+    "conditionnel_présent": {
+      "je": "fuirais",
+      "tu": "fuirais",
+      "il": "fuirait",
+      "nous": "fuirions",
+      "vous": "fuiriez",
+      "ils": "fuiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais fui",
+      "tu": "aurais fui",
+      "il": "aurait fui",
+      "nous": "aurions fui",
+      "vous": "auriez fui",
+      "ils": "auraient fui"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse fui",
+      "tu": "eusses fui",
+      "il": "eût fui",
+      "nous": "eussions fui",
+      "vous": "eussiez fui",
+      "ils": "eussent fui"
+    },
+    "translation": "uciekać",
+    "group": 3
+  },
+  {
+    "infinitive": "fumer",
+    "présent": {
+      "je": "fume",
+      "tu": "fumes",
+      "il": "fume",
+      "nous": "fumons",
+      "vous": "fumez",
+      "ils": "fument"
+    },
+    "passé_composé": {
+      "je": "ai fumé",
+      "tu": "as fumé",
+      "il": "a fumé",
+      "nous": "avons fumé",
+      "vous": "avez fumé",
+      "ils": "ont fumé"
+    },
+    "imparfait": {
+      "je": "fumais",
+      "tu": "fumais",
+      "il": "fumait",
+      "nous": "fumions",
+      "vous": "fumiez",
+      "ils": "fumaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais fumé",
+      "tu": "avais fumé",
+      "il": "avait fumé",
+      "nous": "avions fumé",
+      "vous": "aviez fumé",
+      "ils": "avaient fumé"
+    },
+    "passé_simple": {
+      "je": "fumai",
+      "tu": "fumas",
+      "il": "fuma",
+      "nous": "fumâmes",
+      "vous": "fumâtes",
+      "ils": "fumèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus fumé",
+      "tu": "eus fumé",
+      "il": "eut fumé",
+      "nous": "eûmes fumé",
+      "vous": "eûtes fumé",
+      "ils": "eurent fumé"
+    },
+    "futur_simple": {
+      "je": "fumerai",
+      "tu": "fumeras",
+      "il": "fumera",
+      "nous": "fumerons",
+      "vous": "fumerez",
+      "ils": "fumeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai fumé",
+      "tu": "auras fumé",
+      "il": "aura fumé",
+      "nous": "aurons fumé",
+      "vous": "aurez fumé",
+      "ils": "auront fumé"
+    },
+    "subjonctif_présent": {
+      "je": "fume",
+      "tu": "fumes",
+      "il": "fume",
+      "nous": "fumions",
+      "vous": "fumiez",
+      "ils": "fument"
+    },
+    "subjonctif_passé": {
+      "je": "aie fumé",
+      "tu": "aies fumé",
+      "il": "ait fumé",
+      "nous": "ayons fumé",
+      "vous": "ayez fumé",
+      "ils": "aient fumé"
+    },
+    "subjonctif_imparfait": {
+      "je": "fumasse",
+      "tu": "fumasses",
+      "il": "fumât",
+      "nous": "fumassions",
+      "vous": "fumassiez",
+      "ils": "fumassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse fumé",
+      "tu": "eusses fumé",
+      "il": "eût fumé",
+      "nous": "eussions fumé",
+      "vous": "eussiez fumé",
+      "ils": "eussent fumé"
+    },
+    "conditionnel_présent": {
+      "je": "fumerais",
+      "tu": "fumerais",
+      "il": "fumerait",
+      "nous": "fumerions",
+      "vous": "fumeriez",
+      "ils": "fumeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais fumé",
+      "tu": "aurais fumé",
+      "il": "aurait fumé",
+      "nous": "aurions fumé",
+      "vous": "auriez fumé",
+      "ils": "auraient fumé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse fumé",
+      "tu": "eusses fumé",
+      "il": "eût fumé",
+      "nous": "eussions fumé",
+      "vous": "eussiez fumé",
+      "ils": "eussent fumé"
+    },
+    "translation": "dymić",
+    "group": 1
+  }
+]

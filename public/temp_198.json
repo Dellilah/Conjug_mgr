@@ -1,0 +1,1127 @@
+[
+  {
+    "infinitive": "vomir",
+    "présent": {
+      "je": "vomis",
+      "tu": "vomis",
+      "il": "vomit",
+      "nous": "vomissons",
+      "vous": "vomissez",
+      "ils": "vomissent"
+    },
+    "passé_composé": {
+      "je": "ai vomi",
+      "tu": "as vomi",
+      "il": "a vomi",
+      "nous": "avons vomi",
+      "vous": "avez vomi",
+      "ils": "ont vomi"
+    },
+    "imparfait": {
+      "je": "vomissais",
+      "tu": "vomissais",
+      "il": "vomissait",
+      "nous": "vomissions",
+      "vous": "vomissiez",
+      "ils": "vomissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais vomi",
+      "tu": "avais vomi",
+      "il": "avait vomi",
+      "nous": "avions vomi",
+      "vous": "aviez vomi",
+      "ils": "avaient vomi"
+    },
+    "passé_simple": {
+      "je": "vomis",
+      "tu": "vomis",
+      "il": "vomit",
+      "nous": "vomîmes",
+      "vous": "vomîtes",
+      "ils": "vomirent"
+    },
+    "passé_antérieur": {
+      "je": "eus vomi",
+      "tu": "eus vomi",
+      "il": "eut vomi",
+      "nous": "eûmes vomi",
+      "vous": "eûtes vomi",
+      "ils": "eurent vomi"
+    },
+    "futur_simple": {
+      "je": "vomirai",
+      "tu": "vomiras",
+      "il": "vomira",
+      "nous": "vomirons",
+      "vous": "vomirez",
+      "ils": "vomiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai vomi",
+      "tu": "auras vomi",
+      "il": "aura vomi",
+      "nous": "aurons vomi",
+      "vous": "aurez vomi",
+      "ils": "auront vomi"
+    },
+    "subjonctif_présent": {
+      "je": "vomisse",
+      "tu": "vomisses",
+      "il": "vomisse",
+      "nous": "vomissions",
+      "vous": "vomissiez",
+      "ils": "vomissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie vomi",
+      "tu": "aies vomi",
+      "il": "ait vomi",
+      "nous": "ayons vomi",
+      "vous": "ayez vomi",
+      "ils": "aient vomi"
+    },
+    "subjonctif_imparfait": {
+      "je": "vomisse",
+      "tu": "vomisses",
+      "il": "vomît",
+      "nous": "vomissions",
+      "vous": "vomissiez",
+      "ils": "vomissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse vomi",
+      "tu": "eusses vomi",
+      "il": "eût vomi",
+      "nous": "eussions vomi",
+      "vous": "eussiez vomi",
+      "ils": "eussent vomi"
+    },
+    "conditionnel_présent": {
+      "je": "vomirais",
+      "tu": "vomirais",
+      "il": "vomirait",
+      "nous": "vomirions",
+      "vous": "vomiriez",
+      "ils": "vomiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais vomi",
+      "tu": "aurais vomi",
+      "il": "aurait vomi",
+      "nous": "aurions vomi",
+      "vous": "auriez vomi",
+      "ils": "auraient vomi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse vomi",
+      "tu": "eusses vomi",
+      "il": "eût vomi",
+      "nous": "eussions vomi",
+      "vous": "eussiez vomi",
+      "ils": "eussent vomi"
+    },
+    "translation": "zwracać",
+    "group": 2
+  },
+  {
+    "infinitive": "voter",
+    "présent": {
+      "je": "vote",
+      "tu": "votes",
+      "il": "vote",
+      "nous": "votons",
+      "vous": "votez",
+      "ils": "votent"
+    },
+    "passé_composé": {
+      "je": "ai voté",
+      "tu": "as voté",
+      "il": "a voté",
+      "nous": "avons voté",
+      "vous": "avez voté",
+      "ils": "ont voté"
+    },
+    "imparfait": {
+      "je": "votais",
+      "tu": "votais",
+      "il": "votait",
+      "nous": "votions",
+      "vous": "votiez",
+      "ils": "votaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais voté",
+      "tu": "avais voté",
+      "il": "avait voté",
+      "nous": "avions voté",
+      "vous": "aviez voté",
+      "ils": "avaient voté"
+    },
+    "passé_simple": {
+      "je": "votai",
+      "tu": "votas",
+      "il": "vota",
+      "nous": "votâmes",
+      "vous": "votâtes",
+      "ils": "votèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus voté",
+      "tu": "eus voté",
+      "il": "eut voté",
+      "nous": "eûmes voté",
+      "vous": "eûtes voté",
+      "ils": "eurent voté"
+    },
+    "futur_simple": {
+      "je": "voterai",
+      "tu": "voteras",
+      "il": "votera",
+      "nous": "voterons",
+      "vous": "voterez",
+      "ils": "voteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai voté",
+      "tu": "auras voté",
+      "il": "aura voté",
+      "nous": "aurons voté",
+      "vous": "aurez voté",
+      "ils": "auront voté"
+    },
+    "subjonctif_présent": {
+      "je": "vote",
+      "tu": "votes",
+      "il": "vote",
+      "nous": "votions",
+      "vous": "votiez",
+      "ils": "votent"
+    },
+    "subjonctif_passé": {
+      "je": "aie voté",
+      "tu": "aies voté",
+      "il": "ait voté",
+      "nous": "ayons voté",
+      "vous": "ayez voté",
+      "ils": "aient voté"
+    },
+    "subjonctif_imparfait": {
+      "je": "votasse",
+      "tu": "votasses",
+      "il": "votât",
+      "nous": "votassions",
+      "vous": "votassiez",
+      "ils": "votassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse voté",
+      "tu": "eusses voté",
+      "il": "eût voté",
+      "nous": "eussions voté",
+      "vous": "eussiez voté",
+      "ils": "eussent voté"
+    },
+    "conditionnel_présent": {
+      "je": "voterais",
+      "tu": "voterais",
+      "il": "voterait",
+      "nous": "voterions",
+      "vous": "voteriez",
+      "ils": "voteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais voté",
+      "tu": "aurais voté",
+      "il": "aurait voté",
+      "nous": "aurions voté",
+      "vous": "auriez voté",
+      "ils": "auraient voté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse voté",
+      "tu": "eusses voté",
+      "il": "eût voté",
+      "nous": "eussions voté",
+      "vous": "eussiez voté",
+      "ils": "eussent voté"
+    },
+    "translation": "głosować",
+    "group": 1
+  },
+  {
+    "infinitive": "vouer",
+    "présent": {
+      "je": "voue",
+      "tu": "voues",
+      "il": "voue",
+      "nous": "vouons",
+      "vous": "vouez",
+      "ils": "vouent"
+    },
+    "passé_composé": {
+      "je": "ai voué",
+      "tu": "as voué",
+      "il": "a voué",
+      "nous": "avons voué",
+      "vous": "avez voué",
+      "ils": "ont voué"
+    },
+    "imparfait": {
+      "je": "vouais",
+      "tu": "vouais",
+      "il": "vouait",
+      "nous": "vouions",
+      "vous": "vouiez",
+      "ils": "vouaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais voué",
+      "tu": "avais voué",
+      "il": "avait voué",
+      "nous": "avions voué",
+      "vous": "aviez voué",
+      "ils": "avaient voué"
+    },
+    "passé_simple": {
+      "je": "vouai",
+      "tu": "vouas",
+      "il": "voua",
+      "nous": "vouâmes",
+      "vous": "vouâtes",
+      "ils": "vouèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus voué",
+      "tu": "eus voué",
+      "il": "eut voué",
+      "nous": "eûmes voué",
+      "vous": "eûtes voué",
+      "ils": "eurent voué"
+    },
+    "futur_simple": {
+      "je": "vouerai",
+      "tu": "voueras",
+      "il": "vouera",
+      "nous": "vouerons",
+      "vous": "vouerez",
+      "ils": "voueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai voué",
+      "tu": "auras voué",
+      "il": "aura voué",
+      "nous": "aurons voué",
+      "vous": "aurez voué",
+      "ils": "auront voué"
+    },
+    "subjonctif_présent": {
+      "je": "voue",
+      "tu": "voues",
+      "il": "voue",
+      "nous": "vouions",
+      "vous": "vouiez",
+      "ils": "vouent"
+    },
+    "subjonctif_passé": {
+      "je": "aie voué",
+      "tu": "aies voué",
+      "il": "ait voué",
+      "nous": "ayons voué",
+      "vous": "ayez voué",
+      "ils": "aient voué"
+    },
+    "subjonctif_imparfait": {
+      "je": "vouasse",
+      "tu": "vouasses",
+      "il": "vouât",
+      "nous": "vouassions",
+      "vous": "vouassiez",
+      "ils": "vouassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse voué",
+      "tu": "eusses voué",
+      "il": "eût voué",
+      "nous": "eussions voué",
+      "vous": "eussiez voué",
+      "ils": "eussent voué"
+    },
+    "conditionnel_présent": {
+      "je": "vouerais",
+      "tu": "vouerais",
+      "il": "vouerait",
+      "nous": "vouerions",
+      "vous": "voueriez",
+      "ils": "voueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais voué",
+      "tu": "aurais voué",
+      "il": "aurait voué",
+      "nous": "aurions voué",
+      "vous": "auriez voué",
+      "ils": "auraient voué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse voué",
+      "tu": "eusses voué",
+      "il": "eût voué",
+      "nous": "eussions voué",
+      "vous": "eussiez voué",
+      "ils": "eussent voué"
+    },
+    "translation": "skazywać",
+    "group": 1
+  },
+  {
+    "infinitive": "vouloir",
+    "présent": {
+      "je": "veux",
+      "tu": "veux",
+      "il": "veut",
+      "nous": "voulons",
+      "vous": "voulez",
+      "ils": "veulent"
+    },
+    "passé_composé": {
+      "je": "ai voulu",
+      "tu": "as voulu",
+      "il": "a voulu",
+      "nous": "avons voulu",
+      "vous": "avez voulu",
+      "ils": "ont voulu"
+    },
+    "imparfait": {
+      "je": "voulais",
+      "tu": "voulais",
+      "il": "voulait",
+      "nous": "voulions",
+      "vous": "vouliez",
+      "ils": "voulaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais voulu",
+      "tu": "avais voulu",
+      "il": "avait voulu",
+      "nous": "avions voulu",
+      "vous": "aviez voulu",
+      "ils": "avaient voulu"
+    },
+    "passé_simple": {
+      "je": "voulus",
+      "tu": "voulus",
+      "il": "voulut",
+      "nous": "voulûmes",
+      "vous": "voulûtes",
+      "ils": "voulurent"
+    },
+    "passé_antérieur": {
+      "je": "eus voulu",
+      "tu": "eus voulu",
+      "il": "eut voulu",
+      "nous": "eûmes voulu",
+      "vous": "eûtes voulu",
+      "ils": "eurent voulu"
+    },
+    "futur_simple": {
+      "je": "voudrai",
+      "tu": "voudras",
+      "il": "voudra",
+      "nous": "voudrons",
+      "vous": "voudrez",
+      "ils": "voudront"
+    },
+    "futur_antérieur": {
+      "je": "aurai voulu",
+      "tu": "auras voulu",
+      "il": "aura voulu",
+      "nous": "aurons voulu",
+      "vous": "aurez voulu",
+      "ils": "auront voulu"
+    },
+    "subjonctif_présent": {
+      "je": "veuille",
+      "tu": "veuilles",
+      "il": "veuille",
+      "nous": "voulions",
+      "vous": "vouliez",
+      "ils": "veuillent"
+    },
+    "subjonctif_passé": {
+      "je": "aie voulu",
+      "tu": "aies voulu",
+      "il": "ait voulu",
+      "nous": "ayons voulu",
+      "vous": "ayez voulu",
+      "ils": "aient voulu"
+    },
+    "subjonctif_imparfait": {
+      "je": "voulusse",
+      "tu": "voulusses",
+      "il": "voulût",
+      "nous": "voulussions",
+      "vous": "voulussiez",
+      "ils": "voulussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse voulu",
+      "tu": "eusses voulu",
+      "il": "eût voulu",
+      "nous": "eussions voulu",
+      "vous": "eussiez voulu",
+      "ils": "eussent voulu"
+    },
+    "conditionnel_présent": {
+      "je": "voudrais",
+      "tu": "voudrais",
+      "il": "voudrait",
+      "nous": "voudrions",
+      "vous": "voudriez",
+      "ils": "voudraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais voulu",
+      "tu": "aurais voulu",
+      "il": "aurait voulu",
+      "nous": "aurions voulu",
+      "vous": "auriez voulu",
+      "ils": "auraient voulu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse voulu",
+      "tu": "eusses voulu",
+      "il": "eût voulu",
+      "nous": "eussions voulu",
+      "vous": "eussiez voulu",
+      "ils": "eussent voulu"
+    },
+    "translation": "żądać",
+    "group": 3
+  },
+  {
+    "infinitive": "voûter",
+    "présent": {
+      "je": "voûte",
+      "tu": "voûtes",
+      "il": "voûte",
+      "nous": "voûtons",
+      "vous": "voûtez",
+      "ils": "voûtent"
+    },
+    "passé_composé": {
+      "je": "ai voûté",
+      "tu": "as voûté",
+      "il": "a voûté",
+      "nous": "avons voûté",
+      "vous": "avez voûté",
+      "ils": "ont voûté"
+    },
+    "imparfait": {
+      "je": "voûtais",
+      "tu": "voûtais",
+      "il": "voûtait",
+      "nous": "voûtions",
+      "vous": "voûtiez",
+      "ils": "voûtaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais voûté",
+      "tu": "avais voûté",
+      "il": "avait voûté",
+      "nous": "avions voûté",
+      "vous": "aviez voûté",
+      "ils": "avaient voûté"
+    },
+    "passé_simple": {
+      "je": "voûtai",
+      "tu": "voûtas",
+      "il": "voûta",
+      "nous": "voûtâmes",
+      "vous": "voûtâtes",
+      "ils": "voûtèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus voûté",
+      "tu": "eus voûté",
+      "il": "eut voûté",
+      "nous": "eûmes voûté",
+      "vous": "eûtes voûté",
+      "ils": "eurent voûté"
+    },
+    "futur_simple": {
+      "je": "voûterai",
+      "tu": "voûteras",
+      "il": "voûtera",
+      "nous": "voûterons",
+      "vous": "voûterez",
+      "ils": "voûteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai voûté",
+      "tu": "auras voûté",
+      "il": "aura voûté",
+      "nous": "aurons voûté",
+      "vous": "aurez voûté",
+      "ils": "auront voûté"
+    },
+    "subjonctif_présent": {
+      "je": "voûte",
+      "tu": "voûtes",
+      "il": "voûte",
+      "nous": "voûtions",
+      "vous": "voûtiez",
+      "ils": "voûtent"
+    },
+    "subjonctif_passé": {
+      "je": "aie voûté",
+      "tu": "aies voûté",
+      "il": "ait voûté",
+      "nous": "ayons voûté",
+      "vous": "ayez voûté",
+      "ils": "aient voûté"
+    },
+    "subjonctif_imparfait": {
+      "je": "voûtasse",
+      "tu": "voûtasses",
+      "il": "voûtât",
+      "nous": "voûtassions",
+      "vous": "voûtassiez",
+      "ils": "voûtassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse voûté",
+      "tu": "eusses voûté",
+      "il": "eût voûté",
+      "nous": "eussions voûté",
+      "vous": "eussiez voûté",
+      "ils": "eussent voûté"
+    },
+    "conditionnel_présent": {
+      "je": "voûterais",
+      "tu": "voûterais",
+      "il": "voûterait",
+      "nous": "voûterions",
+      "vous": "voûteriez",
+      "ils": "voûteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais voûté",
+      "tu": "aurais voûté",
+      "il": "aurait voûté",
+      "nous": "aurions voûté",
+      "vous": "auriez voûté",
+      "ils": "auraient voûté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse voûté",
+      "tu": "eusses voûté",
+      "il": "eût voûté",
+      "nous": "eussions voûté",
+      "vous": "eussiez voûté",
+      "ils": "eussent voûté"
+    },
+    "translation": "być",
+    "group": 1
+  },
+  {
+    "infinitive": "vouvoyer",
+    "présent": {
+      "je": "vouvoie",
+      "tu": "vouvoies",
+      "il": "vouvoie",
+      "nous": "vouvoyons",
+      "vous": "vouvoyez",
+      "ils": "vouvoient"
+    },
+    "passé_composé": {
+      "je": "ai vouvoyé",
+      "tu": "as vouvoyé",
+      "il": "a vouvoyé",
+      "nous": "avons vouvoyé",
+      "vous": "avez vouvoyé",
+      "ils": "ont vouvoyé"
+    },
+    "imparfait": {
+      "je": "vouvoyais",
+      "tu": "vouvoyais",
+      "il": "vouvoyait",
+      "nous": "vouvoyions",
+      "vous": "vouvoyiez",
+      "ils": "vouvoyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais vouvoyé",
+      "tu": "avais vouvoyé",
+      "il": "avait vouvoyé",
+      "nous": "avions vouvoyé",
+      "vous": "aviez vouvoyé",
+      "ils": "avaient vouvoyé"
+    },
+    "passé_simple": {
+      "je": "vouvoyai",
+      "tu": "vouvoyas",
+      "il": "vouvoya",
+      "nous": "vouvoyâmes",
+      "vous": "vouvoyâtes",
+      "ils": "vouvoyèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus vouvoyé",
+      "tu": "eus vouvoyé",
+      "il": "eut vouvoyé",
+      "nous": "eûmes vouvoyé",
+      "vous": "eûtes vouvoyé",
+      "ils": "eurent vouvoyé"
+    },
+    "futur_simple": {
+      "je": "vouvoierai",
+      "tu": "vouvoieras",
+      "il": "vouvoiera",
+      "nous": "vouvoierons",
+      "vous": "vouvoierez",
+      "ils": "vouvoieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai vouvoyé",
+      "tu": "auras vouvoyé",
+      "il": "aura vouvoyé",
+      "nous": "aurons vouvoyé",
+      "vous": "aurez vouvoyé",
+      "ils": "auront vouvoyé"
+    },
+    "subjonctif_présent": {
+      "je": "vouvoie",
+      "tu": "vouvoies",
+      "il": "vouvoie",
+      "nous": "vouvoyions",
+      "vous": "vouvoyiez",
+      "ils": "vouvoient"
+    },
+    "subjonctif_passé": {
+      "je": "aie vouvoyé",
+      "tu": "aies vouvoyé",
+      "il": "ait vouvoyé",
+      "nous": "ayons vouvoyé",
+      "vous": "ayez vouvoyé",
+      "ils": "aient vouvoyé"
+    },
+    "subjonctif_imparfait": {
+      "je": "vouvoyasse",
+      "tu": "vouvoyasses",
+      "il": "vouvoyât",
+      "nous": "vouvoyassions",
+      "vous": "vouvoyassiez",
+      "ils": "vouvoyassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse vouvoyé",
+      "tu": "eusses vouvoyé",
+      "il": "eût vouvoyé",
+      "nous": "eussions vouvoyé",
+      "vous": "eussiez vouvoyé",
+      "ils": "eussent vouvoyé"
+    },
+    "conditionnel_présent": {
+      "je": "vouvoierais",
+      "tu": "vouvoierais",
+      "il": "vouvoierait",
+      "nous": "vouvoierions",
+      "vous": "vouvoieriez",
+      "ils": "vouvoieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais vouvoyé",
+      "tu": "aurais vouvoyé",
+      "il": "aurait vouvoyé",
+      "nous": "aurions vouvoyé",
+      "vous": "auriez vouvoyé",
+      "ils": "auraient vouvoyé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse vouvoyé",
+      "tu": "eusses vouvoyé",
+      "il": "eût vouvoyé",
+      "nous": "eussions vouvoyé",
+      "vous": "eussiez vouvoyé",
+      "ils": "eussent vouvoyé"
+    },
+    "translation": "zwracać",
+    "group": 1
+  },
+  {
+    "infinitive": "voyager",
+    "présent": {
+      "je": "voyage",
+      "tu": "voyages",
+      "il": "voyage",
+      "nous": "voyageons",
+      "vous": "voyagez",
+      "ils": "voyagent"
+    },
+    "passé_composé": {
+      "je": "ai voyagé",
+      "tu": "as voyagé",
+      "il": "a voyagé",
+      "nous": "avons voyagé",
+      "vous": "avez voyagé",
+      "ils": "ont voyagé"
+    },
+    "imparfait": {
+      "je": "voyageais",
+      "tu": "voyageais",
+      "il": "voyageait",
+      "nous": "voyagions",
+      "vous": "voyagiez",
+      "ils": "voyageaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais voyagé",
+      "tu": "avais voyagé",
+      "il": "avait voyagé",
+      "nous": "avions voyagé",
+      "vous": "aviez voyagé",
+      "ils": "avaient voyagé"
+    },
+    "passé_simple": {
+      "je": "voyageai",
+      "tu": "voyageas",
+      "il": "voyagea",
+      "nous": "voyageâmes",
+      "vous": "voyageâtes",
+      "ils": "voyagèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus voyagé",
+      "tu": "eus voyagé",
+      "il": "eut voyagé",
+      "nous": "eûmes voyagé",
+      "vous": "eûtes voyagé",
+      "ils": "eurent voyagé"
+    },
+    "futur_simple": {
+      "je": "voyagerai",
+      "tu": "voyageras",
+      "il": "voyagera",
+      "nous": "voyagerons",
+      "vous": "voyagerez",
+      "ils": "voyageront"
+    },
+    "futur_antérieur": {
+      "je": "aurai voyagé",
+      "tu": "auras voyagé",
+      "il": "aura voyagé",
+      "nous": "aurons voyagé",
+      "vous": "aurez voyagé",
+      "ils": "auront voyagé"
+    },
+    "subjonctif_présent": {
+      "je": "voyage",
+      "tu": "voyages",
+      "il": "voyage",
+      "nous": "voyagions",
+      "vous": "voyagiez",
+      "ils": "voyagent"
+    },
+    "subjonctif_passé": {
+      "je": "aie voyagé",
+      "tu": "aies voyagé",
+      "il": "ait voyagé",
+      "nous": "ayons voyagé",
+      "vous": "ayez voyagé",
+      "ils": "aient voyagé"
+    },
+    "subjonctif_imparfait": {
+      "je": "voyageasse",
+      "tu": "voyageasses",
+      "il": "voyageât",
+      "nous": "voyageassions",
+      "vous": "voyageassiez",
+      "ils": "voyageassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse voyagé",
+      "tu": "eusses voyagé",
+      "il": "eût voyagé",
+      "nous": "eussions voyagé",
+      "vous": "eussiez voyagé",
+      "ils": "eussent voyagé"
+    },
+    "conditionnel_présent": {
+      "je": "voyagerais",
+      "tu": "voyagerais",
+      "il": "voyagerait",
+      "nous": "voyagerions",
+      "vous": "voyageriez",
+      "ils": "voyageraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais voyagé",
+      "tu": "aurais voyagé",
+      "il": "aurait voyagé",
+      "nous": "aurions voyagé",
+      "vous": "auriez voyagé",
+      "ils": "auraient voyagé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse voyagé",
+      "tu": "eusses voyagé",
+      "il": "eût voyagé",
+      "nous": "eussions voyagé",
+      "vous": "eussiez voyagé",
+      "ils": "eussent voyagé"
+    },
+    "translation": "podróżować",
+    "group": 1
+  },
+  {
+    "infinitive": "zapper",
+    "présent": {
+      "je": "zappe",
+      "tu": "zappes",
+      "il": "zappe",
+      "nous": "zappons",
+      "vous": "zappez",
+      "ils": "zappent"
+    },
+    "passé_composé": {
+      "je": "ai zappé",
+      "tu": "as zappé",
+      "il": "a zappé",
+      "nous": "avons zappé",
+      "vous": "avez zappé",
+      "ils": "ont zappé"
+    },
+    "imparfait": {
+      "je": "zappais",
+      "tu": "zappais",
+      "il": "zappait",
+      "nous": "zappions",
+      "vous": "zappiez",
+      "ils": "zappaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais zappé",
+      "tu": "avais zappé",
+      "il": "avait zappé",
+      "nous": "avions zappé",
+      "vous": "aviez zappé",
+      "ils": "avaient zappé"
+    },
+    "passé_simple": {
+      "je": "zappai",
+      "tu": "zappas",
+      "il": "zappa",
+      "nous": "zappâmes",
+      "vous": "zappâtes",
+      "ils": "zappèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus zappé",
+      "tu": "eus zappé",
+      "il": "eut zappé",
+      "nous": "eûmes zappé",
+      "vous": "eûtes zappé",
+      "ils": "eurent zappé"
+    },
+    "futur_simple": {
+      "je": "zapperai",
+      "tu": "zapperas",
+      "il": "zappera",
+      "nous": "zapperons",
+      "vous": "zapperez",
+      "ils": "zapperont"
+    },
+    "futur_antérieur": {
+      "je": "aurai zappé",
+      "tu": "auras zappé",
+      "il": "aura zappé",
+      "nous": "aurons zappé",
+      "vous": "aurez zappé",
+      "ils": "auront zappé"
+    },
+    "subjonctif_présent": {
+      "je": "zappe",
+      "tu": "zappes",
+      "il": "zappe",
+      "nous": "zappions",
+      "vous": "zappiez",
+      "ils": "zappent"
+    },
+    "subjonctif_passé": {
+      "je": "aie zappé",
+      "tu": "aies zappé",
+      "il": "ait zappé",
+      "nous": "ayons zappé",
+      "vous": "ayez zappé",
+      "ils": "aient zappé"
+    },
+    "subjonctif_imparfait": {
+      "je": "zappasse",
+      "tu": "zappasses",
+      "il": "zappât",
+      "nous": "zappassions",
+      "vous": "zappassiez",
+      "ils": "zappassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse zappé",
+      "tu": "eusses zappé",
+      "il": "eût zappé",
+      "nous": "eussions zappé",
+      "vous": "eussiez zappé",
+      "ils": "eussent zappé"
+    },
+    "conditionnel_présent": {
+      "je": "zapperais",
+      "tu": "zapperais",
+      "il": "zapperait",
+      "nous": "zapperions",
+      "vous": "zapperiez",
+      "ils": "zapperaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais zappé",
+      "tu": "aurais zappé",
+      "il": "aurait zappé",
+      "nous": "aurions zappé",
+      "vous": "auriez zappé",
+      "ils": "auraient zappé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse zappé",
+      "tu": "eusses zappé",
+      "il": "eût zappé",
+      "nous": "eussions zappé",
+      "vous": "eussiez zappé",
+      "ils": "eussent zappé"
+    },
+    "translation": "zmieniać",
+    "group": 1
+  },
+  {
+    "infinitive": "zézayer",
+    "présent": {
+      "je": "zézaie",
+      "tu": "zézaies",
+      "il": "zézaie",
+      "nous": "zézayons",
+      "vous": "zézayez",
+      "ils": "zézaient"
+    },
+    "passé_composé": {
+      "je": "ai zézayé",
+      "tu": "as zézayé",
+      "il": "a zézayé",
+      "nous": "avons zézayé",
+      "vous": "avez zézayé",
+      "ils": "ont zézayé"
+    },
+    "imparfait": {
+      "je": "zézayais",
+      "tu": "zézayais",
+      "il": "zézayait",
+      "nous": "zézayions",
+      "vous": "zézayiez",
+      "ils": "zézayaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais zézayé",
+      "tu": "avais zézayé",
+      "il": "avait zézayé",
+      "nous": "avions zézayé",
+      "vous": "aviez zézayé",
+      "ils": "avaient zézayé"
+    },
+    "passé_simple": {
+      "je": "zézayai",
+      "tu": "zézayas",
+      "il": "zézaya",
+      "nous": "zézayâmes",
+      "vous": "zézayâtes",
+      "ils": "zézayèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus zézayé",
+      "tu": "eus zézayé",
+      "il": "eut zézayé",
+      "nous": "eûmes zézayé",
+      "vous": "eûtes zézayé",
+      "ils": "eurent zézayé"
+    },
+    "futur_simple": {
+      "je": "zézaierai",
+      "tu": "zézaieras",
+      "il": "zézaiera",
+      "nous": "zézaierons",
+      "vous": "zézaierez",
+      "ils": "zézaieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai zézayé",
+      "tu": "auras zézayé",
+      "il": "aura zézayé",
+      "nous": "aurons zézayé",
+      "vous": "aurez zézayé",
+      "ils": "auront zézayé"
+    },
+    "subjonctif_présent": {
+      "je": "zézaie",
+      "tu": "zézaies",
+      "il": "zézaie",
+      "nous": "zézayions",
+      "vous": "zézayiez",
+      "ils": "zézaient"
+    },
+    "subjonctif_passé": {
+      "je": "aie zézayé",
+      "tu": "aies zézayé",
+      "il": "ait zézayé",
+      "nous": "ayons zézayé",
+      "vous": "ayez zézayé",
+      "ils": "aient zézayé"
+    },
+    "subjonctif_imparfait": {
+      "je": "zézayasse",
+      "tu": "zézayasses",
+      "il": "zézayât",
+      "nous": "zézayassions",
+      "vous": "zézayassiez",
+      "ils": "zézayassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse zézayé",
+      "tu": "eusses zézayé",
+      "il": "eût zézayé",
+      "nous": "eussions zézayé",
+      "vous": "eussiez zézayé",
+      "ils": "eussent zézayé"
+    },
+    "conditionnel_présent": {
+      "je": "zézaierais",
+      "tu": "zézaierais",
+      "il": "zézaierait",
+      "nous": "zézaierions",
+      "vous": "zézaieriez",
+      "ils": "zézaieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais zézayé",
+      "tu": "aurais zézayé",
+      "il": "aurait zézayé",
+      "nous": "aurions zézayé",
+      "vous": "auriez zézayé",
+      "ils": "auraient zézayé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse zézayé",
+      "tu": "eusses zézayé",
+      "il": "eût zézayé",
+      "nous": "eussions zézayé",
+      "vous": "eussiez zézayé",
+      "ils": "eussent zézayé"
+    },
+    "translation": "seplenić",
+    "group": 1
+  }
+]

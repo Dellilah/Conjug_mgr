@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "deviner",
+    "présent": {
+      "je": "devine",
+      "tu": "devines",
+      "il": "devine",
+      "nous": "devinons",
+      "vous": "devinez",
+      "ils": "devinent"
+    },
+    "passé_composé": {
+      "je": "ai deviné",
+      "tu": "as deviné",
+      "il": "a deviné",
+      "nous": "avons deviné",
+      "vous": "avez deviné",
+      "ils": "ont deviné"
+    },
+    "imparfait": {
+      "je": "devinais",
+      "tu": "devinais",
+      "il": "devinait",
+      "nous": "devinions",
+      "vous": "deviniez",
+      "ils": "devinaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais deviné",
+      "tu": "avais deviné",
+      "il": "avait deviné",
+      "nous": "avions deviné",
+      "vous": "aviez deviné",
+      "ils": "avaient deviné"
+    },
+    "passé_simple": {
+      "je": "devinai",
+      "tu": "devinas",
+      "il": "devina",
+      "nous": "devinâmes",
+      "vous": "devinâtes",
+      "ils": "devinèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus deviné",
+      "tu": "eus deviné",
+      "il": "eut deviné",
+      "nous": "eûmes deviné",
+      "vous": "eûtes deviné",
+      "ils": "eurent deviné"
+    },
+    "futur_simple": {
+      "je": "devinerai",
+      "tu": "devineras",
+      "il": "devinera",
+      "nous": "devinerons",
+      "vous": "devinerez",
+      "ils": "devineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai deviné",
+      "tu": "auras deviné",
+      "il": "aura deviné",
+      "nous": "aurons deviné",
+      "vous": "aurez deviné",
+      "ils": "auront deviné"
+    },
+    "subjonctif_présent": {
+      "je": "devine",
+      "tu": "devines",
+      "il": "devine",
+      "nous": "devinions",
+      "vous": "deviniez",
+      "ils": "devinent"
+    },
+    "subjonctif_passé": {
+      "je": "aie deviné",
+      "tu": "aies deviné",
+      "il": "ait deviné",
+      "nous": "ayons deviné",
+      "vous": "ayez deviné",
+      "ils": "aient deviné"
+    },
+    "subjonctif_imparfait": {
+      "je": "devinasse",
+      "tu": "devinasses",
+      "il": "devinât",
+      "nous": "devinassions",
+      "vous": "devinassiez",
+      "ils": "devinassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse deviné",
+      "tu": "eusses deviné",
+      "il": "eût deviné",
+      "nous": "eussions deviné",
+      "vous": "eussiez deviné",
+      "ils": "eussent deviné"
+    },
+    "conditionnel_présent": {
+      "je": "devinerais",
+      "tu": "devinerais",
+      "il": "devinerait",
+      "nous": "devinerions",
+      "vous": "devineriez",
+      "ils": "devineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais deviné",
+      "tu": "aurais deviné",
+      "il": "aurait deviné",
+      "nous": "aurions deviné",
+      "vous": "auriez deviné",
+      "ils": "auraient deviné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse deviné",
+      "tu": "eusses deviné",
+      "il": "eût deviné",
+      "nous": "eussions deviné",
+      "vous": "eussiez deviné",
+      "ils": "eussent deviné"
+    },
+    "translation": "przypuszczać",
+    "group": 1
+  },
+  {
+    "infinitive": "dévoiler",
+    "présent": {
+      "je": "dévoile",
+      "tu": "dévoiles",
+      "il": "dévoile",
+      "nous": "dévoilons",
+      "vous": "dévoilez",
+      "ils": "dévoilent"
+    },
+    "passé_composé": {
+      "je": "ai dévoilé",
+      "tu": "as dévoilé",
+      "il": "a dévoilé",
+      "nous": "avons dévoilé",
+      "vous": "avez dévoilé",
+      "ils": "ont dévoilé"
+    },
+    "imparfait": {
+      "je": "dévoilais",
+      "tu": "dévoilais",
+      "il": "dévoilait",
+      "nous": "dévoilions",
+      "vous": "dévoiliez",
+      "ils": "dévoilaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dévoilé",
+      "tu": "avais dévoilé",
+      "il": "avait dévoilé",
+      "nous": "avions dévoilé",
+      "vous": "aviez dévoilé",
+      "ils": "avaient dévoilé"
+    },
+    "passé_simple": {
+      "je": "dévoilai",
+      "tu": "dévoilas",
+      "il": "dévoila",
+      "nous": "dévoilâmes",
+      "vous": "dévoilâtes",
+      "ils": "dévoilèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus dévoilé",
+      "tu": "eus dévoilé",
+      "il": "eut dévoilé",
+      "nous": "eûmes dévoilé",
+      "vous": "eûtes dévoilé",
+      "ils": "eurent dévoilé"
+    },
+    "futur_simple": {
+      "je": "dévoilerai",
+      "tu": "dévoileras",
+      "il": "dévoilera",
+      "nous": "dévoilerons",
+      "vous": "dévoilerez",
+      "ils": "dévoileront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dévoilé",
+      "tu": "auras dévoilé",
+      "il": "aura dévoilé",
+      "nous": "aurons dévoilé",
+      "vous": "aurez dévoilé",
+      "ils": "auront dévoilé"
+    },
+    "subjonctif_présent": {
+      "je": "dévoile",
+      "tu": "dévoiles",
+      "il": "dévoile",
+      "nous": "dévoilions",
+      "vous": "dévoiliez",
+      "ils": "dévoilent"
+    },
+    "subjonctif_passé": {
+      "je": "aie dévoilé",
+      "tu": "aies dévoilé",
+      "il": "ait dévoilé",
+      "nous": "ayons dévoilé",
+      "vous": "ayez dévoilé",
+      "ils": "aient dévoilé"
+    },
+    "subjonctif_imparfait": {
+      "je": "dévoilasse",
+      "tu": "dévoilasses",
+      "il": "dévoilât",
+      "nous": "dévoilassions",
+      "vous": "dévoilassiez",
+      "ils": "dévoilassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dévoilé",
+      "tu": "eusses dévoilé",
+      "il": "eût dévoilé",
+      "nous": "eussions dévoilé",
+      "vous": "eussiez dévoilé",
+      "ils": "eussent dévoilé"
+    },
+    "conditionnel_présent": {
+      "je": "dévoilerais",
+      "tu": "dévoilerais",
+      "il": "dévoilerait",
+      "nous": "dévoilerions",
+      "vous": "dévoileriez",
+      "ils": "dévoileraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dévoilé",
+      "tu": "aurais dévoilé",
+      "il": "aurait dévoilé",
+      "nous": "aurions dévoilé",
+      "vous": "auriez dévoilé",
+      "ils": "auraient dévoilé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dévoilé",
+      "tu": "eusses dévoilé",
+      "il": "eût dévoilé",
+      "nous": "eussions dévoilé",
+      "vous": "eussiez dévoilé",
+      "ils": "eussent dévoilé"
+    },
+    "translation": "odkrywać",
+    "group": 1
+  },
+  {
+    "infinitive": "devoir",
+    "présent": {
+      "je": "dois",
+      "tu": "dois",
+      "il": "doit",
+      "nous": "devons",
+      "vous": "devez",
+      "ils": "doivent"
+    },
+    "passé_composé": {
+      "je": "ai dû",
+      "tu": "as dû",
+      "il": "a dû",
+      "nous": "avons dû",
+      "vous": "avez dû",
+      "ils": "ont dû"
+    },
+    "imparfait": {
+      "je": "devais",
+      "tu": "devais",
+      "il": "devait",
+      "nous": "devions",
+      "vous": "deviez",
+      "ils": "devaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dû",
+      "tu": "avais dû",
+      "il": "avait dû",
+      "nous": "avions dû",
+      "vous": "aviez dû",
+      "ils": "avaient dû"
+    },
+    "passé_simple": {
+      "je": "dus",
+      "tu": "dus",
+      "il": "dut",
+      "nous": "dûmes",
+      "vous": "dûtes",
+      "ils": "durent"
+    },
+    "passé_antérieur": {
+      "je": "eus dû",
+      "tu": "eus dû",
+      "il": "eut dû",
+      "nous": "eûmes dû",
+      "vous": "eûtes dû",
+      "ils": "eurent dû"
+    },
+    "futur_simple": {
+      "je": "devrai",
+      "tu": "devras",
+      "il": "devra",
+      "nous": "devrons",
+      "vous": "devrez",
+      "ils": "devront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dû",
+      "tu": "auras dû",
+      "il": "aura dû",
+      "nous": "aurons dû",
+      "vous": "aurez dû",
+      "ils": "auront dû"
+    },
+    "subjonctif_présent": {
+      "je": "doive",
+      "tu": "doives",
+      "il": "doive",
+      "nous": "devions",
+      "vous": "deviez",
+      "ils": "doivent"
+    },
+    "subjonctif_passé": {
+      "je": "aie dû",
+      "tu": "aies dû",
+      "il": "ait dû",
+      "nous": "ayons dû",
+      "vous": "ayez dû",
+      "ils": "aient dû"
+    },
+    "subjonctif_imparfait": {
+      "je": "dusse",
+      "tu": "dusses",
+      "il": "dût",
+      "nous": "dussions",
+      "vous": "dussiez",
+      "ils": "dussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dû",
+      "tu": "eusses dû",
+      "il": "eût dû",
+      "nous": "eussions dû",
+      "vous": "eussiez dû",
+      "ils": "eussent dû"
+    },
+    "conditionnel_présent": {
+      "je": "devrais",
+      "tu": "devrais",
+      "il": "devrait",
+      "nous": "devrions",
+      "vous": "devriez",
+      "ils": "devraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dû",
+      "tu": "aurais dû",
+      "il": "aurait dû",
+      "nous": "aurions dû",
+      "vous": "auriez dû",
+      "ils": "auraient dû"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dû",
+      "tu": "eusses dû",
+      "il": "eût dû",
+      "nous": "eussions dû",
+      "vous": "eussiez dû",
+      "ils": "eussent dû"
+    },
+    "translation": "być",
+    "group": 3
+  },
+  {
+    "infinitive": "dévorer",
+    "présent": {
+      "je": "dévore",
+      "tu": "dévores",
+      "il": "dévore",
+      "nous": "dévorons",
+      "vous": "dévorez",
+      "ils": "dévorent"
+    },
+    "passé_composé": {
+      "je": "ai dévoré",
+      "tu": "as dévoré",
+      "il": "a dévoré",
+      "nous": "avons dévoré",
+      "vous": "avez dévoré",
+      "ils": "ont dévoré"
+    },
+    "imparfait": {
+      "je": "dévorais",
+      "tu": "dévorais",
+      "il": "dévorait",
+      "nous": "dévorions",
+      "vous": "dévoriez",
+      "ils": "dévoraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dévoré",
+      "tu": "avais dévoré",
+      "il": "avait dévoré",
+      "nous": "avions dévoré",
+      "vous": "aviez dévoré",
+      "ils": "avaient dévoré"
+    },
+    "passé_simple": {
+      "je": "dévorai",
+      "tu": "dévoras",
+      "il": "dévora",
+      "nous": "dévorâmes",
+      "vous": "dévorâtes",
+      "ils": "dévorèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus dévoré",
+      "tu": "eus dévoré",
+      "il": "eut dévoré",
+      "nous": "eûmes dévoré",
+      "vous": "eûtes dévoré",
+      "ils": "eurent dévoré"
+    },
+    "futur_simple": {
+      "je": "dévorerai",
+      "tu": "dévoreras",
+      "il": "dévorera",
+      "nous": "dévorerons",
+      "vous": "dévorerez",
+      "ils": "dévoreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dévoré",
+      "tu": "auras dévoré",
+      "il": "aura dévoré",
+      "nous": "aurons dévoré",
+      "vous": "aurez dévoré",
+      "ils": "auront dévoré"
+    },
+    "subjonctif_présent": {
+      "je": "dévore",
+      "tu": "dévores",
+      "il": "dévore",
+      "nous": "dévorions",
+      "vous": "dévoriez",
+      "ils": "dévorent"
+    },
+    "subjonctif_passé": {
+      "je": "aie dévoré",
+      "tu": "aies dévoré",
+      "il": "ait dévoré",
+      "nous": "ayons dévoré",
+      "vous": "ayez dévoré",
+      "ils": "aient dévoré"
+    },
+    "subjonctif_imparfait": {
+      "je": "dévorasse",
+      "tu": "dévorasses",
+      "il": "dévorât",
+      "nous": "dévorassions",
+      "vous": "dévorassiez",
+      "ils": "dévorassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dévoré",
+      "tu": "eusses dévoré",
+      "il": "eût dévoré",
+      "nous": "eussions dévoré",
+      "vous": "eussiez dévoré",
+      "ils": "eussent dévoré"
+    },
+    "conditionnel_présent": {
+      "je": "dévorerais",
+      "tu": "dévorerais",
+      "il": "dévorerait",
+      "nous": "dévorerions",
+      "vous": "dévoreriez",
+      "ils": "dévoreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dévoré",
+      "tu": "aurais dévoré",
+      "il": "aurait dévoré",
+      "nous": "aurions dévoré",
+      "vous": "auriez dévoré",
+      "ils": "auraient dévoré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dévoré",
+      "tu": "eusses dévoré",
+      "il": "eût dévoré",
+      "nous": "eussions dévoré",
+      "vous": "eussiez dévoré",
+      "ils": "eussent dévoré"
+    },
+    "translation": "posilać",
+    "group": 1
+  },
+  {
+    "infinitive": "dévouer",
+    "présent": {
+      "je": "dévoue",
+      "tu": "dévoues",
+      "il": "dévoue",
+      "nous": "dévouons",
+      "vous": "dévouez",
+      "ils": "dévouent"
+    },
+    "passé_composé": {
+      "je": "ai dévoué",
+      "tu": "as dévoué",
+      "il": "a dévoué",
+      "nous": "avons dévoué",
+      "vous": "avez dévoué",
+      "ils": "ont dévoué"
+    },
+    "imparfait": {
+      "je": "dévouais",
+      "tu": "dévouais",
+      "il": "dévouait",
+      "nous": "dévouions",
+      "vous": "dévouiez",
+      "ils": "dévouaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dévoué",
+      "tu": "avais dévoué",
+      "il": "avait dévoué",
+      "nous": "avions dévoué",
+      "vous": "aviez dévoué",
+      "ils": "avaient dévoué"
+    },
+    "passé_simple": {
+      "je": "dévouai",
+      "tu": "dévouas",
+      "il": "dévoua",
+      "nous": "dévouâmes",
+      "vous": "dévouâtes",
+      "ils": "dévouèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus dévoué",
+      "tu": "eus dévoué",
+      "il": "eut dévoué",
+      "nous": "eûmes dévoué",
+      "vous": "eûtes dévoué",
+      "ils": "eurent dévoué"
+    },
+    "futur_simple": {
+      "je": "dévouerai",
+      "tu": "dévoueras",
+      "il": "dévouera",
+      "nous": "dévouerons",
+      "vous": "dévouerez",
+      "ils": "dévoueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dévoué",
+      "tu": "auras dévoué",
+      "il": "aura dévoué",
+      "nous": "aurons dévoué",
+      "vous": "aurez dévoué",
+      "ils": "auront dévoué"
+    },
+    "subjonctif_présent": {
+      "je": "dévoue",
+      "tu": "dévoues",
+      "il": "dévoue",
+      "nous": "dévouions",
+      "vous": "dévouiez",
+      "ils": "dévouent"
+    },
+    "subjonctif_passé": {
+      "je": "aie dévoué",
+      "tu": "aies dévoué",
+      "il": "ait dévoué",
+      "nous": "ayons dévoué",
+      "vous": "ayez dévoué",
+      "ils": "aient dévoué"
+    },
+    "subjonctif_imparfait": {
+      "je": "dévouasse",
+      "tu": "dévouasses",
+      "il": "dévouât",
+      "nous": "dévouassions",
+      "vous": "dévouassiez",
+      "ils": "dévouassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dévoué",
+      "tu": "eusses dévoué",
+      "il": "eût dévoué",
+      "nous": "eussions dévoué",
+      "vous": "eussiez dévoué",
+      "ils": "eussent dévoué"
+    },
+    "conditionnel_présent": {
+      "je": "dévouerais",
+      "tu": "dévouerais",
+      "il": "dévouerait",
+      "nous": "dévouerions",
+      "vous": "dévoueriez",
+      "ils": "dévoueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dévoué",
+      "tu": "aurais dévoué",
+      "il": "aurait dévoué",
+      "nous": "aurions dévoué",
+      "vous": "auriez dévoué",
+      "ils": "auraient dévoué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dévoué",
+      "tu": "eusses dévoué",
+      "il": "eût dévoué",
+      "nous": "eussions dévoué",
+      "vous": "eussiez dévoué",
+      "ils": "eussent dévoué"
+    },
+    "translation": "poświęcać",
+    "group": 1
+  },
+  {
+    "infinitive": "dévoyer",
+    "présent": {
+      "je": "dévoie",
+      "tu": "dévoies",
+      "il": "dévoie",
+      "nous": "dévoyons",
+      "vous": "dévoyez",
+      "ils": "dévoient"
+    },
+    "passé_composé": {
+      "je": "ai dévoyé",
+      "tu": "as dévoyé",
+      "il": "a dévoyé",
+      "nous": "avons dévoyé",
+      "vous": "avez dévoyé",
+      "ils": "ont dévoyé"
+    },
+    "imparfait": {
+      "je": "dévoyais",
+      "tu": "dévoyais",
+      "il": "dévoyait",
+      "nous": "dévoyions",
+      "vous": "dévoyiez",
+      "ils": "dévoyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dévoyé",
+      "tu": "avais dévoyé",
+      "il": "avait dévoyé",
+      "nous": "avions dévoyé",
+      "vous": "aviez dévoyé",
+      "ils": "avaient dévoyé"
+    },
+    "passé_simple": {
+      "je": "dévoyai",
+      "tu": "dévoyas",
+      "il": "dévoya",
+      "nous": "dévoyâmes",
+      "vous": "dévoyâtes",
+      "ils": "dévoyèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus dévoyé",
+      "tu": "eus dévoyé",
+      "il": "eut dévoyé",
+      "nous": "eûmes dévoyé",
+      "vous": "eûtes dévoyé",
+      "ils": "eurent dévoyé"
+    },
+    "futur_simple": {
+      "je": "dévoierai",
+      "tu": "dévoieras",
+      "il": "dévoiera",
+      "nous": "dévoierons",
+      "vous": "dévoierez",
+      "ils": "dévoieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dévoyé",
+      "tu": "auras dévoyé",
+      "il": "aura dévoyé",
+      "nous": "aurons dévoyé",
+      "vous": "aurez dévoyé",
+      "ils": "auront dévoyé"
+    },
+    "subjonctif_présent": {
+      "je": "dévoie",
+      "tu": "dévoies",
+      "il": "dévoie",
+      "nous": "dévoyions",
+      "vous": "dévoyiez",
+      "ils": "dévoient"
+    },
+    "subjonctif_passé": {
+      "je": "aie dévoyé",
+      "tu": "aies dévoyé",
+      "il": "ait dévoyé",
+      "nous": "ayons dévoyé",
+      "vous": "ayez dévoyé",
+      "ils": "aient dévoyé"
+    },
+    "subjonctif_imparfait": {
+      "je": "dévoyasse",
+      "tu": "dévoyasses",
+      "il": "dévoyât",
+      "nous": "dévoyassions",
+      "vous": "dévoyassiez",
+      "ils": "dévoyassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dévoyé",
+      "tu": "eusses dévoyé",
+      "il": "eût dévoyé",
+      "nous": "eussions dévoyé",
+      "vous": "eussiez dévoyé",
+      "ils": "eussent dévoyé"
+    },
+    "conditionnel_présent": {
+      "je": "dévoierais",
+      "tu": "dévoierais",
+      "il": "dévoierait",
+      "nous": "dévoierions",
+      "vous": "dévoieriez",
+      "ils": "dévoieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dévoyé",
+      "tu": "aurais dévoyé",
+      "il": "aurait dévoyé",
+      "nous": "aurions dévoyé",
+      "vous": "auriez dévoyé",
+      "ils": "auraient dévoyé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dévoyé",
+      "tu": "eusses dévoyé",
+      "il": "eût dévoyé",
+      "nous": "eussions dévoyé",
+      "vous": "eussiez dévoyé",
+      "ils": "eussent dévoyé"
+    },
+    "translation": "poświęcać",
+    "group": 1
+  },
+  {
+    "infinitive": "diagnostiquer",
+    "présent": {
+      "je": "diagnostique",
+      "tu": "diagnostiques",
+      "il": "diagnostique",
+      "nous": "diagnostiquons",
+      "vous": "diagnostiquez",
+      "ils": "diagnostiquent"
+    },
+    "passé_composé": {
+      "je": "ai diagnostiqué",
+      "tu": "as diagnostiqué",
+      "il": "a diagnostiqué",
+      "nous": "avons diagnostiqué",
+      "vous": "avez diagnostiqué",
+      "ils": "ont diagnostiqué"
+    },
+    "imparfait": {
+      "je": "diagnostiquais",
+      "tu": "diagnostiquais",
+      "il": "diagnostiquait",
+      "nous": "diagnostiquions",
+      "vous": "diagnostiquiez",
+      "ils": "diagnostiquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais diagnostiqué",
+      "tu": "avais diagnostiqué",
+      "il": "avait diagnostiqué",
+      "nous": "avions diagnostiqué",
+      "vous": "aviez diagnostiqué",
+      "ils": "avaient diagnostiqué"
+    },
+    "passé_simple": {
+      "je": "diagnostiquai",
+      "tu": "diagnostiquas",
+      "il": "diagnostiqua",
+      "nous": "diagnostiquâmes",
+      "vous": "diagnostiquâtes",
+      "ils": "diagnostiquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus diagnostiqué",
+      "tu": "eus diagnostiqué",
+      "il": "eut diagnostiqué",
+      "nous": "eûmes diagnostiqué",
+      "vous": "eûtes diagnostiqué",
+      "ils": "eurent diagnostiqué"
+    },
+    "futur_simple": {
+      "je": "diagnostiquerai",
+      "tu": "diagnostiqueras",
+      "il": "diagnostiquera",
+      "nous": "diagnostiquerons",
+      "vous": "diagnostiquerez",
+      "ils": "diagnostiqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai diagnostiqué",
+      "tu": "auras diagnostiqué",
+      "il": "aura diagnostiqué",
+      "nous": "aurons diagnostiqué",
+      "vous": "aurez diagnostiqué",
+      "ils": "auront diagnostiqué"
+    },
+    "subjonctif_présent": {
+      "je": "diagnostique",
+      "tu": "diagnostiques",
+      "il": "diagnostique",
+      "nous": "diagnostiquions",
+      "vous": "diagnostiquiez",
+      "ils": "diagnostiquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie diagnostiqué",
+      "tu": "aies diagnostiqué",
+      "il": "ait diagnostiqué",
+      "nous": "ayons diagnostiqué",
+      "vous": "ayez diagnostiqué",
+      "ils": "aient diagnostiqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "diagnostiquasse",
+      "tu": "diagnostiquasses",
+      "il": "diagnostiquât",
+      "nous": "diagnostiquassions",
+      "vous": "diagnostiquassiez",
+      "ils": "diagnostiquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse diagnostiqué",
+      "tu": "eusses diagnostiqué",
+      "il": "eût diagnostiqué",
+      "nous": "eussions diagnostiqué",
+      "vous": "eussiez diagnostiqué",
+      "ils": "eussent diagnostiqué"
+    },
+    "conditionnel_présent": {
+      "je": "diagnostiquerais",
+      "tu": "diagnostiquerais",
+      "il": "diagnostiquerait",
+      "nous": "diagnostiquerions",
+      "vous": "diagnostiqueriez",
+      "ils": "diagnostiqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais diagnostiqué",
+      "tu": "aurais diagnostiqué",
+      "il": "aurait diagnostiqué",
+      "nous": "aurions diagnostiqué",
+      "vous": "auriez diagnostiqué",
+      "ils": "auraient diagnostiqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse diagnostiqué",
+      "tu": "eusses diagnostiqué",
+      "il": "eût diagnostiqué",
+      "nous": "eussions diagnostiqué",
+      "vous": "eussiez diagnostiqué",
+      "ils": "eussent diagnostiqué"
+    },
+    "translation": "stawiać",
+    "group": 1
+  },
+  {
+    "infinitive": "dialoguer",
+    "présent": {
+      "je": "dialogue",
+      "tu": "dialogues",
+      "il": "dialogue",
+      "nous": "dialoguons",
+      "vous": "dialoguez",
+      "ils": "dialoguent"
+    },
+    "passé_composé": {
+      "je": "ai dialogué",
+      "tu": "as dialogué",
+      "il": "a dialogué",
+      "nous": "avons dialogué",
+      "vous": "avez dialogué",
+      "ils": "ont dialogué"
+    },
+    "imparfait": {
+      "je": "dialoguais",
+      "tu": "dialoguais",
+      "il": "dialoguait",
+      "nous": "dialoguions",
+      "vous": "dialoguiez",
+      "ils": "dialoguaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dialogué",
+      "tu": "avais dialogué",
+      "il": "avait dialogué",
+      "nous": "avions dialogué",
+      "vous": "aviez dialogué",
+      "ils": "avaient dialogué"
+    },
+    "passé_simple": {
+      "je": "dialoguai",
+      "tu": "dialoguas",
+      "il": "dialogua",
+      "nous": "dialoguâmes",
+      "vous": "dialoguâtes",
+      "ils": "dialoguèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus dialogué",
+      "tu": "eus dialogué",
+      "il": "eut dialogué",
+      "nous": "eûmes dialogué",
+      "vous": "eûtes dialogué",
+      "ils": "eurent dialogué"
+    },
+    "futur_simple": {
+      "je": "dialoguerai",
+      "tu": "dialogueras",
+      "il": "dialoguera",
+      "nous": "dialoguerons",
+      "vous": "dialoguerez",
+      "ils": "dialogueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dialogué",
+      "tu": "auras dialogué",
+      "il": "aura dialogué",
+      "nous": "aurons dialogué",
+      "vous": "aurez dialogué",
+      "ils": "auront dialogué"
+    },
+    "subjonctif_présent": {
+      "je": "dialogue",
+      "tu": "dialogues",
+      "il": "dialogue",
+      "nous": "dialoguions",
+      "vous": "dialoguiez",
+      "ils": "dialoguent"
+    },
+    "subjonctif_passé": {
+      "je": "aie dialogué",
+      "tu": "aies dialogué",
+      "il": "ait dialogué",
+      "nous": "ayons dialogué",
+      "vous": "ayez dialogué",
+      "ils": "aient dialogué"
+    },
+    "subjonctif_imparfait": {
+      "je": "dialoguasse",
+      "tu": "dialoguasses",
+      "il": "dialoguât",
+      "nous": "dialoguassions",
+      "vous": "dialoguassiez",
+      "ils": "dialoguassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dialogué",
+      "tu": "eusses dialogué",
+      "il": "eût dialogué",
+      "nous": "eussions dialogué",
+      "vous": "eussiez dialogué",
+      "ils": "eussent dialogué"
+    },
+    "conditionnel_présent": {
+      "je": "dialoguerais",
+      "tu": "dialoguerais",
+      "il": "dialoguerait",
+      "nous": "dialoguerions",
+      "vous": "dialogueriez",
+      "ils": "dialogueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dialogué",
+      "tu": "aurais dialogué",
+      "il": "aurait dialogué",
+      "nous": "aurions dialogué",
+      "vous": "auriez dialogué",
+      "ils": "auraient dialogué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dialogué",
+      "tu": "eusses dialogué",
+      "il": "eût dialogué",
+      "nous": "eussions dialogué",
+      "vous": "eussiez dialogué",
+      "ils": "eussent dialogué"
+    },
+    "translation": "prowadzić",
+    "group": 1
+  },
+  {
+    "infinitive": "dicter",
+    "présent": {
+      "je": "dicte",
+      "tu": "dictes",
+      "il": "dicte",
+      "nous": "dictons",
+      "vous": "dictez",
+      "ils": "dictent"
+    },
+    "passé_composé": {
+      "je": "ai dicté",
+      "tu": "as dicté",
+      "il": "a dicté",
+      "nous": "avons dicté",
+      "vous": "avez dicté",
+      "ils": "ont dicté"
+    },
+    "imparfait": {
+      "je": "dictais",
+      "tu": "dictais",
+      "il": "dictait",
+      "nous": "dictions",
+      "vous": "dictiez",
+      "ils": "dictaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dicté",
+      "tu": "avais dicté",
+      "il": "avait dicté",
+      "nous": "avions dicté",
+      "vous": "aviez dicté",
+      "ils": "avaient dicté"
+    },
+    "passé_simple": {
+      "je": "dictai",
+      "tu": "dictas",
+      "il": "dicta",
+      "nous": "dictâmes",
+      "vous": "dictâtes",
+      "ils": "dictèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus dicté",
+      "tu": "eus dicté",
+      "il": "eut dicté",
+      "nous": "eûmes dicté",
+      "vous": "eûtes dicté",
+      "ils": "eurent dicté"
+    },
+    "futur_simple": {
+      "je": "dicterai",
+      "tu": "dicteras",
+      "il": "dictera",
+      "nous": "dicterons",
+      "vous": "dicterez",
+      "ils": "dicteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dicté",
+      "tu": "auras dicté",
+      "il": "aura dicté",
+      "nous": "aurons dicté",
+      "vous": "aurez dicté",
+      "ils": "auront dicté"
+    },
+    "subjonctif_présent": {
+      "je": "dicte",
+      "tu": "dictes",
+      "il": "dicte",
+      "nous": "dictions",
+      "vous": "dictiez",
+      "ils": "dictent"
+    },
+    "subjonctif_passé": {
+      "je": "aie dicté",
+      "tu": "aies dicté",
+      "il": "ait dicté",
+      "nous": "ayons dicté",
+      "vous": "ayez dicté",
+      "ils": "aient dicté"
+    },
+    "subjonctif_imparfait": {
+      "je": "dictasse",
+      "tu": "dictasses",
+      "il": "dictât",
+      "nous": "dictassions",
+      "vous": "dictassiez",
+      "ils": "dictassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dicté",
+      "tu": "eusses dicté",
+      "il": "eût dicté",
+      "nous": "eussions dicté",
+      "vous": "eussiez dicté",
+      "ils": "eussent dicté"
+    },
+    "conditionnel_présent": {
+      "je": "dicterais",
+      "tu": "dicterais",
+      "il": "dicterait",
+      "nous": "dicterions",
+      "vous": "dicteriez",
+      "ils": "dicteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dicté",
+      "tu": "aurais dicté",
+      "il": "aurait dicté",
+      "nous": "aurions dicté",
+      "vous": "auriez dicté",
+      "ils": "auraient dicté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dicté",
+      "tu": "eusses dicté",
+      "il": "eût dicté",
+      "nous": "eussions dicté",
+      "vous": "eussiez dicté",
+      "ils": "eussent dicté"
+    },
+    "translation": "dyktować",
+    "group": 1
+  },
+  {
+    "infinitive": "différencier",
+    "présent": {
+      "je": "différencie",
+      "tu": "différencies",
+      "il": "différencie",
+      "nous": "différencions",
+      "vous": "différenciez",
+      "ils": "différencient"
+    },
+    "passé_composé": {
+      "je": "ai différencié",
+      "tu": "as différencié",
+      "il": "a différencié",
+      "nous": "avons différencié",
+      "vous": "avez différencié",
+      "ils": "ont différencié"
+    },
+    "imparfait": {
+      "je": "différenciais",
+      "tu": "différenciais",
+      "il": "différenciait",
+      "nous": "différenciions",
+      "vous": "différenciiez",
+      "ils": "différenciaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais différencié",
+      "tu": "avais différencié",
+      "il": "avait différencié",
+      "nous": "avions différencié",
+      "vous": "aviez différencié",
+      "ils": "avaient différencié"
+    },
+    "passé_simple": {
+      "je": "différenciai",
+      "tu": "différencias",
+      "il": "différencia",
+      "nous": "différenciâmes",
+      "vous": "différenciâtes",
+      "ils": "différencièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus différencié",
+      "tu": "eus différencié",
+      "il": "eut différencié",
+      "nous": "eûmes différencié",
+      "vous": "eûtes différencié",
+      "ils": "eurent différencié"
+    },
+    "futur_simple": {
+      "je": "différencierai",
+      "tu": "différencieras",
+      "il": "différenciera",
+      "nous": "différencierons",
+      "vous": "différencierez",
+      "ils": "différencieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai différencié",
+      "tu": "auras différencié",
+      "il": "aura différencié",
+      "nous": "aurons différencié",
+      "vous": "aurez différencié",
+      "ils": "auront différencié"
+    },
+    "subjonctif_présent": {
+      "je": "différencie",
+      "tu": "différencies",
+      "il": "différencie",
+      "nous": "différenciions",
+      "vous": "différenciiez",
+      "ils": "différencient"
+    },
+    "subjonctif_passé": {
+      "je": "aie différencié",
+      "tu": "aies différencié",
+      "il": "ait différencié",
+      "nous": "ayons différencié",
+      "vous": "ayez différencié",
+      "ils": "aient différencié"
+    },
+    "subjonctif_imparfait": {
+      "je": "différenciasse",
+      "tu": "différenciasses",
+      "il": "différenciât",
+      "nous": "différenciassions",
+      "vous": "différenciassiez",
+      "ils": "différenciassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse différencié",
+      "tu": "eusses différencié",
+      "il": "eût différencié",
+      "nous": "eussions différencié",
+      "vous": "eussiez différencié",
+      "ils": "eussent différencié"
+    },
+    "conditionnel_présent": {
+      "je": "différencierais",
+      "tu": "différencierais",
+      "il": "différencierait",
+      "nous": "différencierions",
+      "vous": "différencieriez",
+      "ils": "différencieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais différencié",
+      "tu": "aurais différencié",
+      "il": "aurait différencié",
+      "nous": "aurions différencié",
+      "vous": "auriez différencié",
+      "ils": "auraient différencié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse différencié",
+      "tu": "eusses différencié",
+      "il": "eût différencié",
+      "nous": "eussions différencié",
+      "vous": "eussiez différencié",
+      "ils": "eussent différencié"
+    },
+    "translation": "czynić",
+    "group": 1
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "quérir",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "leczyć",
+    "group": 3
+  },
+  {
+    "infinitive": "questionner",
+    "présent": {
+      "je": "questionne",
+      "tu": "questionnes",
+      "il": "questionne",
+      "nous": "questionnons",
+      "vous": "questionnez",
+      "ils": "questionnent"
+    },
+    "passé_composé": {
+      "je": "ai questionné",
+      "tu": "as questionné",
+      "il": "a questionné",
+      "nous": "avons questionné",
+      "vous": "avez questionné",
+      "ils": "ont questionné"
+    },
+    "imparfait": {
+      "je": "questionnais",
+      "tu": "questionnais",
+      "il": "questionnait",
+      "nous": "questionnions",
+      "vous": "questionniez",
+      "ils": "questionnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais questionné",
+      "tu": "avais questionné",
+      "il": "avait questionné",
+      "nous": "avions questionné",
+      "vous": "aviez questionné",
+      "ils": "avaient questionné"
+    },
+    "passé_simple": {
+      "je": "questionnai",
+      "tu": "questionnas",
+      "il": "questionna",
+      "nous": "questionnâmes",
+      "vous": "questionnâtes",
+      "ils": "questionnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus questionné",
+      "tu": "eus questionné",
+      "il": "eut questionné",
+      "nous": "eûmes questionné",
+      "vous": "eûtes questionné",
+      "ils": "eurent questionné"
+    },
+    "futur_simple": {
+      "je": "questionnerai",
+      "tu": "questionneras",
+      "il": "questionnera",
+      "nous": "questionnerons",
+      "vous": "questionnerez",
+      "ils": "questionneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai questionné",
+      "tu": "auras questionné",
+      "il": "aura questionné",
+      "nous": "aurons questionné",
+      "vous": "aurez questionné",
+      "ils": "auront questionné"
+    },
+    "subjonctif_présent": {
+      "je": "questionne",
+      "tu": "questionnes",
+      "il": "questionne",
+      "nous": "questionnions",
+      "vous": "questionniez",
+      "ils": "questionnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie questionné",
+      "tu": "aies questionné",
+      "il": "ait questionné",
+      "nous": "ayons questionné",
+      "vous": "ayez questionné",
+      "ils": "aient questionné"
+    },
+    "subjonctif_imparfait": {
+      "je": "questionnasse",
+      "tu": "questionnasses",
+      "il": "questionnât",
+      "nous": "questionnassions",
+      "vous": "questionnassiez",
+      "ils": "questionnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse questionné",
+      "tu": "eusses questionné",
+      "il": "eût questionné",
+      "nous": "eussions questionné",
+      "vous": "eussiez questionné",
+      "ils": "eussent questionné"
+    },
+    "conditionnel_présent": {
+      "je": "questionnerais",
+      "tu": "questionnerais",
+      "il": "questionnerait",
+      "nous": "questionnerions",
+      "vous": "questionneriez",
+      "ils": "questionneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais questionné",
+      "tu": "aurais questionné",
+      "il": "aurait questionné",
+      "nous": "aurions questionné",
+      "vous": "auriez questionné",
+      "ils": "auraient questionné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse questionné",
+      "tu": "eusses questionné",
+      "il": "eût questionné",
+      "nous": "eussions questionné",
+      "vous": "eussiez questionné",
+      "ils": "eussent questionné"
+    },
+    "translation": "wypytywać",
+    "group": 1
+  },
+  {
+    "infinitive": "quêter",
+    "présent": {
+      "je": "quête",
+      "tu": "quêtes",
+      "il": "quête",
+      "nous": "quêtons",
+      "vous": "quêtez",
+      "ils": "quêtent"
+    },
+    "passé_composé": {
+      "je": "ai quêté",
+      "tu": "as quêté",
+      "il": "a quêté",
+      "nous": "avons quêté",
+      "vous": "avez quêté",
+      "ils": "ont quêté"
+    },
+    "imparfait": {
+      "je": "quêtais",
+      "tu": "quêtais",
+      "il": "quêtait",
+      "nous": "quêtions",
+      "vous": "quêtiez",
+      "ils": "quêtaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais quêté",
+      "tu": "avais quêté",
+      "il": "avait quêté",
+      "nous": "avions quêté",
+      "vous": "aviez quêté",
+      "ils": "avaient quêté"
+    },
+    "passé_simple": {
+      "je": "quêtai",
+      "tu": "quêtas",
+      "il": "quêta",
+      "nous": "quêtâmes",
+      "vous": "quêtâtes",
+      "ils": "quêtèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus quêté",
+      "tu": "eus quêté",
+      "il": "eut quêté",
+      "nous": "eûmes quêté",
+      "vous": "eûtes quêté",
+      "ils": "eurent quêté"
+    },
+    "futur_simple": {
+      "je": "quêterai",
+      "tu": "quêteras",
+      "il": "quêtera",
+      "nous": "quêterons",
+      "vous": "quêterez",
+      "ils": "quêteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai quêté",
+      "tu": "auras quêté",
+      "il": "aura quêté",
+      "nous": "aurons quêté",
+      "vous": "aurez quêté",
+      "ils": "auront quêté"
+    },
+    "subjonctif_présent": {
+      "je": "quête",
+      "tu": "quêtes",
+      "il": "quête",
+      "nous": "quêtions",
+      "vous": "quêtiez",
+      "ils": "quêtent"
+    },
+    "subjonctif_passé": {
+      "je": "aie quêté",
+      "tu": "aies quêté",
+      "il": "ait quêté",
+      "nous": "ayons quêté",
+      "vous": "ayez quêté",
+      "ils": "aient quêté"
+    },
+    "subjonctif_imparfait": {
+      "je": "quêtasse",
+      "tu": "quêtasses",
+      "il": "quêtât",
+      "nous": "quêtassions",
+      "vous": "quêtassiez",
+      "ils": "quêtassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse quêté",
+      "tu": "eusses quêté",
+      "il": "eût quêté",
+      "nous": "eussions quêté",
+      "vous": "eussiez quêté",
+      "ils": "eussent quêté"
+    },
+    "conditionnel_présent": {
+      "je": "quêterais",
+      "tu": "quêterais",
+      "il": "quêterait",
+      "nous": "quêterions",
+      "vous": "quêteriez",
+      "ils": "quêteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais quêté",
+      "tu": "aurais quêté",
+      "il": "aurait quêté",
+      "nous": "aurions quêté",
+      "vous": "auriez quêté",
+      "ils": "auraient quêté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse quêté",
+      "tu": "eusses quêté",
+      "il": "eût quêté",
+      "nous": "eussions quêté",
+      "vous": "eussiez quêté",
+      "ils": "eussent quêté"
+    },
+    "translation": "quêter",
+    "group": 1
+  },
+  {
+    "infinitive": "quitter",
+    "présent": {
+      "je": "quitte",
+      "tu": "quittes",
+      "il": "quitte",
+      "nous": "quittons",
+      "vous": "quittez",
+      "ils": "quittent"
+    },
+    "passé_composé": {
+      "je": "ai quitté",
+      "tu": "as quitté",
+      "il": "a quitté",
+      "nous": "avons quitté",
+      "vous": "avez quitté",
+      "ils": "ont quitté"
+    },
+    "imparfait": {
+      "je": "quittais",
+      "tu": "quittais",
+      "il": "quittait",
+      "nous": "quittions",
+      "vous": "quittiez",
+      "ils": "quittaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais quitté",
+      "tu": "avais quitté",
+      "il": "avait quitté",
+      "nous": "avions quitté",
+      "vous": "aviez quitté",
+      "ils": "avaient quitté"
+    },
+    "passé_simple": {
+      "je": "quittai",
+      "tu": "quittas",
+      "il": "quitta",
+      "nous": "quittâmes",
+      "vous": "quittâtes",
+      "ils": "quittèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus quitté",
+      "tu": "eus quitté",
+      "il": "eut quitté",
+      "nous": "eûmes quitté",
+      "vous": "eûtes quitté",
+      "ils": "eurent quitté"
+    },
+    "futur_simple": {
+      "je": "quitterai",
+      "tu": "quitteras",
+      "il": "quittera",
+      "nous": "quitterons",
+      "vous": "quitterez",
+      "ils": "quitteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai quitté",
+      "tu": "auras quitté",
+      "il": "aura quitté",
+      "nous": "aurons quitté",
+      "vous": "aurez quitté",
+      "ils": "auront quitté"
+    },
+    "subjonctif_présent": {
+      "je": "quitte",
+      "tu": "quittes",
+      "il": "quitte",
+      "nous": "quittions",
+      "vous": "quittiez",
+      "ils": "quittent"
+    },
+    "subjonctif_passé": {
+      "je": "aie quitté",
+      "tu": "aies quitté",
+      "il": "ait quitté",
+      "nous": "ayons quitté",
+      "vous": "ayez quitté",
+      "ils": "aient quitté"
+    },
+    "subjonctif_imparfait": {
+      "je": "quittasse",
+      "tu": "quittasses",
+      "il": "quittât",
+      "nous": "quittassions",
+      "vous": "quittassiez",
+      "ils": "quittassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse quitté",
+      "tu": "eusses quitté",
+      "il": "eût quitté",
+      "nous": "eussions quitté",
+      "vous": "eussiez quitté",
+      "ils": "eussent quitté"
+    },
+    "conditionnel_présent": {
+      "je": "quitterais",
+      "tu": "quitterais",
+      "il": "quitterait",
+      "nous": "quitterions",
+      "vous": "quitteriez",
+      "ils": "quitteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais quitté",
+      "tu": "aurais quitté",
+      "il": "aurait quitté",
+      "nous": "aurions quitté",
+      "vous": "auriez quitté",
+      "ils": "auraient quitté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse quitté",
+      "tu": "eusses quitté",
+      "il": "eût quitté",
+      "nous": "eussions quitté",
+      "vous": "eussiez quitté",
+      "ils": "eussent quitté"
+    },
+    "translation": "opuszczać",
+    "group": 1
+  },
+  {
+    "infinitive": "rabattre",
+    "présent": {
+      "je": "rabats",
+      "tu": "rabats",
+      "il": "rabat",
+      "nous": "rabattons",
+      "vous": "rabattez",
+      "ils": "rabattent"
+    },
+    "passé_composé": {
+      "je": "ai rabattu",
+      "tu": "as rabattu",
+      "il": "a rabattu",
+      "nous": "avons rabattu",
+      "vous": "avez rabattu",
+      "ils": "ont rabattu"
+    },
+    "imparfait": {
+      "je": "rabattais",
+      "tu": "rabattais",
+      "il": "rabattait",
+      "nous": "rabattions",
+      "vous": "rabattiez",
+      "ils": "rabattaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais rabattu",
+      "tu": "avais rabattu",
+      "il": "avait rabattu",
+      "nous": "avions rabattu",
+      "vous": "aviez rabattu",
+      "ils": "avaient rabattu"
+    },
+    "passé_simple": {
+      "je": "rabattis",
+      "tu": "rabattis",
+      "il": "rabattit",
+      "nous": "rabattîmes",
+      "vous": "rabattîtes",
+      "ils": "rabattirent"
+    },
+    "passé_antérieur": {
+      "je": "eus rabattu",
+      "tu": "eus rabattu",
+      "il": "eut rabattu",
+      "nous": "eûmes rabattu",
+      "vous": "eûtes rabattu",
+      "ils": "eurent rabattu"
+    },
+    "futur_simple": {
+      "je": "rabattrai",
+      "tu": "rabattras",
+      "il": "rabattra",
+      "nous": "rabattrons",
+      "vous": "rabattrez",
+      "ils": "rabattront"
+    },
+    "futur_antérieur": {
+      "je": "aurai rabattu",
+      "tu": "auras rabattu",
+      "il": "aura rabattu",
+      "nous": "aurons rabattu",
+      "vous": "aurez rabattu",
+      "ils": "auront rabattu"
+    },
+    "subjonctif_présent": {
+      "je": "rabatte",
+      "tu": "rabattes",
+      "il": "rabatte",
+      "nous": "rabattions",
+      "vous": "rabattiez",
+      "ils": "rabattent"
+    },
+    "subjonctif_passé": {
+      "je": "aie rabattu",
+      "tu": "aies rabattu",
+      "il": "ait rabattu",
+      "nous": "ayons rabattu",
+      "vous": "ayez rabattu",
+      "ils": "aient rabattu"
+    },
+    "subjonctif_imparfait": {
+      "je": "rabattisse",
+      "tu": "rabattisses",
+      "il": "rabattît",
+      "nous": "rabattissions",
+      "vous": "rabattissiez",
+      "ils": "rabattissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse rabattu",
+      "tu": "eusses rabattu",
+      "il": "eût rabattu",
+      "nous": "eussions rabattu",
+      "vous": "eussiez rabattu",
+      "ils": "eussent rabattu"
+    },
+    "conditionnel_présent": {
+      "je": "rabattrais",
+      "tu": "rabattrais",
+      "il": "rabattrait",
+      "nous": "rabattrions",
+      "vous": "rabattriez",
+      "ils": "rabattraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais rabattu",
+      "tu": "aurais rabattu",
+      "il": "aurait rabattu",
+      "nous": "aurions rabattu",
+      "vous": "auriez rabattu",
+      "ils": "auraient rabattu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse rabattu",
+      "tu": "eusses rabattu",
+      "il": "eût rabattu",
+      "nous": "eussions rabattu",
+      "vous": "eussiez rabattu",
+      "ils": "eussent rabattu"
+    },
+    "translation": "rabattre",
+    "group": 3
+  },
+  {
+    "infinitive": "raccourcir",
+    "présent": {
+      "je": "raccourcis",
+      "tu": "raccourcis",
+      "il": "raccourcit",
+      "nous": "raccourcissons",
+      "vous": "raccourcissez",
+      "ils": "raccourcissent"
+    },
+    "passé_composé": {
+      "je": "ai raccourci",
+      "tu": "as raccourci",
+      "il": "a raccourci",
+      "nous": "avons raccourci",
+      "vous": "avez raccourci",
+      "ils": "ont raccourci"
+    },
+    "imparfait": {
+      "je": "raccourcissais",
+      "tu": "raccourcissais",
+      "il": "raccourcissait",
+      "nous": "raccourcissions",
+      "vous": "raccourcissiez",
+      "ils": "raccourcissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais raccourci",
+      "tu": "avais raccourci",
+      "il": "avait raccourci",
+      "nous": "avions raccourci",
+      "vous": "aviez raccourci",
+      "ils": "avaient raccourci"
+    },
+    "passé_simple": {
+      "je": "raccourcis",
+      "tu": "raccourcis",
+      "il": "raccourcit",
+      "nous": "raccourcîmes",
+      "vous": "raccourcîtes",
+      "ils": "raccourcirent"
+    },
+    "passé_antérieur": {
+      "je": "eus raccourci",
+      "tu": "eus raccourci",
+      "il": "eut raccourci",
+      "nous": "eûmes raccourci",
+      "vous": "eûtes raccourci",
+      "ils": "eurent raccourci"
+    },
+    "futur_simple": {
+      "je": "raccourcirai",
+      "tu": "raccourciras",
+      "il": "raccourcira",
+      "nous": "raccourcirons",
+      "vous": "raccourcirez",
+      "ils": "raccourciront"
+    },
+    "futur_antérieur": {
+      "je": "aurai raccourci",
+      "tu": "auras raccourci",
+      "il": "aura raccourci",
+      "nous": "aurons raccourci",
+      "vous": "aurez raccourci",
+      "ils": "auront raccourci"
+    },
+    "subjonctif_présent": {
+      "je": "raccourcisse",
+      "tu": "raccourcisses",
+      "il": "raccourcisse",
+      "nous": "raccourcissions",
+      "vous": "raccourcissiez",
+      "ils": "raccourcissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie raccourci",
+      "tu": "aies raccourci",
+      "il": "ait raccourci",
+      "nous": "ayons raccourci",
+      "vous": "ayez raccourci",
+      "ils": "aient raccourci"
+    },
+    "subjonctif_imparfait": {
+      "je": "raccourcisse",
+      "tu": "raccourcisses",
+      "il": "raccourcît",
+      "nous": "raccourcissions",
+      "vous": "raccourcissiez",
+      "ils": "raccourcissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse raccourci",
+      "tu": "eusses raccourci",
+      "il": "eût raccourci",
+      "nous": "eussions raccourci",
+      "vous": "eussiez raccourci",
+      "ils": "eussent raccourci"
+    },
+    "conditionnel_présent": {
+      "je": "raccourcirais",
+      "tu": "raccourcirais",
+      "il": "raccourcirait",
+      "nous": "raccourcirions",
+      "vous": "raccourciriez",
+      "ils": "raccourciraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais raccourci",
+      "tu": "aurais raccourci",
+      "il": "aurait raccourci",
+      "nous": "aurions raccourci",
+      "vous": "auriez raccourci",
+      "ils": "auraient raccourci"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse raccourci",
+      "tu": "eusses raccourci",
+      "il": "eût raccourci",
+      "nous": "eussions raccourci",
+      "vous": "eussiez raccourci",
+      "ils": "eussent raccourci"
+    },
+    "translation": "skracać",
+    "group": 2
+  },
+  {
+    "infinitive": "raccrocher",
+    "présent": {
+      "je": "raccroche",
+      "tu": "raccroches",
+      "il": "raccroche",
+      "nous": "raccrochons",
+      "vous": "raccrochez",
+      "ils": "raccrochent"
+    },
+    "passé_composé": {
+      "je": "ai raccroché",
+      "tu": "as raccroché",
+      "il": "a raccroché",
+      "nous": "avons raccroché",
+      "vous": "avez raccroché",
+      "ils": "ont raccroché"
+    },
+    "imparfait": {
+      "je": "raccrochais",
+      "tu": "raccrochais",
+      "il": "raccrochait",
+      "nous": "raccrochions",
+      "vous": "raccrochiez",
+      "ils": "raccrochaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais raccroché",
+      "tu": "avais raccroché",
+      "il": "avait raccroché",
+      "nous": "avions raccroché",
+      "vous": "aviez raccroché",
+      "ils": "avaient raccroché"
+    },
+    "passé_simple": {
+      "je": "raccrochai",
+      "tu": "raccrochas",
+      "il": "raccrocha",
+      "nous": "raccrochâmes",
+      "vous": "raccrochâtes",
+      "ils": "raccrochèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus raccroché",
+      "tu": "eus raccroché",
+      "il": "eut raccroché",
+      "nous": "eûmes raccroché",
+      "vous": "eûtes raccroché",
+      "ils": "eurent raccroché"
+    },
+    "futur_simple": {
+      "je": "raccrocherai",
+      "tu": "raccrocheras",
+      "il": "raccrochera",
+      "nous": "raccrocherons",
+      "vous": "raccrocherez",
+      "ils": "raccrocheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai raccroché",
+      "tu": "auras raccroché",
+      "il": "aura raccroché",
+      "nous": "aurons raccroché",
+      "vous": "aurez raccroché",
+      "ils": "auront raccroché"
+    },
+    "subjonctif_présent": {
+      "je": "raccroche",
+      "tu": "raccroches",
+      "il": "raccroche",
+      "nous": "raccrochions",
+      "vous": "raccrochiez",
+      "ils": "raccrochent"
+    },
+    "subjonctif_passé": {
+      "je": "aie raccroché",
+      "tu": "aies raccroché",
+      "il": "ait raccroché",
+      "nous": "ayons raccroché",
+      "vous": "ayez raccroché",
+      "ils": "aient raccroché"
+    },
+    "subjonctif_imparfait": {
+      "je": "raccrochasse",
+      "tu": "raccrochasses",
+      "il": "raccrochât",
+      "nous": "raccrochassions",
+      "vous": "raccrochassiez",
+      "ils": "raccrochassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse raccroché",
+      "tu": "eusses raccroché",
+      "il": "eût raccroché",
+      "nous": "eussions raccroché",
+      "vous": "eussiez raccroché",
+      "ils": "eussent raccroché"
+    },
+    "conditionnel_présent": {
+      "je": "raccrocherais",
+      "tu": "raccrocherais",
+      "il": "raccrocherait",
+      "nous": "raccrocherions",
+      "vous": "raccrocheriez",
+      "ils": "raccrocheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais raccroché",
+      "tu": "aurais raccroché",
+      "il": "aurait raccroché",
+      "nous": "aurions raccroché",
+      "vous": "auriez raccroché",
+      "ils": "auraient raccroché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse raccroché",
+      "tu": "eusses raccroché",
+      "il": "eût raccroché",
+      "nous": "eussions raccroché",
+      "vous": "eussiez raccroché",
+      "ils": "eussent raccroché"
+    },
+    "translation": "odkładać",
+    "group": 1
+  },
+  {
+    "infinitive": "racheter",
+    "présent": {
+      "je": "rachète",
+      "tu": "rachètes",
+      "il": "rachète",
+      "nous": "rachetons",
+      "vous": "rachetez",
+      "ils": "rachètent"
+    },
+    "passé_composé": {
+      "je": "ai racheté",
+      "tu": "as racheté",
+      "il": "a racheté",
+      "nous": "avons racheté",
+      "vous": "avez racheté",
+      "ils": "ont racheté"
+    },
+    "imparfait": {
+      "je": "rachetais",
+      "tu": "rachetais",
+      "il": "rachetait",
+      "nous": "rachetions",
+      "vous": "rachetiez",
+      "ils": "rachetaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais racheté",
+      "tu": "avais racheté",
+      "il": "avait racheté",
+      "nous": "avions racheté",
+      "vous": "aviez racheté",
+      "ils": "avaient racheté"
+    },
+    "passé_simple": {
+      "je": "rachetai",
+      "tu": "rachetas",
+      "il": "racheta",
+      "nous": "rachetâmes",
+      "vous": "rachetâtes",
+      "ils": "rachetèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus racheté",
+      "tu": "eus racheté",
+      "il": "eut racheté",
+      "nous": "eûmes racheté",
+      "vous": "eûtes racheté",
+      "ils": "eurent racheté"
+    },
+    "futur_simple": {
+      "je": "rachèterai",
+      "tu": "rachèteras",
+      "il": "rachètera",
+      "nous": "rachèterons",
+      "vous": "rachèterez",
+      "ils": "rachèteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai racheté",
+      "tu": "auras racheté",
+      "il": "aura racheté",
+      "nous": "aurons racheté",
+      "vous": "aurez racheté",
+      "ils": "auront racheté"
+    },
+    "subjonctif_présent": {
+      "je": "rachète",
+      "tu": "rachètes",
+      "il": "rachète",
+      "nous": "rachetions",
+      "vous": "rachetiez",
+      "ils": "rachètent"
+    },
+    "subjonctif_passé": {
+      "je": "aie racheté",
+      "tu": "aies racheté",
+      "il": "ait racheté",
+      "nous": "ayons racheté",
+      "vous": "ayez racheté",
+      "ils": "aient racheté"
+    },
+    "subjonctif_imparfait": {
+      "je": "rachetasse",
+      "tu": "rachetasses",
+      "il": "rachetât",
+      "nous": "rachetassions",
+      "vous": "rachetassiez",
+      "ils": "rachetassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse racheté",
+      "tu": "eusses racheté",
+      "il": "eût racheté",
+      "nous": "eussions racheté",
+      "vous": "eussiez racheté",
+      "ils": "eussent racheté"
+    },
+    "conditionnel_présent": {
+      "je": "rachèterais",
+      "tu": "rachèterais",
+      "il": "rachèterait",
+      "nous": "rachèterions",
+      "vous": "rachèteriez",
+      "ils": "rachèteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais racheté",
+      "tu": "aurais racheté",
+      "il": "aurait racheté",
+      "nous": "aurions racheté",
+      "vous": "auriez racheté",
+      "ils": "auraient racheté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse racheté",
+      "tu": "eusses racheté",
+      "il": "eût racheté",
+      "nous": "eussions racheté",
+      "vous": "eussiez racheté",
+      "ils": "eussent racheté"
+    },
+    "translation": "dokupywać",
+    "group": 1
+  },
+  {
+    "infinitive": "raconter",
+    "présent": {
+      "je": "raconte",
+      "tu": "racontes",
+      "il": "raconte",
+      "nous": "racontons",
+      "vous": "racontez",
+      "ils": "racontent"
+    },
+    "passé_composé": {
+      "je": "ai raconté",
+      "tu": "as raconté",
+      "il": "a raconté",
+      "nous": "avons raconté",
+      "vous": "avez raconté",
+      "ils": "ont raconté"
+    },
+    "imparfait": {
+      "je": "racontais",
+      "tu": "racontais",
+      "il": "racontait",
+      "nous": "racontions",
+      "vous": "racontiez",
+      "ils": "racontaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais raconté",
+      "tu": "avais raconté",
+      "il": "avait raconté",
+      "nous": "avions raconté",
+      "vous": "aviez raconté",
+      "ils": "avaient raconté"
+    },
+    "passé_simple": {
+      "je": "racontai",
+      "tu": "racontas",
+      "il": "raconta",
+      "nous": "racontâmes",
+      "vous": "racontâtes",
+      "ils": "racontèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus raconté",
+      "tu": "eus raconté",
+      "il": "eut raconté",
+      "nous": "eûmes raconté",
+      "vous": "eûtes raconté",
+      "ils": "eurent raconté"
+    },
+    "futur_simple": {
+      "je": "raconterai",
+      "tu": "raconteras",
+      "il": "racontera",
+      "nous": "raconterons",
+      "vous": "raconterez",
+      "ils": "raconteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai raconté",
+      "tu": "auras raconté",
+      "il": "aura raconté",
+      "nous": "aurons raconté",
+      "vous": "aurez raconté",
+      "ils": "auront raconté"
+    },
+    "subjonctif_présent": {
+      "je": "raconte",
+      "tu": "racontes",
+      "il": "raconte",
+      "nous": "racontions",
+      "vous": "racontiez",
+      "ils": "racontent"
+    },
+    "subjonctif_passé": {
+      "je": "aie raconté",
+      "tu": "aies raconté",
+      "il": "ait raconté",
+      "nous": "ayons raconté",
+      "vous": "ayez raconté",
+      "ils": "aient raconté"
+    },
+    "subjonctif_imparfait": {
+      "je": "racontasse",
+      "tu": "racontasses",
+      "il": "racontât",
+      "nous": "racontassions",
+      "vous": "racontassiez",
+      "ils": "racontassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse raconté",
+      "tu": "eusses raconté",
+      "il": "eût raconté",
+      "nous": "eussions raconté",
+      "vous": "eussiez raconté",
+      "ils": "eussent raconté"
+    },
+    "conditionnel_présent": {
+      "je": "raconterais",
+      "tu": "raconterais",
+      "il": "raconterait",
+      "nous": "raconterions",
+      "vous": "raconteriez",
+      "ils": "raconteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais raconté",
+      "tu": "aurais raconté",
+      "il": "aurait raconté",
+      "nous": "aurions raconté",
+      "vous": "auriez raconté",
+      "ils": "auraient raconté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse raconté",
+      "tu": "eusses raconté",
+      "il": "eût raconté",
+      "nous": "eussions raconté",
+      "vous": "eussiez raconté",
+      "ils": "eussent raconté"
+    },
+    "translation": "opowiadać",
+    "group": 1
+  },
+  {
+    "infinitive": "raffoler",
+    "présent": {
+      "je": "raffole",
+      "tu": "raffoles",
+      "il": "raffole",
+      "nous": "raffolons",
+      "vous": "raffolez",
+      "ils": "raffolent"
+    },
+    "passé_composé": {
+      "je": "ai raffolé",
+      "tu": "as raffolé",
+      "il": "a raffolé",
+      "nous": "avons raffolé",
+      "vous": "avez raffolé",
+      "ils": "ont raffolé"
+    },
+    "imparfait": {
+      "je": "raffolais",
+      "tu": "raffolais",
+      "il": "raffolait",
+      "nous": "raffolions",
+      "vous": "raffoliez",
+      "ils": "raffolaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais raffolé",
+      "tu": "avais raffolé",
+      "il": "avait raffolé",
+      "nous": "avions raffolé",
+      "vous": "aviez raffolé",
+      "ils": "avaient raffolé"
+    },
+    "passé_simple": {
+      "je": "raffolai",
+      "tu": "raffolas",
+      "il": "raffola",
+      "nous": "raffolâmes",
+      "vous": "raffolâtes",
+      "ils": "raffolèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus raffolé",
+      "tu": "eus raffolé",
+      "il": "eut raffolé",
+      "nous": "eûmes raffolé",
+      "vous": "eûtes raffolé",
+      "ils": "eurent raffolé"
+    },
+    "futur_simple": {
+      "je": "raffolerai",
+      "tu": "raffoleras",
+      "il": "raffolera",
+      "nous": "raffolerons",
+      "vous": "raffolerez",
+      "ils": "raffoleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai raffolé",
+      "tu": "auras raffolé",
+      "il": "aura raffolé",
+      "nous": "aurons raffolé",
+      "vous": "aurez raffolé",
+      "ils": "auront raffolé"
+    },
+    "subjonctif_présent": {
+      "je": "raffole",
+      "tu": "raffoles",
+      "il": "raffole",
+      "nous": "raffolions",
+      "vous": "raffoliez",
+      "ils": "raffolent"
+    },
+    "subjonctif_passé": {
+      "je": "aie raffolé",
+      "tu": "aies raffolé",
+      "il": "ait raffolé",
+      "nous": "ayons raffolé",
+      "vous": "ayez raffolé",
+      "ils": "aient raffolé"
+    },
+    "subjonctif_imparfait": {
+      "je": "raffolasse",
+      "tu": "raffolasses",
+      "il": "raffolât",
+      "nous": "raffolassions",
+      "vous": "raffolassiez",
+      "ils": "raffolassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse raffolé",
+      "tu": "eusses raffolé",
+      "il": "eût raffolé",
+      "nous": "eussions raffolé",
+      "vous": "eussiez raffolé",
+      "ils": "eussent raffolé"
+    },
+    "conditionnel_présent": {
+      "je": "raffolerais",
+      "tu": "raffolerais",
+      "il": "raffolerait",
+      "nous": "raffolerions",
+      "vous": "raffoleriez",
+      "ils": "raffoleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais raffolé",
+      "tu": "aurais raffolé",
+      "il": "aurait raffolé",
+      "nous": "aurions raffolé",
+      "vous": "auriez raffolé",
+      "ils": "auraient raffolé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse raffolé",
+      "tu": "eusses raffolé",
+      "il": "eût raffolé",
+      "nous": "eussions raffolé",
+      "vous": "eussiez raffolé",
+      "ils": "eussent raffolé"
+    },
+    "translation": "przepadać",
+    "group": 1
+  }
+]

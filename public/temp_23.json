@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "avaler",
+    "présent": {
+      "je": "avale",
+      "tu": "avales",
+      "il": "avale",
+      "nous": "avalons",
+      "vous": "avalez",
+      "ils": "avalent"
+    },
+    "passé_composé": {
+      "je": "ai avalé",
+      "tu": "as avalé",
+      "il": "a avalé",
+      "nous": "avons avalé",
+      "vous": "avez avalé",
+      "ils": "ont avalé"
+    },
+    "imparfait": {
+      "je": "avalais",
+      "tu": "avalais",
+      "il": "avalait",
+      "nous": "avalions",
+      "vous": "avaliez",
+      "ils": "avalaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais avalé",
+      "tu": "avais avalé",
+      "il": "avait avalé",
+      "nous": "avions avalé",
+      "vous": "aviez avalé",
+      "ils": "avaient avalé"
+    },
+    "passé_simple": {
+      "je": "avalai",
+      "tu": "avalas",
+      "il": "avala",
+      "nous": "avalâmes",
+      "vous": "avalâtes",
+      "ils": "avalèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus avalé",
+      "tu": "eus avalé",
+      "il": "eut avalé",
+      "nous": "eûmes avalé",
+      "vous": "eûtes avalé",
+      "ils": "eurent avalé"
+    },
+    "futur_simple": {
+      "je": "avalerai",
+      "tu": "avaleras",
+      "il": "avalera",
+      "nous": "avalerons",
+      "vous": "avalerez",
+      "ils": "avaleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai avalé",
+      "tu": "auras avalé",
+      "il": "aura avalé",
+      "nous": "aurons avalé",
+      "vous": "aurez avalé",
+      "ils": "auront avalé"
+    },
+    "subjonctif_présent": {
+      "je": "avale",
+      "tu": "avales",
+      "il": "avale",
+      "nous": "avalions",
+      "vous": "avaliez",
+      "ils": "avalent"
+    },
+    "subjonctif_passé": {
+      "je": "aie avalé",
+      "tu": "aies avalé",
+      "il": "ait avalé",
+      "nous": "ayons avalé",
+      "vous": "ayez avalé",
+      "ils": "aient avalé"
+    },
+    "subjonctif_imparfait": {
+      "je": "avalasse",
+      "tu": "avalasses",
+      "il": "avalât",
+      "nous": "avalassions",
+      "vous": "avalassiez",
+      "ils": "avalassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse avalé",
+      "tu": "eusses avalé",
+      "il": "eût avalé",
+      "nous": "eussions avalé",
+      "vous": "eussiez avalé",
+      "ils": "eussent avalé"
+    },
+    "conditionnel_présent": {
+      "je": "avalerais",
+      "tu": "avalerais",
+      "il": "avalerait",
+      "nous": "avalerions",
+      "vous": "avaleriez",
+      "ils": "avaleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais avalé",
+      "tu": "aurais avalé",
+      "il": "aurait avalé",
+      "nous": "aurions avalé",
+      "vous": "auriez avalé",
+      "ils": "auraient avalé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse avalé",
+      "tu": "eusses avalé",
+      "il": "eût avalé",
+      "nous": "eussions avalé",
+      "vous": "eussiez avalé",
+      "ils": "eussent avalé"
+    },
+    "translation": "przełykać",
+    "group": 1
+  },
+  {
+    "infinitive": "avancer",
+    "présent": {
+      "je": "avance",
+      "tu": "avances",
+      "il": "avance",
+      "nous": "avançons",
+      "vous": "avancez",
+      "ils": "avancent"
+    },
+    "passé_composé": {
+      "je": "ai avancé",
+      "tu": "as avancé",
+      "il": "a avancé",
+      "nous": "avons avancé",
+      "vous": "avez avancé",
+      "ils": "ont avancé"
+    },
+    "imparfait": {
+      "je": "avançais",
+      "tu": "avançais",
+      "il": "avançait",
+      "nous": "avancions",
+      "vous": "avanciez",
+      "ils": "avançaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais avancé",
+      "tu": "avais avancé",
+      "il": "avait avancé",
+      "nous": "avions avancé",
+      "vous": "aviez avancé",
+      "ils": "avaient avancé"
+    },
+    "passé_simple": {
+      "je": "avançai",
+      "tu": "avanças",
+      "il": "avança",
+      "nous": "avançâmes",
+      "vous": "avançâtes",
+      "ils": "avancèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus avancé",
+      "tu": "eus avancé",
+      "il": "eut avancé",
+      "nous": "eûmes avancé",
+      "vous": "eûtes avancé",
+      "ils": "eurent avancé"
+    },
+    "futur_simple": {
+      "je": "avancerai",
+      "tu": "avanceras",
+      "il": "avancera",
+      "nous": "avancerons",
+      "vous": "avancerez",
+      "ils": "avanceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai avancé",
+      "tu": "auras avancé",
+      "il": "aura avancé",
+      "nous": "aurons avancé",
+      "vous": "aurez avancé",
+      "ils": "auront avancé"
+    },
+    "subjonctif_présent": {
+      "je": "avance",
+      "tu": "avances",
+      "il": "avance",
+      "nous": "avancions",
+      "vous": "avanciez",
+      "ils": "avancent"
+    },
+    "subjonctif_passé": {
+      "je": "aie avancé",
+      "tu": "aies avancé",
+      "il": "ait avancé",
+      "nous": "ayons avancé",
+      "vous": "ayez avancé",
+      "ils": "aient avancé"
+    },
+    "subjonctif_imparfait": {
+      "je": "avançasse",
+      "tu": "avançasses",
+      "il": "avançât",
+      "nous": "avançassions",
+      "vous": "avançassiez",
+      "ils": "avançassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse avancé",
+      "tu": "eusses avancé",
+      "il": "eût avancé",
+      "nous": "eussions avancé",
+      "vous": "eussiez avancé",
+      "ils": "eussent avancé"
+    },
+    "conditionnel_présent": {
+      "je": "avancerais",
+      "tu": "avancerais",
+      "il": "avancerait",
+      "nous": "avancerions",
+      "vous": "avanceriez",
+      "ils": "avanceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais avancé",
+      "tu": "aurais avancé",
+      "il": "aurait avancé",
+      "nous": "aurions avancé",
+      "vous": "auriez avancé",
+      "ils": "auraient avancé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse avancé",
+      "tu": "eusses avancé",
+      "il": "eût avancé",
+      "nous": "eussions avancé",
+      "vous": "eussiez avancé",
+      "ils": "eussent avancé"
+    },
+    "translation": "przesuwać",
+    "group": 1
+  },
+  {
+    "infinitive": "aventurer",
+    "présent": {
+      "je": "aventure",
+      "tu": "aventures",
+      "il": "aventure",
+      "nous": "aventurons",
+      "vous": "aventurez",
+      "ils": "aventurent"
+    },
+    "passé_composé": {
+      "je": "ai aventuré",
+      "tu": "as aventuré",
+      "il": "a aventuré",
+      "nous": "avons aventuré",
+      "vous": "avez aventuré",
+      "ils": "ont aventuré"
+    },
+    "imparfait": {
+      "je": "aventurais",
+      "tu": "aventurais",
+      "il": "aventurait",
+      "nous": "aventurions",
+      "vous": "aventuriez",
+      "ils": "aventuraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais aventuré",
+      "tu": "avais aventuré",
+      "il": "avait aventuré",
+      "nous": "avions aventuré",
+      "vous": "aviez aventuré",
+      "ils": "avaient aventuré"
+    },
+    "passé_simple": {
+      "je": "aventurai",
+      "tu": "aventuras",
+      "il": "aventura",
+      "nous": "aventurâmes",
+      "vous": "aventurâtes",
+      "ils": "aventurèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus aventuré",
+      "tu": "eus aventuré",
+      "il": "eut aventuré",
+      "nous": "eûmes aventuré",
+      "vous": "eûtes aventuré",
+      "ils": "eurent aventuré"
+    },
+    "futur_simple": {
+      "je": "aventurerai",
+      "tu": "aventureras",
+      "il": "aventurera",
+      "nous": "aventurerons",
+      "vous": "aventurerez",
+      "ils": "aventureront"
+    },
+    "futur_antérieur": {
+      "je": "aurai aventuré",
+      "tu": "auras aventuré",
+      "il": "aura aventuré",
+      "nous": "aurons aventuré",
+      "vous": "aurez aventuré",
+      "ils": "auront aventuré"
+    },
+    "subjonctif_présent": {
+      "je": "aventure",
+      "tu": "aventures",
+      "il": "aventure",
+      "nous": "aventurions",
+      "vous": "aventuriez",
+      "ils": "aventurent"
+    },
+    "subjonctif_passé": {
+      "je": "aie aventuré",
+      "tu": "aies aventuré",
+      "il": "ait aventuré",
+      "nous": "ayons aventuré",
+      "vous": "ayez aventuré",
+      "ils": "aient aventuré"
+    },
+    "subjonctif_imparfait": {
+      "je": "aventurasse",
+      "tu": "aventurasses",
+      "il": "aventurât",
+      "nous": "aventurassions",
+      "vous": "aventurassiez",
+      "ils": "aventurassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse aventuré",
+      "tu": "eusses aventuré",
+      "il": "eût aventuré",
+      "nous": "eussions aventuré",
+      "vous": "eussiez aventuré",
+      "ils": "eussent aventuré"
+    },
+    "conditionnel_présent": {
+      "je": "aventurerais",
+      "tu": "aventurerais",
+      "il": "aventurerait",
+      "nous": "aventurerions",
+      "vous": "aventureriez",
+      "ils": "aventureraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais aventuré",
+      "tu": "aurais aventuré",
+      "il": "aurait aventuré",
+      "nous": "aurions aventuré",
+      "vous": "auriez aventuré",
+      "ils": "auraient aventuré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse aventuré",
+      "tu": "eusses aventuré",
+      "il": "eût aventuré",
+      "nous": "eussions aventuré",
+      "vous": "eussiez aventuré",
+      "ils": "eussent aventuré"
+    },
+    "translation": "narażać",
+    "group": 1
+  },
+  {
+    "infinitive": "avérer",
+    "présent": {
+      "je": "avère",
+      "tu": "avères",
+      "il": "avère",
+      "nous": "nous avérons",
+      "vous": "vous avérez",
+      "ils": "avèrent"
+    },
+    "passé_composé": {
+      "je": "me suis avéré",
+      "tu": "es avéré",
+      "il": "est avéré",
+      "nous": "nous sommes avérés",
+      "vous": "vous êtes avérés",
+      "ils": "se sont avérés"
+    },
+    "imparfait": {
+      "je": "avérais",
+      "tu": "avérais",
+      "il": "avérait",
+      "nous": "nous avérions",
+      "vous": "vous avériez",
+      "ils": "avéraient"
+    },
+    "plus_que_parfait": {
+      "je": "étais avéré",
+      "tu": "étais avéré",
+      "il": "était avéré",
+      "nous": "nous étions avérés",
+      "vous": "vous étiez avérés",
+      "ils": "étaient avérés"
+    },
+    "passé_simple": {
+      "je": "avérai",
+      "tu": "avéras",
+      "il": "avéra",
+      "nous": "nous avérâmes",
+      "vous": "vous avérâtes",
+      "ils": "avérèrent"
+    },
+    "passé_antérieur": {
+      "je": "me fus avéré",
+      "tu": "te fus avéré",
+      "il": "se fut avéré",
+      "nous": "nous fûmes avérés",
+      "vous": "vous fûtes avérés",
+      "ils": "se furent avérés"
+    },
+    "futur_simple": {
+      "je": "avérerai",
+      "tu": "avéreras",
+      "il": "avérera",
+      "nous": "nous avérerons",
+      "vous": "vous avérerez",
+      "ils": "avéreront"
+    },
+    "futur_antérieur": {
+      "je": "me serai avéré",
+      "tu": "te seras avéré",
+      "il": "se sera avéré",
+      "nous": "nous serons avérés",
+      "vous": "vous serez avérés",
+      "ils": "se seront avérés"
+    },
+    "subjonctif_présent": {
+      "je": "avère",
+      "tu": "avères",
+      "il": "avère",
+      "nous": "nous avérions",
+      "vous": "vous avériez",
+      "ils": "avèrent"
+    },
+    "subjonctif_passé": {
+      "je": "me sois avéré",
+      "tu": "te sois avéré",
+      "il": "se soit avéré",
+      "nous": "nous soyons avérés",
+      "vous": "vous soyez avérés",
+      "ils": "se soient avérés"
+    },
+    "subjonctif_imparfait": {
+      "je": "avérasse",
+      "tu": "avérasses",
+      "il": "avérât",
+      "nous": "nous avérassions",
+      "vous": "vous avérassiez",
+      "ils": "avérassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse avéré",
+      "tu": "te fusses avéré",
+      "il": "se fût avéré",
+      "nous": "nous fussions avérés",
+      "vous": "vous fussiez avérés",
+      "ils": "se fussent avérés"
+    },
+    "conditionnel_présent": {
+      "je": "avérerais",
+      "tu": "avérerais",
+      "il": "avérerait",
+      "nous": "nous avérerions",
+      "vous": "vous avéreriez",
+      "ils": "avéreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais avéré",
+      "tu": "te serais avéré",
+      "il": "se serait avéré",
+      "nous": "nous serions avérés",
+      "vous": "vous seriez avérés",
+      "ils": "se seraient avérés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse avéré",
+      "tu": "te fusses avéré",
+      "il": "se fût avéré",
+      "nous": "nous fussions avérés",
+      "vous": "vous fussiez avérés",
+      "ils": "se fussent avérés"
+    },
+    "translation": "okazywać",
+    "group": 1
+  },
+  {
+    "infinitive": "avertir",
+    "présent": {
+      "je": "avertis",
+      "tu": "avertis",
+      "il": "avertit",
+      "nous": "avertissons",
+      "vous": "avertissez",
+      "ils": "avertissent"
+    },
+    "passé_composé": {
+      "je": "ai averti",
+      "tu": "as averti",
+      "il": "a averti",
+      "nous": "avons averti",
+      "vous": "avez averti",
+      "ils": "ont averti"
+    },
+    "imparfait": {
+      "je": "avertissais",
+      "tu": "avertissais",
+      "il": "avertissait",
+      "nous": "avertissions",
+      "vous": "avertissiez",
+      "ils": "avertissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais averti",
+      "tu": "avais averti",
+      "il": "avait averti",
+      "nous": "avions averti",
+      "vous": "aviez averti",
+      "ils": "avaient averti"
+    },
+    "passé_simple": {
+      "je": "avertis",
+      "tu": "avertis",
+      "il": "avertit",
+      "nous": "avertîmes",
+      "vous": "avertîtes",
+      "ils": "avertirent"
+    },
+    "passé_antérieur": {
+      "je": "eus averti",
+      "tu": "eus averti",
+      "il": "eut averti",
+      "nous": "eûmes averti",
+      "vous": "eûtes averti",
+      "ils": "eurent averti"
+    },
+    "futur_simple": {
+      "je": "avertirai",
+      "tu": "avertiras",
+      "il": "avertira",
+      "nous": "avertirons",
+      "vous": "avertirez",
+      "ils": "avertiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai averti",
+      "tu": "auras averti",
+      "il": "aura averti",
+      "nous": "aurons averti",
+      "vous": "aurez averti",
+      "ils": "auront averti"
+    },
+    "subjonctif_présent": {
+      "je": "avertisse",
+      "tu": "avertisses",
+      "il": "avertisse",
+      "nous": "avertissions",
+      "vous": "avertissiez",
+      "ils": "avertissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie averti",
+      "tu": "aies averti",
+      "il": "ait averti",
+      "nous": "ayons averti",
+      "vous": "ayez averti",
+      "ils": "aient averti"
+    },
+    "subjonctif_imparfait": {
+      "je": "avertisse",
+      "tu": "avertisses",
+      "il": "avertît",
+      "nous": "avertissions",
+      "vous": "avertissiez",
+      "ils": "avertissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse averti",
+      "tu": "eusses averti",
+      "il": "eût averti",
+      "nous": "eussions averti",
+      "vous": "eussiez averti",
+      "ils": "eussent averti"
+    },
+    "conditionnel_présent": {
+      "je": "avertirais",
+      "tu": "avertirais",
+      "il": "avertirait",
+      "nous": "avertirions",
+      "vous": "avertiriez",
+      "ils": "avertiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais averti",
+      "tu": "aurais averti",
+      "il": "aurait averti",
+      "nous": "aurions averti",
+      "vous": "auriez averti",
+      "ils": "auraient averti"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse averti",
+      "tu": "eusses averti",
+      "il": "eût averti",
+      "nous": "eussions averti",
+      "vous": "eussiez averti",
+      "ils": "eussent averti"
+    },
+    "translation": "zawiadamiać",
+    "group": 2
+  },
+  {
+    "infinitive": "aviser",
+    "présent": {
+      "je": "avise",
+      "tu": "avises",
+      "il": "avise",
+      "nous": "avisons",
+      "vous": "avisez",
+      "ils": "avisent"
+    },
+    "passé_composé": {
+      "je": "ai avisé",
+      "tu": "as avisé",
+      "il": "a avisé",
+      "nous": "avons avisé",
+      "vous": "avez avisé",
+      "ils": "ont avisé"
+    },
+    "imparfait": {
+      "je": "avisais",
+      "tu": "avisais",
+      "il": "avisait",
+      "nous": "avisions",
+      "vous": "avisiez",
+      "ils": "avisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais avisé",
+      "tu": "avais avisé",
+      "il": "avait avisé",
+      "nous": "avions avisé",
+      "vous": "aviez avisé",
+      "ils": "avaient avisé"
+    },
+    "passé_simple": {
+      "je": "avisai",
+      "tu": "avisas",
+      "il": "avisa",
+      "nous": "avisâmes",
+      "vous": "avisâtes",
+      "ils": "avisèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus avisé",
+      "tu": "eus avisé",
+      "il": "eut avisé",
+      "nous": "eûmes avisé",
+      "vous": "eûtes avisé",
+      "ils": "eurent avisé"
+    },
+    "futur_simple": {
+      "je": "aviserai",
+      "tu": "aviseras",
+      "il": "avisera",
+      "nous": "aviserons",
+      "vous": "aviserez",
+      "ils": "aviseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai avisé",
+      "tu": "auras avisé",
+      "il": "aura avisé",
+      "nous": "aurons avisé",
+      "vous": "aurez avisé",
+      "ils": "auront avisé"
+    },
+    "subjonctif_présent": {
+      "je": "avise",
+      "tu": "avises",
+      "il": "avise",
+      "nous": "avisions",
+      "vous": "avisiez",
+      "ils": "avisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie avisé",
+      "tu": "aies avisé",
+      "il": "ait avisé",
+      "nous": "ayons avisé",
+      "vous": "ayez avisé",
+      "ils": "aient avisé"
+    },
+    "subjonctif_imparfait": {
+      "je": "avisasse",
+      "tu": "avisasses",
+      "il": "avisât",
+      "nous": "avisassions",
+      "vous": "avisassiez",
+      "ils": "avisassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse avisé",
+      "tu": "eusses avisé",
+      "il": "eût avisé",
+      "nous": "eussions avisé",
+      "vous": "eussiez avisé",
+      "ils": "eussent avisé"
+    },
+    "conditionnel_présent": {
+      "je": "aviserais",
+      "tu": "aviserais",
+      "il": "aviserait",
+      "nous": "aviserions",
+      "vous": "aviseriez",
+      "ils": "aviseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais avisé",
+      "tu": "aurais avisé",
+      "il": "aurait avisé",
+      "nous": "aurions avisé",
+      "vous": "auriez avisé",
+      "ils": "auraient avisé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse avisé",
+      "tu": "eusses avisé",
+      "il": "eût avisé",
+      "nous": "eussions avisé",
+      "vous": "eussiez avisé",
+      "ils": "eussent avisé"
+    },
+    "translation": "zmieniać",
+    "group": 1
+  },
+  {
+    "infinitive": "avoir",
+    "présent": {
+      "je": "-",
+      "tu": "as",
+      "il": "-",
+      "nous": "avons",
+      "vous": "avez",
+      "ils": "ont"
+    },
+    "passé_composé": {
+      "je": "ai eu",
+      "tu": "as eu",
+      "il": "a eu",
+      "nous": "avons eu",
+      "vous": "avez eu",
+      "ils": "ont eu"
+    },
+    "imparfait": {
+      "je": "avais",
+      "tu": "avais",
+      "il": "avait",
+      "nous": "avions",
+      "vous": "aviez",
+      "ils": "avaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais eu",
+      "tu": "avais eu",
+      "il": "avait eu",
+      "nous": "avions eu",
+      "vous": "aviez eu",
+      "ils": "avaient eu"
+    },
+    "passé_simple": {
+      "je": "eus",
+      "tu": "eus",
+      "il": "eut",
+      "nous": "eûmes",
+      "vous": "eûtes",
+      "ils": "eurent"
+    },
+    "passé_antérieur": {
+      "je": "eus eu",
+      "tu": "eus eu",
+      "il": "eut eu",
+      "nous": "eûmes eu",
+      "vous": "eûtes eu",
+      "ils": "eurent eu"
+    },
+    "futur_simple": {
+      "je": "aurai",
+      "tu": "auras",
+      "il": "aura",
+      "nous": "aurons",
+      "vous": "aurez",
+      "ils": "auront"
+    },
+    "futur_antérieur": {
+      "je": "aurai eu",
+      "tu": "auras eu",
+      "il": "aura eu",
+      "nous": "aurons eu",
+      "vous": "aurez eu",
+      "ils": "auront eu"
+    },
+    "subjonctif_présent": {
+      "je": "aie",
+      "tu": "aies",
+      "il": "ait",
+      "nous": "ayons",
+      "vous": "ayez",
+      "ils": "aient"
+    },
+    "subjonctif_passé": {
+      "je": "aie eu",
+      "tu": "aies eu",
+      "il": "ait eu",
+      "nous": "ayons eu",
+      "vous": "ayez eu",
+      "ils": "aient eu"
+    },
+    "subjonctif_imparfait": {
+      "je": "eusse",
+      "tu": "eusses",
+      "il": "eût",
+      "nous": "eussions",
+      "vous": "eussiez",
+      "ils": "eussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse eu",
+      "tu": "eusses eu",
+      "il": "eût eu",
+      "nous": "eussions eu",
+      "vous": "eussiez eu",
+      "ils": "eussent eu"
+    },
+    "conditionnel_présent": {
+      "je": "aurais",
+      "tu": "aurais",
+      "il": "aurait",
+      "nous": "aurions",
+      "vous": "auriez",
+      "ils": "auraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais eu",
+      "tu": "aurais eu",
+      "il": "aurait eu",
+      "nous": "aurions eu",
+      "vous": "auriez eu",
+      "ils": "auraient eu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse eu",
+      "tu": "eusses eu",
+      "il": "eût eu",
+      "nous": "eussions eu",
+      "vous": "eussiez eu",
+      "ils": "eussent eu"
+    },
+    "translation": "mieć",
+    "group": 3
+  },
+  {
+    "infinitive": "avouer",
+    "présent": {
+      "je": "avoue",
+      "tu": "avoues",
+      "il": "avoue",
+      "nous": "avouons",
+      "vous": "avouez",
+      "ils": "avouent"
+    },
+    "passé_composé": {
+      "je": "ai avoué",
+      "tu": "as avoué",
+      "il": "a avoué",
+      "nous": "avons avoué",
+      "vous": "avez avoué",
+      "ils": "ont avoué"
+    },
+    "imparfait": {
+      "je": "avouais",
+      "tu": "avouais",
+      "il": "avouait",
+      "nous": "avouions",
+      "vous": "avouiez",
+      "ils": "avouaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais avoué",
+      "tu": "avais avoué",
+      "il": "avait avoué",
+      "nous": "avions avoué",
+      "vous": "aviez avoué",
+      "ils": "avaient avoué"
+    },
+    "passé_simple": {
+      "je": "avouai",
+      "tu": "avouas",
+      "il": "avoua",
+      "nous": "avouâmes",
+      "vous": "avouâtes",
+      "ils": "avouèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus avoué",
+      "tu": "eus avoué",
+      "il": "eut avoué",
+      "nous": "eûmes avoué",
+      "vous": "eûtes avoué",
+      "ils": "eurent avoué"
+    },
+    "futur_simple": {
+      "je": "avouerai",
+      "tu": "avoueras",
+      "il": "avouera",
+      "nous": "avouerons",
+      "vous": "avouerez",
+      "ils": "avoueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai avoué",
+      "tu": "auras avoué",
+      "il": "aura avoué",
+      "nous": "aurons avoué",
+      "vous": "aurez avoué",
+      "ils": "auront avoué"
+    },
+    "subjonctif_présent": {
+      "je": "avoue",
+      "tu": "avoues",
+      "il": "avoue",
+      "nous": "avouions",
+      "vous": "avouiez",
+      "ils": "avouent"
+    },
+    "subjonctif_passé": {
+      "je": "aie avoué",
+      "tu": "aies avoué",
+      "il": "ait avoué",
+      "nous": "ayons avoué",
+      "vous": "ayez avoué",
+      "ils": "aient avoué"
+    },
+    "subjonctif_imparfait": {
+      "je": "avouasse",
+      "tu": "avouasses",
+      "il": "avouât",
+      "nous": "avouassions",
+      "vous": "avouassiez",
+      "ils": "avouassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse avoué",
+      "tu": "eusses avoué",
+      "il": "eût avoué",
+      "nous": "eussions avoué",
+      "vous": "eussiez avoué",
+      "ils": "eussent avoué"
+    },
+    "conditionnel_présent": {
+      "je": "avouerais",
+      "tu": "avouerais",
+      "il": "avouerait",
+      "nous": "avouerions",
+      "vous": "avoueriez",
+      "ils": "avoueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais avoué",
+      "tu": "aurais avoué",
+      "il": "aurait avoué",
+      "nous": "aurions avoué",
+      "vous": "auriez avoué",
+      "ils": "auraient avoué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse avoué",
+      "tu": "eusses avoué",
+      "il": "eût avoué",
+      "nous": "eussions avoué",
+      "vous": "eussiez avoué",
+      "ils": "eussent avoué"
+    },
+    "translation": "przyznawać",
+    "group": 1
+  },
+  {
+    "infinitive": "avoyer",
+    "présent": {
+      "je": "avoie",
+      "tu": "avoies",
+      "il": "avoie",
+      "nous": "avoyons",
+      "vous": "avoyez",
+      "ils": "avoient"
+    },
+    "passé_composé": {
+      "je": "ai avoyé",
+      "tu": "as avoyé",
+      "il": "a avoyé",
+      "nous": "avons avoyé",
+      "vous": "avez avoyé",
+      "ils": "ont avoyé"
+    },
+    "imparfait": {
+      "je": "avoyais",
+      "tu": "avoyais",
+      "il": "avoyait",
+      "nous": "avoyions",
+      "vous": "avoyiez",
+      "ils": "avoyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais avoyé",
+      "tu": "avais avoyé",
+      "il": "avait avoyé",
+      "nous": "avions avoyé",
+      "vous": "aviez avoyé",
+      "ils": "avaient avoyé"
+    },
+    "passé_simple": {
+      "je": "avoyai",
+      "tu": "avoyas",
+      "il": "avoya",
+      "nous": "avoyâmes",
+      "vous": "avoyâtes",
+      "ils": "avoyèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus avoyé",
+      "tu": "eus avoyé",
+      "il": "eut avoyé",
+      "nous": "eûmes avoyé",
+      "vous": "eûtes avoyé",
+      "ils": "eurent avoyé"
+    },
+    "futur_simple": {
+      "je": "avoierai",
+      "tu": "avoieras",
+      "il": "avoiera",
+      "nous": "avoierons",
+      "vous": "avoierez",
+      "ils": "avoieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai avoyé",
+      "tu": "auras avoyé",
+      "il": "aura avoyé",
+      "nous": "aurons avoyé",
+      "vous": "aurez avoyé",
+      "ils": "auront avoyé"
+    },
+    "subjonctif_présent": {
+      "je": "avoie",
+      "tu": "avoies",
+      "il": "avoie",
+      "nous": "avoyions",
+      "vous": "avoyiez",
+      "ils": "avoient"
+    },
+    "subjonctif_passé": {
+      "je": "aie avoyé",
+      "tu": "aies avoyé",
+      "il": "ait avoyé",
+      "nous": "ayons avoyé",
+      "vous": "ayez avoyé",
+      "ils": "aient avoyé"
+    },
+    "subjonctif_imparfait": {
+      "je": "avoyasse",
+      "tu": "avoyasses",
+      "il": "avoyât",
+      "nous": "avoyassions",
+      "vous": "avoyassiez",
+      "ils": "avoyassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse avoyé",
+      "tu": "eusses avoyé",
+      "il": "eût avoyé",
+      "nous": "eussions avoyé",
+      "vous": "eussiez avoyé",
+      "ils": "eussent avoyé"
+    },
+    "conditionnel_présent": {
+      "je": "avoierais",
+      "tu": "avoierais",
+      "il": "avoierait",
+      "nous": "avoierions",
+      "vous": "avoieriez",
+      "ils": "avoieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais avoyé",
+      "tu": "aurais avoyé",
+      "il": "aurait avoyé",
+      "nous": "aurions avoyé",
+      "vous": "auriez avoyé",
+      "ils": "auraient avoyé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse avoyé",
+      "tu": "eusses avoyé",
+      "il": "eût avoyé",
+      "nous": "eussions avoyé",
+      "vous": "eussiez avoyé",
+      "ils": "eussent avoyé"
+    },
+    "translation": "przyznawać",
+    "group": 1
+  },
+  {
+    "infinitive": "axer",
+    "présent": {
+      "je": "axe",
+      "tu": "axes",
+      "il": "axe",
+      "nous": "axons",
+      "vous": "axez",
+      "ils": "axent"
+    },
+    "passé_composé": {
+      "je": "ai axé",
+      "tu": "as axé",
+      "il": "a axé",
+      "nous": "avons axé",
+      "vous": "avez axé",
+      "ils": "ont axé"
+    },
+    "imparfait": {
+      "je": "axais",
+      "tu": "axais",
+      "il": "axait",
+      "nous": "axions",
+      "vous": "axiez",
+      "ils": "axaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais axé",
+      "tu": "avais axé",
+      "il": "avait axé",
+      "nous": "avions axé",
+      "vous": "aviez axé",
+      "ils": "avaient axé"
+    },
+    "passé_simple": {
+      "je": "axai",
+      "tu": "axas",
+      "il": "axa",
+      "nous": "axâmes",
+      "vous": "axâtes",
+      "ils": "axèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus axé",
+      "tu": "eus axé",
+      "il": "eut axé",
+      "nous": "eûmes axé",
+      "vous": "eûtes axé",
+      "ils": "eurent axé"
+    },
+    "futur_simple": {
+      "je": "axerai",
+      "tu": "axeras",
+      "il": "axera",
+      "nous": "axerons",
+      "vous": "axerez",
+      "ils": "axeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai axé",
+      "tu": "auras axé",
+      "il": "aura axé",
+      "nous": "aurons axé",
+      "vous": "aurez axé",
+      "ils": "auront axé"
+    },
+    "subjonctif_présent": {
+      "je": "axe",
+      "tu": "axes",
+      "il": "axe",
+      "nous": "axions",
+      "vous": "axiez",
+      "ils": "axent"
+    },
+    "subjonctif_passé": {
+      "je": "aie axé",
+      "tu": "aies axé",
+      "il": "ait axé",
+      "nous": "ayons axé",
+      "vous": "ayez axé",
+      "ils": "aient axé"
+    },
+    "subjonctif_imparfait": {
+      "je": "axasse",
+      "tu": "axasses",
+      "il": "axât",
+      "nous": "axassions",
+      "vous": "axassiez",
+      "ils": "axassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse axé",
+      "tu": "eusses axé",
+      "il": "eût axé",
+      "nous": "eussions axé",
+      "vous": "eussiez axé",
+      "ils": "eussent axé"
+    },
+    "conditionnel_présent": {
+      "je": "axerais",
+      "tu": "axerais",
+      "il": "axerait",
+      "nous": "axerions",
+      "vous": "axeriez",
+      "ils": "axeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais axé",
+      "tu": "aurais axé",
+      "il": "aurait axé",
+      "nous": "aurions axé",
+      "vous": "auriez axé",
+      "ils": "auraient axé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse axé",
+      "tu": "eusses axé",
+      "il": "eût axé",
+      "nous": "eussions axé",
+      "vous": "eussiez axé",
+      "ils": "eussent axé"
+    },
+    "translation": "koncentrować",
+    "group": 1
+  }
+]

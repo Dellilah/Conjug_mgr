@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "chevaucher",
+    "présent": {
+      "je": "chevauche",
+      "tu": "chevauches",
+      "il": "chevauche",
+      "nous": "chevauchons",
+      "vous": "chevauchez",
+      "ils": "chevauchent"
+    },
+    "passé_composé": {
+      "je": "ai chevauché",
+      "tu": "as chevauché",
+      "il": "a chevauché",
+      "nous": "avons chevauché",
+      "vous": "avez chevauché",
+      "ils": "ont chevauché"
+    },
+    "imparfait": {
+      "je": "chevauchais",
+      "tu": "chevauchais",
+      "il": "chevauchait",
+      "nous": "chevauchions",
+      "vous": "chevauchiez",
+      "ils": "chevauchaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais chevauché",
+      "tu": "avais chevauché",
+      "il": "avait chevauché",
+      "nous": "avions chevauché",
+      "vous": "aviez chevauché",
+      "ils": "avaient chevauché"
+    },
+    "passé_simple": {
+      "je": "chevauchai",
+      "tu": "chevauchas",
+      "il": "chevaucha",
+      "nous": "chevauchâmes",
+      "vous": "chevauchâtes",
+      "ils": "chevauchèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus chevauché",
+      "tu": "eus chevauché",
+      "il": "eut chevauché",
+      "nous": "eûmes chevauché",
+      "vous": "eûtes chevauché",
+      "ils": "eurent chevauché"
+    },
+    "futur_simple": {
+      "je": "chevaucherai",
+      "tu": "chevaucheras",
+      "il": "chevauchera",
+      "nous": "chevaucherons",
+      "vous": "chevaucherez",
+      "ils": "chevaucheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai chevauché",
+      "tu": "auras chevauché",
+      "il": "aura chevauché",
+      "nous": "aurons chevauché",
+      "vous": "aurez chevauché",
+      "ils": "auront chevauché"
+    },
+    "subjonctif_présent": {
+      "je": "chevauche",
+      "tu": "chevauches",
+      "il": "chevauche",
+      "nous": "chevauchions",
+      "vous": "chevauchiez",
+      "ils": "chevauchent"
+    },
+    "subjonctif_passé": {
+      "je": "aie chevauché",
+      "tu": "aies chevauché",
+      "il": "ait chevauché",
+      "nous": "ayons chevauché",
+      "vous": "ayez chevauché",
+      "ils": "aient chevauché"
+    },
+    "subjonctif_imparfait": {
+      "je": "chevauchasse",
+      "tu": "chevauchasses",
+      "il": "chevauchât",
+      "nous": "chevauchassions",
+      "vous": "chevauchassiez",
+      "ils": "chevauchassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse chevauché",
+      "tu": "eusses chevauché",
+      "il": "eût chevauché",
+      "nous": "eussions chevauché",
+      "vous": "eussiez chevauché",
+      "ils": "eussent chevauché"
+    },
+    "conditionnel_présent": {
+      "je": "chevaucherais",
+      "tu": "chevaucherais",
+      "il": "chevaucherait",
+      "nous": "chevaucherions",
+      "vous": "chevaucheriez",
+      "ils": "chevaucheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais chevauché",
+      "tu": "aurais chevauché",
+      "il": "aurait chevauché",
+      "nous": "aurions chevauché",
+      "vous": "auriez chevauché",
+      "ils": "auraient chevauché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse chevauché",
+      "tu": "eusses chevauché",
+      "il": "eût chevauché",
+      "nous": "eussions chevauché",
+      "vous": "eussiez chevauché",
+      "ils": "eussent chevauché"
+    },
+    "translation": "siadać",
+    "group": 1
+  },
+  {
+    "infinitive": "chialer",
+    "présent": {
+      "je": "chiale",
+      "tu": "chiales",
+      "il": "chiale",
+      "nous": "chialons",
+      "vous": "chialez",
+      "ils": "chialent"
+    },
+    "passé_composé": {
+      "je": "ai chialé",
+      "tu": "as chialé",
+      "il": "a chialé",
+      "nous": "avons chialé",
+      "vous": "avez chialé",
+      "ils": "ont chialé"
+    },
+    "imparfait": {
+      "je": "chialais",
+      "tu": "chialais",
+      "il": "chialait",
+      "nous": "chialions",
+      "vous": "chialiez",
+      "ils": "chialaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais chialé",
+      "tu": "avais chialé",
+      "il": "avait chialé",
+      "nous": "avions chialé",
+      "vous": "aviez chialé",
+      "ils": "avaient chialé"
+    },
+    "passé_simple": {
+      "je": "chialai",
+      "tu": "chialas",
+      "il": "chiala",
+      "nous": "chialâmes",
+      "vous": "chialâtes",
+      "ils": "chialèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus chialé",
+      "tu": "eus chialé",
+      "il": "eut chialé",
+      "nous": "eûmes chialé",
+      "vous": "eûtes chialé",
+      "ils": "eurent chialé"
+    },
+    "futur_simple": {
+      "je": "chialerai",
+      "tu": "chialeras",
+      "il": "chialera",
+      "nous": "chialerons",
+      "vous": "chialerez",
+      "ils": "chialeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai chialé",
+      "tu": "auras chialé",
+      "il": "aura chialé",
+      "nous": "aurons chialé",
+      "vous": "aurez chialé",
+      "ils": "auront chialé"
+    },
+    "subjonctif_présent": {
+      "je": "chiale",
+      "tu": "chiales",
+      "il": "chiale",
+      "nous": "chialions",
+      "vous": "chialiez",
+      "ils": "chialent"
+    },
+    "subjonctif_passé": {
+      "je": "aie chialé",
+      "tu": "aies chialé",
+      "il": "ait chialé",
+      "nous": "ayons chialé",
+      "vous": "ayez chialé",
+      "ils": "aient chialé"
+    },
+    "subjonctif_imparfait": {
+      "je": "chialasse",
+      "tu": "chialasses",
+      "il": "chialât",
+      "nous": "chialassions",
+      "vous": "chialassiez",
+      "ils": "chialassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse chialé",
+      "tu": "eusses chialé",
+      "il": "eût chialé",
+      "nous": "eussions chialé",
+      "vous": "eussiez chialé",
+      "ils": "eussent chialé"
+    },
+    "conditionnel_présent": {
+      "je": "chialerais",
+      "tu": "chialerais",
+      "il": "chialerait",
+      "nous": "chialerions",
+      "vous": "chialeriez",
+      "ils": "chialeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais chialé",
+      "tu": "aurais chialé",
+      "il": "aurait chialé",
+      "nous": "aurions chialé",
+      "vous": "auriez chialé",
+      "ils": "auraient chialé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse chialé",
+      "tu": "eusses chialé",
+      "il": "eût chialé",
+      "nous": "eussions chialé",
+      "vous": "eussiez chialé",
+      "ils": "eussent chialé"
+    },
+    "translation": "ryczeć",
+    "group": 1
+  },
+  {
+    "infinitive": "choir",
+    "présent": {
+      "je": "chois",
+      "tu": "chois",
+      "il": "choit",
+      "nous": "choyons",
+      "vous": "choyez",
+      "ils": "choient"
+    },
+    "passé_composé": {
+      "je": "ai chu",
+      "tu": "as chu",
+      "il": "a chu",
+      "nous": "avons chu",
+      "vous": "avez chu",
+      "ils": "ont chu"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "avais chu",
+      "tu": "avais chu",
+      "il": "avait chu",
+      "nous": "avions chu",
+      "vous": "aviez chu",
+      "ils": "avaient chu"
+    },
+    "passé_simple": {
+      "je": "chus",
+      "tu": "chus",
+      "il": "chut",
+      "nous": "chûmes",
+      "vous": "chûtes",
+      "ils": "churent"
+    },
+    "passé_antérieur": {
+      "je": "eus chu",
+      "tu": "eus chu",
+      "il": "eut chu",
+      "nous": "eûmes chu",
+      "vous": "eûtes chu",
+      "ils": "eurent chu"
+    },
+    "futur_simple": {
+      "je": "choirai",
+      "tu": "choiras",
+      "il": "choira",
+      "nous": "choirons",
+      "vous": "choirez",
+      "ils": "choiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai chu",
+      "tu": "auras chu",
+      "il": "aura chu",
+      "nous": "aurons chu",
+      "vous": "aurez chu",
+      "ils": "auront chu"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "aie chu",
+      "tu": "aies chu",
+      "il": "ait chu",
+      "nous": "ayons chu",
+      "vous": "ayez chu",
+      "ils": "aient chu"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "chût",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse chu",
+      "tu": "eusses chu",
+      "il": "eût chu",
+      "nous": "eussions chu",
+      "vous": "eussiez chu",
+      "ils": "eussent chu"
+    },
+    "conditionnel_présent": {
+      "je": "choirais",
+      "tu": "choirais",
+      "il": "choirait",
+      "nous": "choirions",
+      "vous": "choiriez",
+      "ils": "choiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais chu",
+      "tu": "aurais chu",
+      "il": "aurait chu",
+      "nous": "aurions chu",
+      "vous": "auriez chu",
+      "ils": "auraient chu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse chu",
+      "tu": "eusses chu",
+      "il": "eût chu",
+      "nous": "eussions chu",
+      "vous": "eussiez chu",
+      "ils": "eussent chu"
+    },
+    "translation": "wybór",
+    "group": 3
+  },
+  {
+    "infinitive": "choisir",
+    "présent": {
+      "je": "choisis",
+      "tu": "choisis",
+      "il": "choisit",
+      "nous": "choisissons",
+      "vous": "choisissez",
+      "ils": "choisissent"
+    },
+    "passé_composé": {
+      "je": "ai choisi",
+      "tu": "as choisi",
+      "il": "a choisi",
+      "nous": "avons choisi",
+      "vous": "avez choisi",
+      "ils": "ont choisi"
+    },
+    "imparfait": {
+      "je": "choisissais",
+      "tu": "choisissais",
+      "il": "choisissait",
+      "nous": "choisissions",
+      "vous": "choisissiez",
+      "ils": "choisissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais choisi",
+      "tu": "avais choisi",
+      "il": "avait choisi",
+      "nous": "avions choisi",
+      "vous": "aviez choisi",
+      "ils": "avaient choisi"
+    },
+    "passé_simple": {
+      "je": "choisis",
+      "tu": "choisis",
+      "il": "choisit",
+      "nous": "choisîmes",
+      "vous": "choisîtes",
+      "ils": "choisirent"
+    },
+    "passé_antérieur": {
+      "je": "eus choisi",
+      "tu": "eus choisi",
+      "il": "eut choisi",
+      "nous": "eûmes choisi",
+      "vous": "eûtes choisi",
+      "ils": "eurent choisi"
+    },
+    "futur_simple": {
+      "je": "choisirai",
+      "tu": "choisiras",
+      "il": "choisira",
+      "nous": "choisirons",
+      "vous": "choisirez",
+      "ils": "choisiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai choisi",
+      "tu": "auras choisi",
+      "il": "aura choisi",
+      "nous": "aurons choisi",
+      "vous": "aurez choisi",
+      "ils": "auront choisi"
+    },
+    "subjonctif_présent": {
+      "je": "choisisse",
+      "tu": "choisisses",
+      "il": "choisisse",
+      "nous": "choisissions",
+      "vous": "choisissiez",
+      "ils": "choisissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie choisi",
+      "tu": "aies choisi",
+      "il": "ait choisi",
+      "nous": "ayons choisi",
+      "vous": "ayez choisi",
+      "ils": "aient choisi"
+    },
+    "subjonctif_imparfait": {
+      "je": "choisisse",
+      "tu": "choisisses",
+      "il": "choisît",
+      "nous": "choisissions",
+      "vous": "choisissiez",
+      "ils": "choisissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse choisi",
+      "tu": "eusses choisi",
+      "il": "eût choisi",
+      "nous": "eussions choisi",
+      "vous": "eussiez choisi",
+      "ils": "eussent choisi"
+    },
+    "conditionnel_présent": {
+      "je": "choisirais",
+      "tu": "choisirais",
+      "il": "choisirait",
+      "nous": "choisirions",
+      "vous": "choisiriez",
+      "ils": "choisiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais choisi",
+      "tu": "aurais choisi",
+      "il": "aurait choisi",
+      "nous": "aurions choisi",
+      "vous": "auriez choisi",
+      "ils": "auraient choisi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse choisi",
+      "tu": "eusses choisi",
+      "il": "eût choisi",
+      "nous": "eussions choisi",
+      "vous": "eussiez choisi",
+      "ils": "eussent choisi"
+    },
+    "translation": "dokonywać",
+    "group": 2
+  },
+  {
+    "infinitive": "choper",
+    "présent": {
+      "je": "chope",
+      "tu": "chopes",
+      "il": "chope",
+      "nous": "chopons",
+      "vous": "chopez",
+      "ils": "chopent"
+    },
+    "passé_composé": {
+      "je": "ai chopé",
+      "tu": "as chopé",
+      "il": "a chopé",
+      "nous": "avons chopé",
+      "vous": "avez chopé",
+      "ils": "ont chopé"
+    },
+    "imparfait": {
+      "je": "chopais",
+      "tu": "chopais",
+      "il": "chopait",
+      "nous": "chopions",
+      "vous": "chopiez",
+      "ils": "chopaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais chopé",
+      "tu": "avais chopé",
+      "il": "avait chopé",
+      "nous": "avions chopé",
+      "vous": "aviez chopé",
+      "ils": "avaient chopé"
+    },
+    "passé_simple": {
+      "je": "chopai",
+      "tu": "chopas",
+      "il": "chopa",
+      "nous": "chopâmes",
+      "vous": "chopâtes",
+      "ils": "chopèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus chopé",
+      "tu": "eus chopé",
+      "il": "eut chopé",
+      "nous": "eûmes chopé",
+      "vous": "eûtes chopé",
+      "ils": "eurent chopé"
+    },
+    "futur_simple": {
+      "je": "choperai",
+      "tu": "choperas",
+      "il": "chopera",
+      "nous": "choperons",
+      "vous": "choperez",
+      "ils": "choperont"
+    },
+    "futur_antérieur": {
+      "je": "aurai chopé",
+      "tu": "auras chopé",
+      "il": "aura chopé",
+      "nous": "aurons chopé",
+      "vous": "aurez chopé",
+      "ils": "auront chopé"
+    },
+    "subjonctif_présent": {
+      "je": "chope",
+      "tu": "chopes",
+      "il": "chope",
+      "nous": "chopions",
+      "vous": "chopiez",
+      "ils": "chopent"
+    },
+    "subjonctif_passé": {
+      "je": "aie chopé",
+      "tu": "aies chopé",
+      "il": "ait chopé",
+      "nous": "ayons chopé",
+      "vous": "ayez chopé",
+      "ils": "aient chopé"
+    },
+    "subjonctif_imparfait": {
+      "je": "chopasse",
+      "tu": "chopasses",
+      "il": "chopât",
+      "nous": "chopassions",
+      "vous": "chopassiez",
+      "ils": "chopassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse chopé",
+      "tu": "eusses chopé",
+      "il": "eût chopé",
+      "nous": "eussions chopé",
+      "vous": "eussiez chopé",
+      "ils": "eussent chopé"
+    },
+    "conditionnel_présent": {
+      "je": "choperais",
+      "tu": "choperais",
+      "il": "choperait",
+      "nous": "choperions",
+      "vous": "choperiez",
+      "ils": "choperaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais chopé",
+      "tu": "aurais chopé",
+      "il": "aurait chopé",
+      "nous": "aurions chopé",
+      "vous": "auriez chopé",
+      "ils": "auraient chopé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse chopé",
+      "tu": "eusses chopé",
+      "il": "eût chopé",
+      "nous": "eussions chopé",
+      "vous": "eussiez chopé",
+      "ils": "eussent chopé"
+    },
+    "translation": "złapać",
+    "group": 1
+  },
+  {
+    "infinitive": "choquer",
+    "présent": {
+      "je": "choque",
+      "tu": "choques",
+      "il": "choque",
+      "nous": "choquons",
+      "vous": "choquez",
+      "ils": "choquent"
+    },
+    "passé_composé": {
+      "je": "ai choqué",
+      "tu": "as choqué",
+      "il": "a choqué",
+      "nous": "avons choqué",
+      "vous": "avez choqué",
+      "ils": "ont choqué"
+    },
+    "imparfait": {
+      "je": "choquais",
+      "tu": "choquais",
+      "il": "choquait",
+      "nous": "choquions",
+      "vous": "choquiez",
+      "ils": "choquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais choqué",
+      "tu": "avais choqué",
+      "il": "avait choqué",
+      "nous": "avions choqué",
+      "vous": "aviez choqué",
+      "ils": "avaient choqué"
+    },
+    "passé_simple": {
+      "je": "choquai",
+      "tu": "choquas",
+      "il": "choqua",
+      "nous": "choquâmes",
+      "vous": "choquâtes",
+      "ils": "choquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus choqué",
+      "tu": "eus choqué",
+      "il": "eut choqué",
+      "nous": "eûmes choqué",
+      "vous": "eûtes choqué",
+      "ils": "eurent choqué"
+    },
+    "futur_simple": {
+      "je": "choquerai",
+      "tu": "choqueras",
+      "il": "choquera",
+      "nous": "choquerons",
+      "vous": "choquerez",
+      "ils": "choqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai choqué",
+      "tu": "auras choqué",
+      "il": "aura choqué",
+      "nous": "aurons choqué",
+      "vous": "aurez choqué",
+      "ils": "auront choqué"
+    },
+    "subjonctif_présent": {
+      "je": "choque",
+      "tu": "choques",
+      "il": "choque",
+      "nous": "choquions",
+      "vous": "choquiez",
+      "ils": "choquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie choqué",
+      "tu": "aies choqué",
+      "il": "ait choqué",
+      "nous": "ayons choqué",
+      "vous": "ayez choqué",
+      "ils": "aient choqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "choquasse",
+      "tu": "choquasses",
+      "il": "choquât",
+      "nous": "choquassions",
+      "vous": "choquassiez",
+      "ils": "choquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse choqué",
+      "tu": "eusses choqué",
+      "il": "eût choqué",
+      "nous": "eussions choqué",
+      "vous": "eussiez choqué",
+      "ils": "eussent choqué"
+    },
+    "conditionnel_présent": {
+      "je": "choquerais",
+      "tu": "choquerais",
+      "il": "choquerait",
+      "nous": "choquerions",
+      "vous": "choqueriez",
+      "ils": "choqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais choqué",
+      "tu": "aurais choqué",
+      "il": "aurait choqué",
+      "nous": "aurions choqué",
+      "vous": "auriez choqué",
+      "ils": "auraient choqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse choqué",
+      "tu": "eusses choqué",
+      "il": "eût choqué",
+      "nous": "eussions choqué",
+      "vous": "eussiez choqué",
+      "ils": "eussent choqué"
+    },
+    "translation": "zderzać",
+    "group": 1
+  },
+  {
+    "infinitive": "choyer",
+    "présent": {
+      "je": "choie",
+      "tu": "choies",
+      "il": "choie",
+      "nous": "choyons",
+      "vous": "choyez",
+      "ils": "choient"
+    },
+    "passé_composé": {
+      "je": "ai choyé",
+      "tu": "as choyé",
+      "il": "a choyé",
+      "nous": "avons choyé",
+      "vous": "avez choyé",
+      "ils": "ont choyé"
+    },
+    "imparfait": {
+      "je": "choyais",
+      "tu": "choyais",
+      "il": "choyait",
+      "nous": "choyions",
+      "vous": "choyiez",
+      "ils": "choyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais choyé",
+      "tu": "avais choyé",
+      "il": "avait choyé",
+      "nous": "avions choyé",
+      "vous": "aviez choyé",
+      "ils": "avaient choyé"
+    },
+    "passé_simple": {
+      "je": "choyai",
+      "tu": "choyas",
+      "il": "choya",
+      "nous": "choyâmes",
+      "vous": "choyâtes",
+      "ils": "choyèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus choyé",
+      "tu": "eus choyé",
+      "il": "eut choyé",
+      "nous": "eûmes choyé",
+      "vous": "eûtes choyé",
+      "ils": "eurent choyé"
+    },
+    "futur_simple": {
+      "je": "choierai",
+      "tu": "choieras",
+      "il": "choiera",
+      "nous": "choierons",
+      "vous": "choierez",
+      "ils": "choieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai choyé",
+      "tu": "auras choyé",
+      "il": "aura choyé",
+      "nous": "aurons choyé",
+      "vous": "aurez choyé",
+      "ils": "auront choyé"
+    },
+    "subjonctif_présent": {
+      "je": "choie",
+      "tu": "choies",
+      "il": "choie",
+      "nous": "choyions",
+      "vous": "choyiez",
+      "ils": "choient"
+    },
+    "subjonctif_passé": {
+      "je": "aie choyé",
+      "tu": "aies choyé",
+      "il": "ait choyé",
+      "nous": "ayons choyé",
+      "vous": "ayez choyé",
+      "ils": "aient choyé"
+    },
+    "subjonctif_imparfait": {
+      "je": "choyasse",
+      "tu": "choyasses",
+      "il": "choyât",
+      "nous": "choyassions",
+      "vous": "choyassiez",
+      "ils": "choyassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse choyé",
+      "tu": "eusses choyé",
+      "il": "eût choyé",
+      "nous": "eussions choyé",
+      "vous": "eussiez choyé",
+      "ils": "eussent choyé"
+    },
+    "conditionnel_présent": {
+      "je": "choierais",
+      "tu": "choierais",
+      "il": "choierait",
+      "nous": "choierions",
+      "vous": "choieriez",
+      "ils": "choieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais choyé",
+      "tu": "aurais choyé",
+      "il": "aurait choyé",
+      "nous": "aurions choyé",
+      "vous": "auriez choyé",
+      "ils": "auraient choyé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse choyé",
+      "tu": "eusses choyé",
+      "il": "eût choyé",
+      "nous": "eussions choyé",
+      "vous": "eussiez choyé",
+      "ils": "eussent choyé"
+    },
+    "translation": "pieścić",
+    "group": 1
+  },
+  {
+    "infinitive": "chuchoter",
+    "présent": {
+      "je": "chuchote",
+      "tu": "chuchotes",
+      "il": "chuchote",
+      "nous": "chuchotons",
+      "vous": "chuchotez",
+      "ils": "chuchotent"
+    },
+    "passé_composé": {
+      "je": "ai chuchoté",
+      "tu": "as chuchoté",
+      "il": "a chuchoté",
+      "nous": "avons chuchoté",
+      "vous": "avez chuchoté",
+      "ils": "ont chuchoté"
+    },
+    "imparfait": {
+      "je": "chuchotais",
+      "tu": "chuchotais",
+      "il": "chuchotait",
+      "nous": "chuchotions",
+      "vous": "chuchotiez",
+      "ils": "chuchotaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais chuchoté",
+      "tu": "avais chuchoté",
+      "il": "avait chuchoté",
+      "nous": "avions chuchoté",
+      "vous": "aviez chuchoté",
+      "ils": "avaient chuchoté"
+    },
+    "passé_simple": {
+      "je": "chuchotai",
+      "tu": "chuchotas",
+      "il": "chuchota",
+      "nous": "chuchotâmes",
+      "vous": "chuchotâtes",
+      "ils": "chuchotèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus chuchoté",
+      "tu": "eus chuchoté",
+      "il": "eut chuchoté",
+      "nous": "eûmes chuchoté",
+      "vous": "eûtes chuchoté",
+      "ils": "eurent chuchoté"
+    },
+    "futur_simple": {
+      "je": "chuchoterai",
+      "tu": "chuchoteras",
+      "il": "chuchotera",
+      "nous": "chuchoterons",
+      "vous": "chuchoterez",
+      "ils": "chuchoteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai chuchoté",
+      "tu": "auras chuchoté",
+      "il": "aura chuchoté",
+      "nous": "aurons chuchoté",
+      "vous": "aurez chuchoté",
+      "ils": "auront chuchoté"
+    },
+    "subjonctif_présent": {
+      "je": "chuchote",
+      "tu": "chuchotes",
+      "il": "chuchote",
+      "nous": "chuchotions",
+      "vous": "chuchotiez",
+      "ils": "chuchotent"
+    },
+    "subjonctif_passé": {
+      "je": "aie chuchoté",
+      "tu": "aies chuchoté",
+      "il": "ait chuchoté",
+      "nous": "ayons chuchoté",
+      "vous": "ayez chuchoté",
+      "ils": "aient chuchoté"
+    },
+    "subjonctif_imparfait": {
+      "je": "chuchotasse",
+      "tu": "chuchotasses",
+      "il": "chuchotât",
+      "nous": "chuchotassions",
+      "vous": "chuchotassiez",
+      "ils": "chuchotassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse chuchoté",
+      "tu": "eusses chuchoté",
+      "il": "eût chuchoté",
+      "nous": "eussions chuchoté",
+      "vous": "eussiez chuchoté",
+      "ils": "eussent chuchoté"
+    },
+    "conditionnel_présent": {
+      "je": "chuchoterais",
+      "tu": "chuchoterais",
+      "il": "chuchoterait",
+      "nous": "chuchoterions",
+      "vous": "chuchoteriez",
+      "ils": "chuchoteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais chuchoté",
+      "tu": "aurais chuchoté",
+      "il": "aurait chuchoté",
+      "nous": "aurions chuchoté",
+      "vous": "auriez chuchoté",
+      "ils": "auraient chuchoté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse chuchoté",
+      "tu": "eusses chuchoté",
+      "il": "eût chuchoté",
+      "nous": "eussions chuchoté",
+      "vous": "eussiez chuchoté",
+      "ils": "eussent chuchoté"
+    },
+    "translation": "szeptać",
+    "group": 1
+  },
+  {
+    "infinitive": "chuter",
+    "présent": {
+      "je": "chute",
+      "tu": "chutes",
+      "il": "chute",
+      "nous": "chutons",
+      "vous": "chutez",
+      "ils": "chutent"
+    },
+    "passé_composé": {
+      "je": "ai chuté",
+      "tu": "as chuté",
+      "il": "a chuté",
+      "nous": "avons chuté",
+      "vous": "avez chuté",
+      "ils": "ont chuté"
+    },
+    "imparfait": {
+      "je": "chutais",
+      "tu": "chutais",
+      "il": "chutait",
+      "nous": "chutions",
+      "vous": "chutiez",
+      "ils": "chutaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais chuté",
+      "tu": "avais chuté",
+      "il": "avait chuté",
+      "nous": "avions chuté",
+      "vous": "aviez chuté",
+      "ils": "avaient chuté"
+    },
+    "passé_simple": {
+      "je": "chutai",
+      "tu": "chutas",
+      "il": "chuta",
+      "nous": "chutâmes",
+      "vous": "chutâtes",
+      "ils": "chutèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus chuté",
+      "tu": "eus chuté",
+      "il": "eut chuté",
+      "nous": "eûmes chuté",
+      "vous": "eûtes chuté",
+      "ils": "eurent chuté"
+    },
+    "futur_simple": {
+      "je": "chuterai",
+      "tu": "chuteras",
+      "il": "chutera",
+      "nous": "chuterons",
+      "vous": "chuterez",
+      "ils": "chuteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai chuté",
+      "tu": "auras chuté",
+      "il": "aura chuté",
+      "nous": "aurons chuté",
+      "vous": "aurez chuté",
+      "ils": "auront chuté"
+    },
+    "subjonctif_présent": {
+      "je": "chute",
+      "tu": "chutes",
+      "il": "chute",
+      "nous": "chutions",
+      "vous": "chutiez",
+      "ils": "chutent"
+    },
+    "subjonctif_passé": {
+      "je": "aie chuté",
+      "tu": "aies chuté",
+      "il": "ait chuté",
+      "nous": "ayons chuté",
+      "vous": "ayez chuté",
+      "ils": "aient chuté"
+    },
+    "subjonctif_imparfait": {
+      "je": "chutasse",
+      "tu": "chutasses",
+      "il": "chutât",
+      "nous": "chutassions",
+      "vous": "chutassiez",
+      "ils": "chutassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse chuté",
+      "tu": "eusses chuté",
+      "il": "eût chuté",
+      "nous": "eussions chuté",
+      "vous": "eussiez chuté",
+      "ils": "eussent chuté"
+    },
+    "conditionnel_présent": {
+      "je": "chuterais",
+      "tu": "chuterais",
+      "il": "chuterait",
+      "nous": "chuterions",
+      "vous": "chuteriez",
+      "ils": "chuteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais chuté",
+      "tu": "aurais chuté",
+      "il": "aurait chuté",
+      "nous": "aurions chuté",
+      "vous": "auriez chuté",
+      "ils": "auraient chuté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse chuté",
+      "tu": "eusses chuté",
+      "il": "eût chuté",
+      "nous": "eussions chuté",
+      "vous": "eussiez chuté",
+      "ils": "eussent chuté"
+    },
+    "translation": "upadać",
+    "group": 1
+  },
+  {
+    "infinitive": "circoncire",
+    "présent": {
+      "je": "circoncis",
+      "tu": "circoncis",
+      "il": "circoncit",
+      "nous": "circoncisons",
+      "vous": "circoncisez",
+      "ils": "circoncisent"
+    },
+    "passé_composé": {
+      "je": "ai circoncis",
+      "tu": "as circoncis",
+      "il": "a circoncis",
+      "nous": "avons circoncis",
+      "vous": "avez circoncis",
+      "ils": "ont circoncis"
+    },
+    "imparfait": {
+      "je": "circoncisais",
+      "tu": "circoncisais",
+      "il": "circoncisait",
+      "nous": "circoncisions",
+      "vous": "circoncisiez",
+      "ils": "circoncisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais circoncis",
+      "tu": "avais circoncis",
+      "il": "avait circoncis",
+      "nous": "avions circoncis",
+      "vous": "aviez circoncis",
+      "ils": "avaient circoncis"
+    },
+    "passé_simple": {
+      "je": "circoncis",
+      "tu": "circoncis",
+      "il": "circoncit",
+      "nous": "circoncîmes",
+      "vous": "circoncîtes",
+      "ils": "circoncirent"
+    },
+    "passé_antérieur": {
+      "je": "eus circoncis",
+      "tu": "eus circoncis",
+      "il": "eut circoncis",
+      "nous": "eûmes circoncis",
+      "vous": "eûtes circoncis",
+      "ils": "eurent circoncis"
+    },
+    "futur_simple": {
+      "je": "circoncirai",
+      "tu": "circonciras",
+      "il": "circoncira",
+      "nous": "circoncirons",
+      "vous": "circoncirez",
+      "ils": "circonciront"
+    },
+    "futur_antérieur": {
+      "je": "aurai circoncis",
+      "tu": "auras circoncis",
+      "il": "aura circoncis",
+      "nous": "aurons circoncis",
+      "vous": "aurez circoncis",
+      "ils": "auront circoncis"
+    },
+    "subjonctif_présent": {
+      "je": "circoncise",
+      "tu": "circoncises",
+      "il": "circoncise",
+      "nous": "circoncisions",
+      "vous": "circoncisiez",
+      "ils": "circoncisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie circoncis",
+      "tu": "aies circoncis",
+      "il": "ait circoncis",
+      "nous": "ayons circoncis",
+      "vous": "ayez circoncis",
+      "ils": "aient circoncis"
+    },
+    "subjonctif_imparfait": {
+      "je": "circoncisse",
+      "tu": "circoncisses",
+      "il": "circoncît",
+      "nous": "circoncissions",
+      "vous": "circoncissiez",
+      "ils": "circoncissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse circoncis",
+      "tu": "eusses circoncis",
+      "il": "eût circoncis",
+      "nous": "eussions circoncis",
+      "vous": "eussiez circoncis",
+      "ils": "eussent circoncis"
+    },
+    "conditionnel_présent": {
+      "je": "circoncirais",
+      "tu": "circoncirais",
+      "il": "circoncirait",
+      "nous": "circoncirions",
+      "vous": "circonciriez",
+      "ils": "circonciraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais circoncis",
+      "tu": "aurais circoncis",
+      "il": "aurait circoncis",
+      "nous": "aurions circoncis",
+      "vous": "auriez circoncis",
+      "ils": "auraient circoncis"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse circoncis",
+      "tu": "eusses circoncis",
+      "il": "eût circoncis",
+      "nous": "eussions circoncis",
+      "vous": "eussiez circoncis",
+      "ils": "eussent circoncis"
+    },
+    "translation": "ograniczać",
+    "group": 3
+  }
+]

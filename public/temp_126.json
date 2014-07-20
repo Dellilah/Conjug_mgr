@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "moisir",
+    "présent": {
+      "je": "moisis",
+      "tu": "moisis",
+      "il": "moisit",
+      "nous": "moisissons",
+      "vous": "moisissez",
+      "ils": "moisissent"
+    },
+    "passé_composé": {
+      "je": "ai moisi",
+      "tu": "as moisi",
+      "il": "a moisi",
+      "nous": "avons moisi",
+      "vous": "avez moisi",
+      "ils": "ont moisi"
+    },
+    "imparfait": {
+      "je": "moisissais",
+      "tu": "moisissais",
+      "il": "moisissait",
+      "nous": "moisissions",
+      "vous": "moisissiez",
+      "ils": "moisissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais moisi",
+      "tu": "avais moisi",
+      "il": "avait moisi",
+      "nous": "avions moisi",
+      "vous": "aviez moisi",
+      "ils": "avaient moisi"
+    },
+    "passé_simple": {
+      "je": "moisis",
+      "tu": "moisis",
+      "il": "moisit",
+      "nous": "moisîmes",
+      "vous": "moisîtes",
+      "ils": "moisirent"
+    },
+    "passé_antérieur": {
+      "je": "eus moisi",
+      "tu": "eus moisi",
+      "il": "eut moisi",
+      "nous": "eûmes moisi",
+      "vous": "eûtes moisi",
+      "ils": "eurent moisi"
+    },
+    "futur_simple": {
+      "je": "moisirai",
+      "tu": "moisiras",
+      "il": "moisira",
+      "nous": "moisirons",
+      "vous": "moisirez",
+      "ils": "moisiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai moisi",
+      "tu": "auras moisi",
+      "il": "aura moisi",
+      "nous": "aurons moisi",
+      "vous": "aurez moisi",
+      "ils": "auront moisi"
+    },
+    "subjonctif_présent": {
+      "je": "moisisse",
+      "tu": "moisisses",
+      "il": "moisisse",
+      "nous": "moisissions",
+      "vous": "moisissiez",
+      "ils": "moisissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie moisi",
+      "tu": "aies moisi",
+      "il": "ait moisi",
+      "nous": "ayons moisi",
+      "vous": "ayez moisi",
+      "ils": "aient moisi"
+    },
+    "subjonctif_imparfait": {
+      "je": "moisisse",
+      "tu": "moisisses",
+      "il": "moisît",
+      "nous": "moisissions",
+      "vous": "moisissiez",
+      "ils": "moisissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse moisi",
+      "tu": "eusses moisi",
+      "il": "eût moisi",
+      "nous": "eussions moisi",
+      "vous": "eussiez moisi",
+      "ils": "eussent moisi"
+    },
+    "conditionnel_présent": {
+      "je": "moisirais",
+      "tu": "moisirais",
+      "il": "moisirait",
+      "nous": "moisirions",
+      "vous": "moisiriez",
+      "ils": "moisiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais moisi",
+      "tu": "aurais moisi",
+      "il": "aurait moisi",
+      "nous": "aurions moisi",
+      "vous": "auriez moisi",
+      "ils": "auraient moisi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse moisi",
+      "tu": "eusses moisi",
+      "il": "eût moisi",
+      "nous": "eussions moisi",
+      "vous": "eussiez moisi",
+      "ils": "eussent moisi"
+    },
+    "translation": "pleśnieć",
+    "group": 2
+  },
+  {
+    "infinitive": "mollir",
+    "présent": {
+      "je": "mollis",
+      "tu": "mollis",
+      "il": "mollit",
+      "nous": "mollissons",
+      "vous": "mollissez",
+      "ils": "mollissent"
+    },
+    "passé_composé": {
+      "je": "ai molli",
+      "tu": "as molli",
+      "il": "a molli",
+      "nous": "avons molli",
+      "vous": "avez molli",
+      "ils": "ont molli"
+    },
+    "imparfait": {
+      "je": "mollissais",
+      "tu": "mollissais",
+      "il": "mollissait",
+      "nous": "mollissions",
+      "vous": "mollissiez",
+      "ils": "mollissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais molli",
+      "tu": "avais molli",
+      "il": "avait molli",
+      "nous": "avions molli",
+      "vous": "aviez molli",
+      "ils": "avaient molli"
+    },
+    "passé_simple": {
+      "je": "mollis",
+      "tu": "mollis",
+      "il": "mollit",
+      "nous": "mollîmes",
+      "vous": "mollîtes",
+      "ils": "mollirent"
+    },
+    "passé_antérieur": {
+      "je": "eus molli",
+      "tu": "eus molli",
+      "il": "eut molli",
+      "nous": "eûmes molli",
+      "vous": "eûtes molli",
+      "ils": "eurent molli"
+    },
+    "futur_simple": {
+      "je": "mollirai",
+      "tu": "molliras",
+      "il": "mollira",
+      "nous": "mollirons",
+      "vous": "mollirez",
+      "ils": "molliront"
+    },
+    "futur_antérieur": {
+      "je": "aurai molli",
+      "tu": "auras molli",
+      "il": "aura molli",
+      "nous": "aurons molli",
+      "vous": "aurez molli",
+      "ils": "auront molli"
+    },
+    "subjonctif_présent": {
+      "je": "mollisse",
+      "tu": "mollisses",
+      "il": "mollisse",
+      "nous": "mollissions",
+      "vous": "mollissiez",
+      "ils": "mollissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie molli",
+      "tu": "aies molli",
+      "il": "ait molli",
+      "nous": "ayons molli",
+      "vous": "ayez molli",
+      "ils": "aient molli"
+    },
+    "subjonctif_imparfait": {
+      "je": "mollisse",
+      "tu": "mollisses",
+      "il": "mollît",
+      "nous": "mollissions",
+      "vous": "mollissiez",
+      "ils": "mollissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse molli",
+      "tu": "eusses molli",
+      "il": "eût molli",
+      "nous": "eussions molli",
+      "vous": "eussiez molli",
+      "ils": "eussent molli"
+    },
+    "conditionnel_présent": {
+      "je": "mollirais",
+      "tu": "mollirais",
+      "il": "mollirait",
+      "nous": "mollirions",
+      "vous": "molliriez",
+      "ils": "molliraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais molli",
+      "tu": "aurais molli",
+      "il": "aurait molli",
+      "nous": "aurions molli",
+      "vous": "auriez molli",
+      "ils": "auraient molli"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse molli",
+      "tu": "eusses molli",
+      "il": "eût molli",
+      "nous": "eussions molli",
+      "vous": "eussiez molli",
+      "ils": "eussent molli"
+    },
+    "translation": "se",
+    "group": 2
+  },
+  {
+    "infinitive": "monnayer",
+    "présent": {
+      "je": "monnaie",
+      "tu": "monnaies",
+      "il": "monnaie",
+      "nous": "monnayons",
+      "vous": "monnayez",
+      "ils": "monnaient"
+    },
+    "passé_composé": {
+      "je": "ai monnayé",
+      "tu": "as monnayé",
+      "il": "a monnayé",
+      "nous": "avons monnayé",
+      "vous": "avez monnayé",
+      "ils": "ont monnayé"
+    },
+    "imparfait": {
+      "je": "monnayais",
+      "tu": "monnayais",
+      "il": "monnayait",
+      "nous": "monnayions",
+      "vous": "monnayiez",
+      "ils": "monnayaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais monnayé",
+      "tu": "avais monnayé",
+      "il": "avait monnayé",
+      "nous": "avions monnayé",
+      "vous": "aviez monnayé",
+      "ils": "avaient monnayé"
+    },
+    "passé_simple": {
+      "je": "monnayai",
+      "tu": "monnayas",
+      "il": "monnaya",
+      "nous": "monnayâmes",
+      "vous": "monnayâtes",
+      "ils": "monnayèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus monnayé",
+      "tu": "eus monnayé",
+      "il": "eut monnayé",
+      "nous": "eûmes monnayé",
+      "vous": "eûtes monnayé",
+      "ils": "eurent monnayé"
+    },
+    "futur_simple": {
+      "je": "monnaierai",
+      "tu": "monnaieras",
+      "il": "monnaiera",
+      "nous": "monnaierons",
+      "vous": "monnaierez",
+      "ils": "monnaieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai monnayé",
+      "tu": "auras monnayé",
+      "il": "aura monnayé",
+      "nous": "aurons monnayé",
+      "vous": "aurez monnayé",
+      "ils": "auront monnayé"
+    },
+    "subjonctif_présent": {
+      "je": "monnaie",
+      "tu": "monnaies",
+      "il": "monnaie",
+      "nous": "monnayions",
+      "vous": "monnayiez",
+      "ils": "monnaient"
+    },
+    "subjonctif_passé": {
+      "je": "aie monnayé",
+      "tu": "aies monnayé",
+      "il": "ait monnayé",
+      "nous": "ayons monnayé",
+      "vous": "ayez monnayé",
+      "ils": "aient monnayé"
+    },
+    "subjonctif_imparfait": {
+      "je": "monnayasse",
+      "tu": "monnayasses",
+      "il": "monnayât",
+      "nous": "monnayassions",
+      "vous": "monnayassiez",
+      "ils": "monnayassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse monnayé",
+      "tu": "eusses monnayé",
+      "il": "eût monnayé",
+      "nous": "eussions monnayé",
+      "vous": "eussiez monnayé",
+      "ils": "eussent monnayé"
+    },
+    "conditionnel_présent": {
+      "je": "monnaierais",
+      "tu": "monnaierais",
+      "il": "monnaierait",
+      "nous": "monnaierions",
+      "vous": "monnaieriez",
+      "ils": "monnaieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais monnayé",
+      "tu": "aurais monnayé",
+      "il": "aurait monnayé",
+      "nous": "aurions monnayé",
+      "vous": "auriez monnayé",
+      "ils": "auraient monnayé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse monnayé",
+      "tu": "eusses monnayé",
+      "il": "eût monnayé",
+      "nous": "eussions monnayé",
+      "vous": "eussiez monnayé",
+      "ils": "eussent monnayé"
+    },
+    "translation": "moneta",
+    "group": 1
+  },
+  {
+    "infinitive": "monter",
+    "présent": {
+      "je": "monte",
+      "tu": "montes",
+      "il": "monte",
+      "nous": "montons",
+      "vous": "montez",
+      "ils": "montent"
+    },
+    "passé_composé": {
+      "je": "ai monté",
+      "tu": "as monté",
+      "il": "a monté",
+      "nous": "avons monté",
+      "vous": "avez monté",
+      "ils": "ont monté"
+    },
+    "imparfait": {
+      "je": "montais",
+      "tu": "montais",
+      "il": "montait",
+      "nous": "montions",
+      "vous": "montiez",
+      "ils": "montaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais monté",
+      "tu": "avais monté",
+      "il": "avait monté",
+      "nous": "avions monté",
+      "vous": "aviez monté",
+      "ils": "avaient monté"
+    },
+    "passé_simple": {
+      "je": "montai",
+      "tu": "montas",
+      "il": "monta",
+      "nous": "montâmes",
+      "vous": "montâtes",
+      "ils": "montèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus monté",
+      "tu": "eus monté",
+      "il": "eut monté",
+      "nous": "eûmes monté",
+      "vous": "eûtes monté",
+      "ils": "eurent monté"
+    },
+    "futur_simple": {
+      "je": "monterai",
+      "tu": "monteras",
+      "il": "montera",
+      "nous": "monterons",
+      "vous": "monterez",
+      "ils": "monteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai monté",
+      "tu": "auras monté",
+      "il": "aura monté",
+      "nous": "aurons monté",
+      "vous": "aurez monté",
+      "ils": "auront monté"
+    },
+    "subjonctif_présent": {
+      "je": "monte",
+      "tu": "montes",
+      "il": "monte",
+      "nous": "montions",
+      "vous": "montiez",
+      "ils": "montent"
+    },
+    "subjonctif_passé": {
+      "je": "aie monté",
+      "tu": "aies monté",
+      "il": "ait monté",
+      "nous": "ayons monté",
+      "vous": "ayez monté",
+      "ils": "aient monté"
+    },
+    "subjonctif_imparfait": {
+      "je": "montasse",
+      "tu": "montasses",
+      "il": "montât",
+      "nous": "montassions",
+      "vous": "montassiez",
+      "ils": "montassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse monté",
+      "tu": "eusses monté",
+      "il": "eût monté",
+      "nous": "eussions monté",
+      "vous": "eussiez monté",
+      "ils": "eussent monté"
+    },
+    "conditionnel_présent": {
+      "je": "monterais",
+      "tu": "monterais",
+      "il": "monterait",
+      "nous": "monterions",
+      "vous": "monteriez",
+      "ils": "monteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais monté",
+      "tu": "aurais monté",
+      "il": "aurait monté",
+      "nous": "aurions monté",
+      "vous": "auriez monté",
+      "ils": "auraient monté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse monté",
+      "tu": "eusses monté",
+      "il": "eût monté",
+      "nous": "eussions monté",
+      "vous": "eussiez monté",
+      "ils": "eussent monté"
+    },
+    "translation": "wspinać",
+    "group": 1
+  },
+  {
+    "infinitive": "montrer",
+    "présent": {
+      "je": "montre",
+      "tu": "montres",
+      "il": "montre",
+      "nous": "montrons",
+      "vous": "montrez",
+      "ils": "montrent"
+    },
+    "passé_composé": {
+      "je": "ai montré",
+      "tu": "as montré",
+      "il": "a montré",
+      "nous": "avons montré",
+      "vous": "avez montré",
+      "ils": "ont montré"
+    },
+    "imparfait": {
+      "je": "montrais",
+      "tu": "montrais",
+      "il": "montrait",
+      "nous": "montrions",
+      "vous": "montriez",
+      "ils": "montraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais montré",
+      "tu": "avais montré",
+      "il": "avait montré",
+      "nous": "avions montré",
+      "vous": "aviez montré",
+      "ils": "avaient montré"
+    },
+    "passé_simple": {
+      "je": "montrai",
+      "tu": "montras",
+      "il": "montra",
+      "nous": "montrâmes",
+      "vous": "montrâtes",
+      "ils": "montrèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus montré",
+      "tu": "eus montré",
+      "il": "eut montré",
+      "nous": "eûmes montré",
+      "vous": "eûtes montré",
+      "ils": "eurent montré"
+    },
+    "futur_simple": {
+      "je": "montrerai",
+      "tu": "montreras",
+      "il": "montrera",
+      "nous": "montrerons",
+      "vous": "montrerez",
+      "ils": "montreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai montré",
+      "tu": "auras montré",
+      "il": "aura montré",
+      "nous": "aurons montré",
+      "vous": "aurez montré",
+      "ils": "auront montré"
+    },
+    "subjonctif_présent": {
+      "je": "montre",
+      "tu": "montres",
+      "il": "montre",
+      "nous": "montrions",
+      "vous": "montriez",
+      "ils": "montrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie montré",
+      "tu": "aies montré",
+      "il": "ait montré",
+      "nous": "ayons montré",
+      "vous": "ayez montré",
+      "ils": "aient montré"
+    },
+    "subjonctif_imparfait": {
+      "je": "montrasse",
+      "tu": "montrasses",
+      "il": "montrât",
+      "nous": "montrassions",
+      "vous": "montrassiez",
+      "ils": "montrassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse montré",
+      "tu": "eusses montré",
+      "il": "eût montré",
+      "nous": "eussions montré",
+      "vous": "eussiez montré",
+      "ils": "eussent montré"
+    },
+    "conditionnel_présent": {
+      "je": "montrerais",
+      "tu": "montrerais",
+      "il": "montrerait",
+      "nous": "montrerions",
+      "vous": "montreriez",
+      "ils": "montreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais montré",
+      "tu": "aurais montré",
+      "il": "aurait montré",
+      "nous": "aurions montré",
+      "vous": "auriez montré",
+      "ils": "auraient montré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse montré",
+      "tu": "eusses montré",
+      "il": "eût montré",
+      "nous": "eussions montré",
+      "vous": "eussiez montré",
+      "ils": "eussent montré"
+    },
+    "translation": "pokazywać",
+    "group": 1
+  },
+  {
+    "infinitive": "moquer",
+    "présent": {
+      "je": "moque",
+      "tu": "moques",
+      "il": "moque",
+      "nous": "moquons",
+      "vous": "moquez",
+      "ils": "moquent"
+    },
+    "passé_composé": {
+      "je": "ai moqué",
+      "tu": "as moqué",
+      "il": "a moqué",
+      "nous": "avons moqué",
+      "vous": "avez moqué",
+      "ils": "ont moqué"
+    },
+    "imparfait": {
+      "je": "moquais",
+      "tu": "moquais",
+      "il": "moquait",
+      "nous": "moquions",
+      "vous": "moquiez",
+      "ils": "moquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais moqué",
+      "tu": "avais moqué",
+      "il": "avait moqué",
+      "nous": "avions moqué",
+      "vous": "aviez moqué",
+      "ils": "avaient moqué"
+    },
+    "passé_simple": {
+      "je": "moquai",
+      "tu": "moquas",
+      "il": "moqua",
+      "nous": "moquâmes",
+      "vous": "moquâtes",
+      "ils": "moquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus moqué",
+      "tu": "eus moqué",
+      "il": "eut moqué",
+      "nous": "eûmes moqué",
+      "vous": "eûtes moqué",
+      "ils": "eurent moqué"
+    },
+    "futur_simple": {
+      "je": "moquerai",
+      "tu": "moqueras",
+      "il": "moquera",
+      "nous": "moquerons",
+      "vous": "moquerez",
+      "ils": "moqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai moqué",
+      "tu": "auras moqué",
+      "il": "aura moqué",
+      "nous": "aurons moqué",
+      "vous": "aurez moqué",
+      "ils": "auront moqué"
+    },
+    "subjonctif_présent": {
+      "je": "moque",
+      "tu": "moques",
+      "il": "moque",
+      "nous": "moquions",
+      "vous": "moquiez",
+      "ils": "moquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie moqué",
+      "tu": "aies moqué",
+      "il": "ait moqué",
+      "nous": "ayons moqué",
+      "vous": "ayez moqué",
+      "ils": "aient moqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "moquasse",
+      "tu": "moquasses",
+      "il": "moquât",
+      "nous": "moquassions",
+      "vous": "moquassiez",
+      "ils": "moquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse moqué",
+      "tu": "eusses moqué",
+      "il": "eût moqué",
+      "nous": "eussions moqué",
+      "vous": "eussiez moqué",
+      "ils": "eussent moqué"
+    },
+    "conditionnel_présent": {
+      "je": "moquerais",
+      "tu": "moquerais",
+      "il": "moquerait",
+      "nous": "moquerions",
+      "vous": "moqueriez",
+      "ils": "moqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais moqué",
+      "tu": "aurais moqué",
+      "il": "aurait moqué",
+      "nous": "aurions moqué",
+      "vous": "auriez moqué",
+      "ils": "auraient moqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse moqué",
+      "tu": "eusses moqué",
+      "il": "eût moqué",
+      "nous": "eussions moqué",
+      "vous": "eussiez moqué",
+      "ils": "eussent moqué"
+    },
+    "translation": "drwić",
+    "group": 1
+  },
+  {
+    "infinitive": "mordre",
+    "présent": {
+      "je": "mords",
+      "tu": "mords",
+      "il": "mord",
+      "nous": "mordons",
+      "vous": "mordez",
+      "ils": "mordent"
+    },
+    "passé_composé": {
+      "je": "ai mordu",
+      "tu": "as mordu",
+      "il": "a mordu",
+      "nous": "avons mordu",
+      "vous": "avez mordu",
+      "ils": "ont mordu"
+    },
+    "imparfait": {
+      "je": "mordais",
+      "tu": "mordais",
+      "il": "mordait",
+      "nous": "mordions",
+      "vous": "mordiez",
+      "ils": "mordaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais mordu",
+      "tu": "avais mordu",
+      "il": "avait mordu",
+      "nous": "avions mordu",
+      "vous": "aviez mordu",
+      "ils": "avaient mordu"
+    },
+    "passé_simple": {
+      "je": "mordis",
+      "tu": "mordis",
+      "il": "mordit",
+      "nous": "mordîmes",
+      "vous": "mordîtes",
+      "ils": "mordirent"
+    },
+    "passé_antérieur": {
+      "je": "eus mordu",
+      "tu": "eus mordu",
+      "il": "eut mordu",
+      "nous": "eûmes mordu",
+      "vous": "eûtes mordu",
+      "ils": "eurent mordu"
+    },
+    "futur_simple": {
+      "je": "mordrai",
+      "tu": "mordras",
+      "il": "mordra",
+      "nous": "mordrons",
+      "vous": "mordrez",
+      "ils": "mordront"
+    },
+    "futur_antérieur": {
+      "je": "aurai mordu",
+      "tu": "auras mordu",
+      "il": "aura mordu",
+      "nous": "aurons mordu",
+      "vous": "aurez mordu",
+      "ils": "auront mordu"
+    },
+    "subjonctif_présent": {
+      "je": "morde",
+      "tu": "mordes",
+      "il": "morde",
+      "nous": "mordions",
+      "vous": "mordiez",
+      "ils": "mordent"
+    },
+    "subjonctif_passé": {
+      "je": "aie mordu",
+      "tu": "aies mordu",
+      "il": "ait mordu",
+      "nous": "ayons mordu",
+      "vous": "ayez mordu",
+      "ils": "aient mordu"
+    },
+    "subjonctif_imparfait": {
+      "je": "mordisse",
+      "tu": "mordisses",
+      "il": "mordît",
+      "nous": "mordissions",
+      "vous": "mordissiez",
+      "ils": "mordissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse mordu",
+      "tu": "eusses mordu",
+      "il": "eût mordu",
+      "nous": "eussions mordu",
+      "vous": "eussiez mordu",
+      "ils": "eussent mordu"
+    },
+    "conditionnel_présent": {
+      "je": "mordrais",
+      "tu": "mordrais",
+      "il": "mordrait",
+      "nous": "mordrions",
+      "vous": "mordriez",
+      "ils": "mordraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais mordu",
+      "tu": "aurais mordu",
+      "il": "aurait mordu",
+      "nous": "aurions mordu",
+      "vous": "auriez mordu",
+      "ils": "auraient mordu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse mordu",
+      "tu": "eusses mordu",
+      "il": "eût mordu",
+      "nous": "eussions mordu",
+      "vous": "eussiez mordu",
+      "ils": "eussent mordu"
+    },
+    "translation": "gryźć",
+    "group": 3
+  },
+  {
+    "infinitive": "morfondre",
+    "présent": {
+      "je": "me morfonds",
+      "tu": "te morfonds",
+      "il": "se morfond",
+      "nous": "nous morfondons",
+      "vous": "vous morfondez",
+      "ils": "se morfondent"
+    },
+    "passé_composé": {
+      "je": "me suis morfondu",
+      "tu": "es morfondu",
+      "il": "est morfondu",
+      "nous": "nous sommes morfondus",
+      "vous": "vous êtes morfondus",
+      "ils": "se sont morfondus"
+    },
+    "imparfait": {
+      "je": "me morfondais",
+      "tu": "te morfondais",
+      "il": "se morfondait",
+      "nous": "nous morfondions",
+      "vous": "vous morfondiez",
+      "ils": "se morfondaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais morfondu",
+      "tu": "étais morfondu",
+      "il": "était morfondu",
+      "nous": "nous étions morfondus",
+      "vous": "vous étiez morfondus",
+      "ils": "étaient morfondus"
+    },
+    "passé_simple": {
+      "je": "me morfondis",
+      "tu": "te morfondis",
+      "il": "se morfondit",
+      "nous": "nous morfondîmes",
+      "vous": "vous morfondîtes",
+      "ils": "se morfondirent"
+    },
+    "passé_antérieur": {
+      "je": "me fus morfondu",
+      "tu": "te fus morfondu",
+      "il": "se fut morfondu",
+      "nous": "nous fûmes morfondus",
+      "vous": "vous fûtes morfondus",
+      "ils": "se furent morfondus"
+    },
+    "futur_simple": {
+      "je": "me morfondrai",
+      "tu": "te morfondras",
+      "il": "se morfondra",
+      "nous": "nous morfondrons",
+      "vous": "vous morfondrez",
+      "ils": "se morfondront"
+    },
+    "futur_antérieur": {
+      "je": "me serai morfondu",
+      "tu": "te seras morfondu",
+      "il": "se sera morfondu",
+      "nous": "nous serons morfondus",
+      "vous": "vous serez morfondus",
+      "ils": "se seront morfondus"
+    },
+    "subjonctif_présent": {
+      "je": "me morfonde",
+      "tu": "te morfondes",
+      "il": "se morfonde",
+      "nous": "nous morfondions",
+      "vous": "vous morfondiez",
+      "ils": "se morfondent"
+    },
+    "subjonctif_passé": {
+      "je": "me sois morfondu",
+      "tu": "te sois morfondu",
+      "il": "se soit morfondu",
+      "nous": "nous soyons morfondus",
+      "vous": "vous soyez morfondus",
+      "ils": "se soient morfondus"
+    },
+    "subjonctif_imparfait": {
+      "je": "me morfondisse",
+      "tu": "te morfondisses",
+      "il": "se morfondît",
+      "nous": "nous morfondissions",
+      "vous": "vous morfondissiez",
+      "ils": "se morfondissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse morfondu",
+      "tu": "te fusses morfondu",
+      "il": "se fût morfondu",
+      "nous": "nous fussions morfondus",
+      "vous": "vous fussiez morfondus",
+      "ils": "se fussent morfondus"
+    },
+    "conditionnel_présent": {
+      "je": "me morfondrais",
+      "tu": "te morfondrais",
+      "il": "se morfondrait",
+      "nous": "nous morfondrions",
+      "vous": "vous morfondriez",
+      "ils": "se morfondraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais morfondu",
+      "tu": "te serais morfondu",
+      "il": "se serait morfondu",
+      "nous": "nous serions morfondus",
+      "vous": "vous seriez morfondus",
+      "ils": "se seraient morfondus"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse morfondu",
+      "tu": "te fusses morfondu",
+      "il": "se fût morfondu",
+      "nous": "nous fussions morfondus",
+      "vous": "vous fussiez morfondus",
+      "ils": "se fussent morfondus"
+    },
+    "translation": "zamartwiać",
+    "group": 3
+  },
+  {
+    "infinitive": "motiver",
+    "présent": {
+      "je": "motive",
+      "tu": "motives",
+      "il": "motive",
+      "nous": "motivons",
+      "vous": "motivez",
+      "ils": "motivent"
+    },
+    "passé_composé": {
+      "je": "ai motivé",
+      "tu": "as motivé",
+      "il": "a motivé",
+      "nous": "avons motivé",
+      "vous": "avez motivé",
+      "ils": "ont motivé"
+    },
+    "imparfait": {
+      "je": "motivais",
+      "tu": "motivais",
+      "il": "motivait",
+      "nous": "motivions",
+      "vous": "motiviez",
+      "ils": "motivaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais motivé",
+      "tu": "avais motivé",
+      "il": "avait motivé",
+      "nous": "avions motivé",
+      "vous": "aviez motivé",
+      "ils": "avaient motivé"
+    },
+    "passé_simple": {
+      "je": "motivai",
+      "tu": "motivas",
+      "il": "motiva",
+      "nous": "motivâmes",
+      "vous": "motivâtes",
+      "ils": "motivèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus motivé",
+      "tu": "eus motivé",
+      "il": "eut motivé",
+      "nous": "eûmes motivé",
+      "vous": "eûtes motivé",
+      "ils": "eurent motivé"
+    },
+    "futur_simple": {
+      "je": "motiverai",
+      "tu": "motiveras",
+      "il": "motivera",
+      "nous": "motiverons",
+      "vous": "motiverez",
+      "ils": "motiveront"
+    },
+    "futur_antérieur": {
+      "je": "aurai motivé",
+      "tu": "auras motivé",
+      "il": "aura motivé",
+      "nous": "aurons motivé",
+      "vous": "aurez motivé",
+      "ils": "auront motivé"
+    },
+    "subjonctif_présent": {
+      "je": "motive",
+      "tu": "motives",
+      "il": "motive",
+      "nous": "motivions",
+      "vous": "motiviez",
+      "ils": "motivent"
+    },
+    "subjonctif_passé": {
+      "je": "aie motivé",
+      "tu": "aies motivé",
+      "il": "ait motivé",
+      "nous": "ayons motivé",
+      "vous": "ayez motivé",
+      "ils": "aient motivé"
+    },
+    "subjonctif_imparfait": {
+      "je": "motivasse",
+      "tu": "motivasses",
+      "il": "motivât",
+      "nous": "motivassions",
+      "vous": "motivassiez",
+      "ils": "motivassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse motivé",
+      "tu": "eusses motivé",
+      "il": "eût motivé",
+      "nous": "eussions motivé",
+      "vous": "eussiez motivé",
+      "ils": "eussent motivé"
+    },
+    "conditionnel_présent": {
+      "je": "motiverais",
+      "tu": "motiverais",
+      "il": "motiverait",
+      "nous": "motiverions",
+      "vous": "motiveriez",
+      "ils": "motiveraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais motivé",
+      "tu": "aurais motivé",
+      "il": "aurait motivé",
+      "nous": "aurions motivé",
+      "vous": "auriez motivé",
+      "ils": "auraient motivé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse motivé",
+      "tu": "eusses motivé",
+      "il": "eût motivé",
+      "nous": "eussions motivé",
+      "vous": "eussiez motivé",
+      "ils": "eussent motivé"
+    },
+    "translation": "wyjaśniać",
+    "group": 1
+  },
+  {
+    "infinitive": "moucher",
+    "présent": {
+      "je": "mouche",
+      "tu": "mouches",
+      "il": "mouche",
+      "nous": "mouchons",
+      "vous": "mouchez",
+      "ils": "mouchent"
+    },
+    "passé_composé": {
+      "je": "ai mouché",
+      "tu": "as mouché",
+      "il": "a mouché",
+      "nous": "avons mouché",
+      "vous": "avez mouché",
+      "ils": "ont mouché"
+    },
+    "imparfait": {
+      "je": "mouchais",
+      "tu": "mouchais",
+      "il": "mouchait",
+      "nous": "mouchions",
+      "vous": "mouchiez",
+      "ils": "mouchaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais mouché",
+      "tu": "avais mouché",
+      "il": "avait mouché",
+      "nous": "avions mouché",
+      "vous": "aviez mouché",
+      "ils": "avaient mouché"
+    },
+    "passé_simple": {
+      "je": "mouchai",
+      "tu": "mouchas",
+      "il": "moucha",
+      "nous": "mouchâmes",
+      "vous": "mouchâtes",
+      "ils": "mouchèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus mouché",
+      "tu": "eus mouché",
+      "il": "eut mouché",
+      "nous": "eûmes mouché",
+      "vous": "eûtes mouché",
+      "ils": "eurent mouché"
+    },
+    "futur_simple": {
+      "je": "moucherai",
+      "tu": "moucheras",
+      "il": "mouchera",
+      "nous": "moucherons",
+      "vous": "moucherez",
+      "ils": "moucheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai mouché",
+      "tu": "auras mouché",
+      "il": "aura mouché",
+      "nous": "aurons mouché",
+      "vous": "aurez mouché",
+      "ils": "auront mouché"
+    },
+    "subjonctif_présent": {
+      "je": "mouche",
+      "tu": "mouches",
+      "il": "mouche",
+      "nous": "mouchions",
+      "vous": "mouchiez",
+      "ils": "mouchent"
+    },
+    "subjonctif_passé": {
+      "je": "aie mouché",
+      "tu": "aies mouché",
+      "il": "ait mouché",
+      "nous": "ayons mouché",
+      "vous": "ayez mouché",
+      "ils": "aient mouché"
+    },
+    "subjonctif_imparfait": {
+      "je": "mouchasse",
+      "tu": "mouchasses",
+      "il": "mouchât",
+      "nous": "mouchassions",
+      "vous": "mouchassiez",
+      "ils": "mouchassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse mouché",
+      "tu": "eusses mouché",
+      "il": "eût mouché",
+      "nous": "eussions mouché",
+      "vous": "eussiez mouché",
+      "ils": "eussent mouché"
+    },
+    "conditionnel_présent": {
+      "je": "moucherais",
+      "tu": "moucherais",
+      "il": "moucherait",
+      "nous": "moucherions",
+      "vous": "moucheriez",
+      "ils": "moucheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais mouché",
+      "tu": "aurais mouché",
+      "il": "aurait mouché",
+      "nous": "aurions mouché",
+      "vous": "auriez mouché",
+      "ils": "auraient mouché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse mouché",
+      "tu": "eusses mouché",
+      "il": "eût mouché",
+      "nous": "eussions mouché",
+      "vous": "eussiez mouché",
+      "ils": "eussent mouché"
+    },
+    "translation": "wycierać",
+    "group": 1
+  }
+]

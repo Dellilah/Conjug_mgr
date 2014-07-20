@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "dénoncer",
+    "présent": {
+      "je": "dénonce",
+      "tu": "dénonces",
+      "il": "dénonce",
+      "nous": "dénonçons",
+      "vous": "dénoncez",
+      "ils": "dénoncent"
+    },
+    "passé_composé": {
+      "je": "ai dénoncé",
+      "tu": "as dénoncé",
+      "il": "a dénoncé",
+      "nous": "avons dénoncé",
+      "vous": "avez dénoncé",
+      "ils": "ont dénoncé"
+    },
+    "imparfait": {
+      "je": "dénonçais",
+      "tu": "dénonçais",
+      "il": "dénonçait",
+      "nous": "dénoncions",
+      "vous": "dénonciez",
+      "ils": "dénonçaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dénoncé",
+      "tu": "avais dénoncé",
+      "il": "avait dénoncé",
+      "nous": "avions dénoncé",
+      "vous": "aviez dénoncé",
+      "ils": "avaient dénoncé"
+    },
+    "passé_simple": {
+      "je": "dénonçai",
+      "tu": "dénonças",
+      "il": "dénonça",
+      "nous": "dénonçâmes",
+      "vous": "dénonçâtes",
+      "ils": "dénoncèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus dénoncé",
+      "tu": "eus dénoncé",
+      "il": "eut dénoncé",
+      "nous": "eûmes dénoncé",
+      "vous": "eûtes dénoncé",
+      "ils": "eurent dénoncé"
+    },
+    "futur_simple": {
+      "je": "dénoncerai",
+      "tu": "dénonceras",
+      "il": "dénoncera",
+      "nous": "dénoncerons",
+      "vous": "dénoncerez",
+      "ils": "dénonceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dénoncé",
+      "tu": "auras dénoncé",
+      "il": "aura dénoncé",
+      "nous": "aurons dénoncé",
+      "vous": "aurez dénoncé",
+      "ils": "auront dénoncé"
+    },
+    "subjonctif_présent": {
+      "je": "dénonce",
+      "tu": "dénonces",
+      "il": "dénonce",
+      "nous": "dénoncions",
+      "vous": "dénonciez",
+      "ils": "dénoncent"
+    },
+    "subjonctif_passé": {
+      "je": "aie dénoncé",
+      "tu": "aies dénoncé",
+      "il": "ait dénoncé",
+      "nous": "ayons dénoncé",
+      "vous": "ayez dénoncé",
+      "ils": "aient dénoncé"
+    },
+    "subjonctif_imparfait": {
+      "je": "dénonçasse",
+      "tu": "dénonçasses",
+      "il": "dénonçât",
+      "nous": "dénonçassions",
+      "vous": "dénonçassiez",
+      "ils": "dénonçassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dénoncé",
+      "tu": "eusses dénoncé",
+      "il": "eût dénoncé",
+      "nous": "eussions dénoncé",
+      "vous": "eussiez dénoncé",
+      "ils": "eussent dénoncé"
+    },
+    "conditionnel_présent": {
+      "je": "dénoncerais",
+      "tu": "dénoncerais",
+      "il": "dénoncerait",
+      "nous": "dénoncerions",
+      "vous": "dénonceriez",
+      "ils": "dénonceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dénoncé",
+      "tu": "aurais dénoncé",
+      "il": "aurait dénoncé",
+      "nous": "aurions dénoncé",
+      "vous": "auriez dénoncé",
+      "ils": "auraient dénoncé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dénoncé",
+      "tu": "eusses dénoncé",
+      "il": "eût dénoncé",
+      "nous": "eussions dénoncé",
+      "vous": "eussiez dénoncé",
+      "ils": "eussent dénoncé"
+    },
+    "translation": "",
+    "group": 1
+  },
+  {
+    "infinitive": "dénuer",
+    "présent": {
+      "je": "me dénue",
+      "tu": "te dénues",
+      "il": "se dénue",
+      "nous": "nous dénuons",
+      "vous": "vous dénuez",
+      "ils": "se dénuent"
+    },
+    "passé_composé": {
+      "je": "me suis dénué",
+      "tu": "es dénué",
+      "il": "est dénué",
+      "nous": "nous sommes dénués",
+      "vous": "vous êtes dénués",
+      "ils": "se sont dénués"
+    },
+    "imparfait": {
+      "je": "me dénuais",
+      "tu": "te dénuais",
+      "il": "se dénuait",
+      "nous": "nous dénuions",
+      "vous": "vous dénuiez",
+      "ils": "se dénuaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais dénué",
+      "tu": "étais dénué",
+      "il": "était dénué",
+      "nous": "nous étions dénués",
+      "vous": "vous étiez dénués",
+      "ils": "étaient dénués"
+    },
+    "passé_simple": {
+      "je": "me dénuai",
+      "tu": "te dénuas",
+      "il": "se dénua",
+      "nous": "nous dénuâmes",
+      "vous": "vous dénuâtes",
+      "ils": "se dénuèrent"
+    },
+    "passé_antérieur": {
+      "je": "me fus dénué",
+      "tu": "te fus dénué",
+      "il": "se fut dénué",
+      "nous": "nous fûmes dénués",
+      "vous": "vous fûtes dénués",
+      "ils": "se furent dénués"
+    },
+    "futur_simple": {
+      "je": "me dénuerai",
+      "tu": "te dénueras",
+      "il": "se dénuera",
+      "nous": "nous dénuerons",
+      "vous": "vous dénuerez",
+      "ils": "se dénueront"
+    },
+    "futur_antérieur": {
+      "je": "me serai dénué",
+      "tu": "te seras dénué",
+      "il": "se sera dénué",
+      "nous": "nous serons dénués",
+      "vous": "vous serez dénués",
+      "ils": "se seront dénués"
+    },
+    "subjonctif_présent": {
+      "je": "me dénue",
+      "tu": "te dénues",
+      "il": "se dénue",
+      "nous": "nous dénuions",
+      "vous": "vous dénuiez",
+      "ils": "se dénuent"
+    },
+    "subjonctif_passé": {
+      "je": "me sois dénué",
+      "tu": "te sois dénué",
+      "il": "se soit dénué",
+      "nous": "nous soyons dénués",
+      "vous": "vous soyez dénués",
+      "ils": "se soient dénués"
+    },
+    "subjonctif_imparfait": {
+      "je": "me dénuasse",
+      "tu": "te dénuasses",
+      "il": "se dénuât",
+      "nous": "nous dénuassions",
+      "vous": "vous dénuassiez",
+      "ils": "se dénuassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse dénué",
+      "tu": "te fusses dénué",
+      "il": "se fût dénué",
+      "nous": "nous fussions dénués",
+      "vous": "vous fussiez dénués",
+      "ils": "se fussent dénués"
+    },
+    "conditionnel_présent": {
+      "je": "me dénuerais",
+      "tu": "te dénuerais",
+      "il": "se dénuerait",
+      "nous": "nous dénuerions",
+      "vous": "vous dénueriez",
+      "ils": "se dénueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais dénué",
+      "tu": "te serais dénué",
+      "il": "se serait dénué",
+      "nous": "nous serions dénués",
+      "vous": "vous seriez dénués",
+      "ils": "se seraient dénués"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse dénué",
+      "tu": "te fusses dénué",
+      "il": "se fût dénué",
+      "nous": "nous fussions dénués",
+      "vous": "vous fussiez dénués",
+      "ils": "se fussent dénués"
+    },
+    "translation": "rozwiązywać",
+    "group": 1
+  },
+  {
+    "infinitive": "dépanner",
+    "présent": {
+      "je": "dépanne",
+      "tu": "dépannes",
+      "il": "dépanne",
+      "nous": "dépannons",
+      "vous": "dépannez",
+      "ils": "dépannent"
+    },
+    "passé_composé": {
+      "je": "ai dépanné",
+      "tu": "as dépanné",
+      "il": "a dépanné",
+      "nous": "avons dépanné",
+      "vous": "avez dépanné",
+      "ils": "ont dépanné"
+    },
+    "imparfait": {
+      "je": "dépannais",
+      "tu": "dépannais",
+      "il": "dépannait",
+      "nous": "dépannions",
+      "vous": "dépanniez",
+      "ils": "dépannaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dépanné",
+      "tu": "avais dépanné",
+      "il": "avait dépanné",
+      "nous": "avions dépanné",
+      "vous": "aviez dépanné",
+      "ils": "avaient dépanné"
+    },
+    "passé_simple": {
+      "je": "dépannai",
+      "tu": "dépannas",
+      "il": "dépanna",
+      "nous": "dépannâmes",
+      "vous": "dépannâtes",
+      "ils": "dépannèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus dépanné",
+      "tu": "eus dépanné",
+      "il": "eut dépanné",
+      "nous": "eûmes dépanné",
+      "vous": "eûtes dépanné",
+      "ils": "eurent dépanné"
+    },
+    "futur_simple": {
+      "je": "dépannerai",
+      "tu": "dépanneras",
+      "il": "dépannera",
+      "nous": "dépannerons",
+      "vous": "dépannerez",
+      "ils": "dépanneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dépanné",
+      "tu": "auras dépanné",
+      "il": "aura dépanné",
+      "nous": "aurons dépanné",
+      "vous": "aurez dépanné",
+      "ils": "auront dépanné"
+    },
+    "subjonctif_présent": {
+      "je": "dépanne",
+      "tu": "dépannes",
+      "il": "dépanne",
+      "nous": "dépannions",
+      "vous": "dépanniez",
+      "ils": "dépannent"
+    },
+    "subjonctif_passé": {
+      "je": "aie dépanné",
+      "tu": "aies dépanné",
+      "il": "ait dépanné",
+      "nous": "ayons dépanné",
+      "vous": "ayez dépanné",
+      "ils": "aient dépanné"
+    },
+    "subjonctif_imparfait": {
+      "je": "dépannasse",
+      "tu": "dépannasses",
+      "il": "dépannât",
+      "nous": "dépannassions",
+      "vous": "dépannassiez",
+      "ils": "dépannassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dépanné",
+      "tu": "eusses dépanné",
+      "il": "eût dépanné",
+      "nous": "eussions dépanné",
+      "vous": "eussiez dépanné",
+      "ils": "eussent dépanné"
+    },
+    "conditionnel_présent": {
+      "je": "dépannerais",
+      "tu": "dépannerais",
+      "il": "dépannerait",
+      "nous": "dépannerions",
+      "vous": "dépanneriez",
+      "ils": "dépanneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dépanné",
+      "tu": "aurais dépanné",
+      "il": "aurait dépanné",
+      "nous": "aurions dépanné",
+      "vous": "auriez dépanné",
+      "ils": "auraient dépanné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dépanné",
+      "tu": "eusses dépanné",
+      "il": "eût dépanné",
+      "nous": "eussions dépanné",
+      "vous": "eussiez dépanné",
+      "ils": "eussent dépanné"
+    },
+    "translation": "naprawiać",
+    "group": 1
+  },
+  {
+    "infinitive": "départir",
+    "présent": {
+      "je": "dépars",
+      "tu": "dépars",
+      "il": "départ",
+      "nous": "départons",
+      "vous": "départez",
+      "ils": "départent"
+    },
+    "passé_composé": {
+      "je": "ai départi",
+      "tu": "as départi",
+      "il": "a départi",
+      "nous": "avons départi",
+      "vous": "avez départi",
+      "ils": "ont départi"
+    },
+    "imparfait": {
+      "je": "départais",
+      "tu": "départais",
+      "il": "départait",
+      "nous": "départions",
+      "vous": "départiez",
+      "ils": "départaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais départi",
+      "tu": "avais départi",
+      "il": "avait départi",
+      "nous": "avions départi",
+      "vous": "aviez départi",
+      "ils": "avaient départi"
+    },
+    "passé_simple": {
+      "je": "départis",
+      "tu": "départis",
+      "il": "départit",
+      "nous": "départîmes",
+      "vous": "départîtes",
+      "ils": "départirent"
+    },
+    "passé_antérieur": {
+      "je": "eus départi",
+      "tu": "eus départi",
+      "il": "eut départi",
+      "nous": "eûmes départi",
+      "vous": "eûtes départi",
+      "ils": "eurent départi"
+    },
+    "futur_simple": {
+      "je": "départirai",
+      "tu": "départiras",
+      "il": "départira",
+      "nous": "départirons",
+      "vous": "départirez",
+      "ils": "départiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai départi",
+      "tu": "auras départi",
+      "il": "aura départi",
+      "nous": "aurons départi",
+      "vous": "aurez départi",
+      "ils": "auront départi"
+    },
+    "subjonctif_présent": {
+      "je": "départe",
+      "tu": "départes",
+      "il": "départe",
+      "nous": "départions",
+      "vous": "départiez",
+      "ils": "départent"
+    },
+    "subjonctif_passé": {
+      "je": "aie départi",
+      "tu": "aies départi",
+      "il": "ait départi",
+      "nous": "ayons départi",
+      "vous": "ayez départi",
+      "ils": "aient départi"
+    },
+    "subjonctif_imparfait": {
+      "je": "départisse",
+      "tu": "départisses",
+      "il": "départît",
+      "nous": "départissions",
+      "vous": "départissiez",
+      "ils": "départissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse départi",
+      "tu": "eusses départi",
+      "il": "eût départi",
+      "nous": "eussions départi",
+      "vous": "eussiez départi",
+      "ils": "eussent départi"
+    },
+    "conditionnel_présent": {
+      "je": "départirais",
+      "tu": "départirais",
+      "il": "départirait",
+      "nous": "départirions",
+      "vous": "départiriez",
+      "ils": "départiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais départi",
+      "tu": "aurais départi",
+      "il": "aurait départi",
+      "nous": "aurions départi",
+      "vous": "auriez départi",
+      "ils": "auraient départi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse départi",
+      "tu": "eusses départi",
+      "il": "eût départi",
+      "nous": "eussions départi",
+      "vous": "eussiez départi",
+      "ils": "eussent départi"
+    },
+    "translation": "odjeżdżać",
+    "group": 3
+  },
+  {
+    "infinitive": "dépasser",
+    "présent": {
+      "je": "dépasse",
+      "tu": "dépasses",
+      "il": "dépasse",
+      "nous": "dépassons",
+      "vous": "dépassez",
+      "ils": "dépassent"
+    },
+    "passé_composé": {
+      "je": "ai dépassé",
+      "tu": "as dépassé",
+      "il": "a dépassé",
+      "nous": "avons dépassé",
+      "vous": "avez dépassé",
+      "ils": "ont dépassé"
+    },
+    "imparfait": {
+      "je": "dépassais",
+      "tu": "dépassais",
+      "il": "dépassait",
+      "nous": "dépassions",
+      "vous": "dépassiez",
+      "ils": "dépassaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dépassé",
+      "tu": "avais dépassé",
+      "il": "avait dépassé",
+      "nous": "avions dépassé",
+      "vous": "aviez dépassé",
+      "ils": "avaient dépassé"
+    },
+    "passé_simple": {
+      "je": "dépassai",
+      "tu": "dépassas",
+      "il": "dépassa",
+      "nous": "dépassâmes",
+      "vous": "dépassâtes",
+      "ils": "dépassèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus dépassé",
+      "tu": "eus dépassé",
+      "il": "eut dépassé",
+      "nous": "eûmes dépassé",
+      "vous": "eûtes dépassé",
+      "ils": "eurent dépassé"
+    },
+    "futur_simple": {
+      "je": "dépasserai",
+      "tu": "dépasseras",
+      "il": "dépassera",
+      "nous": "dépasserons",
+      "vous": "dépasserez",
+      "ils": "dépasseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dépassé",
+      "tu": "auras dépassé",
+      "il": "aura dépassé",
+      "nous": "aurons dépassé",
+      "vous": "aurez dépassé",
+      "ils": "auront dépassé"
+    },
+    "subjonctif_présent": {
+      "je": "dépasse",
+      "tu": "dépasses",
+      "il": "dépasse",
+      "nous": "dépassions",
+      "vous": "dépassiez",
+      "ils": "dépassent"
+    },
+    "subjonctif_passé": {
+      "je": "aie dépassé",
+      "tu": "aies dépassé",
+      "il": "ait dépassé",
+      "nous": "ayons dépassé",
+      "vous": "ayez dépassé",
+      "ils": "aient dépassé"
+    },
+    "subjonctif_imparfait": {
+      "je": "dépassasse",
+      "tu": "dépassasses",
+      "il": "dépassât",
+      "nous": "dépassassions",
+      "vous": "dépassassiez",
+      "ils": "dépassassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dépassé",
+      "tu": "eusses dépassé",
+      "il": "eût dépassé",
+      "nous": "eussions dépassé",
+      "vous": "eussiez dépassé",
+      "ils": "eussent dépassé"
+    },
+    "conditionnel_présent": {
+      "je": "dépasserais",
+      "tu": "dépasserais",
+      "il": "dépasserait",
+      "nous": "dépasserions",
+      "vous": "dépasseriez",
+      "ils": "dépasseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dépassé",
+      "tu": "aurais dépassé",
+      "il": "aurait dépassé",
+      "nous": "aurions dépassé",
+      "vous": "auriez dépassé",
+      "ils": "auraient dépassé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dépassé",
+      "tu": "eusses dépassé",
+      "il": "eût dépassé",
+      "nous": "eussions dépassé",
+      "vous": "eussiez dépassé",
+      "ils": "eussent dépassé"
+    },
+    "translation": "wyprzedzać",
+    "group": 1
+  },
+  {
+    "infinitive": "dépecer",
+    "présent": {
+      "je": "dépèce",
+      "tu": "dépèces",
+      "il": "dépèce",
+      "nous": "dépeçons",
+      "vous": "dépecez",
+      "ils": "dépècent"
+    },
+    "passé_composé": {
+      "je": "ai dépecé",
+      "tu": "as dépecé",
+      "il": "a dépecé",
+      "nous": "avons dépecé",
+      "vous": "avez dépecé",
+      "ils": "ont dépecé"
+    },
+    "imparfait": {
+      "je": "dépeçais",
+      "tu": "dépeçais",
+      "il": "dépeçait",
+      "nous": "dépecions",
+      "vous": "dépeciez",
+      "ils": "dépeçaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dépecé",
+      "tu": "avais dépecé",
+      "il": "avait dépecé",
+      "nous": "avions dépecé",
+      "vous": "aviez dépecé",
+      "ils": "avaient dépecé"
+    },
+    "passé_simple": {
+      "je": "dépeçai",
+      "tu": "dépeças",
+      "il": "dépeça",
+      "nous": "dépeçâmes",
+      "vous": "dépeçâtes",
+      "ils": "dépecèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus dépecé",
+      "tu": "eus dépecé",
+      "il": "eut dépecé",
+      "nous": "eûmes dépecé",
+      "vous": "eûtes dépecé",
+      "ils": "eurent dépecé"
+    },
+    "futur_simple": {
+      "je": "dépècerai",
+      "tu": "dépèceras",
+      "il": "dépècera",
+      "nous": "dépècerons",
+      "vous": "dépècerez",
+      "ils": "dépèceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dépecé",
+      "tu": "auras dépecé",
+      "il": "aura dépecé",
+      "nous": "aurons dépecé",
+      "vous": "aurez dépecé",
+      "ils": "auront dépecé"
+    },
+    "subjonctif_présent": {
+      "je": "dépèce",
+      "tu": "dépèces",
+      "il": "dépèce",
+      "nous": "dépecions",
+      "vous": "dépeciez",
+      "ils": "dépècent"
+    },
+    "subjonctif_passé": {
+      "je": "aie dépecé",
+      "tu": "aies dépecé",
+      "il": "ait dépecé",
+      "nous": "ayons dépecé",
+      "vous": "ayez dépecé",
+      "ils": "aient dépecé"
+    },
+    "subjonctif_imparfait": {
+      "je": "dépeçasse",
+      "tu": "dépeçasses",
+      "il": "dépeçât",
+      "nous": "dépeçassions",
+      "vous": "dépeçassiez",
+      "ils": "dépeçassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dépecé",
+      "tu": "eusses dépecé",
+      "il": "eût dépecé",
+      "nous": "eussions dépecé",
+      "vous": "eussiez dépecé",
+      "ils": "eussent dépecé"
+    },
+    "conditionnel_présent": {
+      "je": "dépècerais",
+      "tu": "dépècerais",
+      "il": "dépècerait",
+      "nous": "dépècerions",
+      "vous": "dépèceriez",
+      "ils": "dépèceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dépecé",
+      "tu": "aurais dépecé",
+      "il": "aurait dépecé",
+      "nous": "aurions dépecé",
+      "vous": "auriez dépecé",
+      "ils": "auraient dépecé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dépecé",
+      "tu": "eusses dépecé",
+      "il": "eût dépecé",
+      "nous": "eussions dépecé",
+      "vous": "eussiez dépecé",
+      "ils": "eussent dépecé"
+    },
+    "translation": "przestawiać",
+    "group": 1
+  },
+  {
+    "infinitive": "dépêcher",
+    "présent": {
+      "je": "dépêche",
+      "tu": "dépêches",
+      "il": "dépêche",
+      "nous": "dépêchons",
+      "vous": "dépêchez",
+      "ils": "dépêchent"
+    },
+    "passé_composé": {
+      "je": "ai dépêché",
+      "tu": "as dépêché",
+      "il": "a dépêché",
+      "nous": "avons dépêché",
+      "vous": "avez dépêché",
+      "ils": "ont dépêché"
+    },
+    "imparfait": {
+      "je": "dépêchais",
+      "tu": "dépêchais",
+      "il": "dépêchait",
+      "nous": "dépêchions",
+      "vous": "dépêchiez",
+      "ils": "dépêchaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dépêché",
+      "tu": "avais dépêché",
+      "il": "avait dépêché",
+      "nous": "avions dépêché",
+      "vous": "aviez dépêché",
+      "ils": "avaient dépêché"
+    },
+    "passé_simple": {
+      "je": "dépêchai",
+      "tu": "dépêchas",
+      "il": "dépêcha",
+      "nous": "dépêchâmes",
+      "vous": "dépêchâtes",
+      "ils": "dépêchèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus dépêché",
+      "tu": "eus dépêché",
+      "il": "eut dépêché",
+      "nous": "eûmes dépêché",
+      "vous": "eûtes dépêché",
+      "ils": "eurent dépêché"
+    },
+    "futur_simple": {
+      "je": "dépêcherai",
+      "tu": "dépêcheras",
+      "il": "dépêchera",
+      "nous": "dépêcherons",
+      "vous": "dépêcherez",
+      "ils": "dépêcheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dépêché",
+      "tu": "auras dépêché",
+      "il": "aura dépêché",
+      "nous": "aurons dépêché",
+      "vous": "aurez dépêché",
+      "ils": "auront dépêché"
+    },
+    "subjonctif_présent": {
+      "je": "dépêche",
+      "tu": "dépêches",
+      "il": "dépêche",
+      "nous": "dépêchions",
+      "vous": "dépêchiez",
+      "ils": "dépêchent"
+    },
+    "subjonctif_passé": {
+      "je": "aie dépêché",
+      "tu": "aies dépêché",
+      "il": "ait dépêché",
+      "nous": "ayons dépêché",
+      "vous": "ayez dépêché",
+      "ils": "aient dépêché"
+    },
+    "subjonctif_imparfait": {
+      "je": "dépêchasse",
+      "tu": "dépêchasses",
+      "il": "dépêchât",
+      "nous": "dépêchassions",
+      "vous": "dépêchassiez",
+      "ils": "dépêchassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dépêché",
+      "tu": "eusses dépêché",
+      "il": "eût dépêché",
+      "nous": "eussions dépêché",
+      "vous": "eussiez dépêché",
+      "ils": "eussent dépêché"
+    },
+    "conditionnel_présent": {
+      "je": "dépêcherais",
+      "tu": "dépêcherais",
+      "il": "dépêcherait",
+      "nous": "dépêcherions",
+      "vous": "dépêcheriez",
+      "ils": "dépêcheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dépêché",
+      "tu": "aurais dépêché",
+      "il": "aurait dépêché",
+      "nous": "aurions dépêché",
+      "vous": "auriez dépêché",
+      "ils": "auraient dépêché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dépêché",
+      "tu": "eusses dépêché",
+      "il": "eût dépêché",
+      "nous": "eussions dépêché",
+      "vous": "eussiez dépêché",
+      "ils": "eussent dépêché"
+    },
+    "translation": "śpieszyć",
+    "group": 1
+  },
+  {
+    "infinitive": "dépeindre",
+    "présent": {
+      "je": "dépeins",
+      "tu": "dépeins",
+      "il": "dépeint",
+      "nous": "dépeignons",
+      "vous": "dépeignez",
+      "ils": "dépeignent"
+    },
+    "passé_composé": {
+      "je": "ai dépeint",
+      "tu": "as dépeint",
+      "il": "a dépeint",
+      "nous": "avons dépeint",
+      "vous": "avez dépeint",
+      "ils": "ont dépeint"
+    },
+    "imparfait": {
+      "je": "dépeignais",
+      "tu": "dépeignais",
+      "il": "dépeignait",
+      "nous": "dépeignions",
+      "vous": "dépeigniez",
+      "ils": "dépeignaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dépeint",
+      "tu": "avais dépeint",
+      "il": "avait dépeint",
+      "nous": "avions dépeint",
+      "vous": "aviez dépeint",
+      "ils": "avaient dépeint"
+    },
+    "passé_simple": {
+      "je": "dépeignis",
+      "tu": "dépeignis",
+      "il": "dépeignit",
+      "nous": "dépeignîmes",
+      "vous": "dépeignîtes",
+      "ils": "dépeignirent"
+    },
+    "passé_antérieur": {
+      "je": "eus dépeint",
+      "tu": "eus dépeint",
+      "il": "eut dépeint",
+      "nous": "eûmes dépeint",
+      "vous": "eûtes dépeint",
+      "ils": "eurent dépeint"
+    },
+    "futur_simple": {
+      "je": "dépeindrai",
+      "tu": "dépeindras",
+      "il": "dépeindra",
+      "nous": "dépeindrons",
+      "vous": "dépeindrez",
+      "ils": "dépeindront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dépeint",
+      "tu": "auras dépeint",
+      "il": "aura dépeint",
+      "nous": "aurons dépeint",
+      "vous": "aurez dépeint",
+      "ils": "auront dépeint"
+    },
+    "subjonctif_présent": {
+      "je": "dépeigne",
+      "tu": "dépeignes",
+      "il": "dépeigne",
+      "nous": "dépeignions",
+      "vous": "dépeigniez",
+      "ils": "dépeignent"
+    },
+    "subjonctif_passé": {
+      "je": "aie dépeint",
+      "tu": "aies dépeint",
+      "il": "ait dépeint",
+      "nous": "ayons dépeint",
+      "vous": "ayez dépeint",
+      "ils": "aient dépeint"
+    },
+    "subjonctif_imparfait": {
+      "je": "dépeignisse",
+      "tu": "dépeignisses",
+      "il": "dépeignît",
+      "nous": "dépeignissions",
+      "vous": "dépeignissiez",
+      "ils": "dépeignissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dépeint",
+      "tu": "eusses dépeint",
+      "il": "eût dépeint",
+      "nous": "eussions dépeint",
+      "vous": "eussiez dépeint",
+      "ils": "eussent dépeint"
+    },
+    "conditionnel_présent": {
+      "je": "dépeindrais",
+      "tu": "dépeindrais",
+      "il": "dépeindrait",
+      "nous": "dépeindrions",
+      "vous": "dépeindriez",
+      "ils": "dépeindraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dépeint",
+      "tu": "aurais dépeint",
+      "il": "aurait dépeint",
+      "nous": "aurions dépeint",
+      "vous": "auriez dépeint",
+      "ils": "auraient dépeint"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dépeint",
+      "tu": "eusses dépeint",
+      "il": "eût dépeint",
+      "nous": "eussions dépeint",
+      "vous": "eussiez dépeint",
+      "ils": "eussent dépeint"
+    },
+    "translation": "przedstawiać",
+    "group": 3
+  },
+  {
+    "infinitive": "dépendre",
+    "présent": {
+      "je": "dépends",
+      "tu": "dépends",
+      "il": "dépend",
+      "nous": "dépendons",
+      "vous": "dépendez",
+      "ils": "dépendent"
+    },
+    "passé_composé": {
+      "je": "ai dépendu",
+      "tu": "as dépendu",
+      "il": "a dépendu",
+      "nous": "avons dépendu",
+      "vous": "avez dépendu",
+      "ils": "ont dépendu"
+    },
+    "imparfait": {
+      "je": "dépendais",
+      "tu": "dépendais",
+      "il": "dépendait",
+      "nous": "dépendions",
+      "vous": "dépendiez",
+      "ils": "dépendaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dépendu",
+      "tu": "avais dépendu",
+      "il": "avait dépendu",
+      "nous": "avions dépendu",
+      "vous": "aviez dépendu",
+      "ils": "avaient dépendu"
+    },
+    "passé_simple": {
+      "je": "dépendis",
+      "tu": "dépendis",
+      "il": "dépendit",
+      "nous": "dépendîmes",
+      "vous": "dépendîtes",
+      "ils": "dépendirent"
+    },
+    "passé_antérieur": {
+      "je": "eus dépendu",
+      "tu": "eus dépendu",
+      "il": "eut dépendu",
+      "nous": "eûmes dépendu",
+      "vous": "eûtes dépendu",
+      "ils": "eurent dépendu"
+    },
+    "futur_simple": {
+      "je": "dépendrai",
+      "tu": "dépendras",
+      "il": "dépendra",
+      "nous": "dépendrons",
+      "vous": "dépendrez",
+      "ils": "dépendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dépendu",
+      "tu": "auras dépendu",
+      "il": "aura dépendu",
+      "nous": "aurons dépendu",
+      "vous": "aurez dépendu",
+      "ils": "auront dépendu"
+    },
+    "subjonctif_présent": {
+      "je": "dépende",
+      "tu": "dépendes",
+      "il": "dépende",
+      "nous": "dépendions",
+      "vous": "dépendiez",
+      "ils": "dépendent"
+    },
+    "subjonctif_passé": {
+      "je": "aie dépendu",
+      "tu": "aies dépendu",
+      "il": "ait dépendu",
+      "nous": "ayons dépendu",
+      "vous": "ayez dépendu",
+      "ils": "aient dépendu"
+    },
+    "subjonctif_imparfait": {
+      "je": "dépendisse",
+      "tu": "dépendisses",
+      "il": "dépendît",
+      "nous": "dépendissions",
+      "vous": "dépendissiez",
+      "ils": "dépendissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dépendu",
+      "tu": "eusses dépendu",
+      "il": "eût dépendu",
+      "nous": "eussions dépendu",
+      "vous": "eussiez dépendu",
+      "ils": "eussent dépendu"
+    },
+    "conditionnel_présent": {
+      "je": "dépendrais",
+      "tu": "dépendrais",
+      "il": "dépendrait",
+      "nous": "dépendrions",
+      "vous": "dépendriez",
+      "ils": "dépendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dépendu",
+      "tu": "aurais dépendu",
+      "il": "aurait dépendu",
+      "nous": "aurions dépendu",
+      "vous": "auriez dépendu",
+      "ils": "auraient dépendu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dépendu",
+      "tu": "eusses dépendu",
+      "il": "eût dépendu",
+      "nous": "eussions dépendu",
+      "vous": "eussiez dépendu",
+      "ils": "eussent dépendu"
+    },
+    "translation": "zależeć",
+    "group": 3
+  },
+  {
+    "infinitive": "dépenser",
+    "présent": {
+      "je": "dépense",
+      "tu": "dépenses",
+      "il": "dépense",
+      "nous": "dépensons",
+      "vous": "dépensez",
+      "ils": "dépensent"
+    },
+    "passé_composé": {
+      "je": "ai dépensé",
+      "tu": "as dépensé",
+      "il": "a dépensé",
+      "nous": "avons dépensé",
+      "vous": "avez dépensé",
+      "ils": "ont dépensé"
+    },
+    "imparfait": {
+      "je": "dépensais",
+      "tu": "dépensais",
+      "il": "dépensait",
+      "nous": "dépensions",
+      "vous": "dépensiez",
+      "ils": "dépensaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dépensé",
+      "tu": "avais dépensé",
+      "il": "avait dépensé",
+      "nous": "avions dépensé",
+      "vous": "aviez dépensé",
+      "ils": "avaient dépensé"
+    },
+    "passé_simple": {
+      "je": "dépensai",
+      "tu": "dépensas",
+      "il": "dépensa",
+      "nous": "dépensâmes",
+      "vous": "dépensâtes",
+      "ils": "dépensèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus dépensé",
+      "tu": "eus dépensé",
+      "il": "eut dépensé",
+      "nous": "eûmes dépensé",
+      "vous": "eûtes dépensé",
+      "ils": "eurent dépensé"
+    },
+    "futur_simple": {
+      "je": "dépenserai",
+      "tu": "dépenseras",
+      "il": "dépensera",
+      "nous": "dépenserons",
+      "vous": "dépenserez",
+      "ils": "dépenseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dépensé",
+      "tu": "auras dépensé",
+      "il": "aura dépensé",
+      "nous": "aurons dépensé",
+      "vous": "aurez dépensé",
+      "ils": "auront dépensé"
+    },
+    "subjonctif_présent": {
+      "je": "dépense",
+      "tu": "dépenses",
+      "il": "dépense",
+      "nous": "dépensions",
+      "vous": "dépensiez",
+      "ils": "dépensent"
+    },
+    "subjonctif_passé": {
+      "je": "aie dépensé",
+      "tu": "aies dépensé",
+      "il": "ait dépensé",
+      "nous": "ayons dépensé",
+      "vous": "ayez dépensé",
+      "ils": "aient dépensé"
+    },
+    "subjonctif_imparfait": {
+      "je": "dépensasse",
+      "tu": "dépensasses",
+      "il": "dépensât",
+      "nous": "dépensassions",
+      "vous": "dépensassiez",
+      "ils": "dépensassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dépensé",
+      "tu": "eusses dépensé",
+      "il": "eût dépensé",
+      "nous": "eussions dépensé",
+      "vous": "eussiez dépensé",
+      "ils": "eussent dépensé"
+    },
+    "conditionnel_présent": {
+      "je": "dépenserais",
+      "tu": "dépenserais",
+      "il": "dépenserait",
+      "nous": "dépenserions",
+      "vous": "dépenseriez",
+      "ils": "dépenseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dépensé",
+      "tu": "aurais dépensé",
+      "il": "aurait dépensé",
+      "nous": "aurions dépensé",
+      "vous": "auriez dépensé",
+      "ils": "auraient dépensé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dépensé",
+      "tu": "eusses dépensé",
+      "il": "eût dépensé",
+      "nous": "eussions dépensé",
+      "vous": "eussiez dépensé",
+      "ils": "eussent dépensé"
+    },
+    "translation": "wydawać",
+    "group": 1
+  }
+]

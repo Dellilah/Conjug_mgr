@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "failler",
+    "présent": {
+      "je": "me faille",
+      "tu": "te failles",
+      "il": "se faille",
+      "nous": "nous faillons",
+      "vous": "vous faillez",
+      "ils": "se faillent"
+    },
+    "passé_composé": {
+      "je": "me suis faillé",
+      "tu": "es faillé",
+      "il": "est faillé",
+      "nous": "nous sommes faillés",
+      "vous": "vous êtes faillés",
+      "ils": "se sont faillés"
+    },
+    "imparfait": {
+      "je": "me faillais",
+      "tu": "te faillais",
+      "il": "se faillait",
+      "nous": "nous faillions",
+      "vous": "vous failliez",
+      "ils": "se faillaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais faillé",
+      "tu": "étais faillé",
+      "il": "était faillé",
+      "nous": "nous étions faillés",
+      "vous": "vous étiez faillés",
+      "ils": "étaient faillés"
+    },
+    "passé_simple": {
+      "je": "me faillai",
+      "tu": "te faillas",
+      "il": "se failla",
+      "nous": "nous faillâmes",
+      "vous": "vous faillâtes",
+      "ils": "se faillèrent"
+    },
+    "passé_antérieur": {
+      "je": "me fus faillé",
+      "tu": "te fus faillé",
+      "il": "se fut faillé",
+      "nous": "nous fûmes faillés",
+      "vous": "vous fûtes faillés",
+      "ils": "se furent faillés"
+    },
+    "futur_simple": {
+      "je": "me faillerai",
+      "tu": "te failleras",
+      "il": "se faillera",
+      "nous": "nous faillerons",
+      "vous": "vous faillerez",
+      "ils": "se failleront"
+    },
+    "futur_antérieur": {
+      "je": "me serai faillé",
+      "tu": "te seras faillé",
+      "il": "se sera faillé",
+      "nous": "nous serons faillés",
+      "vous": "vous serez faillés",
+      "ils": "se seront faillés"
+    },
+    "subjonctif_présent": {
+      "je": "me faille",
+      "tu": "te failles",
+      "il": "se faille",
+      "nous": "nous faillions",
+      "vous": "vous failliez",
+      "ils": "se faillent"
+    },
+    "subjonctif_passé": {
+      "je": "me sois faillé",
+      "tu": "te sois faillé",
+      "il": "se soit faillé",
+      "nous": "nous soyons faillés",
+      "vous": "vous soyez faillés",
+      "ils": "se soient faillés"
+    },
+    "subjonctif_imparfait": {
+      "je": "me faillasse",
+      "tu": "te faillasses",
+      "il": "se faillât",
+      "nous": "nous faillassions",
+      "vous": "vous faillassiez",
+      "ils": "se faillassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse faillé",
+      "tu": "te fusses faillé",
+      "il": "se fût faillé",
+      "nous": "nous fussions faillés",
+      "vous": "vous fussiez faillés",
+      "ils": "se fussent faillés"
+    },
+    "conditionnel_présent": {
+      "je": "me faillerais",
+      "tu": "te faillerais",
+      "il": "se faillerait",
+      "nous": "nous faillerions",
+      "vous": "vous failleriez",
+      "ils": "se failleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais faillé",
+      "tu": "te serais faillé",
+      "il": "se serait faillé",
+      "nous": "nous serions faillés",
+      "vous": "vous seriez faillés",
+      "ils": "se seraient faillés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse faillé",
+      "tu": "te fusses faillé",
+      "il": "se fût faillé",
+      "nous": "nous fussions faillés",
+      "vous": "vous fussiez faillés",
+      "ils": "se fussent faillés"
+    },
+    "translation": "uskok",
+    "group": 1
+  },
+  {
+    "infinitive": "faillir",
+    "présent": {
+      "je": "faux",
+      "tu": "faux",
+      "il": "faut",
+      "nous": "faillons",
+      "vous": "faillez",
+      "ils": "faillent"
+    },
+    "passé_composé": {
+      "je": "ai failli",
+      "tu": "as failli",
+      "il": "a failli",
+      "nous": "avons failli",
+      "vous": "avez failli",
+      "ils": "ont failli"
+    },
+    "imparfait": {
+      "je": "faillais",
+      "tu": "faillais",
+      "il": "faillait",
+      "nous": "faillions",
+      "vous": "failliez",
+      "ils": "faillaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais failli",
+      "tu": "avais failli",
+      "il": "avait failli",
+      "nous": "avions failli",
+      "vous": "aviez failli",
+      "ils": "avaient failli"
+    },
+    "passé_simple": {
+      "je": "faillis",
+      "tu": "faillis",
+      "il": "faillit",
+      "nous": "faillîmes",
+      "vous": "faillîtes",
+      "ils": "faillirent"
+    },
+    "passé_antérieur": {
+      "je": "eus failli",
+      "tu": "eus failli",
+      "il": "eut failli",
+      "nous": "eûmes failli",
+      "vous": "eûtes failli",
+      "ils": "eurent failli"
+    },
+    "futur_simple": {
+      "je": "faillirai",
+      "tu": "failliras",
+      "il": "faillira",
+      "nous": "faillirons",
+      "vous": "faillirez",
+      "ils": "failliront"
+    },
+    "futur_antérieur": {
+      "je": "aurai failli",
+      "tu": "auras failli",
+      "il": "aura failli",
+      "nous": "aurons failli",
+      "vous": "aurez failli",
+      "ils": "auront failli"
+    },
+    "subjonctif_présent": {
+      "je": "faillisse",
+      "tu": "faillisses",
+      "il": "faillisse",
+      "nous": "faillissions",
+      "vous": "faillissiez",
+      "ils": "faillissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie failli",
+      "tu": "aies failli",
+      "il": "ait failli",
+      "nous": "ayons failli",
+      "vous": "ayez failli",
+      "ils": "aient failli"
+    },
+    "subjonctif_imparfait": {
+      "je": "faillisse",
+      "tu": "faillisses",
+      "il": "faillît",
+      "nous": "faillissions",
+      "vous": "faillissiez",
+      "ils": "faillissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse failli",
+      "tu": "eusses failli",
+      "il": "eût failli",
+      "nous": "eussions failli",
+      "vous": "eussiez failli",
+      "ils": "eussent failli"
+    },
+    "conditionnel_présent": {
+      "je": "faillirais",
+      "tu": "faillirais",
+      "il": "faillirait",
+      "nous": "faillirions",
+      "vous": "failliriez",
+      "ils": "failliraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais failli",
+      "tu": "aurais failli",
+      "il": "aurait failli",
+      "nous": "aurions failli",
+      "vous": "auriez failli",
+      "ils": "auraient failli"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse failli",
+      "tu": "eusses failli",
+      "il": "eût failli",
+      "nous": "eussions failli",
+      "vous": "eussiez failli",
+      "ils": "eussent failli"
+    },
+    "translation": "mało",
+    "group": 3
+  },
+  {
+    "infinitive": "faire",
+    "présent": {
+      "je": "fais",
+      "tu": "fais",
+      "il": "fait",
+      "nous": "faisons",
+      "vous": "faites",
+      "ils": "font"
+    },
+    "passé_composé": {
+      "je": "ai fait",
+      "tu": "as fait",
+      "il": "a fait",
+      "nous": "avons fait",
+      "vous": "avez fait",
+      "ils": "ont fait"
+    },
+    "imparfait": {
+      "je": "faisais",
+      "tu": "faisais",
+      "il": "faisait",
+      "nous": "faisions",
+      "vous": "faisiez",
+      "ils": "faisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais fait",
+      "tu": "avais fait",
+      "il": "avait fait",
+      "nous": "avions fait",
+      "vous": "aviez fait",
+      "ils": "avaient fait"
+    },
+    "passé_simple": {
+      "je": "fis",
+      "tu": "fis",
+      "il": "fit",
+      "nous": "fîmes",
+      "vous": "fîtes",
+      "ils": "firent"
+    },
+    "passé_antérieur": {
+      "je": "eus fait",
+      "tu": "eus fait",
+      "il": "eut fait",
+      "nous": "eûmes fait",
+      "vous": "eûtes fait",
+      "ils": "eurent fait"
+    },
+    "futur_simple": {
+      "je": "ferai",
+      "tu": "feras",
+      "il": "fera",
+      "nous": "ferons",
+      "vous": "ferez",
+      "ils": "feront"
+    },
+    "futur_antérieur": {
+      "je": "aurai fait",
+      "tu": "auras fait",
+      "il": "aura fait",
+      "nous": "aurons fait",
+      "vous": "aurez fait",
+      "ils": "auront fait"
+    },
+    "subjonctif_présent": {
+      "je": "fasse",
+      "tu": "fasses",
+      "il": "fasse",
+      "nous": "fassions",
+      "vous": "fassiez",
+      "ils": "fassent"
+    },
+    "subjonctif_passé": {
+      "je": "aie fait",
+      "tu": "aies fait",
+      "il": "ait fait",
+      "nous": "ayons fait",
+      "vous": "ayez fait",
+      "ils": "aient fait"
+    },
+    "subjonctif_imparfait": {
+      "je": "fisse",
+      "tu": "fisses",
+      "il": "fît",
+      "nous": "fissions",
+      "vous": "fissiez",
+      "ils": "fissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse fait",
+      "tu": "eusses fait",
+      "il": "eût fait",
+      "nous": "eussions fait",
+      "vous": "eussiez fait",
+      "ils": "eussent fait"
+    },
+    "conditionnel_présent": {
+      "je": "ferais",
+      "tu": "ferais",
+      "il": "ferait",
+      "nous": "ferions",
+      "vous": "feriez",
+      "ils": "feraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais fait",
+      "tu": "aurais fait",
+      "il": "aurait fait",
+      "nous": "aurions fait",
+      "vous": "auriez fait",
+      "ils": "auraient fait"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse fait",
+      "tu": "eusses fait",
+      "il": "eût fait",
+      "nous": "eussions fait",
+      "vous": "eussiez fait",
+      "ils": "eussent fait"
+    },
+    "translation": "wykonywać",
+    "group": 3
+  },
+  {
+    "infinitive": "falloir",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "faut",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "a fallu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "fallait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "avait fallu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "fallut",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "eut fallu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "faudra",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "aura fallu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "faille",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "ait fallu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "fallût",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "eût fallu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "faudrait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "aurait fallu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "eût fallu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "potrzeba",
+    "group": 3
+  },
+  {
+    "infinitive": "familiariser",
+    "présent": {
+      "je": "familiarise",
+      "tu": "familiarises",
+      "il": "familiarise",
+      "nous": "familiarisons",
+      "vous": "familiarisez",
+      "ils": "familiarisent"
+    },
+    "passé_composé": {
+      "je": "ai familiarisé",
+      "tu": "as familiarisé",
+      "il": "a familiarisé",
+      "nous": "avons familiarisé",
+      "vous": "avez familiarisé",
+      "ils": "ont familiarisé"
+    },
+    "imparfait": {
+      "je": "familiarisais",
+      "tu": "familiarisais",
+      "il": "familiarisait",
+      "nous": "familiarisions",
+      "vous": "familiarisiez",
+      "ils": "familiarisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais familiarisé",
+      "tu": "avais familiarisé",
+      "il": "avait familiarisé",
+      "nous": "avions familiarisé",
+      "vous": "aviez familiarisé",
+      "ils": "avaient familiarisé"
+    },
+    "passé_simple": {
+      "je": "familiarisai",
+      "tu": "familiarisas",
+      "il": "familiarisa",
+      "nous": "familiarisâmes",
+      "vous": "familiarisâtes",
+      "ils": "familiarisèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus familiarisé",
+      "tu": "eus familiarisé",
+      "il": "eut familiarisé",
+      "nous": "eûmes familiarisé",
+      "vous": "eûtes familiarisé",
+      "ils": "eurent familiarisé"
+    },
+    "futur_simple": {
+      "je": "familiariserai",
+      "tu": "familiariseras",
+      "il": "familiarisera",
+      "nous": "familiariserons",
+      "vous": "familiariserez",
+      "ils": "familiariseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai familiarisé",
+      "tu": "auras familiarisé",
+      "il": "aura familiarisé",
+      "nous": "aurons familiarisé",
+      "vous": "aurez familiarisé",
+      "ils": "auront familiarisé"
+    },
+    "subjonctif_présent": {
+      "je": "familiarise",
+      "tu": "familiarises",
+      "il": "familiarise",
+      "nous": "familiarisions",
+      "vous": "familiarisiez",
+      "ils": "familiarisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie familiarisé",
+      "tu": "aies familiarisé",
+      "il": "ait familiarisé",
+      "nous": "ayons familiarisé",
+      "vous": "ayez familiarisé",
+      "ils": "aient familiarisé"
+    },
+    "subjonctif_imparfait": {
+      "je": "familiarisasse",
+      "tu": "familiarisasses",
+      "il": "familiarisât",
+      "nous": "familiarisassions",
+      "vous": "familiarisassiez",
+      "ils": "familiarisassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse familiarisé",
+      "tu": "eusses familiarisé",
+      "il": "eût familiarisé",
+      "nous": "eussions familiarisé",
+      "vous": "eussiez familiarisé",
+      "ils": "eussent familiarisé"
+    },
+    "conditionnel_présent": {
+      "je": "familiariserais",
+      "tu": "familiariserais",
+      "il": "familiariserait",
+      "nous": "familiariserions",
+      "vous": "familiariseriez",
+      "ils": "familiariseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais familiarisé",
+      "tu": "aurais familiarisé",
+      "il": "aurait familiarisé",
+      "nous": "aurions familiarisé",
+      "vous": "auriez familiarisé",
+      "ils": "auraient familiarisé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse familiarisé",
+      "tu": "eusses familiarisé",
+      "il": "eût familiarisé",
+      "nous": "eussions familiarisé",
+      "vous": "eussiez familiarisé",
+      "ils": "eussent familiarisé"
+    },
+    "translation": "oswajać",
+    "group": 1
+  },
+  {
+    "infinitive": "faner",
+    "présent": {
+      "je": "fane",
+      "tu": "fanes",
+      "il": "fane",
+      "nous": "fanons",
+      "vous": "fanez",
+      "ils": "fanent"
+    },
+    "passé_composé": {
+      "je": "ai fané",
+      "tu": "as fané",
+      "il": "a fané",
+      "nous": "avons fané",
+      "vous": "avez fané",
+      "ils": "ont fané"
+    },
+    "imparfait": {
+      "je": "fanais",
+      "tu": "fanais",
+      "il": "fanait",
+      "nous": "fanions",
+      "vous": "faniez",
+      "ils": "fanaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais fané",
+      "tu": "avais fané",
+      "il": "avait fané",
+      "nous": "avions fané",
+      "vous": "aviez fané",
+      "ils": "avaient fané"
+    },
+    "passé_simple": {
+      "je": "fanai",
+      "tu": "fanas",
+      "il": "fana",
+      "nous": "fanâmes",
+      "vous": "fanâtes",
+      "ils": "fanèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus fané",
+      "tu": "eus fané",
+      "il": "eut fané",
+      "nous": "eûmes fané",
+      "vous": "eûtes fané",
+      "ils": "eurent fané"
+    },
+    "futur_simple": {
+      "je": "fanerai",
+      "tu": "faneras",
+      "il": "fanera",
+      "nous": "fanerons",
+      "vous": "fanerez",
+      "ils": "faneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai fané",
+      "tu": "auras fané",
+      "il": "aura fané",
+      "nous": "aurons fané",
+      "vous": "aurez fané",
+      "ils": "auront fané"
+    },
+    "subjonctif_présent": {
+      "je": "fane",
+      "tu": "fanes",
+      "il": "fane",
+      "nous": "fanions",
+      "vous": "faniez",
+      "ils": "fanent"
+    },
+    "subjonctif_passé": {
+      "je": "aie fané",
+      "tu": "aies fané",
+      "il": "ait fané",
+      "nous": "ayons fané",
+      "vous": "ayez fané",
+      "ils": "aient fané"
+    },
+    "subjonctif_imparfait": {
+      "je": "fanasse",
+      "tu": "fanasses",
+      "il": "fanât",
+      "nous": "fanassions",
+      "vous": "fanassiez",
+      "ils": "fanassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse fané",
+      "tu": "eusses fané",
+      "il": "eût fané",
+      "nous": "eussions fané",
+      "vous": "eussiez fané",
+      "ils": "eussent fané"
+    },
+    "conditionnel_présent": {
+      "je": "fanerais",
+      "tu": "fanerais",
+      "il": "fanerait",
+      "nous": "fanerions",
+      "vous": "faneriez",
+      "ils": "faneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais fané",
+      "tu": "aurais fané",
+      "il": "aurait fané",
+      "nous": "aurions fané",
+      "vous": "auriez fané",
+      "ils": "auraient fané"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse fané",
+      "tu": "eusses fané",
+      "il": "eût fané",
+      "nous": "eussions fané",
+      "vous": "eussiez fané",
+      "ils": "eussent fané"
+    },
+    "translation": "więdnąć",
+    "group": 1
+  },
+  {
+    "infinitive": "farcir",
+    "présent": {
+      "je": "farcis",
+      "tu": "farcis",
+      "il": "farcit",
+      "nous": "farcissons",
+      "vous": "farcissez",
+      "ils": "farcissent"
+    },
+    "passé_composé": {
+      "je": "ai farci",
+      "tu": "as farci",
+      "il": "a farci",
+      "nous": "avons farci",
+      "vous": "avez farci",
+      "ils": "ont farci"
+    },
+    "imparfait": {
+      "je": "farcissais",
+      "tu": "farcissais",
+      "il": "farcissait",
+      "nous": "farcissions",
+      "vous": "farcissiez",
+      "ils": "farcissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais farci",
+      "tu": "avais farci",
+      "il": "avait farci",
+      "nous": "avions farci",
+      "vous": "aviez farci",
+      "ils": "avaient farci"
+    },
+    "passé_simple": {
+      "je": "farcis",
+      "tu": "farcis",
+      "il": "farcit",
+      "nous": "farcîmes",
+      "vous": "farcîtes",
+      "ils": "farcirent"
+    },
+    "passé_antérieur": {
+      "je": "eus farci",
+      "tu": "eus farci",
+      "il": "eut farci",
+      "nous": "eûmes farci",
+      "vous": "eûtes farci",
+      "ils": "eurent farci"
+    },
+    "futur_simple": {
+      "je": "farcirai",
+      "tu": "farciras",
+      "il": "farcira",
+      "nous": "farcirons",
+      "vous": "farcirez",
+      "ils": "farciront"
+    },
+    "futur_antérieur": {
+      "je": "aurai farci",
+      "tu": "auras farci",
+      "il": "aura farci",
+      "nous": "aurons farci",
+      "vous": "aurez farci",
+      "ils": "auront farci"
+    },
+    "subjonctif_présent": {
+      "je": "farcisse",
+      "tu": "farcisses",
+      "il": "farcisse",
+      "nous": "farcissions",
+      "vous": "farcissiez",
+      "ils": "farcissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie farci",
+      "tu": "aies farci",
+      "il": "ait farci",
+      "nous": "ayons farci",
+      "vous": "ayez farci",
+      "ils": "aient farci"
+    },
+    "subjonctif_imparfait": {
+      "je": "farcisse",
+      "tu": "farcisses",
+      "il": "farcît",
+      "nous": "farcissions",
+      "vous": "farcissiez",
+      "ils": "farcissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse farci",
+      "tu": "eusses farci",
+      "il": "eût farci",
+      "nous": "eussions farci",
+      "vous": "eussiez farci",
+      "ils": "eussent farci"
+    },
+    "conditionnel_présent": {
+      "je": "farcirais",
+      "tu": "farcirais",
+      "il": "farcirait",
+      "nous": "farcirions",
+      "vous": "farciriez",
+      "ils": "farciraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais farci",
+      "tu": "aurais farci",
+      "il": "aurait farci",
+      "nous": "aurions farci",
+      "vous": "auriez farci",
+      "ils": "auraient farci"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse farci",
+      "tu": "eusses farci",
+      "il": "eût farci",
+      "nous": "eussions farci",
+      "vous": "eussiez farci",
+      "ils": "eussent farci"
+    },
+    "translation": "nadziewać",
+    "group": 2
+  },
+  {
+    "infinitive": "fasciner",
+    "présent": {
+      "je": "fascine",
+      "tu": "fascines",
+      "il": "fascine",
+      "nous": "fascinons",
+      "vous": "fascinez",
+      "ils": "fascinent"
+    },
+    "passé_composé": {
+      "je": "ai fasciné",
+      "tu": "as fasciné",
+      "il": "a fasciné",
+      "nous": "avons fasciné",
+      "vous": "avez fasciné",
+      "ils": "ont fasciné"
+    },
+    "imparfait": {
+      "je": "fascinais",
+      "tu": "fascinais",
+      "il": "fascinait",
+      "nous": "fascinions",
+      "vous": "fasciniez",
+      "ils": "fascinaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais fasciné",
+      "tu": "avais fasciné",
+      "il": "avait fasciné",
+      "nous": "avions fasciné",
+      "vous": "aviez fasciné",
+      "ils": "avaient fasciné"
+    },
+    "passé_simple": {
+      "je": "fascinai",
+      "tu": "fascinas",
+      "il": "fascina",
+      "nous": "fascinâmes",
+      "vous": "fascinâtes",
+      "ils": "fascinèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus fasciné",
+      "tu": "eus fasciné",
+      "il": "eut fasciné",
+      "nous": "eûmes fasciné",
+      "vous": "eûtes fasciné",
+      "ils": "eurent fasciné"
+    },
+    "futur_simple": {
+      "je": "fascinerai",
+      "tu": "fascineras",
+      "il": "fascinera",
+      "nous": "fascinerons",
+      "vous": "fascinerez",
+      "ils": "fascineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai fasciné",
+      "tu": "auras fasciné",
+      "il": "aura fasciné",
+      "nous": "aurons fasciné",
+      "vous": "aurez fasciné",
+      "ils": "auront fasciné"
+    },
+    "subjonctif_présent": {
+      "je": "fascine",
+      "tu": "fascines",
+      "il": "fascine",
+      "nous": "fascinions",
+      "vous": "fasciniez",
+      "ils": "fascinent"
+    },
+    "subjonctif_passé": {
+      "je": "aie fasciné",
+      "tu": "aies fasciné",
+      "il": "ait fasciné",
+      "nous": "ayons fasciné",
+      "vous": "ayez fasciné",
+      "ils": "aient fasciné"
+    },
+    "subjonctif_imparfait": {
+      "je": "fascinasse",
+      "tu": "fascinasses",
+      "il": "fascinât",
+      "nous": "fascinassions",
+      "vous": "fascinassiez",
+      "ils": "fascinassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse fasciné",
+      "tu": "eusses fasciné",
+      "il": "eût fasciné",
+      "nous": "eussions fasciné",
+      "vous": "eussiez fasciné",
+      "ils": "eussent fasciné"
+    },
+    "conditionnel_présent": {
+      "je": "fascinerais",
+      "tu": "fascinerais",
+      "il": "fascinerait",
+      "nous": "fascinerions",
+      "vous": "fascineriez",
+      "ils": "fascineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais fasciné",
+      "tu": "aurais fasciné",
+      "il": "aurait fasciné",
+      "nous": "aurions fasciné",
+      "vous": "auriez fasciné",
+      "ils": "auraient fasciné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse fasciné",
+      "tu": "eusses fasciné",
+      "il": "eût fasciné",
+      "nous": "eussions fasciné",
+      "vous": "eussiez fasciné",
+      "ils": "eussent fasciné"
+    },
+    "translation": "hipnotyzować",
+    "group": 1
+  },
+  {
+    "infinitive": "fatiguer",
+    "présent": {
+      "je": "fatigue",
+      "tu": "fatigues",
+      "il": "fatigue",
+      "nous": "fatiguons",
+      "vous": "fatiguez",
+      "ils": "fatiguent"
+    },
+    "passé_composé": {
+      "je": "ai fatigué",
+      "tu": "as fatigué",
+      "il": "a fatigué",
+      "nous": "avons fatigué",
+      "vous": "avez fatigué",
+      "ils": "ont fatigué"
+    },
+    "imparfait": {
+      "je": "fatiguais",
+      "tu": "fatiguais",
+      "il": "fatiguait",
+      "nous": "fatiguions",
+      "vous": "fatiguiez",
+      "ils": "fatiguaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais fatigué",
+      "tu": "avais fatigué",
+      "il": "avait fatigué",
+      "nous": "avions fatigué",
+      "vous": "aviez fatigué",
+      "ils": "avaient fatigué"
+    },
+    "passé_simple": {
+      "je": "fatiguai",
+      "tu": "fatiguas",
+      "il": "fatigua",
+      "nous": "fatiguâmes",
+      "vous": "fatiguâtes",
+      "ils": "fatiguèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus fatigué",
+      "tu": "eus fatigué",
+      "il": "eut fatigué",
+      "nous": "eûmes fatigué",
+      "vous": "eûtes fatigué",
+      "ils": "eurent fatigué"
+    },
+    "futur_simple": {
+      "je": "fatiguerai",
+      "tu": "fatigueras",
+      "il": "fatiguera",
+      "nous": "fatiguerons",
+      "vous": "fatiguerez",
+      "ils": "fatigueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai fatigué",
+      "tu": "auras fatigué",
+      "il": "aura fatigué",
+      "nous": "aurons fatigué",
+      "vous": "aurez fatigué",
+      "ils": "auront fatigué"
+    },
+    "subjonctif_présent": {
+      "je": "fatigue",
+      "tu": "fatigues",
+      "il": "fatigue",
+      "nous": "fatiguions",
+      "vous": "fatiguiez",
+      "ils": "fatiguent"
+    },
+    "subjonctif_passé": {
+      "je": "aie fatigué",
+      "tu": "aies fatigué",
+      "il": "ait fatigué",
+      "nous": "ayons fatigué",
+      "vous": "ayez fatigué",
+      "ils": "aient fatigué"
+    },
+    "subjonctif_imparfait": {
+      "je": "fatiguasse",
+      "tu": "fatiguasses",
+      "il": "fatiguât",
+      "nous": "fatiguassions",
+      "vous": "fatiguassiez",
+      "ils": "fatiguassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse fatigué",
+      "tu": "eusses fatigué",
+      "il": "eût fatigué",
+      "nous": "eussions fatigué",
+      "vous": "eussiez fatigué",
+      "ils": "eussent fatigué"
+    },
+    "conditionnel_présent": {
+      "je": "fatiguerais",
+      "tu": "fatiguerais",
+      "il": "fatiguerait",
+      "nous": "fatiguerions",
+      "vous": "fatigueriez",
+      "ils": "fatigueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais fatigué",
+      "tu": "aurais fatigué",
+      "il": "aurait fatigué",
+      "nous": "aurions fatigué",
+      "vous": "auriez fatigué",
+      "ils": "auraient fatigué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse fatigué",
+      "tu": "eusses fatigué",
+      "il": "eût fatigué",
+      "nous": "eussions fatigué",
+      "vous": "eussiez fatigué",
+      "ils": "eussent fatigué"
+    },
+    "translation": "powodować",
+    "group": 1
+  },
+  {
+    "infinitive": "fauter",
+    "présent": {
+      "je": "faute",
+      "tu": "fautes",
+      "il": "faute",
+      "nous": "fautons",
+      "vous": "fautez",
+      "ils": "fautent"
+    },
+    "passé_composé": {
+      "je": "ai fauté",
+      "tu": "as fauté",
+      "il": "a fauté",
+      "nous": "avons fauté",
+      "vous": "avez fauté",
+      "ils": "ont fauté"
+    },
+    "imparfait": {
+      "je": "fautais",
+      "tu": "fautais",
+      "il": "fautait",
+      "nous": "fautions",
+      "vous": "fautiez",
+      "ils": "fautaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais fauté",
+      "tu": "avais fauté",
+      "il": "avait fauté",
+      "nous": "avions fauté",
+      "vous": "aviez fauté",
+      "ils": "avaient fauté"
+    },
+    "passé_simple": {
+      "je": "fautai",
+      "tu": "fautas",
+      "il": "fauta",
+      "nous": "fautâmes",
+      "vous": "fautâtes",
+      "ils": "fautèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus fauté",
+      "tu": "eus fauté",
+      "il": "eut fauté",
+      "nous": "eûmes fauté",
+      "vous": "eûtes fauté",
+      "ils": "eurent fauté"
+    },
+    "futur_simple": {
+      "je": "fauterai",
+      "tu": "fauteras",
+      "il": "fautera",
+      "nous": "fauterons",
+      "vous": "fauterez",
+      "ils": "fauteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai fauté",
+      "tu": "auras fauté",
+      "il": "aura fauté",
+      "nous": "aurons fauté",
+      "vous": "aurez fauté",
+      "ils": "auront fauté"
+    },
+    "subjonctif_présent": {
+      "je": "faute",
+      "tu": "fautes",
+      "il": "faute",
+      "nous": "fautions",
+      "vous": "fautiez",
+      "ils": "fautent"
+    },
+    "subjonctif_passé": {
+      "je": "aie fauté",
+      "tu": "aies fauté",
+      "il": "ait fauté",
+      "nous": "ayons fauté",
+      "vous": "ayez fauté",
+      "ils": "aient fauté"
+    },
+    "subjonctif_imparfait": {
+      "je": "fautasse",
+      "tu": "fautasses",
+      "il": "fautât",
+      "nous": "fautassions",
+      "vous": "fautassiez",
+      "ils": "fautassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse fauté",
+      "tu": "eusses fauté",
+      "il": "eût fauté",
+      "nous": "eussions fauté",
+      "vous": "eussiez fauté",
+      "ils": "eussent fauté"
+    },
+    "conditionnel_présent": {
+      "je": "fauterais",
+      "tu": "fauterais",
+      "il": "fauterait",
+      "nous": "fauterions",
+      "vous": "fauteriez",
+      "ils": "fauteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais fauté",
+      "tu": "aurais fauté",
+      "il": "aurait fauté",
+      "nous": "aurions fauté",
+      "vous": "auriez fauté",
+      "ils": "auraient fauté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse fauté",
+      "tu": "eusses fauté",
+      "il": "eût fauté",
+      "nous": "eussions fauté",
+      "vous": "eussiez fauté",
+      "ils": "eussent fauté"
+    },
+    "translation": "wichrzyciel",
+    "group": 1
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "associer",
+    "présent": {
+      "je": "associe",
+      "tu": "associes",
+      "il": "associe",
+      "nous": "associons",
+      "vous": "associez",
+      "ils": "associent"
+    },
+    "passé_composé": {
+      "je": "ai associé",
+      "tu": "as associé",
+      "il": "a associé",
+      "nous": "avons associé",
+      "vous": "avez associé",
+      "ils": "ont associé"
+    },
+    "imparfait": {
+      "je": "associais",
+      "tu": "associais",
+      "il": "associait",
+      "nous": "associions",
+      "vous": "associiez",
+      "ils": "associaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais associé",
+      "tu": "avais associé",
+      "il": "avait associé",
+      "nous": "avions associé",
+      "vous": "aviez associé",
+      "ils": "avaient associé"
+    },
+    "passé_simple": {
+      "je": "associai",
+      "tu": "associas",
+      "il": "associa",
+      "nous": "associâmes",
+      "vous": "associâtes",
+      "ils": "associèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus associé",
+      "tu": "eus associé",
+      "il": "eut associé",
+      "nous": "eûmes associé",
+      "vous": "eûtes associé",
+      "ils": "eurent associé"
+    },
+    "futur_simple": {
+      "je": "associerai",
+      "tu": "associeras",
+      "il": "associera",
+      "nous": "associerons",
+      "vous": "associerez",
+      "ils": "associeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai associé",
+      "tu": "auras associé",
+      "il": "aura associé",
+      "nous": "aurons associé",
+      "vous": "aurez associé",
+      "ils": "auront associé"
+    },
+    "subjonctif_présent": {
+      "je": "associe",
+      "tu": "associes",
+      "il": "associe",
+      "nous": "associions",
+      "vous": "associiez",
+      "ils": "associent"
+    },
+    "subjonctif_passé": {
+      "je": "aie associé",
+      "tu": "aies associé",
+      "il": "ait associé",
+      "nous": "ayons associé",
+      "vous": "ayez associé",
+      "ils": "aient associé"
+    },
+    "subjonctif_imparfait": {
+      "je": "associasse",
+      "tu": "associasses",
+      "il": "associât",
+      "nous": "associassions",
+      "vous": "associassiez",
+      "ils": "associassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse associé",
+      "tu": "eusses associé",
+      "il": "eût associé",
+      "nous": "eussions associé",
+      "vous": "eussiez associé",
+      "ils": "eussent associé"
+    },
+    "conditionnel_présent": {
+      "je": "associerais",
+      "tu": "associerais",
+      "il": "associerait",
+      "nous": "associerions",
+      "vous": "associeriez",
+      "ils": "associeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais associé",
+      "tu": "aurais associé",
+      "il": "aurait associé",
+      "nous": "aurions associé",
+      "vous": "auriez associé",
+      "ils": "auraient associé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse associé",
+      "tu": "eusses associé",
+      "il": "eût associé",
+      "nous": "eussions associé",
+      "vous": "eussiez associé",
+      "ils": "eussent associé"
+    },
+    "translation": "łączyć",
+    "group": 1
+  },
+  {
+    "infinitive": "assombrir",
+    "présent": {
+      "je": "assombris",
+      "tu": "assombris",
+      "il": "assombrit",
+      "nous": "assombrissons",
+      "vous": "assombrissez",
+      "ils": "assombrissent"
+    },
+    "passé_composé": {
+      "je": "ai assombri",
+      "tu": "as assombri",
+      "il": "a assombri",
+      "nous": "avons assombri",
+      "vous": "avez assombri",
+      "ils": "ont assombri"
+    },
+    "imparfait": {
+      "je": "assombrissais",
+      "tu": "assombrissais",
+      "il": "assombrissait",
+      "nous": "assombrissions",
+      "vous": "assombrissiez",
+      "ils": "assombrissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais assombri",
+      "tu": "avais assombri",
+      "il": "avait assombri",
+      "nous": "avions assombri",
+      "vous": "aviez assombri",
+      "ils": "avaient assombri"
+    },
+    "passé_simple": {
+      "je": "assombris",
+      "tu": "assombris",
+      "il": "assombrit",
+      "nous": "assombrîmes",
+      "vous": "assombrîtes",
+      "ils": "assombrirent"
+    },
+    "passé_antérieur": {
+      "je": "eus assombri",
+      "tu": "eus assombri",
+      "il": "eut assombri",
+      "nous": "eûmes assombri",
+      "vous": "eûtes assombri",
+      "ils": "eurent assombri"
+    },
+    "futur_simple": {
+      "je": "assombrirai",
+      "tu": "assombriras",
+      "il": "assombrira",
+      "nous": "assombrirons",
+      "vous": "assombrirez",
+      "ils": "assombriront"
+    },
+    "futur_antérieur": {
+      "je": "aurai assombri",
+      "tu": "auras assombri",
+      "il": "aura assombri",
+      "nous": "aurons assombri",
+      "vous": "aurez assombri",
+      "ils": "auront assombri"
+    },
+    "subjonctif_présent": {
+      "je": "assombrisse",
+      "tu": "assombrisses",
+      "il": "assombrisse",
+      "nous": "assombrissions",
+      "vous": "assombrissiez",
+      "ils": "assombrissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie assombri",
+      "tu": "aies assombri",
+      "il": "ait assombri",
+      "nous": "ayons assombri",
+      "vous": "ayez assombri",
+      "ils": "aient assombri"
+    },
+    "subjonctif_imparfait": {
+      "je": "assombrisse",
+      "tu": "assombrisses",
+      "il": "assombrît",
+      "nous": "assombrissions",
+      "vous": "assombrissiez",
+      "ils": "assombrissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse assombri",
+      "tu": "eusses assombri",
+      "il": "eût assombri",
+      "nous": "eussions assombri",
+      "vous": "eussiez assombri",
+      "ils": "eussent assombri"
+    },
+    "conditionnel_présent": {
+      "je": "assombrirais",
+      "tu": "assombrirais",
+      "il": "assombrirait",
+      "nous": "assombririons",
+      "vous": "assombririez",
+      "ils": "assombriraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais assombri",
+      "tu": "aurais assombri",
+      "il": "aurait assombri",
+      "nous": "aurions assombri",
+      "vous": "auriez assombri",
+      "ils": "auraient assombri"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse assombri",
+      "tu": "eusses assombri",
+      "il": "eût assombri",
+      "nous": "eussions assombri",
+      "vous": "eussiez assombri",
+      "ils": "eussent assombri"
+    },
+    "translation": "zaciemniać",
+    "group": 2
+  },
+  {
+    "infinitive": "assommer",
+    "présent": {
+      "je": "assomme",
+      "tu": "assommes",
+      "il": "assomme",
+      "nous": "assommons",
+      "vous": "assommez",
+      "ils": "assomment"
+    },
+    "passé_composé": {
+      "je": "ai assommé",
+      "tu": "as assommé",
+      "il": "a assommé",
+      "nous": "avons assommé",
+      "vous": "avez assommé",
+      "ils": "ont assommé"
+    },
+    "imparfait": {
+      "je": "assommais",
+      "tu": "assommais",
+      "il": "assommait",
+      "nous": "assommions",
+      "vous": "assommiez",
+      "ils": "assommaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais assommé",
+      "tu": "avais assommé",
+      "il": "avait assommé",
+      "nous": "avions assommé",
+      "vous": "aviez assommé",
+      "ils": "avaient assommé"
+    },
+    "passé_simple": {
+      "je": "assommai",
+      "tu": "assommas",
+      "il": "assomma",
+      "nous": "assommâmes",
+      "vous": "assommâtes",
+      "ils": "assommèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus assommé",
+      "tu": "eus assommé",
+      "il": "eut assommé",
+      "nous": "eûmes assommé",
+      "vous": "eûtes assommé",
+      "ils": "eurent assommé"
+    },
+    "futur_simple": {
+      "je": "assommerai",
+      "tu": "assommeras",
+      "il": "assommera",
+      "nous": "assommerons",
+      "vous": "assommerez",
+      "ils": "assommeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai assommé",
+      "tu": "auras assommé",
+      "il": "aura assommé",
+      "nous": "aurons assommé",
+      "vous": "aurez assommé",
+      "ils": "auront assommé"
+    },
+    "subjonctif_présent": {
+      "je": "assomme",
+      "tu": "assommes",
+      "il": "assomme",
+      "nous": "assommions",
+      "vous": "assommiez",
+      "ils": "assomment"
+    },
+    "subjonctif_passé": {
+      "je": "aie assommé",
+      "tu": "aies assommé",
+      "il": "ait assommé",
+      "nous": "ayons assommé",
+      "vous": "ayez assommé",
+      "ils": "aient assommé"
+    },
+    "subjonctif_imparfait": {
+      "je": "assommasse",
+      "tu": "assommasses",
+      "il": "assommât",
+      "nous": "assommassions",
+      "vous": "assommassiez",
+      "ils": "assommassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse assommé",
+      "tu": "eusses assommé",
+      "il": "eût assommé",
+      "nous": "eussions assommé",
+      "vous": "eussiez assommé",
+      "ils": "eussent assommé"
+    },
+    "conditionnel_présent": {
+      "je": "assommerais",
+      "tu": "assommerais",
+      "il": "assommerait",
+      "nous": "assommerions",
+      "vous": "assommeriez",
+      "ils": "assommeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais assommé",
+      "tu": "aurais assommé",
+      "il": "aurait assommé",
+      "nous": "aurions assommé",
+      "vous": "auriez assommé",
+      "ils": "auraient assommé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse assommé",
+      "tu": "eusses assommé",
+      "il": "eût assommé",
+      "nous": "eussions assommé",
+      "vous": "eussiez assommé",
+      "ils": "eussent assommé"
+    },
+    "translation": "ubić",
+    "group": 1
+  },
+  {
+    "infinitive": "assortir",
+    "présent": {
+      "je": "assortis",
+      "tu": "assortis",
+      "il": "assortit",
+      "nous": "assortissons",
+      "vous": "assortissez",
+      "ils": "assortissent"
+    },
+    "passé_composé": {
+      "je": "ai assorti",
+      "tu": "as assorti",
+      "il": "a assorti",
+      "nous": "avons assorti",
+      "vous": "avez assorti",
+      "ils": "ont assorti"
+    },
+    "imparfait": {
+      "je": "assortissais",
+      "tu": "assortissais",
+      "il": "assortissait",
+      "nous": "assortissions",
+      "vous": "assortissiez",
+      "ils": "assortissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais assorti",
+      "tu": "avais assorti",
+      "il": "avait assorti",
+      "nous": "avions assorti",
+      "vous": "aviez assorti",
+      "ils": "avaient assorti"
+    },
+    "passé_simple": {
+      "je": "assortis",
+      "tu": "assortis",
+      "il": "assortit",
+      "nous": "assortîmes",
+      "vous": "assortîtes",
+      "ils": "assortirent"
+    },
+    "passé_antérieur": {
+      "je": "eus assorti",
+      "tu": "eus assorti",
+      "il": "eut assorti",
+      "nous": "eûmes assorti",
+      "vous": "eûtes assorti",
+      "ils": "eurent assorti"
+    },
+    "futur_simple": {
+      "je": "assortirai",
+      "tu": "assortiras",
+      "il": "assortira",
+      "nous": "assortirons",
+      "vous": "assortirez",
+      "ils": "assortiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai assorti",
+      "tu": "auras assorti",
+      "il": "aura assorti",
+      "nous": "aurons assorti",
+      "vous": "aurez assorti",
+      "ils": "auront assorti"
+    },
+    "subjonctif_présent": {
+      "je": "assortisse",
+      "tu": "assortisses",
+      "il": "assortisse",
+      "nous": "assortissions",
+      "vous": "assortissiez",
+      "ils": "assortissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie assorti",
+      "tu": "aies assorti",
+      "il": "ait assorti",
+      "nous": "ayons assorti",
+      "vous": "ayez assorti",
+      "ils": "aient assorti"
+    },
+    "subjonctif_imparfait": {
+      "je": "assortisse",
+      "tu": "assortisses",
+      "il": "assortît",
+      "nous": "assortissions",
+      "vous": "assortissiez",
+      "ils": "assortissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse assorti",
+      "tu": "eusses assorti",
+      "il": "eût assorti",
+      "nous": "eussions assorti",
+      "vous": "eussiez assorti",
+      "ils": "eussent assorti"
+    },
+    "conditionnel_présent": {
+      "je": "assortirais",
+      "tu": "assortirais",
+      "il": "assortirait",
+      "nous": "assortirions",
+      "vous": "assortiriez",
+      "ils": "assortiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais assorti",
+      "tu": "aurais assorti",
+      "il": "aurait assorti",
+      "nous": "aurions assorti",
+      "vous": "auriez assorti",
+      "ils": "auraient assorti"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse assorti",
+      "tu": "eusses assorti",
+      "il": "eût assorti",
+      "nous": "eussions assorti",
+      "vous": "eussiez assorti",
+      "ils": "eussent assorti"
+    },
+    "translation": "dobierać",
+    "group": 2
+  },
+  {
+    "infinitive": "assoupir",
+    "présent": {
+      "je": "assoupis",
+      "tu": "assoupis",
+      "il": "assoupit",
+      "nous": "assoupissons",
+      "vous": "assoupissez",
+      "ils": "assoupissent"
+    },
+    "passé_composé": {
+      "je": "ai assoupi",
+      "tu": "as assoupi",
+      "il": "a assoupi",
+      "nous": "avons assoupi",
+      "vous": "avez assoupi",
+      "ils": "ont assoupi"
+    },
+    "imparfait": {
+      "je": "assoupissais",
+      "tu": "assoupissais",
+      "il": "assoupissait",
+      "nous": "assoupissions",
+      "vous": "assoupissiez",
+      "ils": "assoupissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais assoupi",
+      "tu": "avais assoupi",
+      "il": "avait assoupi",
+      "nous": "avions assoupi",
+      "vous": "aviez assoupi",
+      "ils": "avaient assoupi"
+    },
+    "passé_simple": {
+      "je": "assoupis",
+      "tu": "assoupis",
+      "il": "assoupit",
+      "nous": "assoupîmes",
+      "vous": "assoupîtes",
+      "ils": "assoupirent"
+    },
+    "passé_antérieur": {
+      "je": "eus assoupi",
+      "tu": "eus assoupi",
+      "il": "eut assoupi",
+      "nous": "eûmes assoupi",
+      "vous": "eûtes assoupi",
+      "ils": "eurent assoupi"
+    },
+    "futur_simple": {
+      "je": "assoupirai",
+      "tu": "assoupiras",
+      "il": "assoupira",
+      "nous": "assoupirons",
+      "vous": "assoupirez",
+      "ils": "assoupiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai assoupi",
+      "tu": "auras assoupi",
+      "il": "aura assoupi",
+      "nous": "aurons assoupi",
+      "vous": "aurez assoupi",
+      "ils": "auront assoupi"
+    },
+    "subjonctif_présent": {
+      "je": "assoupisse",
+      "tu": "assoupisses",
+      "il": "assoupisse",
+      "nous": "assoupissions",
+      "vous": "assoupissiez",
+      "ils": "assoupissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie assoupi",
+      "tu": "aies assoupi",
+      "il": "ait assoupi",
+      "nous": "ayons assoupi",
+      "vous": "ayez assoupi",
+      "ils": "aient assoupi"
+    },
+    "subjonctif_imparfait": {
+      "je": "assoupisse",
+      "tu": "assoupisses",
+      "il": "assoupît",
+      "nous": "assoupissions",
+      "vous": "assoupissiez",
+      "ils": "assoupissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse assoupi",
+      "tu": "eusses assoupi",
+      "il": "eût assoupi",
+      "nous": "eussions assoupi",
+      "vous": "eussiez assoupi",
+      "ils": "eussent assoupi"
+    },
+    "conditionnel_présent": {
+      "je": "assoupirais",
+      "tu": "assoupirais",
+      "il": "assoupirait",
+      "nous": "assoupirions",
+      "vous": "assoupiriez",
+      "ils": "assoupiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais assoupi",
+      "tu": "aurais assoupi",
+      "il": "aurait assoupi",
+      "nous": "aurions assoupi",
+      "vous": "auriez assoupi",
+      "ils": "auraient assoupi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse assoupi",
+      "tu": "eusses assoupi",
+      "il": "eût assoupi",
+      "nous": "eussions assoupi",
+      "vous": "eussiez assoupi",
+      "ils": "eussent assoupi"
+    },
+    "translation": "usypiać",
+    "group": 2
+  },
+  {
+    "infinitive": "assouplir",
+    "présent": {
+      "je": "assouplis",
+      "tu": "assouplis",
+      "il": "assouplit",
+      "nous": "assouplissons",
+      "vous": "assouplissez",
+      "ils": "assouplissent"
+    },
+    "passé_composé": {
+      "je": "ai assoupli",
+      "tu": "as assoupli",
+      "il": "a assoupli",
+      "nous": "avons assoupli",
+      "vous": "avez assoupli",
+      "ils": "ont assoupli"
+    },
+    "imparfait": {
+      "je": "assouplissais",
+      "tu": "assouplissais",
+      "il": "assouplissait",
+      "nous": "assouplissions",
+      "vous": "assouplissiez",
+      "ils": "assouplissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais assoupli",
+      "tu": "avais assoupli",
+      "il": "avait assoupli",
+      "nous": "avions assoupli",
+      "vous": "aviez assoupli",
+      "ils": "avaient assoupli"
+    },
+    "passé_simple": {
+      "je": "assouplis",
+      "tu": "assouplis",
+      "il": "assouplit",
+      "nous": "assouplîmes",
+      "vous": "assouplîtes",
+      "ils": "assouplirent"
+    },
+    "passé_antérieur": {
+      "je": "eus assoupli",
+      "tu": "eus assoupli",
+      "il": "eut assoupli",
+      "nous": "eûmes assoupli",
+      "vous": "eûtes assoupli",
+      "ils": "eurent assoupli"
+    },
+    "futur_simple": {
+      "je": "assouplirai",
+      "tu": "assoupliras",
+      "il": "assouplira",
+      "nous": "assouplirons",
+      "vous": "assouplirez",
+      "ils": "assoupliront"
+    },
+    "futur_antérieur": {
+      "je": "aurai assoupli",
+      "tu": "auras assoupli",
+      "il": "aura assoupli",
+      "nous": "aurons assoupli",
+      "vous": "aurez assoupli",
+      "ils": "auront assoupli"
+    },
+    "subjonctif_présent": {
+      "je": "assouplisse",
+      "tu": "assouplisses",
+      "il": "assouplisse",
+      "nous": "assouplissions",
+      "vous": "assouplissiez",
+      "ils": "assouplissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie assoupli",
+      "tu": "aies assoupli",
+      "il": "ait assoupli",
+      "nous": "ayons assoupli",
+      "vous": "ayez assoupli",
+      "ils": "aient assoupli"
+    },
+    "subjonctif_imparfait": {
+      "je": "assouplisse",
+      "tu": "assouplisses",
+      "il": "assouplît",
+      "nous": "assouplissions",
+      "vous": "assouplissiez",
+      "ils": "assouplissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse assoupli",
+      "tu": "eusses assoupli",
+      "il": "eût assoupli",
+      "nous": "eussions assoupli",
+      "vous": "eussiez assoupli",
+      "ils": "eussent assoupli"
+    },
+    "conditionnel_présent": {
+      "je": "assouplirais",
+      "tu": "assouplirais",
+      "il": "assouplirait",
+      "nous": "assouplirions",
+      "vous": "assoupliriez",
+      "ils": "assoupliraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais assoupli",
+      "tu": "aurais assoupli",
+      "il": "aurait assoupli",
+      "nous": "aurions assoupli",
+      "vous": "auriez assoupli",
+      "ils": "auraient assoupli"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse assoupli",
+      "tu": "eusses assoupli",
+      "il": "eût assoupli",
+      "nous": "eussions assoupli",
+      "vous": "eussiez assoupli",
+      "ils": "eussent assoupli"
+    },
+    "translation": "zmiękczać",
+    "group": 2
+  },
+  {
+    "infinitive": "assouvir",
+    "présent": {
+      "je": "assouvis",
+      "tu": "assouvis",
+      "il": "assouvit",
+      "nous": "assouvissons",
+      "vous": "assouvissez",
+      "ils": "assouvissent"
+    },
+    "passé_composé": {
+      "je": "ai assouvi",
+      "tu": "as assouvi",
+      "il": "a assouvi",
+      "nous": "avons assouvi",
+      "vous": "avez assouvi",
+      "ils": "ont assouvi"
+    },
+    "imparfait": {
+      "je": "assouvissais",
+      "tu": "assouvissais",
+      "il": "assouvissait",
+      "nous": "assouvissions",
+      "vous": "assouvissiez",
+      "ils": "assouvissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais assouvi",
+      "tu": "avais assouvi",
+      "il": "avait assouvi",
+      "nous": "avions assouvi",
+      "vous": "aviez assouvi",
+      "ils": "avaient assouvi"
+    },
+    "passé_simple": {
+      "je": "assouvis",
+      "tu": "assouvis",
+      "il": "assouvit",
+      "nous": "assouvîmes",
+      "vous": "assouvîtes",
+      "ils": "assouvirent"
+    },
+    "passé_antérieur": {
+      "je": "eus assouvi",
+      "tu": "eus assouvi",
+      "il": "eut assouvi",
+      "nous": "eûmes assouvi",
+      "vous": "eûtes assouvi",
+      "ils": "eurent assouvi"
+    },
+    "futur_simple": {
+      "je": "assouvirai",
+      "tu": "assouviras",
+      "il": "assouvira",
+      "nous": "assouvirons",
+      "vous": "assouvirez",
+      "ils": "assouviront"
+    },
+    "futur_antérieur": {
+      "je": "aurai assouvi",
+      "tu": "auras assouvi",
+      "il": "aura assouvi",
+      "nous": "aurons assouvi",
+      "vous": "aurez assouvi",
+      "ils": "auront assouvi"
+    },
+    "subjonctif_présent": {
+      "je": "assouvisse",
+      "tu": "assouvisses",
+      "il": "assouvisse",
+      "nous": "assouvissions",
+      "vous": "assouvissiez",
+      "ils": "assouvissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie assouvi",
+      "tu": "aies assouvi",
+      "il": "ait assouvi",
+      "nous": "ayons assouvi",
+      "vous": "ayez assouvi",
+      "ils": "aient assouvi"
+    },
+    "subjonctif_imparfait": {
+      "je": "assouvisse",
+      "tu": "assouvisses",
+      "il": "assouvît",
+      "nous": "assouvissions",
+      "vous": "assouvissiez",
+      "ils": "assouvissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse assouvi",
+      "tu": "eusses assouvi",
+      "il": "eût assouvi",
+      "nous": "eussions assouvi",
+      "vous": "eussiez assouvi",
+      "ils": "eussent assouvi"
+    },
+    "conditionnel_présent": {
+      "je": "assouvirais",
+      "tu": "assouvirais",
+      "il": "assouvirait",
+      "nous": "assouvirions",
+      "vous": "assouviriez",
+      "ils": "assouviraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais assouvi",
+      "tu": "aurais assouvi",
+      "il": "aurait assouvi",
+      "nous": "aurions assouvi",
+      "vous": "auriez assouvi",
+      "ils": "auraient assouvi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse assouvi",
+      "tu": "eusses assouvi",
+      "il": "eût assouvi",
+      "nous": "eussions assouvi",
+      "vous": "eussiez assouvi",
+      "ils": "eussent assouvi"
+    },
+    "translation": "assouvir",
+    "group": 2
+  },
+  {
+    "infinitive": "assujettir",
+    "présent": {
+      "je": "assujettis",
+      "tu": "assujettis",
+      "il": "assujettit",
+      "nous": "assujettissons",
+      "vous": "assujettissez",
+      "ils": "assujettissent"
+    },
+    "passé_composé": {
+      "je": "ai assujetti",
+      "tu": "as assujetti",
+      "il": "a assujetti",
+      "nous": "avons assujetti",
+      "vous": "avez assujetti",
+      "ils": "ont assujetti"
+    },
+    "imparfait": {
+      "je": "assujettissais",
+      "tu": "assujettissais",
+      "il": "assujettissait",
+      "nous": "assujettissions",
+      "vous": "assujettissiez",
+      "ils": "assujettissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais assujetti",
+      "tu": "avais assujetti",
+      "il": "avait assujetti",
+      "nous": "avions assujetti",
+      "vous": "aviez assujetti",
+      "ils": "avaient assujetti"
+    },
+    "passé_simple": {
+      "je": "assujettis",
+      "tu": "assujettis",
+      "il": "assujettit",
+      "nous": "assujettîmes",
+      "vous": "assujettîtes",
+      "ils": "assujettirent"
+    },
+    "passé_antérieur": {
+      "je": "eus assujetti",
+      "tu": "eus assujetti",
+      "il": "eut assujetti",
+      "nous": "eûmes assujetti",
+      "vous": "eûtes assujetti",
+      "ils": "eurent assujetti"
+    },
+    "futur_simple": {
+      "je": "assujettirai",
+      "tu": "assujettiras",
+      "il": "assujettira",
+      "nous": "assujettirons",
+      "vous": "assujettirez",
+      "ils": "assujettiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai assujetti",
+      "tu": "auras assujetti",
+      "il": "aura assujetti",
+      "nous": "aurons assujetti",
+      "vous": "aurez assujetti",
+      "ils": "auront assujetti"
+    },
+    "subjonctif_présent": {
+      "je": "assujettisse",
+      "tu": "assujettisses",
+      "il": "assujettisse",
+      "nous": "assujettissions",
+      "vous": "assujettissiez",
+      "ils": "assujettissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie assujetti",
+      "tu": "aies assujetti",
+      "il": "ait assujetti",
+      "nous": "ayons assujetti",
+      "vous": "ayez assujetti",
+      "ils": "aient assujetti"
+    },
+    "subjonctif_imparfait": {
+      "je": "assujettisse",
+      "tu": "assujettisses",
+      "il": "assujettît",
+      "nous": "assujettissions",
+      "vous": "assujettissiez",
+      "ils": "assujettissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse assujetti",
+      "tu": "eusses assujetti",
+      "il": "eût assujetti",
+      "nous": "eussions assujetti",
+      "vous": "eussiez assujetti",
+      "ils": "eussent assujetti"
+    },
+    "conditionnel_présent": {
+      "je": "assujettirais",
+      "tu": "assujettirais",
+      "il": "assujettirait",
+      "nous": "assujettirions",
+      "vous": "assujettiriez",
+      "ils": "assujettiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais assujetti",
+      "tu": "aurais assujetti",
+      "il": "aurait assujetti",
+      "nous": "aurions assujetti",
+      "vous": "auriez assujetti",
+      "ils": "auraient assujetti"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse assujetti",
+      "tu": "eusses assujetti",
+      "il": "eût assujetti",
+      "nous": "eussions assujetti",
+      "vous": "eussiez assujetti",
+      "ils": "eussent assujetti"
+    },
+    "translation": "assujettir",
+    "group": 2
+  },
+  {
+    "infinitive": "assumer",
+    "présent": {
+      "je": "assume",
+      "tu": "assumes",
+      "il": "assume",
+      "nous": "assumons",
+      "vous": "assumez",
+      "ils": "assument"
+    },
+    "passé_composé": {
+      "je": "ai assumé",
+      "tu": "as assumé",
+      "il": "a assumé",
+      "nous": "avons assumé",
+      "vous": "avez assumé",
+      "ils": "ont assumé"
+    },
+    "imparfait": {
+      "je": "assumais",
+      "tu": "assumais",
+      "il": "assumait",
+      "nous": "assumions",
+      "vous": "assumiez",
+      "ils": "assumaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais assumé",
+      "tu": "avais assumé",
+      "il": "avait assumé",
+      "nous": "avions assumé",
+      "vous": "aviez assumé",
+      "ils": "avaient assumé"
+    },
+    "passé_simple": {
+      "je": "assumai",
+      "tu": "assumas",
+      "il": "assuma",
+      "nous": "assumâmes",
+      "vous": "assumâtes",
+      "ils": "assumèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus assumé",
+      "tu": "eus assumé",
+      "il": "eut assumé",
+      "nous": "eûmes assumé",
+      "vous": "eûtes assumé",
+      "ils": "eurent assumé"
+    },
+    "futur_simple": {
+      "je": "assumerai",
+      "tu": "assumeras",
+      "il": "assumera",
+      "nous": "assumerons",
+      "vous": "assumerez",
+      "ils": "assumeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai assumé",
+      "tu": "auras assumé",
+      "il": "aura assumé",
+      "nous": "aurons assumé",
+      "vous": "aurez assumé",
+      "ils": "auront assumé"
+    },
+    "subjonctif_présent": {
+      "je": "assume",
+      "tu": "assumes",
+      "il": "assume",
+      "nous": "assumions",
+      "vous": "assumiez",
+      "ils": "assument"
+    },
+    "subjonctif_passé": {
+      "je": "aie assumé",
+      "tu": "aies assumé",
+      "il": "ait assumé",
+      "nous": "ayons assumé",
+      "vous": "ayez assumé",
+      "ils": "aient assumé"
+    },
+    "subjonctif_imparfait": {
+      "je": "assumasse",
+      "tu": "assumasses",
+      "il": "assumât",
+      "nous": "assumassions",
+      "vous": "assumassiez",
+      "ils": "assumassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse assumé",
+      "tu": "eusses assumé",
+      "il": "eût assumé",
+      "nous": "eussions assumé",
+      "vous": "eussiez assumé",
+      "ils": "eussent assumé"
+    },
+    "conditionnel_présent": {
+      "je": "assumerais",
+      "tu": "assumerais",
+      "il": "assumerait",
+      "nous": "assumerions",
+      "vous": "assumeriez",
+      "ils": "assumeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais assumé",
+      "tu": "aurais assumé",
+      "il": "aurait assumé",
+      "nous": "aurions assumé",
+      "vous": "auriez assumé",
+      "ils": "auraient assumé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse assumé",
+      "tu": "eusses assumé",
+      "il": "eût assumé",
+      "nous": "eussions assumé",
+      "vous": "eussiez assumé",
+      "ils": "eussent assumé"
+    },
+    "translation": "podejmować",
+    "group": 1
+  },
+  {
+    "infinitive": "assurer",
+    "présent": {
+      "je": "assure",
+      "tu": "assures",
+      "il": "assure",
+      "nous": "assurons",
+      "vous": "assurez",
+      "ils": "assurent"
+    },
+    "passé_composé": {
+      "je": "ai assuré",
+      "tu": "as assuré",
+      "il": "a assuré",
+      "nous": "avons assuré",
+      "vous": "avez assuré",
+      "ils": "ont assuré"
+    },
+    "imparfait": {
+      "je": "assurais",
+      "tu": "assurais",
+      "il": "assurait",
+      "nous": "assurions",
+      "vous": "assuriez",
+      "ils": "assuraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais assuré",
+      "tu": "avais assuré",
+      "il": "avait assuré",
+      "nous": "avions assuré",
+      "vous": "aviez assuré",
+      "ils": "avaient assuré"
+    },
+    "passé_simple": {
+      "je": "assurai",
+      "tu": "assuras",
+      "il": "assura",
+      "nous": "assurâmes",
+      "vous": "assurâtes",
+      "ils": "assurèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus assuré",
+      "tu": "eus assuré",
+      "il": "eut assuré",
+      "nous": "eûmes assuré",
+      "vous": "eûtes assuré",
+      "ils": "eurent assuré"
+    },
+    "futur_simple": {
+      "je": "assurerai",
+      "tu": "assureras",
+      "il": "assurera",
+      "nous": "assurerons",
+      "vous": "assurerez",
+      "ils": "assureront"
+    },
+    "futur_antérieur": {
+      "je": "aurai assuré",
+      "tu": "auras assuré",
+      "il": "aura assuré",
+      "nous": "aurons assuré",
+      "vous": "aurez assuré",
+      "ils": "auront assuré"
+    },
+    "subjonctif_présent": {
+      "je": "assure",
+      "tu": "assures",
+      "il": "assure",
+      "nous": "assurions",
+      "vous": "assuriez",
+      "ils": "assurent"
+    },
+    "subjonctif_passé": {
+      "je": "aie assuré",
+      "tu": "aies assuré",
+      "il": "ait assuré",
+      "nous": "ayons assuré",
+      "vous": "ayez assuré",
+      "ils": "aient assuré"
+    },
+    "subjonctif_imparfait": {
+      "je": "assurasse",
+      "tu": "assurasses",
+      "il": "assurât",
+      "nous": "assurassions",
+      "vous": "assurassiez",
+      "ils": "assurassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse assuré",
+      "tu": "eusses assuré",
+      "il": "eût assuré",
+      "nous": "eussions assuré",
+      "vous": "eussiez assuré",
+      "ils": "eussent assuré"
+    },
+    "conditionnel_présent": {
+      "je": "assurerais",
+      "tu": "assurerais",
+      "il": "assurerait",
+      "nous": "assurerions",
+      "vous": "assureriez",
+      "ils": "assureraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais assuré",
+      "tu": "aurais assuré",
+      "il": "aurait assuré",
+      "nous": "aurions assuré",
+      "vous": "auriez assuré",
+      "ils": "auraient assuré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse assuré",
+      "tu": "eusses assuré",
+      "il": "eût assuré",
+      "nous": "eussions assuré",
+      "vous": "eussiez assuré",
+      "ils": "eussent assuré"
+    },
+    "translation": "zapewniać",
+    "group": 1
+  }
+]

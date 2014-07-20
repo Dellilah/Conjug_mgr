@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "saigner",
+    "présent": {
+      "je": "saigne",
+      "tu": "saignes",
+      "il": "saigne",
+      "nous": "saignons",
+      "vous": "saignez",
+      "ils": "saignent"
+    },
+    "passé_composé": {
+      "je": "ai saigné",
+      "tu": "as saigné",
+      "il": "a saigné",
+      "nous": "avons saigné",
+      "vous": "avez saigné",
+      "ils": "ont saigné"
+    },
+    "imparfait": {
+      "je": "saignais",
+      "tu": "saignais",
+      "il": "saignait",
+      "nous": "saignions",
+      "vous": "saigniez",
+      "ils": "saignaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais saigné",
+      "tu": "avais saigné",
+      "il": "avait saigné",
+      "nous": "avions saigné",
+      "vous": "aviez saigné",
+      "ils": "avaient saigné"
+    },
+    "passé_simple": {
+      "je": "saignai",
+      "tu": "saignas",
+      "il": "saigna",
+      "nous": "saignâmes",
+      "vous": "saignâtes",
+      "ils": "saignèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus saigné",
+      "tu": "eus saigné",
+      "il": "eut saigné",
+      "nous": "eûmes saigné",
+      "vous": "eûtes saigné",
+      "ils": "eurent saigné"
+    },
+    "futur_simple": {
+      "je": "saignerai",
+      "tu": "saigneras",
+      "il": "saignera",
+      "nous": "saignerons",
+      "vous": "saignerez",
+      "ils": "saigneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai saigné",
+      "tu": "auras saigné",
+      "il": "aura saigné",
+      "nous": "aurons saigné",
+      "vous": "aurez saigné",
+      "ils": "auront saigné"
+    },
+    "subjonctif_présent": {
+      "je": "saigne",
+      "tu": "saignes",
+      "il": "saigne",
+      "nous": "saignions",
+      "vous": "saigniez",
+      "ils": "saignent"
+    },
+    "subjonctif_passé": {
+      "je": "aie saigné",
+      "tu": "aies saigné",
+      "il": "ait saigné",
+      "nous": "ayons saigné",
+      "vous": "ayez saigné",
+      "ils": "aient saigné"
+    },
+    "subjonctif_imparfait": {
+      "je": "saignasse",
+      "tu": "saignasses",
+      "il": "saignât",
+      "nous": "saignassions",
+      "vous": "saignassiez",
+      "ils": "saignassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse saigné",
+      "tu": "eusses saigné",
+      "il": "eût saigné",
+      "nous": "eussions saigné",
+      "vous": "eussiez saigné",
+      "ils": "eussent saigné"
+    },
+    "conditionnel_présent": {
+      "je": "saignerais",
+      "tu": "saignerais",
+      "il": "saignerait",
+      "nous": "saignerions",
+      "vous": "saigneriez",
+      "ils": "saigneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais saigné",
+      "tu": "aurais saigné",
+      "il": "aurait saigné",
+      "nous": "aurions saigné",
+      "vous": "auriez saigné",
+      "ils": "auraient saigné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse saigné",
+      "tu": "eusses saigné",
+      "il": "eût saigné",
+      "nous": "eussions saigné",
+      "vous": "eussiez saigné",
+      "ils": "eussent saigné"
+    },
+    "translation": "krwawić",
+    "group": 1
+  },
+  {
+    "infinitive": "saillir",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "saille",
+      "nous": "-",
+      "vous": "-",
+      "ils": "saillent"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "a sailli",
+      "nous": "-",
+      "vous": "-",
+      "ils": "ont sailli"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "saillait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "saillaient"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "avait sailli",
+      "nous": "-",
+      "vous": "-",
+      "ils": "avaient sailli"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "saillit",
+      "nous": "-",
+      "vous": "-",
+      "ils": "saillirent"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "eut sailli",
+      "nous": "-",
+      "vous": "-",
+      "ils": "eurent sailli"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "saillera",
+      "nous": "-",
+      "vous": "-",
+      "ils": "sailleront"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "aura sailli",
+      "nous": "-",
+      "vous": "-",
+      "ils": "auront sailli"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "saille",
+      "nous": "-",
+      "vous": "-",
+      "ils": "saillent"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "ait sailli",
+      "nous": "-",
+      "vous": "-",
+      "ils": "aient sailli"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "saillît",
+      "nous": "-",
+      "vous": "-",
+      "ils": "saillissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "eût sailli",
+      "nous": "-",
+      "vous": "-",
+      "ils": "eussent sailli"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "saillirait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "sailliraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "aurait sailli",
+      "nous": "-",
+      "vous": "-",
+      "ils": "auraient sailli"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "eût sailli",
+      "nous": "-",
+      "vous": "-",
+      "ils": "eussent sailli"
+    },
+    "translation": "saillir",
+    "group": 3
+  },
+  {
+    "infinitive": "saisir",
+    "présent": {
+      "je": "saisis",
+      "tu": "saisis",
+      "il": "saisit",
+      "nous": "saisissons",
+      "vous": "saisissez",
+      "ils": "saisissent"
+    },
+    "passé_composé": {
+      "je": "ai saisi",
+      "tu": "as saisi",
+      "il": "a saisi",
+      "nous": "avons saisi",
+      "vous": "avez saisi",
+      "ils": "ont saisi"
+    },
+    "imparfait": {
+      "je": "saisissais",
+      "tu": "saisissais",
+      "il": "saisissait",
+      "nous": "saisissions",
+      "vous": "saisissiez",
+      "ils": "saisissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais saisi",
+      "tu": "avais saisi",
+      "il": "avait saisi",
+      "nous": "avions saisi",
+      "vous": "aviez saisi",
+      "ils": "avaient saisi"
+    },
+    "passé_simple": {
+      "je": "saisis",
+      "tu": "saisis",
+      "il": "saisit",
+      "nous": "saisîmes",
+      "vous": "saisîtes",
+      "ils": "saisirent"
+    },
+    "passé_antérieur": {
+      "je": "eus saisi",
+      "tu": "eus saisi",
+      "il": "eut saisi",
+      "nous": "eûmes saisi",
+      "vous": "eûtes saisi",
+      "ils": "eurent saisi"
+    },
+    "futur_simple": {
+      "je": "saisirai",
+      "tu": "saisiras",
+      "il": "saisira",
+      "nous": "saisirons",
+      "vous": "saisirez",
+      "ils": "saisiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai saisi",
+      "tu": "auras saisi",
+      "il": "aura saisi",
+      "nous": "aurons saisi",
+      "vous": "aurez saisi",
+      "ils": "auront saisi"
+    },
+    "subjonctif_présent": {
+      "je": "saisisse",
+      "tu": "saisisses",
+      "il": "saisisse",
+      "nous": "saisissions",
+      "vous": "saisissiez",
+      "ils": "saisissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie saisi",
+      "tu": "aies saisi",
+      "il": "ait saisi",
+      "nous": "ayons saisi",
+      "vous": "ayez saisi",
+      "ils": "aient saisi"
+    },
+    "subjonctif_imparfait": {
+      "je": "saisisse",
+      "tu": "saisisses",
+      "il": "saisît",
+      "nous": "saisissions",
+      "vous": "saisissiez",
+      "ils": "saisissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse saisi",
+      "tu": "eusses saisi",
+      "il": "eût saisi",
+      "nous": "eussions saisi",
+      "vous": "eussiez saisi",
+      "ils": "eussent saisi"
+    },
+    "conditionnel_présent": {
+      "je": "saisirais",
+      "tu": "saisirais",
+      "il": "saisirait",
+      "nous": "saisirions",
+      "vous": "saisiriez",
+      "ils": "saisiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais saisi",
+      "tu": "aurais saisi",
+      "il": "aurait saisi",
+      "nous": "aurions saisi",
+      "vous": "auriez saisi",
+      "ils": "auraient saisi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse saisi",
+      "tu": "eusses saisi",
+      "il": "eût saisi",
+      "nous": "eussions saisi",
+      "vous": "eussiez saisi",
+      "ils": "eussent saisi"
+    },
+    "translation": "łapać",
+    "group": 2
+  },
+  {
+    "infinitive": "saler",
+    "présent": {
+      "je": "sale",
+      "tu": "sales",
+      "il": "sale",
+      "nous": "salons",
+      "vous": "salez",
+      "ils": "salent"
+    },
+    "passé_composé": {
+      "je": "ai salé",
+      "tu": "as salé",
+      "il": "a salé",
+      "nous": "avons salé",
+      "vous": "avez salé",
+      "ils": "ont salé"
+    },
+    "imparfait": {
+      "je": "salais",
+      "tu": "salais",
+      "il": "salait",
+      "nous": "salions",
+      "vous": "saliez",
+      "ils": "salaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais salé",
+      "tu": "avais salé",
+      "il": "avait salé",
+      "nous": "avions salé",
+      "vous": "aviez salé",
+      "ils": "avaient salé"
+    },
+    "passé_simple": {
+      "je": "salai",
+      "tu": "salas",
+      "il": "sala",
+      "nous": "salâmes",
+      "vous": "salâtes",
+      "ils": "salèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus salé",
+      "tu": "eus salé",
+      "il": "eut salé",
+      "nous": "eûmes salé",
+      "vous": "eûtes salé",
+      "ils": "eurent salé"
+    },
+    "futur_simple": {
+      "je": "salerai",
+      "tu": "saleras",
+      "il": "salera",
+      "nous": "salerons",
+      "vous": "salerez",
+      "ils": "saleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai salé",
+      "tu": "auras salé",
+      "il": "aura salé",
+      "nous": "aurons salé",
+      "vous": "aurez salé",
+      "ils": "auront salé"
+    },
+    "subjonctif_présent": {
+      "je": "sale",
+      "tu": "sales",
+      "il": "sale",
+      "nous": "salions",
+      "vous": "saliez",
+      "ils": "salent"
+    },
+    "subjonctif_passé": {
+      "je": "aie salé",
+      "tu": "aies salé",
+      "il": "ait salé",
+      "nous": "ayons salé",
+      "vous": "ayez salé",
+      "ils": "aient salé"
+    },
+    "subjonctif_imparfait": {
+      "je": "salasse",
+      "tu": "salasses",
+      "il": "salât",
+      "nous": "salassions",
+      "vous": "salassiez",
+      "ils": "salassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse salé",
+      "tu": "eusses salé",
+      "il": "eût salé",
+      "nous": "eussions salé",
+      "vous": "eussiez salé",
+      "ils": "eussent salé"
+    },
+    "conditionnel_présent": {
+      "je": "salerais",
+      "tu": "salerais",
+      "il": "salerait",
+      "nous": "salerions",
+      "vous": "saleriez",
+      "ils": "saleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais salé",
+      "tu": "aurais salé",
+      "il": "aurait salé",
+      "nous": "aurions salé",
+      "vous": "auriez salé",
+      "ils": "auraient salé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse salé",
+      "tu": "eusses salé",
+      "il": "eût salé",
+      "nous": "eussions salé",
+      "vous": "eussiez salé",
+      "ils": "eussent salé"
+    },
+    "translation": "solić",
+    "group": 1
+  },
+  {
+    "infinitive": "salir",
+    "présent": {
+      "je": "salis",
+      "tu": "salis",
+      "il": "salit",
+      "nous": "salissons",
+      "vous": "salissez",
+      "ils": "salissent"
+    },
+    "passé_composé": {
+      "je": "ai sali",
+      "tu": "as sali",
+      "il": "a sali",
+      "nous": "avons sali",
+      "vous": "avez sali",
+      "ils": "ont sali"
+    },
+    "imparfait": {
+      "je": "salissais",
+      "tu": "salissais",
+      "il": "salissait",
+      "nous": "salissions",
+      "vous": "salissiez",
+      "ils": "salissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais sali",
+      "tu": "avais sali",
+      "il": "avait sali",
+      "nous": "avions sali",
+      "vous": "aviez sali",
+      "ils": "avaient sali"
+    },
+    "passé_simple": {
+      "je": "salis",
+      "tu": "salis",
+      "il": "salit",
+      "nous": "salîmes",
+      "vous": "salîtes",
+      "ils": "salirent"
+    },
+    "passé_antérieur": {
+      "je": "eus sali",
+      "tu": "eus sali",
+      "il": "eut sali",
+      "nous": "eûmes sali",
+      "vous": "eûtes sali",
+      "ils": "eurent sali"
+    },
+    "futur_simple": {
+      "je": "salirai",
+      "tu": "saliras",
+      "il": "salira",
+      "nous": "salirons",
+      "vous": "salirez",
+      "ils": "saliront"
+    },
+    "futur_antérieur": {
+      "je": "aurai sali",
+      "tu": "auras sali",
+      "il": "aura sali",
+      "nous": "aurons sali",
+      "vous": "aurez sali",
+      "ils": "auront sali"
+    },
+    "subjonctif_présent": {
+      "je": "salisse",
+      "tu": "salisses",
+      "il": "salisse",
+      "nous": "salissions",
+      "vous": "salissiez",
+      "ils": "salissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie sali",
+      "tu": "aies sali",
+      "il": "ait sali",
+      "nous": "ayons sali",
+      "vous": "ayez sali",
+      "ils": "aient sali"
+    },
+    "subjonctif_imparfait": {
+      "je": "salisse",
+      "tu": "salisses",
+      "il": "salît",
+      "nous": "salissions",
+      "vous": "salissiez",
+      "ils": "salissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse sali",
+      "tu": "eusses sali",
+      "il": "eût sali",
+      "nous": "eussions sali",
+      "vous": "eussiez sali",
+      "ils": "eussent sali"
+    },
+    "conditionnel_présent": {
+      "je": "salirais",
+      "tu": "salirais",
+      "il": "salirait",
+      "nous": "salirions",
+      "vous": "saliriez",
+      "ils": "saliraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais sali",
+      "tu": "aurais sali",
+      "il": "aurait sali",
+      "nous": "aurions sali",
+      "vous": "auriez sali",
+      "ils": "auraient sali"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse sali",
+      "tu": "eusses sali",
+      "il": "eût sali",
+      "nous": "eussions sali",
+      "vous": "eussiez sali",
+      "ils": "eussent sali"
+    },
+    "translation": "brudzić",
+    "group": 2
+  },
+  {
+    "infinitive": "saloper",
+    "présent": {
+      "je": "salope",
+      "tu": "salopes",
+      "il": "salope",
+      "nous": "salopons",
+      "vous": "salopez",
+      "ils": "salopent"
+    },
+    "passé_composé": {
+      "je": "ai salopé",
+      "tu": "as salopé",
+      "il": "a salopé",
+      "nous": "avons salopé",
+      "vous": "avez salopé",
+      "ils": "ont salopé"
+    },
+    "imparfait": {
+      "je": "salopais",
+      "tu": "salopais",
+      "il": "salopait",
+      "nous": "salopions",
+      "vous": "salopiez",
+      "ils": "salopaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais salopé",
+      "tu": "avais salopé",
+      "il": "avait salopé",
+      "nous": "avions salopé",
+      "vous": "aviez salopé",
+      "ils": "avaient salopé"
+    },
+    "passé_simple": {
+      "je": "salopai",
+      "tu": "salopas",
+      "il": "salopa",
+      "nous": "salopâmes",
+      "vous": "salopâtes",
+      "ils": "salopèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus salopé",
+      "tu": "eus salopé",
+      "il": "eut salopé",
+      "nous": "eûmes salopé",
+      "vous": "eûtes salopé",
+      "ils": "eurent salopé"
+    },
+    "futur_simple": {
+      "je": "saloperai",
+      "tu": "saloperas",
+      "il": "salopera",
+      "nous": "saloperons",
+      "vous": "saloperez",
+      "ils": "saloperont"
+    },
+    "futur_antérieur": {
+      "je": "aurai salopé",
+      "tu": "auras salopé",
+      "il": "aura salopé",
+      "nous": "aurons salopé",
+      "vous": "aurez salopé",
+      "ils": "auront salopé"
+    },
+    "subjonctif_présent": {
+      "je": "salope",
+      "tu": "salopes",
+      "il": "salope",
+      "nous": "salopions",
+      "vous": "salopiez",
+      "ils": "salopent"
+    },
+    "subjonctif_passé": {
+      "je": "aie salopé",
+      "tu": "aies salopé",
+      "il": "ait salopé",
+      "nous": "ayons salopé",
+      "vous": "ayez salopé",
+      "ils": "aient salopé"
+    },
+    "subjonctif_imparfait": {
+      "je": "salopasse",
+      "tu": "salopasses",
+      "il": "salopât",
+      "nous": "salopassions",
+      "vous": "salopassiez",
+      "ils": "salopassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse salopé",
+      "tu": "eusses salopé",
+      "il": "eût salopé",
+      "nous": "eussions salopé",
+      "vous": "eussiez salopé",
+      "ils": "eussent salopé"
+    },
+    "conditionnel_présent": {
+      "je": "saloperais",
+      "tu": "saloperais",
+      "il": "saloperait",
+      "nous": "saloperions",
+      "vous": "saloperiez",
+      "ils": "saloperaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais salopé",
+      "tu": "aurais salopé",
+      "il": "aurait salopé",
+      "nous": "aurions salopé",
+      "vous": "auriez salopé",
+      "ils": "auraient salopé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse salopé",
+      "tu": "eusses salopé",
+      "il": "eût salopé",
+      "nous": "eussions salopé",
+      "vous": "eussiez salopé",
+      "ils": "eussent salopé"
+    },
+    "translation": "partaczyć",
+    "group": 1
+  },
+  {
+    "infinitive": "saluer",
+    "présent": {
+      "je": "salue",
+      "tu": "salues",
+      "il": "salue",
+      "nous": "saluons",
+      "vous": "saluez",
+      "ils": "saluent"
+    },
+    "passé_composé": {
+      "je": "ai salué",
+      "tu": "as salué",
+      "il": "a salué",
+      "nous": "avons salué",
+      "vous": "avez salué",
+      "ils": "ont salué"
+    },
+    "imparfait": {
+      "je": "saluais",
+      "tu": "saluais",
+      "il": "saluait",
+      "nous": "saluions",
+      "vous": "saluiez",
+      "ils": "saluaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais salué",
+      "tu": "avais salué",
+      "il": "avait salué",
+      "nous": "avions salué",
+      "vous": "aviez salué",
+      "ils": "avaient salué"
+    },
+    "passé_simple": {
+      "je": "saluai",
+      "tu": "saluas",
+      "il": "salua",
+      "nous": "saluâmes",
+      "vous": "saluâtes",
+      "ils": "saluèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus salué",
+      "tu": "eus salué",
+      "il": "eut salué",
+      "nous": "eûmes salué",
+      "vous": "eûtes salué",
+      "ils": "eurent salué"
+    },
+    "futur_simple": {
+      "je": "saluerai",
+      "tu": "salueras",
+      "il": "saluera",
+      "nous": "saluerons",
+      "vous": "saluerez",
+      "ils": "salueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai salué",
+      "tu": "auras salué",
+      "il": "aura salué",
+      "nous": "aurons salué",
+      "vous": "aurez salué",
+      "ils": "auront salué"
+    },
+    "subjonctif_présent": {
+      "je": "salue",
+      "tu": "salues",
+      "il": "salue",
+      "nous": "saluions",
+      "vous": "saluiez",
+      "ils": "saluent"
+    },
+    "subjonctif_passé": {
+      "je": "aie salué",
+      "tu": "aies salué",
+      "il": "ait salué",
+      "nous": "ayons salué",
+      "vous": "ayez salué",
+      "ils": "aient salué"
+    },
+    "subjonctif_imparfait": {
+      "je": "saluasse",
+      "tu": "saluasses",
+      "il": "saluât",
+      "nous": "saluassions",
+      "vous": "saluassiez",
+      "ils": "saluassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse salué",
+      "tu": "eusses salué",
+      "il": "eût salué",
+      "nous": "eussions salué",
+      "vous": "eussiez salué",
+      "ils": "eussent salué"
+    },
+    "conditionnel_présent": {
+      "je": "saluerais",
+      "tu": "saluerais",
+      "il": "saluerait",
+      "nous": "saluerions",
+      "vous": "salueriez",
+      "ils": "salueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais salué",
+      "tu": "aurais salué",
+      "il": "aurait salué",
+      "nous": "aurions salué",
+      "vous": "auriez salué",
+      "ils": "auraient salué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse salué",
+      "tu": "eusses salué",
+      "il": "eût salué",
+      "nous": "eussions salué",
+      "vous": "eussiez salué",
+      "ils": "eussent salué"
+    },
+    "translation": "witać",
+    "group": 1
+  },
+  {
+    "infinitive": "sangloter",
+    "présent": {
+      "je": "sanglote",
+      "tu": "sanglotes",
+      "il": "sanglote",
+      "nous": "sanglotons",
+      "vous": "sanglotez",
+      "ils": "sanglotent"
+    },
+    "passé_composé": {
+      "je": "ai sangloté",
+      "tu": "as sangloté",
+      "il": "a sangloté",
+      "nous": "avons sangloté",
+      "vous": "avez sangloté",
+      "ils": "ont sangloté"
+    },
+    "imparfait": {
+      "je": "sanglotais",
+      "tu": "sanglotais",
+      "il": "sanglotait",
+      "nous": "sanglotions",
+      "vous": "sanglotiez",
+      "ils": "sanglotaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais sangloté",
+      "tu": "avais sangloté",
+      "il": "avait sangloté",
+      "nous": "avions sangloté",
+      "vous": "aviez sangloté",
+      "ils": "avaient sangloté"
+    },
+    "passé_simple": {
+      "je": "sanglotai",
+      "tu": "sanglotas",
+      "il": "sanglota",
+      "nous": "sanglotâmes",
+      "vous": "sanglotâtes",
+      "ils": "sanglotèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus sangloté",
+      "tu": "eus sangloté",
+      "il": "eut sangloté",
+      "nous": "eûmes sangloté",
+      "vous": "eûtes sangloté",
+      "ils": "eurent sangloté"
+    },
+    "futur_simple": {
+      "je": "sangloterai",
+      "tu": "sangloteras",
+      "il": "sanglotera",
+      "nous": "sangloterons",
+      "vous": "sangloterez",
+      "ils": "sangloteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai sangloté",
+      "tu": "auras sangloté",
+      "il": "aura sangloté",
+      "nous": "aurons sangloté",
+      "vous": "aurez sangloté",
+      "ils": "auront sangloté"
+    },
+    "subjonctif_présent": {
+      "je": "sanglote",
+      "tu": "sanglotes",
+      "il": "sanglote",
+      "nous": "sanglotions",
+      "vous": "sanglotiez",
+      "ils": "sanglotent"
+    },
+    "subjonctif_passé": {
+      "je": "aie sangloté",
+      "tu": "aies sangloté",
+      "il": "ait sangloté",
+      "nous": "ayons sangloté",
+      "vous": "ayez sangloté",
+      "ils": "aient sangloté"
+    },
+    "subjonctif_imparfait": {
+      "je": "sanglotasse",
+      "tu": "sanglotasses",
+      "il": "sanglotât",
+      "nous": "sanglotassions",
+      "vous": "sanglotassiez",
+      "ils": "sanglotassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse sangloté",
+      "tu": "eusses sangloté",
+      "il": "eût sangloté",
+      "nous": "eussions sangloté",
+      "vous": "eussiez sangloté",
+      "ils": "eussent sangloté"
+    },
+    "conditionnel_présent": {
+      "je": "sangloterais",
+      "tu": "sangloterais",
+      "il": "sangloterait",
+      "nous": "sangloterions",
+      "vous": "sangloteriez",
+      "ils": "sangloteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais sangloté",
+      "tu": "aurais sangloté",
+      "il": "aurait sangloté",
+      "nous": "aurions sangloté",
+      "vous": "auriez sangloté",
+      "ils": "auraient sangloté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse sangloté",
+      "tu": "eusses sangloté",
+      "il": "eût sangloté",
+      "nous": "eussions sangloté",
+      "vous": "eussiez sangloté",
+      "ils": "eussent sangloté"
+    },
+    "translation": "szlochać",
+    "group": 1
+  },
+  {
+    "infinitive": "saouler",
+    "présent": {
+      "je": "saoule",
+      "tu": "saoules",
+      "il": "saoule",
+      "nous": "saoulons",
+      "vous": "saoulez",
+      "ils": "saoulent"
+    },
+    "passé_composé": {
+      "je": "ai saoulé",
+      "tu": "as saoulé",
+      "il": "a saoulé",
+      "nous": "avons saoulé",
+      "vous": "avez saoulé",
+      "ils": "ont saoulé"
+    },
+    "imparfait": {
+      "je": "saoulais",
+      "tu": "saoulais",
+      "il": "saoulait",
+      "nous": "saoulions",
+      "vous": "saouliez",
+      "ils": "saoulaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais saoulé",
+      "tu": "avais saoulé",
+      "il": "avait saoulé",
+      "nous": "avions saoulé",
+      "vous": "aviez saoulé",
+      "ils": "avaient saoulé"
+    },
+    "passé_simple": {
+      "je": "saoulai",
+      "tu": "saoulas",
+      "il": "saoula",
+      "nous": "saoulâmes",
+      "vous": "saoulâtes",
+      "ils": "saoulèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus saoulé",
+      "tu": "eus saoulé",
+      "il": "eut saoulé",
+      "nous": "eûmes saoulé",
+      "vous": "eûtes saoulé",
+      "ils": "eurent saoulé"
+    },
+    "futur_simple": {
+      "je": "saoulerai",
+      "tu": "saouleras",
+      "il": "saoulera",
+      "nous": "saoulerons",
+      "vous": "saoulerez",
+      "ils": "saouleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai saoulé",
+      "tu": "auras saoulé",
+      "il": "aura saoulé",
+      "nous": "aurons saoulé",
+      "vous": "aurez saoulé",
+      "ils": "auront saoulé"
+    },
+    "subjonctif_présent": {
+      "je": "saoule",
+      "tu": "saoules",
+      "il": "saoule",
+      "nous": "saoulions",
+      "vous": "saouliez",
+      "ils": "saoulent"
+    },
+    "subjonctif_passé": {
+      "je": "aie saoulé",
+      "tu": "aies saoulé",
+      "il": "ait saoulé",
+      "nous": "ayons saoulé",
+      "vous": "ayez saoulé",
+      "ils": "aient saoulé"
+    },
+    "subjonctif_imparfait": {
+      "je": "saoulasse",
+      "tu": "saoulasses",
+      "il": "saoulât",
+      "nous": "saoulassions",
+      "vous": "saoulassiez",
+      "ils": "saoulassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse saoulé",
+      "tu": "eusses saoulé",
+      "il": "eût saoulé",
+      "nous": "eussions saoulé",
+      "vous": "eussiez saoulé",
+      "ils": "eussent saoulé"
+    },
+    "conditionnel_présent": {
+      "je": "saoulerais",
+      "tu": "saoulerais",
+      "il": "saoulerait",
+      "nous": "saoulerions",
+      "vous": "saouleriez",
+      "ils": "saouleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais saoulé",
+      "tu": "aurais saoulé",
+      "il": "aurait saoulé",
+      "nous": "aurions saoulé",
+      "vous": "auriez saoulé",
+      "ils": "auraient saoulé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse saoulé",
+      "tu": "eusses saoulé",
+      "il": "eût saoulé",
+      "nous": "eussions saoulé",
+      "vous": "eussiez saoulé",
+      "ils": "eussent saoulé"
+    },
+    "translation": "upić",
+    "group": 1
+  },
+  {
+    "infinitive": "saper",
+    "présent": {
+      "je": "sape",
+      "tu": "sapes",
+      "il": "sape",
+      "nous": "sapons",
+      "vous": "sapez",
+      "ils": "sapent"
+    },
+    "passé_composé": {
+      "je": "ai sapé",
+      "tu": "as sapé",
+      "il": "a sapé",
+      "nous": "avons sapé",
+      "vous": "avez sapé",
+      "ils": "ont sapé"
+    },
+    "imparfait": {
+      "je": "sapais",
+      "tu": "sapais",
+      "il": "sapait",
+      "nous": "sapions",
+      "vous": "sapiez",
+      "ils": "sapaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais sapé",
+      "tu": "avais sapé",
+      "il": "avait sapé",
+      "nous": "avions sapé",
+      "vous": "aviez sapé",
+      "ils": "avaient sapé"
+    },
+    "passé_simple": {
+      "je": "sapai",
+      "tu": "sapas",
+      "il": "sapa",
+      "nous": "sapâmes",
+      "vous": "sapâtes",
+      "ils": "sapèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus sapé",
+      "tu": "eus sapé",
+      "il": "eut sapé",
+      "nous": "eûmes sapé",
+      "vous": "eûtes sapé",
+      "ils": "eurent sapé"
+    },
+    "futur_simple": {
+      "je": "saperai",
+      "tu": "saperas",
+      "il": "sapera",
+      "nous": "saperons",
+      "vous": "saperez",
+      "ils": "saperont"
+    },
+    "futur_antérieur": {
+      "je": "aurai sapé",
+      "tu": "auras sapé",
+      "il": "aura sapé",
+      "nous": "aurons sapé",
+      "vous": "aurez sapé",
+      "ils": "auront sapé"
+    },
+    "subjonctif_présent": {
+      "je": "sape",
+      "tu": "sapes",
+      "il": "sape",
+      "nous": "sapions",
+      "vous": "sapiez",
+      "ils": "sapent"
+    },
+    "subjonctif_passé": {
+      "je": "aie sapé",
+      "tu": "aies sapé",
+      "il": "ait sapé",
+      "nous": "ayons sapé",
+      "vous": "ayez sapé",
+      "ils": "aient sapé"
+    },
+    "subjonctif_imparfait": {
+      "je": "sapasse",
+      "tu": "sapasses",
+      "il": "sapât",
+      "nous": "sapassions",
+      "vous": "sapassiez",
+      "ils": "sapassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse sapé",
+      "tu": "eusses sapé",
+      "il": "eût sapé",
+      "nous": "eussions sapé",
+      "vous": "eussiez sapé",
+      "ils": "eussent sapé"
+    },
+    "conditionnel_présent": {
+      "je": "saperais",
+      "tu": "saperais",
+      "il": "saperait",
+      "nous": "saperions",
+      "vous": "saperiez",
+      "ils": "saperaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais sapé",
+      "tu": "aurais sapé",
+      "il": "aurait sapé",
+      "nous": "aurions sapé",
+      "vous": "auriez sapé",
+      "ils": "auraient sapé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse sapé",
+      "tu": "eusses sapé",
+      "il": "eût sapé",
+      "nous": "eussions sapé",
+      "vous": "eussiez sapé",
+      "ils": "eussent sapé"
+    },
+    "translation": "ubierać",
+    "group": 1
+  }
+]

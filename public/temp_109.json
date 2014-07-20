@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "ignorer",
+    "présent": {
+      "je": "ignore",
+      "tu": "ignores",
+      "il": "ignore",
+      "nous": "ignorons",
+      "vous": "ignorez",
+      "ils": "ignorent"
+    },
+    "passé_composé": {
+      "je": "ai ignoré",
+      "tu": "as ignoré",
+      "il": "a ignoré",
+      "nous": "avons ignoré",
+      "vous": "avez ignoré",
+      "ils": "ont ignoré"
+    },
+    "imparfait": {
+      "je": "ignorais",
+      "tu": "ignorais",
+      "il": "ignorait",
+      "nous": "ignorions",
+      "vous": "ignoriez",
+      "ils": "ignoraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ignoré",
+      "tu": "avais ignoré",
+      "il": "avait ignoré",
+      "nous": "avions ignoré",
+      "vous": "aviez ignoré",
+      "ils": "avaient ignoré"
+    },
+    "passé_simple": {
+      "je": "ignorai",
+      "tu": "ignoras",
+      "il": "ignora",
+      "nous": "ignorâmes",
+      "vous": "ignorâtes",
+      "ils": "ignorèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus ignoré",
+      "tu": "eus ignoré",
+      "il": "eut ignoré",
+      "nous": "eûmes ignoré",
+      "vous": "eûtes ignoré",
+      "ils": "eurent ignoré"
+    },
+    "futur_simple": {
+      "je": "ignorerai",
+      "tu": "ignoreras",
+      "il": "ignorera",
+      "nous": "ignorerons",
+      "vous": "ignorerez",
+      "ils": "ignoreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ignoré",
+      "tu": "auras ignoré",
+      "il": "aura ignoré",
+      "nous": "aurons ignoré",
+      "vous": "aurez ignoré",
+      "ils": "auront ignoré"
+    },
+    "subjonctif_présent": {
+      "je": "ignore",
+      "tu": "ignores",
+      "il": "ignore",
+      "nous": "ignorions",
+      "vous": "ignoriez",
+      "ils": "ignorent"
+    },
+    "subjonctif_passé": {
+      "je": "aie ignoré",
+      "tu": "aies ignoré",
+      "il": "ait ignoré",
+      "nous": "ayons ignoré",
+      "vous": "ayez ignoré",
+      "ils": "aient ignoré"
+    },
+    "subjonctif_imparfait": {
+      "je": "ignorasse",
+      "tu": "ignorasses",
+      "il": "ignorât",
+      "nous": "ignorassions",
+      "vous": "ignorassiez",
+      "ils": "ignorassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ignoré",
+      "tu": "eusses ignoré",
+      "il": "eût ignoré",
+      "nous": "eussions ignoré",
+      "vous": "eussiez ignoré",
+      "ils": "eussent ignoré"
+    },
+    "conditionnel_présent": {
+      "je": "ignorerais",
+      "tu": "ignorerais",
+      "il": "ignorerait",
+      "nous": "ignorerions",
+      "vous": "ignoreriez",
+      "ils": "ignoreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ignoré",
+      "tu": "aurais ignoré",
+      "il": "aurait ignoré",
+      "nous": "aurions ignoré",
+      "vous": "auriez ignoré",
+      "ils": "auraient ignoré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ignoré",
+      "tu": "eusses ignoré",
+      "il": "eût ignoré",
+      "nous": "eussions ignoré",
+      "vous": "eussiez ignoré",
+      "ils": "eussent ignoré"
+    },
+    "translation": "nie",
+    "group": 1
+  },
+  {
+    "infinitive": "illuminer",
+    "présent": {
+      "je": "illumine",
+      "tu": "illumines",
+      "il": "illumine",
+      "nous": "illuminons",
+      "vous": "illuminez",
+      "ils": "illuminent"
+    },
+    "passé_composé": {
+      "je": "ai illuminé",
+      "tu": "as illuminé",
+      "il": "a illuminé",
+      "nous": "avons illuminé",
+      "vous": "avez illuminé",
+      "ils": "ont illuminé"
+    },
+    "imparfait": {
+      "je": "illuminais",
+      "tu": "illuminais",
+      "il": "illuminait",
+      "nous": "illuminions",
+      "vous": "illuminiez",
+      "ils": "illuminaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais illuminé",
+      "tu": "avais illuminé",
+      "il": "avait illuminé",
+      "nous": "avions illuminé",
+      "vous": "aviez illuminé",
+      "ils": "avaient illuminé"
+    },
+    "passé_simple": {
+      "je": "illuminai",
+      "tu": "illuminas",
+      "il": "illumina",
+      "nous": "illuminâmes",
+      "vous": "illuminâtes",
+      "ils": "illuminèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus illuminé",
+      "tu": "eus illuminé",
+      "il": "eut illuminé",
+      "nous": "eûmes illuminé",
+      "vous": "eûtes illuminé",
+      "ils": "eurent illuminé"
+    },
+    "futur_simple": {
+      "je": "illuminerai",
+      "tu": "illumineras",
+      "il": "illuminera",
+      "nous": "illuminerons",
+      "vous": "illuminerez",
+      "ils": "illumineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai illuminé",
+      "tu": "auras illuminé",
+      "il": "aura illuminé",
+      "nous": "aurons illuminé",
+      "vous": "aurez illuminé",
+      "ils": "auront illuminé"
+    },
+    "subjonctif_présent": {
+      "je": "illumine",
+      "tu": "illumines",
+      "il": "illumine",
+      "nous": "illuminions",
+      "vous": "illuminiez",
+      "ils": "illuminent"
+    },
+    "subjonctif_passé": {
+      "je": "aie illuminé",
+      "tu": "aies illuminé",
+      "il": "ait illuminé",
+      "nous": "ayons illuminé",
+      "vous": "ayez illuminé",
+      "ils": "aient illuminé"
+    },
+    "subjonctif_imparfait": {
+      "je": "illuminasse",
+      "tu": "illuminasses",
+      "il": "illuminât",
+      "nous": "illuminassions",
+      "vous": "illuminassiez",
+      "ils": "illuminassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse illuminé",
+      "tu": "eusses illuminé",
+      "il": "eût illuminé",
+      "nous": "eussions illuminé",
+      "vous": "eussiez illuminé",
+      "ils": "eussent illuminé"
+    },
+    "conditionnel_présent": {
+      "je": "illuminerais",
+      "tu": "illuminerais",
+      "il": "illuminerait",
+      "nous": "illuminerions",
+      "vous": "illumineriez",
+      "ils": "illumineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais illuminé",
+      "tu": "aurais illuminé",
+      "il": "aurait illuminé",
+      "nous": "aurions illuminé",
+      "vous": "auriez illuminé",
+      "ils": "auraient illuminé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse illuminé",
+      "tu": "eusses illuminé",
+      "il": "eût illuminé",
+      "nous": "eussions illuminé",
+      "vous": "eussiez illuminé",
+      "ils": "eussent illuminé"
+    },
+    "translation": "oświetlać",
+    "group": 1
+  },
+  {
+    "infinitive": "illustrer",
+    "présent": {
+      "je": "illustre",
+      "tu": "illustres",
+      "il": "illustre",
+      "nous": "illustrons",
+      "vous": "illustrez",
+      "ils": "illustrent"
+    },
+    "passé_composé": {
+      "je": "ai illustré",
+      "tu": "as illustré",
+      "il": "a illustré",
+      "nous": "avons illustré",
+      "vous": "avez illustré",
+      "ils": "ont illustré"
+    },
+    "imparfait": {
+      "je": "illustrais",
+      "tu": "illustrais",
+      "il": "illustrait",
+      "nous": "illustrions",
+      "vous": "illustriez",
+      "ils": "illustraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais illustré",
+      "tu": "avais illustré",
+      "il": "avait illustré",
+      "nous": "avions illustré",
+      "vous": "aviez illustré",
+      "ils": "avaient illustré"
+    },
+    "passé_simple": {
+      "je": "illustrai",
+      "tu": "illustras",
+      "il": "illustra",
+      "nous": "illustrâmes",
+      "vous": "illustrâtes",
+      "ils": "illustrèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus illustré",
+      "tu": "eus illustré",
+      "il": "eut illustré",
+      "nous": "eûmes illustré",
+      "vous": "eûtes illustré",
+      "ils": "eurent illustré"
+    },
+    "futur_simple": {
+      "je": "illustrerai",
+      "tu": "illustreras",
+      "il": "illustrera",
+      "nous": "illustrerons",
+      "vous": "illustrerez",
+      "ils": "illustreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai illustré",
+      "tu": "auras illustré",
+      "il": "aura illustré",
+      "nous": "aurons illustré",
+      "vous": "aurez illustré",
+      "ils": "auront illustré"
+    },
+    "subjonctif_présent": {
+      "je": "illustre",
+      "tu": "illustres",
+      "il": "illustre",
+      "nous": "illustrions",
+      "vous": "illustriez",
+      "ils": "illustrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie illustré",
+      "tu": "aies illustré",
+      "il": "ait illustré",
+      "nous": "ayons illustré",
+      "vous": "ayez illustré",
+      "ils": "aient illustré"
+    },
+    "subjonctif_imparfait": {
+      "je": "illustrasse",
+      "tu": "illustrasses",
+      "il": "illustrât",
+      "nous": "illustrassions",
+      "vous": "illustrassiez",
+      "ils": "illustrassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse illustré",
+      "tu": "eusses illustré",
+      "il": "eût illustré",
+      "nous": "eussions illustré",
+      "vous": "eussiez illustré",
+      "ils": "eussent illustré"
+    },
+    "conditionnel_présent": {
+      "je": "illustrerais",
+      "tu": "illustrerais",
+      "il": "illustrerait",
+      "nous": "illustrerions",
+      "vous": "illustreriez",
+      "ils": "illustreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais illustré",
+      "tu": "aurais illustré",
+      "il": "aurait illustré",
+      "nous": "aurions illustré",
+      "vous": "auriez illustré",
+      "ils": "auraient illustré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse illustré",
+      "tu": "eusses illustré",
+      "il": "eût illustré",
+      "nous": "eussions illustré",
+      "vous": "eussiez illustré",
+      "ils": "eussent illustré"
+    },
+    "translation": "ilustrować",
+    "group": 1
+  },
+  {
+    "infinitive": "imager",
+    "présent": {
+      "je": "image",
+      "tu": "images",
+      "il": "image",
+      "nous": "imageons",
+      "vous": "imagez",
+      "ils": "imagent"
+    },
+    "passé_composé": {
+      "je": "ai imagé",
+      "tu": "as imagé",
+      "il": "a imagé",
+      "nous": "avons imagé",
+      "vous": "avez imagé",
+      "ils": "ont imagé"
+    },
+    "imparfait": {
+      "je": "imageais",
+      "tu": "imageais",
+      "il": "imageait",
+      "nous": "imagions",
+      "vous": "imagiez",
+      "ils": "imageaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais imagé",
+      "tu": "avais imagé",
+      "il": "avait imagé",
+      "nous": "avions imagé",
+      "vous": "aviez imagé",
+      "ils": "avaient imagé"
+    },
+    "passé_simple": {
+      "je": "imageai",
+      "tu": "imageas",
+      "il": "imagea",
+      "nous": "imageâmes",
+      "vous": "imageâtes",
+      "ils": "imagèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus imagé",
+      "tu": "eus imagé",
+      "il": "eut imagé",
+      "nous": "eûmes imagé",
+      "vous": "eûtes imagé",
+      "ils": "eurent imagé"
+    },
+    "futur_simple": {
+      "je": "imagerai",
+      "tu": "imageras",
+      "il": "imagera",
+      "nous": "imagerons",
+      "vous": "imagerez",
+      "ils": "imageront"
+    },
+    "futur_antérieur": {
+      "je": "aurai imagé",
+      "tu": "auras imagé",
+      "il": "aura imagé",
+      "nous": "aurons imagé",
+      "vous": "aurez imagé",
+      "ils": "auront imagé"
+    },
+    "subjonctif_présent": {
+      "je": "image",
+      "tu": "images",
+      "il": "image",
+      "nous": "imagions",
+      "vous": "imagiez",
+      "ils": "imagent"
+    },
+    "subjonctif_passé": {
+      "je": "aie imagé",
+      "tu": "aies imagé",
+      "il": "ait imagé",
+      "nous": "ayons imagé",
+      "vous": "ayez imagé",
+      "ils": "aient imagé"
+    },
+    "subjonctif_imparfait": {
+      "je": "imageasse",
+      "tu": "imageasses",
+      "il": "imageât",
+      "nous": "imageassions",
+      "vous": "imageassiez",
+      "ils": "imageassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse imagé",
+      "tu": "eusses imagé",
+      "il": "eût imagé",
+      "nous": "eussions imagé",
+      "vous": "eussiez imagé",
+      "ils": "eussent imagé"
+    },
+    "conditionnel_présent": {
+      "je": "imagerais",
+      "tu": "imagerais",
+      "il": "imagerait",
+      "nous": "imagerions",
+      "vous": "imageriez",
+      "ils": "imageraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais imagé",
+      "tu": "aurais imagé",
+      "il": "aurait imagé",
+      "nous": "aurions imagé",
+      "vous": "auriez imagé",
+      "ils": "auraient imagé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse imagé",
+      "tu": "eusses imagé",
+      "il": "eût imagé",
+      "nous": "eussions imagé",
+      "vous": "eussiez imagé",
+      "ils": "eussent imagé"
+    },
+    "translation": "obrazek",
+    "group": 1
+  },
+  {
+    "infinitive": "imaginer",
+    "présent": {
+      "je": "imagine",
+      "tu": "imagines",
+      "il": "imagine",
+      "nous": "imaginons",
+      "vous": "imaginez",
+      "ils": "imaginent"
+    },
+    "passé_composé": {
+      "je": "ai imaginé",
+      "tu": "as imaginé",
+      "il": "a imaginé",
+      "nous": "avons imaginé",
+      "vous": "avez imaginé",
+      "ils": "ont imaginé"
+    },
+    "imparfait": {
+      "je": "imaginais",
+      "tu": "imaginais",
+      "il": "imaginait",
+      "nous": "imaginions",
+      "vous": "imaginiez",
+      "ils": "imaginaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais imaginé",
+      "tu": "avais imaginé",
+      "il": "avait imaginé",
+      "nous": "avions imaginé",
+      "vous": "aviez imaginé",
+      "ils": "avaient imaginé"
+    },
+    "passé_simple": {
+      "je": "imaginai",
+      "tu": "imaginas",
+      "il": "imagina",
+      "nous": "imaginâmes",
+      "vous": "imaginâtes",
+      "ils": "imaginèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus imaginé",
+      "tu": "eus imaginé",
+      "il": "eut imaginé",
+      "nous": "eûmes imaginé",
+      "vous": "eûtes imaginé",
+      "ils": "eurent imaginé"
+    },
+    "futur_simple": {
+      "je": "imaginerai",
+      "tu": "imagineras",
+      "il": "imaginera",
+      "nous": "imaginerons",
+      "vous": "imaginerez",
+      "ils": "imagineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai imaginé",
+      "tu": "auras imaginé",
+      "il": "aura imaginé",
+      "nous": "aurons imaginé",
+      "vous": "aurez imaginé",
+      "ils": "auront imaginé"
+    },
+    "subjonctif_présent": {
+      "je": "imagine",
+      "tu": "imagines",
+      "il": "imagine",
+      "nous": "imaginions",
+      "vous": "imaginiez",
+      "ils": "imaginent"
+    },
+    "subjonctif_passé": {
+      "je": "aie imaginé",
+      "tu": "aies imaginé",
+      "il": "ait imaginé",
+      "nous": "ayons imaginé",
+      "vous": "ayez imaginé",
+      "ils": "aient imaginé"
+    },
+    "subjonctif_imparfait": {
+      "je": "imaginasse",
+      "tu": "imaginasses",
+      "il": "imaginât",
+      "nous": "imaginassions",
+      "vous": "imaginassiez",
+      "ils": "imaginassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse imaginé",
+      "tu": "eusses imaginé",
+      "il": "eût imaginé",
+      "nous": "eussions imaginé",
+      "vous": "eussiez imaginé",
+      "ils": "eussent imaginé"
+    },
+    "conditionnel_présent": {
+      "je": "imaginerais",
+      "tu": "imaginerais",
+      "il": "imaginerait",
+      "nous": "imaginerions",
+      "vous": "imagineriez",
+      "ils": "imagineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais imaginé",
+      "tu": "aurais imaginé",
+      "il": "aurait imaginé",
+      "nous": "aurions imaginé",
+      "vous": "auriez imaginé",
+      "ils": "auraient imaginé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse imaginé",
+      "tu": "eusses imaginé",
+      "il": "eût imaginé",
+      "nous": "eussions imaginé",
+      "vous": "eussiez imaginé",
+      "ils": "eussent imaginé"
+    },
+    "translation": "wyobrażać",
+    "group": 1
+  },
+  {
+    "infinitive": "imiter",
+    "présent": {
+      "je": "imite",
+      "tu": "imites",
+      "il": "imite",
+      "nous": "imitons",
+      "vous": "imitez",
+      "ils": "imitent"
+    },
+    "passé_composé": {
+      "je": "ai imité",
+      "tu": "as imité",
+      "il": "a imité",
+      "nous": "avons imité",
+      "vous": "avez imité",
+      "ils": "ont imité"
+    },
+    "imparfait": {
+      "je": "imitais",
+      "tu": "imitais",
+      "il": "imitait",
+      "nous": "imitions",
+      "vous": "imitiez",
+      "ils": "imitaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais imité",
+      "tu": "avais imité",
+      "il": "avait imité",
+      "nous": "avions imité",
+      "vous": "aviez imité",
+      "ils": "avaient imité"
+    },
+    "passé_simple": {
+      "je": "imitai",
+      "tu": "imitas",
+      "il": "imita",
+      "nous": "imitâmes",
+      "vous": "imitâtes",
+      "ils": "imitèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus imité",
+      "tu": "eus imité",
+      "il": "eut imité",
+      "nous": "eûmes imité",
+      "vous": "eûtes imité",
+      "ils": "eurent imité"
+    },
+    "futur_simple": {
+      "je": "imiterai",
+      "tu": "imiteras",
+      "il": "imitera",
+      "nous": "imiterons",
+      "vous": "imiterez",
+      "ils": "imiteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai imité",
+      "tu": "auras imité",
+      "il": "aura imité",
+      "nous": "aurons imité",
+      "vous": "aurez imité",
+      "ils": "auront imité"
+    },
+    "subjonctif_présent": {
+      "je": "imite",
+      "tu": "imites",
+      "il": "imite",
+      "nous": "imitions",
+      "vous": "imitiez",
+      "ils": "imitent"
+    },
+    "subjonctif_passé": {
+      "je": "aie imité",
+      "tu": "aies imité",
+      "il": "ait imité",
+      "nous": "ayons imité",
+      "vous": "ayez imité",
+      "ils": "aient imité"
+    },
+    "subjonctif_imparfait": {
+      "je": "imitasse",
+      "tu": "imitasses",
+      "il": "imitât",
+      "nous": "imitassions",
+      "vous": "imitassiez",
+      "ils": "imitassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse imité",
+      "tu": "eusses imité",
+      "il": "eût imité",
+      "nous": "eussions imité",
+      "vous": "eussiez imité",
+      "ils": "eussent imité"
+    },
+    "conditionnel_présent": {
+      "je": "imiterais",
+      "tu": "imiterais",
+      "il": "imiterait",
+      "nous": "imiterions",
+      "vous": "imiteriez",
+      "ils": "imiteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais imité",
+      "tu": "aurais imité",
+      "il": "aurait imité",
+      "nous": "aurions imité",
+      "vous": "auriez imité",
+      "ils": "auraient imité"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse imité",
+      "tu": "eusses imité",
+      "il": "eût imité",
+      "nous": "eussions imité",
+      "vous": "eussiez imité",
+      "ils": "eussent imité"
+    },
+    "translation": "naśladować",
+    "group": 1
+  },
+  {
+    "infinitive": "immiscer",
+    "présent": {
+      "je": "immisce",
+      "tu": "immisces",
+      "il": "immisce",
+      "nous": "nous immisçons",
+      "vous": "vous immiscez",
+      "ils": "immiscent"
+    },
+    "passé_composé": {
+      "je": "me suis immiscé",
+      "tu": "es immiscé",
+      "il": "est immiscé",
+      "nous": "nous sommes immiscés",
+      "vous": "vous êtes immiscés",
+      "ils": "se sont immiscés"
+    },
+    "imparfait": {
+      "je": "immisçais",
+      "tu": "immisçais",
+      "il": "immisçait",
+      "nous": "nous immiscions",
+      "vous": "vous immisciez",
+      "ils": "immisçaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais immiscé",
+      "tu": "étais immiscé",
+      "il": "était immiscé",
+      "nous": "nous étions immiscés",
+      "vous": "vous étiez immiscés",
+      "ils": "étaient immiscés"
+    },
+    "passé_simple": {
+      "je": "immisçai",
+      "tu": "immisças",
+      "il": "immisça",
+      "nous": "nous immisçâmes",
+      "vous": "vous immisçâtes",
+      "ils": "immiscèrent"
+    },
+    "passé_antérieur": {
+      "je": "me fus immiscé",
+      "tu": "te fus immiscé",
+      "il": "se fut immiscé",
+      "nous": "nous fûmes immiscés",
+      "vous": "vous fûtes immiscés",
+      "ils": "se furent immiscés"
+    },
+    "futur_simple": {
+      "je": "immiscerai",
+      "tu": "immisceras",
+      "il": "immiscera",
+      "nous": "nous immiscerons",
+      "vous": "vous immiscerez",
+      "ils": "immisceront"
+    },
+    "futur_antérieur": {
+      "je": "me serai immiscé",
+      "tu": "te seras immiscé",
+      "il": "se sera immiscé",
+      "nous": "nous serons immiscés",
+      "vous": "vous serez immiscés",
+      "ils": "se seront immiscés"
+    },
+    "subjonctif_présent": {
+      "je": "immisce",
+      "tu": "immisces",
+      "il": "immisce",
+      "nous": "nous immiscions",
+      "vous": "vous immisciez",
+      "ils": "immiscent"
+    },
+    "subjonctif_passé": {
+      "je": "me sois immiscé",
+      "tu": "te sois immiscé",
+      "il": "se soit immiscé",
+      "nous": "nous soyons immiscés",
+      "vous": "vous soyez immiscés",
+      "ils": "se soient immiscés"
+    },
+    "subjonctif_imparfait": {
+      "je": "immisçasse",
+      "tu": "immisçasses",
+      "il": "immisçât",
+      "nous": "nous immisçassions",
+      "vous": "vous immisçassiez",
+      "ils": "immisçassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse immiscé",
+      "tu": "te fusses immiscé",
+      "il": "se fût immiscé",
+      "nous": "nous fussions immiscés",
+      "vous": "vous fussiez immiscés",
+      "ils": "se fussent immiscés"
+    },
+    "conditionnel_présent": {
+      "je": "immiscerais",
+      "tu": "immiscerais",
+      "il": "immiscerait",
+      "nous": "nous immiscerions",
+      "vous": "vous immisceriez",
+      "ils": "immisceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais immiscé",
+      "tu": "te serais immiscé",
+      "il": "se serait immiscé",
+      "nous": "nous serions immiscés",
+      "vous": "vous seriez immiscés",
+      "ils": "se seraient immiscés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse immiscé",
+      "tu": "te fusses immiscé",
+      "il": "se fût immiscé",
+      "nous": "nous fussions immiscés",
+      "vous": "vous fussiez immiscés",
+      "ils": "se fussent immiscés"
+    },
+    "translation": "imigrować",
+    "group": 1
+  },
+  {
+    "infinitive": "impacter",
+    "présent": {
+      "je": "impacte",
+      "tu": "impactes",
+      "il": "impacte",
+      "nous": "impactons",
+      "vous": "impactez",
+      "ils": "impactent"
+    },
+    "passé_composé": {
+      "je": "ai impacté",
+      "tu": "as impacté",
+      "il": "a impacté",
+      "nous": "avons impacté",
+      "vous": "avez impacté",
+      "ils": "ont impacté"
+    },
+    "imparfait": {
+      "je": "impactais",
+      "tu": "impactais",
+      "il": "impactait",
+      "nous": "impactions",
+      "vous": "impactiez",
+      "ils": "impactaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais impacté",
+      "tu": "avais impacté",
+      "il": "avait impacté",
+      "nous": "avions impacté",
+      "vous": "aviez impacté",
+      "ils": "avaient impacté"
+    },
+    "passé_simple": {
+      "je": "impactai",
+      "tu": "impactas",
+      "il": "impacta",
+      "nous": "impactâmes",
+      "vous": "impactâtes",
+      "ils": "impactèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus impacté",
+      "tu": "eus impacté",
+      "il": "eut impacté",
+      "nous": "eûmes impacté",
+      "vous": "eûtes impacté",
+      "ils": "eurent impacté"
+    },
+    "futur_simple": {
+      "je": "impacterai",
+      "tu": "impacteras",
+      "il": "impactera",
+      "nous": "impacterons",
+      "vous": "impacterez",
+      "ils": "impacteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai impacté",
+      "tu": "auras impacté",
+      "il": "aura impacté",
+      "nous": "aurons impacté",
+      "vous": "aurez impacté",
+      "ils": "auront impacté"
+    },
+    "subjonctif_présent": {
+      "je": "impacte",
+      "tu": "impactes",
+      "il": "impacte",
+      "nous": "impactions",
+      "vous": "impactiez",
+      "ils": "impactent"
+    },
+    "subjonctif_passé": {
+      "je": "aie impacté",
+      "tu": "aies impacté",
+      "il": "ait impacté",
+      "nous": "ayons impacté",
+      "vous": "ayez impacté",
+      "ils": "aient impacté"
+    },
+    "subjonctif_imparfait": {
+      "je": "impactasse",
+      "tu": "impactasses",
+      "il": "impactât",
+      "nous": "impactassions",
+      "vous": "impactassiez",
+      "ils": "impactassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse impacté",
+      "tu": "eusses impacté",
+      "il": "eût impacté",
+      "nous": "eussions impacté",
+      "vous": "eussiez impacté",
+      "ils": "eussent impacté"
+    },
+    "conditionnel_présent": {
+      "je": "impacterais",
+      "tu": "impacterais",
+      "il": "impacterait",
+      "nous": "impacterions",
+      "vous": "impacteriez",
+      "ils": "impacteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais impacté",
+      "tu": "aurais impacté",
+      "il": "aurait impacté",
+      "nous": "aurions impacté",
+      "vous": "auriez impacté",
+      "ils": "auraient impacté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse impacté",
+      "tu": "eusses impacté",
+      "il": "eût impacté",
+      "nous": "eussions impacté",
+      "vous": "eussiez impacté",
+      "ils": "eussent impacté"
+    },
+    "translation": "lokować",
+    "group": 1
+  },
+  {
+    "infinitive": "impartir",
+    "présent": {
+      "je": "impartis",
+      "tu": "impartis",
+      "il": "impartit",
+      "nous": "impartissons",
+      "vous": "impartissez",
+      "ils": "impartissent"
+    },
+    "passé_composé": {
+      "je": "ai imparti",
+      "tu": "as imparti",
+      "il": "a imparti",
+      "nous": "avons imparti",
+      "vous": "avez imparti",
+      "ils": "ont imparti"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "avais imparti",
+      "tu": "avais imparti",
+      "il": "avait imparti",
+      "nous": "avions imparti",
+      "vous": "aviez imparti",
+      "ils": "avaient imparti"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "eus imparti",
+      "tu": "eus imparti",
+      "il": "eut imparti",
+      "nous": "eûmes imparti",
+      "vous": "eûtes imparti",
+      "ils": "eurent imparti"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "aurai imparti",
+      "tu": "auras imparti",
+      "il": "aura imparti",
+      "nous": "aurons imparti",
+      "vous": "aurez imparti",
+      "ils": "auront imparti"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "aie imparti",
+      "tu": "aies imparti",
+      "il": "ait imparti",
+      "nous": "ayons imparti",
+      "vous": "ayez imparti",
+      "ils": "aient imparti"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse imparti",
+      "tu": "eusses imparti",
+      "il": "eût imparti",
+      "nous": "eussions imparti",
+      "vous": "eussiez imparti",
+      "ils": "eussent imparti"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais imparti",
+      "tu": "aurais imparti",
+      "il": "aurait imparti",
+      "nous": "aurions imparti",
+      "vous": "auriez imparti",
+      "ils": "auraient imparti"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse imparti",
+      "tu": "eusses imparti",
+      "il": "eût imparti",
+      "nous": "eussions imparti",
+      "vous": "eussiez imparti",
+      "ils": "eussent imparti"
+    },
+    "translation": "odjeżdżać",
+    "group": 3
+  },
+  {
+    "infinitive": "impatienter",
+    "présent": {
+      "je": "impatiente",
+      "tu": "impatientes",
+      "il": "impatiente",
+      "nous": "impatientons",
+      "vous": "impatientez",
+      "ils": "impatientent"
+    },
+    "passé_composé": {
+      "je": "ai impatienté",
+      "tu": "as impatienté",
+      "il": "a impatienté",
+      "nous": "avons impatienté",
+      "vous": "avez impatienté",
+      "ils": "ont impatienté"
+    },
+    "imparfait": {
+      "je": "impatientais",
+      "tu": "impatientais",
+      "il": "impatientait",
+      "nous": "impatientions",
+      "vous": "impatientiez",
+      "ils": "impatientaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais impatienté",
+      "tu": "avais impatienté",
+      "il": "avait impatienté",
+      "nous": "avions impatienté",
+      "vous": "aviez impatienté",
+      "ils": "avaient impatienté"
+    },
+    "passé_simple": {
+      "je": "impatientai",
+      "tu": "impatientas",
+      "il": "impatienta",
+      "nous": "impatientâmes",
+      "vous": "impatientâtes",
+      "ils": "impatientèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus impatienté",
+      "tu": "eus impatienté",
+      "il": "eut impatienté",
+      "nous": "eûmes impatienté",
+      "vous": "eûtes impatienté",
+      "ils": "eurent impatienté"
+    },
+    "futur_simple": {
+      "je": "impatienterai",
+      "tu": "impatienteras",
+      "il": "impatientera",
+      "nous": "impatienterons",
+      "vous": "impatienterez",
+      "ils": "impatienteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai impatienté",
+      "tu": "auras impatienté",
+      "il": "aura impatienté",
+      "nous": "aurons impatienté",
+      "vous": "aurez impatienté",
+      "ils": "auront impatienté"
+    },
+    "subjonctif_présent": {
+      "je": "impatiente",
+      "tu": "impatientes",
+      "il": "impatiente",
+      "nous": "impatientions",
+      "vous": "impatientiez",
+      "ils": "impatientent"
+    },
+    "subjonctif_passé": {
+      "je": "aie impatienté",
+      "tu": "aies impatienté",
+      "il": "ait impatienté",
+      "nous": "ayons impatienté",
+      "vous": "ayez impatienté",
+      "ils": "aient impatienté"
+    },
+    "subjonctif_imparfait": {
+      "je": "impatientasse",
+      "tu": "impatientasses",
+      "il": "impatientât",
+      "nous": "impatientassions",
+      "vous": "impatientassiez",
+      "ils": "impatientassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse impatienté",
+      "tu": "eusses impatienté",
+      "il": "eût impatienté",
+      "nous": "eussions impatienté",
+      "vous": "eussiez impatienté",
+      "ils": "eussent impatienté"
+    },
+    "conditionnel_présent": {
+      "je": "impatienterais",
+      "tu": "impatienterais",
+      "il": "impatienterait",
+      "nous": "impatienterions",
+      "vous": "impatienteriez",
+      "ils": "impatienteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais impatienté",
+      "tu": "aurais impatienté",
+      "il": "aurait impatienté",
+      "nous": "aurions impatienté",
+      "vous": "auriez impatienté",
+      "ils": "auraient impatienté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse impatienté",
+      "tu": "eusses impatienté",
+      "il": "eût impatienté",
+      "nous": "eussions impatienté",
+      "vous": "eussiez impatienté",
+      "ils": "eussent impatienté"
+    },
+    "translation": "niecierpliwić",
+    "group": 1
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "parcourir",
+    "présent": {
+      "je": "parcours",
+      "tu": "parcours",
+      "il": "parcourt",
+      "nous": "parcourons",
+      "vous": "parcourez",
+      "ils": "parcourent"
+    },
+    "passé_composé": {
+      "je": "ai parcouru",
+      "tu": "as parcouru",
+      "il": "a parcouru",
+      "nous": "avons parcouru",
+      "vous": "avez parcouru",
+      "ils": "ont parcouru"
+    },
+    "imparfait": {
+      "je": "parcourais",
+      "tu": "parcourais",
+      "il": "parcourait",
+      "nous": "parcourions",
+      "vous": "parcouriez",
+      "ils": "parcouraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais parcouru",
+      "tu": "avais parcouru",
+      "il": "avait parcouru",
+      "nous": "avions parcouru",
+      "vous": "aviez parcouru",
+      "ils": "avaient parcouru"
+    },
+    "passé_simple": {
+      "je": "parcourus",
+      "tu": "parcourus",
+      "il": "parcourut",
+      "nous": "parcourûmes",
+      "vous": "parcourûtes",
+      "ils": "parcoururent"
+    },
+    "passé_antérieur": {
+      "je": "eus parcouru",
+      "tu": "eus parcouru",
+      "il": "eut parcouru",
+      "nous": "eûmes parcouru",
+      "vous": "eûtes parcouru",
+      "ils": "eurent parcouru"
+    },
+    "futur_simple": {
+      "je": "parcourrai",
+      "tu": "parcourras",
+      "il": "parcourra",
+      "nous": "parcourrons",
+      "vous": "parcourrez",
+      "ils": "parcourront"
+    },
+    "futur_antérieur": {
+      "je": "aurai parcouru",
+      "tu": "auras parcouru",
+      "il": "aura parcouru",
+      "nous": "aurons parcouru",
+      "vous": "aurez parcouru",
+      "ils": "auront parcouru"
+    },
+    "subjonctif_présent": {
+      "je": "parcoure",
+      "tu": "parcoures",
+      "il": "parcoure",
+      "nous": "parcourions",
+      "vous": "parcouriez",
+      "ils": "parcourent"
+    },
+    "subjonctif_passé": {
+      "je": "aie parcouru",
+      "tu": "aies parcouru",
+      "il": "ait parcouru",
+      "nous": "ayons parcouru",
+      "vous": "ayez parcouru",
+      "ils": "aient parcouru"
+    },
+    "subjonctif_imparfait": {
+      "je": "parcourusse",
+      "tu": "parcourusses",
+      "il": "parcourût",
+      "nous": "parcourussions",
+      "vous": "parcourussiez",
+      "ils": "parcourussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse parcouru",
+      "tu": "eusses parcouru",
+      "il": "eût parcouru",
+      "nous": "eussions parcouru",
+      "vous": "eussiez parcouru",
+      "ils": "eussent parcouru"
+    },
+    "conditionnel_présent": {
+      "je": "parcourrais",
+      "tu": "parcourrais",
+      "il": "parcourrait",
+      "nous": "parcourrions",
+      "vous": "parcourriez",
+      "ils": "parcourraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais parcouru",
+      "tu": "aurais parcouru",
+      "il": "aurait parcouru",
+      "nous": "aurions parcouru",
+      "vous": "auriez parcouru",
+      "ils": "auraient parcouru"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse parcouru",
+      "tu": "eusses parcouru",
+      "il": "eût parcouru",
+      "nous": "eussions parcouru",
+      "vous": "eussiez parcouru",
+      "ils": "eussent parcouru"
+    },
+    "translation": "przebywać",
+    "group": 3
+  },
+  {
+    "infinitive": "pardonner",
+    "présent": {
+      "je": "pardonne",
+      "tu": "pardonnes",
+      "il": "pardonne",
+      "nous": "pardonnons",
+      "vous": "pardonnez",
+      "ils": "pardonnent"
+    },
+    "passé_composé": {
+      "je": "ai pardonné",
+      "tu": "as pardonné",
+      "il": "a pardonné",
+      "nous": "avons pardonné",
+      "vous": "avez pardonné",
+      "ils": "ont pardonné"
+    },
+    "imparfait": {
+      "je": "pardonnais",
+      "tu": "pardonnais",
+      "il": "pardonnait",
+      "nous": "pardonnions",
+      "vous": "pardonniez",
+      "ils": "pardonnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais pardonné",
+      "tu": "avais pardonné",
+      "il": "avait pardonné",
+      "nous": "avions pardonné",
+      "vous": "aviez pardonné",
+      "ils": "avaient pardonné"
+    },
+    "passé_simple": {
+      "je": "pardonnai",
+      "tu": "pardonnas",
+      "il": "pardonna",
+      "nous": "pardonnâmes",
+      "vous": "pardonnâtes",
+      "ils": "pardonnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus pardonné",
+      "tu": "eus pardonné",
+      "il": "eut pardonné",
+      "nous": "eûmes pardonné",
+      "vous": "eûtes pardonné",
+      "ils": "eurent pardonné"
+    },
+    "futur_simple": {
+      "je": "pardonnerai",
+      "tu": "pardonneras",
+      "il": "pardonnera",
+      "nous": "pardonnerons",
+      "vous": "pardonnerez",
+      "ils": "pardonneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai pardonné",
+      "tu": "auras pardonné",
+      "il": "aura pardonné",
+      "nous": "aurons pardonné",
+      "vous": "aurez pardonné",
+      "ils": "auront pardonné"
+    },
+    "subjonctif_présent": {
+      "je": "pardonne",
+      "tu": "pardonnes",
+      "il": "pardonne",
+      "nous": "pardonnions",
+      "vous": "pardonniez",
+      "ils": "pardonnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie pardonné",
+      "tu": "aies pardonné",
+      "il": "ait pardonné",
+      "nous": "ayons pardonné",
+      "vous": "ayez pardonné",
+      "ils": "aient pardonné"
+    },
+    "subjonctif_imparfait": {
+      "je": "pardonnasse",
+      "tu": "pardonnasses",
+      "il": "pardonnât",
+      "nous": "pardonnassions",
+      "vous": "pardonnassiez",
+      "ils": "pardonnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse pardonné",
+      "tu": "eusses pardonné",
+      "il": "eût pardonné",
+      "nous": "eussions pardonné",
+      "vous": "eussiez pardonné",
+      "ils": "eussent pardonné"
+    },
+    "conditionnel_présent": {
+      "je": "pardonnerais",
+      "tu": "pardonnerais",
+      "il": "pardonnerait",
+      "nous": "pardonnerions",
+      "vous": "pardonneriez",
+      "ils": "pardonneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais pardonné",
+      "tu": "aurais pardonné",
+      "il": "aurait pardonné",
+      "nous": "aurions pardonné",
+      "vous": "auriez pardonné",
+      "ils": "auraient pardonné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse pardonné",
+      "tu": "eusses pardonné",
+      "il": "eût pardonné",
+      "nous": "eussions pardonné",
+      "vous": "eussiez pardonné",
+      "ils": "eussent pardonné"
+    },
+    "translation": "wybaczać",
+    "group": 1
+  },
+  {
+    "infinitive": "parer",
+    "présent": {
+      "je": "pare",
+      "tu": "pares",
+      "il": "pare",
+      "nous": "parons",
+      "vous": "parez",
+      "ils": "parent"
+    },
+    "passé_composé": {
+      "je": "ai paré",
+      "tu": "as paré",
+      "il": "a paré",
+      "nous": "avons paré",
+      "vous": "avez paré",
+      "ils": "ont paré"
+    },
+    "imparfait": {
+      "je": "parais",
+      "tu": "parais",
+      "il": "parait",
+      "nous": "parions",
+      "vous": "pariez",
+      "ils": "paraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais paré",
+      "tu": "avais paré",
+      "il": "avait paré",
+      "nous": "avions paré",
+      "vous": "aviez paré",
+      "ils": "avaient paré"
+    },
+    "passé_simple": {
+      "je": "parai",
+      "tu": "paras",
+      "il": "para",
+      "nous": "parâmes",
+      "vous": "parâtes",
+      "ils": "parèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus paré",
+      "tu": "eus paré",
+      "il": "eut paré",
+      "nous": "eûmes paré",
+      "vous": "eûtes paré",
+      "ils": "eurent paré"
+    },
+    "futur_simple": {
+      "je": "parerai",
+      "tu": "pareras",
+      "il": "parera",
+      "nous": "parerons",
+      "vous": "parerez",
+      "ils": "pareront"
+    },
+    "futur_antérieur": {
+      "je": "aurai paré",
+      "tu": "auras paré",
+      "il": "aura paré",
+      "nous": "aurons paré",
+      "vous": "aurez paré",
+      "ils": "auront paré"
+    },
+    "subjonctif_présent": {
+      "je": "pare",
+      "tu": "pares",
+      "il": "pare",
+      "nous": "parions",
+      "vous": "pariez",
+      "ils": "parent"
+    },
+    "subjonctif_passé": {
+      "je": "aie paré",
+      "tu": "aies paré",
+      "il": "ait paré",
+      "nous": "ayons paré",
+      "vous": "ayez paré",
+      "ils": "aient paré"
+    },
+    "subjonctif_imparfait": {
+      "je": "parasse",
+      "tu": "parasses",
+      "il": "parât",
+      "nous": "parassions",
+      "vous": "parassiez",
+      "ils": "parassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse paré",
+      "tu": "eusses paré",
+      "il": "eût paré",
+      "nous": "eussions paré",
+      "vous": "eussiez paré",
+      "ils": "eussent paré"
+    },
+    "conditionnel_présent": {
+      "je": "parerais",
+      "tu": "parerais",
+      "il": "parerait",
+      "nous": "parerions",
+      "vous": "pareriez",
+      "ils": "pareraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais paré",
+      "tu": "aurais paré",
+      "il": "aurait paré",
+      "nous": "aurions paré",
+      "vous": "auriez paré",
+      "ils": "auraient paré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse paré",
+      "tu": "eusses paré",
+      "il": "eût paré",
+      "nous": "eussions paré",
+      "vous": "eussiez paré",
+      "ils": "eussent paré"
+    },
+    "translation": "odpierać",
+    "group": 1
+  },
+  {
+    "infinitive": "parfaire",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_composé": {
+      "je": "ai parfait",
+      "tu": "as parfait",
+      "il": "a parfait",
+      "nous": "avons parfait",
+      "vous": "avez parfait",
+      "ils": "ont parfait"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "avais parfait",
+      "tu": "avais parfait",
+      "il": "avait parfait",
+      "nous": "avions parfait",
+      "vous": "aviez parfait",
+      "ils": "avaient parfait"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "eus parfait",
+      "tu": "eus parfait",
+      "il": "eut parfait",
+      "nous": "eûmes parfait",
+      "vous": "eûtes parfait",
+      "ils": "eurent parfait"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "aurai parfait",
+      "tu": "auras parfait",
+      "il": "aura parfait",
+      "nous": "aurons parfait",
+      "vous": "aurez parfait",
+      "ils": "auront parfait"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "aie parfait",
+      "tu": "aies parfait",
+      "il": "ait parfait",
+      "nous": "ayons parfait",
+      "vous": "ayez parfait",
+      "ils": "aient parfait"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse parfait",
+      "tu": "eusses parfait",
+      "il": "eût parfait",
+      "nous": "eussions parfait",
+      "vous": "eussiez parfait",
+      "ils": "eussent parfait"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais parfait",
+      "tu": "aurais parfait",
+      "il": "aurait parfait",
+      "nous": "aurions parfait",
+      "vous": "auriez parfait",
+      "ils": "auraient parfait"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse parfait",
+      "tu": "eusses parfait",
+      "il": "eût parfait",
+      "nous": "eussions parfait",
+      "vous": "eussiez parfait",
+      "ils": "eussent parfait"
+    },
+    "translation": "parfaire",
+    "group": 3
+  },
+  {
+    "infinitive": "parier",
+    "présent": {
+      "je": "parie",
+      "tu": "paries",
+      "il": "parie",
+      "nous": "parions",
+      "vous": "pariez",
+      "ils": "parient"
+    },
+    "passé_composé": {
+      "je": "ai parié",
+      "tu": "as parié",
+      "il": "a parié",
+      "nous": "avons parié",
+      "vous": "avez parié",
+      "ils": "ont parié"
+    },
+    "imparfait": {
+      "je": "pariais",
+      "tu": "pariais",
+      "il": "pariait",
+      "nous": "pariions",
+      "vous": "pariiez",
+      "ils": "pariaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais parié",
+      "tu": "avais parié",
+      "il": "avait parié",
+      "nous": "avions parié",
+      "vous": "aviez parié",
+      "ils": "avaient parié"
+    },
+    "passé_simple": {
+      "je": "pariai",
+      "tu": "parias",
+      "il": "paria",
+      "nous": "pariâmes",
+      "vous": "pariâtes",
+      "ils": "parièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus parié",
+      "tu": "eus parié",
+      "il": "eut parié",
+      "nous": "eûmes parié",
+      "vous": "eûtes parié",
+      "ils": "eurent parié"
+    },
+    "futur_simple": {
+      "je": "parierai",
+      "tu": "parieras",
+      "il": "pariera",
+      "nous": "parierons",
+      "vous": "parierez",
+      "ils": "parieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai parié",
+      "tu": "auras parié",
+      "il": "aura parié",
+      "nous": "aurons parié",
+      "vous": "aurez parié",
+      "ils": "auront parié"
+    },
+    "subjonctif_présent": {
+      "je": "parie",
+      "tu": "paries",
+      "il": "parie",
+      "nous": "pariions",
+      "vous": "pariiez",
+      "ils": "parient"
+    },
+    "subjonctif_passé": {
+      "je": "aie parié",
+      "tu": "aies parié",
+      "il": "ait parié",
+      "nous": "ayons parié",
+      "vous": "ayez parié",
+      "ils": "aient parié"
+    },
+    "subjonctif_imparfait": {
+      "je": "pariasse",
+      "tu": "pariasses",
+      "il": "pariât",
+      "nous": "pariassions",
+      "vous": "pariassiez",
+      "ils": "pariassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse parié",
+      "tu": "eusses parié",
+      "il": "eût parié",
+      "nous": "eussions parié",
+      "vous": "eussiez parié",
+      "ils": "eussent parié"
+    },
+    "conditionnel_présent": {
+      "je": "parierais",
+      "tu": "parierais",
+      "il": "parierait",
+      "nous": "parierions",
+      "vous": "parieriez",
+      "ils": "parieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais parié",
+      "tu": "aurais parié",
+      "il": "aurait parié",
+      "nous": "aurions parié",
+      "vous": "auriez parié",
+      "ils": "auraient parié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse parié",
+      "tu": "eusses parié",
+      "il": "eût parié",
+      "nous": "eussions parié",
+      "vous": "eussiez parié",
+      "ils": "eussent parié"
+    },
+    "translation": "zakładać",
+    "group": 1
+  },
+  {
+    "infinitive": "parler",
+    "présent": {
+      "je": "parle",
+      "tu": "parles",
+      "il": "parle",
+      "nous": "parlons",
+      "vous": "parlez",
+      "ils": "parlent"
+    },
+    "passé_composé": {
+      "je": "ai parlé",
+      "tu": "as parlé",
+      "il": "a parlé",
+      "nous": "avons parlé",
+      "vous": "avez parlé",
+      "ils": "ont parlé"
+    },
+    "imparfait": {
+      "je": "parlais",
+      "tu": "parlais",
+      "il": "parlait",
+      "nous": "parlions",
+      "vous": "parliez",
+      "ils": "parlaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais parlé",
+      "tu": "avais parlé",
+      "il": "avait parlé",
+      "nous": "avions parlé",
+      "vous": "aviez parlé",
+      "ils": "avaient parlé"
+    },
+    "passé_simple": {
+      "je": "parlai",
+      "tu": "parlas",
+      "il": "parla",
+      "nous": "parlâmes",
+      "vous": "parlâtes",
+      "ils": "parlèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus parlé",
+      "tu": "eus parlé",
+      "il": "eut parlé",
+      "nous": "eûmes parlé",
+      "vous": "eûtes parlé",
+      "ils": "eurent parlé"
+    },
+    "futur_simple": {
+      "je": "parlerai",
+      "tu": "parleras",
+      "il": "parlera",
+      "nous": "parlerons",
+      "vous": "parlerez",
+      "ils": "parleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai parlé",
+      "tu": "auras parlé",
+      "il": "aura parlé",
+      "nous": "aurons parlé",
+      "vous": "aurez parlé",
+      "ils": "auront parlé"
+    },
+    "subjonctif_présent": {
+      "je": "parle",
+      "tu": "parles",
+      "il": "parle",
+      "nous": "parlions",
+      "vous": "parliez",
+      "ils": "parlent"
+    },
+    "subjonctif_passé": {
+      "je": "aie parlé",
+      "tu": "aies parlé",
+      "il": "ait parlé",
+      "nous": "ayons parlé",
+      "vous": "ayez parlé",
+      "ils": "aient parlé"
+    },
+    "subjonctif_imparfait": {
+      "je": "parlasse",
+      "tu": "parlasses",
+      "il": "parlât",
+      "nous": "parlassions",
+      "vous": "parlassiez",
+      "ils": "parlassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse parlé",
+      "tu": "eusses parlé",
+      "il": "eût parlé",
+      "nous": "eussions parlé",
+      "vous": "eussiez parlé",
+      "ils": "eussent parlé"
+    },
+    "conditionnel_présent": {
+      "je": "parlerais",
+      "tu": "parlerais",
+      "il": "parlerait",
+      "nous": "parlerions",
+      "vous": "parleriez",
+      "ils": "parleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais parlé",
+      "tu": "aurais parlé",
+      "il": "aurait parlé",
+      "nous": "aurions parlé",
+      "vous": "auriez parlé",
+      "ils": "auraient parlé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse parlé",
+      "tu": "eusses parlé",
+      "il": "eût parlé",
+      "nous": "eussions parlé",
+      "vous": "eussiez parlé",
+      "ils": "eussent parlé"
+    },
+    "translation": "mówić",
+    "group": 1
+  },
+  {
+    "infinitive": "parrainer",
+    "présent": {
+      "je": "parraine",
+      "tu": "parraines",
+      "il": "parraine",
+      "nous": "parrainons",
+      "vous": "parrainez",
+      "ils": "parrainent"
+    },
+    "passé_composé": {
+      "je": "ai parrainé",
+      "tu": "as parrainé",
+      "il": "a parrainé",
+      "nous": "avons parrainé",
+      "vous": "avez parrainé",
+      "ils": "ont parrainé"
+    },
+    "imparfait": {
+      "je": "parrainais",
+      "tu": "parrainais",
+      "il": "parrainait",
+      "nous": "parrainions",
+      "vous": "parrainiez",
+      "ils": "parrainaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais parrainé",
+      "tu": "avais parrainé",
+      "il": "avait parrainé",
+      "nous": "avions parrainé",
+      "vous": "aviez parrainé",
+      "ils": "avaient parrainé"
+    },
+    "passé_simple": {
+      "je": "parrainai",
+      "tu": "parrainas",
+      "il": "parraina",
+      "nous": "parrainâmes",
+      "vous": "parrainâtes",
+      "ils": "parrainèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus parrainé",
+      "tu": "eus parrainé",
+      "il": "eut parrainé",
+      "nous": "eûmes parrainé",
+      "vous": "eûtes parrainé",
+      "ils": "eurent parrainé"
+    },
+    "futur_simple": {
+      "je": "parrainerai",
+      "tu": "parraineras",
+      "il": "parrainera",
+      "nous": "parrainerons",
+      "vous": "parrainerez",
+      "ils": "parraineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai parrainé",
+      "tu": "auras parrainé",
+      "il": "aura parrainé",
+      "nous": "aurons parrainé",
+      "vous": "aurez parrainé",
+      "ils": "auront parrainé"
+    },
+    "subjonctif_présent": {
+      "je": "parraine",
+      "tu": "parraines",
+      "il": "parraine",
+      "nous": "parrainions",
+      "vous": "parrainiez",
+      "ils": "parrainent"
+    },
+    "subjonctif_passé": {
+      "je": "aie parrainé",
+      "tu": "aies parrainé",
+      "il": "ait parrainé",
+      "nous": "ayons parrainé",
+      "vous": "ayez parrainé",
+      "ils": "aient parrainé"
+    },
+    "subjonctif_imparfait": {
+      "je": "parrainasse",
+      "tu": "parrainasses",
+      "il": "parrainât",
+      "nous": "parrainassions",
+      "vous": "parrainassiez",
+      "ils": "parrainassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse parrainé",
+      "tu": "eusses parrainé",
+      "il": "eût parrainé",
+      "nous": "eussions parrainé",
+      "vous": "eussiez parrainé",
+      "ils": "eussent parrainé"
+    },
+    "conditionnel_présent": {
+      "je": "parrainerais",
+      "tu": "parrainerais",
+      "il": "parrainerait",
+      "nous": "parrainerions",
+      "vous": "parraineriez",
+      "ils": "parraineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais parrainé",
+      "tu": "aurais parrainé",
+      "il": "aurait parrainé",
+      "nous": "aurions parrainé",
+      "vous": "auriez parrainé",
+      "ils": "auraient parrainé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse parrainé",
+      "tu": "eusses parrainé",
+      "il": "eût parrainé",
+      "nous": "eussions parrainé",
+      "vous": "eussiez parrainé",
+      "ils": "eussent parrainé"
+    },
+    "translation": "patronować",
+    "group": 1
+  },
+  {
+    "infinitive": "partager",
+    "présent": {
+      "je": "partage",
+      "tu": "partages",
+      "il": "partage",
+      "nous": "partageons",
+      "vous": "partagez",
+      "ils": "partagent"
+    },
+    "passé_composé": {
+      "je": "ai partagé",
+      "tu": "as partagé",
+      "il": "a partagé",
+      "nous": "avons partagé",
+      "vous": "avez partagé",
+      "ils": "ont partagé"
+    },
+    "imparfait": {
+      "je": "partageais",
+      "tu": "partageais",
+      "il": "partageait",
+      "nous": "partagions",
+      "vous": "partagiez",
+      "ils": "partageaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais partagé",
+      "tu": "avais partagé",
+      "il": "avait partagé",
+      "nous": "avions partagé",
+      "vous": "aviez partagé",
+      "ils": "avaient partagé"
+    },
+    "passé_simple": {
+      "je": "partageai",
+      "tu": "partageas",
+      "il": "partagea",
+      "nous": "partageâmes",
+      "vous": "partageâtes",
+      "ils": "partagèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus partagé",
+      "tu": "eus partagé",
+      "il": "eut partagé",
+      "nous": "eûmes partagé",
+      "vous": "eûtes partagé",
+      "ils": "eurent partagé"
+    },
+    "futur_simple": {
+      "je": "partagerai",
+      "tu": "partageras",
+      "il": "partagera",
+      "nous": "partagerons",
+      "vous": "partagerez",
+      "ils": "partageront"
+    },
+    "futur_antérieur": {
+      "je": "aurai partagé",
+      "tu": "auras partagé",
+      "il": "aura partagé",
+      "nous": "aurons partagé",
+      "vous": "aurez partagé",
+      "ils": "auront partagé"
+    },
+    "subjonctif_présent": {
+      "je": "partage",
+      "tu": "partages",
+      "il": "partage",
+      "nous": "partagions",
+      "vous": "partagiez",
+      "ils": "partagent"
+    },
+    "subjonctif_passé": {
+      "je": "aie partagé",
+      "tu": "aies partagé",
+      "il": "ait partagé",
+      "nous": "ayons partagé",
+      "vous": "ayez partagé",
+      "ils": "aient partagé"
+    },
+    "subjonctif_imparfait": {
+      "je": "partageasse",
+      "tu": "partageasses",
+      "il": "partageât",
+      "nous": "partageassions",
+      "vous": "partageassiez",
+      "ils": "partageassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse partagé",
+      "tu": "eusses partagé",
+      "il": "eût partagé",
+      "nous": "eussions partagé",
+      "vous": "eussiez partagé",
+      "ils": "eussent partagé"
+    },
+    "conditionnel_présent": {
+      "je": "partagerais",
+      "tu": "partagerais",
+      "il": "partagerait",
+      "nous": "partagerions",
+      "vous": "partageriez",
+      "ils": "partageraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais partagé",
+      "tu": "aurais partagé",
+      "il": "aurait partagé",
+      "nous": "aurions partagé",
+      "vous": "auriez partagé",
+      "ils": "auraient partagé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse partagé",
+      "tu": "eusses partagé",
+      "il": "eût partagé",
+      "nous": "eussions partagé",
+      "vous": "eussiez partagé",
+      "ils": "eussent partagé"
+    },
+    "translation": "dzielić",
+    "group": 1
+  },
+  {
+    "infinitive": "participer",
+    "présent": {
+      "je": "participe",
+      "tu": "participes",
+      "il": "participe",
+      "nous": "participons",
+      "vous": "participez",
+      "ils": "participent"
+    },
+    "passé_composé": {
+      "je": "ai participé",
+      "tu": "as participé",
+      "il": "a participé",
+      "nous": "avons participé",
+      "vous": "avez participé",
+      "ils": "ont participé"
+    },
+    "imparfait": {
+      "je": "participais",
+      "tu": "participais",
+      "il": "participait",
+      "nous": "participions",
+      "vous": "participiez",
+      "ils": "participaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais participé",
+      "tu": "avais participé",
+      "il": "avait participé",
+      "nous": "avions participé",
+      "vous": "aviez participé",
+      "ils": "avaient participé"
+    },
+    "passé_simple": {
+      "je": "participai",
+      "tu": "participas",
+      "il": "participa",
+      "nous": "participâmes",
+      "vous": "participâtes",
+      "ils": "participèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus participé",
+      "tu": "eus participé",
+      "il": "eut participé",
+      "nous": "eûmes participé",
+      "vous": "eûtes participé",
+      "ils": "eurent participé"
+    },
+    "futur_simple": {
+      "je": "participerai",
+      "tu": "participeras",
+      "il": "participera",
+      "nous": "participerons",
+      "vous": "participerez",
+      "ils": "participeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai participé",
+      "tu": "auras participé",
+      "il": "aura participé",
+      "nous": "aurons participé",
+      "vous": "aurez participé",
+      "ils": "auront participé"
+    },
+    "subjonctif_présent": {
+      "je": "participe",
+      "tu": "participes",
+      "il": "participe",
+      "nous": "participions",
+      "vous": "participiez",
+      "ils": "participent"
+    },
+    "subjonctif_passé": {
+      "je": "aie participé",
+      "tu": "aies participé",
+      "il": "ait participé",
+      "nous": "ayons participé",
+      "vous": "ayez participé",
+      "ils": "aient participé"
+    },
+    "subjonctif_imparfait": {
+      "je": "participasse",
+      "tu": "participasses",
+      "il": "participât",
+      "nous": "participassions",
+      "vous": "participassiez",
+      "ils": "participassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse participé",
+      "tu": "eusses participé",
+      "il": "eût participé",
+      "nous": "eussions participé",
+      "vous": "eussiez participé",
+      "ils": "eussent participé"
+    },
+    "conditionnel_présent": {
+      "je": "participerais",
+      "tu": "participerais",
+      "il": "participerait",
+      "nous": "participerions",
+      "vous": "participeriez",
+      "ils": "participeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais participé",
+      "tu": "aurais participé",
+      "il": "aurait participé",
+      "nous": "aurions participé",
+      "vous": "auriez participé",
+      "ils": "auraient participé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse participé",
+      "tu": "eusses participé",
+      "il": "eût participé",
+      "nous": "eussions participé",
+      "vous": "eussiez participé",
+      "ils": "eussent participé"
+    },
+    "translation": "uczestniczyć",
+    "group": 1
+  },
+  {
+    "infinitive": "partir",
+    "présent": {
+      "je": "pars",
+      "tu": "pars",
+      "il": "part",
+      "nous": "partons",
+      "vous": "partez",
+      "ils": "partent"
+    },
+    "passé_composé": {
+      "je": "suis parti",
+      "tu": "es parti",
+      "il": "est parti",
+      "nous": "sommes partis",
+      "vous": "êtes partis",
+      "ils": "sont partis"
+    },
+    "imparfait": {
+      "je": "partais",
+      "tu": "partais",
+      "il": "partait",
+      "nous": "partions",
+      "vous": "partiez",
+      "ils": "partaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais parti",
+      "tu": "étais parti",
+      "il": "était parti",
+      "nous": "étions partis",
+      "vous": "étiez partis",
+      "ils": "étaient partis"
+    },
+    "passé_simple": {
+      "je": "partis",
+      "tu": "partis",
+      "il": "partit",
+      "nous": "partîmes",
+      "vous": "partîtes",
+      "ils": "partirent"
+    },
+    "passé_antérieur": {
+      "je": "fus parti",
+      "tu": "fus parti",
+      "il": "fut parti",
+      "nous": "fûmes partis",
+      "vous": "fûtes partis",
+      "ils": "furent partis"
+    },
+    "futur_simple": {
+      "je": "partirai",
+      "tu": "partiras",
+      "il": "partira",
+      "nous": "partirons",
+      "vous": "partirez",
+      "ils": "partiront"
+    },
+    "futur_antérieur": {
+      "je": "serai parti",
+      "tu": "seras parti",
+      "il": "sera parti",
+      "nous": "serons partis",
+      "vous": "serez partis",
+      "ils": "seront partis"
+    },
+    "subjonctif_présent": {
+      "je": "parte",
+      "tu": "partes",
+      "il": "parte",
+      "nous": "partions",
+      "vous": "partiez",
+      "ils": "partent"
+    },
+    "subjonctif_passé": {
+      "je": "sois parti",
+      "tu": "sois parti",
+      "il": "soit parti",
+      "nous": "soyons partis",
+      "vous": "soyez partis",
+      "ils": "soient partis"
+    },
+    "subjonctif_imparfait": {
+      "je": "partisse",
+      "tu": "partisses",
+      "il": "partît",
+      "nous": "partissions",
+      "vous": "partissiez",
+      "ils": "partissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "fusse parti",
+      "tu": "fusses parti",
+      "il": "fût parti",
+      "nous": "fussions partis",
+      "vous": "fussiez partis",
+      "ils": "fussent partis"
+    },
+    "conditionnel_présent": {
+      "je": "partirais",
+      "tu": "partirais",
+      "il": "partirait",
+      "nous": "partirions",
+      "vous": "partiriez",
+      "ils": "partiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "serais parti",
+      "tu": "serais parti",
+      "il": "serait parti",
+      "nous": "serions partis",
+      "vous": "seriez partis",
+      "ils": "seraient partis"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "fusse parti",
+      "tu": "fusses parti",
+      "il": "fût parti",
+      "nous": "fussions partis",
+      "vous": "fussiez partis",
+      "ils": "fussent partis"
+    },
+    "translation": "odchodzić",
+    "group": 3
+  }
+]

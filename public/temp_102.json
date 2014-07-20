@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "garnir",
+    "présent": {
+      "je": "garnis",
+      "tu": "garnis",
+      "il": "garnit",
+      "nous": "garnissons",
+      "vous": "garnissez",
+      "ils": "garnissent"
+    },
+    "passé_composé": {
+      "je": "ai garni",
+      "tu": "as garni",
+      "il": "a garni",
+      "nous": "avons garni",
+      "vous": "avez garni",
+      "ils": "ont garni"
+    },
+    "imparfait": {
+      "je": "garnissais",
+      "tu": "garnissais",
+      "il": "garnissait",
+      "nous": "garnissions",
+      "vous": "garnissiez",
+      "ils": "garnissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais garni",
+      "tu": "avais garni",
+      "il": "avait garni",
+      "nous": "avions garni",
+      "vous": "aviez garni",
+      "ils": "avaient garni"
+    },
+    "passé_simple": {
+      "je": "garnis",
+      "tu": "garnis",
+      "il": "garnit",
+      "nous": "garnîmes",
+      "vous": "garnîtes",
+      "ils": "garnirent"
+    },
+    "passé_antérieur": {
+      "je": "eus garni",
+      "tu": "eus garni",
+      "il": "eut garni",
+      "nous": "eûmes garni",
+      "vous": "eûtes garni",
+      "ils": "eurent garni"
+    },
+    "futur_simple": {
+      "je": "garnirai",
+      "tu": "garniras",
+      "il": "garnira",
+      "nous": "garnirons",
+      "vous": "garnirez",
+      "ils": "garniront"
+    },
+    "futur_antérieur": {
+      "je": "aurai garni",
+      "tu": "auras garni",
+      "il": "aura garni",
+      "nous": "aurons garni",
+      "vous": "aurez garni",
+      "ils": "auront garni"
+    },
+    "subjonctif_présent": {
+      "je": "garnisse",
+      "tu": "garnisses",
+      "il": "garnisse",
+      "nous": "garnissions",
+      "vous": "garnissiez",
+      "ils": "garnissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie garni",
+      "tu": "aies garni",
+      "il": "ait garni",
+      "nous": "ayons garni",
+      "vous": "ayez garni",
+      "ils": "aient garni"
+    },
+    "subjonctif_imparfait": {
+      "je": "garnisse",
+      "tu": "garnisses",
+      "il": "garnît",
+      "nous": "garnissions",
+      "vous": "garnissiez",
+      "ils": "garnissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse garni",
+      "tu": "eusses garni",
+      "il": "eût garni",
+      "nous": "eussions garni",
+      "vous": "eussiez garni",
+      "ils": "eussent garni"
+    },
+    "conditionnel_présent": {
+      "je": "garnirais",
+      "tu": "garnirais",
+      "il": "garnirait",
+      "nous": "garnirions",
+      "vous": "garniriez",
+      "ils": "garniraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais garni",
+      "tu": "aurais garni",
+      "il": "aurait garni",
+      "nous": "aurions garni",
+      "vous": "auriez garni",
+      "ils": "auraient garni"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse garni",
+      "tu": "eusses garni",
+      "il": "eût garni",
+      "nous": "eussions garni",
+      "vous": "eussiez garni",
+      "ils": "eussent garni"
+    },
+    "translation": "przybierać",
+    "group": 2
+  },
+  {
+    "infinitive": "gaspiller",
+    "présent": {
+      "je": "gaspille",
+      "tu": "gaspilles",
+      "il": "gaspille",
+      "nous": "gaspillons",
+      "vous": "gaspillez",
+      "ils": "gaspillent"
+    },
+    "passé_composé": {
+      "je": "ai gaspillé",
+      "tu": "as gaspillé",
+      "il": "a gaspillé",
+      "nous": "avons gaspillé",
+      "vous": "avez gaspillé",
+      "ils": "ont gaspillé"
+    },
+    "imparfait": {
+      "je": "gaspillais",
+      "tu": "gaspillais",
+      "il": "gaspillait",
+      "nous": "gaspillions",
+      "vous": "gaspilliez",
+      "ils": "gaspillaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais gaspillé",
+      "tu": "avais gaspillé",
+      "il": "avait gaspillé",
+      "nous": "avions gaspillé",
+      "vous": "aviez gaspillé",
+      "ils": "avaient gaspillé"
+    },
+    "passé_simple": {
+      "je": "gaspillai",
+      "tu": "gaspillas",
+      "il": "gaspilla",
+      "nous": "gaspillâmes",
+      "vous": "gaspillâtes",
+      "ils": "gaspillèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus gaspillé",
+      "tu": "eus gaspillé",
+      "il": "eut gaspillé",
+      "nous": "eûmes gaspillé",
+      "vous": "eûtes gaspillé",
+      "ils": "eurent gaspillé"
+    },
+    "futur_simple": {
+      "je": "gaspillerai",
+      "tu": "gaspilleras",
+      "il": "gaspillera",
+      "nous": "gaspillerons",
+      "vous": "gaspillerez",
+      "ils": "gaspilleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai gaspillé",
+      "tu": "auras gaspillé",
+      "il": "aura gaspillé",
+      "nous": "aurons gaspillé",
+      "vous": "aurez gaspillé",
+      "ils": "auront gaspillé"
+    },
+    "subjonctif_présent": {
+      "je": "gaspille",
+      "tu": "gaspilles",
+      "il": "gaspille",
+      "nous": "gaspillions",
+      "vous": "gaspilliez",
+      "ils": "gaspillent"
+    },
+    "subjonctif_passé": {
+      "je": "aie gaspillé",
+      "tu": "aies gaspillé",
+      "il": "ait gaspillé",
+      "nous": "ayons gaspillé",
+      "vous": "ayez gaspillé",
+      "ils": "aient gaspillé"
+    },
+    "subjonctif_imparfait": {
+      "je": "gaspillasse",
+      "tu": "gaspillasses",
+      "il": "gaspillât",
+      "nous": "gaspillassions",
+      "vous": "gaspillassiez",
+      "ils": "gaspillassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse gaspillé",
+      "tu": "eusses gaspillé",
+      "il": "eût gaspillé",
+      "nous": "eussions gaspillé",
+      "vous": "eussiez gaspillé",
+      "ils": "eussent gaspillé"
+    },
+    "conditionnel_présent": {
+      "je": "gaspillerais",
+      "tu": "gaspillerais",
+      "il": "gaspillerait",
+      "nous": "gaspillerions",
+      "vous": "gaspilleriez",
+      "ils": "gaspilleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais gaspillé",
+      "tu": "aurais gaspillé",
+      "il": "aurait gaspillé",
+      "nous": "aurions gaspillé",
+      "vous": "auriez gaspillé",
+      "ils": "auraient gaspillé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse gaspillé",
+      "tu": "eusses gaspillé",
+      "il": "eût gaspillé",
+      "nous": "eussions gaspillé",
+      "vous": "eussiez gaspillé",
+      "ils": "eussent gaspillé"
+    },
+    "translation": "marnować",
+    "group": 1
+  },
+  {
+    "infinitive": "gâter",
+    "présent": {
+      "je": "gâte",
+      "tu": "gâtes",
+      "il": "gâte",
+      "nous": "gâtons",
+      "vous": "gâtez",
+      "ils": "gâtent"
+    },
+    "passé_composé": {
+      "je": "ai gâté",
+      "tu": "as gâté",
+      "il": "a gâté",
+      "nous": "avons gâté",
+      "vous": "avez gâté",
+      "ils": "ont gâté"
+    },
+    "imparfait": {
+      "je": "gâtais",
+      "tu": "gâtais",
+      "il": "gâtait",
+      "nous": "gâtions",
+      "vous": "gâtiez",
+      "ils": "gâtaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais gâté",
+      "tu": "avais gâté",
+      "il": "avait gâté",
+      "nous": "avions gâté",
+      "vous": "aviez gâté",
+      "ils": "avaient gâté"
+    },
+    "passé_simple": {
+      "je": "gâtai",
+      "tu": "gâtas",
+      "il": "gâta",
+      "nous": "gâtâmes",
+      "vous": "gâtâtes",
+      "ils": "gâtèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus gâté",
+      "tu": "eus gâté",
+      "il": "eut gâté",
+      "nous": "eûmes gâté",
+      "vous": "eûtes gâté",
+      "ils": "eurent gâté"
+    },
+    "futur_simple": {
+      "je": "gâterai",
+      "tu": "gâteras",
+      "il": "gâtera",
+      "nous": "gâterons",
+      "vous": "gâterez",
+      "ils": "gâteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai gâté",
+      "tu": "auras gâté",
+      "il": "aura gâté",
+      "nous": "aurons gâté",
+      "vous": "aurez gâté",
+      "ils": "auront gâté"
+    },
+    "subjonctif_présent": {
+      "je": "gâte",
+      "tu": "gâtes",
+      "il": "gâte",
+      "nous": "gâtions",
+      "vous": "gâtiez",
+      "ils": "gâtent"
+    },
+    "subjonctif_passé": {
+      "je": "aie gâté",
+      "tu": "aies gâté",
+      "il": "ait gâté",
+      "nous": "ayons gâté",
+      "vous": "ayez gâté",
+      "ils": "aient gâté"
+    },
+    "subjonctif_imparfait": {
+      "je": "gâtasse",
+      "tu": "gâtasses",
+      "il": "gâtât",
+      "nous": "gâtassions",
+      "vous": "gâtassiez",
+      "ils": "gâtassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse gâté",
+      "tu": "eusses gâté",
+      "il": "eût gâté",
+      "nous": "eussions gâté",
+      "vous": "eussiez gâté",
+      "ils": "eussent gâté"
+    },
+    "conditionnel_présent": {
+      "je": "gâterais",
+      "tu": "gâterais",
+      "il": "gâterait",
+      "nous": "gâterions",
+      "vous": "gâteriez",
+      "ils": "gâteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais gâté",
+      "tu": "aurais gâté",
+      "il": "aurait gâté",
+      "nous": "aurions gâté",
+      "vous": "auriez gâté",
+      "ils": "auraient gâté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse gâté",
+      "tu": "eusses gâté",
+      "il": "eût gâté",
+      "nous": "eussions gâté",
+      "vous": "eussiez gâté",
+      "ils": "eussent gâté"
+    },
+    "translation": "rozpuszczać",
+    "group": 1
+  },
+  {
+    "infinitive": "gazer",
+    "présent": {
+      "je": "gaze",
+      "tu": "gazes",
+      "il": "gaze",
+      "nous": "gazons",
+      "vous": "gazez",
+      "ils": "gazent"
+    },
+    "passé_composé": {
+      "je": "ai gazé",
+      "tu": "as gazé",
+      "il": "a gazé",
+      "nous": "avons gazé",
+      "vous": "avez gazé",
+      "ils": "ont gazé"
+    },
+    "imparfait": {
+      "je": "gazais",
+      "tu": "gazais",
+      "il": "gazait",
+      "nous": "gazions",
+      "vous": "gaziez",
+      "ils": "gazaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais gazé",
+      "tu": "avais gazé",
+      "il": "avait gazé",
+      "nous": "avions gazé",
+      "vous": "aviez gazé",
+      "ils": "avaient gazé"
+    },
+    "passé_simple": {
+      "je": "gazai",
+      "tu": "gazas",
+      "il": "gaza",
+      "nous": "gazâmes",
+      "vous": "gazâtes",
+      "ils": "gazèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus gazé",
+      "tu": "eus gazé",
+      "il": "eut gazé",
+      "nous": "eûmes gazé",
+      "vous": "eûtes gazé",
+      "ils": "eurent gazé"
+    },
+    "futur_simple": {
+      "je": "gazerai",
+      "tu": "gazeras",
+      "il": "gazera",
+      "nous": "gazerons",
+      "vous": "gazerez",
+      "ils": "gazeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai gazé",
+      "tu": "auras gazé",
+      "il": "aura gazé",
+      "nous": "aurons gazé",
+      "vous": "aurez gazé",
+      "ils": "auront gazé"
+    },
+    "subjonctif_présent": {
+      "je": "gaze",
+      "tu": "gazes",
+      "il": "gaze",
+      "nous": "gazions",
+      "vous": "gaziez",
+      "ils": "gazent"
+    },
+    "subjonctif_passé": {
+      "je": "aie gazé",
+      "tu": "aies gazé",
+      "il": "ait gazé",
+      "nous": "ayons gazé",
+      "vous": "ayez gazé",
+      "ils": "aient gazé"
+    },
+    "subjonctif_imparfait": {
+      "je": "gazasse",
+      "tu": "gazasses",
+      "il": "gazât",
+      "nous": "gazassions",
+      "vous": "gazassiez",
+      "ils": "gazassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse gazé",
+      "tu": "eusses gazé",
+      "il": "eût gazé",
+      "nous": "eussions gazé",
+      "vous": "eussiez gazé",
+      "ils": "eussent gazé"
+    },
+    "conditionnel_présent": {
+      "je": "gazerais",
+      "tu": "gazerais",
+      "il": "gazerait",
+      "nous": "gazerions",
+      "vous": "gazeriez",
+      "ils": "gazeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais gazé",
+      "tu": "aurais gazé",
+      "il": "aurait gazé",
+      "nous": "aurions gazé",
+      "vous": "auriez gazé",
+      "ils": "auraient gazé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse gazé",
+      "tu": "eusses gazé",
+      "il": "eût gazé",
+      "nous": "eussions gazé",
+      "vous": "eussiez gazé",
+      "ils": "eussent gazé"
+    },
+    "translation": "zagazować",
+    "group": 1
+  },
+  {
+    "infinitive": "geindre",
+    "présent": {
+      "je": "geins",
+      "tu": "geins",
+      "il": "geint",
+      "nous": "geignons",
+      "vous": "geignez",
+      "ils": "geignent"
+    },
+    "passé_composé": {
+      "je": "ai geint",
+      "tu": "as geint",
+      "il": "a geint",
+      "nous": "avons geint",
+      "vous": "avez geint",
+      "ils": "ont geint"
+    },
+    "imparfait": {
+      "je": "geignais",
+      "tu": "geignais",
+      "il": "geignait",
+      "nous": "geignions",
+      "vous": "geigniez",
+      "ils": "geignaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais geint",
+      "tu": "avais geint",
+      "il": "avait geint",
+      "nous": "avions geint",
+      "vous": "aviez geint",
+      "ils": "avaient geint"
+    },
+    "passé_simple": {
+      "je": "geignis",
+      "tu": "geignis",
+      "il": "geignit",
+      "nous": "geignîmes",
+      "vous": "geignîtes",
+      "ils": "geignirent"
+    },
+    "passé_antérieur": {
+      "je": "eus geint",
+      "tu": "eus geint",
+      "il": "eut geint",
+      "nous": "eûmes geint",
+      "vous": "eûtes geint",
+      "ils": "eurent geint"
+    },
+    "futur_simple": {
+      "je": "geindrai",
+      "tu": "geindras",
+      "il": "geindra",
+      "nous": "geindrons",
+      "vous": "geindrez",
+      "ils": "geindront"
+    },
+    "futur_antérieur": {
+      "je": "aurai geint",
+      "tu": "auras geint",
+      "il": "aura geint",
+      "nous": "aurons geint",
+      "vous": "aurez geint",
+      "ils": "auront geint"
+    },
+    "subjonctif_présent": {
+      "je": "geigne",
+      "tu": "geignes",
+      "il": "geigne",
+      "nous": "geignions",
+      "vous": "geigniez",
+      "ils": "geignent"
+    },
+    "subjonctif_passé": {
+      "je": "aie geint",
+      "tu": "aies geint",
+      "il": "ait geint",
+      "nous": "ayons geint",
+      "vous": "ayez geint",
+      "ils": "aient geint"
+    },
+    "subjonctif_imparfait": {
+      "je": "geignisse",
+      "tu": "geignisses",
+      "il": "geignît",
+      "nous": "geignissions",
+      "vous": "geignissiez",
+      "ils": "geignissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse geint",
+      "tu": "eusses geint",
+      "il": "eût geint",
+      "nous": "eussions geint",
+      "vous": "eussiez geint",
+      "ils": "eussent geint"
+    },
+    "conditionnel_présent": {
+      "je": "geindrais",
+      "tu": "geindrais",
+      "il": "geindrait",
+      "nous": "geindrions",
+      "vous": "geindriez",
+      "ils": "geindraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais geint",
+      "tu": "aurais geint",
+      "il": "aurait geint",
+      "nous": "aurions geint",
+      "vous": "auriez geint",
+      "ils": "auraient geint"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse geint",
+      "tu": "eusses geint",
+      "il": "eût geint",
+      "nous": "eussions geint",
+      "vous": "eussiez geint",
+      "ils": "eussent geint"
+    },
+    "translation": "zięć",
+    "group": 3
+  },
+  {
+    "infinitive": "geler",
+    "présent": {
+      "je": "gèle",
+      "tu": "gèles",
+      "il": "gèle",
+      "nous": "gelons",
+      "vous": "gelez",
+      "ils": "gèlent"
+    },
+    "passé_composé": {
+      "je": "ai gelé",
+      "tu": "as gelé",
+      "il": "a gelé",
+      "nous": "avons gelé",
+      "vous": "avez gelé",
+      "ils": "ont gelé"
+    },
+    "imparfait": {
+      "je": "gelais",
+      "tu": "gelais",
+      "il": "gelait",
+      "nous": "gelions",
+      "vous": "geliez",
+      "ils": "gelaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais gelé",
+      "tu": "avais gelé",
+      "il": "avait gelé",
+      "nous": "avions gelé",
+      "vous": "aviez gelé",
+      "ils": "avaient gelé"
+    },
+    "passé_simple": {
+      "je": "gelai",
+      "tu": "gelas",
+      "il": "gela",
+      "nous": "gelâmes",
+      "vous": "gelâtes",
+      "ils": "gelèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus gelé",
+      "tu": "eus gelé",
+      "il": "eut gelé",
+      "nous": "eûmes gelé",
+      "vous": "eûtes gelé",
+      "ils": "eurent gelé"
+    },
+    "futur_simple": {
+      "je": "gèlerai",
+      "tu": "gèleras",
+      "il": "gèlera",
+      "nous": "gèlerons",
+      "vous": "gèlerez",
+      "ils": "gèleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai gelé",
+      "tu": "auras gelé",
+      "il": "aura gelé",
+      "nous": "aurons gelé",
+      "vous": "aurez gelé",
+      "ils": "auront gelé"
+    },
+    "subjonctif_présent": {
+      "je": "gèle",
+      "tu": "gèles",
+      "il": "gèle",
+      "nous": "gelions",
+      "vous": "geliez",
+      "ils": "gèlent"
+    },
+    "subjonctif_passé": {
+      "je": "aie gelé",
+      "tu": "aies gelé",
+      "il": "ait gelé",
+      "nous": "ayons gelé",
+      "vous": "ayez gelé",
+      "ils": "aient gelé"
+    },
+    "subjonctif_imparfait": {
+      "je": "gelasse",
+      "tu": "gelasses",
+      "il": "gelât",
+      "nous": "gelassions",
+      "vous": "gelassiez",
+      "ils": "gelassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse gelé",
+      "tu": "eusses gelé",
+      "il": "eût gelé",
+      "nous": "eussions gelé",
+      "vous": "eussiez gelé",
+      "ils": "eussent gelé"
+    },
+    "conditionnel_présent": {
+      "je": "gèlerais",
+      "tu": "gèlerais",
+      "il": "gèlerait",
+      "nous": "gèlerions",
+      "vous": "gèleriez",
+      "ils": "gèleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais gelé",
+      "tu": "aurais gelé",
+      "il": "aurait gelé",
+      "nous": "aurions gelé",
+      "vous": "auriez gelé",
+      "ils": "auraient gelé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse gelé",
+      "tu": "eusses gelé",
+      "il": "eût gelé",
+      "nous": "eussions gelé",
+      "vous": "eussiez gelé",
+      "ils": "eussent gelé"
+    },
+    "translation": "ścinać",
+    "group": 1
+  },
+  {
+    "infinitive": "gémir",
+    "présent": {
+      "je": "gémis",
+      "tu": "gémis",
+      "il": "gémit",
+      "nous": "gémissons",
+      "vous": "gémissez",
+      "ils": "gémissent"
+    },
+    "passé_composé": {
+      "je": "ai gémi",
+      "tu": "as gémi",
+      "il": "a gémi",
+      "nous": "avons gémi",
+      "vous": "avez gémi",
+      "ils": "ont gémi"
+    },
+    "imparfait": {
+      "je": "gémissais",
+      "tu": "gémissais",
+      "il": "gémissait",
+      "nous": "gémissions",
+      "vous": "gémissiez",
+      "ils": "gémissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais gémi",
+      "tu": "avais gémi",
+      "il": "avait gémi",
+      "nous": "avions gémi",
+      "vous": "aviez gémi",
+      "ils": "avaient gémi"
+    },
+    "passé_simple": {
+      "je": "gémis",
+      "tu": "gémis",
+      "il": "gémit",
+      "nous": "gémîmes",
+      "vous": "gémîtes",
+      "ils": "gémirent"
+    },
+    "passé_antérieur": {
+      "je": "eus gémi",
+      "tu": "eus gémi",
+      "il": "eut gémi",
+      "nous": "eûmes gémi",
+      "vous": "eûtes gémi",
+      "ils": "eurent gémi"
+    },
+    "futur_simple": {
+      "je": "gémirai",
+      "tu": "gémiras",
+      "il": "gémira",
+      "nous": "gémirons",
+      "vous": "gémirez",
+      "ils": "gémiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai gémi",
+      "tu": "auras gémi",
+      "il": "aura gémi",
+      "nous": "aurons gémi",
+      "vous": "aurez gémi",
+      "ils": "auront gémi"
+    },
+    "subjonctif_présent": {
+      "je": "gémisse",
+      "tu": "gémisses",
+      "il": "gémisse",
+      "nous": "gémissions",
+      "vous": "gémissiez",
+      "ils": "gémissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie gémi",
+      "tu": "aies gémi",
+      "il": "ait gémi",
+      "nous": "ayons gémi",
+      "vous": "ayez gémi",
+      "ils": "aient gémi"
+    },
+    "subjonctif_imparfait": {
+      "je": "gémisse",
+      "tu": "gémisses",
+      "il": "gémît",
+      "nous": "gémissions",
+      "vous": "gémissiez",
+      "ils": "gémissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse gémi",
+      "tu": "eusses gémi",
+      "il": "eût gémi",
+      "nous": "eussions gémi",
+      "vous": "eussiez gémi",
+      "ils": "eussent gémi"
+    },
+    "conditionnel_présent": {
+      "je": "gémirais",
+      "tu": "gémirais",
+      "il": "gémirait",
+      "nous": "gémirions",
+      "vous": "gémiriez",
+      "ils": "gémiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais gémi",
+      "tu": "aurais gémi",
+      "il": "aurait gémi",
+      "nous": "aurions gémi",
+      "vous": "auriez gémi",
+      "ils": "auraient gémi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse gémi",
+      "tu": "eusses gémi",
+      "il": "eût gémi",
+      "nous": "eussions gémi",
+      "vous": "eussiez gémi",
+      "ils": "eussent gémi"
+    },
+    "translation": "stękać",
+    "group": 2
+  },
+  {
+    "infinitive": "gêner",
+    "présent": {
+      "je": "gêne",
+      "tu": "gênes",
+      "il": "gêne",
+      "nous": "gênons",
+      "vous": "gênez",
+      "ils": "gênent"
+    },
+    "passé_composé": {
+      "je": "ai gêné",
+      "tu": "as gêné",
+      "il": "a gêné",
+      "nous": "avons gêné",
+      "vous": "avez gêné",
+      "ils": "ont gêné"
+    },
+    "imparfait": {
+      "je": "gênais",
+      "tu": "gênais",
+      "il": "gênait",
+      "nous": "gênions",
+      "vous": "gêniez",
+      "ils": "gênaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais gêné",
+      "tu": "avais gêné",
+      "il": "avait gêné",
+      "nous": "avions gêné",
+      "vous": "aviez gêné",
+      "ils": "avaient gêné"
+    },
+    "passé_simple": {
+      "je": "gênai",
+      "tu": "gênas",
+      "il": "gêna",
+      "nous": "gênâmes",
+      "vous": "gênâtes",
+      "ils": "gênèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus gêné",
+      "tu": "eus gêné",
+      "il": "eut gêné",
+      "nous": "eûmes gêné",
+      "vous": "eûtes gêné",
+      "ils": "eurent gêné"
+    },
+    "futur_simple": {
+      "je": "gênerai",
+      "tu": "gêneras",
+      "il": "gênera",
+      "nous": "gênerons",
+      "vous": "gênerez",
+      "ils": "gêneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai gêné",
+      "tu": "auras gêné",
+      "il": "aura gêné",
+      "nous": "aurons gêné",
+      "vous": "aurez gêné",
+      "ils": "auront gêné"
+    },
+    "subjonctif_présent": {
+      "je": "gêne",
+      "tu": "gênes",
+      "il": "gêne",
+      "nous": "gênions",
+      "vous": "gêniez",
+      "ils": "gênent"
+    },
+    "subjonctif_passé": {
+      "je": "aie gêné",
+      "tu": "aies gêné",
+      "il": "ait gêné",
+      "nous": "ayons gêné",
+      "vous": "ayez gêné",
+      "ils": "aient gêné"
+    },
+    "subjonctif_imparfait": {
+      "je": "gênasse",
+      "tu": "gênasses",
+      "il": "gênât",
+      "nous": "gênassions",
+      "vous": "gênassiez",
+      "ils": "gênassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse gêné",
+      "tu": "eusses gêné",
+      "il": "eût gêné",
+      "nous": "eussions gêné",
+      "vous": "eussiez gêné",
+      "ils": "eussent gêné"
+    },
+    "conditionnel_présent": {
+      "je": "gênerais",
+      "tu": "gênerais",
+      "il": "gênerait",
+      "nous": "gênerions",
+      "vous": "gêneriez",
+      "ils": "gêneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais gêné",
+      "tu": "aurais gêné",
+      "il": "aurait gêné",
+      "nous": "aurions gêné",
+      "vous": "auriez gêné",
+      "ils": "auraient gêné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse gêné",
+      "tu": "eusses gêné",
+      "il": "eût gêné",
+      "nous": "eussions gêné",
+      "vous": "eussiez gêné",
+      "ils": "eussent gêné"
+    },
+    "translation": "przeszkadzać",
+    "group": 1
+  },
+  {
+    "infinitive": "générer",
+    "présent": {
+      "je": "génère",
+      "tu": "génères",
+      "il": "génère",
+      "nous": "générons",
+      "vous": "générez",
+      "ils": "génèrent"
+    },
+    "passé_composé": {
+      "je": "ai généré",
+      "tu": "as généré",
+      "il": "a généré",
+      "nous": "avons généré",
+      "vous": "avez généré",
+      "ils": "ont généré"
+    },
+    "imparfait": {
+      "je": "générais",
+      "tu": "générais",
+      "il": "générait",
+      "nous": "générions",
+      "vous": "génériez",
+      "ils": "généraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais généré",
+      "tu": "avais généré",
+      "il": "avait généré",
+      "nous": "avions généré",
+      "vous": "aviez généré",
+      "ils": "avaient généré"
+    },
+    "passé_simple": {
+      "je": "générai",
+      "tu": "généras",
+      "il": "généra",
+      "nous": "générâmes",
+      "vous": "générâtes",
+      "ils": "générèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus généré",
+      "tu": "eus généré",
+      "il": "eut généré",
+      "nous": "eûmes généré",
+      "vous": "eûtes généré",
+      "ils": "eurent généré"
+    },
+    "futur_simple": {
+      "je": "générerai",
+      "tu": "généreras",
+      "il": "générera",
+      "nous": "générerons",
+      "vous": "générerez",
+      "ils": "généreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai généré",
+      "tu": "auras généré",
+      "il": "aura généré",
+      "nous": "aurons généré",
+      "vous": "aurez généré",
+      "ils": "auront généré"
+    },
+    "subjonctif_présent": {
+      "je": "génère",
+      "tu": "génères",
+      "il": "génère",
+      "nous": "générions",
+      "vous": "génériez",
+      "ils": "génèrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie généré",
+      "tu": "aies généré",
+      "il": "ait généré",
+      "nous": "ayons généré",
+      "vous": "ayez généré",
+      "ils": "aient généré"
+    },
+    "subjonctif_imparfait": {
+      "je": "générasse",
+      "tu": "générasses",
+      "il": "générât",
+      "nous": "générassions",
+      "vous": "générassiez",
+      "ils": "générassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse généré",
+      "tu": "eusses généré",
+      "il": "eût généré",
+      "nous": "eussions généré",
+      "vous": "eussiez généré",
+      "ils": "eussent généré"
+    },
+    "conditionnel_présent": {
+      "je": "générerais",
+      "tu": "générerais",
+      "il": "générerait",
+      "nous": "générerions",
+      "vous": "généreriez",
+      "ils": "généreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais généré",
+      "tu": "aurais généré",
+      "il": "aurait généré",
+      "nous": "aurions généré",
+      "vous": "auriez généré",
+      "ils": "auraient généré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse généré",
+      "tu": "eusses généré",
+      "il": "eût généré",
+      "nous": "eussions généré",
+      "vous": "eussiez généré",
+      "ils": "eussent généré"
+    },
+    "translation": "wytwarzać",
+    "group": 1
+  },
+  {
+    "infinitive": "gérer",
+    "présent": {
+      "je": "gère",
+      "tu": "gères",
+      "il": "gère",
+      "nous": "gérons",
+      "vous": "gérez",
+      "ils": "gèrent"
+    },
+    "passé_composé": {
+      "je": "ai géré",
+      "tu": "as géré",
+      "il": "a géré",
+      "nous": "avons géré",
+      "vous": "avez géré",
+      "ils": "ont géré"
+    },
+    "imparfait": {
+      "je": "gérais",
+      "tu": "gérais",
+      "il": "gérait",
+      "nous": "gérions",
+      "vous": "gériez",
+      "ils": "géraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais géré",
+      "tu": "avais géré",
+      "il": "avait géré",
+      "nous": "avions géré",
+      "vous": "aviez géré",
+      "ils": "avaient géré"
+    },
+    "passé_simple": {
+      "je": "gérai",
+      "tu": "géras",
+      "il": "géra",
+      "nous": "gérâmes",
+      "vous": "gérâtes",
+      "ils": "gérèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus géré",
+      "tu": "eus géré",
+      "il": "eut géré",
+      "nous": "eûmes géré",
+      "vous": "eûtes géré",
+      "ils": "eurent géré"
+    },
+    "futur_simple": {
+      "je": "gérerai",
+      "tu": "géreras",
+      "il": "gérera",
+      "nous": "gérerons",
+      "vous": "gérerez",
+      "ils": "géreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai géré",
+      "tu": "auras géré",
+      "il": "aura géré",
+      "nous": "aurons géré",
+      "vous": "aurez géré",
+      "ils": "auront géré"
+    },
+    "subjonctif_présent": {
+      "je": "gère",
+      "tu": "gères",
+      "il": "gère",
+      "nous": "gérions",
+      "vous": "gériez",
+      "ils": "gèrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie géré",
+      "tu": "aies géré",
+      "il": "ait géré",
+      "nous": "ayons géré",
+      "vous": "ayez géré",
+      "ils": "aient géré"
+    },
+    "subjonctif_imparfait": {
+      "je": "gérasse",
+      "tu": "gérasses",
+      "il": "gérât",
+      "nous": "gérassions",
+      "vous": "gérassiez",
+      "ils": "gérassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse géré",
+      "tu": "eusses géré",
+      "il": "eût géré",
+      "nous": "eussions géré",
+      "vous": "eussiez géré",
+      "ils": "eussent géré"
+    },
+    "conditionnel_présent": {
+      "je": "gérerais",
+      "tu": "gérerais",
+      "il": "gérerait",
+      "nous": "gérerions",
+      "vous": "géreriez",
+      "ils": "géreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais géré",
+      "tu": "aurais géré",
+      "il": "aurait géré",
+      "nous": "aurions géré",
+      "vous": "auriez géré",
+      "ils": "auraient géré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse géré",
+      "tu": "eusses géré",
+      "il": "eût géré",
+      "nous": "eussions géré",
+      "vous": "eussiez géré",
+      "ils": "eussent géré"
+    },
+    "translation": "zarządzać",
+    "group": 1
+  }
+]

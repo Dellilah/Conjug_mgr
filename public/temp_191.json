@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "traire",
+    "présent": {
+      "je": "trais",
+      "tu": "trais",
+      "il": "trait",
+      "nous": "trayons",
+      "vous": "trayez",
+      "ils": "traient"
+    },
+    "passé_composé": {
+      "je": "ai trait",
+      "tu": "as trait",
+      "il": "a trait",
+      "nous": "avons trait",
+      "vous": "avez trait",
+      "ils": "ont trait"
+    },
+    "imparfait": {
+      "je": "trayais",
+      "tu": "trayais",
+      "il": "trayait",
+      "nous": "trayions",
+      "vous": "trayiez",
+      "ils": "trayaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais trait",
+      "tu": "avais trait",
+      "il": "avait trait",
+      "nous": "avions trait",
+      "vous": "aviez trait",
+      "ils": "avaient trait"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "eus trait",
+      "tu": "eus trait",
+      "il": "eut trait",
+      "nous": "eûmes trait",
+      "vous": "eûtes trait",
+      "ils": "eurent trait"
+    },
+    "futur_simple": {
+      "je": "trairai",
+      "tu": "trairas",
+      "il": "traira",
+      "nous": "trairons",
+      "vous": "trairez",
+      "ils": "trairont"
+    },
+    "futur_antérieur": {
+      "je": "aurai trait",
+      "tu": "auras trait",
+      "il": "aura trait",
+      "nous": "aurons trait",
+      "vous": "aurez trait",
+      "ils": "auront trait"
+    },
+    "subjonctif_présent": {
+      "je": "traie",
+      "tu": "traies",
+      "il": "traie",
+      "nous": "trayions",
+      "vous": "trayiez",
+      "ils": "traient"
+    },
+    "subjonctif_passé": {
+      "je": "aie trait",
+      "tu": "aies trait",
+      "il": "ait trait",
+      "nous": "ayons trait",
+      "vous": "ayez trait",
+      "ils": "aient trait"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse trait",
+      "tu": "eusses trait",
+      "il": "eût trait",
+      "nous": "eussions trait",
+      "vous": "eussiez trait",
+      "ils": "eussent trait"
+    },
+    "conditionnel_présent": {
+      "je": "trairais",
+      "tu": "trairais",
+      "il": "trairait",
+      "nous": "trairions",
+      "vous": "trairiez",
+      "ils": "trairaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais trait",
+      "tu": "aurais trait",
+      "il": "aurait trait",
+      "nous": "aurions trait",
+      "vous": "auriez trait",
+      "ils": "auraient trait"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse trait",
+      "tu": "eusses trait",
+      "il": "eût trait",
+      "nous": "eussions trait",
+      "vous": "eussiez trait",
+      "ils": "eussent trait"
+    },
+    "translation": "doić",
+    "group": 3
+  },
+  {
+    "infinitive": "traiter",
+    "présent": {
+      "je": "traite",
+      "tu": "traites",
+      "il": "traite",
+      "nous": "traitons",
+      "vous": "traitez",
+      "ils": "traitent"
+    },
+    "passé_composé": {
+      "je": "ai traité",
+      "tu": "as traité",
+      "il": "a traité",
+      "nous": "avons traité",
+      "vous": "avez traité",
+      "ils": "ont traité"
+    },
+    "imparfait": {
+      "je": "traitais",
+      "tu": "traitais",
+      "il": "traitait",
+      "nous": "traitions",
+      "vous": "traitiez",
+      "ils": "traitaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais traité",
+      "tu": "avais traité",
+      "il": "avait traité",
+      "nous": "avions traité",
+      "vous": "aviez traité",
+      "ils": "avaient traité"
+    },
+    "passé_simple": {
+      "je": "traitai",
+      "tu": "traitas",
+      "il": "traita",
+      "nous": "traitâmes",
+      "vous": "traitâtes",
+      "ils": "traitèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus traité",
+      "tu": "eus traité",
+      "il": "eut traité",
+      "nous": "eûmes traité",
+      "vous": "eûtes traité",
+      "ils": "eurent traité"
+    },
+    "futur_simple": {
+      "je": "traiterai",
+      "tu": "traiteras",
+      "il": "traitera",
+      "nous": "traiterons",
+      "vous": "traiterez",
+      "ils": "traiteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai traité",
+      "tu": "auras traité",
+      "il": "aura traité",
+      "nous": "aurons traité",
+      "vous": "aurez traité",
+      "ils": "auront traité"
+    },
+    "subjonctif_présent": {
+      "je": "traite",
+      "tu": "traites",
+      "il": "traite",
+      "nous": "traitions",
+      "vous": "traitiez",
+      "ils": "traitent"
+    },
+    "subjonctif_passé": {
+      "je": "aie traité",
+      "tu": "aies traité",
+      "il": "ait traité",
+      "nous": "ayons traité",
+      "vous": "ayez traité",
+      "ils": "aient traité"
+    },
+    "subjonctif_imparfait": {
+      "je": "traitasse",
+      "tu": "traitasses",
+      "il": "traitât",
+      "nous": "traitassions",
+      "vous": "traitassiez",
+      "ils": "traitassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse traité",
+      "tu": "eusses traité",
+      "il": "eût traité",
+      "nous": "eussions traité",
+      "vous": "eussiez traité",
+      "ils": "eussent traité"
+    },
+    "conditionnel_présent": {
+      "je": "traiterais",
+      "tu": "traiterais",
+      "il": "traiterait",
+      "nous": "traiterions",
+      "vous": "traiteriez",
+      "ils": "traiteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais traité",
+      "tu": "aurais traité",
+      "il": "aurait traité",
+      "nous": "aurions traité",
+      "vous": "auriez traité",
+      "ils": "auraient traité"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse traité",
+      "tu": "eusses traité",
+      "il": "eût traité",
+      "nous": "eussions traité",
+      "vous": "eussiez traité",
+      "ils": "eussent traité"
+    },
+    "translation": "postępować",
+    "group": 1
+  },
+  {
+    "infinitive": "tramer",
+    "présent": {
+      "je": "trame",
+      "tu": "trames",
+      "il": "trame",
+      "nous": "tramons",
+      "vous": "tramez",
+      "ils": "trament"
+    },
+    "passé_composé": {
+      "je": "ai tramé",
+      "tu": "as tramé",
+      "il": "a tramé",
+      "nous": "avons tramé",
+      "vous": "avez tramé",
+      "ils": "ont tramé"
+    },
+    "imparfait": {
+      "je": "tramais",
+      "tu": "tramais",
+      "il": "tramait",
+      "nous": "tramions",
+      "vous": "tramiez",
+      "ils": "tramaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais tramé",
+      "tu": "avais tramé",
+      "il": "avait tramé",
+      "nous": "avions tramé",
+      "vous": "aviez tramé",
+      "ils": "avaient tramé"
+    },
+    "passé_simple": {
+      "je": "tramai",
+      "tu": "tramas",
+      "il": "trama",
+      "nous": "tramâmes",
+      "vous": "tramâtes",
+      "ils": "tramèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus tramé",
+      "tu": "eus tramé",
+      "il": "eut tramé",
+      "nous": "eûmes tramé",
+      "vous": "eûtes tramé",
+      "ils": "eurent tramé"
+    },
+    "futur_simple": {
+      "je": "tramerai",
+      "tu": "trameras",
+      "il": "tramera",
+      "nous": "tramerons",
+      "vous": "tramerez",
+      "ils": "trameront"
+    },
+    "futur_antérieur": {
+      "je": "aurai tramé",
+      "tu": "auras tramé",
+      "il": "aura tramé",
+      "nous": "aurons tramé",
+      "vous": "aurez tramé",
+      "ils": "auront tramé"
+    },
+    "subjonctif_présent": {
+      "je": "trame",
+      "tu": "trames",
+      "il": "trame",
+      "nous": "tramions",
+      "vous": "tramiez",
+      "ils": "trament"
+    },
+    "subjonctif_passé": {
+      "je": "aie tramé",
+      "tu": "aies tramé",
+      "il": "ait tramé",
+      "nous": "ayons tramé",
+      "vous": "ayez tramé",
+      "ils": "aient tramé"
+    },
+    "subjonctif_imparfait": {
+      "je": "tramasse",
+      "tu": "tramasses",
+      "il": "tramât",
+      "nous": "tramassions",
+      "vous": "tramassiez",
+      "ils": "tramassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse tramé",
+      "tu": "eusses tramé",
+      "il": "eût tramé",
+      "nous": "eussions tramé",
+      "vous": "eussiez tramé",
+      "ils": "eussent tramé"
+    },
+    "conditionnel_présent": {
+      "je": "tramerais",
+      "tu": "tramerais",
+      "il": "tramerait",
+      "nous": "tramerions",
+      "vous": "trameriez",
+      "ils": "trameraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais tramé",
+      "tu": "aurais tramé",
+      "il": "aurait tramé",
+      "nous": "aurions tramé",
+      "vous": "auriez tramé",
+      "ils": "auraient tramé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse tramé",
+      "tu": "eusses tramé",
+      "il": "eût tramé",
+      "nous": "eussions tramé",
+      "vous": "eussiez tramé",
+      "ils": "eussent tramé"
+    },
+    "translation": "knuć",
+    "group": 1
+  },
+  {
+    "infinitive": "transcrire",
+    "présent": {
+      "je": "transcris",
+      "tu": "transcris",
+      "il": "transcrit",
+      "nous": "transcrivons",
+      "vous": "transcrivez",
+      "ils": "transcrivent"
+    },
+    "passé_composé": {
+      "je": "ai transcrit",
+      "tu": "as transcrit",
+      "il": "a transcrit",
+      "nous": "avons transcrit",
+      "vous": "avez transcrit",
+      "ils": "ont transcrit"
+    },
+    "imparfait": {
+      "je": "transcrivais",
+      "tu": "transcrivais",
+      "il": "transcrivait",
+      "nous": "transcrivions",
+      "vous": "transcriviez",
+      "ils": "transcrivaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais transcrit",
+      "tu": "avais transcrit",
+      "il": "avait transcrit",
+      "nous": "avions transcrit",
+      "vous": "aviez transcrit",
+      "ils": "avaient transcrit"
+    },
+    "passé_simple": {
+      "je": "transcrivis",
+      "tu": "transcrivis",
+      "il": "transcrivit",
+      "nous": "transcrivîmes",
+      "vous": "transcrivîtes",
+      "ils": "transcrivirent"
+    },
+    "passé_antérieur": {
+      "je": "eus transcrit",
+      "tu": "eus transcrit",
+      "il": "eut transcrit",
+      "nous": "eûmes transcrit",
+      "vous": "eûtes transcrit",
+      "ils": "eurent transcrit"
+    },
+    "futur_simple": {
+      "je": "transcrirai",
+      "tu": "transcriras",
+      "il": "transcrira",
+      "nous": "transcrirons",
+      "vous": "transcrirez",
+      "ils": "transcriront"
+    },
+    "futur_antérieur": {
+      "je": "aurai transcrit",
+      "tu": "auras transcrit",
+      "il": "aura transcrit",
+      "nous": "aurons transcrit",
+      "vous": "aurez transcrit",
+      "ils": "auront transcrit"
+    },
+    "subjonctif_présent": {
+      "je": "transcrive",
+      "tu": "transcrives",
+      "il": "transcrive",
+      "nous": "transcrivions",
+      "vous": "transcriviez",
+      "ils": "transcrivent"
+    },
+    "subjonctif_passé": {
+      "je": "aie transcrit",
+      "tu": "aies transcrit",
+      "il": "ait transcrit",
+      "nous": "ayons transcrit",
+      "vous": "ayez transcrit",
+      "ils": "aient transcrit"
+    },
+    "subjonctif_imparfait": {
+      "je": "transcrivisse",
+      "tu": "transcrivisses",
+      "il": "transcrivît",
+      "nous": "transcrivissions",
+      "vous": "transcrivissiez",
+      "ils": "transcrivissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse transcrit",
+      "tu": "eusses transcrit",
+      "il": "eût transcrit",
+      "nous": "eussions transcrit",
+      "vous": "eussiez transcrit",
+      "ils": "eussent transcrit"
+    },
+    "conditionnel_présent": {
+      "je": "transcrirais",
+      "tu": "transcrirais",
+      "il": "transcrirait",
+      "nous": "transcririons",
+      "vous": "transcririez",
+      "ils": "transcriraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais transcrit",
+      "tu": "aurais transcrit",
+      "il": "aurait transcrit",
+      "nous": "aurions transcrit",
+      "vous": "auriez transcrit",
+      "ils": "auraient transcrit"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse transcrit",
+      "tu": "eusses transcrit",
+      "il": "eût transcrit",
+      "nous": "eussions transcrit",
+      "vous": "eussiez transcrit",
+      "ils": "eussent transcrit"
+    },
+    "translation": "przepisywać",
+    "group": 3
+  },
+  {
+    "infinitive": "transférer",
+    "présent": {
+      "je": "transfère",
+      "tu": "transfères",
+      "il": "transfère",
+      "nous": "transférons",
+      "vous": "transférez",
+      "ils": "transfèrent"
+    },
+    "passé_composé": {
+      "je": "ai transféré",
+      "tu": "as transféré",
+      "il": "a transféré",
+      "nous": "avons transféré",
+      "vous": "avez transféré",
+      "ils": "ont transféré"
+    },
+    "imparfait": {
+      "je": "transférais",
+      "tu": "transférais",
+      "il": "transférait",
+      "nous": "transférions",
+      "vous": "transfériez",
+      "ils": "transféraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais transféré",
+      "tu": "avais transféré",
+      "il": "avait transféré",
+      "nous": "avions transféré",
+      "vous": "aviez transféré",
+      "ils": "avaient transféré"
+    },
+    "passé_simple": {
+      "je": "transférai",
+      "tu": "transféras",
+      "il": "transféra",
+      "nous": "transférâmes",
+      "vous": "transférâtes",
+      "ils": "transférèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus transféré",
+      "tu": "eus transféré",
+      "il": "eut transféré",
+      "nous": "eûmes transféré",
+      "vous": "eûtes transféré",
+      "ils": "eurent transféré"
+    },
+    "futur_simple": {
+      "je": "transférerai",
+      "tu": "transféreras",
+      "il": "transférera",
+      "nous": "transférerons",
+      "vous": "transférerez",
+      "ils": "transféreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai transféré",
+      "tu": "auras transféré",
+      "il": "aura transféré",
+      "nous": "aurons transféré",
+      "vous": "aurez transféré",
+      "ils": "auront transféré"
+    },
+    "subjonctif_présent": {
+      "je": "transfère",
+      "tu": "transfères",
+      "il": "transfère",
+      "nous": "transférions",
+      "vous": "transfériez",
+      "ils": "transfèrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie transféré",
+      "tu": "aies transféré",
+      "il": "ait transféré",
+      "nous": "ayons transféré",
+      "vous": "ayez transféré",
+      "ils": "aient transféré"
+    },
+    "subjonctif_imparfait": {
+      "je": "transférasse",
+      "tu": "transférasses",
+      "il": "transférât",
+      "nous": "transférassions",
+      "vous": "transférassiez",
+      "ils": "transférassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse transféré",
+      "tu": "eusses transféré",
+      "il": "eût transféré",
+      "nous": "eussions transféré",
+      "vous": "eussiez transféré",
+      "ils": "eussent transféré"
+    },
+    "conditionnel_présent": {
+      "je": "transférerais",
+      "tu": "transférerais",
+      "il": "transférerait",
+      "nous": "transférerions",
+      "vous": "transféreriez",
+      "ils": "transféreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais transféré",
+      "tu": "aurais transféré",
+      "il": "aurait transféré",
+      "nous": "aurions transféré",
+      "vous": "auriez transféré",
+      "ils": "auraient transféré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse transféré",
+      "tu": "eusses transféré",
+      "il": "eût transféré",
+      "nous": "eussions transféré",
+      "vous": "eussiez transféré",
+      "ils": "eussent transféré"
+    },
+    "translation": "przenosić",
+    "group": 1
+  },
+  {
+    "infinitive": "transformer",
+    "présent": {
+      "je": "transforme",
+      "tu": "transformes",
+      "il": "transforme",
+      "nous": "transformons",
+      "vous": "transformez",
+      "ils": "transforment"
+    },
+    "passé_composé": {
+      "je": "ai transformé",
+      "tu": "as transformé",
+      "il": "a transformé",
+      "nous": "avons transformé",
+      "vous": "avez transformé",
+      "ils": "ont transformé"
+    },
+    "imparfait": {
+      "je": "transformais",
+      "tu": "transformais",
+      "il": "transformait",
+      "nous": "transformions",
+      "vous": "transformiez",
+      "ils": "transformaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais transformé",
+      "tu": "avais transformé",
+      "il": "avait transformé",
+      "nous": "avions transformé",
+      "vous": "aviez transformé",
+      "ils": "avaient transformé"
+    },
+    "passé_simple": {
+      "je": "transformai",
+      "tu": "transformas",
+      "il": "transforma",
+      "nous": "transformâmes",
+      "vous": "transformâtes",
+      "ils": "transformèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus transformé",
+      "tu": "eus transformé",
+      "il": "eut transformé",
+      "nous": "eûmes transformé",
+      "vous": "eûtes transformé",
+      "ils": "eurent transformé"
+    },
+    "futur_simple": {
+      "je": "transformerai",
+      "tu": "transformeras",
+      "il": "transformera",
+      "nous": "transformerons",
+      "vous": "transformerez",
+      "ils": "transformeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai transformé",
+      "tu": "auras transformé",
+      "il": "aura transformé",
+      "nous": "aurons transformé",
+      "vous": "aurez transformé",
+      "ils": "auront transformé"
+    },
+    "subjonctif_présent": {
+      "je": "transforme",
+      "tu": "transformes",
+      "il": "transforme",
+      "nous": "transformions",
+      "vous": "transformiez",
+      "ils": "transforment"
+    },
+    "subjonctif_passé": {
+      "je": "aie transformé",
+      "tu": "aies transformé",
+      "il": "ait transformé",
+      "nous": "ayons transformé",
+      "vous": "ayez transformé",
+      "ils": "aient transformé"
+    },
+    "subjonctif_imparfait": {
+      "je": "transformasse",
+      "tu": "transformasses",
+      "il": "transformât",
+      "nous": "transformassions",
+      "vous": "transformassiez",
+      "ils": "transformassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse transformé",
+      "tu": "eusses transformé",
+      "il": "eût transformé",
+      "nous": "eussions transformé",
+      "vous": "eussiez transformé",
+      "ils": "eussent transformé"
+    },
+    "conditionnel_présent": {
+      "je": "transformerais",
+      "tu": "transformerais",
+      "il": "transformerait",
+      "nous": "transformerions",
+      "vous": "transformeriez",
+      "ils": "transformeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais transformé",
+      "tu": "aurais transformé",
+      "il": "aurait transformé",
+      "nous": "aurions transformé",
+      "vous": "auriez transformé",
+      "ils": "auraient transformé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse transformé",
+      "tu": "eusses transformé",
+      "il": "eût transformé",
+      "nous": "eussions transformé",
+      "vous": "eussiez transformé",
+      "ils": "eussent transformé"
+    },
+    "translation": "przekształcać",
+    "group": 1
+  },
+  {
+    "infinitive": "transmettre",
+    "présent": {
+      "je": "transmets",
+      "tu": "transmets",
+      "il": "transmet",
+      "nous": "transmettons",
+      "vous": "transmettez",
+      "ils": "transmettent"
+    },
+    "passé_composé": {
+      "je": "ai transmis",
+      "tu": "as transmis",
+      "il": "a transmis",
+      "nous": "avons transmis",
+      "vous": "avez transmis",
+      "ils": "ont transmis"
+    },
+    "imparfait": {
+      "je": "transmettais",
+      "tu": "transmettais",
+      "il": "transmettait",
+      "nous": "transmettions",
+      "vous": "transmettiez",
+      "ils": "transmettaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais transmis",
+      "tu": "avais transmis",
+      "il": "avait transmis",
+      "nous": "avions transmis",
+      "vous": "aviez transmis",
+      "ils": "avaient transmis"
+    },
+    "passé_simple": {
+      "je": "transmis",
+      "tu": "transmis",
+      "il": "transmit",
+      "nous": "transmîmes",
+      "vous": "transmîtes",
+      "ils": "transmirent"
+    },
+    "passé_antérieur": {
+      "je": "eus transmis",
+      "tu": "eus transmis",
+      "il": "eut transmis",
+      "nous": "eûmes transmis",
+      "vous": "eûtes transmis",
+      "ils": "eurent transmis"
+    },
+    "futur_simple": {
+      "je": "transmettrai",
+      "tu": "transmettras",
+      "il": "transmettra",
+      "nous": "transmettrons",
+      "vous": "transmettrez",
+      "ils": "transmettront"
+    },
+    "futur_antérieur": {
+      "je": "aurai transmis",
+      "tu": "auras transmis",
+      "il": "aura transmis",
+      "nous": "aurons transmis",
+      "vous": "aurez transmis",
+      "ils": "auront transmis"
+    },
+    "subjonctif_présent": {
+      "je": "transmette",
+      "tu": "transmettes",
+      "il": "transmette",
+      "nous": "transmettions",
+      "vous": "transmettiez",
+      "ils": "transmettent"
+    },
+    "subjonctif_passé": {
+      "je": "aie transmis",
+      "tu": "aies transmis",
+      "il": "ait transmis",
+      "nous": "ayons transmis",
+      "vous": "ayez transmis",
+      "ils": "aient transmis"
+    },
+    "subjonctif_imparfait": {
+      "je": "transmisse",
+      "tu": "transmisses",
+      "il": "transmît",
+      "nous": "transmissions",
+      "vous": "transmissiez",
+      "ils": "transmissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse transmis",
+      "tu": "eusses transmis",
+      "il": "eût transmis",
+      "nous": "eussions transmis",
+      "vous": "eussiez transmis",
+      "ils": "eussent transmis"
+    },
+    "conditionnel_présent": {
+      "je": "transmettrais",
+      "tu": "transmettrais",
+      "il": "transmettrait",
+      "nous": "transmettrions",
+      "vous": "transmettriez",
+      "ils": "transmettraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais transmis",
+      "tu": "aurais transmis",
+      "il": "aurait transmis",
+      "nous": "aurions transmis",
+      "vous": "auriez transmis",
+      "ils": "auraient transmis"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse transmis",
+      "tu": "eusses transmis",
+      "il": "eût transmis",
+      "nous": "eussions transmis",
+      "vous": "eussiez transmis",
+      "ils": "eussent transmis"
+    },
+    "translation": "przekazywać",
+    "group": 3
+  },
+  {
+    "infinitive": "transparaître",
+    "présent": {
+      "je": "transparais",
+      "tu": "transparais",
+      "il": "transparaît",
+      "nous": "transparaissons",
+      "vous": "transparaissez",
+      "ils": "transparaissent"
+    },
+    "passé_composé": {
+      "je": "ai transparu",
+      "tu": "as transparu",
+      "il": "a transparu",
+      "nous": "avons transparu",
+      "vous": "avez transparu",
+      "ils": "ont transparu"
+    },
+    "imparfait": {
+      "je": "transparaissais",
+      "tu": "transparaissais",
+      "il": "transparaissait",
+      "nous": "transparaissions",
+      "vous": "transparaissiez",
+      "ils": "transparaissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais transparu",
+      "tu": "avais transparu",
+      "il": "avait transparu",
+      "nous": "avions transparu",
+      "vous": "aviez transparu",
+      "ils": "avaient transparu"
+    },
+    "passé_simple": {
+      "je": "transparus",
+      "tu": "transparus",
+      "il": "transparut",
+      "nous": "transparûmes",
+      "vous": "transparûtes",
+      "ils": "transparurent"
+    },
+    "passé_antérieur": {
+      "je": "eus transparu",
+      "tu": "eus transparu",
+      "il": "eut transparu",
+      "nous": "eûmes transparu",
+      "vous": "eûtes transparu",
+      "ils": "eurent transparu"
+    },
+    "futur_simple": {
+      "je": "transparaîtrai",
+      "tu": "transparaîtras",
+      "il": "transparaîtra",
+      "nous": "transparaîtrons",
+      "vous": "transparaîtrez",
+      "ils": "transparaîtront"
+    },
+    "futur_antérieur": {
+      "je": "aurai transparu",
+      "tu": "auras transparu",
+      "il": "aura transparu",
+      "nous": "aurons transparu",
+      "vous": "aurez transparu",
+      "ils": "auront transparu"
+    },
+    "subjonctif_présent": {
+      "je": "transparaisse",
+      "tu": "transparaisses",
+      "il": "transparaisse",
+      "nous": "transparaissions",
+      "vous": "transparaissiez",
+      "ils": "transparaissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie transparu",
+      "tu": "aies transparu",
+      "il": "ait transparu",
+      "nous": "ayons transparu",
+      "vous": "ayez transparu",
+      "ils": "aient transparu"
+    },
+    "subjonctif_imparfait": {
+      "je": "transparusse",
+      "tu": "transparusses",
+      "il": "transparût",
+      "nous": "transparussions",
+      "vous": "transparussiez",
+      "ils": "transparussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse transparu",
+      "tu": "eusses transparu",
+      "il": "eût transparu",
+      "nous": "eussions transparu",
+      "vous": "eussiez transparu",
+      "ils": "eussent transparu"
+    },
+    "conditionnel_présent": {
+      "je": "transparaîtrais",
+      "tu": "transparaîtrais",
+      "il": "transparaîtrait",
+      "nous": "transparaîtrions",
+      "vous": "transparaîtriez",
+      "ils": "transparaîtraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais transparu",
+      "tu": "aurais transparu",
+      "il": "aurait transparu",
+      "nous": "aurions transparu",
+      "vous": "auriez transparu",
+      "ils": "auraient transparu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse transparu",
+      "tu": "eusses transparu",
+      "il": "eût transparu",
+      "nous": "eussions transparu",
+      "vous": "eussiez transparu",
+      "ils": "eussent transparu"
+    },
+    "translation": "przeświecać",
+    "group": 3
+  },
+  {
+    "infinitive": "transporter",
+    "présent": {
+      "je": "transporte",
+      "tu": "transportes",
+      "il": "transporte",
+      "nous": "transportons",
+      "vous": "transportez",
+      "ils": "transportent"
+    },
+    "passé_composé": {
+      "je": "ai transporté",
+      "tu": "as transporté",
+      "il": "a transporté",
+      "nous": "avons transporté",
+      "vous": "avez transporté",
+      "ils": "ont transporté"
+    },
+    "imparfait": {
+      "je": "transportais",
+      "tu": "transportais",
+      "il": "transportait",
+      "nous": "transportions",
+      "vous": "transportiez",
+      "ils": "transportaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais transporté",
+      "tu": "avais transporté",
+      "il": "avait transporté",
+      "nous": "avions transporté",
+      "vous": "aviez transporté",
+      "ils": "avaient transporté"
+    },
+    "passé_simple": {
+      "je": "transportai",
+      "tu": "transportas",
+      "il": "transporta",
+      "nous": "transportâmes",
+      "vous": "transportâtes",
+      "ils": "transportèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus transporté",
+      "tu": "eus transporté",
+      "il": "eut transporté",
+      "nous": "eûmes transporté",
+      "vous": "eûtes transporté",
+      "ils": "eurent transporté"
+    },
+    "futur_simple": {
+      "je": "transporterai",
+      "tu": "transporteras",
+      "il": "transportera",
+      "nous": "transporterons",
+      "vous": "transporterez",
+      "ils": "transporteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai transporté",
+      "tu": "auras transporté",
+      "il": "aura transporté",
+      "nous": "aurons transporté",
+      "vous": "aurez transporté",
+      "ils": "auront transporté"
+    },
+    "subjonctif_présent": {
+      "je": "transporte",
+      "tu": "transportes",
+      "il": "transporte",
+      "nous": "transportions",
+      "vous": "transportiez",
+      "ils": "transportent"
+    },
+    "subjonctif_passé": {
+      "je": "aie transporté",
+      "tu": "aies transporté",
+      "il": "ait transporté",
+      "nous": "ayons transporté",
+      "vous": "ayez transporté",
+      "ils": "aient transporté"
+    },
+    "subjonctif_imparfait": {
+      "je": "transportasse",
+      "tu": "transportasses",
+      "il": "transportât",
+      "nous": "transportassions",
+      "vous": "transportassiez",
+      "ils": "transportassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse transporté",
+      "tu": "eusses transporté",
+      "il": "eût transporté",
+      "nous": "eussions transporté",
+      "vous": "eussiez transporté",
+      "ils": "eussent transporté"
+    },
+    "conditionnel_présent": {
+      "je": "transporterais",
+      "tu": "transporterais",
+      "il": "transporterait",
+      "nous": "transporterions",
+      "vous": "transporteriez",
+      "ils": "transporteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais transporté",
+      "tu": "aurais transporté",
+      "il": "aurait transporté",
+      "nous": "aurions transporté",
+      "vous": "auriez transporté",
+      "ils": "auraient transporté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse transporté",
+      "tu": "eusses transporté",
+      "il": "eût transporté",
+      "nous": "eussions transporté",
+      "vous": "eussiez transporté",
+      "ils": "eussent transporté"
+    },
+    "translation": "transportować",
+    "group": 1
+  },
+  {
+    "infinitive": "travailler",
+    "présent": {
+      "je": "travaille",
+      "tu": "travailles",
+      "il": "travaille",
+      "nous": "travaillons",
+      "vous": "travaillez",
+      "ils": "travaillent"
+    },
+    "passé_composé": {
+      "je": "ai travaillé",
+      "tu": "as travaillé",
+      "il": "a travaillé",
+      "nous": "avons travaillé",
+      "vous": "avez travaillé",
+      "ils": "ont travaillé"
+    },
+    "imparfait": {
+      "je": "travaillais",
+      "tu": "travaillais",
+      "il": "travaillait",
+      "nous": "travaillions",
+      "vous": "travailliez",
+      "ils": "travaillaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais travaillé",
+      "tu": "avais travaillé",
+      "il": "avait travaillé",
+      "nous": "avions travaillé",
+      "vous": "aviez travaillé",
+      "ils": "avaient travaillé"
+    },
+    "passé_simple": {
+      "je": "travaillai",
+      "tu": "travaillas",
+      "il": "travailla",
+      "nous": "travaillâmes",
+      "vous": "travaillâtes",
+      "ils": "travaillèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus travaillé",
+      "tu": "eus travaillé",
+      "il": "eut travaillé",
+      "nous": "eûmes travaillé",
+      "vous": "eûtes travaillé",
+      "ils": "eurent travaillé"
+    },
+    "futur_simple": {
+      "je": "travaillerai",
+      "tu": "travailleras",
+      "il": "travaillera",
+      "nous": "travaillerons",
+      "vous": "travaillerez",
+      "ils": "travailleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai travaillé",
+      "tu": "auras travaillé",
+      "il": "aura travaillé",
+      "nous": "aurons travaillé",
+      "vous": "aurez travaillé",
+      "ils": "auront travaillé"
+    },
+    "subjonctif_présent": {
+      "je": "travaille",
+      "tu": "travailles",
+      "il": "travaille",
+      "nous": "travaillions",
+      "vous": "travailliez",
+      "ils": "travaillent"
+    },
+    "subjonctif_passé": {
+      "je": "aie travaillé",
+      "tu": "aies travaillé",
+      "il": "ait travaillé",
+      "nous": "ayons travaillé",
+      "vous": "ayez travaillé",
+      "ils": "aient travaillé"
+    },
+    "subjonctif_imparfait": {
+      "je": "travaillasse",
+      "tu": "travaillasses",
+      "il": "travaillât",
+      "nous": "travaillassions",
+      "vous": "travaillassiez",
+      "ils": "travaillassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse travaillé",
+      "tu": "eusses travaillé",
+      "il": "eût travaillé",
+      "nous": "eussions travaillé",
+      "vous": "eussiez travaillé",
+      "ils": "eussent travaillé"
+    },
+    "conditionnel_présent": {
+      "je": "travaillerais",
+      "tu": "travaillerais",
+      "il": "travaillerait",
+      "nous": "travaillerions",
+      "vous": "travailleriez",
+      "ils": "travailleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais travaillé",
+      "tu": "aurais travaillé",
+      "il": "aurait travaillé",
+      "nous": "aurions travaillé",
+      "vous": "auriez travaillé",
+      "ils": "auraient travaillé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse travaillé",
+      "tu": "eusses travaillé",
+      "il": "eût travaillé",
+      "nous": "eussions travaillé",
+      "vous": "eussiez travaillé",
+      "ils": "eussent travaillé"
+    },
+    "translation": "pracować",
+    "group": 1
+  }
+]

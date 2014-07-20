@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "polluer",
+    "présent": {
+      "je": "pollue",
+      "tu": "pollues",
+      "il": "pollue",
+      "nous": "polluons",
+      "vous": "polluez",
+      "ils": "polluent"
+    },
+    "passé_composé": {
+      "je": "ai pollué",
+      "tu": "as pollué",
+      "il": "a pollué",
+      "nous": "avons pollué",
+      "vous": "avez pollué",
+      "ils": "ont pollué"
+    },
+    "imparfait": {
+      "je": "polluais",
+      "tu": "polluais",
+      "il": "polluait",
+      "nous": "polluions",
+      "vous": "polluiez",
+      "ils": "polluaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais pollué",
+      "tu": "avais pollué",
+      "il": "avait pollué",
+      "nous": "avions pollué",
+      "vous": "aviez pollué",
+      "ils": "avaient pollué"
+    },
+    "passé_simple": {
+      "je": "polluai",
+      "tu": "polluas",
+      "il": "pollua",
+      "nous": "polluâmes",
+      "vous": "polluâtes",
+      "ils": "polluèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus pollué",
+      "tu": "eus pollué",
+      "il": "eut pollué",
+      "nous": "eûmes pollué",
+      "vous": "eûtes pollué",
+      "ils": "eurent pollué"
+    },
+    "futur_simple": {
+      "je": "polluerai",
+      "tu": "pollueras",
+      "il": "polluera",
+      "nous": "polluerons",
+      "vous": "polluerez",
+      "ils": "pollueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai pollué",
+      "tu": "auras pollué",
+      "il": "aura pollué",
+      "nous": "aurons pollué",
+      "vous": "aurez pollué",
+      "ils": "auront pollué"
+    },
+    "subjonctif_présent": {
+      "je": "pollue",
+      "tu": "pollues",
+      "il": "pollue",
+      "nous": "polluions",
+      "vous": "polluiez",
+      "ils": "polluent"
+    },
+    "subjonctif_passé": {
+      "je": "aie pollué",
+      "tu": "aies pollué",
+      "il": "ait pollué",
+      "nous": "ayons pollué",
+      "vous": "ayez pollué",
+      "ils": "aient pollué"
+    },
+    "subjonctif_imparfait": {
+      "je": "polluasse",
+      "tu": "polluasses",
+      "il": "polluât",
+      "nous": "polluassions",
+      "vous": "polluassiez",
+      "ils": "polluassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse pollué",
+      "tu": "eusses pollué",
+      "il": "eût pollué",
+      "nous": "eussions pollué",
+      "vous": "eussiez pollué",
+      "ils": "eussent pollué"
+    },
+    "conditionnel_présent": {
+      "je": "polluerais",
+      "tu": "polluerais",
+      "il": "polluerait",
+      "nous": "polluerions",
+      "vous": "pollueriez",
+      "ils": "pollueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais pollué",
+      "tu": "aurais pollué",
+      "il": "aurait pollué",
+      "nous": "aurions pollué",
+      "vous": "auriez pollué",
+      "ils": "auraient pollué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse pollué",
+      "tu": "eusses pollué",
+      "il": "eût pollué",
+      "nous": "eussions pollué",
+      "vous": "eussiez pollué",
+      "ils": "eussent pollué"
+    },
+    "translation": "zanieczyszczać",
+    "group": 1
+  },
+  {
+    "infinitive": "pondre",
+    "présent": {
+      "je": "ponds",
+      "tu": "ponds",
+      "il": "pond",
+      "nous": "pondons",
+      "vous": "pondez",
+      "ils": "pondent"
+    },
+    "passé_composé": {
+      "je": "ai pondu",
+      "tu": "as pondu",
+      "il": "a pondu",
+      "nous": "avons pondu",
+      "vous": "avez pondu",
+      "ils": "ont pondu"
+    },
+    "imparfait": {
+      "je": "pondais",
+      "tu": "pondais",
+      "il": "pondait",
+      "nous": "pondions",
+      "vous": "pondiez",
+      "ils": "pondaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais pondu",
+      "tu": "avais pondu",
+      "il": "avait pondu",
+      "nous": "avions pondu",
+      "vous": "aviez pondu",
+      "ils": "avaient pondu"
+    },
+    "passé_simple": {
+      "je": "pondis",
+      "tu": "pondis",
+      "il": "pondit",
+      "nous": "pondîmes",
+      "vous": "pondîtes",
+      "ils": "pondirent"
+    },
+    "passé_antérieur": {
+      "je": "eus pondu",
+      "tu": "eus pondu",
+      "il": "eut pondu",
+      "nous": "eûmes pondu",
+      "vous": "eûtes pondu",
+      "ils": "eurent pondu"
+    },
+    "futur_simple": {
+      "je": "pondrai",
+      "tu": "pondras",
+      "il": "pondra",
+      "nous": "pondrons",
+      "vous": "pondrez",
+      "ils": "pondront"
+    },
+    "futur_antérieur": {
+      "je": "aurai pondu",
+      "tu": "auras pondu",
+      "il": "aura pondu",
+      "nous": "aurons pondu",
+      "vous": "aurez pondu",
+      "ils": "auront pondu"
+    },
+    "subjonctif_présent": {
+      "je": "ponde",
+      "tu": "pondes",
+      "il": "ponde",
+      "nous": "pondions",
+      "vous": "pondiez",
+      "ils": "pondent"
+    },
+    "subjonctif_passé": {
+      "je": "aie pondu",
+      "tu": "aies pondu",
+      "il": "ait pondu",
+      "nous": "ayons pondu",
+      "vous": "ayez pondu",
+      "ils": "aient pondu"
+    },
+    "subjonctif_imparfait": {
+      "je": "pondisse",
+      "tu": "pondisses",
+      "il": "pondît",
+      "nous": "pondissions",
+      "vous": "pondissiez",
+      "ils": "pondissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse pondu",
+      "tu": "eusses pondu",
+      "il": "eût pondu",
+      "nous": "eussions pondu",
+      "vous": "eussiez pondu",
+      "ils": "eussent pondu"
+    },
+    "conditionnel_présent": {
+      "je": "pondrais",
+      "tu": "pondrais",
+      "il": "pondrait",
+      "nous": "pondrions",
+      "vous": "pondriez",
+      "ils": "pondraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais pondu",
+      "tu": "aurais pondu",
+      "il": "aurait pondu",
+      "nous": "aurions pondu",
+      "vous": "auriez pondu",
+      "ils": "auraient pondu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse pondu",
+      "tu": "eusses pondu",
+      "il": "eût pondu",
+      "nous": "eussions pondu",
+      "vous": "eussiez pondu",
+      "ils": "eussent pondu"
+    },
+    "translation": "znosić",
+    "group": 3
+  },
+  {
+    "infinitive": "porter",
+    "présent": {
+      "je": "porte",
+      "tu": "portes",
+      "il": "porte",
+      "nous": "portons",
+      "vous": "portez",
+      "ils": "portent"
+    },
+    "passé_composé": {
+      "je": "ai porté",
+      "tu": "as porté",
+      "il": "a porté",
+      "nous": "avons porté",
+      "vous": "avez porté",
+      "ils": "ont porté"
+    },
+    "imparfait": {
+      "je": "portais",
+      "tu": "portais",
+      "il": "portait",
+      "nous": "portions",
+      "vous": "portiez",
+      "ils": "portaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais porté",
+      "tu": "avais porté",
+      "il": "avait porté",
+      "nous": "avions porté",
+      "vous": "aviez porté",
+      "ils": "avaient porté"
+    },
+    "passé_simple": {
+      "je": "portai",
+      "tu": "portas",
+      "il": "porta",
+      "nous": "portâmes",
+      "vous": "portâtes",
+      "ils": "portèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus porté",
+      "tu": "eus porté",
+      "il": "eut porté",
+      "nous": "eûmes porté",
+      "vous": "eûtes porté",
+      "ils": "eurent porté"
+    },
+    "futur_simple": {
+      "je": "porterai",
+      "tu": "porteras",
+      "il": "portera",
+      "nous": "porterons",
+      "vous": "porterez",
+      "ils": "porteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai porté",
+      "tu": "auras porté",
+      "il": "aura porté",
+      "nous": "aurons porté",
+      "vous": "aurez porté",
+      "ils": "auront porté"
+    },
+    "subjonctif_présent": {
+      "je": "porte",
+      "tu": "portes",
+      "il": "porte",
+      "nous": "portions",
+      "vous": "portiez",
+      "ils": "portent"
+    },
+    "subjonctif_passé": {
+      "je": "aie porté",
+      "tu": "aies porté",
+      "il": "ait porté",
+      "nous": "ayons porté",
+      "vous": "ayez porté",
+      "ils": "aient porté"
+    },
+    "subjonctif_imparfait": {
+      "je": "portasse",
+      "tu": "portasses",
+      "il": "portât",
+      "nous": "portassions",
+      "vous": "portassiez",
+      "ils": "portassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse porté",
+      "tu": "eusses porté",
+      "il": "eût porté",
+      "nous": "eussions porté",
+      "vous": "eussiez porté",
+      "ils": "eussent porté"
+    },
+    "conditionnel_présent": {
+      "je": "porterais",
+      "tu": "porterais",
+      "il": "porterait",
+      "nous": "porterions",
+      "vous": "porteriez",
+      "ils": "porteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais porté",
+      "tu": "aurais porté",
+      "il": "aurait porté",
+      "nous": "aurions porté",
+      "vous": "auriez porté",
+      "ils": "auraient porté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse porté",
+      "tu": "eusses porté",
+      "il": "eût porté",
+      "nous": "eussions porté",
+      "vous": "eussiez porté",
+      "ils": "eussent porté"
+    },
+    "translation": "nosić",
+    "group": 1
+  },
+  {
+    "infinitive": "poser",
+    "présent": {
+      "je": "pose",
+      "tu": "poses",
+      "il": "pose",
+      "nous": "posons",
+      "vous": "posez",
+      "ils": "posent"
+    },
+    "passé_composé": {
+      "je": "ai posé",
+      "tu": "as posé",
+      "il": "a posé",
+      "nous": "avons posé",
+      "vous": "avez posé",
+      "ils": "ont posé"
+    },
+    "imparfait": {
+      "je": "posais",
+      "tu": "posais",
+      "il": "posait",
+      "nous": "posions",
+      "vous": "posiez",
+      "ils": "posaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais posé",
+      "tu": "avais posé",
+      "il": "avait posé",
+      "nous": "avions posé",
+      "vous": "aviez posé",
+      "ils": "avaient posé"
+    },
+    "passé_simple": {
+      "je": "posai",
+      "tu": "posas",
+      "il": "posa",
+      "nous": "posâmes",
+      "vous": "posâtes",
+      "ils": "posèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus posé",
+      "tu": "eus posé",
+      "il": "eut posé",
+      "nous": "eûmes posé",
+      "vous": "eûtes posé",
+      "ils": "eurent posé"
+    },
+    "futur_simple": {
+      "je": "poserai",
+      "tu": "poseras",
+      "il": "posera",
+      "nous": "poserons",
+      "vous": "poserez",
+      "ils": "poseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai posé",
+      "tu": "auras posé",
+      "il": "aura posé",
+      "nous": "aurons posé",
+      "vous": "aurez posé",
+      "ils": "auront posé"
+    },
+    "subjonctif_présent": {
+      "je": "pose",
+      "tu": "poses",
+      "il": "pose",
+      "nous": "posions",
+      "vous": "posiez",
+      "ils": "posent"
+    },
+    "subjonctif_passé": {
+      "je": "aie posé",
+      "tu": "aies posé",
+      "il": "ait posé",
+      "nous": "ayons posé",
+      "vous": "ayez posé",
+      "ils": "aient posé"
+    },
+    "subjonctif_imparfait": {
+      "je": "posasse",
+      "tu": "posasses",
+      "il": "posât",
+      "nous": "posassions",
+      "vous": "posassiez",
+      "ils": "posassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse posé",
+      "tu": "eusses posé",
+      "il": "eût posé",
+      "nous": "eussions posé",
+      "vous": "eussiez posé",
+      "ils": "eussent posé"
+    },
+    "conditionnel_présent": {
+      "je": "poserais",
+      "tu": "poserais",
+      "il": "poserait",
+      "nous": "poserions",
+      "vous": "poseriez",
+      "ils": "poseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais posé",
+      "tu": "aurais posé",
+      "il": "aurait posé",
+      "nous": "aurions posé",
+      "vous": "auriez posé",
+      "ils": "auraient posé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse posé",
+      "tu": "eusses posé",
+      "il": "eût posé",
+      "nous": "eussions posé",
+      "vous": "eussiez posé",
+      "ils": "eussent posé"
+    },
+    "translation": "kłaść",
+    "group": 1
+  },
+  {
+    "infinitive": "positionner",
+    "présent": {
+      "je": "positionne",
+      "tu": "positionnes",
+      "il": "positionne",
+      "nous": "positionnons",
+      "vous": "positionnez",
+      "ils": "positionnent"
+    },
+    "passé_composé": {
+      "je": "ai positionné",
+      "tu": "as positionné",
+      "il": "a positionné",
+      "nous": "avons positionné",
+      "vous": "avez positionné",
+      "ils": "ont positionné"
+    },
+    "imparfait": {
+      "je": "positionnais",
+      "tu": "positionnais",
+      "il": "positionnait",
+      "nous": "positionnions",
+      "vous": "positionniez",
+      "ils": "positionnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais positionné",
+      "tu": "avais positionné",
+      "il": "avait positionné",
+      "nous": "avions positionné",
+      "vous": "aviez positionné",
+      "ils": "avaient positionné"
+    },
+    "passé_simple": {
+      "je": "positionnai",
+      "tu": "positionnas",
+      "il": "positionna",
+      "nous": "positionnâmes",
+      "vous": "positionnâtes",
+      "ils": "positionnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus positionné",
+      "tu": "eus positionné",
+      "il": "eut positionné",
+      "nous": "eûmes positionné",
+      "vous": "eûtes positionné",
+      "ils": "eurent positionné"
+    },
+    "futur_simple": {
+      "je": "positionnerai",
+      "tu": "positionneras",
+      "il": "positionnera",
+      "nous": "positionnerons",
+      "vous": "positionnerez",
+      "ils": "positionneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai positionné",
+      "tu": "auras positionné",
+      "il": "aura positionné",
+      "nous": "aurons positionné",
+      "vous": "aurez positionné",
+      "ils": "auront positionné"
+    },
+    "subjonctif_présent": {
+      "je": "positionne",
+      "tu": "positionnes",
+      "il": "positionne",
+      "nous": "positionnions",
+      "vous": "positionniez",
+      "ils": "positionnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie positionné",
+      "tu": "aies positionné",
+      "il": "ait positionné",
+      "nous": "ayons positionné",
+      "vous": "ayez positionné",
+      "ils": "aient positionné"
+    },
+    "subjonctif_imparfait": {
+      "je": "positionnasse",
+      "tu": "positionnasses",
+      "il": "positionnât",
+      "nous": "positionnassions",
+      "vous": "positionnassiez",
+      "ils": "positionnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse positionné",
+      "tu": "eusses positionné",
+      "il": "eût positionné",
+      "nous": "eussions positionné",
+      "vous": "eussiez positionné",
+      "ils": "eussent positionné"
+    },
+    "conditionnel_présent": {
+      "je": "positionnerais",
+      "tu": "positionnerais",
+      "il": "positionnerait",
+      "nous": "positionnerions",
+      "vous": "positionneriez",
+      "ils": "positionneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais positionné",
+      "tu": "aurais positionné",
+      "il": "aurait positionné",
+      "nous": "aurions positionné",
+      "vous": "auriez positionné",
+      "ils": "auraient positionné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse positionné",
+      "tu": "eusses positionné",
+      "il": "eût positionné",
+      "nous": "eussions positionné",
+      "vous": "eussiez positionné",
+      "ils": "eussent positionné"
+    },
+    "translation": "położenie",
+    "group": 1
+  },
+  {
+    "infinitive": "posséder",
+    "présent": {
+      "je": "possède",
+      "tu": "possèdes",
+      "il": "possède",
+      "nous": "possédons",
+      "vous": "possédez",
+      "ils": "possèdent"
+    },
+    "passé_composé": {
+      "je": "ai possédé",
+      "tu": "as possédé",
+      "il": "a possédé",
+      "nous": "avons possédé",
+      "vous": "avez possédé",
+      "ils": "ont possédé"
+    },
+    "imparfait": {
+      "je": "possédais",
+      "tu": "possédais",
+      "il": "possédait",
+      "nous": "possédions",
+      "vous": "possédiez",
+      "ils": "possédaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais possédé",
+      "tu": "avais possédé",
+      "il": "avait possédé",
+      "nous": "avions possédé",
+      "vous": "aviez possédé",
+      "ils": "avaient possédé"
+    },
+    "passé_simple": {
+      "je": "possédai",
+      "tu": "possédas",
+      "il": "posséda",
+      "nous": "possédâmes",
+      "vous": "possédâtes",
+      "ils": "possédèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus possédé",
+      "tu": "eus possédé",
+      "il": "eut possédé",
+      "nous": "eûmes possédé",
+      "vous": "eûtes possédé",
+      "ils": "eurent possédé"
+    },
+    "futur_simple": {
+      "je": "posséderai",
+      "tu": "posséderas",
+      "il": "possédera",
+      "nous": "posséderons",
+      "vous": "posséderez",
+      "ils": "posséderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai possédé",
+      "tu": "auras possédé",
+      "il": "aura possédé",
+      "nous": "aurons possédé",
+      "vous": "aurez possédé",
+      "ils": "auront possédé"
+    },
+    "subjonctif_présent": {
+      "je": "possède",
+      "tu": "possèdes",
+      "il": "possède",
+      "nous": "possédions",
+      "vous": "possédiez",
+      "ils": "possèdent"
+    },
+    "subjonctif_passé": {
+      "je": "aie possédé",
+      "tu": "aies possédé",
+      "il": "ait possédé",
+      "nous": "ayons possédé",
+      "vous": "ayez possédé",
+      "ils": "aient possédé"
+    },
+    "subjonctif_imparfait": {
+      "je": "possédasse",
+      "tu": "possédasses",
+      "il": "possédât",
+      "nous": "possédassions",
+      "vous": "possédassiez",
+      "ils": "possédassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse possédé",
+      "tu": "eusses possédé",
+      "il": "eût possédé",
+      "nous": "eussions possédé",
+      "vous": "eussiez possédé",
+      "ils": "eussent possédé"
+    },
+    "conditionnel_présent": {
+      "je": "posséderais",
+      "tu": "posséderais",
+      "il": "posséderait",
+      "nous": "posséderions",
+      "vous": "posséderiez",
+      "ils": "posséderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais possédé",
+      "tu": "aurais possédé",
+      "il": "aurait possédé",
+      "nous": "aurions possédé",
+      "vous": "auriez possédé",
+      "ils": "auraient possédé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse possédé",
+      "tu": "eusses possédé",
+      "il": "eût possédé",
+      "nous": "eussions possédé",
+      "vous": "eussiez possédé",
+      "ils": "eussent possédé"
+    },
+    "translation": "posiadać",
+    "group": 1
+  },
+  {
+    "infinitive": "poster",
+    "présent": {
+      "je": "poste",
+      "tu": "postes",
+      "il": "poste",
+      "nous": "postons",
+      "vous": "postez",
+      "ils": "postent"
+    },
+    "passé_composé": {
+      "je": "ai posté",
+      "tu": "as posté",
+      "il": "a posté",
+      "nous": "avons posté",
+      "vous": "avez posté",
+      "ils": "ont posté"
+    },
+    "imparfait": {
+      "je": "postais",
+      "tu": "postais",
+      "il": "postait",
+      "nous": "postions",
+      "vous": "postiez",
+      "ils": "postaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais posté",
+      "tu": "avais posté",
+      "il": "avait posté",
+      "nous": "avions posté",
+      "vous": "aviez posté",
+      "ils": "avaient posté"
+    },
+    "passé_simple": {
+      "je": "postai",
+      "tu": "postas",
+      "il": "posta",
+      "nous": "postâmes",
+      "vous": "postâtes",
+      "ils": "postèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus posté",
+      "tu": "eus posté",
+      "il": "eut posté",
+      "nous": "eûmes posté",
+      "vous": "eûtes posté",
+      "ils": "eurent posté"
+    },
+    "futur_simple": {
+      "je": "posterai",
+      "tu": "posteras",
+      "il": "postera",
+      "nous": "posterons",
+      "vous": "posterez",
+      "ils": "posteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai posté",
+      "tu": "auras posté",
+      "il": "aura posté",
+      "nous": "aurons posté",
+      "vous": "aurez posté",
+      "ils": "auront posté"
+    },
+    "subjonctif_présent": {
+      "je": "poste",
+      "tu": "postes",
+      "il": "poste",
+      "nous": "postions",
+      "vous": "postiez",
+      "ils": "postent"
+    },
+    "subjonctif_passé": {
+      "je": "aie posté",
+      "tu": "aies posté",
+      "il": "ait posté",
+      "nous": "ayons posté",
+      "vous": "ayez posté",
+      "ils": "aient posté"
+    },
+    "subjonctif_imparfait": {
+      "je": "postasse",
+      "tu": "postasses",
+      "il": "postât",
+      "nous": "postassions",
+      "vous": "postassiez",
+      "ils": "postassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse posté",
+      "tu": "eusses posté",
+      "il": "eût posté",
+      "nous": "eussions posté",
+      "vous": "eussiez posté",
+      "ils": "eussent posté"
+    },
+    "conditionnel_présent": {
+      "je": "posterais",
+      "tu": "posterais",
+      "il": "posterait",
+      "nous": "posterions",
+      "vous": "posteriez",
+      "ils": "posteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais posté",
+      "tu": "aurais posté",
+      "il": "aurait posté",
+      "nous": "aurions posté",
+      "vous": "auriez posté",
+      "ils": "auraient posté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse posté",
+      "tu": "eusses posté",
+      "il": "eût posté",
+      "nous": "eussions posté",
+      "vous": "eussiez posté",
+      "ils": "eussent posté"
+    },
+    "translation": "nadawać",
+    "group": 1
+  },
+  {
+    "infinitive": "postuler",
+    "présent": {
+      "je": "postule",
+      "tu": "postules",
+      "il": "postule",
+      "nous": "postulons",
+      "vous": "postulez",
+      "ils": "postulent"
+    },
+    "passé_composé": {
+      "je": "ai postulé",
+      "tu": "as postulé",
+      "il": "a postulé",
+      "nous": "avons postulé",
+      "vous": "avez postulé",
+      "ils": "ont postulé"
+    },
+    "imparfait": {
+      "je": "postulais",
+      "tu": "postulais",
+      "il": "postulait",
+      "nous": "postulions",
+      "vous": "postuliez",
+      "ils": "postulaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais postulé",
+      "tu": "avais postulé",
+      "il": "avait postulé",
+      "nous": "avions postulé",
+      "vous": "aviez postulé",
+      "ils": "avaient postulé"
+    },
+    "passé_simple": {
+      "je": "postulai",
+      "tu": "postulas",
+      "il": "postula",
+      "nous": "postulâmes",
+      "vous": "postulâtes",
+      "ils": "postulèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus postulé",
+      "tu": "eus postulé",
+      "il": "eut postulé",
+      "nous": "eûmes postulé",
+      "vous": "eûtes postulé",
+      "ils": "eurent postulé"
+    },
+    "futur_simple": {
+      "je": "postulerai",
+      "tu": "postuleras",
+      "il": "postulera",
+      "nous": "postulerons",
+      "vous": "postulerez",
+      "ils": "postuleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai postulé",
+      "tu": "auras postulé",
+      "il": "aura postulé",
+      "nous": "aurons postulé",
+      "vous": "aurez postulé",
+      "ils": "auront postulé"
+    },
+    "subjonctif_présent": {
+      "je": "postule",
+      "tu": "postules",
+      "il": "postule",
+      "nous": "postulions",
+      "vous": "postuliez",
+      "ils": "postulent"
+    },
+    "subjonctif_passé": {
+      "je": "aie postulé",
+      "tu": "aies postulé",
+      "il": "ait postulé",
+      "nous": "ayons postulé",
+      "vous": "ayez postulé",
+      "ils": "aient postulé"
+    },
+    "subjonctif_imparfait": {
+      "je": "postulasse",
+      "tu": "postulasses",
+      "il": "postulât",
+      "nous": "postulassions",
+      "vous": "postulassiez",
+      "ils": "postulassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse postulé",
+      "tu": "eusses postulé",
+      "il": "eût postulé",
+      "nous": "eussions postulé",
+      "vous": "eussiez postulé",
+      "ils": "eussent postulé"
+    },
+    "conditionnel_présent": {
+      "je": "postulerais",
+      "tu": "postulerais",
+      "il": "postulerait",
+      "nous": "postulerions",
+      "vous": "postuleriez",
+      "ils": "postuleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais postulé",
+      "tu": "aurais postulé",
+      "il": "aurait postulé",
+      "nous": "aurions postulé",
+      "vous": "auriez postulé",
+      "ils": "auraient postulé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse postulé",
+      "tu": "eusses postulé",
+      "il": "eût postulé",
+      "nous": "eussions postulé",
+      "vous": "eussiez postulé",
+      "ils": "eussent postulé"
+    },
+    "translation": "starać",
+    "group": 1
+  },
+  {
+    "infinitive": "poter",
+    "présent": {
+      "je": "pote",
+      "tu": "potes",
+      "il": "pote",
+      "nous": "potons",
+      "vous": "potez",
+      "ils": "potent"
+    },
+    "passé_composé": {
+      "je": "ai poté",
+      "tu": "as poté",
+      "il": "a poté",
+      "nous": "avons poté",
+      "vous": "avez poté",
+      "ils": "ont poté"
+    },
+    "imparfait": {
+      "je": "potais",
+      "tu": "potais",
+      "il": "potait",
+      "nous": "potions",
+      "vous": "potiez",
+      "ils": "potaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais poté",
+      "tu": "avais poté",
+      "il": "avait poté",
+      "nous": "avions poté",
+      "vous": "aviez poté",
+      "ils": "avaient poté"
+    },
+    "passé_simple": {
+      "je": "potai",
+      "tu": "potas",
+      "il": "pota",
+      "nous": "potâmes",
+      "vous": "potâtes",
+      "ils": "potèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus poté",
+      "tu": "eus poté",
+      "il": "eut poté",
+      "nous": "eûmes poté",
+      "vous": "eûtes poté",
+      "ils": "eurent poté"
+    },
+    "futur_simple": {
+      "je": "poterai",
+      "tu": "poteras",
+      "il": "potera",
+      "nous": "poterons",
+      "vous": "poterez",
+      "ils": "poteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai poté",
+      "tu": "auras poté",
+      "il": "aura poté",
+      "nous": "aurons poté",
+      "vous": "aurez poté",
+      "ils": "auront poté"
+    },
+    "subjonctif_présent": {
+      "je": "pote",
+      "tu": "potes",
+      "il": "pote",
+      "nous": "potions",
+      "vous": "potiez",
+      "ils": "potent"
+    },
+    "subjonctif_passé": {
+      "je": "aie poté",
+      "tu": "aies poté",
+      "il": "ait poté",
+      "nous": "ayons poté",
+      "vous": "ayez poté",
+      "ils": "aient poté"
+    },
+    "subjonctif_imparfait": {
+      "je": "potasse",
+      "tu": "potasses",
+      "il": "potât",
+      "nous": "potassions",
+      "vous": "potassiez",
+      "ils": "potassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse poté",
+      "tu": "eusses poté",
+      "il": "eût poté",
+      "nous": "eussions poté",
+      "vous": "eussiez poté",
+      "ils": "eussent poté"
+    },
+    "conditionnel_présent": {
+      "je": "poterais",
+      "tu": "poterais",
+      "il": "poterait",
+      "nous": "poterions",
+      "vous": "poteriez",
+      "ils": "poteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais poté",
+      "tu": "aurais poté",
+      "il": "aurait poté",
+      "nous": "aurions poté",
+      "vous": "auriez poté",
+      "ils": "auraient poté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse poté",
+      "tu": "eusses poté",
+      "il": "eût poté",
+      "nous": "eussions poté",
+      "vous": "eussiez poté",
+      "ils": "eussent poté"
+    },
+    "translation": "garncarz",
+    "group": 1
+  },
+  {
+    "infinitive": "pourrir",
+    "présent": {
+      "je": "pourris",
+      "tu": "pourris",
+      "il": "pourrit",
+      "nous": "pourrissons",
+      "vous": "pourrissez",
+      "ils": "pourrissent"
+    },
+    "passé_composé": {
+      "je": "suis pourri",
+      "tu": "es pourri",
+      "il": "est pourri",
+      "nous": "sommes pourris",
+      "vous": "êtes pourris",
+      "ils": "sont pourris"
+    },
+    "imparfait": {
+      "je": "pourrissais",
+      "tu": "pourrissais",
+      "il": "pourrissait",
+      "nous": "pourrissions",
+      "vous": "pourrissiez",
+      "ils": "pourrissaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais pourri",
+      "tu": "étais pourri",
+      "il": "était pourri",
+      "nous": "étions pourris",
+      "vous": "étiez pourris",
+      "ils": "étaient pourris"
+    },
+    "passé_simple": {
+      "je": "pourris",
+      "tu": "pourris",
+      "il": "pourrit",
+      "nous": "pourrîmes",
+      "vous": "pourrîtes",
+      "ils": "pourrirent"
+    },
+    "passé_antérieur": {
+      "je": "fus pourri",
+      "tu": "fus pourri",
+      "il": "fut pourri",
+      "nous": "fûmes pourris",
+      "vous": "fûtes pourris",
+      "ils": "furent pourris"
+    },
+    "futur_simple": {
+      "je": "pourrirai",
+      "tu": "pourriras",
+      "il": "pourrira",
+      "nous": "pourrirons",
+      "vous": "pourrirez",
+      "ils": "pourriront"
+    },
+    "futur_antérieur": {
+      "je": "serai pourri",
+      "tu": "seras pourri",
+      "il": "sera pourri",
+      "nous": "serons pourris",
+      "vous": "serez pourris",
+      "ils": "seront pourris"
+    },
+    "subjonctif_présent": {
+      "je": "pourrisse",
+      "tu": "pourrisses",
+      "il": "pourrisse",
+      "nous": "pourrissions",
+      "vous": "pourrissiez",
+      "ils": "pourrissent"
+    },
+    "subjonctif_passé": {
+      "je": "sois pourri",
+      "tu": "sois pourri",
+      "il": "soit pourri",
+      "nous": "soyons pourris",
+      "vous": "soyez pourris",
+      "ils": "soient pourris"
+    },
+    "subjonctif_imparfait": {
+      "je": "pourrisse",
+      "tu": "pourrisses",
+      "il": "pourrît",
+      "nous": "pourrissions",
+      "vous": "pourrissiez",
+      "ils": "pourrissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "fusse pourri",
+      "tu": "fusses pourri",
+      "il": "fût pourri",
+      "nous": "fussions pourris",
+      "vous": "fussiez pourris",
+      "ils": "fussent pourris"
+    },
+    "conditionnel_présent": {
+      "je": "pourrirais",
+      "tu": "pourrirais",
+      "il": "pourrirait",
+      "nous": "pourririons",
+      "vous": "pourririez",
+      "ils": "pourriraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "serais pourri",
+      "tu": "serais pourri",
+      "il": "serait pourri",
+      "nous": "serions pourris",
+      "vous": "seriez pourris",
+      "ils": "seraient pourris"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "fusse pourri",
+      "tu": "fusses pourri",
+      "il": "fût pourri",
+      "nous": "fussions pourris",
+      "vous": "fussiez pourris",
+      "ils": "fussent pourris"
+    },
+    "translation": "psuć",
+    "group": 2
+  }
+]

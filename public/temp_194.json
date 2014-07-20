@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "utiliser",
+    "présent": {
+      "je": "utilise",
+      "tu": "utilises",
+      "il": "utilise",
+      "nous": "utilisons",
+      "vous": "utilisez",
+      "ils": "utilisent"
+    },
+    "passé_composé": {
+      "je": "ai utilisé",
+      "tu": "as utilisé",
+      "il": "a utilisé",
+      "nous": "avons utilisé",
+      "vous": "avez utilisé",
+      "ils": "ont utilisé"
+    },
+    "imparfait": {
+      "je": "utilisais",
+      "tu": "utilisais",
+      "il": "utilisait",
+      "nous": "utilisions",
+      "vous": "utilisiez",
+      "ils": "utilisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais utilisé",
+      "tu": "avais utilisé",
+      "il": "avait utilisé",
+      "nous": "avions utilisé",
+      "vous": "aviez utilisé",
+      "ils": "avaient utilisé"
+    },
+    "passé_simple": {
+      "je": "utilisai",
+      "tu": "utilisas",
+      "il": "utilisa",
+      "nous": "utilisâmes",
+      "vous": "utilisâtes",
+      "ils": "utilisèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus utilisé",
+      "tu": "eus utilisé",
+      "il": "eut utilisé",
+      "nous": "eûmes utilisé",
+      "vous": "eûtes utilisé",
+      "ils": "eurent utilisé"
+    },
+    "futur_simple": {
+      "je": "utiliserai",
+      "tu": "utiliseras",
+      "il": "utilisera",
+      "nous": "utiliserons",
+      "vous": "utiliserez",
+      "ils": "utiliseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai utilisé",
+      "tu": "auras utilisé",
+      "il": "aura utilisé",
+      "nous": "aurons utilisé",
+      "vous": "aurez utilisé",
+      "ils": "auront utilisé"
+    },
+    "subjonctif_présent": {
+      "je": "utilise",
+      "tu": "utilises",
+      "il": "utilise",
+      "nous": "utilisions",
+      "vous": "utilisiez",
+      "ils": "utilisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie utilisé",
+      "tu": "aies utilisé",
+      "il": "ait utilisé",
+      "nous": "ayons utilisé",
+      "vous": "ayez utilisé",
+      "ils": "aient utilisé"
+    },
+    "subjonctif_imparfait": {
+      "je": "utilisasse",
+      "tu": "utilisasses",
+      "il": "utilisât",
+      "nous": "utilisassions",
+      "vous": "utilisassiez",
+      "ils": "utilisassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse utilisé",
+      "tu": "eusses utilisé",
+      "il": "eût utilisé",
+      "nous": "eussions utilisé",
+      "vous": "eussiez utilisé",
+      "ils": "eussent utilisé"
+    },
+    "conditionnel_présent": {
+      "je": "utiliserais",
+      "tu": "utiliserais",
+      "il": "utiliserait",
+      "nous": "utiliserions",
+      "vous": "utiliseriez",
+      "ils": "utiliseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais utilisé",
+      "tu": "aurais utilisé",
+      "il": "aurait utilisé",
+      "nous": "aurions utilisé",
+      "vous": "auriez utilisé",
+      "ils": "auraient utilisé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse utilisé",
+      "tu": "eusses utilisé",
+      "il": "eût utilisé",
+      "nous": "eussions utilisé",
+      "vous": "eussiez utilisé",
+      "ils": "eussent utilisé"
+    },
+    "translation": "używać",
+    "group": 1
+  },
+  {
+    "infinitive": "vagir",
+    "présent": {
+      "je": "vagis",
+      "tu": "vagis",
+      "il": "vagit",
+      "nous": "vagissons",
+      "vous": "vagissez",
+      "ils": "vagissent"
+    },
+    "passé_composé": {
+      "je": "ai vagi",
+      "tu": "as vagi",
+      "il": "a vagi",
+      "nous": "avons vagi",
+      "vous": "avez vagi",
+      "ils": "ont vagi"
+    },
+    "imparfait": {
+      "je": "vagissais",
+      "tu": "vagissais",
+      "il": "vagissait",
+      "nous": "vagissions",
+      "vous": "vagissiez",
+      "ils": "vagissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais vagi",
+      "tu": "avais vagi",
+      "il": "avait vagi",
+      "nous": "avions vagi",
+      "vous": "aviez vagi",
+      "ils": "avaient vagi"
+    },
+    "passé_simple": {
+      "je": "vagis",
+      "tu": "vagis",
+      "il": "vagit",
+      "nous": "vagîmes",
+      "vous": "vagîtes",
+      "ils": "vagirent"
+    },
+    "passé_antérieur": {
+      "je": "eus vagi",
+      "tu": "eus vagi",
+      "il": "eut vagi",
+      "nous": "eûmes vagi",
+      "vous": "eûtes vagi",
+      "ils": "eurent vagi"
+    },
+    "futur_simple": {
+      "je": "vagirai",
+      "tu": "vagiras",
+      "il": "vagira",
+      "nous": "vagirons",
+      "vous": "vagirez",
+      "ils": "vagiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai vagi",
+      "tu": "auras vagi",
+      "il": "aura vagi",
+      "nous": "aurons vagi",
+      "vous": "aurez vagi",
+      "ils": "auront vagi"
+    },
+    "subjonctif_présent": {
+      "je": "vagisse",
+      "tu": "vagisses",
+      "il": "vagisse",
+      "nous": "vagissions",
+      "vous": "vagissiez",
+      "ils": "vagissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie vagi",
+      "tu": "aies vagi",
+      "il": "ait vagi",
+      "nous": "ayons vagi",
+      "vous": "ayez vagi",
+      "ils": "aient vagi"
+    },
+    "subjonctif_imparfait": {
+      "je": "vagisse",
+      "tu": "vagisses",
+      "il": "vagît",
+      "nous": "vagissions",
+      "vous": "vagissiez",
+      "ils": "vagissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse vagi",
+      "tu": "eusses vagi",
+      "il": "eût vagi",
+      "nous": "eussions vagi",
+      "vous": "eussiez vagi",
+      "ils": "eussent vagi"
+    },
+    "conditionnel_présent": {
+      "je": "vagirais",
+      "tu": "vagirais",
+      "il": "vagirait",
+      "nous": "vagirions",
+      "vous": "vagiriez",
+      "ils": "vagiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais vagi",
+      "tu": "aurais vagi",
+      "il": "aurait vagi",
+      "nous": "aurions vagi",
+      "vous": "auriez vagi",
+      "ils": "auraient vagi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse vagi",
+      "tu": "eusses vagi",
+      "il": "eût vagi",
+      "nous": "eussions vagi",
+      "vous": "eussiez vagi",
+      "ils": "eussent vagi"
+    },
+    "translation": "pochwa",
+    "group": 2
+  },
+  {
+    "infinitive": "vaguer",
+    "présent": {
+      "je": "vague",
+      "tu": "vagues",
+      "il": "vague",
+      "nous": "vaguons",
+      "vous": "vaguez",
+      "ils": "vaguent"
+    },
+    "passé_composé": {
+      "je": "ai vagué",
+      "tu": "as vagué",
+      "il": "a vagué",
+      "nous": "avons vagué",
+      "vous": "avez vagué",
+      "ils": "ont vagué"
+    },
+    "imparfait": {
+      "je": "vaguais",
+      "tu": "vaguais",
+      "il": "vaguait",
+      "nous": "vaguions",
+      "vous": "vaguiez",
+      "ils": "vaguaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais vagué",
+      "tu": "avais vagué",
+      "il": "avait vagué",
+      "nous": "avions vagué",
+      "vous": "aviez vagué",
+      "ils": "avaient vagué"
+    },
+    "passé_simple": {
+      "je": "vaguai",
+      "tu": "vaguas",
+      "il": "vagua",
+      "nous": "vaguâmes",
+      "vous": "vaguâtes",
+      "ils": "vaguèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus vagué",
+      "tu": "eus vagué",
+      "il": "eut vagué",
+      "nous": "eûmes vagué",
+      "vous": "eûtes vagué",
+      "ils": "eurent vagué"
+    },
+    "futur_simple": {
+      "je": "vaguerai",
+      "tu": "vagueras",
+      "il": "vaguera",
+      "nous": "vaguerons",
+      "vous": "vaguerez",
+      "ils": "vagueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai vagué",
+      "tu": "auras vagué",
+      "il": "aura vagué",
+      "nous": "aurons vagué",
+      "vous": "aurez vagué",
+      "ils": "auront vagué"
+    },
+    "subjonctif_présent": {
+      "je": "vague",
+      "tu": "vagues",
+      "il": "vague",
+      "nous": "vaguions",
+      "vous": "vaguiez",
+      "ils": "vaguent"
+    },
+    "subjonctif_passé": {
+      "je": "aie vagué",
+      "tu": "aies vagué",
+      "il": "ait vagué",
+      "nous": "ayons vagué",
+      "vous": "ayez vagué",
+      "ils": "aient vagué"
+    },
+    "subjonctif_imparfait": {
+      "je": "vaguasse",
+      "tu": "vaguasses",
+      "il": "vaguât",
+      "nous": "vaguassions",
+      "vous": "vaguassiez",
+      "ils": "vaguassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse vagué",
+      "tu": "eusses vagué",
+      "il": "eût vagué",
+      "nous": "eussions vagué",
+      "vous": "eussiez vagué",
+      "ils": "eussent vagué"
+    },
+    "conditionnel_présent": {
+      "je": "vaguerais",
+      "tu": "vaguerais",
+      "il": "vaguerait",
+      "nous": "vaguerions",
+      "vous": "vagueriez",
+      "ils": "vagueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais vagué",
+      "tu": "aurais vagué",
+      "il": "aurait vagué",
+      "nous": "aurions vagué",
+      "vous": "auriez vagué",
+      "ils": "auraient vagué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse vagué",
+      "tu": "eusses vagué",
+      "il": "eût vagué",
+      "nous": "eussions vagué",
+      "vous": "eussiez vagué",
+      "ils": "eussent vagué"
+    },
+    "translation": "vaguer",
+    "group": 1
+  },
+  {
+    "infinitive": "vaincre",
+    "présent": {
+      "je": "vaincs",
+      "tu": "vaincs",
+      "il": "vainc",
+      "nous": "vainquons",
+      "vous": "vainquez",
+      "ils": "vainquent"
+    },
+    "passé_composé": {
+      "je": "ai vaincu",
+      "tu": "as vaincu",
+      "il": "a vaincu",
+      "nous": "avons vaincu",
+      "vous": "avez vaincu",
+      "ils": "ont vaincu"
+    },
+    "imparfait": {
+      "je": "vainquais",
+      "tu": "vainquais",
+      "il": "vainquait",
+      "nous": "vainquions",
+      "vous": "vainquiez",
+      "ils": "vainquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais vaincu",
+      "tu": "avais vaincu",
+      "il": "avait vaincu",
+      "nous": "avions vaincu",
+      "vous": "aviez vaincu",
+      "ils": "avaient vaincu"
+    },
+    "passé_simple": {
+      "je": "vainquis",
+      "tu": "vainquis",
+      "il": "vainquit",
+      "nous": "vainquîmes",
+      "vous": "vainquîtes",
+      "ils": "vainquirent"
+    },
+    "passé_antérieur": {
+      "je": "eus vaincu",
+      "tu": "eus vaincu",
+      "il": "eut vaincu",
+      "nous": "eûmes vaincu",
+      "vous": "eûtes vaincu",
+      "ils": "eurent vaincu"
+    },
+    "futur_simple": {
+      "je": "vaincrai",
+      "tu": "vaincras",
+      "il": "vaincra",
+      "nous": "vaincrons",
+      "vous": "vaincrez",
+      "ils": "vaincront"
+    },
+    "futur_antérieur": {
+      "je": "aurai vaincu",
+      "tu": "auras vaincu",
+      "il": "aura vaincu",
+      "nous": "aurons vaincu",
+      "vous": "aurez vaincu",
+      "ils": "auront vaincu"
+    },
+    "subjonctif_présent": {
+      "je": "vainque",
+      "tu": "vainques",
+      "il": "vainque",
+      "nous": "vainquions",
+      "vous": "vainquiez",
+      "ils": "vainquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie vaincu",
+      "tu": "aies vaincu",
+      "il": "ait vaincu",
+      "nous": "ayons vaincu",
+      "vous": "ayez vaincu",
+      "ils": "aient vaincu"
+    },
+    "subjonctif_imparfait": {
+      "je": "vainquisse",
+      "tu": "vainquisses",
+      "il": "vainquît",
+      "nous": "vainquissions",
+      "vous": "vainquissiez",
+      "ils": "vainquissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse vaincu",
+      "tu": "eusses vaincu",
+      "il": "eût vaincu",
+      "nous": "eussions vaincu",
+      "vous": "eussiez vaincu",
+      "ils": "eussent vaincu"
+    },
+    "conditionnel_présent": {
+      "je": "vaincrais",
+      "tu": "vaincrais",
+      "il": "vaincrait",
+      "nous": "vaincrions",
+      "vous": "vaincriez",
+      "ils": "vaincraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais vaincu",
+      "tu": "aurais vaincu",
+      "il": "aurait vaincu",
+      "nous": "aurions vaincu",
+      "vous": "auriez vaincu",
+      "ils": "auraient vaincu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse vaincu",
+      "tu": "eusses vaincu",
+      "il": "eût vaincu",
+      "nous": "eussions vaincu",
+      "vous": "eussiez vaincu",
+      "ils": "eussent vaincu"
+    },
+    "translation": "zwyciężać",
+    "group": 3
+  },
+  {
+    "infinitive": "valider",
+    "présent": {
+      "je": "valide",
+      "tu": "valides",
+      "il": "valide",
+      "nous": "validons",
+      "vous": "validez",
+      "ils": "valident"
+    },
+    "passé_composé": {
+      "je": "ai validé",
+      "tu": "as validé",
+      "il": "a validé",
+      "nous": "avons validé",
+      "vous": "avez validé",
+      "ils": "ont validé"
+    },
+    "imparfait": {
+      "je": "validais",
+      "tu": "validais",
+      "il": "validait",
+      "nous": "validions",
+      "vous": "validiez",
+      "ils": "validaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais validé",
+      "tu": "avais validé",
+      "il": "avait validé",
+      "nous": "avions validé",
+      "vous": "aviez validé",
+      "ils": "avaient validé"
+    },
+    "passé_simple": {
+      "je": "validai",
+      "tu": "validas",
+      "il": "valida",
+      "nous": "validâmes",
+      "vous": "validâtes",
+      "ils": "validèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus validé",
+      "tu": "eus validé",
+      "il": "eut validé",
+      "nous": "eûmes validé",
+      "vous": "eûtes validé",
+      "ils": "eurent validé"
+    },
+    "futur_simple": {
+      "je": "validerai",
+      "tu": "valideras",
+      "il": "validera",
+      "nous": "validerons",
+      "vous": "validerez",
+      "ils": "valideront"
+    },
+    "futur_antérieur": {
+      "je": "aurai validé",
+      "tu": "auras validé",
+      "il": "aura validé",
+      "nous": "aurons validé",
+      "vous": "aurez validé",
+      "ils": "auront validé"
+    },
+    "subjonctif_présent": {
+      "je": "valide",
+      "tu": "valides",
+      "il": "valide",
+      "nous": "validions",
+      "vous": "validiez",
+      "ils": "valident"
+    },
+    "subjonctif_passé": {
+      "je": "aie validé",
+      "tu": "aies validé",
+      "il": "ait validé",
+      "nous": "ayons validé",
+      "vous": "ayez validé",
+      "ils": "aient validé"
+    },
+    "subjonctif_imparfait": {
+      "je": "validasse",
+      "tu": "validasses",
+      "il": "validât",
+      "nous": "validassions",
+      "vous": "validassiez",
+      "ils": "validassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse validé",
+      "tu": "eusses validé",
+      "il": "eût validé",
+      "nous": "eussions validé",
+      "vous": "eussiez validé",
+      "ils": "eussent validé"
+    },
+    "conditionnel_présent": {
+      "je": "validerais",
+      "tu": "validerais",
+      "il": "validerait",
+      "nous": "validerions",
+      "vous": "valideriez",
+      "ils": "valideraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais validé",
+      "tu": "aurais validé",
+      "il": "aurait validé",
+      "nous": "aurions validé",
+      "vous": "auriez validé",
+      "ils": "auraient validé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse validé",
+      "tu": "eusses validé",
+      "il": "eût validé",
+      "nous": "eussions validé",
+      "vous": "eussiez validé",
+      "ils": "eussent validé"
+    },
+    "translation": "homologować",
+    "group": 1
+  },
+  {
+    "infinitive": "valoir",
+    "présent": {
+      "je": "vaux",
+      "tu": "vaux",
+      "il": "vaut",
+      "nous": "valons",
+      "vous": "valez",
+      "ils": "valent"
+    },
+    "passé_composé": {
+      "je": "ai valu",
+      "tu": "as valu",
+      "il": "a valu",
+      "nous": "avons valu",
+      "vous": "avez valu",
+      "ils": "ont valu"
+    },
+    "imparfait": {
+      "je": "valais",
+      "tu": "valais",
+      "il": "valait",
+      "nous": "valions",
+      "vous": "valiez",
+      "ils": "valaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais valu",
+      "tu": "avais valu",
+      "il": "avait valu",
+      "nous": "avions valu",
+      "vous": "aviez valu",
+      "ils": "avaient valu"
+    },
+    "passé_simple": {
+      "je": "valus",
+      "tu": "valus",
+      "il": "valut",
+      "nous": "valûmes",
+      "vous": "valûtes",
+      "ils": "valurent"
+    },
+    "passé_antérieur": {
+      "je": "eus valu",
+      "tu": "eus valu",
+      "il": "eut valu",
+      "nous": "eûmes valu",
+      "vous": "eûtes valu",
+      "ils": "eurent valu"
+    },
+    "futur_simple": {
+      "je": "vaudrai",
+      "tu": "vaudras",
+      "il": "vaudra",
+      "nous": "vaudrons",
+      "vous": "vaudrez",
+      "ils": "vaudront"
+    },
+    "futur_antérieur": {
+      "je": "aurai valu",
+      "tu": "auras valu",
+      "il": "aura valu",
+      "nous": "aurons valu",
+      "vous": "aurez valu",
+      "ils": "auront valu"
+    },
+    "subjonctif_présent": {
+      "je": "vaille",
+      "tu": "vailles",
+      "il": "vaille",
+      "nous": "valions",
+      "vous": "valiez",
+      "ils": "vaillent"
+    },
+    "subjonctif_passé": {
+      "je": "aie valu",
+      "tu": "aies valu",
+      "il": "ait valu",
+      "nous": "ayons valu",
+      "vous": "ayez valu",
+      "ils": "aient valu"
+    },
+    "subjonctif_imparfait": {
+      "je": "valusse",
+      "tu": "valusses",
+      "il": "valût",
+      "nous": "valussions",
+      "vous": "valussiez",
+      "ils": "valussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse valu",
+      "tu": "eusses valu",
+      "il": "eût valu",
+      "nous": "eussions valu",
+      "vous": "eussiez valu",
+      "ils": "eussent valu"
+    },
+    "conditionnel_présent": {
+      "je": "vaudrais",
+      "tu": "vaudrais",
+      "il": "vaudrait",
+      "nous": "vaudrions",
+      "vous": "vaudriez",
+      "ils": "vaudraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais valu",
+      "tu": "aurais valu",
+      "il": "aurait valu",
+      "nous": "aurions valu",
+      "vous": "auriez valu",
+      "ils": "auraient valu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse valu",
+      "tu": "eusses valu",
+      "il": "eût valu",
+      "nous": "eussions valu",
+      "vous": "eussiez valu",
+      "ils": "eussent valu"
+    },
+    "translation": "kosztować",
+    "group": 3
+  },
+  {
+    "infinitive": "vanner",
+    "présent": {
+      "je": "vanne",
+      "tu": "vannes",
+      "il": "vanne",
+      "nous": "vannons",
+      "vous": "vannez",
+      "ils": "vannent"
+    },
+    "passé_composé": {
+      "je": "ai vanné",
+      "tu": "as vanné",
+      "il": "a vanné",
+      "nous": "avons vanné",
+      "vous": "avez vanné",
+      "ils": "ont vanné"
+    },
+    "imparfait": {
+      "je": "vannais",
+      "tu": "vannais",
+      "il": "vannait",
+      "nous": "vannions",
+      "vous": "vanniez",
+      "ils": "vannaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais vanné",
+      "tu": "avais vanné",
+      "il": "avait vanné",
+      "nous": "avions vanné",
+      "vous": "aviez vanné",
+      "ils": "avaient vanné"
+    },
+    "passé_simple": {
+      "je": "vannai",
+      "tu": "vannas",
+      "il": "vanna",
+      "nous": "vannâmes",
+      "vous": "vannâtes",
+      "ils": "vannèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus vanné",
+      "tu": "eus vanné",
+      "il": "eut vanné",
+      "nous": "eûmes vanné",
+      "vous": "eûtes vanné",
+      "ils": "eurent vanné"
+    },
+    "futur_simple": {
+      "je": "vannerai",
+      "tu": "vanneras",
+      "il": "vannera",
+      "nous": "vannerons",
+      "vous": "vannerez",
+      "ils": "vanneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai vanné",
+      "tu": "auras vanné",
+      "il": "aura vanné",
+      "nous": "aurons vanné",
+      "vous": "aurez vanné",
+      "ils": "auront vanné"
+    },
+    "subjonctif_présent": {
+      "je": "vanne",
+      "tu": "vannes",
+      "il": "vanne",
+      "nous": "vannions",
+      "vous": "vanniez",
+      "ils": "vannent"
+    },
+    "subjonctif_passé": {
+      "je": "aie vanné",
+      "tu": "aies vanné",
+      "il": "ait vanné",
+      "nous": "ayons vanné",
+      "vous": "ayez vanné",
+      "ils": "aient vanné"
+    },
+    "subjonctif_imparfait": {
+      "je": "vannasse",
+      "tu": "vannasses",
+      "il": "vannât",
+      "nous": "vannassions",
+      "vous": "vannassiez",
+      "ils": "vannassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse vanné",
+      "tu": "eusses vanné",
+      "il": "eût vanné",
+      "nous": "eussions vanné",
+      "vous": "eussiez vanné",
+      "ils": "eussent vanné"
+    },
+    "conditionnel_présent": {
+      "je": "vannerais",
+      "tu": "vannerais",
+      "il": "vannerait",
+      "nous": "vannerions",
+      "vous": "vanneriez",
+      "ils": "vanneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais vanné",
+      "tu": "aurais vanné",
+      "il": "aurait vanné",
+      "nous": "aurions vanné",
+      "vous": "auriez vanné",
+      "ils": "auraient vanné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse vanné",
+      "tu": "eusses vanné",
+      "il": "eût vanné",
+      "nous": "eussions vanné",
+      "vous": "eussiez vanné",
+      "ils": "eussent vanné"
+    },
+    "translation": "stawidło",
+    "group": 1
+  },
+  {
+    "infinitive": "vanter",
+    "présent": {
+      "je": "vante",
+      "tu": "vantes",
+      "il": "vante",
+      "nous": "vantons",
+      "vous": "vantez",
+      "ils": "vantent"
+    },
+    "passé_composé": {
+      "je": "ai vanté",
+      "tu": "as vanté",
+      "il": "a vanté",
+      "nous": "avons vanté",
+      "vous": "avez vanté",
+      "ils": "ont vanté"
+    },
+    "imparfait": {
+      "je": "vantais",
+      "tu": "vantais",
+      "il": "vantait",
+      "nous": "vantions",
+      "vous": "vantiez",
+      "ils": "vantaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais vanté",
+      "tu": "avais vanté",
+      "il": "avait vanté",
+      "nous": "avions vanté",
+      "vous": "aviez vanté",
+      "ils": "avaient vanté"
+    },
+    "passé_simple": {
+      "je": "vantai",
+      "tu": "vantas",
+      "il": "vanta",
+      "nous": "vantâmes",
+      "vous": "vantâtes",
+      "ils": "vantèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus vanté",
+      "tu": "eus vanté",
+      "il": "eut vanté",
+      "nous": "eûmes vanté",
+      "vous": "eûtes vanté",
+      "ils": "eurent vanté"
+    },
+    "futur_simple": {
+      "je": "vanterai",
+      "tu": "vanteras",
+      "il": "vantera",
+      "nous": "vanterons",
+      "vous": "vanterez",
+      "ils": "vanteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai vanté",
+      "tu": "auras vanté",
+      "il": "aura vanté",
+      "nous": "aurons vanté",
+      "vous": "aurez vanté",
+      "ils": "auront vanté"
+    },
+    "subjonctif_présent": {
+      "je": "vante",
+      "tu": "vantes",
+      "il": "vante",
+      "nous": "vantions",
+      "vous": "vantiez",
+      "ils": "vantent"
+    },
+    "subjonctif_passé": {
+      "je": "aie vanté",
+      "tu": "aies vanté",
+      "il": "ait vanté",
+      "nous": "ayons vanté",
+      "vous": "ayez vanté",
+      "ils": "aient vanté"
+    },
+    "subjonctif_imparfait": {
+      "je": "vantasse",
+      "tu": "vantasses",
+      "il": "vantât",
+      "nous": "vantassions",
+      "vous": "vantassiez",
+      "ils": "vantassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse vanté",
+      "tu": "eusses vanté",
+      "il": "eût vanté",
+      "nous": "eussions vanté",
+      "vous": "eussiez vanté",
+      "ils": "eussent vanté"
+    },
+    "conditionnel_présent": {
+      "je": "vanterais",
+      "tu": "vanterais",
+      "il": "vanterait",
+      "nous": "vanterions",
+      "vous": "vanteriez",
+      "ils": "vanteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais vanté",
+      "tu": "aurais vanté",
+      "il": "aurait vanté",
+      "nous": "aurions vanté",
+      "vous": "auriez vanté",
+      "ils": "auraient vanté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse vanté",
+      "tu": "eusses vanté",
+      "il": "eût vanté",
+      "nous": "eussions vanté",
+      "vous": "eussiez vanté",
+      "ils": "eussent vanté"
+    },
+    "translation": "zachwalać",
+    "group": 1
+  },
+  {
+    "infinitive": "vaquer",
+    "présent": {
+      "je": "vaque",
+      "tu": "vaques",
+      "il": "vaque",
+      "nous": "vaquons",
+      "vous": "vaquez",
+      "ils": "vaquent"
+    },
+    "passé_composé": {
+      "je": "ai vaqué",
+      "tu": "as vaqué",
+      "il": "a vaqué",
+      "nous": "avons vaqué",
+      "vous": "avez vaqué",
+      "ils": "ont vaqué"
+    },
+    "imparfait": {
+      "je": "vaquais",
+      "tu": "vaquais",
+      "il": "vaquait",
+      "nous": "vaquions",
+      "vous": "vaquiez",
+      "ils": "vaquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais vaqué",
+      "tu": "avais vaqué",
+      "il": "avait vaqué",
+      "nous": "avions vaqué",
+      "vous": "aviez vaqué",
+      "ils": "avaient vaqué"
+    },
+    "passé_simple": {
+      "je": "vaquai",
+      "tu": "vaquas",
+      "il": "vaqua",
+      "nous": "vaquâmes",
+      "vous": "vaquâtes",
+      "ils": "vaquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus vaqué",
+      "tu": "eus vaqué",
+      "il": "eut vaqué",
+      "nous": "eûmes vaqué",
+      "vous": "eûtes vaqué",
+      "ils": "eurent vaqué"
+    },
+    "futur_simple": {
+      "je": "vaquerai",
+      "tu": "vaqueras",
+      "il": "vaquera",
+      "nous": "vaquerons",
+      "vous": "vaquerez",
+      "ils": "vaqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai vaqué",
+      "tu": "auras vaqué",
+      "il": "aura vaqué",
+      "nous": "aurons vaqué",
+      "vous": "aurez vaqué",
+      "ils": "auront vaqué"
+    },
+    "subjonctif_présent": {
+      "je": "vaque",
+      "tu": "vaques",
+      "il": "vaque",
+      "nous": "vaquions",
+      "vous": "vaquiez",
+      "ils": "vaquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie vaqué",
+      "tu": "aies vaqué",
+      "il": "ait vaqué",
+      "nous": "ayons vaqué",
+      "vous": "ayez vaqué",
+      "ils": "aient vaqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "vaquasse",
+      "tu": "vaquasses",
+      "il": "vaquât",
+      "nous": "vaquassions",
+      "vous": "vaquassiez",
+      "ils": "vaquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse vaqué",
+      "tu": "eusses vaqué",
+      "il": "eût vaqué",
+      "nous": "eussions vaqué",
+      "vous": "eussiez vaqué",
+      "ils": "eussent vaqué"
+    },
+    "conditionnel_présent": {
+      "je": "vaquerais",
+      "tu": "vaquerais",
+      "il": "vaquerait",
+      "nous": "vaquerions",
+      "vous": "vaqueriez",
+      "ils": "vaqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais vaqué",
+      "tu": "aurais vaqué",
+      "il": "aurait vaqué",
+      "nous": "aurions vaqué",
+      "vous": "auriez vaqué",
+      "ils": "auraient vaqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse vaqué",
+      "tu": "eusses vaqué",
+      "il": "eût vaqué",
+      "nous": "eussions vaqué",
+      "vous": "eussiez vaqué",
+      "ils": "eussent vaqué"
+    },
+    "translation": "być",
+    "group": 1
+  },
+  {
+    "infinitive": "varier",
+    "présent": {
+      "je": "varie",
+      "tu": "varies",
+      "il": "varie",
+      "nous": "varions",
+      "vous": "variez",
+      "ils": "varient"
+    },
+    "passé_composé": {
+      "je": "ai varié",
+      "tu": "as varié",
+      "il": "a varié",
+      "nous": "avons varié",
+      "vous": "avez varié",
+      "ils": "ont varié"
+    },
+    "imparfait": {
+      "je": "variais",
+      "tu": "variais",
+      "il": "variait",
+      "nous": "variions",
+      "vous": "variiez",
+      "ils": "variaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais varié",
+      "tu": "avais varié",
+      "il": "avait varié",
+      "nous": "avions varié",
+      "vous": "aviez varié",
+      "ils": "avaient varié"
+    },
+    "passé_simple": {
+      "je": "variai",
+      "tu": "varias",
+      "il": "varia",
+      "nous": "variâmes",
+      "vous": "variâtes",
+      "ils": "varièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus varié",
+      "tu": "eus varié",
+      "il": "eut varié",
+      "nous": "eûmes varié",
+      "vous": "eûtes varié",
+      "ils": "eurent varié"
+    },
+    "futur_simple": {
+      "je": "varierai",
+      "tu": "varieras",
+      "il": "variera",
+      "nous": "varierons",
+      "vous": "varierez",
+      "ils": "varieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai varié",
+      "tu": "auras varié",
+      "il": "aura varié",
+      "nous": "aurons varié",
+      "vous": "aurez varié",
+      "ils": "auront varié"
+    },
+    "subjonctif_présent": {
+      "je": "varie",
+      "tu": "varies",
+      "il": "varie",
+      "nous": "variions",
+      "vous": "variiez",
+      "ils": "varient"
+    },
+    "subjonctif_passé": {
+      "je": "aie varié",
+      "tu": "aies varié",
+      "il": "ait varié",
+      "nous": "ayons varié",
+      "vous": "ayez varié",
+      "ils": "aient varié"
+    },
+    "subjonctif_imparfait": {
+      "je": "variasse",
+      "tu": "variasses",
+      "il": "variât",
+      "nous": "variassions",
+      "vous": "variassiez",
+      "ils": "variassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse varié",
+      "tu": "eusses varié",
+      "il": "eût varié",
+      "nous": "eussions varié",
+      "vous": "eussiez varié",
+      "ils": "eussent varié"
+    },
+    "conditionnel_présent": {
+      "je": "varierais",
+      "tu": "varierais",
+      "il": "varierait",
+      "nous": "varierions",
+      "vous": "varieriez",
+      "ils": "varieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais varié",
+      "tu": "aurais varié",
+      "il": "aurait varié",
+      "nous": "aurions varié",
+      "vous": "auriez varié",
+      "ils": "auraient varié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse varié",
+      "tu": "eusses varié",
+      "il": "eût varié",
+      "nous": "eussions varié",
+      "vous": "eussiez varié",
+      "ils": "eussent varié"
+    },
+    "translation": "zmieniać",
+    "group": 1
+  }
+]

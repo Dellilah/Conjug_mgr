@@ -1,0 +1,1127 @@
+[
+  {
+    "infinitive": "rallier",
+    "présent": {
+      "je": "rallie",
+      "tu": "rallies",
+      "il": "rallie",
+      "nous": "rallions",
+      "vous": "ralliez",
+      "ils": "rallient"
+    },
+    "passé_composé": {
+      "je": "ai rallié",
+      "tu": "as rallié",
+      "il": "a rallié",
+      "nous": "avons rallié",
+      "vous": "avez rallié",
+      "ils": "ont rallié"
+    },
+    "imparfait": {
+      "je": "ralliais",
+      "tu": "ralliais",
+      "il": "ralliait",
+      "nous": "ralliions",
+      "vous": "ralliiez",
+      "ils": "ralliaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais rallié",
+      "tu": "avais rallié",
+      "il": "avait rallié",
+      "nous": "avions rallié",
+      "vous": "aviez rallié",
+      "ils": "avaient rallié"
+    },
+    "passé_simple": {
+      "je": "ralliai",
+      "tu": "rallias",
+      "il": "rallia",
+      "nous": "ralliâmes",
+      "vous": "ralliâtes",
+      "ils": "rallièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus rallié",
+      "tu": "eus rallié",
+      "il": "eut rallié",
+      "nous": "eûmes rallié",
+      "vous": "eûtes rallié",
+      "ils": "eurent rallié"
+    },
+    "futur_simple": {
+      "je": "rallierai",
+      "tu": "rallieras",
+      "il": "ralliera",
+      "nous": "rallierons",
+      "vous": "rallierez",
+      "ils": "rallieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai rallié",
+      "tu": "auras rallié",
+      "il": "aura rallié",
+      "nous": "aurons rallié",
+      "vous": "aurez rallié",
+      "ils": "auront rallié"
+    },
+    "subjonctif_présent": {
+      "je": "rallie",
+      "tu": "rallies",
+      "il": "rallie",
+      "nous": "ralliions",
+      "vous": "ralliiez",
+      "ils": "rallient"
+    },
+    "subjonctif_passé": {
+      "je": "aie rallié",
+      "tu": "aies rallié",
+      "il": "ait rallié",
+      "nous": "ayons rallié",
+      "vous": "ayez rallié",
+      "ils": "aient rallié"
+    },
+    "subjonctif_imparfait": {
+      "je": "ralliasse",
+      "tu": "ralliasses",
+      "il": "ralliât",
+      "nous": "ralliassions",
+      "vous": "ralliassiez",
+      "ils": "ralliassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse rallié",
+      "tu": "eusses rallié",
+      "il": "eût rallié",
+      "nous": "eussions rallié",
+      "vous": "eussiez rallié",
+      "ils": "eussent rallié"
+    },
+    "conditionnel_présent": {
+      "je": "rallierais",
+      "tu": "rallierais",
+      "il": "rallierait",
+      "nous": "rallierions",
+      "vous": "rallieriez",
+      "ils": "rallieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais rallié",
+      "tu": "aurais rallié",
+      "il": "aurait rallié",
+      "nous": "aurions rallié",
+      "vous": "auriez rallié",
+      "ils": "auraient rallié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse rallié",
+      "tu": "eusses rallié",
+      "il": "eût rallié",
+      "nous": "eussions rallié",
+      "vous": "eussiez rallié",
+      "ils": "eussent rallié"
+    },
+    "translation": "rallier",
+    "group": 1
+  },
+  {
+    "infinitive": "ramasser",
+    "présent": {
+      "je": "ramasse",
+      "tu": "ramasses",
+      "il": "ramasse",
+      "nous": "ramassons",
+      "vous": "ramassez",
+      "ils": "ramassent"
+    },
+    "passé_composé": {
+      "je": "ai ramassé",
+      "tu": "as ramassé",
+      "il": "a ramassé",
+      "nous": "avons ramassé",
+      "vous": "avez ramassé",
+      "ils": "ont ramassé"
+    },
+    "imparfait": {
+      "je": "ramassais",
+      "tu": "ramassais",
+      "il": "ramassait",
+      "nous": "ramassions",
+      "vous": "ramassiez",
+      "ils": "ramassaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ramassé",
+      "tu": "avais ramassé",
+      "il": "avait ramassé",
+      "nous": "avions ramassé",
+      "vous": "aviez ramassé",
+      "ils": "avaient ramassé"
+    },
+    "passé_simple": {
+      "je": "ramassai",
+      "tu": "ramassas",
+      "il": "ramassa",
+      "nous": "ramassâmes",
+      "vous": "ramassâtes",
+      "ils": "ramassèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus ramassé",
+      "tu": "eus ramassé",
+      "il": "eut ramassé",
+      "nous": "eûmes ramassé",
+      "vous": "eûtes ramassé",
+      "ils": "eurent ramassé"
+    },
+    "futur_simple": {
+      "je": "ramasserai",
+      "tu": "ramasseras",
+      "il": "ramassera",
+      "nous": "ramasserons",
+      "vous": "ramasserez",
+      "ils": "ramasseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ramassé",
+      "tu": "auras ramassé",
+      "il": "aura ramassé",
+      "nous": "aurons ramassé",
+      "vous": "aurez ramassé",
+      "ils": "auront ramassé"
+    },
+    "subjonctif_présent": {
+      "je": "ramasse",
+      "tu": "ramasses",
+      "il": "ramasse",
+      "nous": "ramassions",
+      "vous": "ramassiez",
+      "ils": "ramassent"
+    },
+    "subjonctif_passé": {
+      "je": "aie ramassé",
+      "tu": "aies ramassé",
+      "il": "ait ramassé",
+      "nous": "ayons ramassé",
+      "vous": "ayez ramassé",
+      "ils": "aient ramassé"
+    },
+    "subjonctif_imparfait": {
+      "je": "ramassasse",
+      "tu": "ramassasses",
+      "il": "ramassât",
+      "nous": "ramassassions",
+      "vous": "ramassassiez",
+      "ils": "ramassassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ramassé",
+      "tu": "eusses ramassé",
+      "il": "eût ramassé",
+      "nous": "eussions ramassé",
+      "vous": "eussiez ramassé",
+      "ils": "eussent ramassé"
+    },
+    "conditionnel_présent": {
+      "je": "ramasserais",
+      "tu": "ramasserais",
+      "il": "ramasserait",
+      "nous": "ramasserions",
+      "vous": "ramasseriez",
+      "ils": "ramasseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ramassé",
+      "tu": "aurais ramassé",
+      "il": "aurait ramassé",
+      "nous": "aurions ramassé",
+      "vous": "auriez ramassé",
+      "ils": "auraient ramassé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ramassé",
+      "tu": "eusses ramassé",
+      "il": "eût ramassé",
+      "nous": "eussions ramassé",
+      "vous": "eussiez ramassé",
+      "ils": "eussent ramassé"
+    },
+    "translation": "zbierać",
+    "group": 1
+  },
+  {
+    "infinitive": "ramener",
+    "présent": {
+      "je": "ramène",
+      "tu": "ramènes",
+      "il": "ramène",
+      "nous": "ramenons",
+      "vous": "ramenez",
+      "ils": "ramènent"
+    },
+    "passé_composé": {
+      "je": "ai ramené",
+      "tu": "as ramené",
+      "il": "a ramené",
+      "nous": "avons ramené",
+      "vous": "avez ramené",
+      "ils": "ont ramené"
+    },
+    "imparfait": {
+      "je": "ramenais",
+      "tu": "ramenais",
+      "il": "ramenait",
+      "nous": "ramenions",
+      "vous": "rameniez",
+      "ils": "ramenaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ramené",
+      "tu": "avais ramené",
+      "il": "avait ramené",
+      "nous": "avions ramené",
+      "vous": "aviez ramené",
+      "ils": "avaient ramené"
+    },
+    "passé_simple": {
+      "je": "ramenai",
+      "tu": "ramenas",
+      "il": "ramena",
+      "nous": "ramenâmes",
+      "vous": "ramenâtes",
+      "ils": "ramenèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus ramené",
+      "tu": "eus ramené",
+      "il": "eut ramené",
+      "nous": "eûmes ramené",
+      "vous": "eûtes ramené",
+      "ils": "eurent ramené"
+    },
+    "futur_simple": {
+      "je": "ramènerai",
+      "tu": "ramèneras",
+      "il": "ramènera",
+      "nous": "ramènerons",
+      "vous": "ramènerez",
+      "ils": "ramèneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ramené",
+      "tu": "auras ramené",
+      "il": "aura ramené",
+      "nous": "aurons ramené",
+      "vous": "aurez ramené",
+      "ils": "auront ramené"
+    },
+    "subjonctif_présent": {
+      "je": "ramène",
+      "tu": "ramènes",
+      "il": "ramène",
+      "nous": "ramenions",
+      "vous": "rameniez",
+      "ils": "ramènent"
+    },
+    "subjonctif_passé": {
+      "je": "aie ramené",
+      "tu": "aies ramené",
+      "il": "ait ramené",
+      "nous": "ayons ramené",
+      "vous": "ayez ramené",
+      "ils": "aient ramené"
+    },
+    "subjonctif_imparfait": {
+      "je": "ramenasse",
+      "tu": "ramenasses",
+      "il": "ramenât",
+      "nous": "ramenassions",
+      "vous": "ramenassiez",
+      "ils": "ramenassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ramené",
+      "tu": "eusses ramené",
+      "il": "eût ramené",
+      "nous": "eussions ramené",
+      "vous": "eussiez ramené",
+      "ils": "eussent ramené"
+    },
+    "conditionnel_présent": {
+      "je": "ramènerais",
+      "tu": "ramènerais",
+      "il": "ramènerait",
+      "nous": "ramènerions",
+      "vous": "ramèneriez",
+      "ils": "ramèneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ramené",
+      "tu": "aurais ramené",
+      "il": "aurait ramené",
+      "nous": "aurions ramené",
+      "vous": "auriez ramené",
+      "ils": "auraient ramené"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ramené",
+      "tu": "eusses ramené",
+      "il": "eût ramené",
+      "nous": "eussions ramené",
+      "vous": "eussiez ramené",
+      "ils": "eussent ramené"
+    },
+    "translation": "odprowadzać",
+    "group": 1
+  },
+  {
+    "infinitive": "ramer",
+    "présent": {
+      "je": "rame",
+      "tu": "rames",
+      "il": "rame",
+      "nous": "ramons",
+      "vous": "ramez",
+      "ils": "rament"
+    },
+    "passé_composé": {
+      "je": "ai ramé",
+      "tu": "as ramé",
+      "il": "a ramé",
+      "nous": "avons ramé",
+      "vous": "avez ramé",
+      "ils": "ont ramé"
+    },
+    "imparfait": {
+      "je": "ramais",
+      "tu": "ramais",
+      "il": "ramait",
+      "nous": "ramions",
+      "vous": "ramiez",
+      "ils": "ramaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ramé",
+      "tu": "avais ramé",
+      "il": "avait ramé",
+      "nous": "avions ramé",
+      "vous": "aviez ramé",
+      "ils": "avaient ramé"
+    },
+    "passé_simple": {
+      "je": "ramai",
+      "tu": "ramas",
+      "il": "rama",
+      "nous": "ramâmes",
+      "vous": "ramâtes",
+      "ils": "ramèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus ramé",
+      "tu": "eus ramé",
+      "il": "eut ramé",
+      "nous": "eûmes ramé",
+      "vous": "eûtes ramé",
+      "ils": "eurent ramé"
+    },
+    "futur_simple": {
+      "je": "ramerai",
+      "tu": "rameras",
+      "il": "ramera",
+      "nous": "ramerons",
+      "vous": "ramerez",
+      "ils": "rameront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ramé",
+      "tu": "auras ramé",
+      "il": "aura ramé",
+      "nous": "aurons ramé",
+      "vous": "aurez ramé",
+      "ils": "auront ramé"
+    },
+    "subjonctif_présent": {
+      "je": "rame",
+      "tu": "rames",
+      "il": "rame",
+      "nous": "ramions",
+      "vous": "ramiez",
+      "ils": "rament"
+    },
+    "subjonctif_passé": {
+      "je": "aie ramé",
+      "tu": "aies ramé",
+      "il": "ait ramé",
+      "nous": "ayons ramé",
+      "vous": "ayez ramé",
+      "ils": "aient ramé"
+    },
+    "subjonctif_imparfait": {
+      "je": "ramasse",
+      "tu": "ramasses",
+      "il": "ramât",
+      "nous": "ramassions",
+      "vous": "ramassiez",
+      "ils": "ramassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ramé",
+      "tu": "eusses ramé",
+      "il": "eût ramé",
+      "nous": "eussions ramé",
+      "vous": "eussiez ramé",
+      "ils": "eussent ramé"
+    },
+    "conditionnel_présent": {
+      "je": "ramerais",
+      "tu": "ramerais",
+      "il": "ramerait",
+      "nous": "ramerions",
+      "vous": "rameriez",
+      "ils": "rameraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ramé",
+      "tu": "aurais ramé",
+      "il": "aurait ramé",
+      "nous": "aurions ramé",
+      "vous": "auriez ramé",
+      "ils": "auraient ramé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ramé",
+      "tu": "eusses ramé",
+      "il": "eût ramé",
+      "nous": "eussions ramé",
+      "vous": "eussiez ramé",
+      "ils": "eussent ramé"
+    },
+    "translation": "ramer",
+    "group": 1
+  },
+  {
+    "infinitive": "ramollir",
+    "présent": {
+      "je": "ramollis",
+      "tu": "ramollis",
+      "il": "ramollit",
+      "nous": "ramollissons",
+      "vous": "ramollissez",
+      "ils": "ramollissent"
+    },
+    "passé_composé": {
+      "je": "ai ramolli",
+      "tu": "as ramolli",
+      "il": "a ramolli",
+      "nous": "avons ramolli",
+      "vous": "avez ramolli",
+      "ils": "ont ramolli"
+    },
+    "imparfait": {
+      "je": "ramollissais",
+      "tu": "ramollissais",
+      "il": "ramollissait",
+      "nous": "ramollissions",
+      "vous": "ramollissiez",
+      "ils": "ramollissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ramolli",
+      "tu": "avais ramolli",
+      "il": "avait ramolli",
+      "nous": "avions ramolli",
+      "vous": "aviez ramolli",
+      "ils": "avaient ramolli"
+    },
+    "passé_simple": {
+      "je": "ramollis",
+      "tu": "ramollis",
+      "il": "ramollit",
+      "nous": "ramollîmes",
+      "vous": "ramollîtes",
+      "ils": "ramollirent"
+    },
+    "passé_antérieur": {
+      "je": "eus ramolli",
+      "tu": "eus ramolli",
+      "il": "eut ramolli",
+      "nous": "eûmes ramolli",
+      "vous": "eûtes ramolli",
+      "ils": "eurent ramolli"
+    },
+    "futur_simple": {
+      "je": "ramollirai",
+      "tu": "ramolliras",
+      "il": "ramollira",
+      "nous": "ramollirons",
+      "vous": "ramollirez",
+      "ils": "ramolliront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ramolli",
+      "tu": "auras ramolli",
+      "il": "aura ramolli",
+      "nous": "aurons ramolli",
+      "vous": "aurez ramolli",
+      "ils": "auront ramolli"
+    },
+    "subjonctif_présent": {
+      "je": "ramollisse",
+      "tu": "ramollisses",
+      "il": "ramollisse",
+      "nous": "ramollissions",
+      "vous": "ramollissiez",
+      "ils": "ramollissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie ramolli",
+      "tu": "aies ramolli",
+      "il": "ait ramolli",
+      "nous": "ayons ramolli",
+      "vous": "ayez ramolli",
+      "ils": "aient ramolli"
+    },
+    "subjonctif_imparfait": {
+      "je": "ramollisse",
+      "tu": "ramollisses",
+      "il": "ramollît",
+      "nous": "ramollissions",
+      "vous": "ramollissiez",
+      "ils": "ramollissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ramolli",
+      "tu": "eusses ramolli",
+      "il": "eût ramolli",
+      "nous": "eussions ramolli",
+      "vous": "eussiez ramolli",
+      "ils": "eussent ramolli"
+    },
+    "conditionnel_présent": {
+      "je": "ramollirais",
+      "tu": "ramollirais",
+      "il": "ramollirait",
+      "nous": "ramollirions",
+      "vous": "ramolliriez",
+      "ils": "ramolliraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ramolli",
+      "tu": "aurais ramolli",
+      "il": "aurait ramolli",
+      "nous": "aurions ramolli",
+      "vous": "auriez ramolli",
+      "ils": "auraient ramolli"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ramolli",
+      "tu": "eusses ramolli",
+      "il": "eût ramolli",
+      "nous": "eussions ramolli",
+      "vous": "eussiez ramolli",
+      "ils": "eussent ramolli"
+    },
+    "translation": "rozwalać",
+    "group": 2
+  },
+  {
+    "infinitive": "ranger",
+    "présent": {
+      "je": "range",
+      "tu": "ranges",
+      "il": "range",
+      "nous": "rangeons",
+      "vous": "rangez",
+      "ils": "rangent"
+    },
+    "passé_composé": {
+      "je": "ai rangé",
+      "tu": "as rangé",
+      "il": "a rangé",
+      "nous": "avons rangé",
+      "vous": "avez rangé",
+      "ils": "ont rangé"
+    },
+    "imparfait": {
+      "je": "rangeais",
+      "tu": "rangeais",
+      "il": "rangeait",
+      "nous": "rangions",
+      "vous": "rangiez",
+      "ils": "rangeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais rangé",
+      "tu": "avais rangé",
+      "il": "avait rangé",
+      "nous": "avions rangé",
+      "vous": "aviez rangé",
+      "ils": "avaient rangé"
+    },
+    "passé_simple": {
+      "je": "rangeai",
+      "tu": "rangeas",
+      "il": "rangea",
+      "nous": "rangeâmes",
+      "vous": "rangeâtes",
+      "ils": "rangèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus rangé",
+      "tu": "eus rangé",
+      "il": "eut rangé",
+      "nous": "eûmes rangé",
+      "vous": "eûtes rangé",
+      "ils": "eurent rangé"
+    },
+    "futur_simple": {
+      "je": "rangerai",
+      "tu": "rangeras",
+      "il": "rangera",
+      "nous": "rangerons",
+      "vous": "rangerez",
+      "ils": "rangeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai rangé",
+      "tu": "auras rangé",
+      "il": "aura rangé",
+      "nous": "aurons rangé",
+      "vous": "aurez rangé",
+      "ils": "auront rangé"
+    },
+    "subjonctif_présent": {
+      "je": "range",
+      "tu": "ranges",
+      "il": "range",
+      "nous": "rangions",
+      "vous": "rangiez",
+      "ils": "rangent"
+    },
+    "subjonctif_passé": {
+      "je": "aie rangé",
+      "tu": "aies rangé",
+      "il": "ait rangé",
+      "nous": "ayons rangé",
+      "vous": "ayez rangé",
+      "ils": "aient rangé"
+    },
+    "subjonctif_imparfait": {
+      "je": "rangeasse",
+      "tu": "rangeasses",
+      "il": "rangeât",
+      "nous": "rangeassions",
+      "vous": "rangeassiez",
+      "ils": "rangeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse rangé",
+      "tu": "eusses rangé",
+      "il": "eût rangé",
+      "nous": "eussions rangé",
+      "vous": "eussiez rangé",
+      "ils": "eussent rangé"
+    },
+    "conditionnel_présent": {
+      "je": "rangerais",
+      "tu": "rangerais",
+      "il": "rangerait",
+      "nous": "rangerions",
+      "vous": "rangeriez",
+      "ils": "rangeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais rangé",
+      "tu": "aurais rangé",
+      "il": "aurait rangé",
+      "nous": "aurions rangé",
+      "vous": "auriez rangé",
+      "ils": "auraient rangé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse rangé",
+      "tu": "eusses rangé",
+      "il": "eût rangé",
+      "nous": "eussions rangé",
+      "vous": "eussiez rangé",
+      "ils": "eussent rangé"
+    },
+    "translation": "porządkować",
+    "group": 1
+  },
+  {
+    "infinitive": "rapatrier",
+    "présent": {
+      "je": "rapatrie",
+      "tu": "rapatries",
+      "il": "rapatrie",
+      "nous": "rapatrions",
+      "vous": "rapatriez",
+      "ils": "rapatrient"
+    },
+    "passé_composé": {
+      "je": "ai rapatrié",
+      "tu": "as rapatrié",
+      "il": "a rapatrié",
+      "nous": "avons rapatrié",
+      "vous": "avez rapatrié",
+      "ils": "ont rapatrié"
+    },
+    "imparfait": {
+      "je": "rapatriais",
+      "tu": "rapatriais",
+      "il": "rapatriait",
+      "nous": "rapatriions",
+      "vous": "rapatriiez",
+      "ils": "rapatriaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais rapatrié",
+      "tu": "avais rapatrié",
+      "il": "avait rapatrié",
+      "nous": "avions rapatrié",
+      "vous": "aviez rapatrié",
+      "ils": "avaient rapatrié"
+    },
+    "passé_simple": {
+      "je": "rapatriai",
+      "tu": "rapatrias",
+      "il": "rapatria",
+      "nous": "rapatriâmes",
+      "vous": "rapatriâtes",
+      "ils": "rapatrièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus rapatrié",
+      "tu": "eus rapatrié",
+      "il": "eut rapatrié",
+      "nous": "eûmes rapatrié",
+      "vous": "eûtes rapatrié",
+      "ils": "eurent rapatrié"
+    },
+    "futur_simple": {
+      "je": "rapatrierai",
+      "tu": "rapatrieras",
+      "il": "rapatriera",
+      "nous": "rapatrierons",
+      "vous": "rapatrierez",
+      "ils": "rapatrieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai rapatrié",
+      "tu": "auras rapatrié",
+      "il": "aura rapatrié",
+      "nous": "aurons rapatrié",
+      "vous": "aurez rapatrié",
+      "ils": "auront rapatrié"
+    },
+    "subjonctif_présent": {
+      "je": "rapatrie",
+      "tu": "rapatries",
+      "il": "rapatrie",
+      "nous": "rapatriions",
+      "vous": "rapatriiez",
+      "ils": "rapatrient"
+    },
+    "subjonctif_passé": {
+      "je": "aie rapatrié",
+      "tu": "aies rapatrié",
+      "il": "ait rapatrié",
+      "nous": "ayons rapatrié",
+      "vous": "ayez rapatrié",
+      "ils": "aient rapatrié"
+    },
+    "subjonctif_imparfait": {
+      "je": "rapatriasse",
+      "tu": "rapatriasses",
+      "il": "rapatriât",
+      "nous": "rapatriassions",
+      "vous": "rapatriassiez",
+      "ils": "rapatriassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse rapatrié",
+      "tu": "eusses rapatrié",
+      "il": "eût rapatrié",
+      "nous": "eussions rapatrié",
+      "vous": "eussiez rapatrié",
+      "ils": "eussent rapatrié"
+    },
+    "conditionnel_présent": {
+      "je": "rapatrierais",
+      "tu": "rapatrierais",
+      "il": "rapatrierait",
+      "nous": "rapatrierions",
+      "vous": "rapatrieriez",
+      "ils": "rapatrieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais rapatrié",
+      "tu": "aurais rapatrié",
+      "il": "aurait rapatrié",
+      "nous": "aurions rapatrié",
+      "vous": "auriez rapatrié",
+      "ils": "auraient rapatrié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse rapatrié",
+      "tu": "eusses rapatrié",
+      "il": "eût rapatrié",
+      "nous": "eussions rapatrié",
+      "vous": "eussiez rapatrié",
+      "ils": "eussent rapatrié"
+    },
+    "translation": "repatriować",
+    "group": 1
+  },
+  {
+    "infinitive": "rapetisser",
+    "présent": {
+      "je": "rapetisse",
+      "tu": "rapetisses",
+      "il": "rapetisse",
+      "nous": "rapetissons",
+      "vous": "rapetissez",
+      "ils": "rapetissent"
+    },
+    "passé_composé": {
+      "je": "ai rapetissé",
+      "tu": "as rapetissé",
+      "il": "a rapetissé",
+      "nous": "avons rapetissé",
+      "vous": "avez rapetissé",
+      "ils": "ont rapetissé"
+    },
+    "imparfait": {
+      "je": "rapetissais",
+      "tu": "rapetissais",
+      "il": "rapetissait",
+      "nous": "rapetissions",
+      "vous": "rapetissiez",
+      "ils": "rapetissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais rapetissé",
+      "tu": "avais rapetissé",
+      "il": "avait rapetissé",
+      "nous": "avions rapetissé",
+      "vous": "aviez rapetissé",
+      "ils": "avaient rapetissé"
+    },
+    "passé_simple": {
+      "je": "rapetissai",
+      "tu": "rapetissas",
+      "il": "rapetissa",
+      "nous": "rapetissâmes",
+      "vous": "rapetissâtes",
+      "ils": "rapetissèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus rapetissé",
+      "tu": "eus rapetissé",
+      "il": "eut rapetissé",
+      "nous": "eûmes rapetissé",
+      "vous": "eûtes rapetissé",
+      "ils": "eurent rapetissé"
+    },
+    "futur_simple": {
+      "je": "rapetisserai",
+      "tu": "rapetisseras",
+      "il": "rapetissera",
+      "nous": "rapetisserons",
+      "vous": "rapetisserez",
+      "ils": "rapetisseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai rapetissé",
+      "tu": "auras rapetissé",
+      "il": "aura rapetissé",
+      "nous": "aurons rapetissé",
+      "vous": "aurez rapetissé",
+      "ils": "auront rapetissé"
+    },
+    "subjonctif_présent": {
+      "je": "rapetisse",
+      "tu": "rapetisses",
+      "il": "rapetisse",
+      "nous": "rapetissions",
+      "vous": "rapetissiez",
+      "ils": "rapetissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie rapetissé",
+      "tu": "aies rapetissé",
+      "il": "ait rapetissé",
+      "nous": "ayons rapetissé",
+      "vous": "ayez rapetissé",
+      "ils": "aient rapetissé"
+    },
+    "subjonctif_imparfait": {
+      "je": "rapetissasse",
+      "tu": "rapetissasses",
+      "il": "rapetissât",
+      "nous": "rapetissassions",
+      "vous": "rapetissassiez",
+      "ils": "rapetissassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse rapetissé",
+      "tu": "eusses rapetissé",
+      "il": "eût rapetissé",
+      "nous": "eussions rapetissé",
+      "vous": "eussiez rapetissé",
+      "ils": "eussent rapetissé"
+    },
+    "conditionnel_présent": {
+      "je": "rapetisserais",
+      "tu": "rapetisserais",
+      "il": "rapetisserait",
+      "nous": "rapetisserions",
+      "vous": "rapetisseriez",
+      "ils": "rapetisseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais rapetissé",
+      "tu": "aurais rapetissé",
+      "il": "aurait rapetissé",
+      "nous": "aurions rapetissé",
+      "vous": "auriez rapetissé",
+      "ils": "auraient rapetissé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse rapetissé",
+      "tu": "eusses rapetissé",
+      "il": "eût rapetissé",
+      "nous": "eussions rapetissé",
+      "vous": "eussiez rapetissé",
+      "ils": "eussent rapetissé"
+    },
+    "translation": "tapetować",
+    "group": 1
+  },
+  {
+    "infinitive": "rappeler",
+    "présent": {
+      "je": "rappelle",
+      "tu": "rappelles",
+      "il": "rappelle",
+      "nous": "rappelons",
+      "vous": "rappelez",
+      "ils": "rappellent"
+    },
+    "passé_composé": {
+      "je": "ai rappelé",
+      "tu": "as rappelé",
+      "il": "a rappelé",
+      "nous": "avons rappelé",
+      "vous": "avez rappelé",
+      "ils": "ont rappelé"
+    },
+    "imparfait": {
+      "je": "rappelais",
+      "tu": "rappelais",
+      "il": "rappelait",
+      "nous": "rappelions",
+      "vous": "rappeliez",
+      "ils": "rappelaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais rappelé",
+      "tu": "avais rappelé",
+      "il": "avait rappelé",
+      "nous": "avions rappelé",
+      "vous": "aviez rappelé",
+      "ils": "avaient rappelé"
+    },
+    "passé_simple": {
+      "je": "rappelai",
+      "tu": "rappelas",
+      "il": "rappela",
+      "nous": "rappelâmes",
+      "vous": "rappelâtes",
+      "ils": "rappelèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus rappelé",
+      "tu": "eus rappelé",
+      "il": "eut rappelé",
+      "nous": "eûmes rappelé",
+      "vous": "eûtes rappelé",
+      "ils": "eurent rappelé"
+    },
+    "futur_simple": {
+      "je": "rappellerai",
+      "tu": "rappelleras",
+      "il": "rappellera",
+      "nous": "rappellerons",
+      "vous": "rappellerez",
+      "ils": "rappelleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai rappelé",
+      "tu": "auras rappelé",
+      "il": "aura rappelé",
+      "nous": "aurons rappelé",
+      "vous": "aurez rappelé",
+      "ils": "auront rappelé"
+    },
+    "subjonctif_présent": {
+      "je": "rappelle",
+      "tu": "rappelles",
+      "il": "rappelle",
+      "nous": "rappelions",
+      "vous": "rappeliez",
+      "ils": "rappellent"
+    },
+    "subjonctif_passé": {
+      "je": "aie rappelé",
+      "tu": "aies rappelé",
+      "il": "ait rappelé",
+      "nous": "ayons rappelé",
+      "vous": "ayez rappelé",
+      "ils": "aient rappelé"
+    },
+    "subjonctif_imparfait": {
+      "je": "rappelasse",
+      "tu": "rappelasses",
+      "il": "rappelât",
+      "nous": "rappelassions",
+      "vous": "rappelassiez",
+      "ils": "rappelassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse rappelé",
+      "tu": "eusses rappelé",
+      "il": "eût rappelé",
+      "nous": "eussions rappelé",
+      "vous": "eussiez rappelé",
+      "ils": "eussent rappelé"
+    },
+    "conditionnel_présent": {
+      "je": "rappellerais",
+      "tu": "rappellerais",
+      "il": "rappellerait",
+      "nous": "rappellerions",
+      "vous": "rappelleriez",
+      "ils": "rappelleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais rappelé",
+      "tu": "aurais rappelé",
+      "il": "aurait rappelé",
+      "nous": "aurions rappelé",
+      "vous": "auriez rappelé",
+      "ils": "auraient rappelé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse rappelé",
+      "tu": "eusses rappelé",
+      "il": "eût rappelé",
+      "nous": "eussions rappelé",
+      "vous": "eussiez rappelé",
+      "ils": "eussent rappelé"
+    },
+    "translation": "przypominać",
+    "group": 1
+  }
+]

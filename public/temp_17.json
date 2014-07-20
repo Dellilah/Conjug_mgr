@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "apprendre",
+    "présent": {
+      "je": "apprends",
+      "tu": "apprends",
+      "il": "apprend",
+      "nous": "apprenons",
+      "vous": "apprenez",
+      "ils": "apprennent"
+    },
+    "passé_composé": {
+      "je": "ai appris",
+      "tu": "as appris",
+      "il": "a appris",
+      "nous": "avons appris",
+      "vous": "avez appris",
+      "ils": "ont appris"
+    },
+    "imparfait": {
+      "je": "apprenais",
+      "tu": "apprenais",
+      "il": "apprenait",
+      "nous": "apprenions",
+      "vous": "appreniez",
+      "ils": "apprenaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais appris",
+      "tu": "avais appris",
+      "il": "avait appris",
+      "nous": "avions appris",
+      "vous": "aviez appris",
+      "ils": "avaient appris"
+    },
+    "passé_simple": {
+      "je": "appris",
+      "tu": "appris",
+      "il": "apprit",
+      "nous": "apprîmes",
+      "vous": "apprîtes",
+      "ils": "apprirent"
+    },
+    "passé_antérieur": {
+      "je": "eus appris",
+      "tu": "eus appris",
+      "il": "eut appris",
+      "nous": "eûmes appris",
+      "vous": "eûtes appris",
+      "ils": "eurent appris"
+    },
+    "futur_simple": {
+      "je": "apprendrai",
+      "tu": "apprendras",
+      "il": "apprendra",
+      "nous": "apprendrons",
+      "vous": "apprendrez",
+      "ils": "apprendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai appris",
+      "tu": "auras appris",
+      "il": "aura appris",
+      "nous": "aurons appris",
+      "vous": "aurez appris",
+      "ils": "auront appris"
+    },
+    "subjonctif_présent": {
+      "je": "apprenne",
+      "tu": "apprennes",
+      "il": "apprenne",
+      "nous": "apprenions",
+      "vous": "appreniez",
+      "ils": "apprennent"
+    },
+    "subjonctif_passé": {
+      "je": "aie appris",
+      "tu": "aies appris",
+      "il": "ait appris",
+      "nous": "ayons appris",
+      "vous": "ayez appris",
+      "ils": "aient appris"
+    },
+    "subjonctif_imparfait": {
+      "je": "apprisse",
+      "tu": "apprisses",
+      "il": "apprît",
+      "nous": "apprissions",
+      "vous": "apprissiez",
+      "ils": "apprissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse appris",
+      "tu": "eusses appris",
+      "il": "eût appris",
+      "nous": "eussions appris",
+      "vous": "eussiez appris",
+      "ils": "eussent appris"
+    },
+    "conditionnel_présent": {
+      "je": "apprendrais",
+      "tu": "apprendrais",
+      "il": "apprendrait",
+      "nous": "apprendrions",
+      "vous": "apprendriez",
+      "ils": "apprendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais appris",
+      "tu": "aurais appris",
+      "il": "aurait appris",
+      "nous": "aurions appris",
+      "vous": "auriez appris",
+      "ils": "auraient appris"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse appris",
+      "tu": "eusses appris",
+      "il": "eût appris",
+      "nous": "eussions appris",
+      "vous": "eussiez appris",
+      "ils": "eussent appris"
+    },
+    "translation": "powiadamiać",
+    "group": 3
+  },
+  {
+    "infinitive": "apprêter",
+    "présent": {
+      "je": "apprête",
+      "tu": "apprêtes",
+      "il": "apprête",
+      "nous": "apprêtons",
+      "vous": "apprêtez",
+      "ils": "apprêtent"
+    },
+    "passé_composé": {
+      "je": "ai apprêté",
+      "tu": "as apprêté",
+      "il": "a apprêté",
+      "nous": "avons apprêté",
+      "vous": "avez apprêté",
+      "ils": "ont apprêté"
+    },
+    "imparfait": {
+      "je": "apprêtais",
+      "tu": "apprêtais",
+      "il": "apprêtait",
+      "nous": "apprêtions",
+      "vous": "apprêtiez",
+      "ils": "apprêtaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais apprêté",
+      "tu": "avais apprêté",
+      "il": "avait apprêté",
+      "nous": "avions apprêté",
+      "vous": "aviez apprêté",
+      "ils": "avaient apprêté"
+    },
+    "passé_simple": {
+      "je": "apprêtai",
+      "tu": "apprêtas",
+      "il": "apprêta",
+      "nous": "apprêtâmes",
+      "vous": "apprêtâtes",
+      "ils": "apprêtèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus apprêté",
+      "tu": "eus apprêté",
+      "il": "eut apprêté",
+      "nous": "eûmes apprêté",
+      "vous": "eûtes apprêté",
+      "ils": "eurent apprêté"
+    },
+    "futur_simple": {
+      "je": "apprêterai",
+      "tu": "apprêteras",
+      "il": "apprêtera",
+      "nous": "apprêterons",
+      "vous": "apprêterez",
+      "ils": "apprêteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai apprêté",
+      "tu": "auras apprêté",
+      "il": "aura apprêté",
+      "nous": "aurons apprêté",
+      "vous": "aurez apprêté",
+      "ils": "auront apprêté"
+    },
+    "subjonctif_présent": {
+      "je": "apprête",
+      "tu": "apprêtes",
+      "il": "apprête",
+      "nous": "apprêtions",
+      "vous": "apprêtiez",
+      "ils": "apprêtent"
+    },
+    "subjonctif_passé": {
+      "je": "aie apprêté",
+      "tu": "aies apprêté",
+      "il": "ait apprêté",
+      "nous": "ayons apprêté",
+      "vous": "ayez apprêté",
+      "ils": "aient apprêté"
+    },
+    "subjonctif_imparfait": {
+      "je": "apprêtasse",
+      "tu": "apprêtasses",
+      "il": "apprêtât",
+      "nous": "apprêtassions",
+      "vous": "apprêtassiez",
+      "ils": "apprêtassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse apprêté",
+      "tu": "eusses apprêté",
+      "il": "eût apprêté",
+      "nous": "eussions apprêté",
+      "vous": "eussiez apprêté",
+      "ils": "eussent apprêté"
+    },
+    "conditionnel_présent": {
+      "je": "apprêterais",
+      "tu": "apprêterais",
+      "il": "apprêterait",
+      "nous": "apprêterions",
+      "vous": "apprêteriez",
+      "ils": "apprêteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais apprêté",
+      "tu": "aurais apprêté",
+      "il": "aurait apprêté",
+      "nous": "aurions apprêté",
+      "vous": "auriez apprêté",
+      "ils": "auraient apprêté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse apprêté",
+      "tu": "eusses apprêté",
+      "il": "eût apprêté",
+      "nous": "eussions apprêté",
+      "vous": "eussiez apprêté",
+      "ils": "eussent apprêté"
+    },
+    "translation": "przygotowywać",
+    "group": 1
+  },
+  {
+    "infinitive": "approcher",
+    "présent": {
+      "je": "approche",
+      "tu": "approches",
+      "il": "approche",
+      "nous": "approchons",
+      "vous": "approchez",
+      "ils": "approchent"
+    },
+    "passé_composé": {
+      "je": "ai approché",
+      "tu": "as approché",
+      "il": "a approché",
+      "nous": "avons approché",
+      "vous": "avez approché",
+      "ils": "ont approché"
+    },
+    "imparfait": {
+      "je": "approchais",
+      "tu": "approchais",
+      "il": "approchait",
+      "nous": "approchions",
+      "vous": "approchiez",
+      "ils": "approchaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais approché",
+      "tu": "avais approché",
+      "il": "avait approché",
+      "nous": "avions approché",
+      "vous": "aviez approché",
+      "ils": "avaient approché"
+    },
+    "passé_simple": {
+      "je": "approchai",
+      "tu": "approchas",
+      "il": "approcha",
+      "nous": "approchâmes",
+      "vous": "approchâtes",
+      "ils": "approchèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus approché",
+      "tu": "eus approché",
+      "il": "eut approché",
+      "nous": "eûmes approché",
+      "vous": "eûtes approché",
+      "ils": "eurent approché"
+    },
+    "futur_simple": {
+      "je": "approcherai",
+      "tu": "approcheras",
+      "il": "approchera",
+      "nous": "approcherons",
+      "vous": "approcherez",
+      "ils": "approcheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai approché",
+      "tu": "auras approché",
+      "il": "aura approché",
+      "nous": "aurons approché",
+      "vous": "aurez approché",
+      "ils": "auront approché"
+    },
+    "subjonctif_présent": {
+      "je": "approche",
+      "tu": "approches",
+      "il": "approche",
+      "nous": "approchions",
+      "vous": "approchiez",
+      "ils": "approchent"
+    },
+    "subjonctif_passé": {
+      "je": "aie approché",
+      "tu": "aies approché",
+      "il": "ait approché",
+      "nous": "ayons approché",
+      "vous": "ayez approché",
+      "ils": "aient approché"
+    },
+    "subjonctif_imparfait": {
+      "je": "approchasse",
+      "tu": "approchasses",
+      "il": "approchât",
+      "nous": "approchassions",
+      "vous": "approchassiez",
+      "ils": "approchassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse approché",
+      "tu": "eusses approché",
+      "il": "eût approché",
+      "nous": "eussions approché",
+      "vous": "eussiez approché",
+      "ils": "eussent approché"
+    },
+    "conditionnel_présent": {
+      "je": "approcherais",
+      "tu": "approcherais",
+      "il": "approcherait",
+      "nous": "approcherions",
+      "vous": "approcheriez",
+      "ils": "approcheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais approché",
+      "tu": "aurais approché",
+      "il": "aurait approché",
+      "nous": "aurions approché",
+      "vous": "auriez approché",
+      "ils": "auraient approché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse approché",
+      "tu": "eusses approché",
+      "il": "eût approché",
+      "nous": "eussions approché",
+      "vous": "eussiez approché",
+      "ils": "eussent approché"
+    },
+    "translation": "zbliżać",
+    "group": 1
+  },
+  {
+    "infinitive": "approfondir",
+    "présent": {
+      "je": "approfondis",
+      "tu": "approfondis",
+      "il": "approfondit",
+      "nous": "approfondissons",
+      "vous": "approfondissez",
+      "ils": "approfondissent"
+    },
+    "passé_composé": {
+      "je": "ai approfondi",
+      "tu": "as approfondi",
+      "il": "a approfondi",
+      "nous": "avons approfondi",
+      "vous": "avez approfondi",
+      "ils": "ont approfondi"
+    },
+    "imparfait": {
+      "je": "approfondissais",
+      "tu": "approfondissais",
+      "il": "approfondissait",
+      "nous": "approfondissions",
+      "vous": "approfondissiez",
+      "ils": "approfondissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais approfondi",
+      "tu": "avais approfondi",
+      "il": "avait approfondi",
+      "nous": "avions approfondi",
+      "vous": "aviez approfondi",
+      "ils": "avaient approfondi"
+    },
+    "passé_simple": {
+      "je": "approfondis",
+      "tu": "approfondis",
+      "il": "approfondit",
+      "nous": "approfondîmes",
+      "vous": "approfondîtes",
+      "ils": "approfondirent"
+    },
+    "passé_antérieur": {
+      "je": "eus approfondi",
+      "tu": "eus approfondi",
+      "il": "eut approfondi",
+      "nous": "eûmes approfondi",
+      "vous": "eûtes approfondi",
+      "ils": "eurent approfondi"
+    },
+    "futur_simple": {
+      "je": "approfondirai",
+      "tu": "approfondiras",
+      "il": "approfondira",
+      "nous": "approfondirons",
+      "vous": "approfondirez",
+      "ils": "approfondiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai approfondi",
+      "tu": "auras approfondi",
+      "il": "aura approfondi",
+      "nous": "aurons approfondi",
+      "vous": "aurez approfondi",
+      "ils": "auront approfondi"
+    },
+    "subjonctif_présent": {
+      "je": "approfondisse",
+      "tu": "approfondisses",
+      "il": "approfondisse",
+      "nous": "approfondissions",
+      "vous": "approfondissiez",
+      "ils": "approfondissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie approfondi",
+      "tu": "aies approfondi",
+      "il": "ait approfondi",
+      "nous": "ayons approfondi",
+      "vous": "ayez approfondi",
+      "ils": "aient approfondi"
+    },
+    "subjonctif_imparfait": {
+      "je": "approfondisse",
+      "tu": "approfondisses",
+      "il": "approfondît",
+      "nous": "approfondissions",
+      "vous": "approfondissiez",
+      "ils": "approfondissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse approfondi",
+      "tu": "eusses approfondi",
+      "il": "eût approfondi",
+      "nous": "eussions approfondi",
+      "vous": "eussiez approfondi",
+      "ils": "eussent approfondi"
+    },
+    "conditionnel_présent": {
+      "je": "approfondirais",
+      "tu": "approfondirais",
+      "il": "approfondirait",
+      "nous": "approfondirions",
+      "vous": "approfondiriez",
+      "ils": "approfondiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais approfondi",
+      "tu": "aurais approfondi",
+      "il": "aurait approfondi",
+      "nous": "aurions approfondi",
+      "vous": "auriez approfondi",
+      "ils": "auraient approfondi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse approfondi",
+      "tu": "eusses approfondi",
+      "il": "eût approfondi",
+      "nous": "eussions approfondi",
+      "vous": "eussiez approfondi",
+      "ils": "eussent approfondi"
+    },
+    "translation": "pogłębiać",
+    "group": 2
+  },
+  {
+    "infinitive": "approprier",
+    "présent": {
+      "je": "approprie",
+      "tu": "appropries",
+      "il": "approprie",
+      "nous": "approprions",
+      "vous": "appropriez",
+      "ils": "approprient"
+    },
+    "passé_composé": {
+      "je": "ai approprié",
+      "tu": "as approprié",
+      "il": "a approprié",
+      "nous": "avons approprié",
+      "vous": "avez approprié",
+      "ils": "ont approprié"
+    },
+    "imparfait": {
+      "je": "appropriais",
+      "tu": "appropriais",
+      "il": "appropriait",
+      "nous": "appropriions",
+      "vous": "appropriiez",
+      "ils": "appropriaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais approprié",
+      "tu": "avais approprié",
+      "il": "avait approprié",
+      "nous": "avions approprié",
+      "vous": "aviez approprié",
+      "ils": "avaient approprié"
+    },
+    "passé_simple": {
+      "je": "appropriai",
+      "tu": "approprias",
+      "il": "appropria",
+      "nous": "appropriâmes",
+      "vous": "appropriâtes",
+      "ils": "approprièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus approprié",
+      "tu": "eus approprié",
+      "il": "eut approprié",
+      "nous": "eûmes approprié",
+      "vous": "eûtes approprié",
+      "ils": "eurent approprié"
+    },
+    "futur_simple": {
+      "je": "approprierai",
+      "tu": "approprieras",
+      "il": "appropriera",
+      "nous": "approprierons",
+      "vous": "approprierez",
+      "ils": "approprieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai approprié",
+      "tu": "auras approprié",
+      "il": "aura approprié",
+      "nous": "aurons approprié",
+      "vous": "aurez approprié",
+      "ils": "auront approprié"
+    },
+    "subjonctif_présent": {
+      "je": "approprie",
+      "tu": "appropries",
+      "il": "approprie",
+      "nous": "appropriions",
+      "vous": "appropriiez",
+      "ils": "approprient"
+    },
+    "subjonctif_passé": {
+      "je": "aie approprié",
+      "tu": "aies approprié",
+      "il": "ait approprié",
+      "nous": "ayons approprié",
+      "vous": "ayez approprié",
+      "ils": "aient approprié"
+    },
+    "subjonctif_imparfait": {
+      "je": "appropriasse",
+      "tu": "appropriasses",
+      "il": "appropriât",
+      "nous": "appropriassions",
+      "vous": "appropriassiez",
+      "ils": "appropriassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse approprié",
+      "tu": "eusses approprié",
+      "il": "eût approprié",
+      "nous": "eussions approprié",
+      "vous": "eussiez approprié",
+      "ils": "eussent approprié"
+    },
+    "conditionnel_présent": {
+      "je": "approprierais",
+      "tu": "approprierais",
+      "il": "approprierait",
+      "nous": "approprierions",
+      "vous": "approprieriez",
+      "ils": "approprieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais approprié",
+      "tu": "aurais approprié",
+      "il": "aurait approprié",
+      "nous": "aurions approprié",
+      "vous": "auriez approprié",
+      "ils": "auraient approprié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse approprié",
+      "tu": "eusses approprié",
+      "il": "eût approprié",
+      "nous": "eussions approprié",
+      "vous": "eussiez approprié",
+      "ils": "eussent approprié"
+    },
+    "translation": "przywłaszczać",
+    "group": 1
+  },
+  {
+    "infinitive": "approuver",
+    "présent": {
+      "je": "approuve",
+      "tu": "approuves",
+      "il": "approuve",
+      "nous": "approuvons",
+      "vous": "approuvez",
+      "ils": "approuvent"
+    },
+    "passé_composé": {
+      "je": "ai approuvé",
+      "tu": "as approuvé",
+      "il": "a approuvé",
+      "nous": "avons approuvé",
+      "vous": "avez approuvé",
+      "ils": "ont approuvé"
+    },
+    "imparfait": {
+      "je": "approuvais",
+      "tu": "approuvais",
+      "il": "approuvait",
+      "nous": "approuvions",
+      "vous": "approuviez",
+      "ils": "approuvaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais approuvé",
+      "tu": "avais approuvé",
+      "il": "avait approuvé",
+      "nous": "avions approuvé",
+      "vous": "aviez approuvé",
+      "ils": "avaient approuvé"
+    },
+    "passé_simple": {
+      "je": "approuvai",
+      "tu": "approuvas",
+      "il": "approuva",
+      "nous": "approuvâmes",
+      "vous": "approuvâtes",
+      "ils": "approuvèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus approuvé",
+      "tu": "eus approuvé",
+      "il": "eut approuvé",
+      "nous": "eûmes approuvé",
+      "vous": "eûtes approuvé",
+      "ils": "eurent approuvé"
+    },
+    "futur_simple": {
+      "je": "approuverai",
+      "tu": "approuveras",
+      "il": "approuvera",
+      "nous": "approuverons",
+      "vous": "approuverez",
+      "ils": "approuveront"
+    },
+    "futur_antérieur": {
+      "je": "aurai approuvé",
+      "tu": "auras approuvé",
+      "il": "aura approuvé",
+      "nous": "aurons approuvé",
+      "vous": "aurez approuvé",
+      "ils": "auront approuvé"
+    },
+    "subjonctif_présent": {
+      "je": "approuve",
+      "tu": "approuves",
+      "il": "approuve",
+      "nous": "approuvions",
+      "vous": "approuviez",
+      "ils": "approuvent"
+    },
+    "subjonctif_passé": {
+      "je": "aie approuvé",
+      "tu": "aies approuvé",
+      "il": "ait approuvé",
+      "nous": "ayons approuvé",
+      "vous": "ayez approuvé",
+      "ils": "aient approuvé"
+    },
+    "subjonctif_imparfait": {
+      "je": "approuvasse",
+      "tu": "approuvasses",
+      "il": "approuvât",
+      "nous": "approuvassions",
+      "vous": "approuvassiez",
+      "ils": "approuvassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse approuvé",
+      "tu": "eusses approuvé",
+      "il": "eût approuvé",
+      "nous": "eussions approuvé",
+      "vous": "eussiez approuvé",
+      "ils": "eussent approuvé"
+    },
+    "conditionnel_présent": {
+      "je": "approuverais",
+      "tu": "approuverais",
+      "il": "approuverait",
+      "nous": "approuverions",
+      "vous": "approuveriez",
+      "ils": "approuveraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais approuvé",
+      "tu": "aurais approuvé",
+      "il": "aurait approuvé",
+      "nous": "aurions approuvé",
+      "vous": "auriez approuvé",
+      "ils": "auraient approuvé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse approuvé",
+      "tu": "eusses approuvé",
+      "il": "eût approuvé",
+      "nous": "eussions approuvé",
+      "vous": "eussiez approuvé",
+      "ils": "eussent approuvé"
+    },
+    "translation": "aprobować",
+    "group": 1
+  },
+  {
+    "infinitive": "approvisionner",
+    "présent": {
+      "je": "approvisionne",
+      "tu": "approvisionnes",
+      "il": "approvisionne",
+      "nous": "approvisionnons",
+      "vous": "approvisionnez",
+      "ils": "approvisionnent"
+    },
+    "passé_composé": {
+      "je": "ai approvisionné",
+      "tu": "as approvisionné",
+      "il": "a approvisionné",
+      "nous": "avons approvisionné",
+      "vous": "avez approvisionné",
+      "ils": "ont approvisionné"
+    },
+    "imparfait": {
+      "je": "approvisionnais",
+      "tu": "approvisionnais",
+      "il": "approvisionnait",
+      "nous": "approvisionnions",
+      "vous": "approvisionniez",
+      "ils": "approvisionnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais approvisionné",
+      "tu": "avais approvisionné",
+      "il": "avait approvisionné",
+      "nous": "avions approvisionné",
+      "vous": "aviez approvisionné",
+      "ils": "avaient approvisionné"
+    },
+    "passé_simple": {
+      "je": "approvisionnai",
+      "tu": "approvisionnas",
+      "il": "approvisionna",
+      "nous": "approvisionnâmes",
+      "vous": "approvisionnâtes",
+      "ils": "approvisionnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus approvisionné",
+      "tu": "eus approvisionné",
+      "il": "eut approvisionné",
+      "nous": "eûmes approvisionné",
+      "vous": "eûtes approvisionné",
+      "ils": "eurent approvisionné"
+    },
+    "futur_simple": {
+      "je": "approvisionnerai",
+      "tu": "approvisionneras",
+      "il": "approvisionnera",
+      "nous": "approvisionnerons",
+      "vous": "approvisionnerez",
+      "ils": "approvisionneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai approvisionné",
+      "tu": "auras approvisionné",
+      "il": "aura approvisionné",
+      "nous": "aurons approvisionné",
+      "vous": "aurez approvisionné",
+      "ils": "auront approvisionné"
+    },
+    "subjonctif_présent": {
+      "je": "approvisionne",
+      "tu": "approvisionnes",
+      "il": "approvisionne",
+      "nous": "approvisionnions",
+      "vous": "approvisionniez",
+      "ils": "approvisionnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie approvisionné",
+      "tu": "aies approvisionné",
+      "il": "ait approvisionné",
+      "nous": "ayons approvisionné",
+      "vous": "ayez approvisionné",
+      "ils": "aient approvisionné"
+    },
+    "subjonctif_imparfait": {
+      "je": "approvisionnasse",
+      "tu": "approvisionnasses",
+      "il": "approvisionnât",
+      "nous": "approvisionnassions",
+      "vous": "approvisionnassiez",
+      "ils": "approvisionnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse approvisionné",
+      "tu": "eusses approvisionné",
+      "il": "eût approvisionné",
+      "nous": "eussions approvisionné",
+      "vous": "eussiez approvisionné",
+      "ils": "eussent approvisionné"
+    },
+    "conditionnel_présent": {
+      "je": "approvisionnerais",
+      "tu": "approvisionnerais",
+      "il": "approvisionnerait",
+      "nous": "approvisionnerions",
+      "vous": "approvisionneriez",
+      "ils": "approvisionneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais approvisionné",
+      "tu": "aurais approvisionné",
+      "il": "aurait approvisionné",
+      "nous": "aurions approvisionné",
+      "vous": "auriez approvisionné",
+      "ils": "auraient approvisionné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse approvisionné",
+      "tu": "eusses approvisionné",
+      "il": "eût approvisionné",
+      "nous": "eussions approvisionné",
+      "vous": "eussiez approvisionné",
+      "ils": "eussent approvisionné"
+    },
+    "translation": "zaopatrywać",
+    "group": 1
+  },
+  {
+    "infinitive": "appuyer",
+    "présent": {
+      "je": "appuie",
+      "tu": "appuies",
+      "il": "appuie",
+      "nous": "appuyons",
+      "vous": "appuyez",
+      "ils": "appuient"
+    },
+    "passé_composé": {
+      "je": "ai appuyé",
+      "tu": "as appuyé",
+      "il": "a appuyé",
+      "nous": "avons appuyé",
+      "vous": "avez appuyé",
+      "ils": "ont appuyé"
+    },
+    "imparfait": {
+      "je": "appuyais",
+      "tu": "appuyais",
+      "il": "appuyait",
+      "nous": "appuyions",
+      "vous": "appuyiez",
+      "ils": "appuyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais appuyé",
+      "tu": "avais appuyé",
+      "il": "avait appuyé",
+      "nous": "avions appuyé",
+      "vous": "aviez appuyé",
+      "ils": "avaient appuyé"
+    },
+    "passé_simple": {
+      "je": "appuyai",
+      "tu": "appuyas",
+      "il": "appuya",
+      "nous": "appuyâmes",
+      "vous": "appuyâtes",
+      "ils": "appuyèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus appuyé",
+      "tu": "eus appuyé",
+      "il": "eut appuyé",
+      "nous": "eûmes appuyé",
+      "vous": "eûtes appuyé",
+      "ils": "eurent appuyé"
+    },
+    "futur_simple": {
+      "je": "appuierai",
+      "tu": "appuieras",
+      "il": "appuiera",
+      "nous": "appuierons",
+      "vous": "appuierez",
+      "ils": "appuieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai appuyé",
+      "tu": "auras appuyé",
+      "il": "aura appuyé",
+      "nous": "aurons appuyé",
+      "vous": "aurez appuyé",
+      "ils": "auront appuyé"
+    },
+    "subjonctif_présent": {
+      "je": "appuie",
+      "tu": "appuies",
+      "il": "appuie",
+      "nous": "appuyions",
+      "vous": "appuyiez",
+      "ils": "appuient"
+    },
+    "subjonctif_passé": {
+      "je": "aie appuyé",
+      "tu": "aies appuyé",
+      "il": "ait appuyé",
+      "nous": "ayons appuyé",
+      "vous": "ayez appuyé",
+      "ils": "aient appuyé"
+    },
+    "subjonctif_imparfait": {
+      "je": "appuyasse",
+      "tu": "appuyasses",
+      "il": "appuyât",
+      "nous": "appuyassions",
+      "vous": "appuyassiez",
+      "ils": "appuyassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse appuyé",
+      "tu": "eusses appuyé",
+      "il": "eût appuyé",
+      "nous": "eussions appuyé",
+      "vous": "eussiez appuyé",
+      "ils": "eussent appuyé"
+    },
+    "conditionnel_présent": {
+      "je": "appuierais",
+      "tu": "appuierais",
+      "il": "appuierait",
+      "nous": "appuierions",
+      "vous": "appuieriez",
+      "ils": "appuieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais appuyé",
+      "tu": "aurais appuyé",
+      "il": "aurait appuyé",
+      "nous": "aurions appuyé",
+      "vous": "auriez appuyé",
+      "ils": "auraient appuyé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse appuyé",
+      "tu": "eusses appuyé",
+      "il": "eût appuyé",
+      "nous": "eussions appuyé",
+      "vous": "eussiez appuyé",
+      "ils": "eussent appuyé"
+    },
+    "translation": "wspierać",
+    "group": 1
+  },
+  {
+    "infinitive": "arborer",
+    "présent": {
+      "je": "arbore",
+      "tu": "arbores",
+      "il": "arbore",
+      "nous": "arborons",
+      "vous": "arborez",
+      "ils": "arborent"
+    },
+    "passé_composé": {
+      "je": "ai arboré",
+      "tu": "as arboré",
+      "il": "a arboré",
+      "nous": "avons arboré",
+      "vous": "avez arboré",
+      "ils": "ont arboré"
+    },
+    "imparfait": {
+      "je": "arborais",
+      "tu": "arborais",
+      "il": "arborait",
+      "nous": "arborions",
+      "vous": "arboriez",
+      "ils": "arboraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais arboré",
+      "tu": "avais arboré",
+      "il": "avait arboré",
+      "nous": "avions arboré",
+      "vous": "aviez arboré",
+      "ils": "avaient arboré"
+    },
+    "passé_simple": {
+      "je": "arborai",
+      "tu": "arboras",
+      "il": "arbora",
+      "nous": "arborâmes",
+      "vous": "arborâtes",
+      "ils": "arborèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus arboré",
+      "tu": "eus arboré",
+      "il": "eut arboré",
+      "nous": "eûmes arboré",
+      "vous": "eûtes arboré",
+      "ils": "eurent arboré"
+    },
+    "futur_simple": {
+      "je": "arborerai",
+      "tu": "arboreras",
+      "il": "arborera",
+      "nous": "arborerons",
+      "vous": "arborerez",
+      "ils": "arboreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai arboré",
+      "tu": "auras arboré",
+      "il": "aura arboré",
+      "nous": "aurons arboré",
+      "vous": "aurez arboré",
+      "ils": "auront arboré"
+    },
+    "subjonctif_présent": {
+      "je": "arbore",
+      "tu": "arbores",
+      "il": "arbore",
+      "nous": "arborions",
+      "vous": "arboriez",
+      "ils": "arborent"
+    },
+    "subjonctif_passé": {
+      "je": "aie arboré",
+      "tu": "aies arboré",
+      "il": "ait arboré",
+      "nous": "ayons arboré",
+      "vous": "ayez arboré",
+      "ils": "aient arboré"
+    },
+    "subjonctif_imparfait": {
+      "je": "arborasse",
+      "tu": "arborasses",
+      "il": "arborât",
+      "nous": "arborassions",
+      "vous": "arborassiez",
+      "ils": "arborassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse arboré",
+      "tu": "eusses arboré",
+      "il": "eût arboré",
+      "nous": "eussions arboré",
+      "vous": "eussiez arboré",
+      "ils": "eussent arboré"
+    },
+    "conditionnel_présent": {
+      "je": "arborerais",
+      "tu": "arborerais",
+      "il": "arborerait",
+      "nous": "arborerions",
+      "vous": "arboreriez",
+      "ils": "arboreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais arboré",
+      "tu": "aurais arboré",
+      "il": "aurait arboré",
+      "nous": "aurions arboré",
+      "vous": "auriez arboré",
+      "ils": "auraient arboré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse arboré",
+      "tu": "eusses arboré",
+      "il": "eût arboré",
+      "nous": "eussions arboré",
+      "vous": "eussiez arboré",
+      "ils": "eussent arboré"
+    },
+    "translation": "wystawic",
+    "group": 1
+  },
+  {
+    "infinitive": "arguer",
+    "présent": {
+      "je": "argue",
+      "tu": "argues",
+      "il": "argue",
+      "nous": "arguons",
+      "vous": "arguez",
+      "ils": "arguent"
+    },
+    "passé_composé": {
+      "je": "ai argué",
+      "tu": "as argué",
+      "il": "a argué",
+      "nous": "avons argué",
+      "vous": "avez argué",
+      "ils": "ont argué"
+    },
+    "imparfait": {
+      "je": "arguais",
+      "tu": "arguais",
+      "il": "arguait",
+      "nous": "arguions",
+      "vous": "arguiez",
+      "ils": "arguaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais argué",
+      "tu": "avais argué",
+      "il": "avait argué",
+      "nous": "avions argué",
+      "vous": "aviez argué",
+      "ils": "avaient argué"
+    },
+    "passé_simple": {
+      "je": "arguai",
+      "tu": "arguas",
+      "il": "argua",
+      "nous": "arguâmes",
+      "vous": "arguâtes",
+      "ils": "arguèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus argué",
+      "tu": "eus argué",
+      "il": "eut argué",
+      "nous": "eûmes argué",
+      "vous": "eûtes argué",
+      "ils": "eurent argué"
+    },
+    "futur_simple": {
+      "je": "arguerai",
+      "tu": "argueras",
+      "il": "arguera",
+      "nous": "arguerons",
+      "vous": "arguerez",
+      "ils": "argueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai argué",
+      "tu": "auras argué",
+      "il": "aura argué",
+      "nous": "aurons argué",
+      "vous": "aurez argué",
+      "ils": "auront argué"
+    },
+    "subjonctif_présent": {
+      "je": "argue",
+      "tu": "argues",
+      "il": "argue",
+      "nous": "arguions",
+      "vous": "arguiez",
+      "ils": "arguent"
+    },
+    "subjonctif_passé": {
+      "je": "aie argué",
+      "tu": "aies argué",
+      "il": "ait argué",
+      "nous": "ayons argué",
+      "vous": "ayez argué",
+      "ils": "aient argué"
+    },
+    "subjonctif_imparfait": {
+      "je": "arguasse",
+      "tu": "arguasses",
+      "il": "arguât",
+      "nous": "arguassions",
+      "vous": "arguassiez",
+      "ils": "arguassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse argué",
+      "tu": "eusses argué",
+      "il": "eût argué",
+      "nous": "eussions argué",
+      "vous": "eussiez argué",
+      "ils": "eussent argué"
+    },
+    "conditionnel_présent": {
+      "je": "arguerais",
+      "tu": "arguerais",
+      "il": "arguerait",
+      "nous": "arguerions",
+      "vous": "argueriez",
+      "ils": "argueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais argué",
+      "tu": "aurais argué",
+      "il": "aurait argué",
+      "nous": "aurions argué",
+      "vous": "auriez argué",
+      "ils": "auraient argué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse argué",
+      "tu": "eusses argué",
+      "il": "eût argué",
+      "nous": "eussions argué",
+      "vous": "eussiez argué",
+      "ils": "eussent argué"
+    },
+    "translation": "poluzować",
+    "group": 1
+  }
+]

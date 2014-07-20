@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "jeûner",
+    "présent": {
+      "je": "jeûne",
+      "tu": "jeûnes",
+      "il": "jeûne",
+      "nous": "jeûnons",
+      "vous": "jeûnez",
+      "ils": "jeûnent"
+    },
+    "passé_composé": {
+      "je": "ai jeûné",
+      "tu": "as jeûné",
+      "il": "a jeûné",
+      "nous": "avons jeûné",
+      "vous": "avez jeûné",
+      "ils": "ont jeûné"
+    },
+    "imparfait": {
+      "je": "jeûnais",
+      "tu": "jeûnais",
+      "il": "jeûnait",
+      "nous": "jeûnions",
+      "vous": "jeûniez",
+      "ils": "jeûnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais jeûné",
+      "tu": "avais jeûné",
+      "il": "avait jeûné",
+      "nous": "avions jeûné",
+      "vous": "aviez jeûné",
+      "ils": "avaient jeûné"
+    },
+    "passé_simple": {
+      "je": "jeûnai",
+      "tu": "jeûnas",
+      "il": "jeûna",
+      "nous": "jeûnâmes",
+      "vous": "jeûnâtes",
+      "ils": "jeûnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus jeûné",
+      "tu": "eus jeûné",
+      "il": "eut jeûné",
+      "nous": "eûmes jeûné",
+      "vous": "eûtes jeûné",
+      "ils": "eurent jeûné"
+    },
+    "futur_simple": {
+      "je": "jeûnerai",
+      "tu": "jeûneras",
+      "il": "jeûnera",
+      "nous": "jeûnerons",
+      "vous": "jeûnerez",
+      "ils": "jeûneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai jeûné",
+      "tu": "auras jeûné",
+      "il": "aura jeûné",
+      "nous": "aurons jeûné",
+      "vous": "aurez jeûné",
+      "ils": "auront jeûné"
+    },
+    "subjonctif_présent": {
+      "je": "jeûne",
+      "tu": "jeûnes",
+      "il": "jeûne",
+      "nous": "jeûnions",
+      "vous": "jeûniez",
+      "ils": "jeûnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie jeûné",
+      "tu": "aies jeûné",
+      "il": "ait jeûné",
+      "nous": "ayons jeûné",
+      "vous": "ayez jeûné",
+      "ils": "aient jeûné"
+    },
+    "subjonctif_imparfait": {
+      "je": "jeûnasse",
+      "tu": "jeûnasses",
+      "il": "jeûnât",
+      "nous": "jeûnassions",
+      "vous": "jeûnassiez",
+      "ils": "jeûnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse jeûné",
+      "tu": "eusses jeûné",
+      "il": "eût jeûné",
+      "nous": "eussions jeûné",
+      "vous": "eussiez jeûné",
+      "ils": "eussent jeûné"
+    },
+    "conditionnel_présent": {
+      "je": "jeûnerais",
+      "tu": "jeûnerais",
+      "il": "jeûnerait",
+      "nous": "jeûnerions",
+      "vous": "jeûneriez",
+      "ils": "jeûneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais jeûné",
+      "tu": "aurais jeûné",
+      "il": "aurait jeûné",
+      "nous": "aurions jeûné",
+      "vous": "auriez jeûné",
+      "ils": "auraient jeûné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse jeûné",
+      "tu": "eusses jeûné",
+      "il": "eût jeûné",
+      "nous": "eussions jeûné",
+      "vous": "eussiez jeûné",
+      "ils": "eussent jeûné"
+    },
+    "translation": "pościć",
+    "group": 1
+  },
+  {
+    "infinitive": "joindre",
+    "présent": {
+      "je": "joins",
+      "tu": "joins",
+      "il": "joint",
+      "nous": "joignons",
+      "vous": "joignez",
+      "ils": "joignent"
+    },
+    "passé_composé": {
+      "je": "ai joint",
+      "tu": "as joint",
+      "il": "a joint",
+      "nous": "avons joint",
+      "vous": "avez joint",
+      "ils": "ont joint"
+    },
+    "imparfait": {
+      "je": "joignais",
+      "tu": "joignais",
+      "il": "joignait",
+      "nous": "joignions",
+      "vous": "joigniez",
+      "ils": "joignaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais joint",
+      "tu": "avais joint",
+      "il": "avait joint",
+      "nous": "avions joint",
+      "vous": "aviez joint",
+      "ils": "avaient joint"
+    },
+    "passé_simple": {
+      "je": "joignis",
+      "tu": "joignis",
+      "il": "joignit",
+      "nous": "joignîmes",
+      "vous": "joignîtes",
+      "ils": "joignirent"
+    },
+    "passé_antérieur": {
+      "je": "eus joint",
+      "tu": "eus joint",
+      "il": "eut joint",
+      "nous": "eûmes joint",
+      "vous": "eûtes joint",
+      "ils": "eurent joint"
+    },
+    "futur_simple": {
+      "je": "joindrai",
+      "tu": "joindras",
+      "il": "joindra",
+      "nous": "joindrons",
+      "vous": "joindrez",
+      "ils": "joindront"
+    },
+    "futur_antérieur": {
+      "je": "aurai joint",
+      "tu": "auras joint",
+      "il": "aura joint",
+      "nous": "aurons joint",
+      "vous": "aurez joint",
+      "ils": "auront joint"
+    },
+    "subjonctif_présent": {
+      "je": "joigne",
+      "tu": "joignes",
+      "il": "joigne",
+      "nous": "joignions",
+      "vous": "joigniez",
+      "ils": "joignent"
+    },
+    "subjonctif_passé": {
+      "je": "aie joint",
+      "tu": "aies joint",
+      "il": "ait joint",
+      "nous": "ayons joint",
+      "vous": "ayez joint",
+      "ils": "aient joint"
+    },
+    "subjonctif_imparfait": {
+      "je": "joignisse",
+      "tu": "joignisses",
+      "il": "joignît",
+      "nous": "joignissions",
+      "vous": "joignissiez",
+      "ils": "joignissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse joint",
+      "tu": "eusses joint",
+      "il": "eût joint",
+      "nous": "eussions joint",
+      "vous": "eussiez joint",
+      "ils": "eussent joint"
+    },
+    "conditionnel_présent": {
+      "je": "joindrais",
+      "tu": "joindrais",
+      "il": "joindrait",
+      "nous": "joindrions",
+      "vous": "joindriez",
+      "ils": "joindraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais joint",
+      "tu": "aurais joint",
+      "il": "aurait joint",
+      "nous": "aurions joint",
+      "vous": "auriez joint",
+      "ils": "auraient joint"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse joint",
+      "tu": "eusses joint",
+      "il": "eût joint",
+      "nous": "eussions joint",
+      "vous": "eussiez joint",
+      "ils": "eussent joint"
+    },
+    "translation": "stykać",
+    "group": 3
+  },
+  {
+    "infinitive": "jongler",
+    "présent": {
+      "je": "jongle",
+      "tu": "jongles",
+      "il": "jongle",
+      "nous": "jonglons",
+      "vous": "jonglez",
+      "ils": "jonglent"
+    },
+    "passé_composé": {
+      "je": "ai jonglé",
+      "tu": "as jonglé",
+      "il": "a jonglé",
+      "nous": "avons jonglé",
+      "vous": "avez jonglé",
+      "ils": "ont jonglé"
+    },
+    "imparfait": {
+      "je": "jonglais",
+      "tu": "jonglais",
+      "il": "jonglait",
+      "nous": "jonglions",
+      "vous": "jongliez",
+      "ils": "jonglaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais jonglé",
+      "tu": "avais jonglé",
+      "il": "avait jonglé",
+      "nous": "avions jonglé",
+      "vous": "aviez jonglé",
+      "ils": "avaient jonglé"
+    },
+    "passé_simple": {
+      "je": "jonglai",
+      "tu": "jonglas",
+      "il": "jongla",
+      "nous": "jonglâmes",
+      "vous": "jonglâtes",
+      "ils": "jonglèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus jonglé",
+      "tu": "eus jonglé",
+      "il": "eut jonglé",
+      "nous": "eûmes jonglé",
+      "vous": "eûtes jonglé",
+      "ils": "eurent jonglé"
+    },
+    "futur_simple": {
+      "je": "jonglerai",
+      "tu": "jongleras",
+      "il": "jonglera",
+      "nous": "jonglerons",
+      "vous": "jonglerez",
+      "ils": "jongleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai jonglé",
+      "tu": "auras jonglé",
+      "il": "aura jonglé",
+      "nous": "aurons jonglé",
+      "vous": "aurez jonglé",
+      "ils": "auront jonglé"
+    },
+    "subjonctif_présent": {
+      "je": "jongle",
+      "tu": "jongles",
+      "il": "jongle",
+      "nous": "jonglions",
+      "vous": "jongliez",
+      "ils": "jonglent"
+    },
+    "subjonctif_passé": {
+      "je": "aie jonglé",
+      "tu": "aies jonglé",
+      "il": "ait jonglé",
+      "nous": "ayons jonglé",
+      "vous": "ayez jonglé",
+      "ils": "aient jonglé"
+    },
+    "subjonctif_imparfait": {
+      "je": "jonglasse",
+      "tu": "jonglasses",
+      "il": "jonglât",
+      "nous": "jonglassions",
+      "vous": "jonglassiez",
+      "ils": "jonglassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse jonglé",
+      "tu": "eusses jonglé",
+      "il": "eût jonglé",
+      "nous": "eussions jonglé",
+      "vous": "eussiez jonglé",
+      "ils": "eussent jonglé"
+    },
+    "conditionnel_présent": {
+      "je": "jonglerais",
+      "tu": "jonglerais",
+      "il": "jonglerait",
+      "nous": "jonglerions",
+      "vous": "jongleriez",
+      "ils": "jongleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais jonglé",
+      "tu": "aurais jonglé",
+      "il": "aurait jonglé",
+      "nous": "aurions jonglé",
+      "vous": "auriez jonglé",
+      "ils": "auraient jonglé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse jonglé",
+      "tu": "eusses jonglé",
+      "il": "eût jonglé",
+      "nous": "eussions jonglé",
+      "vous": "eussiez jonglé",
+      "ils": "eussent jonglé"
+    },
+    "translation": "żonglować",
+    "group": 1
+  },
+  {
+    "infinitive": "jouer",
+    "présent": {
+      "je": "joue",
+      "tu": "joues",
+      "il": "joue",
+      "nous": "jouons",
+      "vous": "jouez",
+      "ils": "jouent"
+    },
+    "passé_composé": {
+      "je": "ai joué",
+      "tu": "as joué",
+      "il": "a joué",
+      "nous": "avons joué",
+      "vous": "avez joué",
+      "ils": "ont joué"
+    },
+    "imparfait": {
+      "je": "jouais",
+      "tu": "jouais",
+      "il": "jouait",
+      "nous": "jouions",
+      "vous": "jouiez",
+      "ils": "jouaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais joué",
+      "tu": "avais joué",
+      "il": "avait joué",
+      "nous": "avions joué",
+      "vous": "aviez joué",
+      "ils": "avaient joué"
+    },
+    "passé_simple": {
+      "je": "jouai",
+      "tu": "jouas",
+      "il": "joua",
+      "nous": "jouâmes",
+      "vous": "jouâtes",
+      "ils": "jouèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus joué",
+      "tu": "eus joué",
+      "il": "eut joué",
+      "nous": "eûmes joué",
+      "vous": "eûtes joué",
+      "ils": "eurent joué"
+    },
+    "futur_simple": {
+      "je": "jouerai",
+      "tu": "joueras",
+      "il": "jouera",
+      "nous": "jouerons",
+      "vous": "jouerez",
+      "ils": "joueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai joué",
+      "tu": "auras joué",
+      "il": "aura joué",
+      "nous": "aurons joué",
+      "vous": "aurez joué",
+      "ils": "auront joué"
+    },
+    "subjonctif_présent": {
+      "je": "joue",
+      "tu": "joues",
+      "il": "joue",
+      "nous": "jouions",
+      "vous": "jouiez",
+      "ils": "jouent"
+    },
+    "subjonctif_passé": {
+      "je": "aie joué",
+      "tu": "aies joué",
+      "il": "ait joué",
+      "nous": "ayons joué",
+      "vous": "ayez joué",
+      "ils": "aient joué"
+    },
+    "subjonctif_imparfait": {
+      "je": "jouasse",
+      "tu": "jouasses",
+      "il": "jouât",
+      "nous": "jouassions",
+      "vous": "jouassiez",
+      "ils": "jouassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse joué",
+      "tu": "eusses joué",
+      "il": "eût joué",
+      "nous": "eussions joué",
+      "vous": "eussiez joué",
+      "ils": "eussent joué"
+    },
+    "conditionnel_présent": {
+      "je": "jouerais",
+      "tu": "jouerais",
+      "il": "jouerait",
+      "nous": "jouerions",
+      "vous": "joueriez",
+      "ils": "joueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais joué",
+      "tu": "aurais joué",
+      "il": "aurait joué",
+      "nous": "aurions joué",
+      "vous": "auriez joué",
+      "ils": "auraient joué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse joué",
+      "tu": "eusses joué",
+      "il": "eût joué",
+      "nous": "eussions joué",
+      "vous": "eussiez joué",
+      "ils": "eussent joué"
+    },
+    "translation": "bawić",
+    "group": 1
+  },
+  {
+    "infinitive": "jouir",
+    "présent": {
+      "je": "jouis",
+      "tu": "jouis",
+      "il": "jouit",
+      "nous": "jouissons",
+      "vous": "jouissez",
+      "ils": "jouissent"
+    },
+    "passé_composé": {
+      "je": "ai joui",
+      "tu": "as joui",
+      "il": "a joui",
+      "nous": "avons joui",
+      "vous": "avez joui",
+      "ils": "ont joui"
+    },
+    "imparfait": {
+      "je": "jouissais",
+      "tu": "jouissais",
+      "il": "jouissait",
+      "nous": "jouissions",
+      "vous": "jouissiez",
+      "ils": "jouissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais joui",
+      "tu": "avais joui",
+      "il": "avait joui",
+      "nous": "avions joui",
+      "vous": "aviez joui",
+      "ils": "avaient joui"
+    },
+    "passé_simple": {
+      "je": "jouis",
+      "tu": "jouis",
+      "il": "jouit",
+      "nous": "jouîmes",
+      "vous": "jouîtes",
+      "ils": "jouirent"
+    },
+    "passé_antérieur": {
+      "je": "eus joui",
+      "tu": "eus joui",
+      "il": "eut joui",
+      "nous": "eûmes joui",
+      "vous": "eûtes joui",
+      "ils": "eurent joui"
+    },
+    "futur_simple": {
+      "je": "jouirai",
+      "tu": "jouiras",
+      "il": "jouira",
+      "nous": "jouirons",
+      "vous": "jouirez",
+      "ils": "jouiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai joui",
+      "tu": "auras joui",
+      "il": "aura joui",
+      "nous": "aurons joui",
+      "vous": "aurez joui",
+      "ils": "auront joui"
+    },
+    "subjonctif_présent": {
+      "je": "jouisse",
+      "tu": "jouisses",
+      "il": "jouisse",
+      "nous": "jouissions",
+      "vous": "jouissiez",
+      "ils": "jouissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie joui",
+      "tu": "aies joui",
+      "il": "ait joui",
+      "nous": "ayons joui",
+      "vous": "ayez joui",
+      "ils": "aient joui"
+    },
+    "subjonctif_imparfait": {
+      "je": "jouisse",
+      "tu": "jouisses",
+      "il": "jouît",
+      "nous": "jouissions",
+      "vous": "jouissiez",
+      "ils": "jouissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse joui",
+      "tu": "eusses joui",
+      "il": "eût joui",
+      "nous": "eussions joui",
+      "vous": "eussiez joui",
+      "ils": "eussent joui"
+    },
+    "conditionnel_présent": {
+      "je": "jouirais",
+      "tu": "jouirais",
+      "il": "jouirait",
+      "nous": "jouirions",
+      "vous": "jouiriez",
+      "ils": "jouiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais joui",
+      "tu": "aurais joui",
+      "il": "aurait joui",
+      "nous": "aurions joui",
+      "vous": "auriez joui",
+      "ils": "auraient joui"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse joui",
+      "tu": "eusses joui",
+      "il": "eût joui",
+      "nous": "eussions joui",
+      "vous": "eussiez joui",
+      "ils": "eussent joui"
+    },
+    "translation": "cieszyć",
+    "group": 2
+  },
+  {
+    "infinitive": "juger",
+    "présent": {
+      "je": "juge",
+      "tu": "juges",
+      "il": "juge",
+      "nous": "jugeons",
+      "vous": "jugez",
+      "ils": "jugent"
+    },
+    "passé_composé": {
+      "je": "ai jugé",
+      "tu": "as jugé",
+      "il": "a jugé",
+      "nous": "avons jugé",
+      "vous": "avez jugé",
+      "ils": "ont jugé"
+    },
+    "imparfait": {
+      "je": "jugeais",
+      "tu": "jugeais",
+      "il": "jugeait",
+      "nous": "jugions",
+      "vous": "jugiez",
+      "ils": "jugeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais jugé",
+      "tu": "avais jugé",
+      "il": "avait jugé",
+      "nous": "avions jugé",
+      "vous": "aviez jugé",
+      "ils": "avaient jugé"
+    },
+    "passé_simple": {
+      "je": "jugeai",
+      "tu": "jugeas",
+      "il": "jugea",
+      "nous": "jugeâmes",
+      "vous": "jugeâtes",
+      "ils": "jugèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus jugé",
+      "tu": "eus jugé",
+      "il": "eut jugé",
+      "nous": "eûmes jugé",
+      "vous": "eûtes jugé",
+      "ils": "eurent jugé"
+    },
+    "futur_simple": {
+      "je": "jugerai",
+      "tu": "jugeras",
+      "il": "jugera",
+      "nous": "jugerons",
+      "vous": "jugerez",
+      "ils": "jugeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai jugé",
+      "tu": "auras jugé",
+      "il": "aura jugé",
+      "nous": "aurons jugé",
+      "vous": "aurez jugé",
+      "ils": "auront jugé"
+    },
+    "subjonctif_présent": {
+      "je": "juge",
+      "tu": "juges",
+      "il": "juge",
+      "nous": "jugions",
+      "vous": "jugiez",
+      "ils": "jugent"
+    },
+    "subjonctif_passé": {
+      "je": "aie jugé",
+      "tu": "aies jugé",
+      "il": "ait jugé",
+      "nous": "ayons jugé",
+      "vous": "ayez jugé",
+      "ils": "aient jugé"
+    },
+    "subjonctif_imparfait": {
+      "je": "jugeasse",
+      "tu": "jugeasses",
+      "il": "jugeât",
+      "nous": "jugeassions",
+      "vous": "jugeassiez",
+      "ils": "jugeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse jugé",
+      "tu": "eusses jugé",
+      "il": "eût jugé",
+      "nous": "eussions jugé",
+      "vous": "eussiez jugé",
+      "ils": "eussent jugé"
+    },
+    "conditionnel_présent": {
+      "je": "jugerais",
+      "tu": "jugerais",
+      "il": "jugerait",
+      "nous": "jugerions",
+      "vous": "jugeriez",
+      "ils": "jugeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais jugé",
+      "tu": "aurais jugé",
+      "il": "aurait jugé",
+      "nous": "aurions jugé",
+      "vous": "auriez jugé",
+      "ils": "auraient jugé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse jugé",
+      "tu": "eusses jugé",
+      "il": "eût jugé",
+      "nous": "eussions jugé",
+      "vous": "eussiez jugé",
+      "ils": "eussent jugé"
+    },
+    "translation": "sądzić",
+    "group": 1
+  },
+  {
+    "infinitive": "jurer",
+    "présent": {
+      "je": "jure",
+      "tu": "jures",
+      "il": "jure",
+      "nous": "jurons",
+      "vous": "jurez",
+      "ils": "jurent"
+    },
+    "passé_composé": {
+      "je": "ai juré",
+      "tu": "as juré",
+      "il": "a juré",
+      "nous": "avons juré",
+      "vous": "avez juré",
+      "ils": "ont juré"
+    },
+    "imparfait": {
+      "je": "jurais",
+      "tu": "jurais",
+      "il": "jurait",
+      "nous": "jurions",
+      "vous": "juriez",
+      "ils": "juraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais juré",
+      "tu": "avais juré",
+      "il": "avait juré",
+      "nous": "avions juré",
+      "vous": "aviez juré",
+      "ils": "avaient juré"
+    },
+    "passé_simple": {
+      "je": "jurai",
+      "tu": "juras",
+      "il": "jura",
+      "nous": "jurâmes",
+      "vous": "jurâtes",
+      "ils": "jurèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus juré",
+      "tu": "eus juré",
+      "il": "eut juré",
+      "nous": "eûmes juré",
+      "vous": "eûtes juré",
+      "ils": "eurent juré"
+    },
+    "futur_simple": {
+      "je": "jurerai",
+      "tu": "jureras",
+      "il": "jurera",
+      "nous": "jurerons",
+      "vous": "jurerez",
+      "ils": "jureront"
+    },
+    "futur_antérieur": {
+      "je": "aurai juré",
+      "tu": "auras juré",
+      "il": "aura juré",
+      "nous": "aurons juré",
+      "vous": "aurez juré",
+      "ils": "auront juré"
+    },
+    "subjonctif_présent": {
+      "je": "jure",
+      "tu": "jures",
+      "il": "jure",
+      "nous": "jurions",
+      "vous": "juriez",
+      "ils": "jurent"
+    },
+    "subjonctif_passé": {
+      "je": "aie juré",
+      "tu": "aies juré",
+      "il": "ait juré",
+      "nous": "ayons juré",
+      "vous": "ayez juré",
+      "ils": "aient juré"
+    },
+    "subjonctif_imparfait": {
+      "je": "jurasse",
+      "tu": "jurasses",
+      "il": "jurât",
+      "nous": "jurassions",
+      "vous": "jurassiez",
+      "ils": "jurassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse juré",
+      "tu": "eusses juré",
+      "il": "eût juré",
+      "nous": "eussions juré",
+      "vous": "eussiez juré",
+      "ils": "eussent juré"
+    },
+    "conditionnel_présent": {
+      "je": "jurerais",
+      "tu": "jurerais",
+      "il": "jurerait",
+      "nous": "jurerions",
+      "vous": "jureriez",
+      "ils": "jureraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais juré",
+      "tu": "aurais juré",
+      "il": "aurait juré",
+      "nous": "aurions juré",
+      "vous": "auriez juré",
+      "ils": "auraient juré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse juré",
+      "tu": "eusses juré",
+      "il": "eût juré",
+      "nous": "eussions juré",
+      "vous": "eussiez juré",
+      "ils": "eussent juré"
+    },
+    "translation": "przysięgać",
+    "group": 1
+  },
+  {
+    "infinitive": "justifier",
+    "présent": {
+      "je": "justifie",
+      "tu": "justifies",
+      "il": "justifie",
+      "nous": "justifions",
+      "vous": "justifiez",
+      "ils": "justifient"
+    },
+    "passé_composé": {
+      "je": "ai justifié",
+      "tu": "as justifié",
+      "il": "a justifié",
+      "nous": "avons justifié",
+      "vous": "avez justifié",
+      "ils": "ont justifié"
+    },
+    "imparfait": {
+      "je": "justifiais",
+      "tu": "justifiais",
+      "il": "justifiait",
+      "nous": "justifiions",
+      "vous": "justifiiez",
+      "ils": "justifiaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais justifié",
+      "tu": "avais justifié",
+      "il": "avait justifié",
+      "nous": "avions justifié",
+      "vous": "aviez justifié",
+      "ils": "avaient justifié"
+    },
+    "passé_simple": {
+      "je": "justifiai",
+      "tu": "justifias",
+      "il": "justifia",
+      "nous": "justifiâmes",
+      "vous": "justifiâtes",
+      "ils": "justifièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus justifié",
+      "tu": "eus justifié",
+      "il": "eut justifié",
+      "nous": "eûmes justifié",
+      "vous": "eûtes justifié",
+      "ils": "eurent justifié"
+    },
+    "futur_simple": {
+      "je": "justifierai",
+      "tu": "justifieras",
+      "il": "justifiera",
+      "nous": "justifierons",
+      "vous": "justifierez",
+      "ils": "justifieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai justifié",
+      "tu": "auras justifié",
+      "il": "aura justifié",
+      "nous": "aurons justifié",
+      "vous": "aurez justifié",
+      "ils": "auront justifié"
+    },
+    "subjonctif_présent": {
+      "je": "justifie",
+      "tu": "justifies",
+      "il": "justifie",
+      "nous": "justifiions",
+      "vous": "justifiiez",
+      "ils": "justifient"
+    },
+    "subjonctif_passé": {
+      "je": "aie justifié",
+      "tu": "aies justifié",
+      "il": "ait justifié",
+      "nous": "ayons justifié",
+      "vous": "ayez justifié",
+      "ils": "aient justifié"
+    },
+    "subjonctif_imparfait": {
+      "je": "justifiasse",
+      "tu": "justifiasses",
+      "il": "justifiât",
+      "nous": "justifiassions",
+      "vous": "justifiassiez",
+      "ils": "justifiassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse justifié",
+      "tu": "eusses justifié",
+      "il": "eût justifié",
+      "nous": "eussions justifié",
+      "vous": "eussiez justifié",
+      "ils": "eussent justifié"
+    },
+    "conditionnel_présent": {
+      "je": "justifierais",
+      "tu": "justifierais",
+      "il": "justifierait",
+      "nous": "justifierions",
+      "vous": "justifieriez",
+      "ils": "justifieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais justifié",
+      "tu": "aurais justifié",
+      "il": "aurait justifié",
+      "nous": "aurions justifié",
+      "vous": "auriez justifié",
+      "ils": "auraient justifié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse justifié",
+      "tu": "eusses justifié",
+      "il": "eût justifié",
+      "nous": "eussions justifié",
+      "vous": "eussiez justifié",
+      "ils": "eussent justifié"
+    },
+    "translation": "uzasadniać",
+    "group": 1
+  },
+  {
+    "infinitive": "juter",
+    "présent": {
+      "je": "jute",
+      "tu": "jutes",
+      "il": "jute",
+      "nous": "jutons",
+      "vous": "jutez",
+      "ils": "jutent"
+    },
+    "passé_composé": {
+      "je": "ai juté",
+      "tu": "as juté",
+      "il": "a juté",
+      "nous": "avons juté",
+      "vous": "avez juté",
+      "ils": "ont juté"
+    },
+    "imparfait": {
+      "je": "jutais",
+      "tu": "jutais",
+      "il": "jutait",
+      "nous": "jutions",
+      "vous": "jutiez",
+      "ils": "jutaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais juté",
+      "tu": "avais juté",
+      "il": "avait juté",
+      "nous": "avions juté",
+      "vous": "aviez juté",
+      "ils": "avaient juté"
+    },
+    "passé_simple": {
+      "je": "jutai",
+      "tu": "jutas",
+      "il": "juta",
+      "nous": "jutâmes",
+      "vous": "jutâtes",
+      "ils": "jutèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus juté",
+      "tu": "eus juté",
+      "il": "eut juté",
+      "nous": "eûmes juté",
+      "vous": "eûtes juté",
+      "ils": "eurent juté"
+    },
+    "futur_simple": {
+      "je": "juterai",
+      "tu": "juteras",
+      "il": "jutera",
+      "nous": "juterons",
+      "vous": "juterez",
+      "ils": "juteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai juté",
+      "tu": "auras juté",
+      "il": "aura juté",
+      "nous": "aurons juté",
+      "vous": "aurez juté",
+      "ils": "auront juté"
+    },
+    "subjonctif_présent": {
+      "je": "jute",
+      "tu": "jutes",
+      "il": "jute",
+      "nous": "jutions",
+      "vous": "jutiez",
+      "ils": "jutent"
+    },
+    "subjonctif_passé": {
+      "je": "aie juté",
+      "tu": "aies juté",
+      "il": "ait juté",
+      "nous": "ayons juté",
+      "vous": "ayez juté",
+      "ils": "aient juté"
+    },
+    "subjonctif_imparfait": {
+      "je": "jutasse",
+      "tu": "jutasses",
+      "il": "jutât",
+      "nous": "jutassions",
+      "vous": "jutassiez",
+      "ils": "jutassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse juté",
+      "tu": "eusses juté",
+      "il": "eût juté",
+      "nous": "eussions juté",
+      "vous": "eussiez juté",
+      "ils": "eussent juté"
+    },
+    "conditionnel_présent": {
+      "je": "juterais",
+      "tu": "juterais",
+      "il": "juterait",
+      "nous": "juterions",
+      "vous": "juteriez",
+      "ils": "juteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais juté",
+      "tu": "aurais juté",
+      "il": "aurait juté",
+      "nous": "aurions juté",
+      "vous": "auriez juté",
+      "ils": "auraient juté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse juté",
+      "tu": "eusses juté",
+      "il": "eût juté",
+      "nous": "eussions juté",
+      "vous": "eussiez juté",
+      "ils": "eussent juté"
+    },
+    "translation": "potykać",
+    "group": 1
+  },
+  {
+    "infinitive": "kiffer",
+    "présent": {
+      "je": "kiffe",
+      "tu": "kiffes",
+      "il": "kiffe",
+      "nous": "kiffons",
+      "vous": "kiffez",
+      "ils": "kiffent"
+    },
+    "passé_composé": {
+      "je": "ai kiffé",
+      "tu": "as kiffé",
+      "il": "a kiffé",
+      "nous": "avons kiffé",
+      "vous": "avez kiffé",
+      "ils": "ont kiffé"
+    },
+    "imparfait": {
+      "je": "kiffais",
+      "tu": "kiffais",
+      "il": "kiffait",
+      "nous": "kiffions",
+      "vous": "kiffiez",
+      "ils": "kiffaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais kiffé",
+      "tu": "avais kiffé",
+      "il": "avait kiffé",
+      "nous": "avions kiffé",
+      "vous": "aviez kiffé",
+      "ils": "avaient kiffé"
+    },
+    "passé_simple": {
+      "je": "kiffai",
+      "tu": "kiffas",
+      "il": "kiffa",
+      "nous": "kiffâmes",
+      "vous": "kiffâtes",
+      "ils": "kiffèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus kiffé",
+      "tu": "eus kiffé",
+      "il": "eut kiffé",
+      "nous": "eûmes kiffé",
+      "vous": "eûtes kiffé",
+      "ils": "eurent kiffé"
+    },
+    "futur_simple": {
+      "je": "kifferai",
+      "tu": "kifferas",
+      "il": "kiffera",
+      "nous": "kifferons",
+      "vous": "kifferez",
+      "ils": "kifferont"
+    },
+    "futur_antérieur": {
+      "je": "aurai kiffé",
+      "tu": "auras kiffé",
+      "il": "aura kiffé",
+      "nous": "aurons kiffé",
+      "vous": "aurez kiffé",
+      "ils": "auront kiffé"
+    },
+    "subjonctif_présent": {
+      "je": "kiffe",
+      "tu": "kiffes",
+      "il": "kiffe",
+      "nous": "kiffions",
+      "vous": "kiffiez",
+      "ils": "kiffent"
+    },
+    "subjonctif_passé": {
+      "je": "aie kiffé",
+      "tu": "aies kiffé",
+      "il": "ait kiffé",
+      "nous": "ayons kiffé",
+      "vous": "ayez kiffé",
+      "ils": "aient kiffé"
+    },
+    "subjonctif_imparfait": {
+      "je": "kiffasse",
+      "tu": "kiffasses",
+      "il": "kiffât",
+      "nous": "kiffassions",
+      "vous": "kiffassiez",
+      "ils": "kiffassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse kiffé",
+      "tu": "eusses kiffé",
+      "il": "eût kiffé",
+      "nous": "eussions kiffé",
+      "vous": "eussiez kiffé",
+      "ils": "eussent kiffé"
+    },
+    "conditionnel_présent": {
+      "je": "kifferais",
+      "tu": "kifferais",
+      "il": "kifferait",
+      "nous": "kifferions",
+      "vous": "kifferiez",
+      "ils": "kifferaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais kiffé",
+      "tu": "aurais kiffé",
+      "il": "aurait kiffé",
+      "nous": "aurions kiffé",
+      "vous": "auriez kiffé",
+      "ils": "auraient kiffé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse kiffé",
+      "tu": "eusses kiffé",
+      "il": "eût kiffé",
+      "nous": "eussions kiffé",
+      "vous": "eussiez kiffé",
+      "ils": "eussent kiffé"
+    },
+    "translation": "uwielbiać",
+    "group": 1
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "alerter",
+    "présent": {
+      "je": "alerte",
+      "tu": "alertes",
+      "il": "alerte",
+      "nous": "alertons",
+      "vous": "alertez",
+      "ils": "alertent"
+    },
+    "passé_composé": {
+      "je": "ai alerté",
+      "tu": "as alerté",
+      "il": "a alerté",
+      "nous": "avons alerté",
+      "vous": "avez alerté",
+      "ils": "ont alerté"
+    },
+    "imparfait": {
+      "je": "alertais",
+      "tu": "alertais",
+      "il": "alertait",
+      "nous": "alertions",
+      "vous": "alertiez",
+      "ils": "alertaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais alerté",
+      "tu": "avais alerté",
+      "il": "avait alerté",
+      "nous": "avions alerté",
+      "vous": "aviez alerté",
+      "ils": "avaient alerté"
+    },
+    "passé_simple": {
+      "je": "alertai",
+      "tu": "alertas",
+      "il": "alerta",
+      "nous": "alertâmes",
+      "vous": "alertâtes",
+      "ils": "alertèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus alerté",
+      "tu": "eus alerté",
+      "il": "eut alerté",
+      "nous": "eûmes alerté",
+      "vous": "eûtes alerté",
+      "ils": "eurent alerté"
+    },
+    "futur_simple": {
+      "je": "alerterai",
+      "tu": "alerteras",
+      "il": "alertera",
+      "nous": "alerterons",
+      "vous": "alerterez",
+      "ils": "alerteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai alerté",
+      "tu": "auras alerté",
+      "il": "aura alerté",
+      "nous": "aurons alerté",
+      "vous": "aurez alerté",
+      "ils": "auront alerté"
+    },
+    "subjonctif_présent": {
+      "je": "alerte",
+      "tu": "alertes",
+      "il": "alerte",
+      "nous": "alertions",
+      "vous": "alertiez",
+      "ils": "alertent"
+    },
+    "subjonctif_passé": {
+      "je": "aie alerté",
+      "tu": "aies alerté",
+      "il": "ait alerté",
+      "nous": "ayons alerté",
+      "vous": "ayez alerté",
+      "ils": "aient alerté"
+    },
+    "subjonctif_imparfait": {
+      "je": "alertasse",
+      "tu": "alertasses",
+      "il": "alertât",
+      "nous": "alertassions",
+      "vous": "alertassiez",
+      "ils": "alertassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse alerté",
+      "tu": "eusses alerté",
+      "il": "eût alerté",
+      "nous": "eussions alerté",
+      "vous": "eussiez alerté",
+      "ils": "eussent alerté"
+    },
+    "conditionnel_présent": {
+      "je": "alerterais",
+      "tu": "alerterais",
+      "il": "alerterait",
+      "nous": "alerterions",
+      "vous": "alerteriez",
+      "ils": "alerteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais alerté",
+      "tu": "aurais alerté",
+      "il": "aurait alerté",
+      "nous": "aurions alerté",
+      "vous": "auriez alerté",
+      "ils": "auraient alerté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse alerté",
+      "tu": "eusses alerté",
+      "il": "eût alerté",
+      "nous": "eussions alerté",
+      "vous": "eussiez alerté",
+      "ils": "eussent alerté"
+    },
+    "translation": "alarmować",
+    "group": 1
+  },
+  {
+    "infinitive": "aliéner",
+    "présent": {
+      "je": "aliène",
+      "tu": "aliènes",
+      "il": "aliène",
+      "nous": "aliénons",
+      "vous": "aliénez",
+      "ils": "aliènent"
+    },
+    "passé_composé": {
+      "je": "ai aliéné",
+      "tu": "as aliéné",
+      "il": "a aliéné",
+      "nous": "avons aliéné",
+      "vous": "avez aliéné",
+      "ils": "ont aliéné"
+    },
+    "imparfait": {
+      "je": "aliénais",
+      "tu": "aliénais",
+      "il": "aliénait",
+      "nous": "aliénions",
+      "vous": "aliéniez",
+      "ils": "aliénaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais aliéné",
+      "tu": "avais aliéné",
+      "il": "avait aliéné",
+      "nous": "avions aliéné",
+      "vous": "aviez aliéné",
+      "ils": "avaient aliéné"
+    },
+    "passé_simple": {
+      "je": "aliénai",
+      "tu": "aliénas",
+      "il": "aliéna",
+      "nous": "aliénâmes",
+      "vous": "aliénâtes",
+      "ils": "aliénèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus aliéné",
+      "tu": "eus aliéné",
+      "il": "eut aliéné",
+      "nous": "eûmes aliéné",
+      "vous": "eûtes aliéné",
+      "ils": "eurent aliéné"
+    },
+    "futur_simple": {
+      "je": "aliénerai",
+      "tu": "aliéneras",
+      "il": "aliénera",
+      "nous": "aliénerons",
+      "vous": "aliénerez",
+      "ils": "aliéneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai aliéné",
+      "tu": "auras aliéné",
+      "il": "aura aliéné",
+      "nous": "aurons aliéné",
+      "vous": "aurez aliéné",
+      "ils": "auront aliéné"
+    },
+    "subjonctif_présent": {
+      "je": "aliène",
+      "tu": "aliènes",
+      "il": "aliène",
+      "nous": "aliénions",
+      "vous": "aliéniez",
+      "ils": "aliènent"
+    },
+    "subjonctif_passé": {
+      "je": "aie aliéné",
+      "tu": "aies aliéné",
+      "il": "ait aliéné",
+      "nous": "ayons aliéné",
+      "vous": "ayez aliéné",
+      "ils": "aient aliéné"
+    },
+    "subjonctif_imparfait": {
+      "je": "aliénasse",
+      "tu": "aliénasses",
+      "il": "aliénât",
+      "nous": "aliénassions",
+      "vous": "aliénassiez",
+      "ils": "aliénassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse aliéné",
+      "tu": "eusses aliéné",
+      "il": "eût aliéné",
+      "nous": "eussions aliéné",
+      "vous": "eussiez aliéné",
+      "ils": "eussent aliéné"
+    },
+    "conditionnel_présent": {
+      "je": "aliénerais",
+      "tu": "aliénerais",
+      "il": "aliénerait",
+      "nous": "aliénerions",
+      "vous": "aliéneriez",
+      "ils": "aliéneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais aliéné",
+      "tu": "aurais aliéné",
+      "il": "aurait aliéné",
+      "nous": "aurions aliéné",
+      "vous": "auriez aliéné",
+      "ils": "auraient aliéné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse aliéné",
+      "tu": "eusses aliéné",
+      "il": "eût aliéné",
+      "nous": "eussions aliéné",
+      "vous": "eussiez aliéné",
+      "ils": "eussent aliéné"
+    },
+    "translation": "ustawiać",
+    "group": 1
+  },
+  {
+    "infinitive": "aligner",
+    "présent": {
+      "je": "aligne",
+      "tu": "alignes",
+      "il": "aligne",
+      "nous": "alignons",
+      "vous": "alignez",
+      "ils": "alignent"
+    },
+    "passé_composé": {
+      "je": "ai aligné",
+      "tu": "as aligné",
+      "il": "a aligné",
+      "nous": "avons aligné",
+      "vous": "avez aligné",
+      "ils": "ont aligné"
+    },
+    "imparfait": {
+      "je": "alignais",
+      "tu": "alignais",
+      "il": "alignait",
+      "nous": "alignions",
+      "vous": "aligniez",
+      "ils": "alignaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais aligné",
+      "tu": "avais aligné",
+      "il": "avait aligné",
+      "nous": "avions aligné",
+      "vous": "aviez aligné",
+      "ils": "avaient aligné"
+    },
+    "passé_simple": {
+      "je": "alignai",
+      "tu": "alignas",
+      "il": "aligna",
+      "nous": "alignâmes",
+      "vous": "alignâtes",
+      "ils": "alignèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus aligné",
+      "tu": "eus aligné",
+      "il": "eut aligné",
+      "nous": "eûmes aligné",
+      "vous": "eûtes aligné",
+      "ils": "eurent aligné"
+    },
+    "futur_simple": {
+      "je": "alignerai",
+      "tu": "aligneras",
+      "il": "alignera",
+      "nous": "alignerons",
+      "vous": "alignerez",
+      "ils": "aligneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai aligné",
+      "tu": "auras aligné",
+      "il": "aura aligné",
+      "nous": "aurons aligné",
+      "vous": "aurez aligné",
+      "ils": "auront aligné"
+    },
+    "subjonctif_présent": {
+      "je": "aligne",
+      "tu": "alignes",
+      "il": "aligne",
+      "nous": "alignions",
+      "vous": "aligniez",
+      "ils": "alignent"
+    },
+    "subjonctif_passé": {
+      "je": "aie aligné",
+      "tu": "aies aligné",
+      "il": "ait aligné",
+      "nous": "ayons aligné",
+      "vous": "ayez aligné",
+      "ils": "aient aligné"
+    },
+    "subjonctif_imparfait": {
+      "je": "alignasse",
+      "tu": "alignasses",
+      "il": "alignât",
+      "nous": "alignassions",
+      "vous": "alignassiez",
+      "ils": "alignassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse aligné",
+      "tu": "eusses aligné",
+      "il": "eût aligné",
+      "nous": "eussions aligné",
+      "vous": "eussiez aligné",
+      "ils": "eussent aligné"
+    },
+    "conditionnel_présent": {
+      "je": "alignerais",
+      "tu": "alignerais",
+      "il": "alignerait",
+      "nous": "alignerions",
+      "vous": "aligneriez",
+      "ils": "aligneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais aligné",
+      "tu": "aurais aligné",
+      "il": "aurait aligné",
+      "nous": "aurions aligné",
+      "vous": "auriez aligné",
+      "ils": "auraient aligné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse aligné",
+      "tu": "eusses aligné",
+      "il": "eût aligné",
+      "nous": "eussions aligné",
+      "vous": "eussiez aligné",
+      "ils": "eussent aligné"
+    },
+    "translation": "ustawiać",
+    "group": 1
+  },
+  {
+    "infinitive": "alimenter",
+    "présent": {
+      "je": "alimente",
+      "tu": "alimentes",
+      "il": "alimente",
+      "nous": "alimentons",
+      "vous": "alimentez",
+      "ils": "alimentent"
+    },
+    "passé_composé": {
+      "je": "ai alimenté",
+      "tu": "as alimenté",
+      "il": "a alimenté",
+      "nous": "avons alimenté",
+      "vous": "avez alimenté",
+      "ils": "ont alimenté"
+    },
+    "imparfait": {
+      "je": "alimentais",
+      "tu": "alimentais",
+      "il": "alimentait",
+      "nous": "alimentions",
+      "vous": "alimentiez",
+      "ils": "alimentaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais alimenté",
+      "tu": "avais alimenté",
+      "il": "avait alimenté",
+      "nous": "avions alimenté",
+      "vous": "aviez alimenté",
+      "ils": "avaient alimenté"
+    },
+    "passé_simple": {
+      "je": "alimentai",
+      "tu": "alimentas",
+      "il": "alimenta",
+      "nous": "alimentâmes",
+      "vous": "alimentâtes",
+      "ils": "alimentèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus alimenté",
+      "tu": "eus alimenté",
+      "il": "eut alimenté",
+      "nous": "eûmes alimenté",
+      "vous": "eûtes alimenté",
+      "ils": "eurent alimenté"
+    },
+    "futur_simple": {
+      "je": "alimenterai",
+      "tu": "alimenteras",
+      "il": "alimentera",
+      "nous": "alimenterons",
+      "vous": "alimenterez",
+      "ils": "alimenteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai alimenté",
+      "tu": "auras alimenté",
+      "il": "aura alimenté",
+      "nous": "aurons alimenté",
+      "vous": "aurez alimenté",
+      "ils": "auront alimenté"
+    },
+    "subjonctif_présent": {
+      "je": "alimente",
+      "tu": "alimentes",
+      "il": "alimente",
+      "nous": "alimentions",
+      "vous": "alimentiez",
+      "ils": "alimentent"
+    },
+    "subjonctif_passé": {
+      "je": "aie alimenté",
+      "tu": "aies alimenté",
+      "il": "ait alimenté",
+      "nous": "ayons alimenté",
+      "vous": "ayez alimenté",
+      "ils": "aient alimenté"
+    },
+    "subjonctif_imparfait": {
+      "je": "alimentasse",
+      "tu": "alimentasses",
+      "il": "alimentât",
+      "nous": "alimentassions",
+      "vous": "alimentassiez",
+      "ils": "alimentassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse alimenté",
+      "tu": "eusses alimenté",
+      "il": "eût alimenté",
+      "nous": "eussions alimenté",
+      "vous": "eussiez alimenté",
+      "ils": "eussent alimenté"
+    },
+    "conditionnel_présent": {
+      "je": "alimenterais",
+      "tu": "alimenterais",
+      "il": "alimenterait",
+      "nous": "alimenterions",
+      "vous": "alimenteriez",
+      "ils": "alimenteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais alimenté",
+      "tu": "aurais alimenté",
+      "il": "aurait alimenté",
+      "nous": "aurions alimenté",
+      "vous": "auriez alimenté",
+      "ils": "auraient alimenté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse alimenté",
+      "tu": "eusses alimenté",
+      "il": "eût alimenté",
+      "nous": "eussions alimenté",
+      "vous": "eussiez alimenté",
+      "ils": "eussent alimenté"
+    },
+    "translation": "odżywiać",
+    "group": 1
+  },
+  {
+    "infinitive": "aliter",
+    "présent": {
+      "je": "alite",
+      "tu": "alites",
+      "il": "alite",
+      "nous": "alitons",
+      "vous": "alitez",
+      "ils": "alitent"
+    },
+    "passé_composé": {
+      "je": "ai alité",
+      "tu": "as alité",
+      "il": "a alité",
+      "nous": "avons alité",
+      "vous": "avez alité",
+      "ils": "ont alité"
+    },
+    "imparfait": {
+      "je": "alitais",
+      "tu": "alitais",
+      "il": "alitait",
+      "nous": "alitions",
+      "vous": "alitiez",
+      "ils": "alitaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais alité",
+      "tu": "avais alité",
+      "il": "avait alité",
+      "nous": "avions alité",
+      "vous": "aviez alité",
+      "ils": "avaient alité"
+    },
+    "passé_simple": {
+      "je": "alitai",
+      "tu": "alitas",
+      "il": "alita",
+      "nous": "alitâmes",
+      "vous": "alitâtes",
+      "ils": "alitèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus alité",
+      "tu": "eus alité",
+      "il": "eut alité",
+      "nous": "eûmes alité",
+      "vous": "eûtes alité",
+      "ils": "eurent alité"
+    },
+    "futur_simple": {
+      "je": "aliterai",
+      "tu": "aliteras",
+      "il": "alitera",
+      "nous": "aliterons",
+      "vous": "aliterez",
+      "ils": "aliteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai alité",
+      "tu": "auras alité",
+      "il": "aura alité",
+      "nous": "aurons alité",
+      "vous": "aurez alité",
+      "ils": "auront alité"
+    },
+    "subjonctif_présent": {
+      "je": "alite",
+      "tu": "alites",
+      "il": "alite",
+      "nous": "alitions",
+      "vous": "alitiez",
+      "ils": "alitent"
+    },
+    "subjonctif_passé": {
+      "je": "aie alité",
+      "tu": "aies alité",
+      "il": "ait alité",
+      "nous": "ayons alité",
+      "vous": "ayez alité",
+      "ils": "aient alité"
+    },
+    "subjonctif_imparfait": {
+      "je": "alitasse",
+      "tu": "alitasses",
+      "il": "alitât",
+      "nous": "alitassions",
+      "vous": "alitassiez",
+      "ils": "alitassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse alité",
+      "tu": "eusses alité",
+      "il": "eût alité",
+      "nous": "eussions alité",
+      "vous": "eussiez alité",
+      "ils": "eussent alité"
+    },
+    "conditionnel_présent": {
+      "je": "aliterais",
+      "tu": "aliterais",
+      "il": "aliterait",
+      "nous": "aliterions",
+      "vous": "aliteriez",
+      "ils": "aliteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais alité",
+      "tu": "aurais alité",
+      "il": "aurait alité",
+      "nous": "aurions alité",
+      "vous": "auriez alité",
+      "ils": "auraient alité"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse alité",
+      "tu": "eusses alité",
+      "il": "eût alité",
+      "nous": "eussions alité",
+      "vous": "eussiez alité",
+      "ils": "eussent alité"
+    },
+    "translation": "być",
+    "group": 1
+  },
+  {
+    "infinitive": "allécher",
+    "présent": {
+      "je": "allèche",
+      "tu": "allèches",
+      "il": "allèche",
+      "nous": "alléchons",
+      "vous": "alléchez",
+      "ils": "allèchent"
+    },
+    "passé_composé": {
+      "je": "ai alléché",
+      "tu": "as alléché",
+      "il": "a alléché",
+      "nous": "avons alléché",
+      "vous": "avez alléché",
+      "ils": "ont alléché"
+    },
+    "imparfait": {
+      "je": "alléchais",
+      "tu": "alléchais",
+      "il": "alléchait",
+      "nous": "alléchions",
+      "vous": "alléchiez",
+      "ils": "alléchaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais alléché",
+      "tu": "avais alléché",
+      "il": "avait alléché",
+      "nous": "avions alléché",
+      "vous": "aviez alléché",
+      "ils": "avaient alléché"
+    },
+    "passé_simple": {
+      "je": "alléchai",
+      "tu": "alléchas",
+      "il": "allécha",
+      "nous": "alléchâmes",
+      "vous": "alléchâtes",
+      "ils": "alléchèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus alléché",
+      "tu": "eus alléché",
+      "il": "eut alléché",
+      "nous": "eûmes alléché",
+      "vous": "eûtes alléché",
+      "ils": "eurent alléché"
+    },
+    "futur_simple": {
+      "je": "allécherai",
+      "tu": "allécheras",
+      "il": "alléchera",
+      "nous": "allécherons",
+      "vous": "allécherez",
+      "ils": "allécheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai alléché",
+      "tu": "auras alléché",
+      "il": "aura alléché",
+      "nous": "aurons alléché",
+      "vous": "aurez alléché",
+      "ils": "auront alléché"
+    },
+    "subjonctif_présent": {
+      "je": "allèche",
+      "tu": "allèches",
+      "il": "allèche",
+      "nous": "alléchions",
+      "vous": "alléchiez",
+      "ils": "allèchent"
+    },
+    "subjonctif_passé": {
+      "je": "aie alléché",
+      "tu": "aies alléché",
+      "il": "ait alléché",
+      "nous": "ayons alléché",
+      "vous": "ayez alléché",
+      "ils": "aient alléché"
+    },
+    "subjonctif_imparfait": {
+      "je": "alléchasse",
+      "tu": "alléchasses",
+      "il": "alléchât",
+      "nous": "alléchassions",
+      "vous": "alléchassiez",
+      "ils": "alléchassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse alléché",
+      "tu": "eusses alléché",
+      "il": "eût alléché",
+      "nous": "eussions alléché",
+      "vous": "eussiez alléché",
+      "ils": "eussent alléché"
+    },
+    "conditionnel_présent": {
+      "je": "allécherais",
+      "tu": "allécherais",
+      "il": "allécherait",
+      "nous": "allécherions",
+      "vous": "allécheriez",
+      "ils": "allécheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais alléché",
+      "tu": "aurais alléché",
+      "il": "aurait alléché",
+      "nous": "aurions alléché",
+      "vous": "auriez alléché",
+      "ils": "auraient alléché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse alléché",
+      "tu": "eusses alléché",
+      "il": "eût alléché",
+      "nous": "eussions alléché",
+      "vous": "eussiez alléché",
+      "ils": "eussent alléché"
+    },
+    "translation": "wabić",
+    "group": 1
+  },
+  {
+    "infinitive": "alléger",
+    "présent": {
+      "je": "allège",
+      "tu": "allèges",
+      "il": "allège",
+      "nous": "allégeons",
+      "vous": "allégez",
+      "ils": "allègent"
+    },
+    "passé_composé": {
+      "je": "ai allégé",
+      "tu": "as allégé",
+      "il": "a allégé",
+      "nous": "avons allégé",
+      "vous": "avez allégé",
+      "ils": "ont allégé"
+    },
+    "imparfait": {
+      "je": "allégeais",
+      "tu": "allégeais",
+      "il": "allégeait",
+      "nous": "allégions",
+      "vous": "allégiez",
+      "ils": "allégeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais allégé",
+      "tu": "avais allégé",
+      "il": "avait allégé",
+      "nous": "avions allégé",
+      "vous": "aviez allégé",
+      "ils": "avaient allégé"
+    },
+    "passé_simple": {
+      "je": "allégeai",
+      "tu": "allégeas",
+      "il": "allégea",
+      "nous": "allégeâmes",
+      "vous": "allégeâtes",
+      "ils": "allégèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus allégé",
+      "tu": "eus allégé",
+      "il": "eut allégé",
+      "nous": "eûmes allégé",
+      "vous": "eûtes allégé",
+      "ils": "eurent allégé"
+    },
+    "futur_simple": {
+      "je": "allégerai",
+      "tu": "allégeras",
+      "il": "allégera",
+      "nous": "allégerons",
+      "vous": "allégerez",
+      "ils": "allégeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai allégé",
+      "tu": "auras allégé",
+      "il": "aura allégé",
+      "nous": "aurons allégé",
+      "vous": "aurez allégé",
+      "ils": "auront allégé"
+    },
+    "subjonctif_présent": {
+      "je": "allège",
+      "tu": "allèges",
+      "il": "allège",
+      "nous": "allégions",
+      "vous": "allégiez",
+      "ils": "allègent"
+    },
+    "subjonctif_passé": {
+      "je": "aie allégé",
+      "tu": "aies allégé",
+      "il": "ait allégé",
+      "nous": "ayons allégé",
+      "vous": "ayez allégé",
+      "ils": "aient allégé"
+    },
+    "subjonctif_imparfait": {
+      "je": "allégeasse",
+      "tu": "allégeasses",
+      "il": "allégeât",
+      "nous": "allégeassions",
+      "vous": "allégeassiez",
+      "ils": "allégeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse allégé",
+      "tu": "eusses allégé",
+      "il": "eût allégé",
+      "nous": "eussions allégé",
+      "vous": "eussiez allégé",
+      "ils": "eussent allégé"
+    },
+    "conditionnel_présent": {
+      "je": "allégerais",
+      "tu": "allégerais",
+      "il": "allégerait",
+      "nous": "allégerions",
+      "vous": "allégeriez",
+      "ils": "allégeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais allégé",
+      "tu": "aurais allégé",
+      "il": "aurait allégé",
+      "nous": "aurions allégé",
+      "vous": "auriez allégé",
+      "ils": "auraient allégé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse allégé",
+      "tu": "eusses allégé",
+      "il": "eût allégé",
+      "nous": "eussions allégé",
+      "vous": "eussiez allégé",
+      "ils": "eussent allégé"
+    },
+    "translation": "zmniejszać",
+    "group": 1
+  },
+  {
+    "infinitive": "alléguer",
+    "présent": {
+      "je": "allègue",
+      "tu": "allègues",
+      "il": "allègue",
+      "nous": "alléguons",
+      "vous": "alléguez",
+      "ils": "allèguent"
+    },
+    "passé_composé": {
+      "je": "ai allégué",
+      "tu": "as allégué",
+      "il": "a allégué",
+      "nous": "avons allégué",
+      "vous": "avez allégué",
+      "ils": "ont allégué"
+    },
+    "imparfait": {
+      "je": "alléguais",
+      "tu": "alléguais",
+      "il": "alléguait",
+      "nous": "alléguions",
+      "vous": "alléguiez",
+      "ils": "alléguaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais allégué",
+      "tu": "avais allégué",
+      "il": "avait allégué",
+      "nous": "avions allégué",
+      "vous": "aviez allégué",
+      "ils": "avaient allégué"
+    },
+    "passé_simple": {
+      "je": "alléguai",
+      "tu": "alléguas",
+      "il": "allégua",
+      "nous": "alléguâmes",
+      "vous": "alléguâtes",
+      "ils": "alléguèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus allégué",
+      "tu": "eus allégué",
+      "il": "eut allégué",
+      "nous": "eûmes allégué",
+      "vous": "eûtes allégué",
+      "ils": "eurent allégué"
+    },
+    "futur_simple": {
+      "je": "alléguerai",
+      "tu": "allégueras",
+      "il": "alléguera",
+      "nous": "alléguerons",
+      "vous": "alléguerez",
+      "ils": "allégueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai allégué",
+      "tu": "auras allégué",
+      "il": "aura allégué",
+      "nous": "aurons allégué",
+      "vous": "aurez allégué",
+      "ils": "auront allégué"
+    },
+    "subjonctif_présent": {
+      "je": "allègue",
+      "tu": "allègues",
+      "il": "allègue",
+      "nous": "alléguions",
+      "vous": "alléguiez",
+      "ils": "allèguent"
+    },
+    "subjonctif_passé": {
+      "je": "aie allégué",
+      "tu": "aies allégué",
+      "il": "ait allégué",
+      "nous": "ayons allégué",
+      "vous": "ayez allégué",
+      "ils": "aient allégué"
+    },
+    "subjonctif_imparfait": {
+      "je": "alléguasse",
+      "tu": "alléguasses",
+      "il": "alléguât",
+      "nous": "alléguassions",
+      "vous": "alléguassiez",
+      "ils": "alléguassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse allégué",
+      "tu": "eusses allégué",
+      "il": "eût allégué",
+      "nous": "eussions allégué",
+      "vous": "eussiez allégué",
+      "ils": "eussent allégué"
+    },
+    "conditionnel_présent": {
+      "je": "alléguerais",
+      "tu": "alléguerais",
+      "il": "alléguerait",
+      "nous": "alléguerions",
+      "vous": "allégueriez",
+      "ils": "allégueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais allégué",
+      "tu": "aurais allégué",
+      "il": "aurait allégué",
+      "nous": "aurions allégué",
+      "vous": "auriez allégué",
+      "ils": "auraient allégué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse allégué",
+      "tu": "eusses allégué",
+      "il": "eût allégué",
+      "nous": "eussions allégué",
+      "vous": "eussiez allégué",
+      "ils": "eussent allégué"
+    },
+    "translation": "alléguer",
+    "group": 1
+  },
+  {
+    "infinitive": "aller",
+    "présent": {
+      "je": "vais",
+      "tu": "vas",
+      "il": "va",
+      "nous": "allons",
+      "vous": "allez",
+      "ils": "vont"
+    },
+    "passé_composé": {
+      "je": "suis allé",
+      "tu": "es allé",
+      "il": "est allé",
+      "nous": "sommes allés",
+      "vous": "êtes allés",
+      "ils": "sont allés"
+    },
+    "imparfait": {
+      "je": "allais",
+      "tu": "allais",
+      "il": "allait",
+      "nous": "allions",
+      "vous": "alliez",
+      "ils": "allaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais allé",
+      "tu": "étais allé",
+      "il": "était allé",
+      "nous": "étions allés",
+      "vous": "étiez allés",
+      "ils": "étaient allés"
+    },
+    "passé_simple": {
+      "je": "allai",
+      "tu": "allas",
+      "il": "alla",
+      "nous": "allâmes",
+      "vous": "allâtes",
+      "ils": "allèrent"
+    },
+    "passé_antérieur": {
+      "je": "fus allé",
+      "tu": "fus allé",
+      "il": "fut allé",
+      "nous": "fûmes allés",
+      "vous": "fûtes allés",
+      "ils": "furent allés"
+    },
+    "futur_simple": {
+      "je": "irai",
+      "tu": "iras",
+      "il": "ira",
+      "nous": "irons",
+      "vous": "irez",
+      "ils": "iront"
+    },
+    "futur_antérieur": {
+      "je": "serai allé",
+      "tu": "seras allé",
+      "il": "sera allé",
+      "nous": "serons allés",
+      "vous": "serez allés",
+      "ils": "seront allés"
+    },
+    "subjonctif_présent": {
+      "je": "aille",
+      "tu": "ailles",
+      "il": "aille",
+      "nous": "allions",
+      "vous": "alliez",
+      "ils": "aillent"
+    },
+    "subjonctif_passé": {
+      "je": "sois allé",
+      "tu": "sois allé",
+      "il": "soit allé",
+      "nous": "soyons allés",
+      "vous": "soyez allés",
+      "ils": "soient allés"
+    },
+    "subjonctif_imparfait": {
+      "je": "allasse",
+      "tu": "allasses",
+      "il": "allât",
+      "nous": "allassions",
+      "vous": "allassiez",
+      "ils": "allassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "fusse allé",
+      "tu": "fusses allé",
+      "il": "fût allé",
+      "nous": "fussions allés",
+      "vous": "fussiez allés",
+      "ils": "fussent allés"
+    },
+    "conditionnel_présent": {
+      "je": "irais",
+      "tu": "irais",
+      "il": "irait",
+      "nous": "irions",
+      "vous": "iriez",
+      "ils": "iraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "serais allé",
+      "tu": "serais allé",
+      "il": "serait allé",
+      "nous": "serions allés",
+      "vous": "seriez allés",
+      "ils": "seraient allés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "fusse allé",
+      "tu": "fusses allé",
+      "il": "fût allé",
+      "nous": "fussions allés",
+      "vous": "fussiez allés",
+      "ils": "fussent allés"
+    },
+    "translation": "chodzić",
+    "group": 3
+  },
+  {
+    "infinitive": "allier",
+    "présent": {
+      "je": "allie",
+      "tu": "allies",
+      "il": "allie",
+      "nous": "allions",
+      "vous": "alliez",
+      "ils": "allient"
+    },
+    "passé_composé": {
+      "je": "ai allié",
+      "tu": "as allié",
+      "il": "a allié",
+      "nous": "avons allié",
+      "vous": "avez allié",
+      "ils": "ont allié"
+    },
+    "imparfait": {
+      "je": "alliais",
+      "tu": "alliais",
+      "il": "alliait",
+      "nous": "alliions",
+      "vous": "alliiez",
+      "ils": "alliaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais allié",
+      "tu": "avais allié",
+      "il": "avait allié",
+      "nous": "avions allié",
+      "vous": "aviez allié",
+      "ils": "avaient allié"
+    },
+    "passé_simple": {
+      "je": "alliai",
+      "tu": "allias",
+      "il": "allia",
+      "nous": "alliâmes",
+      "vous": "alliâtes",
+      "ils": "allièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus allié",
+      "tu": "eus allié",
+      "il": "eut allié",
+      "nous": "eûmes allié",
+      "vous": "eûtes allié",
+      "ils": "eurent allié"
+    },
+    "futur_simple": {
+      "je": "allierai",
+      "tu": "allieras",
+      "il": "alliera",
+      "nous": "allierons",
+      "vous": "allierez",
+      "ils": "allieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai allié",
+      "tu": "auras allié",
+      "il": "aura allié",
+      "nous": "aurons allié",
+      "vous": "aurez allié",
+      "ils": "auront allié"
+    },
+    "subjonctif_présent": {
+      "je": "allie",
+      "tu": "allies",
+      "il": "allie",
+      "nous": "alliions",
+      "vous": "alliiez",
+      "ils": "allient"
+    },
+    "subjonctif_passé": {
+      "je": "aie allié",
+      "tu": "aies allié",
+      "il": "ait allié",
+      "nous": "ayons allié",
+      "vous": "ayez allié",
+      "ils": "aient allié"
+    },
+    "subjonctif_imparfait": {
+      "je": "alliasse",
+      "tu": "alliasses",
+      "il": "alliât",
+      "nous": "alliassions",
+      "vous": "alliassiez",
+      "ils": "alliassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse allié",
+      "tu": "eusses allié",
+      "il": "eût allié",
+      "nous": "eussions allié",
+      "vous": "eussiez allié",
+      "ils": "eussent allié"
+    },
+    "conditionnel_présent": {
+      "je": "allierais",
+      "tu": "allierais",
+      "il": "allierait",
+      "nous": "allierions",
+      "vous": "allieriez",
+      "ils": "allieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais allié",
+      "tu": "aurais allié",
+      "il": "aurait allié",
+      "nous": "aurions allié",
+      "vous": "auriez allié",
+      "ils": "auraient allié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse allié",
+      "tu": "eusses allié",
+      "il": "eût allié",
+      "nous": "eussions allié",
+      "vous": "eussiez allié",
+      "ils": "eussent allié"
+    },
+    "translation": "sprzymierzać",
+    "group": 1
+  }
+]

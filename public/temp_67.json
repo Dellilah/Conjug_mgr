@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "différer",
+    "présent": {
+      "je": "diffère",
+      "tu": "diffères",
+      "il": "diffère",
+      "nous": "différons",
+      "vous": "différez",
+      "ils": "diffèrent"
+    },
+    "passé_composé": {
+      "je": "ai différé",
+      "tu": "as différé",
+      "il": "a différé",
+      "nous": "avons différé",
+      "vous": "avez différé",
+      "ils": "ont différé"
+    },
+    "imparfait": {
+      "je": "différais",
+      "tu": "différais",
+      "il": "différait",
+      "nous": "différions",
+      "vous": "différiez",
+      "ils": "différaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais différé",
+      "tu": "avais différé",
+      "il": "avait différé",
+      "nous": "avions différé",
+      "vous": "aviez différé",
+      "ils": "avaient différé"
+    },
+    "passé_simple": {
+      "je": "différai",
+      "tu": "différas",
+      "il": "différa",
+      "nous": "différâmes",
+      "vous": "différâtes",
+      "ils": "différèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus différé",
+      "tu": "eus différé",
+      "il": "eut différé",
+      "nous": "eûmes différé",
+      "vous": "eûtes différé",
+      "ils": "eurent différé"
+    },
+    "futur_simple": {
+      "je": "différerai",
+      "tu": "différeras",
+      "il": "différera",
+      "nous": "différerons",
+      "vous": "différerez",
+      "ils": "différeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai différé",
+      "tu": "auras différé",
+      "il": "aura différé",
+      "nous": "aurons différé",
+      "vous": "aurez différé",
+      "ils": "auront différé"
+    },
+    "subjonctif_présent": {
+      "je": "diffère",
+      "tu": "diffères",
+      "il": "diffère",
+      "nous": "différions",
+      "vous": "différiez",
+      "ils": "diffèrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie différé",
+      "tu": "aies différé",
+      "il": "ait différé",
+      "nous": "ayons différé",
+      "vous": "ayez différé",
+      "ils": "aient différé"
+    },
+    "subjonctif_imparfait": {
+      "je": "différasse",
+      "tu": "différasses",
+      "il": "différât",
+      "nous": "différassions",
+      "vous": "différassiez",
+      "ils": "différassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse différé",
+      "tu": "eusses différé",
+      "il": "eût différé",
+      "nous": "eussions différé",
+      "vous": "eussiez différé",
+      "ils": "eussent différé"
+    },
+    "conditionnel_présent": {
+      "je": "différerais",
+      "tu": "différerais",
+      "il": "différerait",
+      "nous": "différerions",
+      "vous": "différeriez",
+      "ils": "différeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais différé",
+      "tu": "aurais différé",
+      "il": "aurait différé",
+      "nous": "aurions différé",
+      "vous": "auriez différé",
+      "ils": "auraient différé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse différé",
+      "tu": "eusses différé",
+      "il": "eût différé",
+      "nous": "eussions différé",
+      "vous": "eussiez différé",
+      "ils": "eussent différé"
+    },
+    "translation": "różnić",
+    "group": 1
+  },
+  {
+    "infinitive": "diffuser",
+    "présent": {
+      "je": "diffuse",
+      "tu": "diffuses",
+      "il": "diffuse",
+      "nous": "diffusons",
+      "vous": "diffusez",
+      "ils": "diffusent"
+    },
+    "passé_composé": {
+      "je": "ai diffusé",
+      "tu": "as diffusé",
+      "il": "a diffusé",
+      "nous": "avons diffusé",
+      "vous": "avez diffusé",
+      "ils": "ont diffusé"
+    },
+    "imparfait": {
+      "je": "diffusais",
+      "tu": "diffusais",
+      "il": "diffusait",
+      "nous": "diffusions",
+      "vous": "diffusiez",
+      "ils": "diffusaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais diffusé",
+      "tu": "avais diffusé",
+      "il": "avait diffusé",
+      "nous": "avions diffusé",
+      "vous": "aviez diffusé",
+      "ils": "avaient diffusé"
+    },
+    "passé_simple": {
+      "je": "diffusai",
+      "tu": "diffusas",
+      "il": "diffusa",
+      "nous": "diffusâmes",
+      "vous": "diffusâtes",
+      "ils": "diffusèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus diffusé",
+      "tu": "eus diffusé",
+      "il": "eut diffusé",
+      "nous": "eûmes diffusé",
+      "vous": "eûtes diffusé",
+      "ils": "eurent diffusé"
+    },
+    "futur_simple": {
+      "je": "diffuserai",
+      "tu": "diffuseras",
+      "il": "diffusera",
+      "nous": "diffuserons",
+      "vous": "diffuserez",
+      "ils": "diffuseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai diffusé",
+      "tu": "auras diffusé",
+      "il": "aura diffusé",
+      "nous": "aurons diffusé",
+      "vous": "aurez diffusé",
+      "ils": "auront diffusé"
+    },
+    "subjonctif_présent": {
+      "je": "diffuse",
+      "tu": "diffuses",
+      "il": "diffuse",
+      "nous": "diffusions",
+      "vous": "diffusiez",
+      "ils": "diffusent"
+    },
+    "subjonctif_passé": {
+      "je": "aie diffusé",
+      "tu": "aies diffusé",
+      "il": "ait diffusé",
+      "nous": "ayons diffusé",
+      "vous": "ayez diffusé",
+      "ils": "aient diffusé"
+    },
+    "subjonctif_imparfait": {
+      "je": "diffusasse",
+      "tu": "diffusasses",
+      "il": "diffusât",
+      "nous": "diffusassions",
+      "vous": "diffusassiez",
+      "ils": "diffusassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse diffusé",
+      "tu": "eusses diffusé",
+      "il": "eût diffusé",
+      "nous": "eussions diffusé",
+      "vous": "eussiez diffusé",
+      "ils": "eussent diffusé"
+    },
+    "conditionnel_présent": {
+      "je": "diffuserais",
+      "tu": "diffuserais",
+      "il": "diffuserait",
+      "nous": "diffuserions",
+      "vous": "diffuseriez",
+      "ils": "diffuseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais diffusé",
+      "tu": "aurais diffusé",
+      "il": "aurait diffusé",
+      "nous": "aurions diffusé",
+      "vous": "auriez diffusé",
+      "ils": "auraient diffusé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse diffusé",
+      "tu": "eusses diffusé",
+      "il": "eût diffusé",
+      "nous": "eussions diffusé",
+      "vous": "eussiez diffusé",
+      "ils": "eussent diffusé"
+    },
+    "translation": "rozpraszać",
+    "group": 1
+  },
+  {
+    "infinitive": "digérer",
+    "présent": {
+      "je": "digère",
+      "tu": "digères",
+      "il": "digère",
+      "nous": "digérons",
+      "vous": "digérez",
+      "ils": "digèrent"
+    },
+    "passé_composé": {
+      "je": "ai digéré",
+      "tu": "as digéré",
+      "il": "a digéré",
+      "nous": "avons digéré",
+      "vous": "avez digéré",
+      "ils": "ont digéré"
+    },
+    "imparfait": {
+      "je": "digérais",
+      "tu": "digérais",
+      "il": "digérait",
+      "nous": "digérions",
+      "vous": "digériez",
+      "ils": "digéraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais digéré",
+      "tu": "avais digéré",
+      "il": "avait digéré",
+      "nous": "avions digéré",
+      "vous": "aviez digéré",
+      "ils": "avaient digéré"
+    },
+    "passé_simple": {
+      "je": "digérai",
+      "tu": "digéras",
+      "il": "digéra",
+      "nous": "digérâmes",
+      "vous": "digérâtes",
+      "ils": "digérèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus digéré",
+      "tu": "eus digéré",
+      "il": "eut digéré",
+      "nous": "eûmes digéré",
+      "vous": "eûtes digéré",
+      "ils": "eurent digéré"
+    },
+    "futur_simple": {
+      "je": "digérerai",
+      "tu": "digéreras",
+      "il": "digérera",
+      "nous": "digérerons",
+      "vous": "digérerez",
+      "ils": "digéreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai digéré",
+      "tu": "auras digéré",
+      "il": "aura digéré",
+      "nous": "aurons digéré",
+      "vous": "aurez digéré",
+      "ils": "auront digéré"
+    },
+    "subjonctif_présent": {
+      "je": "digère",
+      "tu": "digères",
+      "il": "digère",
+      "nous": "digérions",
+      "vous": "digériez",
+      "ils": "digèrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie digéré",
+      "tu": "aies digéré",
+      "il": "ait digéré",
+      "nous": "ayons digéré",
+      "vous": "ayez digéré",
+      "ils": "aient digéré"
+    },
+    "subjonctif_imparfait": {
+      "je": "digérasse",
+      "tu": "digérasses",
+      "il": "digérât",
+      "nous": "digérassions",
+      "vous": "digérassiez",
+      "ils": "digérassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse digéré",
+      "tu": "eusses digéré",
+      "il": "eût digéré",
+      "nous": "eussions digéré",
+      "vous": "eussiez digéré",
+      "ils": "eussent digéré"
+    },
+    "conditionnel_présent": {
+      "je": "digérerais",
+      "tu": "digérerais",
+      "il": "digérerait",
+      "nous": "digérerions",
+      "vous": "digéreriez",
+      "ils": "digéreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais digéré",
+      "tu": "aurais digéré",
+      "il": "aurait digéré",
+      "nous": "aurions digéré",
+      "vous": "auriez digéré",
+      "ils": "auraient digéré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse digéré",
+      "tu": "eusses digéré",
+      "il": "eût digéré",
+      "nous": "eussions digéré",
+      "vous": "eussiez digéré",
+      "ils": "eussent digéré"
+    },
+    "translation": "dobrze",
+    "group": 1
+  },
+  {
+    "infinitive": "diluer",
+    "présent": {
+      "je": "dilue",
+      "tu": "dilues",
+      "il": "dilue",
+      "nous": "diluons",
+      "vous": "diluez",
+      "ils": "diluent"
+    },
+    "passé_composé": {
+      "je": "ai dilué",
+      "tu": "as dilué",
+      "il": "a dilué",
+      "nous": "avons dilué",
+      "vous": "avez dilué",
+      "ils": "ont dilué"
+    },
+    "imparfait": {
+      "je": "diluais",
+      "tu": "diluais",
+      "il": "diluait",
+      "nous": "diluions",
+      "vous": "diluiez",
+      "ils": "diluaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dilué",
+      "tu": "avais dilué",
+      "il": "avait dilué",
+      "nous": "avions dilué",
+      "vous": "aviez dilué",
+      "ils": "avaient dilué"
+    },
+    "passé_simple": {
+      "je": "diluai",
+      "tu": "diluas",
+      "il": "dilua",
+      "nous": "diluâmes",
+      "vous": "diluâtes",
+      "ils": "diluèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus dilué",
+      "tu": "eus dilué",
+      "il": "eut dilué",
+      "nous": "eûmes dilué",
+      "vous": "eûtes dilué",
+      "ils": "eurent dilué"
+    },
+    "futur_simple": {
+      "je": "diluerai",
+      "tu": "dilueras",
+      "il": "diluera",
+      "nous": "diluerons",
+      "vous": "diluerez",
+      "ils": "dilueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dilué",
+      "tu": "auras dilué",
+      "il": "aura dilué",
+      "nous": "aurons dilué",
+      "vous": "aurez dilué",
+      "ils": "auront dilué"
+    },
+    "subjonctif_présent": {
+      "je": "dilue",
+      "tu": "dilues",
+      "il": "dilue",
+      "nous": "diluions",
+      "vous": "diluiez",
+      "ils": "diluent"
+    },
+    "subjonctif_passé": {
+      "je": "aie dilué",
+      "tu": "aies dilué",
+      "il": "ait dilué",
+      "nous": "ayons dilué",
+      "vous": "ayez dilué",
+      "ils": "aient dilué"
+    },
+    "subjonctif_imparfait": {
+      "je": "diluasse",
+      "tu": "diluasses",
+      "il": "diluât",
+      "nous": "diluassions",
+      "vous": "diluassiez",
+      "ils": "diluassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dilué",
+      "tu": "eusses dilué",
+      "il": "eût dilué",
+      "nous": "eussions dilué",
+      "vous": "eussiez dilué",
+      "ils": "eussent dilué"
+    },
+    "conditionnel_présent": {
+      "je": "diluerais",
+      "tu": "diluerais",
+      "il": "diluerait",
+      "nous": "diluerions",
+      "vous": "dilueriez",
+      "ils": "dilueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dilué",
+      "tu": "aurais dilué",
+      "il": "aurait dilué",
+      "nous": "aurions dilué",
+      "vous": "auriez dilué",
+      "ils": "auraient dilué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dilué",
+      "tu": "eusses dilué",
+      "il": "eût dilué",
+      "nous": "eussions dilué",
+      "vous": "eussiez dilué",
+      "ils": "eussent dilué"
+    },
+    "translation": "rozprowadzać",
+    "group": 1
+  },
+  {
+    "infinitive": "diminuer",
+    "présent": {
+      "je": "diminue",
+      "tu": "diminues",
+      "il": "diminue",
+      "nous": "diminuons",
+      "vous": "diminuez",
+      "ils": "diminuent"
+    },
+    "passé_composé": {
+      "je": "ai diminué",
+      "tu": "as diminué",
+      "il": "a diminué",
+      "nous": "avons diminué",
+      "vous": "avez diminué",
+      "ils": "ont diminué"
+    },
+    "imparfait": {
+      "je": "diminuais",
+      "tu": "diminuais",
+      "il": "diminuait",
+      "nous": "diminuions",
+      "vous": "diminuiez",
+      "ils": "diminuaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais diminué",
+      "tu": "avais diminué",
+      "il": "avait diminué",
+      "nous": "avions diminué",
+      "vous": "aviez diminué",
+      "ils": "avaient diminué"
+    },
+    "passé_simple": {
+      "je": "diminuai",
+      "tu": "diminuas",
+      "il": "diminua",
+      "nous": "diminuâmes",
+      "vous": "diminuâtes",
+      "ils": "diminuèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus diminué",
+      "tu": "eus diminué",
+      "il": "eut diminué",
+      "nous": "eûmes diminué",
+      "vous": "eûtes diminué",
+      "ils": "eurent diminué"
+    },
+    "futur_simple": {
+      "je": "diminuerai",
+      "tu": "diminueras",
+      "il": "diminuera",
+      "nous": "diminuerons",
+      "vous": "diminuerez",
+      "ils": "diminueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai diminué",
+      "tu": "auras diminué",
+      "il": "aura diminué",
+      "nous": "aurons diminué",
+      "vous": "aurez diminué",
+      "ils": "auront diminué"
+    },
+    "subjonctif_présent": {
+      "je": "diminue",
+      "tu": "diminues",
+      "il": "diminue",
+      "nous": "diminuions",
+      "vous": "diminuiez",
+      "ils": "diminuent"
+    },
+    "subjonctif_passé": {
+      "je": "aie diminué",
+      "tu": "aies diminué",
+      "il": "ait diminué",
+      "nous": "ayons diminué",
+      "vous": "ayez diminué",
+      "ils": "aient diminué"
+    },
+    "subjonctif_imparfait": {
+      "je": "diminuasse",
+      "tu": "diminuasses",
+      "il": "diminuât",
+      "nous": "diminuassions",
+      "vous": "diminuassiez",
+      "ils": "diminuassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse diminué",
+      "tu": "eusses diminué",
+      "il": "eût diminué",
+      "nous": "eussions diminué",
+      "vous": "eussiez diminué",
+      "ils": "eussent diminué"
+    },
+    "conditionnel_présent": {
+      "je": "diminuerais",
+      "tu": "diminuerais",
+      "il": "diminuerait",
+      "nous": "diminuerions",
+      "vous": "diminueriez",
+      "ils": "diminueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais diminué",
+      "tu": "aurais diminué",
+      "il": "aurait diminué",
+      "nous": "aurions diminué",
+      "vous": "auriez diminué",
+      "ils": "auraient diminué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse diminué",
+      "tu": "eusses diminué",
+      "il": "eût diminué",
+      "nous": "eussions diminué",
+      "vous": "eussiez diminué",
+      "ils": "eussent diminué"
+    },
+    "translation": "zmniejszać",
+    "group": 1
+  },
+  {
+    "infinitive": "dîner",
+    "présent": {
+      "je": "dîne",
+      "tu": "dînes",
+      "il": "dîne",
+      "nous": "dînons",
+      "vous": "dînez",
+      "ils": "dînent"
+    },
+    "passé_composé": {
+      "je": "ai dîné",
+      "tu": "as dîné",
+      "il": "a dîné",
+      "nous": "avons dîné",
+      "vous": "avez dîné",
+      "ils": "ont dîné"
+    },
+    "imparfait": {
+      "je": "dînais",
+      "tu": "dînais",
+      "il": "dînait",
+      "nous": "dînions",
+      "vous": "dîniez",
+      "ils": "dînaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dîné",
+      "tu": "avais dîné",
+      "il": "avait dîné",
+      "nous": "avions dîné",
+      "vous": "aviez dîné",
+      "ils": "avaient dîné"
+    },
+    "passé_simple": {
+      "je": "dînai",
+      "tu": "dînas",
+      "il": "dîna",
+      "nous": "dînâmes",
+      "vous": "dînâtes",
+      "ils": "dînèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus dîné",
+      "tu": "eus dîné",
+      "il": "eut dîné",
+      "nous": "eûmes dîné",
+      "vous": "eûtes dîné",
+      "ils": "eurent dîné"
+    },
+    "futur_simple": {
+      "je": "dînerai",
+      "tu": "dîneras",
+      "il": "dînera",
+      "nous": "dînerons",
+      "vous": "dînerez",
+      "ils": "dîneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dîné",
+      "tu": "auras dîné",
+      "il": "aura dîné",
+      "nous": "aurons dîné",
+      "vous": "aurez dîné",
+      "ils": "auront dîné"
+    },
+    "subjonctif_présent": {
+      "je": "dîne",
+      "tu": "dînes",
+      "il": "dîne",
+      "nous": "dînions",
+      "vous": "dîniez",
+      "ils": "dînent"
+    },
+    "subjonctif_passé": {
+      "je": "aie dîné",
+      "tu": "aies dîné",
+      "il": "ait dîné",
+      "nous": "ayons dîné",
+      "vous": "ayez dîné",
+      "ils": "aient dîné"
+    },
+    "subjonctif_imparfait": {
+      "je": "dînasse",
+      "tu": "dînasses",
+      "il": "dînât",
+      "nous": "dînassions",
+      "vous": "dînassiez",
+      "ils": "dînassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dîné",
+      "tu": "eusses dîné",
+      "il": "eût dîné",
+      "nous": "eussions dîné",
+      "vous": "eussiez dîné",
+      "ils": "eussent dîné"
+    },
+    "conditionnel_présent": {
+      "je": "dînerais",
+      "tu": "dînerais",
+      "il": "dînerait",
+      "nous": "dînerions",
+      "vous": "dîneriez",
+      "ils": "dîneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dîné",
+      "tu": "aurais dîné",
+      "il": "aurait dîné",
+      "nous": "aurions dîné",
+      "vous": "auriez dîné",
+      "ils": "auraient dîné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dîné",
+      "tu": "eusses dîné",
+      "il": "eût dîné",
+      "nous": "eussions dîné",
+      "vous": "eussiez dîné",
+      "ils": "eussent dîné"
+    },
+    "translation": "jeść",
+    "group": 1
+  },
+  {
+    "infinitive": "dire",
+    "présent": {
+      "je": "dis",
+      "tu": "dis",
+      "il": "dit",
+      "nous": "disons",
+      "vous": "dites",
+      "ils": "disent"
+    },
+    "passé_composé": {
+      "je": "ai dit",
+      "tu": "as dit",
+      "il": "a dit",
+      "nous": "avons dit",
+      "vous": "avez dit",
+      "ils": "ont dit"
+    },
+    "imparfait": {
+      "je": "disais",
+      "tu": "disais",
+      "il": "disait",
+      "nous": "disions",
+      "vous": "disiez",
+      "ils": "disaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dit",
+      "tu": "avais dit",
+      "il": "avait dit",
+      "nous": "avions dit",
+      "vous": "aviez dit",
+      "ils": "avaient dit"
+    },
+    "passé_simple": {
+      "je": "dis",
+      "tu": "dis",
+      "il": "dit",
+      "nous": "dîmes",
+      "vous": "dîtes",
+      "ils": "dirent"
+    },
+    "passé_antérieur": {
+      "je": "eus dit",
+      "tu": "eus dit",
+      "il": "eut dit",
+      "nous": "eûmes dit",
+      "vous": "eûtes dit",
+      "ils": "eurent dit"
+    },
+    "futur_simple": {
+      "je": "dirai",
+      "tu": "diras",
+      "il": "dira",
+      "nous": "dirons",
+      "vous": "direz",
+      "ils": "diront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dit",
+      "tu": "auras dit",
+      "il": "aura dit",
+      "nous": "aurons dit",
+      "vous": "aurez dit",
+      "ils": "auront dit"
+    },
+    "subjonctif_présent": {
+      "je": "dise",
+      "tu": "dises",
+      "il": "dise",
+      "nous": "disions",
+      "vous": "disiez",
+      "ils": "disent"
+    },
+    "subjonctif_passé": {
+      "je": "aie dit",
+      "tu": "aies dit",
+      "il": "ait dit",
+      "nous": "ayons dit",
+      "vous": "ayez dit",
+      "ils": "aient dit"
+    },
+    "subjonctif_imparfait": {
+      "je": "disse",
+      "tu": "disses",
+      "il": "dît",
+      "nous": "dissions",
+      "vous": "dissiez",
+      "ils": "dissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dit",
+      "tu": "eusses dit",
+      "il": "eût dit",
+      "nous": "eussions dit",
+      "vous": "eussiez dit",
+      "ils": "eussent dit"
+    },
+    "conditionnel_présent": {
+      "je": "dirais",
+      "tu": "dirais",
+      "il": "dirait",
+      "nous": "dirions",
+      "vous": "diriez",
+      "ils": "diraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dit",
+      "tu": "aurais dit",
+      "il": "aurait dit",
+      "nous": "aurions dit",
+      "vous": "auriez dit",
+      "ils": "auraient dit"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dit",
+      "tu": "eusses dit",
+      "il": "eût dit",
+      "nous": "eussions dit",
+      "vous": "eussiez dit",
+      "ils": "eussent dit"
+    },
+    "translation": "mówić",
+    "group": 3
+  },
+  {
+    "infinitive": "diriger",
+    "présent": {
+      "je": "dirige",
+      "tu": "diriges",
+      "il": "dirige",
+      "nous": "dirigeons",
+      "vous": "dirigez",
+      "ils": "dirigent"
+    },
+    "passé_composé": {
+      "je": "ai dirigé",
+      "tu": "as dirigé",
+      "il": "a dirigé",
+      "nous": "avons dirigé",
+      "vous": "avez dirigé",
+      "ils": "ont dirigé"
+    },
+    "imparfait": {
+      "je": "dirigeais",
+      "tu": "dirigeais",
+      "il": "dirigeait",
+      "nous": "dirigions",
+      "vous": "dirigiez",
+      "ils": "dirigeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dirigé",
+      "tu": "avais dirigé",
+      "il": "avait dirigé",
+      "nous": "avions dirigé",
+      "vous": "aviez dirigé",
+      "ils": "avaient dirigé"
+    },
+    "passé_simple": {
+      "je": "dirigeai",
+      "tu": "dirigeas",
+      "il": "dirigea",
+      "nous": "dirigeâmes",
+      "vous": "dirigeâtes",
+      "ils": "dirigèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus dirigé",
+      "tu": "eus dirigé",
+      "il": "eut dirigé",
+      "nous": "eûmes dirigé",
+      "vous": "eûtes dirigé",
+      "ils": "eurent dirigé"
+    },
+    "futur_simple": {
+      "je": "dirigerai",
+      "tu": "dirigeras",
+      "il": "dirigera",
+      "nous": "dirigerons",
+      "vous": "dirigerez",
+      "ils": "dirigeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dirigé",
+      "tu": "auras dirigé",
+      "il": "aura dirigé",
+      "nous": "aurons dirigé",
+      "vous": "aurez dirigé",
+      "ils": "auront dirigé"
+    },
+    "subjonctif_présent": {
+      "je": "dirige",
+      "tu": "diriges",
+      "il": "dirige",
+      "nous": "dirigions",
+      "vous": "dirigiez",
+      "ils": "dirigent"
+    },
+    "subjonctif_passé": {
+      "je": "aie dirigé",
+      "tu": "aies dirigé",
+      "il": "ait dirigé",
+      "nous": "ayons dirigé",
+      "vous": "ayez dirigé",
+      "ils": "aient dirigé"
+    },
+    "subjonctif_imparfait": {
+      "je": "dirigeasse",
+      "tu": "dirigeasses",
+      "il": "dirigeât",
+      "nous": "dirigeassions",
+      "vous": "dirigeassiez",
+      "ils": "dirigeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dirigé",
+      "tu": "eusses dirigé",
+      "il": "eût dirigé",
+      "nous": "eussions dirigé",
+      "vous": "eussiez dirigé",
+      "ils": "eussent dirigé"
+    },
+    "conditionnel_présent": {
+      "je": "dirigerais",
+      "tu": "dirigerais",
+      "il": "dirigerait",
+      "nous": "dirigerions",
+      "vous": "dirigeriez",
+      "ils": "dirigeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dirigé",
+      "tu": "aurais dirigé",
+      "il": "aurait dirigé",
+      "nous": "aurions dirigé",
+      "vous": "auriez dirigé",
+      "ils": "auraient dirigé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dirigé",
+      "tu": "eusses dirigé",
+      "il": "eût dirigé",
+      "nous": "eussions dirigé",
+      "vous": "eussiez dirigé",
+      "ils": "eussent dirigé"
+    },
+    "translation": "kierować",
+    "group": 1
+  },
+  {
+    "infinitive": "disconvenir",
+    "présent": {
+      "je": "disconviens",
+      "tu": "disconviens",
+      "il": "disconvient",
+      "nous": "disconvenons",
+      "vous": "disconvenez",
+      "ils": "disconviennent"
+    },
+    "passé_composé": {
+      "je": "ai disconvenu",
+      "tu": "as disconvenu",
+      "il": "a disconvenu",
+      "nous": "avons disconvenu",
+      "vous": "avez disconvenu",
+      "ils": "ont disconvenu"
+    },
+    "imparfait": {
+      "je": "disconvenais",
+      "tu": "disconvenais",
+      "il": "disconvenait",
+      "nous": "disconvenions",
+      "vous": "disconveniez",
+      "ils": "disconvenaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais disconvenu",
+      "tu": "avais disconvenu",
+      "il": "avait disconvenu",
+      "nous": "avions disconvenu",
+      "vous": "aviez disconvenu",
+      "ils": "avaient disconvenu"
+    },
+    "passé_simple": {
+      "je": "disconvins",
+      "tu": "disconvins",
+      "il": "disconvint",
+      "nous": "disconvînmes",
+      "vous": "disconvîntes",
+      "ils": "disconvinrent"
+    },
+    "passé_antérieur": {
+      "je": "eus disconvenu",
+      "tu": "eus disconvenu",
+      "il": "eut disconvenu",
+      "nous": "eûmes disconvenu",
+      "vous": "eûtes disconvenu",
+      "ils": "eurent disconvenu"
+    },
+    "futur_simple": {
+      "je": "disconviendrai",
+      "tu": "disconviendras",
+      "il": "disconviendra",
+      "nous": "disconviendrons",
+      "vous": "disconviendrez",
+      "ils": "disconviendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai disconvenu",
+      "tu": "auras disconvenu",
+      "il": "aura disconvenu",
+      "nous": "aurons disconvenu",
+      "vous": "aurez disconvenu",
+      "ils": "auront disconvenu"
+    },
+    "subjonctif_présent": {
+      "je": "disconvienne",
+      "tu": "disconviennes",
+      "il": "disconvienne",
+      "nous": "disconvenions",
+      "vous": "disconveniez",
+      "ils": "disconviennent"
+    },
+    "subjonctif_passé": {
+      "je": "aie disconvenu",
+      "tu": "aies disconvenu",
+      "il": "ait disconvenu",
+      "nous": "ayons disconvenu",
+      "vous": "ayez disconvenu",
+      "ils": "aient disconvenu"
+    },
+    "subjonctif_imparfait": {
+      "je": "disconvinsse",
+      "tu": "disconvinsses",
+      "il": "disconvînt",
+      "nous": "disconvinssions",
+      "vous": "disconvinssiez",
+      "ils": "disconvinssent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse disconvenu",
+      "tu": "eusses disconvenu",
+      "il": "eût disconvenu",
+      "nous": "eussions disconvenu",
+      "vous": "eussiez disconvenu",
+      "ils": "eussent disconvenu"
+    },
+    "conditionnel_présent": {
+      "je": "disconviendrais",
+      "tu": "disconviendrais",
+      "il": "disconviendrait",
+      "nous": "disconviendrions",
+      "vous": "disconviendriez",
+      "ils": "disconviendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais disconvenu",
+      "tu": "aurais disconvenu",
+      "il": "aurait disconvenu",
+      "nous": "aurions disconvenu",
+      "vous": "auriez disconvenu",
+      "ils": "auraient disconvenu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse disconvenu",
+      "tu": "eusses disconvenu",
+      "il": "eût disconvenu",
+      "nous": "eussions disconvenu",
+      "vous": "eussiez disconvenu",
+      "ils": "eussent disconvenu"
+    },
+    "translation": "zgadzać",
+    "group": 3
+  },
+  {
+    "infinitive": "discourir",
+    "présent": {
+      "je": "discours",
+      "tu": "discours",
+      "il": "discourt",
+      "nous": "discourons",
+      "vous": "discourez",
+      "ils": "discourent"
+    },
+    "passé_composé": {
+      "je": "ai discouru",
+      "tu": "as discouru",
+      "il": "a discouru",
+      "nous": "avons discouru",
+      "vous": "avez discouru",
+      "ils": "ont discouru"
+    },
+    "imparfait": {
+      "je": "discourais",
+      "tu": "discourais",
+      "il": "discourait",
+      "nous": "discourions",
+      "vous": "discouriez",
+      "ils": "discouraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais discouru",
+      "tu": "avais discouru",
+      "il": "avait discouru",
+      "nous": "avions discouru",
+      "vous": "aviez discouru",
+      "ils": "avaient discouru"
+    },
+    "passé_simple": {
+      "je": "discourus",
+      "tu": "discourus",
+      "il": "discourut",
+      "nous": "discourûmes",
+      "vous": "discourûtes",
+      "ils": "discoururent"
+    },
+    "passé_antérieur": {
+      "je": "eus discouru",
+      "tu": "eus discouru",
+      "il": "eut discouru",
+      "nous": "eûmes discouru",
+      "vous": "eûtes discouru",
+      "ils": "eurent discouru"
+    },
+    "futur_simple": {
+      "je": "discourrai",
+      "tu": "discourras",
+      "il": "discourra",
+      "nous": "discourrons",
+      "vous": "discourrez",
+      "ils": "discourront"
+    },
+    "futur_antérieur": {
+      "je": "aurai discouru",
+      "tu": "auras discouru",
+      "il": "aura discouru",
+      "nous": "aurons discouru",
+      "vous": "aurez discouru",
+      "ils": "auront discouru"
+    },
+    "subjonctif_présent": {
+      "je": "discoure",
+      "tu": "discoures",
+      "il": "discoure",
+      "nous": "discourions",
+      "vous": "discouriez",
+      "ils": "discourent"
+    },
+    "subjonctif_passé": {
+      "je": "aie discouru",
+      "tu": "aies discouru",
+      "il": "ait discouru",
+      "nous": "ayons discouru",
+      "vous": "ayez discouru",
+      "ils": "aient discouru"
+    },
+    "subjonctif_imparfait": {
+      "je": "discourusse",
+      "tu": "discourusses",
+      "il": "discourût",
+      "nous": "discourussions",
+      "vous": "discourussiez",
+      "ils": "discourussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse discouru",
+      "tu": "eusses discouru",
+      "il": "eût discouru",
+      "nous": "eussions discouru",
+      "vous": "eussiez discouru",
+      "ils": "eussent discouru"
+    },
+    "conditionnel_présent": {
+      "je": "discourrais",
+      "tu": "discourrais",
+      "il": "discourrait",
+      "nous": "discourrions",
+      "vous": "discourriez",
+      "ils": "discourraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais discouru",
+      "tu": "aurais discouru",
+      "il": "aurait discouru",
+      "nous": "aurions discouru",
+      "vous": "auriez discouru",
+      "ils": "auraient discouru"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse discouru",
+      "tu": "eusses discouru",
+      "il": "eût discouru",
+      "nous": "eussions discouru",
+      "vous": "eussiez discouru",
+      "ils": "eussent discouru"
+    },
+    "translation": "discourir",
+    "group": 3
+  }
+]

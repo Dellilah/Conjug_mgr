@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "troubler",
+    "présent": {
+      "je": "trouble",
+      "tu": "troubles",
+      "il": "trouble",
+      "nous": "troublons",
+      "vous": "troublez",
+      "ils": "troublent"
+    },
+    "passé_composé": {
+      "je": "ai troublé",
+      "tu": "as troublé",
+      "il": "a troublé",
+      "nous": "avons troublé",
+      "vous": "avez troublé",
+      "ils": "ont troublé"
+    },
+    "imparfait": {
+      "je": "troublais",
+      "tu": "troublais",
+      "il": "troublait",
+      "nous": "troublions",
+      "vous": "troubliez",
+      "ils": "troublaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais troublé",
+      "tu": "avais troublé",
+      "il": "avait troublé",
+      "nous": "avions troublé",
+      "vous": "aviez troublé",
+      "ils": "avaient troublé"
+    },
+    "passé_simple": {
+      "je": "troublai",
+      "tu": "troublas",
+      "il": "troubla",
+      "nous": "troublâmes",
+      "vous": "troublâtes",
+      "ils": "troublèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus troublé",
+      "tu": "eus troublé",
+      "il": "eut troublé",
+      "nous": "eûmes troublé",
+      "vous": "eûtes troublé",
+      "ils": "eurent troublé"
+    },
+    "futur_simple": {
+      "je": "troublerai",
+      "tu": "troubleras",
+      "il": "troublera",
+      "nous": "troublerons",
+      "vous": "troublerez",
+      "ils": "troubleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai troublé",
+      "tu": "auras troublé",
+      "il": "aura troublé",
+      "nous": "aurons troublé",
+      "vous": "aurez troublé",
+      "ils": "auront troublé"
+    },
+    "subjonctif_présent": {
+      "je": "trouble",
+      "tu": "troubles",
+      "il": "trouble",
+      "nous": "troublions",
+      "vous": "troubliez",
+      "ils": "troublent"
+    },
+    "subjonctif_passé": {
+      "je": "aie troublé",
+      "tu": "aies troublé",
+      "il": "ait troublé",
+      "nous": "ayons troublé",
+      "vous": "ayez troublé",
+      "ils": "aient troublé"
+    },
+    "subjonctif_imparfait": {
+      "je": "troublasse",
+      "tu": "troublasses",
+      "il": "troublât",
+      "nous": "troublassions",
+      "vous": "troublassiez",
+      "ils": "troublassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse troublé",
+      "tu": "eusses troublé",
+      "il": "eût troublé",
+      "nous": "eussions troublé",
+      "vous": "eussiez troublé",
+      "ils": "eussent troublé"
+    },
+    "conditionnel_présent": {
+      "je": "troublerais",
+      "tu": "troublerais",
+      "il": "troublerait",
+      "nous": "troublerions",
+      "vous": "troubleriez",
+      "ils": "troubleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais troublé",
+      "tu": "aurais troublé",
+      "il": "aurait troublé",
+      "nous": "aurions troublé",
+      "vous": "auriez troublé",
+      "ils": "auraient troublé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse troublé",
+      "tu": "eusses troublé",
+      "il": "eût troublé",
+      "nous": "eussions troublé",
+      "vous": "eussiez troublé",
+      "ils": "eussent troublé"
+    },
+    "translation": "zakłócać",
+    "group": 1
+  },
+  {
+    "infinitive": "trouer",
+    "présent": {
+      "je": "troue",
+      "tu": "troues",
+      "il": "troue",
+      "nous": "trouons",
+      "vous": "trouez",
+      "ils": "trouent"
+    },
+    "passé_composé": {
+      "je": "ai troué",
+      "tu": "as troué",
+      "il": "a troué",
+      "nous": "avons troué",
+      "vous": "avez troué",
+      "ils": "ont troué"
+    },
+    "imparfait": {
+      "je": "trouais",
+      "tu": "trouais",
+      "il": "trouait",
+      "nous": "trouions",
+      "vous": "trouiez",
+      "ils": "trouaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais troué",
+      "tu": "avais troué",
+      "il": "avait troué",
+      "nous": "avions troué",
+      "vous": "aviez troué",
+      "ils": "avaient troué"
+    },
+    "passé_simple": {
+      "je": "trouai",
+      "tu": "trouas",
+      "il": "troua",
+      "nous": "trouâmes",
+      "vous": "trouâtes",
+      "ils": "trouèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus troué",
+      "tu": "eus troué",
+      "il": "eut troué",
+      "nous": "eûmes troué",
+      "vous": "eûtes troué",
+      "ils": "eurent troué"
+    },
+    "futur_simple": {
+      "je": "trouerai",
+      "tu": "troueras",
+      "il": "trouera",
+      "nous": "trouerons",
+      "vous": "trouerez",
+      "ils": "troueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai troué",
+      "tu": "auras troué",
+      "il": "aura troué",
+      "nous": "aurons troué",
+      "vous": "aurez troué",
+      "ils": "auront troué"
+    },
+    "subjonctif_présent": {
+      "je": "troue",
+      "tu": "troues",
+      "il": "troue",
+      "nous": "trouions",
+      "vous": "trouiez",
+      "ils": "trouent"
+    },
+    "subjonctif_passé": {
+      "je": "aie troué",
+      "tu": "aies troué",
+      "il": "ait troué",
+      "nous": "ayons troué",
+      "vous": "ayez troué",
+      "ils": "aient troué"
+    },
+    "subjonctif_imparfait": {
+      "je": "trouasse",
+      "tu": "trouasses",
+      "il": "trouât",
+      "nous": "trouassions",
+      "vous": "trouassiez",
+      "ils": "trouassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse troué",
+      "tu": "eusses troué",
+      "il": "eût troué",
+      "nous": "eussions troué",
+      "vous": "eussiez troué",
+      "ils": "eussent troué"
+    },
+    "conditionnel_présent": {
+      "je": "trouerais",
+      "tu": "trouerais",
+      "il": "trouerait",
+      "nous": "trouerions",
+      "vous": "troueriez",
+      "ils": "troueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais troué",
+      "tu": "aurais troué",
+      "il": "aurait troué",
+      "nous": "aurions troué",
+      "vous": "auriez troué",
+      "ils": "auraient troué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse troué",
+      "tu": "eusses troué",
+      "il": "eût troué",
+      "nous": "eussions troué",
+      "vous": "eussiez troué",
+      "ils": "eussent troué"
+    },
+    "translation": "dziurawić",
+    "group": 1
+  },
+  {
+    "infinitive": "trouver",
+    "présent": {
+      "je": "trouve",
+      "tu": "trouves",
+      "il": "trouve",
+      "nous": "trouvons",
+      "vous": "trouvez",
+      "ils": "trouvent"
+    },
+    "passé_composé": {
+      "je": "ai trouvé",
+      "tu": "as trouvé",
+      "il": "a trouvé",
+      "nous": "avons trouvé",
+      "vous": "avez trouvé",
+      "ils": "ont trouvé"
+    },
+    "imparfait": {
+      "je": "trouvais",
+      "tu": "trouvais",
+      "il": "trouvait",
+      "nous": "trouvions",
+      "vous": "trouviez",
+      "ils": "trouvaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais trouvé",
+      "tu": "avais trouvé",
+      "il": "avait trouvé",
+      "nous": "avions trouvé",
+      "vous": "aviez trouvé",
+      "ils": "avaient trouvé"
+    },
+    "passé_simple": {
+      "je": "trouvai",
+      "tu": "trouvas",
+      "il": "trouva",
+      "nous": "trouvâmes",
+      "vous": "trouvâtes",
+      "ils": "trouvèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus trouvé",
+      "tu": "eus trouvé",
+      "il": "eut trouvé",
+      "nous": "eûmes trouvé",
+      "vous": "eûtes trouvé",
+      "ils": "eurent trouvé"
+    },
+    "futur_simple": {
+      "je": "trouverai",
+      "tu": "trouveras",
+      "il": "trouvera",
+      "nous": "trouverons",
+      "vous": "trouverez",
+      "ils": "trouveront"
+    },
+    "futur_antérieur": {
+      "je": "aurai trouvé",
+      "tu": "auras trouvé",
+      "il": "aura trouvé",
+      "nous": "aurons trouvé",
+      "vous": "aurez trouvé",
+      "ils": "auront trouvé"
+    },
+    "subjonctif_présent": {
+      "je": "trouve",
+      "tu": "trouves",
+      "il": "trouve",
+      "nous": "trouvions",
+      "vous": "trouviez",
+      "ils": "trouvent"
+    },
+    "subjonctif_passé": {
+      "je": "aie trouvé",
+      "tu": "aies trouvé",
+      "il": "ait trouvé",
+      "nous": "ayons trouvé",
+      "vous": "ayez trouvé",
+      "ils": "aient trouvé"
+    },
+    "subjonctif_imparfait": {
+      "je": "trouvasse",
+      "tu": "trouvasses",
+      "il": "trouvât",
+      "nous": "trouvassions",
+      "vous": "trouvassiez",
+      "ils": "trouvassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse trouvé",
+      "tu": "eusses trouvé",
+      "il": "eût trouvé",
+      "nous": "eussions trouvé",
+      "vous": "eussiez trouvé",
+      "ils": "eussent trouvé"
+    },
+    "conditionnel_présent": {
+      "je": "trouverais",
+      "tu": "trouverais",
+      "il": "trouverait",
+      "nous": "trouverions",
+      "vous": "trouveriez",
+      "ils": "trouveraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais trouvé",
+      "tu": "aurais trouvé",
+      "il": "aurait trouvé",
+      "nous": "aurions trouvé",
+      "vous": "auriez trouvé",
+      "ils": "auraient trouvé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse trouvé",
+      "tu": "eusses trouvé",
+      "il": "eût trouvé",
+      "nous": "eussions trouvé",
+      "vous": "eussiez trouvé",
+      "ils": "eussent trouvé"
+    },
+    "translation": "znajdować",
+    "group": 1
+  },
+  {
+    "infinitive": "tuer",
+    "présent": {
+      "je": "tue",
+      "tu": "tues",
+      "il": "tue",
+      "nous": "tuons",
+      "vous": "tuez",
+      "ils": "tuent"
+    },
+    "passé_composé": {
+      "je": "ai tué",
+      "tu": "as tué",
+      "il": "a tué",
+      "nous": "avons tué",
+      "vous": "avez tué",
+      "ils": "ont tué"
+    },
+    "imparfait": {
+      "je": "tuais",
+      "tu": "tuais",
+      "il": "tuait",
+      "nous": "tuions",
+      "vous": "tuiez",
+      "ils": "tuaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais tué",
+      "tu": "avais tué",
+      "il": "avait tué",
+      "nous": "avions tué",
+      "vous": "aviez tué",
+      "ils": "avaient tué"
+    },
+    "passé_simple": {
+      "je": "tuai",
+      "tu": "tuas",
+      "il": "tua",
+      "nous": "tuâmes",
+      "vous": "tuâtes",
+      "ils": "tuèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus tué",
+      "tu": "eus tué",
+      "il": "eut tué",
+      "nous": "eûmes tué",
+      "vous": "eûtes tué",
+      "ils": "eurent tué"
+    },
+    "futur_simple": {
+      "je": "tuerai",
+      "tu": "tueras",
+      "il": "tuera",
+      "nous": "tuerons",
+      "vous": "tuerez",
+      "ils": "tueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai tué",
+      "tu": "auras tué",
+      "il": "aura tué",
+      "nous": "aurons tué",
+      "vous": "aurez tué",
+      "ils": "auront tué"
+    },
+    "subjonctif_présent": {
+      "je": "tue",
+      "tu": "tues",
+      "il": "tue",
+      "nous": "tuions",
+      "vous": "tuiez",
+      "ils": "tuent"
+    },
+    "subjonctif_passé": {
+      "je": "aie tué",
+      "tu": "aies tué",
+      "il": "ait tué",
+      "nous": "ayons tué",
+      "vous": "ayez tué",
+      "ils": "aient tué"
+    },
+    "subjonctif_imparfait": {
+      "je": "tuasse",
+      "tu": "tuasses",
+      "il": "tuât",
+      "nous": "tuassions",
+      "vous": "tuassiez",
+      "ils": "tuassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse tué",
+      "tu": "eusses tué",
+      "il": "eût tué",
+      "nous": "eussions tué",
+      "vous": "eussiez tué",
+      "ils": "eussent tué"
+    },
+    "conditionnel_présent": {
+      "je": "tuerais",
+      "tu": "tuerais",
+      "il": "tuerait",
+      "nous": "tuerions",
+      "vous": "tueriez",
+      "ils": "tueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais tué",
+      "tu": "aurais tué",
+      "il": "aurait tué",
+      "nous": "aurions tué",
+      "vous": "auriez tué",
+      "ils": "auraient tué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse tué",
+      "tu": "eusses tué",
+      "il": "eût tué",
+      "nous": "eussions tué",
+      "vous": "eussiez tué",
+      "ils": "eussent tué"
+    },
+    "translation": "zabijać",
+    "group": 1
+  },
+  {
+    "infinitive": "tuiler",
+    "présent": {
+      "je": "tuile",
+      "tu": "tuiles",
+      "il": "tuile",
+      "nous": "tuilons",
+      "vous": "tuilez",
+      "ils": "tuilent"
+    },
+    "passé_composé": {
+      "je": "ai tuilé",
+      "tu": "as tuilé",
+      "il": "a tuilé",
+      "nous": "avons tuilé",
+      "vous": "avez tuilé",
+      "ils": "ont tuilé"
+    },
+    "imparfait": {
+      "je": "tuilais",
+      "tu": "tuilais",
+      "il": "tuilait",
+      "nous": "tuilions",
+      "vous": "tuiliez",
+      "ils": "tuilaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais tuilé",
+      "tu": "avais tuilé",
+      "il": "avait tuilé",
+      "nous": "avions tuilé",
+      "vous": "aviez tuilé",
+      "ils": "avaient tuilé"
+    },
+    "passé_simple": {
+      "je": "tuilai",
+      "tu": "tuilas",
+      "il": "tuila",
+      "nous": "tuilâmes",
+      "vous": "tuilâtes",
+      "ils": "tuilèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus tuilé",
+      "tu": "eus tuilé",
+      "il": "eut tuilé",
+      "nous": "eûmes tuilé",
+      "vous": "eûtes tuilé",
+      "ils": "eurent tuilé"
+    },
+    "futur_simple": {
+      "je": "tuilerai",
+      "tu": "tuileras",
+      "il": "tuilera",
+      "nous": "tuilerons",
+      "vous": "tuilerez",
+      "ils": "tuileront"
+    },
+    "futur_antérieur": {
+      "je": "aurai tuilé",
+      "tu": "auras tuilé",
+      "il": "aura tuilé",
+      "nous": "aurons tuilé",
+      "vous": "aurez tuilé",
+      "ils": "auront tuilé"
+    },
+    "subjonctif_présent": {
+      "je": "tuile",
+      "tu": "tuiles",
+      "il": "tuile",
+      "nous": "tuilions",
+      "vous": "tuiliez",
+      "ils": "tuilent"
+    },
+    "subjonctif_passé": {
+      "je": "aie tuilé",
+      "tu": "aies tuilé",
+      "il": "ait tuilé",
+      "nous": "ayons tuilé",
+      "vous": "ayez tuilé",
+      "ils": "aient tuilé"
+    },
+    "subjonctif_imparfait": {
+      "je": "tuilasse",
+      "tu": "tuilasses",
+      "il": "tuilât",
+      "nous": "tuilassions",
+      "vous": "tuilassiez",
+      "ils": "tuilassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse tuilé",
+      "tu": "eusses tuilé",
+      "il": "eût tuilé",
+      "nous": "eussions tuilé",
+      "vous": "eussiez tuilé",
+      "ils": "eussent tuilé"
+    },
+    "conditionnel_présent": {
+      "je": "tuilerais",
+      "tu": "tuilerais",
+      "il": "tuilerait",
+      "nous": "tuilerions",
+      "vous": "tuileriez",
+      "ils": "tuileraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais tuilé",
+      "tu": "aurais tuilé",
+      "il": "aurait tuilé",
+      "nous": "aurions tuilé",
+      "vous": "auriez tuilé",
+      "ils": "auraient tuilé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse tuilé",
+      "tu": "eusses tuilé",
+      "il": "eût tuilé",
+      "nous": "eussions tuilé",
+      "vous": "eussiez tuilé",
+      "ils": "eussent tuilé"
+    },
+    "translation": "dachówka",
+    "group": 1
+  },
+  {
+    "infinitive": "tutoyer",
+    "présent": {
+      "je": "tutoie",
+      "tu": "tutoies",
+      "il": "tutoie",
+      "nous": "tutoyons",
+      "vous": "tutoyez",
+      "ils": "tutoient"
+    },
+    "passé_composé": {
+      "je": "ai tutoyé",
+      "tu": "as tutoyé",
+      "il": "a tutoyé",
+      "nous": "avons tutoyé",
+      "vous": "avez tutoyé",
+      "ils": "ont tutoyé"
+    },
+    "imparfait": {
+      "je": "tutoyais",
+      "tu": "tutoyais",
+      "il": "tutoyait",
+      "nous": "tutoyions",
+      "vous": "tutoyiez",
+      "ils": "tutoyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais tutoyé",
+      "tu": "avais tutoyé",
+      "il": "avait tutoyé",
+      "nous": "avions tutoyé",
+      "vous": "aviez tutoyé",
+      "ils": "avaient tutoyé"
+    },
+    "passé_simple": {
+      "je": "tutoyai",
+      "tu": "tutoyas",
+      "il": "tutoya",
+      "nous": "tutoyâmes",
+      "vous": "tutoyâtes",
+      "ils": "tutoyèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus tutoyé",
+      "tu": "eus tutoyé",
+      "il": "eut tutoyé",
+      "nous": "eûmes tutoyé",
+      "vous": "eûtes tutoyé",
+      "ils": "eurent tutoyé"
+    },
+    "futur_simple": {
+      "je": "tutoierai",
+      "tu": "tutoieras",
+      "il": "tutoiera",
+      "nous": "tutoierons",
+      "vous": "tutoierez",
+      "ils": "tutoieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai tutoyé",
+      "tu": "auras tutoyé",
+      "il": "aura tutoyé",
+      "nous": "aurons tutoyé",
+      "vous": "aurez tutoyé",
+      "ils": "auront tutoyé"
+    },
+    "subjonctif_présent": {
+      "je": "tutoie",
+      "tu": "tutoies",
+      "il": "tutoie",
+      "nous": "tutoyions",
+      "vous": "tutoyiez",
+      "ils": "tutoient"
+    },
+    "subjonctif_passé": {
+      "je": "aie tutoyé",
+      "tu": "aies tutoyé",
+      "il": "ait tutoyé",
+      "nous": "ayons tutoyé",
+      "vous": "ayez tutoyé",
+      "ils": "aient tutoyé"
+    },
+    "subjonctif_imparfait": {
+      "je": "tutoyasse",
+      "tu": "tutoyasses",
+      "il": "tutoyât",
+      "nous": "tutoyassions",
+      "vous": "tutoyassiez",
+      "ils": "tutoyassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse tutoyé",
+      "tu": "eusses tutoyé",
+      "il": "eût tutoyé",
+      "nous": "eussions tutoyé",
+      "vous": "eussiez tutoyé",
+      "ils": "eussent tutoyé"
+    },
+    "conditionnel_présent": {
+      "je": "tutoierais",
+      "tu": "tutoierais",
+      "il": "tutoierait",
+      "nous": "tutoierions",
+      "vous": "tutoieriez",
+      "ils": "tutoieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais tutoyé",
+      "tu": "aurais tutoyé",
+      "il": "aurait tutoyé",
+      "nous": "aurions tutoyé",
+      "vous": "auriez tutoyé",
+      "ils": "auraient tutoyé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse tutoyé",
+      "tu": "eusses tutoyé",
+      "il": "eût tutoyé",
+      "nous": "eussions tutoyé",
+      "vous": "eussiez tutoyé",
+      "ils": "eussent tutoyé"
+    },
+    "translation": "mówić",
+    "group": 1
+  },
+  {
+    "infinitive": "unir",
+    "présent": {
+      "je": "unis",
+      "tu": "unis",
+      "il": "unit",
+      "nous": "unissons",
+      "vous": "unissez",
+      "ils": "unissent"
+    },
+    "passé_composé": {
+      "je": "ai uni",
+      "tu": "as uni",
+      "il": "a uni",
+      "nous": "avons uni",
+      "vous": "avez uni",
+      "ils": "ont uni"
+    },
+    "imparfait": {
+      "je": "unissais",
+      "tu": "unissais",
+      "il": "unissait",
+      "nous": "unissions",
+      "vous": "unissiez",
+      "ils": "unissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais uni",
+      "tu": "avais uni",
+      "il": "avait uni",
+      "nous": "avions uni",
+      "vous": "aviez uni",
+      "ils": "avaient uni"
+    },
+    "passé_simple": {
+      "je": "unis",
+      "tu": "unis",
+      "il": "unit",
+      "nous": "unîmes",
+      "vous": "unîtes",
+      "ils": "unirent"
+    },
+    "passé_antérieur": {
+      "je": "eus uni",
+      "tu": "eus uni",
+      "il": "eut uni",
+      "nous": "eûmes uni",
+      "vous": "eûtes uni",
+      "ils": "eurent uni"
+    },
+    "futur_simple": {
+      "je": "unirai",
+      "tu": "uniras",
+      "il": "unira",
+      "nous": "unirons",
+      "vous": "unirez",
+      "ils": "uniront"
+    },
+    "futur_antérieur": {
+      "je": "aurai uni",
+      "tu": "auras uni",
+      "il": "aura uni",
+      "nous": "aurons uni",
+      "vous": "aurez uni",
+      "ils": "auront uni"
+    },
+    "subjonctif_présent": {
+      "je": "unisse",
+      "tu": "unisses",
+      "il": "unisse",
+      "nous": "unissions",
+      "vous": "unissiez",
+      "ils": "unissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie uni",
+      "tu": "aies uni",
+      "il": "ait uni",
+      "nous": "ayons uni",
+      "vous": "ayez uni",
+      "ils": "aient uni"
+    },
+    "subjonctif_imparfait": {
+      "je": "unisse",
+      "tu": "unisses",
+      "il": "unît",
+      "nous": "unissions",
+      "vous": "unissiez",
+      "ils": "unissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse uni",
+      "tu": "eusses uni",
+      "il": "eût uni",
+      "nous": "eussions uni",
+      "vous": "eussiez uni",
+      "ils": "eussent uni"
+    },
+    "conditionnel_présent": {
+      "je": "unirais",
+      "tu": "unirais",
+      "il": "unirait",
+      "nous": "unirions",
+      "vous": "uniriez",
+      "ils": "uniraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais uni",
+      "tu": "aurais uni",
+      "il": "aurait uni",
+      "nous": "aurions uni",
+      "vous": "auriez uni",
+      "ils": "auraient uni"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse uni",
+      "tu": "eusses uni",
+      "il": "eût uni",
+      "nous": "eussions uni",
+      "vous": "eussiez uni",
+      "ils": "eussent uni"
+    },
+    "translation": "łączyć",
+    "group": 2
+  },
+  {
+    "infinitive": "urger",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "urge",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "a urgé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "urgeait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "avait urgé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "urgea",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "eut urgé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "urgera",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "aura urgé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "urge",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "ait urgé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "urgeât",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "eût urgé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "urgerait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "aurait urgé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "eût urgé",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "nagły",
+    "group": 1
+  },
+  {
+    "infinitive": "uriner",
+    "présent": {
+      "je": "urine",
+      "tu": "urines",
+      "il": "urine",
+      "nous": "urinons",
+      "vous": "urinez",
+      "ils": "urinent"
+    },
+    "passé_composé": {
+      "je": "ai uriné",
+      "tu": "as uriné",
+      "il": "a uriné",
+      "nous": "avons uriné",
+      "vous": "avez uriné",
+      "ils": "ont uriné"
+    },
+    "imparfait": {
+      "je": "urinais",
+      "tu": "urinais",
+      "il": "urinait",
+      "nous": "urinions",
+      "vous": "uriniez",
+      "ils": "urinaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais uriné",
+      "tu": "avais uriné",
+      "il": "avait uriné",
+      "nous": "avions uriné",
+      "vous": "aviez uriné",
+      "ils": "avaient uriné"
+    },
+    "passé_simple": {
+      "je": "urinai",
+      "tu": "urinas",
+      "il": "urina",
+      "nous": "urinâmes",
+      "vous": "urinâtes",
+      "ils": "urinèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus uriné",
+      "tu": "eus uriné",
+      "il": "eut uriné",
+      "nous": "eûmes uriné",
+      "vous": "eûtes uriné",
+      "ils": "eurent uriné"
+    },
+    "futur_simple": {
+      "je": "urinerai",
+      "tu": "urineras",
+      "il": "urinera",
+      "nous": "urinerons",
+      "vous": "urinerez",
+      "ils": "urineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai uriné",
+      "tu": "auras uriné",
+      "il": "aura uriné",
+      "nous": "aurons uriné",
+      "vous": "aurez uriné",
+      "ils": "auront uriné"
+    },
+    "subjonctif_présent": {
+      "je": "urine",
+      "tu": "urines",
+      "il": "urine",
+      "nous": "urinions",
+      "vous": "uriniez",
+      "ils": "urinent"
+    },
+    "subjonctif_passé": {
+      "je": "aie uriné",
+      "tu": "aies uriné",
+      "il": "ait uriné",
+      "nous": "ayons uriné",
+      "vous": "ayez uriné",
+      "ils": "aient uriné"
+    },
+    "subjonctif_imparfait": {
+      "je": "urinasse",
+      "tu": "urinasses",
+      "il": "urinât",
+      "nous": "urinassions",
+      "vous": "urinassiez",
+      "ils": "urinassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse uriné",
+      "tu": "eusses uriné",
+      "il": "eût uriné",
+      "nous": "eussions uriné",
+      "vous": "eussiez uriné",
+      "ils": "eussent uriné"
+    },
+    "conditionnel_présent": {
+      "je": "urinerais",
+      "tu": "urinerais",
+      "il": "urinerait",
+      "nous": "urinerions",
+      "vous": "urineriez",
+      "ils": "urineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais uriné",
+      "tu": "aurais uriné",
+      "il": "aurait uriné",
+      "nous": "aurions uriné",
+      "vous": "auriez uriné",
+      "ils": "auraient uriné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse uriné",
+      "tu": "eusses uriné",
+      "il": "eût uriné",
+      "nous": "eussions uriné",
+      "vous": "eussiez uriné",
+      "ils": "eussent uriné"
+    },
+    "translation": "oddawać",
+    "group": 1
+  },
+  {
+    "infinitive": "user",
+    "présent": {
+      "je": "use",
+      "tu": "uses",
+      "il": "use",
+      "nous": "usons",
+      "vous": "usez",
+      "ils": "usent"
+    },
+    "passé_composé": {
+      "je": "ai usé",
+      "tu": "as usé",
+      "il": "a usé",
+      "nous": "avons usé",
+      "vous": "avez usé",
+      "ils": "ont usé"
+    },
+    "imparfait": {
+      "je": "usais",
+      "tu": "usais",
+      "il": "usait",
+      "nous": "usions",
+      "vous": "usiez",
+      "ils": "usaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais usé",
+      "tu": "avais usé",
+      "il": "avait usé",
+      "nous": "avions usé",
+      "vous": "aviez usé",
+      "ils": "avaient usé"
+    },
+    "passé_simple": {
+      "je": "usai",
+      "tu": "usas",
+      "il": "usa",
+      "nous": "usâmes",
+      "vous": "usâtes",
+      "ils": "usèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus usé",
+      "tu": "eus usé",
+      "il": "eut usé",
+      "nous": "eûmes usé",
+      "vous": "eûtes usé",
+      "ils": "eurent usé"
+    },
+    "futur_simple": {
+      "je": "userai",
+      "tu": "useras",
+      "il": "usera",
+      "nous": "userons",
+      "vous": "userez",
+      "ils": "useront"
+    },
+    "futur_antérieur": {
+      "je": "aurai usé",
+      "tu": "auras usé",
+      "il": "aura usé",
+      "nous": "aurons usé",
+      "vous": "aurez usé",
+      "ils": "auront usé"
+    },
+    "subjonctif_présent": {
+      "je": "use",
+      "tu": "uses",
+      "il": "use",
+      "nous": "usions",
+      "vous": "usiez",
+      "ils": "usent"
+    },
+    "subjonctif_passé": {
+      "je": "aie usé",
+      "tu": "aies usé",
+      "il": "ait usé",
+      "nous": "ayons usé",
+      "vous": "ayez usé",
+      "ils": "aient usé"
+    },
+    "subjonctif_imparfait": {
+      "je": "usasse",
+      "tu": "usasses",
+      "il": "usât",
+      "nous": "usassions",
+      "vous": "usassiez",
+      "ils": "usassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse usé",
+      "tu": "eusses usé",
+      "il": "eût usé",
+      "nous": "eussions usé",
+      "vous": "eussiez usé",
+      "ils": "eussent usé"
+    },
+    "conditionnel_présent": {
+      "je": "userais",
+      "tu": "userais",
+      "il": "userait",
+      "nous": "userions",
+      "vous": "useriez",
+      "ils": "useraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais usé",
+      "tu": "aurais usé",
+      "il": "aurait usé",
+      "nous": "aurions usé",
+      "vous": "auriez usé",
+      "ils": "auraient usé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse usé",
+      "tu": "eusses usé",
+      "il": "eût usé",
+      "nous": "eussions usé",
+      "vous": "eussiez usé",
+      "ils": "eussent usé"
+    },
+    "translation": "zużywać",
+    "group": 1
+  }
+]

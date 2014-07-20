@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "résider",
+    "présent": {
+      "je": "réside",
+      "tu": "résides",
+      "il": "réside",
+      "nous": "résidons",
+      "vous": "résidez",
+      "ils": "résident"
+    },
+    "passé_composé": {
+      "je": "ai résidé",
+      "tu": "as résidé",
+      "il": "a résidé",
+      "nous": "avons résidé",
+      "vous": "avez résidé",
+      "ils": "ont résidé"
+    },
+    "imparfait": {
+      "je": "résidais",
+      "tu": "résidais",
+      "il": "résidait",
+      "nous": "résidions",
+      "vous": "résidiez",
+      "ils": "résidaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais résidé",
+      "tu": "avais résidé",
+      "il": "avait résidé",
+      "nous": "avions résidé",
+      "vous": "aviez résidé",
+      "ils": "avaient résidé"
+    },
+    "passé_simple": {
+      "je": "résidai",
+      "tu": "résidas",
+      "il": "résida",
+      "nous": "résidâmes",
+      "vous": "résidâtes",
+      "ils": "résidèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus résidé",
+      "tu": "eus résidé",
+      "il": "eut résidé",
+      "nous": "eûmes résidé",
+      "vous": "eûtes résidé",
+      "ils": "eurent résidé"
+    },
+    "futur_simple": {
+      "je": "résiderai",
+      "tu": "résideras",
+      "il": "résidera",
+      "nous": "résiderons",
+      "vous": "résiderez",
+      "ils": "résideront"
+    },
+    "futur_antérieur": {
+      "je": "aurai résidé",
+      "tu": "auras résidé",
+      "il": "aura résidé",
+      "nous": "aurons résidé",
+      "vous": "aurez résidé",
+      "ils": "auront résidé"
+    },
+    "subjonctif_présent": {
+      "je": "réside",
+      "tu": "résides",
+      "il": "réside",
+      "nous": "résidions",
+      "vous": "résidiez",
+      "ils": "résident"
+    },
+    "subjonctif_passé": {
+      "je": "aie résidé",
+      "tu": "aies résidé",
+      "il": "ait résidé",
+      "nous": "ayons résidé",
+      "vous": "ayez résidé",
+      "ils": "aient résidé"
+    },
+    "subjonctif_imparfait": {
+      "je": "résidasse",
+      "tu": "résidasses",
+      "il": "résidât",
+      "nous": "résidassions",
+      "vous": "résidassiez",
+      "ils": "résidassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse résidé",
+      "tu": "eusses résidé",
+      "il": "eût résidé",
+      "nous": "eussions résidé",
+      "vous": "eussiez résidé",
+      "ils": "eussent résidé"
+    },
+    "conditionnel_présent": {
+      "je": "résiderais",
+      "tu": "résiderais",
+      "il": "résiderait",
+      "nous": "résiderions",
+      "vous": "résideriez",
+      "ils": "résideraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais résidé",
+      "tu": "aurais résidé",
+      "il": "aurait résidé",
+      "nous": "aurions résidé",
+      "vous": "auriez résidé",
+      "ils": "auraient résidé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse résidé",
+      "tu": "eusses résidé",
+      "il": "eût résidé",
+      "nous": "eussions résidé",
+      "vous": "eussiez résidé",
+      "ils": "eussent résidé"
+    },
+    "translation": "przebywać",
+    "group": 1
+  },
+  {
+    "infinitive": "résilier",
+    "présent": {
+      "je": "résilie",
+      "tu": "résilies",
+      "il": "résilie",
+      "nous": "résilions",
+      "vous": "résiliez",
+      "ils": "résilient"
+    },
+    "passé_composé": {
+      "je": "ai résilié",
+      "tu": "as résilié",
+      "il": "a résilié",
+      "nous": "avons résilié",
+      "vous": "avez résilié",
+      "ils": "ont résilié"
+    },
+    "imparfait": {
+      "je": "résiliais",
+      "tu": "résiliais",
+      "il": "résiliait",
+      "nous": "résiliions",
+      "vous": "résiliiez",
+      "ils": "résiliaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais résilié",
+      "tu": "avais résilié",
+      "il": "avait résilié",
+      "nous": "avions résilié",
+      "vous": "aviez résilié",
+      "ils": "avaient résilié"
+    },
+    "passé_simple": {
+      "je": "résiliai",
+      "tu": "résilias",
+      "il": "résilia",
+      "nous": "résiliâmes",
+      "vous": "résiliâtes",
+      "ils": "résilièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus résilié",
+      "tu": "eus résilié",
+      "il": "eut résilié",
+      "nous": "eûmes résilié",
+      "vous": "eûtes résilié",
+      "ils": "eurent résilié"
+    },
+    "futur_simple": {
+      "je": "résilierai",
+      "tu": "résilieras",
+      "il": "résiliera",
+      "nous": "résilierons",
+      "vous": "résilierez",
+      "ils": "résilieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai résilié",
+      "tu": "auras résilié",
+      "il": "aura résilié",
+      "nous": "aurons résilié",
+      "vous": "aurez résilié",
+      "ils": "auront résilié"
+    },
+    "subjonctif_présent": {
+      "je": "résilie",
+      "tu": "résilies",
+      "il": "résilie",
+      "nous": "résiliions",
+      "vous": "résiliiez",
+      "ils": "résilient"
+    },
+    "subjonctif_passé": {
+      "je": "aie résilié",
+      "tu": "aies résilié",
+      "il": "ait résilié",
+      "nous": "ayons résilié",
+      "vous": "ayez résilié",
+      "ils": "aient résilié"
+    },
+    "subjonctif_imparfait": {
+      "je": "résiliasse",
+      "tu": "résiliasses",
+      "il": "résiliât",
+      "nous": "résiliassions",
+      "vous": "résiliassiez",
+      "ils": "résiliassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse résilié",
+      "tu": "eusses résilié",
+      "il": "eût résilié",
+      "nous": "eussions résilié",
+      "vous": "eussiez résilié",
+      "ils": "eussent résilié"
+    },
+    "conditionnel_présent": {
+      "je": "résilierais",
+      "tu": "résilierais",
+      "il": "résilierait",
+      "nous": "résilierions",
+      "vous": "résilieriez",
+      "ils": "résilieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais résilié",
+      "tu": "aurais résilié",
+      "il": "aurait résilié",
+      "nous": "aurions résilié",
+      "vous": "auriez résilié",
+      "ils": "auraient résilié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse résilié",
+      "tu": "eusses résilié",
+      "il": "eût résilié",
+      "nous": "eussions résilié",
+      "vous": "eussiez résilié",
+      "ils": "eussent résilié"
+    },
+    "translation": "rozwiązać",
+    "group": 1
+  },
+  {
+    "infinitive": "résister",
+    "présent": {
+      "je": "résiste",
+      "tu": "résistes",
+      "il": "résiste",
+      "nous": "résistons",
+      "vous": "résistez",
+      "ils": "résistent"
+    },
+    "passé_composé": {
+      "je": "ai résisté",
+      "tu": "as résisté",
+      "il": "a résisté",
+      "nous": "avons résisté",
+      "vous": "avez résisté",
+      "ils": "ont résisté"
+    },
+    "imparfait": {
+      "je": "résistais",
+      "tu": "résistais",
+      "il": "résistait",
+      "nous": "résistions",
+      "vous": "résistiez",
+      "ils": "résistaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais résisté",
+      "tu": "avais résisté",
+      "il": "avait résisté",
+      "nous": "avions résisté",
+      "vous": "aviez résisté",
+      "ils": "avaient résisté"
+    },
+    "passé_simple": {
+      "je": "résistai",
+      "tu": "résistas",
+      "il": "résista",
+      "nous": "résistâmes",
+      "vous": "résistâtes",
+      "ils": "résistèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus résisté",
+      "tu": "eus résisté",
+      "il": "eut résisté",
+      "nous": "eûmes résisté",
+      "vous": "eûtes résisté",
+      "ils": "eurent résisté"
+    },
+    "futur_simple": {
+      "je": "résisterai",
+      "tu": "résisteras",
+      "il": "résistera",
+      "nous": "résisterons",
+      "vous": "résisterez",
+      "ils": "résisteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai résisté",
+      "tu": "auras résisté",
+      "il": "aura résisté",
+      "nous": "aurons résisté",
+      "vous": "aurez résisté",
+      "ils": "auront résisté"
+    },
+    "subjonctif_présent": {
+      "je": "résiste",
+      "tu": "résistes",
+      "il": "résiste",
+      "nous": "résistions",
+      "vous": "résistiez",
+      "ils": "résistent"
+    },
+    "subjonctif_passé": {
+      "je": "aie résisté",
+      "tu": "aies résisté",
+      "il": "ait résisté",
+      "nous": "ayons résisté",
+      "vous": "ayez résisté",
+      "ils": "aient résisté"
+    },
+    "subjonctif_imparfait": {
+      "je": "résistasse",
+      "tu": "résistasses",
+      "il": "résistât",
+      "nous": "résistassions",
+      "vous": "résistassiez",
+      "ils": "résistassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse résisté",
+      "tu": "eusses résisté",
+      "il": "eût résisté",
+      "nous": "eussions résisté",
+      "vous": "eussiez résisté",
+      "ils": "eussent résisté"
+    },
+    "conditionnel_présent": {
+      "je": "résisterais",
+      "tu": "résisterais",
+      "il": "résisterait",
+      "nous": "résisterions",
+      "vous": "résisteriez",
+      "ils": "résisteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais résisté",
+      "tu": "aurais résisté",
+      "il": "aurait résisté",
+      "nous": "aurions résisté",
+      "vous": "auriez résisté",
+      "ils": "auraient résisté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse résisté",
+      "tu": "eusses résisté",
+      "il": "eût résisté",
+      "nous": "eussions résisté",
+      "vous": "eussiez résisté",
+      "ils": "eussent résisté"
+    },
+    "translation": "sprzeciwiać",
+    "group": 1
+  },
+  {
+    "infinitive": "résonner",
+    "présent": {
+      "je": "résonne",
+      "tu": "résonnes",
+      "il": "résonne",
+      "nous": "résonnons",
+      "vous": "résonnez",
+      "ils": "résonnent"
+    },
+    "passé_composé": {
+      "je": "ai résonné",
+      "tu": "as résonné",
+      "il": "a résonné",
+      "nous": "avons résonné",
+      "vous": "avez résonné",
+      "ils": "ont résonné"
+    },
+    "imparfait": {
+      "je": "résonnais",
+      "tu": "résonnais",
+      "il": "résonnait",
+      "nous": "résonnions",
+      "vous": "résonniez",
+      "ils": "résonnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais résonné",
+      "tu": "avais résonné",
+      "il": "avait résonné",
+      "nous": "avions résonné",
+      "vous": "aviez résonné",
+      "ils": "avaient résonné"
+    },
+    "passé_simple": {
+      "je": "résonnai",
+      "tu": "résonnas",
+      "il": "résonna",
+      "nous": "résonnâmes",
+      "vous": "résonnâtes",
+      "ils": "résonnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus résonné",
+      "tu": "eus résonné",
+      "il": "eut résonné",
+      "nous": "eûmes résonné",
+      "vous": "eûtes résonné",
+      "ils": "eurent résonné"
+    },
+    "futur_simple": {
+      "je": "résonnerai",
+      "tu": "résonneras",
+      "il": "résonnera",
+      "nous": "résonnerons",
+      "vous": "résonnerez",
+      "ils": "résonneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai résonné",
+      "tu": "auras résonné",
+      "il": "aura résonné",
+      "nous": "aurons résonné",
+      "vous": "aurez résonné",
+      "ils": "auront résonné"
+    },
+    "subjonctif_présent": {
+      "je": "résonne",
+      "tu": "résonnes",
+      "il": "résonne",
+      "nous": "résonnions",
+      "vous": "résonniez",
+      "ils": "résonnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie résonné",
+      "tu": "aies résonné",
+      "il": "ait résonné",
+      "nous": "ayons résonné",
+      "vous": "ayez résonné",
+      "ils": "aient résonné"
+    },
+    "subjonctif_imparfait": {
+      "je": "résonnasse",
+      "tu": "résonnasses",
+      "il": "résonnât",
+      "nous": "résonnassions",
+      "vous": "résonnassiez",
+      "ils": "résonnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse résonné",
+      "tu": "eusses résonné",
+      "il": "eût résonné",
+      "nous": "eussions résonné",
+      "vous": "eussiez résonné",
+      "ils": "eussent résonné"
+    },
+    "conditionnel_présent": {
+      "je": "résonnerais",
+      "tu": "résonnerais",
+      "il": "résonnerait",
+      "nous": "résonnerions",
+      "vous": "résonneriez",
+      "ils": "résonneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais résonné",
+      "tu": "aurais résonné",
+      "il": "aurait résonné",
+      "nous": "aurions résonné",
+      "vous": "auriez résonné",
+      "ils": "auraient résonné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse résonné",
+      "tu": "eusses résonné",
+      "il": "eût résonné",
+      "nous": "eussions résonné",
+      "vous": "eussiez résonné",
+      "ils": "eussent résonné"
+    },
+    "translation": "odbijać",
+    "group": 1
+  },
+  {
+    "infinitive": "résoudre",
+    "présent": {
+      "je": "résous",
+      "tu": "résous",
+      "il": "résout",
+      "nous": "résolvons",
+      "vous": "résolvez",
+      "ils": "résolvent"
+    },
+    "passé_composé": {
+      "je": "ai résolu",
+      "tu": "as résolu",
+      "il": "a résolu",
+      "nous": "avons résolu",
+      "vous": "avez résolu",
+      "ils": "ont résolu"
+    },
+    "imparfait": {
+      "je": "résolvais",
+      "tu": "résolvais",
+      "il": "résolvait",
+      "nous": "résolvions",
+      "vous": "résolviez",
+      "ils": "résolvaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais résolu",
+      "tu": "avais résolu",
+      "il": "avait résolu",
+      "nous": "avions résolu",
+      "vous": "aviez résolu",
+      "ils": "avaient résolu"
+    },
+    "passé_simple": {
+      "je": "résolus",
+      "tu": "résolus",
+      "il": "résolut",
+      "nous": "résolûmes",
+      "vous": "résolûtes",
+      "ils": "résolurent"
+    },
+    "passé_antérieur": {
+      "je": "eus résolu",
+      "tu": "eus résolu",
+      "il": "eut résolu",
+      "nous": "eûmes résolu",
+      "vous": "eûtes résolu",
+      "ils": "eurent résolu"
+    },
+    "futur_simple": {
+      "je": "résoudrai",
+      "tu": "résoudras",
+      "il": "résoudra",
+      "nous": "résoudrons",
+      "vous": "résoudrez",
+      "ils": "résoudront"
+    },
+    "futur_antérieur": {
+      "je": "aurai résolu",
+      "tu": "auras résolu",
+      "il": "aura résolu",
+      "nous": "aurons résolu",
+      "vous": "aurez résolu",
+      "ils": "auront résolu"
+    },
+    "subjonctif_présent": {
+      "je": "résolve",
+      "tu": "résolves",
+      "il": "résolve",
+      "nous": "résolvions",
+      "vous": "résolviez",
+      "ils": "résolvent"
+    },
+    "subjonctif_passé": {
+      "je": "aie résolu",
+      "tu": "aies résolu",
+      "il": "ait résolu",
+      "nous": "ayons résolu",
+      "vous": "ayez résolu",
+      "ils": "aient résolu"
+    },
+    "subjonctif_imparfait": {
+      "je": "résolusse",
+      "tu": "résolusses",
+      "il": "résolût",
+      "nous": "résolussions",
+      "vous": "résolussiez",
+      "ils": "résolussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse résolu",
+      "tu": "eusses résolu",
+      "il": "eût résolu",
+      "nous": "eussions résolu",
+      "vous": "eussiez résolu",
+      "ils": "eussent résolu"
+    },
+    "conditionnel_présent": {
+      "je": "résoudrais",
+      "tu": "résoudrais",
+      "il": "résoudrait",
+      "nous": "résoudrions",
+      "vous": "résoudriez",
+      "ils": "résoudraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais résolu",
+      "tu": "aurais résolu",
+      "il": "aurait résolu",
+      "nous": "aurions résolu",
+      "vous": "auriez résolu",
+      "ils": "auraient résolu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse résolu",
+      "tu": "eusses résolu",
+      "il": "eût résolu",
+      "nous": "eussions résolu",
+      "vous": "eussiez résolu",
+      "ils": "eussent résolu"
+    },
+    "translation": "rozwiązywać",
+    "group": 3
+  },
+  {
+    "infinitive": "respecter",
+    "présent": {
+      "je": "respecte",
+      "tu": "respectes",
+      "il": "respecte",
+      "nous": "respectons",
+      "vous": "respectez",
+      "ils": "respectent"
+    },
+    "passé_composé": {
+      "je": "ai respecté",
+      "tu": "as respecté",
+      "il": "a respecté",
+      "nous": "avons respecté",
+      "vous": "avez respecté",
+      "ils": "ont respecté"
+    },
+    "imparfait": {
+      "je": "respectais",
+      "tu": "respectais",
+      "il": "respectait",
+      "nous": "respections",
+      "vous": "respectiez",
+      "ils": "respectaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais respecté",
+      "tu": "avais respecté",
+      "il": "avait respecté",
+      "nous": "avions respecté",
+      "vous": "aviez respecté",
+      "ils": "avaient respecté"
+    },
+    "passé_simple": {
+      "je": "respectai",
+      "tu": "respectas",
+      "il": "respecta",
+      "nous": "respectâmes",
+      "vous": "respectâtes",
+      "ils": "respectèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus respecté",
+      "tu": "eus respecté",
+      "il": "eut respecté",
+      "nous": "eûmes respecté",
+      "vous": "eûtes respecté",
+      "ils": "eurent respecté"
+    },
+    "futur_simple": {
+      "je": "respecterai",
+      "tu": "respecteras",
+      "il": "respectera",
+      "nous": "respecterons",
+      "vous": "respecterez",
+      "ils": "respecteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai respecté",
+      "tu": "auras respecté",
+      "il": "aura respecté",
+      "nous": "aurons respecté",
+      "vous": "aurez respecté",
+      "ils": "auront respecté"
+    },
+    "subjonctif_présent": {
+      "je": "respecte",
+      "tu": "respectes",
+      "il": "respecte",
+      "nous": "respections",
+      "vous": "respectiez",
+      "ils": "respectent"
+    },
+    "subjonctif_passé": {
+      "je": "aie respecté",
+      "tu": "aies respecté",
+      "il": "ait respecté",
+      "nous": "ayons respecté",
+      "vous": "ayez respecté",
+      "ils": "aient respecté"
+    },
+    "subjonctif_imparfait": {
+      "je": "respectasse",
+      "tu": "respectasses",
+      "il": "respectât",
+      "nous": "respectassions",
+      "vous": "respectassiez",
+      "ils": "respectassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse respecté",
+      "tu": "eusses respecté",
+      "il": "eût respecté",
+      "nous": "eussions respecté",
+      "vous": "eussiez respecté",
+      "ils": "eussent respecté"
+    },
+    "conditionnel_présent": {
+      "je": "respecterais",
+      "tu": "respecterais",
+      "il": "respecterait",
+      "nous": "respecterions",
+      "vous": "respecteriez",
+      "ils": "respecteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais respecté",
+      "tu": "aurais respecté",
+      "il": "aurait respecté",
+      "nous": "aurions respecté",
+      "vous": "auriez respecté",
+      "ils": "auraient respecté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse respecté",
+      "tu": "eusses respecté",
+      "il": "eût respecté",
+      "nous": "eussions respecté",
+      "vous": "eussiez respecté",
+      "ils": "eussent respecté"
+    },
+    "translation": "szanować",
+    "group": 1
+  },
+  {
+    "infinitive": "respirer",
+    "présent": {
+      "je": "respire",
+      "tu": "respires",
+      "il": "respire",
+      "nous": "respirons",
+      "vous": "respirez",
+      "ils": "respirent"
+    },
+    "passé_composé": {
+      "je": "ai respiré",
+      "tu": "as respiré",
+      "il": "a respiré",
+      "nous": "avons respiré",
+      "vous": "avez respiré",
+      "ils": "ont respiré"
+    },
+    "imparfait": {
+      "je": "respirais",
+      "tu": "respirais",
+      "il": "respirait",
+      "nous": "respirions",
+      "vous": "respiriez",
+      "ils": "respiraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais respiré",
+      "tu": "avais respiré",
+      "il": "avait respiré",
+      "nous": "avions respiré",
+      "vous": "aviez respiré",
+      "ils": "avaient respiré"
+    },
+    "passé_simple": {
+      "je": "respirai",
+      "tu": "respiras",
+      "il": "respira",
+      "nous": "respirâmes",
+      "vous": "respirâtes",
+      "ils": "respirèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus respiré",
+      "tu": "eus respiré",
+      "il": "eut respiré",
+      "nous": "eûmes respiré",
+      "vous": "eûtes respiré",
+      "ils": "eurent respiré"
+    },
+    "futur_simple": {
+      "je": "respirerai",
+      "tu": "respireras",
+      "il": "respirera",
+      "nous": "respirerons",
+      "vous": "respirerez",
+      "ils": "respireront"
+    },
+    "futur_antérieur": {
+      "je": "aurai respiré",
+      "tu": "auras respiré",
+      "il": "aura respiré",
+      "nous": "aurons respiré",
+      "vous": "aurez respiré",
+      "ils": "auront respiré"
+    },
+    "subjonctif_présent": {
+      "je": "respire",
+      "tu": "respires",
+      "il": "respire",
+      "nous": "respirions",
+      "vous": "respiriez",
+      "ils": "respirent"
+    },
+    "subjonctif_passé": {
+      "je": "aie respiré",
+      "tu": "aies respiré",
+      "il": "ait respiré",
+      "nous": "ayons respiré",
+      "vous": "ayez respiré",
+      "ils": "aient respiré"
+    },
+    "subjonctif_imparfait": {
+      "je": "respirasse",
+      "tu": "respirasses",
+      "il": "respirât",
+      "nous": "respirassions",
+      "vous": "respirassiez",
+      "ils": "respirassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse respiré",
+      "tu": "eusses respiré",
+      "il": "eût respiré",
+      "nous": "eussions respiré",
+      "vous": "eussiez respiré",
+      "ils": "eussent respiré"
+    },
+    "conditionnel_présent": {
+      "je": "respirerais",
+      "tu": "respirerais",
+      "il": "respirerait",
+      "nous": "respirerions",
+      "vous": "respireriez",
+      "ils": "respireraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais respiré",
+      "tu": "aurais respiré",
+      "il": "aurait respiré",
+      "nous": "aurions respiré",
+      "vous": "auriez respiré",
+      "ils": "auraient respiré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse respiré",
+      "tu": "eusses respiré",
+      "il": "eût respiré",
+      "nous": "eussions respiré",
+      "vous": "eussiez respiré",
+      "ils": "eussent respiré"
+    },
+    "translation": "oddychać",
+    "group": 1
+  },
+  {
+    "infinitive": "resplendir",
+    "présent": {
+      "je": "resplendis",
+      "tu": "resplendis",
+      "il": "resplendit",
+      "nous": "resplendissons",
+      "vous": "resplendissez",
+      "ils": "resplendissent"
+    },
+    "passé_composé": {
+      "je": "ai resplendi",
+      "tu": "as resplendi",
+      "il": "a resplendi",
+      "nous": "avons resplendi",
+      "vous": "avez resplendi",
+      "ils": "ont resplendi"
+    },
+    "imparfait": {
+      "je": "resplendissais",
+      "tu": "resplendissais",
+      "il": "resplendissait",
+      "nous": "resplendissions",
+      "vous": "resplendissiez",
+      "ils": "resplendissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais resplendi",
+      "tu": "avais resplendi",
+      "il": "avait resplendi",
+      "nous": "avions resplendi",
+      "vous": "aviez resplendi",
+      "ils": "avaient resplendi"
+    },
+    "passé_simple": {
+      "je": "resplendis",
+      "tu": "resplendis",
+      "il": "resplendit",
+      "nous": "resplendîmes",
+      "vous": "resplendîtes",
+      "ils": "resplendirent"
+    },
+    "passé_antérieur": {
+      "je": "eus resplendi",
+      "tu": "eus resplendi",
+      "il": "eut resplendi",
+      "nous": "eûmes resplendi",
+      "vous": "eûtes resplendi",
+      "ils": "eurent resplendi"
+    },
+    "futur_simple": {
+      "je": "resplendirai",
+      "tu": "resplendiras",
+      "il": "resplendira",
+      "nous": "resplendirons",
+      "vous": "resplendirez",
+      "ils": "resplendiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai resplendi",
+      "tu": "auras resplendi",
+      "il": "aura resplendi",
+      "nous": "aurons resplendi",
+      "vous": "aurez resplendi",
+      "ils": "auront resplendi"
+    },
+    "subjonctif_présent": {
+      "je": "resplendisse",
+      "tu": "resplendisses",
+      "il": "resplendisse",
+      "nous": "resplendissions",
+      "vous": "resplendissiez",
+      "ils": "resplendissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie resplendi",
+      "tu": "aies resplendi",
+      "il": "ait resplendi",
+      "nous": "ayons resplendi",
+      "vous": "ayez resplendi",
+      "ils": "aient resplendi"
+    },
+    "subjonctif_imparfait": {
+      "je": "resplendisse",
+      "tu": "resplendisses",
+      "il": "resplendît",
+      "nous": "resplendissions",
+      "vous": "resplendissiez",
+      "ils": "resplendissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse resplendi",
+      "tu": "eusses resplendi",
+      "il": "eût resplendi",
+      "nous": "eussions resplendi",
+      "vous": "eussiez resplendi",
+      "ils": "eussent resplendi"
+    },
+    "conditionnel_présent": {
+      "je": "resplendirais",
+      "tu": "resplendirais",
+      "il": "resplendirait",
+      "nous": "resplendirions",
+      "vous": "resplendiriez",
+      "ils": "resplendiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais resplendi",
+      "tu": "aurais resplendi",
+      "il": "aurait resplendi",
+      "nous": "aurions resplendi",
+      "vous": "auriez resplendi",
+      "ils": "auraient resplendi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse resplendi",
+      "tu": "eusses resplendi",
+      "il": "eût resplendi",
+      "nous": "eussions resplendi",
+      "vous": "eussiez resplendi",
+      "ils": "eussent resplendi"
+    },
+    "translation": "błyszczeć",
+    "group": 2
+  },
+  {
+    "infinitive": "ressaisir",
+    "présent": {
+      "je": "ressaisis",
+      "tu": "ressaisis",
+      "il": "ressaisit",
+      "nous": "ressaisissons",
+      "vous": "ressaisissez",
+      "ils": "ressaisissent"
+    },
+    "passé_composé": {
+      "je": "ai ressaisi",
+      "tu": "as ressaisi",
+      "il": "a ressaisi",
+      "nous": "avons ressaisi",
+      "vous": "avez ressaisi",
+      "ils": "ont ressaisi"
+    },
+    "imparfait": {
+      "je": "ressaisissais",
+      "tu": "ressaisissais",
+      "il": "ressaisissait",
+      "nous": "ressaisissions",
+      "vous": "ressaisissiez",
+      "ils": "ressaisissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ressaisi",
+      "tu": "avais ressaisi",
+      "il": "avait ressaisi",
+      "nous": "avions ressaisi",
+      "vous": "aviez ressaisi",
+      "ils": "avaient ressaisi"
+    },
+    "passé_simple": {
+      "je": "ressaisis",
+      "tu": "ressaisis",
+      "il": "ressaisit",
+      "nous": "ressaisîmes",
+      "vous": "ressaisîtes",
+      "ils": "ressaisirent"
+    },
+    "passé_antérieur": {
+      "je": "eus ressaisi",
+      "tu": "eus ressaisi",
+      "il": "eut ressaisi",
+      "nous": "eûmes ressaisi",
+      "vous": "eûtes ressaisi",
+      "ils": "eurent ressaisi"
+    },
+    "futur_simple": {
+      "je": "ressaisirai",
+      "tu": "ressaisiras",
+      "il": "ressaisira",
+      "nous": "ressaisirons",
+      "vous": "ressaisirez",
+      "ils": "ressaisiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ressaisi",
+      "tu": "auras ressaisi",
+      "il": "aura ressaisi",
+      "nous": "aurons ressaisi",
+      "vous": "aurez ressaisi",
+      "ils": "auront ressaisi"
+    },
+    "subjonctif_présent": {
+      "je": "ressaisisse",
+      "tu": "ressaisisses",
+      "il": "ressaisisse",
+      "nous": "ressaisissions",
+      "vous": "ressaisissiez",
+      "ils": "ressaisissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie ressaisi",
+      "tu": "aies ressaisi",
+      "il": "ait ressaisi",
+      "nous": "ayons ressaisi",
+      "vous": "ayez ressaisi",
+      "ils": "aient ressaisi"
+    },
+    "subjonctif_imparfait": {
+      "je": "ressaisisse",
+      "tu": "ressaisisses",
+      "il": "ressaisît",
+      "nous": "ressaisissions",
+      "vous": "ressaisissiez",
+      "ils": "ressaisissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ressaisi",
+      "tu": "eusses ressaisi",
+      "il": "eût ressaisi",
+      "nous": "eussions ressaisi",
+      "vous": "eussiez ressaisi",
+      "ils": "eussent ressaisi"
+    },
+    "conditionnel_présent": {
+      "je": "ressaisirais",
+      "tu": "ressaisirais",
+      "il": "ressaisirait",
+      "nous": "ressaisirions",
+      "vous": "ressaisiriez",
+      "ils": "ressaisiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ressaisi",
+      "tu": "aurais ressaisi",
+      "il": "aurait ressaisi",
+      "nous": "aurions ressaisi",
+      "vous": "auriez ressaisi",
+      "ils": "auraient ressaisi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ressaisi",
+      "tu": "eusses ressaisi",
+      "il": "eût ressaisi",
+      "nous": "eussions ressaisi",
+      "vous": "eussiez ressaisi",
+      "ils": "eussent ressaisi"
+    },
+    "translation": "zapanować",
+    "group": 2
+  },
+  {
+    "infinitive": "ressayer",
+    "présent": {
+      "je": "ressaie",
+      "tu": "ressaies",
+      "il": "ressaie",
+      "nous": "ressayons",
+      "vous": "ressayez",
+      "ils": "ressaient"
+    },
+    "passé_composé": {
+      "je": "ai ressayé",
+      "tu": "as ressayé",
+      "il": "a ressayé",
+      "nous": "avons ressayé",
+      "vous": "avez ressayé",
+      "ils": "ont ressayé"
+    },
+    "imparfait": {
+      "je": "ressayais",
+      "tu": "ressayais",
+      "il": "ressayait",
+      "nous": "ressayions",
+      "vous": "ressayiez",
+      "ils": "ressayaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ressayé",
+      "tu": "avais ressayé",
+      "il": "avait ressayé",
+      "nous": "avions ressayé",
+      "vous": "aviez ressayé",
+      "ils": "avaient ressayé"
+    },
+    "passé_simple": {
+      "je": "ressayai",
+      "tu": "ressayas",
+      "il": "ressaya",
+      "nous": "ressayâmes",
+      "vous": "ressayâtes",
+      "ils": "ressayèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus ressayé",
+      "tu": "eus ressayé",
+      "il": "eut ressayé",
+      "nous": "eûmes ressayé",
+      "vous": "eûtes ressayé",
+      "ils": "eurent ressayé"
+    },
+    "futur_simple": {
+      "je": "ressaierai",
+      "tu": "ressaieras",
+      "il": "ressaiera",
+      "nous": "ressaierons",
+      "vous": "ressaierez",
+      "ils": "ressaieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ressayé",
+      "tu": "auras ressayé",
+      "il": "aura ressayé",
+      "nous": "aurons ressayé",
+      "vous": "aurez ressayé",
+      "ils": "auront ressayé"
+    },
+    "subjonctif_présent": {
+      "je": "ressaie",
+      "tu": "ressaies",
+      "il": "ressaie",
+      "nous": "ressayions",
+      "vous": "ressayiez",
+      "ils": "ressaient"
+    },
+    "subjonctif_passé": {
+      "je": "aie ressayé",
+      "tu": "aies ressayé",
+      "il": "ait ressayé",
+      "nous": "ayons ressayé",
+      "vous": "ayez ressayé",
+      "ils": "aient ressayé"
+    },
+    "subjonctif_imparfait": {
+      "je": "ressayasse",
+      "tu": "ressayasses",
+      "il": "ressayât",
+      "nous": "ressayassions",
+      "vous": "ressayassiez",
+      "ils": "ressayassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ressayé",
+      "tu": "eusses ressayé",
+      "il": "eût ressayé",
+      "nous": "eussions ressayé",
+      "vous": "eussiez ressayé",
+      "ils": "eussent ressayé"
+    },
+    "conditionnel_présent": {
+      "je": "ressaierais",
+      "tu": "ressaierais",
+      "il": "ressaierait",
+      "nous": "ressaierions",
+      "vous": "ressaieriez",
+      "ils": "ressaieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ressayé",
+      "tu": "aurais ressayé",
+      "il": "aurait ressayé",
+      "nous": "aurions ressayé",
+      "vous": "auriez ressayé",
+      "ils": "auraient ressayé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ressayé",
+      "tu": "eusses ressayé",
+      "il": "eût ressayé",
+      "nous": "eussions ressayé",
+      "vous": "eussiez ressayé",
+      "ils": "eussent ressayé"
+    },
+    "translation": "mierzyć",
+    "group": 1
+  }
+]

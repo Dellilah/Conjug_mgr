@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "renchérir",
+    "présent": {
+      "je": "renchéris",
+      "tu": "renchéris",
+      "il": "renchérit",
+      "nous": "renchérissons",
+      "vous": "renchérissez",
+      "ils": "renchérissent"
+    },
+    "passé_composé": {
+      "je": "ai renchéri",
+      "tu": "as renchéri",
+      "il": "a renchéri",
+      "nous": "avons renchéri",
+      "vous": "avez renchéri",
+      "ils": "ont renchéri"
+    },
+    "imparfait": {
+      "je": "renchérissais",
+      "tu": "renchérissais",
+      "il": "renchérissait",
+      "nous": "renchérissions",
+      "vous": "renchérissiez",
+      "ils": "renchérissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais renchéri",
+      "tu": "avais renchéri",
+      "il": "avait renchéri",
+      "nous": "avions renchéri",
+      "vous": "aviez renchéri",
+      "ils": "avaient renchéri"
+    },
+    "passé_simple": {
+      "je": "renchéris",
+      "tu": "renchéris",
+      "il": "renchérit",
+      "nous": "renchérîmes",
+      "vous": "renchérîtes",
+      "ils": "renchérirent"
+    },
+    "passé_antérieur": {
+      "je": "eus renchéri",
+      "tu": "eus renchéri",
+      "il": "eut renchéri",
+      "nous": "eûmes renchéri",
+      "vous": "eûtes renchéri",
+      "ils": "eurent renchéri"
+    },
+    "futur_simple": {
+      "je": "renchérirai",
+      "tu": "renchériras",
+      "il": "renchérira",
+      "nous": "renchérirons",
+      "vous": "renchérirez",
+      "ils": "renchériront"
+    },
+    "futur_antérieur": {
+      "je": "aurai renchéri",
+      "tu": "auras renchéri",
+      "il": "aura renchéri",
+      "nous": "aurons renchéri",
+      "vous": "aurez renchéri",
+      "ils": "auront renchéri"
+    },
+    "subjonctif_présent": {
+      "je": "renchérisse",
+      "tu": "renchérisses",
+      "il": "renchérisse",
+      "nous": "renchérissions",
+      "vous": "renchérissiez",
+      "ils": "renchérissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie renchéri",
+      "tu": "aies renchéri",
+      "il": "ait renchéri",
+      "nous": "ayons renchéri",
+      "vous": "ayez renchéri",
+      "ils": "aient renchéri"
+    },
+    "subjonctif_imparfait": {
+      "je": "renchérisse",
+      "tu": "renchérisses",
+      "il": "renchérît",
+      "nous": "renchérissions",
+      "vous": "renchérissiez",
+      "ils": "renchérissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse renchéri",
+      "tu": "eusses renchéri",
+      "il": "eût renchéri",
+      "nous": "eussions renchéri",
+      "vous": "eussiez renchéri",
+      "ils": "eussent renchéri"
+    },
+    "conditionnel_présent": {
+      "je": "renchérirais",
+      "tu": "renchérirais",
+      "il": "renchérirait",
+      "nous": "renchéririons",
+      "vous": "renchéririez",
+      "ils": "renchériraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais renchéri",
+      "tu": "aurais renchéri",
+      "il": "aurait renchéri",
+      "nous": "aurions renchéri",
+      "vous": "auriez renchéri",
+      "ils": "auraient renchéri"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse renchéri",
+      "tu": "eusses renchéri",
+      "il": "eût renchéri",
+      "nous": "eussions renchéri",
+      "vous": "eussiez renchéri",
+      "ils": "eussent renchéri"
+    },
+    "translation": "przelicytować",
+    "group": 2
+  },
+  {
+    "infinitive": "rencontrer",
+    "présent": {
+      "je": "rencontre",
+      "tu": "rencontres",
+      "il": "rencontre",
+      "nous": "rencontrons",
+      "vous": "rencontrez",
+      "ils": "rencontrent"
+    },
+    "passé_composé": {
+      "je": "ai rencontré",
+      "tu": "as rencontré",
+      "il": "a rencontré",
+      "nous": "avons rencontré",
+      "vous": "avez rencontré",
+      "ils": "ont rencontré"
+    },
+    "imparfait": {
+      "je": "rencontrais",
+      "tu": "rencontrais",
+      "il": "rencontrait",
+      "nous": "rencontrions",
+      "vous": "rencontriez",
+      "ils": "rencontraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais rencontré",
+      "tu": "avais rencontré",
+      "il": "avait rencontré",
+      "nous": "avions rencontré",
+      "vous": "aviez rencontré",
+      "ils": "avaient rencontré"
+    },
+    "passé_simple": {
+      "je": "rencontrai",
+      "tu": "rencontras",
+      "il": "rencontra",
+      "nous": "rencontrâmes",
+      "vous": "rencontrâtes",
+      "ils": "rencontrèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus rencontré",
+      "tu": "eus rencontré",
+      "il": "eut rencontré",
+      "nous": "eûmes rencontré",
+      "vous": "eûtes rencontré",
+      "ils": "eurent rencontré"
+    },
+    "futur_simple": {
+      "je": "rencontrerai",
+      "tu": "rencontreras",
+      "il": "rencontrera",
+      "nous": "rencontrerons",
+      "vous": "rencontrerez",
+      "ils": "rencontreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai rencontré",
+      "tu": "auras rencontré",
+      "il": "aura rencontré",
+      "nous": "aurons rencontré",
+      "vous": "aurez rencontré",
+      "ils": "auront rencontré"
+    },
+    "subjonctif_présent": {
+      "je": "rencontre",
+      "tu": "rencontres",
+      "il": "rencontre",
+      "nous": "rencontrions",
+      "vous": "rencontriez",
+      "ils": "rencontrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie rencontré",
+      "tu": "aies rencontré",
+      "il": "ait rencontré",
+      "nous": "ayons rencontré",
+      "vous": "ayez rencontré",
+      "ils": "aient rencontré"
+    },
+    "subjonctif_imparfait": {
+      "je": "rencontrasse",
+      "tu": "rencontrasses",
+      "il": "rencontrât",
+      "nous": "rencontrassions",
+      "vous": "rencontrassiez",
+      "ils": "rencontrassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse rencontré",
+      "tu": "eusses rencontré",
+      "il": "eût rencontré",
+      "nous": "eussions rencontré",
+      "vous": "eussiez rencontré",
+      "ils": "eussent rencontré"
+    },
+    "conditionnel_présent": {
+      "je": "rencontrerais",
+      "tu": "rencontrerais",
+      "il": "rencontrerait",
+      "nous": "rencontrerions",
+      "vous": "rencontreriez",
+      "ils": "rencontreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais rencontré",
+      "tu": "aurais rencontré",
+      "il": "aurait rencontré",
+      "nous": "aurions rencontré",
+      "vous": "auriez rencontré",
+      "ils": "auraient rencontré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse rencontré",
+      "tu": "eusses rencontré",
+      "il": "eût rencontré",
+      "nous": "eussions rencontré",
+      "vous": "eussiez rencontré",
+      "ils": "eussent rencontré"
+    },
+    "translation": "spotykać",
+    "group": 1
+  },
+  {
+    "infinitive": "rendormir",
+    "présent": {
+      "je": "rendors",
+      "tu": "rendors",
+      "il": "rendort",
+      "nous": "rendormons",
+      "vous": "rendormez",
+      "ils": "rendorment"
+    },
+    "passé_composé": {
+      "je": "ai rendormi",
+      "tu": "as rendormi",
+      "il": "a rendormi",
+      "nous": "avons rendormi",
+      "vous": "avez rendormi",
+      "ils": "ont rendormi"
+    },
+    "imparfait": {
+      "je": "rendormais",
+      "tu": "rendormais",
+      "il": "rendormait",
+      "nous": "rendormions",
+      "vous": "rendormiez",
+      "ils": "rendormaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais rendormi",
+      "tu": "avais rendormi",
+      "il": "avait rendormi",
+      "nous": "avions rendormi",
+      "vous": "aviez rendormi",
+      "ils": "avaient rendormi"
+    },
+    "passé_simple": {
+      "je": "rendormis",
+      "tu": "rendormis",
+      "il": "rendormit",
+      "nous": "rendormîmes",
+      "vous": "rendormîtes",
+      "ils": "rendormirent"
+    },
+    "passé_antérieur": {
+      "je": "eus rendormi",
+      "tu": "eus rendormi",
+      "il": "eut rendormi",
+      "nous": "eûmes rendormi",
+      "vous": "eûtes rendormi",
+      "ils": "eurent rendormi"
+    },
+    "futur_simple": {
+      "je": "rendormirai",
+      "tu": "rendormiras",
+      "il": "rendormira",
+      "nous": "rendormirons",
+      "vous": "rendormirez",
+      "ils": "rendormiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai rendormi",
+      "tu": "auras rendormi",
+      "il": "aura rendormi",
+      "nous": "aurons rendormi",
+      "vous": "aurez rendormi",
+      "ils": "auront rendormi"
+    },
+    "subjonctif_présent": {
+      "je": "rendorme",
+      "tu": "rendormes",
+      "il": "rendorme",
+      "nous": "rendormions",
+      "vous": "rendormiez",
+      "ils": "rendorment"
+    },
+    "subjonctif_passé": {
+      "je": "aie rendormi",
+      "tu": "aies rendormi",
+      "il": "ait rendormi",
+      "nous": "ayons rendormi",
+      "vous": "ayez rendormi",
+      "ils": "aient rendormi"
+    },
+    "subjonctif_imparfait": {
+      "je": "rendormisse",
+      "tu": "rendormisses",
+      "il": "rendormît",
+      "nous": "rendormissions",
+      "vous": "rendormissiez",
+      "ils": "rendormissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse rendormi",
+      "tu": "eusses rendormi",
+      "il": "eût rendormi",
+      "nous": "eussions rendormi",
+      "vous": "eussiez rendormi",
+      "ils": "eussent rendormi"
+    },
+    "conditionnel_présent": {
+      "je": "rendormirais",
+      "tu": "rendormirais",
+      "il": "rendormirait",
+      "nous": "rendormirions",
+      "vous": "rendormiriez",
+      "ils": "rendormiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais rendormi",
+      "tu": "aurais rendormi",
+      "il": "aurait rendormi",
+      "nous": "aurions rendormi",
+      "vous": "auriez rendormi",
+      "ils": "auraient rendormi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse rendormi",
+      "tu": "eusses rendormi",
+      "il": "eût rendormi",
+      "nous": "eussions rendormi",
+      "vous": "eussiez rendormi",
+      "ils": "eussent rendormi"
+    },
+    "translation": "usypiać",
+    "group": 3
+  },
+  {
+    "infinitive": "rendre",
+    "présent": {
+      "je": "rends",
+      "tu": "rends",
+      "il": "rend",
+      "nous": "rendons",
+      "vous": "rendez",
+      "ils": "rendent"
+    },
+    "passé_composé": {
+      "je": "ai rendu",
+      "tu": "as rendu",
+      "il": "a rendu",
+      "nous": "avons rendu",
+      "vous": "avez rendu",
+      "ils": "ont rendu"
+    },
+    "imparfait": {
+      "je": "rendais",
+      "tu": "rendais",
+      "il": "rendait",
+      "nous": "rendions",
+      "vous": "rendiez",
+      "ils": "rendaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais rendu",
+      "tu": "avais rendu",
+      "il": "avait rendu",
+      "nous": "avions rendu",
+      "vous": "aviez rendu",
+      "ils": "avaient rendu"
+    },
+    "passé_simple": {
+      "je": "rendis",
+      "tu": "rendis",
+      "il": "rendit",
+      "nous": "rendîmes",
+      "vous": "rendîtes",
+      "ils": "rendirent"
+    },
+    "passé_antérieur": {
+      "je": "eus rendu",
+      "tu": "eus rendu",
+      "il": "eut rendu",
+      "nous": "eûmes rendu",
+      "vous": "eûtes rendu",
+      "ils": "eurent rendu"
+    },
+    "futur_simple": {
+      "je": "rendrai",
+      "tu": "rendras",
+      "il": "rendra",
+      "nous": "rendrons",
+      "vous": "rendrez",
+      "ils": "rendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai rendu",
+      "tu": "auras rendu",
+      "il": "aura rendu",
+      "nous": "aurons rendu",
+      "vous": "aurez rendu",
+      "ils": "auront rendu"
+    },
+    "subjonctif_présent": {
+      "je": "rende",
+      "tu": "rendes",
+      "il": "rende",
+      "nous": "rendions",
+      "vous": "rendiez",
+      "ils": "rendent"
+    },
+    "subjonctif_passé": {
+      "je": "aie rendu",
+      "tu": "aies rendu",
+      "il": "ait rendu",
+      "nous": "ayons rendu",
+      "vous": "ayez rendu",
+      "ils": "aient rendu"
+    },
+    "subjonctif_imparfait": {
+      "je": "rendisse",
+      "tu": "rendisses",
+      "il": "rendît",
+      "nous": "rendissions",
+      "vous": "rendissiez",
+      "ils": "rendissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse rendu",
+      "tu": "eusses rendu",
+      "il": "eût rendu",
+      "nous": "eussions rendu",
+      "vous": "eussiez rendu",
+      "ils": "eussent rendu"
+    },
+    "conditionnel_présent": {
+      "je": "rendrais",
+      "tu": "rendrais",
+      "il": "rendrait",
+      "nous": "rendrions",
+      "vous": "rendriez",
+      "ils": "rendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais rendu",
+      "tu": "aurais rendu",
+      "il": "aurait rendu",
+      "nous": "aurions rendu",
+      "vous": "auriez rendu",
+      "ils": "auraient rendu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse rendu",
+      "tu": "eusses rendu",
+      "il": "eût rendu",
+      "nous": "eussions rendu",
+      "vous": "eussiez rendu",
+      "ils": "eussent rendu"
+    },
+    "translation": "zwracać",
+    "group": 3
+  },
+  {
+    "infinitive": "renforcer",
+    "présent": {
+      "je": "renforce",
+      "tu": "renforces",
+      "il": "renforce",
+      "nous": "renforçons",
+      "vous": "renforcez",
+      "ils": "renforcent"
+    },
+    "passé_composé": {
+      "je": "ai renforcé",
+      "tu": "as renforcé",
+      "il": "a renforcé",
+      "nous": "avons renforcé",
+      "vous": "avez renforcé",
+      "ils": "ont renforcé"
+    },
+    "imparfait": {
+      "je": "renforçais",
+      "tu": "renforçais",
+      "il": "renforçait",
+      "nous": "renforcions",
+      "vous": "renforciez",
+      "ils": "renforçaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais renforcé",
+      "tu": "avais renforcé",
+      "il": "avait renforcé",
+      "nous": "avions renforcé",
+      "vous": "aviez renforcé",
+      "ils": "avaient renforcé"
+    },
+    "passé_simple": {
+      "je": "renforçai",
+      "tu": "renforças",
+      "il": "renforça",
+      "nous": "renforçâmes",
+      "vous": "renforçâtes",
+      "ils": "renforcèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus renforcé",
+      "tu": "eus renforcé",
+      "il": "eut renforcé",
+      "nous": "eûmes renforcé",
+      "vous": "eûtes renforcé",
+      "ils": "eurent renforcé"
+    },
+    "futur_simple": {
+      "je": "renforcerai",
+      "tu": "renforceras",
+      "il": "renforcera",
+      "nous": "renforcerons",
+      "vous": "renforcerez",
+      "ils": "renforceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai renforcé",
+      "tu": "auras renforcé",
+      "il": "aura renforcé",
+      "nous": "aurons renforcé",
+      "vous": "aurez renforcé",
+      "ils": "auront renforcé"
+    },
+    "subjonctif_présent": {
+      "je": "renforce",
+      "tu": "renforces",
+      "il": "renforce",
+      "nous": "renforcions",
+      "vous": "renforciez",
+      "ils": "renforcent"
+    },
+    "subjonctif_passé": {
+      "je": "aie renforcé",
+      "tu": "aies renforcé",
+      "il": "ait renforcé",
+      "nous": "ayons renforcé",
+      "vous": "ayez renforcé",
+      "ils": "aient renforcé"
+    },
+    "subjonctif_imparfait": {
+      "je": "renforçasse",
+      "tu": "renforçasses",
+      "il": "renforçât",
+      "nous": "renforçassions",
+      "vous": "renforçassiez",
+      "ils": "renforçassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse renforcé",
+      "tu": "eusses renforcé",
+      "il": "eût renforcé",
+      "nous": "eussions renforcé",
+      "vous": "eussiez renforcé",
+      "ils": "eussent renforcé"
+    },
+    "conditionnel_présent": {
+      "je": "renforcerais",
+      "tu": "renforcerais",
+      "il": "renforcerait",
+      "nous": "renforcerions",
+      "vous": "renforceriez",
+      "ils": "renforceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais renforcé",
+      "tu": "aurais renforcé",
+      "il": "aurait renforcé",
+      "nous": "aurions renforcé",
+      "vous": "auriez renforcé",
+      "ils": "auraient renforcé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse renforcé",
+      "tu": "eusses renforcé",
+      "il": "eût renforcé",
+      "nous": "eussions renforcé",
+      "vous": "eussiez renforcé",
+      "ils": "eussent renforcé"
+    },
+    "translation": "renforcer",
+    "group": 1
+  },
+  {
+    "infinitive": "renier",
+    "présent": {
+      "je": "renie",
+      "tu": "renies",
+      "il": "renie",
+      "nous": "renions",
+      "vous": "reniez",
+      "ils": "renient"
+    },
+    "passé_composé": {
+      "je": "ai renié",
+      "tu": "as renié",
+      "il": "a renié",
+      "nous": "avons renié",
+      "vous": "avez renié",
+      "ils": "ont renié"
+    },
+    "imparfait": {
+      "je": "reniais",
+      "tu": "reniais",
+      "il": "reniait",
+      "nous": "reniions",
+      "vous": "reniiez",
+      "ils": "reniaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais renié",
+      "tu": "avais renié",
+      "il": "avait renié",
+      "nous": "avions renié",
+      "vous": "aviez renié",
+      "ils": "avaient renié"
+    },
+    "passé_simple": {
+      "je": "reniai",
+      "tu": "renias",
+      "il": "renia",
+      "nous": "reniâmes",
+      "vous": "reniâtes",
+      "ils": "renièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus renié",
+      "tu": "eus renié",
+      "il": "eut renié",
+      "nous": "eûmes renié",
+      "vous": "eûtes renié",
+      "ils": "eurent renié"
+    },
+    "futur_simple": {
+      "je": "renierai",
+      "tu": "renieras",
+      "il": "reniera",
+      "nous": "renierons",
+      "vous": "renierez",
+      "ils": "renieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai renié",
+      "tu": "auras renié",
+      "il": "aura renié",
+      "nous": "aurons renié",
+      "vous": "aurez renié",
+      "ils": "auront renié"
+    },
+    "subjonctif_présent": {
+      "je": "renie",
+      "tu": "renies",
+      "il": "renie",
+      "nous": "reniions",
+      "vous": "reniiez",
+      "ils": "renient"
+    },
+    "subjonctif_passé": {
+      "je": "aie renié",
+      "tu": "aies renié",
+      "il": "ait renié",
+      "nous": "ayons renié",
+      "vous": "ayez renié",
+      "ils": "aient renié"
+    },
+    "subjonctif_imparfait": {
+      "je": "reniasse",
+      "tu": "reniasses",
+      "il": "reniât",
+      "nous": "reniassions",
+      "vous": "reniassiez",
+      "ils": "reniassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse renié",
+      "tu": "eusses renié",
+      "il": "eût renié",
+      "nous": "eussions renié",
+      "vous": "eussiez renié",
+      "ils": "eussent renié"
+    },
+    "conditionnel_présent": {
+      "je": "renierais",
+      "tu": "renierais",
+      "il": "renierait",
+      "nous": "renierions",
+      "vous": "renieriez",
+      "ils": "renieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais renié",
+      "tu": "aurais renié",
+      "il": "aurait renié",
+      "nous": "aurions renié",
+      "vous": "auriez renié",
+      "ils": "auraient renié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse renié",
+      "tu": "eusses renié",
+      "il": "eût renié",
+      "nous": "eussions renié",
+      "vous": "eussiez renié",
+      "ils": "eussent renié"
+    },
+    "translation": "wypierać",
+    "group": 1
+  },
+  {
+    "infinitive": "renommer",
+    "présent": {
+      "je": "renomme",
+      "tu": "renommes",
+      "il": "renomme",
+      "nous": "renommons",
+      "vous": "renommez",
+      "ils": "renomment"
+    },
+    "passé_composé": {
+      "je": "ai renommé",
+      "tu": "as renommé",
+      "il": "a renommé",
+      "nous": "avons renommé",
+      "vous": "avez renommé",
+      "ils": "ont renommé"
+    },
+    "imparfait": {
+      "je": "renommais",
+      "tu": "renommais",
+      "il": "renommait",
+      "nous": "renommions",
+      "vous": "renommiez",
+      "ils": "renommaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais renommé",
+      "tu": "avais renommé",
+      "il": "avait renommé",
+      "nous": "avions renommé",
+      "vous": "aviez renommé",
+      "ils": "avaient renommé"
+    },
+    "passé_simple": {
+      "je": "renommai",
+      "tu": "renommas",
+      "il": "renomma",
+      "nous": "renommâmes",
+      "vous": "renommâtes",
+      "ils": "renommèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus renommé",
+      "tu": "eus renommé",
+      "il": "eut renommé",
+      "nous": "eûmes renommé",
+      "vous": "eûtes renommé",
+      "ils": "eurent renommé"
+    },
+    "futur_simple": {
+      "je": "renommerai",
+      "tu": "renommeras",
+      "il": "renommera",
+      "nous": "renommerons",
+      "vous": "renommerez",
+      "ils": "renommeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai renommé",
+      "tu": "auras renommé",
+      "il": "aura renommé",
+      "nous": "aurons renommé",
+      "vous": "aurez renommé",
+      "ils": "auront renommé"
+    },
+    "subjonctif_présent": {
+      "je": "renomme",
+      "tu": "renommes",
+      "il": "renomme",
+      "nous": "renommions",
+      "vous": "renommiez",
+      "ils": "renomment"
+    },
+    "subjonctif_passé": {
+      "je": "aie renommé",
+      "tu": "aies renommé",
+      "il": "ait renommé",
+      "nous": "ayons renommé",
+      "vous": "ayez renommé",
+      "ils": "aient renommé"
+    },
+    "subjonctif_imparfait": {
+      "je": "renommasse",
+      "tu": "renommasses",
+      "il": "renommât",
+      "nous": "renommassions",
+      "vous": "renommassiez",
+      "ils": "renommassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse renommé",
+      "tu": "eusses renommé",
+      "il": "eût renommé",
+      "nous": "eussions renommé",
+      "vous": "eussiez renommé",
+      "ils": "eussent renommé"
+    },
+    "conditionnel_présent": {
+      "je": "renommerais",
+      "tu": "renommerais",
+      "il": "renommerait",
+      "nous": "renommerions",
+      "vous": "renommeriez",
+      "ils": "renommeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais renommé",
+      "tu": "aurais renommé",
+      "il": "aurait renommé",
+      "nous": "aurions renommé",
+      "vous": "auriez renommé",
+      "ils": "auraient renommé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse renommé",
+      "tu": "eusses renommé",
+      "il": "eût renommé",
+      "nous": "eussions renommé",
+      "vous": "eussiez renommé",
+      "ils": "eussent renommé"
+    },
+    "translation": "renoma",
+    "group": 1
+  },
+  {
+    "infinitive": "renoncer",
+    "présent": {
+      "je": "renonce",
+      "tu": "renonces",
+      "il": "renonce",
+      "nous": "renonçons",
+      "vous": "renoncez",
+      "ils": "renoncent"
+    },
+    "passé_composé": {
+      "je": "ai renoncé",
+      "tu": "as renoncé",
+      "il": "a renoncé",
+      "nous": "avons renoncé",
+      "vous": "avez renoncé",
+      "ils": "ont renoncé"
+    },
+    "imparfait": {
+      "je": "renonçais",
+      "tu": "renonçais",
+      "il": "renonçait",
+      "nous": "renoncions",
+      "vous": "renonciez",
+      "ils": "renonçaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais renoncé",
+      "tu": "avais renoncé",
+      "il": "avait renoncé",
+      "nous": "avions renoncé",
+      "vous": "aviez renoncé",
+      "ils": "avaient renoncé"
+    },
+    "passé_simple": {
+      "je": "renonçai",
+      "tu": "renonças",
+      "il": "renonça",
+      "nous": "renonçâmes",
+      "vous": "renonçâtes",
+      "ils": "renoncèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus renoncé",
+      "tu": "eus renoncé",
+      "il": "eut renoncé",
+      "nous": "eûmes renoncé",
+      "vous": "eûtes renoncé",
+      "ils": "eurent renoncé"
+    },
+    "futur_simple": {
+      "je": "renoncerai",
+      "tu": "renonceras",
+      "il": "renoncera",
+      "nous": "renoncerons",
+      "vous": "renoncerez",
+      "ils": "renonceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai renoncé",
+      "tu": "auras renoncé",
+      "il": "aura renoncé",
+      "nous": "aurons renoncé",
+      "vous": "aurez renoncé",
+      "ils": "auront renoncé"
+    },
+    "subjonctif_présent": {
+      "je": "renonce",
+      "tu": "renonces",
+      "il": "renonce",
+      "nous": "renoncions",
+      "vous": "renonciez",
+      "ils": "renoncent"
+    },
+    "subjonctif_passé": {
+      "je": "aie renoncé",
+      "tu": "aies renoncé",
+      "il": "ait renoncé",
+      "nous": "ayons renoncé",
+      "vous": "ayez renoncé",
+      "ils": "aient renoncé"
+    },
+    "subjonctif_imparfait": {
+      "je": "renonçasse",
+      "tu": "renonçasses",
+      "il": "renonçât",
+      "nous": "renonçassions",
+      "vous": "renonçassiez",
+      "ils": "renonçassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse renoncé",
+      "tu": "eusses renoncé",
+      "il": "eût renoncé",
+      "nous": "eussions renoncé",
+      "vous": "eussiez renoncé",
+      "ils": "eussent renoncé"
+    },
+    "conditionnel_présent": {
+      "je": "renoncerais",
+      "tu": "renoncerais",
+      "il": "renoncerait",
+      "nous": "renoncerions",
+      "vous": "renonceriez",
+      "ils": "renonceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais renoncé",
+      "tu": "aurais renoncé",
+      "il": "aurait renoncé",
+      "nous": "aurions renoncé",
+      "vous": "auriez renoncé",
+      "ils": "auraient renoncé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse renoncé",
+      "tu": "eusses renoncé",
+      "il": "eût renoncé",
+      "nous": "eussions renoncé",
+      "vous": "eussiez renoncé",
+      "ils": "eussent renoncé"
+    },
+    "translation": "rezygnować",
+    "group": 1
+  },
+  {
+    "infinitive": "renouveler",
+    "présent": {
+      "je": "renouvelle",
+      "tu": "renouvelles",
+      "il": "renouvelle",
+      "nous": "renouvelons",
+      "vous": "renouvelez",
+      "ils": "renouvellent"
+    },
+    "passé_composé": {
+      "je": "ai renouvelé",
+      "tu": "as renouvelé",
+      "il": "a renouvelé",
+      "nous": "avons renouvelé",
+      "vous": "avez renouvelé",
+      "ils": "ont renouvelé"
+    },
+    "imparfait": {
+      "je": "renouvelais",
+      "tu": "renouvelais",
+      "il": "renouvelait",
+      "nous": "renouvelions",
+      "vous": "renouveliez",
+      "ils": "renouvelaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais renouvelé",
+      "tu": "avais renouvelé",
+      "il": "avait renouvelé",
+      "nous": "avions renouvelé",
+      "vous": "aviez renouvelé",
+      "ils": "avaient renouvelé"
+    },
+    "passé_simple": {
+      "je": "renouvelai",
+      "tu": "renouvelas",
+      "il": "renouvela",
+      "nous": "renouvelâmes",
+      "vous": "renouvelâtes",
+      "ils": "renouvelèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus renouvelé",
+      "tu": "eus renouvelé",
+      "il": "eut renouvelé",
+      "nous": "eûmes renouvelé",
+      "vous": "eûtes renouvelé",
+      "ils": "eurent renouvelé"
+    },
+    "futur_simple": {
+      "je": "renouvellerai",
+      "tu": "renouvelleras",
+      "il": "renouvellera",
+      "nous": "renouvellerons",
+      "vous": "renouvellerez",
+      "ils": "renouvelleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai renouvelé",
+      "tu": "auras renouvelé",
+      "il": "aura renouvelé",
+      "nous": "aurons renouvelé",
+      "vous": "aurez renouvelé",
+      "ils": "auront renouvelé"
+    },
+    "subjonctif_présent": {
+      "je": "renouvelle",
+      "tu": "renouvelles",
+      "il": "renouvelle",
+      "nous": "renouvelions",
+      "vous": "renouveliez",
+      "ils": "renouvellent"
+    },
+    "subjonctif_passé": {
+      "je": "aie renouvelé",
+      "tu": "aies renouvelé",
+      "il": "ait renouvelé",
+      "nous": "ayons renouvelé",
+      "vous": "ayez renouvelé",
+      "ils": "aient renouvelé"
+    },
+    "subjonctif_imparfait": {
+      "je": "renouvelasse",
+      "tu": "renouvelasses",
+      "il": "renouvelât",
+      "nous": "renouvelassions",
+      "vous": "renouvelassiez",
+      "ils": "renouvelassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse renouvelé",
+      "tu": "eusses renouvelé",
+      "il": "eût renouvelé",
+      "nous": "eussions renouvelé",
+      "vous": "eussiez renouvelé",
+      "ils": "eussent renouvelé"
+    },
+    "conditionnel_présent": {
+      "je": "renouvellerais",
+      "tu": "renouvellerais",
+      "il": "renouvellerait",
+      "nous": "renouvellerions",
+      "vous": "renouvelleriez",
+      "ils": "renouvelleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais renouvelé",
+      "tu": "aurais renouvelé",
+      "il": "aurait renouvelé",
+      "nous": "aurions renouvelé",
+      "vous": "auriez renouvelé",
+      "ils": "auraient renouvelé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse renouvelé",
+      "tu": "eusses renouvelé",
+      "il": "eût renouvelé",
+      "nous": "eussions renouvelé",
+      "vous": "eussiez renouvelé",
+      "ils": "eussent renouvelé"
+    },
+    "translation": "wymieniać",
+    "group": 1
+  },
+  {
+    "infinitive": "renseigner",
+    "présent": {
+      "je": "renseigne",
+      "tu": "renseignes",
+      "il": "renseigne",
+      "nous": "renseignons",
+      "vous": "renseignez",
+      "ils": "renseignent"
+    },
+    "passé_composé": {
+      "je": "ai renseigné",
+      "tu": "as renseigné",
+      "il": "a renseigné",
+      "nous": "avons renseigné",
+      "vous": "avez renseigné",
+      "ils": "ont renseigné"
+    },
+    "imparfait": {
+      "je": "renseignais",
+      "tu": "renseignais",
+      "il": "renseignait",
+      "nous": "renseignions",
+      "vous": "renseigniez",
+      "ils": "renseignaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais renseigné",
+      "tu": "avais renseigné",
+      "il": "avait renseigné",
+      "nous": "avions renseigné",
+      "vous": "aviez renseigné",
+      "ils": "avaient renseigné"
+    },
+    "passé_simple": {
+      "je": "renseignai",
+      "tu": "renseignas",
+      "il": "renseigna",
+      "nous": "renseignâmes",
+      "vous": "renseignâtes",
+      "ils": "renseignèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus renseigné",
+      "tu": "eus renseigné",
+      "il": "eut renseigné",
+      "nous": "eûmes renseigné",
+      "vous": "eûtes renseigné",
+      "ils": "eurent renseigné"
+    },
+    "futur_simple": {
+      "je": "renseignerai",
+      "tu": "renseigneras",
+      "il": "renseignera",
+      "nous": "renseignerons",
+      "vous": "renseignerez",
+      "ils": "renseigneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai renseigné",
+      "tu": "auras renseigné",
+      "il": "aura renseigné",
+      "nous": "aurons renseigné",
+      "vous": "aurez renseigné",
+      "ils": "auront renseigné"
+    },
+    "subjonctif_présent": {
+      "je": "renseigne",
+      "tu": "renseignes",
+      "il": "renseigne",
+      "nous": "renseignions",
+      "vous": "renseigniez",
+      "ils": "renseignent"
+    },
+    "subjonctif_passé": {
+      "je": "aie renseigné",
+      "tu": "aies renseigné",
+      "il": "ait renseigné",
+      "nous": "ayons renseigné",
+      "vous": "ayez renseigné",
+      "ils": "aient renseigné"
+    },
+    "subjonctif_imparfait": {
+      "je": "renseignasse",
+      "tu": "renseignasses",
+      "il": "renseignât",
+      "nous": "renseignassions",
+      "vous": "renseignassiez",
+      "ils": "renseignassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse renseigné",
+      "tu": "eusses renseigné",
+      "il": "eût renseigné",
+      "nous": "eussions renseigné",
+      "vous": "eussiez renseigné",
+      "ils": "eussent renseigné"
+    },
+    "conditionnel_présent": {
+      "je": "renseignerais",
+      "tu": "renseignerais",
+      "il": "renseignerait",
+      "nous": "renseignerions",
+      "vous": "renseigneriez",
+      "ils": "renseigneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais renseigné",
+      "tu": "aurais renseigné",
+      "il": "aurait renseigné",
+      "nous": "aurions renseigné",
+      "vous": "auriez renseigné",
+      "ils": "auraient renseigné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse renseigné",
+      "tu": "eusses renseigné",
+      "il": "eût renseigné",
+      "nous": "eussions renseigné",
+      "vous": "eussiez renseigné",
+      "ils": "eussent renseigné"
+    },
+    "translation": "informować",
+    "group": 1
+  }
+]

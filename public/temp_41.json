@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "compiler",
+    "présent": {
+      "je": "compile",
+      "tu": "compiles",
+      "il": "compile",
+      "nous": "compilons",
+      "vous": "compilez",
+      "ils": "compilent"
+    },
+    "passé_composé": {
+      "je": "ai compilé",
+      "tu": "as compilé",
+      "il": "a compilé",
+      "nous": "avons compilé",
+      "vous": "avez compilé",
+      "ils": "ont compilé"
+    },
+    "imparfait": {
+      "je": "compilais",
+      "tu": "compilais",
+      "il": "compilait",
+      "nous": "compilions",
+      "vous": "compiliez",
+      "ils": "compilaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais compilé",
+      "tu": "avais compilé",
+      "il": "avait compilé",
+      "nous": "avions compilé",
+      "vous": "aviez compilé",
+      "ils": "avaient compilé"
+    },
+    "passé_simple": {
+      "je": "compilai",
+      "tu": "compilas",
+      "il": "compila",
+      "nous": "compilâmes",
+      "vous": "compilâtes",
+      "ils": "compilèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus compilé",
+      "tu": "eus compilé",
+      "il": "eut compilé",
+      "nous": "eûmes compilé",
+      "vous": "eûtes compilé",
+      "ils": "eurent compilé"
+    },
+    "futur_simple": {
+      "je": "compilerai",
+      "tu": "compileras",
+      "il": "compilera",
+      "nous": "compilerons",
+      "vous": "compilerez",
+      "ils": "compileront"
+    },
+    "futur_antérieur": {
+      "je": "aurai compilé",
+      "tu": "auras compilé",
+      "il": "aura compilé",
+      "nous": "aurons compilé",
+      "vous": "aurez compilé",
+      "ils": "auront compilé"
+    },
+    "subjonctif_présent": {
+      "je": "compile",
+      "tu": "compiles",
+      "il": "compile",
+      "nous": "compilions",
+      "vous": "compiliez",
+      "ils": "compilent"
+    },
+    "subjonctif_passé": {
+      "je": "aie compilé",
+      "tu": "aies compilé",
+      "il": "ait compilé",
+      "nous": "ayons compilé",
+      "vous": "ayez compilé",
+      "ils": "aient compilé"
+    },
+    "subjonctif_imparfait": {
+      "je": "compilasse",
+      "tu": "compilasses",
+      "il": "compilât",
+      "nous": "compilassions",
+      "vous": "compilassiez",
+      "ils": "compilassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse compilé",
+      "tu": "eusses compilé",
+      "il": "eût compilé",
+      "nous": "eussions compilé",
+      "vous": "eussiez compilé",
+      "ils": "eussent compilé"
+    },
+    "conditionnel_présent": {
+      "je": "compilerais",
+      "tu": "compilerais",
+      "il": "compilerait",
+      "nous": "compilerions",
+      "vous": "compileriez",
+      "ils": "compileraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais compilé",
+      "tu": "aurais compilé",
+      "il": "aurait compilé",
+      "nous": "aurions compilé",
+      "vous": "auriez compilé",
+      "ils": "auraient compilé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse compilé",
+      "tu": "eusses compilé",
+      "il": "eût compilé",
+      "nous": "eussions compilé",
+      "vous": "eussiez compilé",
+      "ils": "eussent compilé"
+    },
+    "translation": "kompilować",
+    "group": 1
+  },
+  {
+    "infinitive": "complaire",
+    "présent": {
+      "je": "complais",
+      "tu": "complais",
+      "il": "complaît",
+      "nous": "complaisons",
+      "vous": "complaisez",
+      "ils": "complaisent"
+    },
+    "passé_composé": {
+      "je": "ai complu",
+      "tu": "as complu",
+      "il": "a complu",
+      "nous": "avons complu",
+      "vous": "avez complu",
+      "ils": "ont complu"
+    },
+    "imparfait": {
+      "je": "complaisais",
+      "tu": "complaisais",
+      "il": "complaisait",
+      "nous": "complaisions",
+      "vous": "complaisiez",
+      "ils": "complaisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais complu",
+      "tu": "avais complu",
+      "il": "avait complu",
+      "nous": "avions complu",
+      "vous": "aviez complu",
+      "ils": "avaient complu"
+    },
+    "passé_simple": {
+      "je": "complus",
+      "tu": "complus",
+      "il": "complut",
+      "nous": "complûmes",
+      "vous": "complûtes",
+      "ils": "complurent"
+    },
+    "passé_antérieur": {
+      "je": "eus complu",
+      "tu": "eus complu",
+      "il": "eut complu",
+      "nous": "eûmes complu",
+      "vous": "eûtes complu",
+      "ils": "eurent complu"
+    },
+    "futur_simple": {
+      "je": "complairai",
+      "tu": "complairas",
+      "il": "complaira",
+      "nous": "complairons",
+      "vous": "complairez",
+      "ils": "complairont"
+    },
+    "futur_antérieur": {
+      "je": "aurai complu",
+      "tu": "auras complu",
+      "il": "aura complu",
+      "nous": "aurons complu",
+      "vous": "aurez complu",
+      "ils": "auront complu"
+    },
+    "subjonctif_présent": {
+      "je": "complaise",
+      "tu": "complaises",
+      "il": "complaise",
+      "nous": "complaisions",
+      "vous": "complaisiez",
+      "ils": "complaisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie complu",
+      "tu": "aies complu",
+      "il": "ait complu",
+      "nous": "ayons complu",
+      "vous": "ayez complu",
+      "ils": "aient complu"
+    },
+    "subjonctif_imparfait": {
+      "je": "complusse",
+      "tu": "complusses",
+      "il": "complût",
+      "nous": "complussions",
+      "vous": "complussiez",
+      "ils": "complussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse complu",
+      "tu": "eusses complu",
+      "il": "eût complu",
+      "nous": "eussions complu",
+      "vous": "eussiez complu",
+      "ils": "eussent complu"
+    },
+    "conditionnel_présent": {
+      "je": "complairais",
+      "tu": "complairais",
+      "il": "complairait",
+      "nous": "complairions",
+      "vous": "complairiez",
+      "ils": "complairaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais complu",
+      "tu": "aurais complu",
+      "il": "aurait complu",
+      "nous": "aurions complu",
+      "vous": "auriez complu",
+      "ils": "auraient complu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse complu",
+      "tu": "eusses complu",
+      "il": "eût complu",
+      "nous": "eussions complu",
+      "vous": "eussiez complu",
+      "ils": "eussent complu"
+    },
+    "translation": "skarga",
+    "group": 3
+  },
+  {
+    "infinitive": "compléter",
+    "présent": {
+      "je": "complète",
+      "tu": "complètes",
+      "il": "complète",
+      "nous": "complétons",
+      "vous": "complétez",
+      "ils": "complètent"
+    },
+    "passé_composé": {
+      "je": "ai complété",
+      "tu": "as complété",
+      "il": "a complété",
+      "nous": "avons complété",
+      "vous": "avez complété",
+      "ils": "ont complété"
+    },
+    "imparfait": {
+      "je": "complétais",
+      "tu": "complétais",
+      "il": "complétait",
+      "nous": "complétions",
+      "vous": "complétiez",
+      "ils": "complétaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais complété",
+      "tu": "avais complété",
+      "il": "avait complété",
+      "nous": "avions complété",
+      "vous": "aviez complété",
+      "ils": "avaient complété"
+    },
+    "passé_simple": {
+      "je": "complétai",
+      "tu": "complétas",
+      "il": "compléta",
+      "nous": "complétâmes",
+      "vous": "complétâtes",
+      "ils": "complétèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus complété",
+      "tu": "eus complété",
+      "il": "eut complété",
+      "nous": "eûmes complété",
+      "vous": "eûtes complété",
+      "ils": "eurent complété"
+    },
+    "futur_simple": {
+      "je": "compléterai",
+      "tu": "compléteras",
+      "il": "complétera",
+      "nous": "compléterons",
+      "vous": "compléterez",
+      "ils": "compléteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai complété",
+      "tu": "auras complété",
+      "il": "aura complété",
+      "nous": "aurons complété",
+      "vous": "aurez complété",
+      "ils": "auront complété"
+    },
+    "subjonctif_présent": {
+      "je": "complète",
+      "tu": "complètes",
+      "il": "complète",
+      "nous": "complétions",
+      "vous": "complétiez",
+      "ils": "complètent"
+    },
+    "subjonctif_passé": {
+      "je": "aie complété",
+      "tu": "aies complété",
+      "il": "ait complété",
+      "nous": "ayons complété",
+      "vous": "ayez complété",
+      "ils": "aient complété"
+    },
+    "subjonctif_imparfait": {
+      "je": "complétasse",
+      "tu": "complétasses",
+      "il": "complétât",
+      "nous": "complétassions",
+      "vous": "complétassiez",
+      "ils": "complétassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse complété",
+      "tu": "eusses complété",
+      "il": "eût complété",
+      "nous": "eussions complété",
+      "vous": "eussiez complété",
+      "ils": "eussent complété"
+    },
+    "conditionnel_présent": {
+      "je": "compléterais",
+      "tu": "compléterais",
+      "il": "compléterait",
+      "nous": "compléterions",
+      "vous": "compléteriez",
+      "ils": "compléteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais complété",
+      "tu": "aurais complété",
+      "il": "aurait complété",
+      "nous": "aurions complété",
+      "vous": "auriez complété",
+      "ils": "auraient complété"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse complété",
+      "tu": "eusses complété",
+      "il": "eût complété",
+      "nous": "eussions complété",
+      "vous": "eussiez complété",
+      "ils": "eussent complété"
+    },
+    "translation": "uzupełniać",
+    "group": 1
+  },
+  {
+    "infinitive": "complexifier",
+    "présent": {
+      "je": "complexifie",
+      "tu": "complexifies",
+      "il": "complexifie",
+      "nous": "complexifions",
+      "vous": "complexifiez",
+      "ils": "complexifient"
+    },
+    "passé_composé": {
+      "je": "ai complexifié",
+      "tu": "as complexifié",
+      "il": "a complexifié",
+      "nous": "avons complexifié",
+      "vous": "avez complexifié",
+      "ils": "ont complexifié"
+    },
+    "imparfait": {
+      "je": "complexifiais",
+      "tu": "complexifiais",
+      "il": "complexifiait",
+      "nous": "complexifiions",
+      "vous": "complexifiiez",
+      "ils": "complexifiaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais complexifié",
+      "tu": "avais complexifié",
+      "il": "avait complexifié",
+      "nous": "avions complexifié",
+      "vous": "aviez complexifié",
+      "ils": "avaient complexifié"
+    },
+    "passé_simple": {
+      "je": "complexifiai",
+      "tu": "complexifias",
+      "il": "complexifia",
+      "nous": "complexifiâmes",
+      "vous": "complexifiâtes",
+      "ils": "complexifièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus complexifié",
+      "tu": "eus complexifié",
+      "il": "eut complexifié",
+      "nous": "eûmes complexifié",
+      "vous": "eûtes complexifié",
+      "ils": "eurent complexifié"
+    },
+    "futur_simple": {
+      "je": "complexifierai",
+      "tu": "complexifieras",
+      "il": "complexifiera",
+      "nous": "complexifierons",
+      "vous": "complexifierez",
+      "ils": "complexifieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai complexifié",
+      "tu": "auras complexifié",
+      "il": "aura complexifié",
+      "nous": "aurons complexifié",
+      "vous": "aurez complexifié",
+      "ils": "auront complexifié"
+    },
+    "subjonctif_présent": {
+      "je": "complexifie",
+      "tu": "complexifies",
+      "il": "complexifie",
+      "nous": "complexifiions",
+      "vous": "complexifiiez",
+      "ils": "complexifient"
+    },
+    "subjonctif_passé": {
+      "je": "aie complexifié",
+      "tu": "aies complexifié",
+      "il": "ait complexifié",
+      "nous": "ayons complexifié",
+      "vous": "ayez complexifié",
+      "ils": "aient complexifié"
+    },
+    "subjonctif_imparfait": {
+      "je": "complexifiasse",
+      "tu": "complexifiasses",
+      "il": "complexifiât",
+      "nous": "complexifiassions",
+      "vous": "complexifiassiez",
+      "ils": "complexifiassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse complexifié",
+      "tu": "eusses complexifié",
+      "il": "eût complexifié",
+      "nous": "eussions complexifié",
+      "vous": "eussiez complexifié",
+      "ils": "eussent complexifié"
+    },
+    "conditionnel_présent": {
+      "je": "complexifierais",
+      "tu": "complexifierais",
+      "il": "complexifierait",
+      "nous": "complexifierions",
+      "vous": "complexifieriez",
+      "ils": "complexifieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais complexifié",
+      "tu": "aurais complexifié",
+      "il": "aurait complexifié",
+      "nous": "aurions complexifié",
+      "vous": "auriez complexifié",
+      "ils": "auraient complexifié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse complexifié",
+      "tu": "eusses complexifié",
+      "il": "eût complexifié",
+      "nous": "eussions complexifié",
+      "vous": "eussiez complexifié",
+      "ils": "eussent complexifié"
+    },
+    "translation": "wpędzać",
+    "group": 1
+  },
+  {
+    "infinitive": "compliquer",
+    "présent": {
+      "je": "complique",
+      "tu": "compliques",
+      "il": "complique",
+      "nous": "compliquons",
+      "vous": "compliquez",
+      "ils": "compliquent"
+    },
+    "passé_composé": {
+      "je": "ai compliqué",
+      "tu": "as compliqué",
+      "il": "a compliqué",
+      "nous": "avons compliqué",
+      "vous": "avez compliqué",
+      "ils": "ont compliqué"
+    },
+    "imparfait": {
+      "je": "compliquais",
+      "tu": "compliquais",
+      "il": "compliquait",
+      "nous": "compliquions",
+      "vous": "compliquiez",
+      "ils": "compliquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais compliqué",
+      "tu": "avais compliqué",
+      "il": "avait compliqué",
+      "nous": "avions compliqué",
+      "vous": "aviez compliqué",
+      "ils": "avaient compliqué"
+    },
+    "passé_simple": {
+      "je": "compliquai",
+      "tu": "compliquas",
+      "il": "compliqua",
+      "nous": "compliquâmes",
+      "vous": "compliquâtes",
+      "ils": "compliquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus compliqué",
+      "tu": "eus compliqué",
+      "il": "eut compliqué",
+      "nous": "eûmes compliqué",
+      "vous": "eûtes compliqué",
+      "ils": "eurent compliqué"
+    },
+    "futur_simple": {
+      "je": "compliquerai",
+      "tu": "compliqueras",
+      "il": "compliquera",
+      "nous": "compliquerons",
+      "vous": "compliquerez",
+      "ils": "compliqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai compliqué",
+      "tu": "auras compliqué",
+      "il": "aura compliqué",
+      "nous": "aurons compliqué",
+      "vous": "aurez compliqué",
+      "ils": "auront compliqué"
+    },
+    "subjonctif_présent": {
+      "je": "complique",
+      "tu": "compliques",
+      "il": "complique",
+      "nous": "compliquions",
+      "vous": "compliquiez",
+      "ils": "compliquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie compliqué",
+      "tu": "aies compliqué",
+      "il": "ait compliqué",
+      "nous": "ayons compliqué",
+      "vous": "ayez compliqué",
+      "ils": "aient compliqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "compliquasse",
+      "tu": "compliquasses",
+      "il": "compliquât",
+      "nous": "compliquassions",
+      "vous": "compliquassiez",
+      "ils": "compliquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse compliqué",
+      "tu": "eusses compliqué",
+      "il": "eût compliqué",
+      "nous": "eussions compliqué",
+      "vous": "eussiez compliqué",
+      "ils": "eussent compliqué"
+    },
+    "conditionnel_présent": {
+      "je": "compliquerais",
+      "tu": "compliquerais",
+      "il": "compliquerait",
+      "nous": "compliquerions",
+      "vous": "compliqueriez",
+      "ils": "compliqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais compliqué",
+      "tu": "aurais compliqué",
+      "il": "aurait compliqué",
+      "nous": "aurions compliqué",
+      "vous": "auriez compliqué",
+      "ils": "auraient compliqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse compliqué",
+      "tu": "eusses compliqué",
+      "il": "eût compliqué",
+      "nous": "eussions compliqué",
+      "vous": "eussiez compliqué",
+      "ils": "eussent compliqué"
+    },
+    "translation": "komplikować",
+    "group": 1
+  },
+  {
+    "infinitive": "comporter",
+    "présent": {
+      "je": "comporte",
+      "tu": "comportes",
+      "il": "comporte",
+      "nous": "comportons",
+      "vous": "comportez",
+      "ils": "comportent"
+    },
+    "passé_composé": {
+      "je": "ai comporté",
+      "tu": "as comporté",
+      "il": "a comporté",
+      "nous": "avons comporté",
+      "vous": "avez comporté",
+      "ils": "ont comporté"
+    },
+    "imparfait": {
+      "je": "comportais",
+      "tu": "comportais",
+      "il": "comportait",
+      "nous": "comportions",
+      "vous": "comportiez",
+      "ils": "comportaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais comporté",
+      "tu": "avais comporté",
+      "il": "avait comporté",
+      "nous": "avions comporté",
+      "vous": "aviez comporté",
+      "ils": "avaient comporté"
+    },
+    "passé_simple": {
+      "je": "comportai",
+      "tu": "comportas",
+      "il": "comporta",
+      "nous": "comportâmes",
+      "vous": "comportâtes",
+      "ils": "comportèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus comporté",
+      "tu": "eus comporté",
+      "il": "eut comporté",
+      "nous": "eûmes comporté",
+      "vous": "eûtes comporté",
+      "ils": "eurent comporté"
+    },
+    "futur_simple": {
+      "je": "comporterai",
+      "tu": "comporteras",
+      "il": "comportera",
+      "nous": "comporterons",
+      "vous": "comporterez",
+      "ils": "comporteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai comporté",
+      "tu": "auras comporté",
+      "il": "aura comporté",
+      "nous": "aurons comporté",
+      "vous": "aurez comporté",
+      "ils": "auront comporté"
+    },
+    "subjonctif_présent": {
+      "je": "comporte",
+      "tu": "comportes",
+      "il": "comporte",
+      "nous": "comportions",
+      "vous": "comportiez",
+      "ils": "comportent"
+    },
+    "subjonctif_passé": {
+      "je": "aie comporté",
+      "tu": "aies comporté",
+      "il": "ait comporté",
+      "nous": "ayons comporté",
+      "vous": "ayez comporté",
+      "ils": "aient comporté"
+    },
+    "subjonctif_imparfait": {
+      "je": "comportasse",
+      "tu": "comportasses",
+      "il": "comportât",
+      "nous": "comportassions",
+      "vous": "comportassiez",
+      "ils": "comportassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse comporté",
+      "tu": "eusses comporté",
+      "il": "eût comporté",
+      "nous": "eussions comporté",
+      "vous": "eussiez comporté",
+      "ils": "eussent comporté"
+    },
+    "conditionnel_présent": {
+      "je": "comporterais",
+      "tu": "comporterais",
+      "il": "comporterait",
+      "nous": "comporterions",
+      "vous": "comporteriez",
+      "ils": "comporteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais comporté",
+      "tu": "aurais comporté",
+      "il": "aurait comporté",
+      "nous": "aurions comporté",
+      "vous": "auriez comporté",
+      "ils": "auraient comporté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse comporté",
+      "tu": "eusses comporté",
+      "il": "eût comporté",
+      "nous": "eussions comporté",
+      "vous": "eussiez comporté",
+      "ils": "eussent comporté"
+    },
+    "translation": "zawierać",
+    "group": 1
+  },
+  {
+    "infinitive": "composer",
+    "présent": {
+      "je": "compose",
+      "tu": "composes",
+      "il": "compose",
+      "nous": "composons",
+      "vous": "composez",
+      "ils": "composent"
+    },
+    "passé_composé": {
+      "je": "ai composé",
+      "tu": "as composé",
+      "il": "a composé",
+      "nous": "avons composé",
+      "vous": "avez composé",
+      "ils": "ont composé"
+    },
+    "imparfait": {
+      "je": "composais",
+      "tu": "composais",
+      "il": "composait",
+      "nous": "composions",
+      "vous": "composiez",
+      "ils": "composaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais composé",
+      "tu": "avais composé",
+      "il": "avait composé",
+      "nous": "avions composé",
+      "vous": "aviez composé",
+      "ils": "avaient composé"
+    },
+    "passé_simple": {
+      "je": "composai",
+      "tu": "composas",
+      "il": "composa",
+      "nous": "composâmes",
+      "vous": "composâtes",
+      "ils": "composèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus composé",
+      "tu": "eus composé",
+      "il": "eut composé",
+      "nous": "eûmes composé",
+      "vous": "eûtes composé",
+      "ils": "eurent composé"
+    },
+    "futur_simple": {
+      "je": "composerai",
+      "tu": "composeras",
+      "il": "composera",
+      "nous": "composerons",
+      "vous": "composerez",
+      "ils": "composeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai composé",
+      "tu": "auras composé",
+      "il": "aura composé",
+      "nous": "aurons composé",
+      "vous": "aurez composé",
+      "ils": "auront composé"
+    },
+    "subjonctif_présent": {
+      "je": "compose",
+      "tu": "composes",
+      "il": "compose",
+      "nous": "composions",
+      "vous": "composiez",
+      "ils": "composent"
+    },
+    "subjonctif_passé": {
+      "je": "aie composé",
+      "tu": "aies composé",
+      "il": "ait composé",
+      "nous": "ayons composé",
+      "vous": "ayez composé",
+      "ils": "aient composé"
+    },
+    "subjonctif_imparfait": {
+      "je": "composasse",
+      "tu": "composasses",
+      "il": "composât",
+      "nous": "composassions",
+      "vous": "composassiez",
+      "ils": "composassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse composé",
+      "tu": "eusses composé",
+      "il": "eût composé",
+      "nous": "eussions composé",
+      "vous": "eussiez composé",
+      "ils": "eussent composé"
+    },
+    "conditionnel_présent": {
+      "je": "composerais",
+      "tu": "composerais",
+      "il": "composerait",
+      "nous": "composerions",
+      "vous": "composeriez",
+      "ils": "composeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais composé",
+      "tu": "aurais composé",
+      "il": "aurait composé",
+      "nous": "aurions composé",
+      "vous": "auriez composé",
+      "ils": "auraient composé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse composé",
+      "tu": "eusses composé",
+      "il": "eût composé",
+      "nous": "eussions composé",
+      "vous": "eussiez composé",
+      "ils": "eussent composé"
+    },
+    "translation": "składać",
+    "group": 1
+  },
+  {
+    "infinitive": "comprendre",
+    "présent": {
+      "je": "comprends",
+      "tu": "comprends",
+      "il": "comprend",
+      "nous": "comprenons",
+      "vous": "comprenez",
+      "ils": "comprennent"
+    },
+    "passé_composé": {
+      "je": "ai compris",
+      "tu": "as compris",
+      "il": "a compris",
+      "nous": "avons compris",
+      "vous": "avez compris",
+      "ils": "ont compris"
+    },
+    "imparfait": {
+      "je": "comprenais",
+      "tu": "comprenais",
+      "il": "comprenait",
+      "nous": "comprenions",
+      "vous": "compreniez",
+      "ils": "comprenaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais compris",
+      "tu": "avais compris",
+      "il": "avait compris",
+      "nous": "avions compris",
+      "vous": "aviez compris",
+      "ils": "avaient compris"
+    },
+    "passé_simple": {
+      "je": "compris",
+      "tu": "compris",
+      "il": "comprit",
+      "nous": "comprîmes",
+      "vous": "comprîtes",
+      "ils": "comprirent"
+    },
+    "passé_antérieur": {
+      "je": "eus compris",
+      "tu": "eus compris",
+      "il": "eut compris",
+      "nous": "eûmes compris",
+      "vous": "eûtes compris",
+      "ils": "eurent compris"
+    },
+    "futur_simple": {
+      "je": "comprendrai",
+      "tu": "comprendras",
+      "il": "comprendra",
+      "nous": "comprendrons",
+      "vous": "comprendrez",
+      "ils": "comprendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai compris",
+      "tu": "auras compris",
+      "il": "aura compris",
+      "nous": "aurons compris",
+      "vous": "aurez compris",
+      "ils": "auront compris"
+    },
+    "subjonctif_présent": {
+      "je": "comprenne",
+      "tu": "comprennes",
+      "il": "comprenne",
+      "nous": "comprenions",
+      "vous": "compreniez",
+      "ils": "comprennent"
+    },
+    "subjonctif_passé": {
+      "je": "aie compris",
+      "tu": "aies compris",
+      "il": "ait compris",
+      "nous": "ayons compris",
+      "vous": "ayez compris",
+      "ils": "aient compris"
+    },
+    "subjonctif_imparfait": {
+      "je": "comprisse",
+      "tu": "comprisses",
+      "il": "comprît",
+      "nous": "comprissions",
+      "vous": "comprissiez",
+      "ils": "comprissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse compris",
+      "tu": "eusses compris",
+      "il": "eût compris",
+      "nous": "eussions compris",
+      "vous": "eussiez compris",
+      "ils": "eussent compris"
+    },
+    "conditionnel_présent": {
+      "je": "comprendrais",
+      "tu": "comprendrais",
+      "il": "comprendrait",
+      "nous": "comprendrions",
+      "vous": "comprendriez",
+      "ils": "comprendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais compris",
+      "tu": "aurais compris",
+      "il": "aurait compris",
+      "nous": "aurions compris",
+      "vous": "auriez compris",
+      "ils": "auraient compris"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse compris",
+      "tu": "eusses compris",
+      "il": "eût compris",
+      "nous": "eussions compris",
+      "vous": "eussiez compris",
+      "ils": "eussent compris"
+    },
+    "translation": "rozumieć",
+    "group": 3
+  },
+  {
+    "infinitive": "compromettre",
+    "présent": {
+      "je": "compromets",
+      "tu": "compromets",
+      "il": "compromet",
+      "nous": "compromettons",
+      "vous": "compromettez",
+      "ils": "compromettent"
+    },
+    "passé_composé": {
+      "je": "ai compromis",
+      "tu": "as compromis",
+      "il": "a compromis",
+      "nous": "avons compromis",
+      "vous": "avez compromis",
+      "ils": "ont compromis"
+    },
+    "imparfait": {
+      "je": "compromettais",
+      "tu": "compromettais",
+      "il": "compromettait",
+      "nous": "compromettions",
+      "vous": "compromettiez",
+      "ils": "compromettaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais compromis",
+      "tu": "avais compromis",
+      "il": "avait compromis",
+      "nous": "avions compromis",
+      "vous": "aviez compromis",
+      "ils": "avaient compromis"
+    },
+    "passé_simple": {
+      "je": "compromis",
+      "tu": "compromis",
+      "il": "compromit",
+      "nous": "compromîmes",
+      "vous": "compromîtes",
+      "ils": "compromirent"
+    },
+    "passé_antérieur": {
+      "je": "eus compromis",
+      "tu": "eus compromis",
+      "il": "eut compromis",
+      "nous": "eûmes compromis",
+      "vous": "eûtes compromis",
+      "ils": "eurent compromis"
+    },
+    "futur_simple": {
+      "je": "compromettrai",
+      "tu": "compromettras",
+      "il": "compromettra",
+      "nous": "compromettrons",
+      "vous": "compromettrez",
+      "ils": "compromettront"
+    },
+    "futur_antérieur": {
+      "je": "aurai compromis",
+      "tu": "auras compromis",
+      "il": "aura compromis",
+      "nous": "aurons compromis",
+      "vous": "aurez compromis",
+      "ils": "auront compromis"
+    },
+    "subjonctif_présent": {
+      "je": "compromette",
+      "tu": "compromettes",
+      "il": "compromette",
+      "nous": "compromettions",
+      "vous": "compromettiez",
+      "ils": "compromettent"
+    },
+    "subjonctif_passé": {
+      "je": "aie compromis",
+      "tu": "aies compromis",
+      "il": "ait compromis",
+      "nous": "ayons compromis",
+      "vous": "ayez compromis",
+      "ils": "aient compromis"
+    },
+    "subjonctif_imparfait": {
+      "je": "compromisse",
+      "tu": "compromisses",
+      "il": "compromît",
+      "nous": "compromissions",
+      "vous": "compromissiez",
+      "ils": "compromissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse compromis",
+      "tu": "eusses compromis",
+      "il": "eût compromis",
+      "nous": "eussions compromis",
+      "vous": "eussiez compromis",
+      "ils": "eussent compromis"
+    },
+    "conditionnel_présent": {
+      "je": "compromettrais",
+      "tu": "compromettrais",
+      "il": "compromettrait",
+      "nous": "compromettrions",
+      "vous": "compromettriez",
+      "ils": "compromettraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais compromis",
+      "tu": "aurais compromis",
+      "il": "aurait compromis",
+      "nous": "aurions compromis",
+      "vous": "auriez compromis",
+      "ils": "auraient compromis"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse compromis",
+      "tu": "eusses compromis",
+      "il": "eût compromis",
+      "nous": "eussions compromis",
+      "vous": "eussiez compromis",
+      "ils": "eussent compromis"
+    },
+    "translation": "kompromitować",
+    "group": 3
+  },
+  {
+    "infinitive": "compter",
+    "présent": {
+      "je": "compte",
+      "tu": "comptes",
+      "il": "compte",
+      "nous": "comptons",
+      "vous": "comptez",
+      "ils": "comptent"
+    },
+    "passé_composé": {
+      "je": "ai compté",
+      "tu": "as compté",
+      "il": "a compté",
+      "nous": "avons compté",
+      "vous": "avez compté",
+      "ils": "ont compté"
+    },
+    "imparfait": {
+      "je": "comptais",
+      "tu": "comptais",
+      "il": "comptait",
+      "nous": "comptions",
+      "vous": "comptiez",
+      "ils": "comptaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais compté",
+      "tu": "avais compté",
+      "il": "avait compté",
+      "nous": "avions compté",
+      "vous": "aviez compté",
+      "ils": "avaient compté"
+    },
+    "passé_simple": {
+      "je": "comptai",
+      "tu": "comptas",
+      "il": "compta",
+      "nous": "comptâmes",
+      "vous": "comptâtes",
+      "ils": "comptèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus compté",
+      "tu": "eus compté",
+      "il": "eut compté",
+      "nous": "eûmes compté",
+      "vous": "eûtes compté",
+      "ils": "eurent compté"
+    },
+    "futur_simple": {
+      "je": "compterai",
+      "tu": "compteras",
+      "il": "comptera",
+      "nous": "compterons",
+      "vous": "compterez",
+      "ils": "compteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai compté",
+      "tu": "auras compté",
+      "il": "aura compté",
+      "nous": "aurons compté",
+      "vous": "aurez compté",
+      "ils": "auront compté"
+    },
+    "subjonctif_présent": {
+      "je": "compte",
+      "tu": "comptes",
+      "il": "compte",
+      "nous": "comptions",
+      "vous": "comptiez",
+      "ils": "comptent"
+    },
+    "subjonctif_passé": {
+      "je": "aie compté",
+      "tu": "aies compté",
+      "il": "ait compté",
+      "nous": "ayons compté",
+      "vous": "ayez compté",
+      "ils": "aient compté"
+    },
+    "subjonctif_imparfait": {
+      "je": "comptasse",
+      "tu": "comptasses",
+      "il": "comptât",
+      "nous": "comptassions",
+      "vous": "comptassiez",
+      "ils": "comptassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse compté",
+      "tu": "eusses compté",
+      "il": "eût compté",
+      "nous": "eussions compté",
+      "vous": "eussiez compté",
+      "ils": "eussent compté"
+    },
+    "conditionnel_présent": {
+      "je": "compterais",
+      "tu": "compterais",
+      "il": "compterait",
+      "nous": "compterions",
+      "vous": "compteriez",
+      "ils": "compteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais compté",
+      "tu": "aurais compté",
+      "il": "aurait compté",
+      "nous": "aurions compté",
+      "vous": "auriez compté",
+      "ils": "auraient compté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse compté",
+      "tu": "eusses compté",
+      "il": "eût compté",
+      "nous": "eussions compté",
+      "vous": "eussiez compté",
+      "ils": "eussent compté"
+    },
+    "translation": "liczyć",
+    "group": 1
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "endormir",
+    "présent": {
+      "je": "endors",
+      "tu": "endors",
+      "il": "endort",
+      "nous": "endormons",
+      "vous": "endormez",
+      "ils": "endorment"
+    },
+    "passé_composé": {
+      "je": "ai endormi",
+      "tu": "as endormi",
+      "il": "a endormi",
+      "nous": "avons endormi",
+      "vous": "avez endormi",
+      "ils": "ont endormi"
+    },
+    "imparfait": {
+      "je": "endormais",
+      "tu": "endormais",
+      "il": "endormait",
+      "nous": "endormions",
+      "vous": "endormiez",
+      "ils": "endormaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais endormi",
+      "tu": "avais endormi",
+      "il": "avait endormi",
+      "nous": "avions endormi",
+      "vous": "aviez endormi",
+      "ils": "avaient endormi"
+    },
+    "passé_simple": {
+      "je": "endormis",
+      "tu": "endormis",
+      "il": "endormit",
+      "nous": "endormîmes",
+      "vous": "endormîtes",
+      "ils": "endormirent"
+    },
+    "passé_antérieur": {
+      "je": "eus endormi",
+      "tu": "eus endormi",
+      "il": "eut endormi",
+      "nous": "eûmes endormi",
+      "vous": "eûtes endormi",
+      "ils": "eurent endormi"
+    },
+    "futur_simple": {
+      "je": "endormirai",
+      "tu": "endormiras",
+      "il": "endormira",
+      "nous": "endormirons",
+      "vous": "endormirez",
+      "ils": "endormiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai endormi",
+      "tu": "auras endormi",
+      "il": "aura endormi",
+      "nous": "aurons endormi",
+      "vous": "aurez endormi",
+      "ils": "auront endormi"
+    },
+    "subjonctif_présent": {
+      "je": "endorme",
+      "tu": "endormes",
+      "il": "endorme",
+      "nous": "endormions",
+      "vous": "endormiez",
+      "ils": "endorment"
+    },
+    "subjonctif_passé": {
+      "je": "aie endormi",
+      "tu": "aies endormi",
+      "il": "ait endormi",
+      "nous": "ayons endormi",
+      "vous": "ayez endormi",
+      "ils": "aient endormi"
+    },
+    "subjonctif_imparfait": {
+      "je": "endormisse",
+      "tu": "endormisses",
+      "il": "endormît",
+      "nous": "endormissions",
+      "vous": "endormissiez",
+      "ils": "endormissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse endormi",
+      "tu": "eusses endormi",
+      "il": "eût endormi",
+      "nous": "eussions endormi",
+      "vous": "eussiez endormi",
+      "ils": "eussent endormi"
+    },
+    "conditionnel_présent": {
+      "je": "endormirais",
+      "tu": "endormirais",
+      "il": "endormirait",
+      "nous": "endormirions",
+      "vous": "endormiriez",
+      "ils": "endormiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais endormi",
+      "tu": "aurais endormi",
+      "il": "aurait endormi",
+      "nous": "aurions endormi",
+      "vous": "auriez endormi",
+      "ils": "auraient endormi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse endormi",
+      "tu": "eusses endormi",
+      "il": "eût endormi",
+      "nous": "eussions endormi",
+      "vous": "eussiez endormi",
+      "ils": "eussent endormi"
+    },
+    "translation": "usypiać",
+    "group": 3
+  },
+  {
+    "infinitive": "enduire",
+    "présent": {
+      "je": "enduis",
+      "tu": "enduis",
+      "il": "enduit",
+      "nous": "enduisons",
+      "vous": "enduisez",
+      "ils": "enduisent"
+    },
+    "passé_composé": {
+      "je": "ai enduit",
+      "tu": "as enduit",
+      "il": "a enduit",
+      "nous": "avons enduit",
+      "vous": "avez enduit",
+      "ils": "ont enduit"
+    },
+    "imparfait": {
+      "je": "enduisais",
+      "tu": "enduisais",
+      "il": "enduisait",
+      "nous": "enduisions",
+      "vous": "enduisiez",
+      "ils": "enduisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais enduit",
+      "tu": "avais enduit",
+      "il": "avait enduit",
+      "nous": "avions enduit",
+      "vous": "aviez enduit",
+      "ils": "avaient enduit"
+    },
+    "passé_simple": {
+      "je": "enduisis",
+      "tu": "enduisis",
+      "il": "enduisit",
+      "nous": "enduisîmes",
+      "vous": "enduisîtes",
+      "ils": "enduisirent"
+    },
+    "passé_antérieur": {
+      "je": "eus enduit",
+      "tu": "eus enduit",
+      "il": "eut enduit",
+      "nous": "eûmes enduit",
+      "vous": "eûtes enduit",
+      "ils": "eurent enduit"
+    },
+    "futur_simple": {
+      "je": "enduirai",
+      "tu": "enduiras",
+      "il": "enduira",
+      "nous": "enduirons",
+      "vous": "enduirez",
+      "ils": "enduiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai enduit",
+      "tu": "auras enduit",
+      "il": "aura enduit",
+      "nous": "aurons enduit",
+      "vous": "aurez enduit",
+      "ils": "auront enduit"
+    },
+    "subjonctif_présent": {
+      "je": "enduise",
+      "tu": "enduises",
+      "il": "enduise",
+      "nous": "enduisions",
+      "vous": "enduisiez",
+      "ils": "enduisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie enduit",
+      "tu": "aies enduit",
+      "il": "ait enduit",
+      "nous": "ayons enduit",
+      "vous": "ayez enduit",
+      "ils": "aient enduit"
+    },
+    "subjonctif_imparfait": {
+      "je": "enduisisse",
+      "tu": "enduisisses",
+      "il": "enduisît",
+      "nous": "enduisissions",
+      "vous": "enduisissiez",
+      "ils": "enduisissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse enduit",
+      "tu": "eusses enduit",
+      "il": "eût enduit",
+      "nous": "eussions enduit",
+      "vous": "eussiez enduit",
+      "ils": "eussent enduit"
+    },
+    "conditionnel_présent": {
+      "je": "enduirais",
+      "tu": "enduirais",
+      "il": "enduirait",
+      "nous": "enduirions",
+      "vous": "enduiriez",
+      "ils": "enduiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais enduit",
+      "tu": "aurais enduit",
+      "il": "aurait enduit",
+      "nous": "aurions enduit",
+      "vous": "auriez enduit",
+      "ils": "auraient enduit"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse enduit",
+      "tu": "eusses enduit",
+      "il": "eût enduit",
+      "nous": "eussions enduit",
+      "vous": "eussiez enduit",
+      "ils": "eussent enduit"
+    },
+    "translation": "powlekać",
+    "group": 3
+  },
+  {
+    "infinitive": "endurer",
+    "présent": {
+      "je": "endure",
+      "tu": "endures",
+      "il": "endure",
+      "nous": "endurons",
+      "vous": "endurez",
+      "ils": "endurent"
+    },
+    "passé_composé": {
+      "je": "ai enduré",
+      "tu": "as enduré",
+      "il": "a enduré",
+      "nous": "avons enduré",
+      "vous": "avez enduré",
+      "ils": "ont enduré"
+    },
+    "imparfait": {
+      "je": "endurais",
+      "tu": "endurais",
+      "il": "endurait",
+      "nous": "endurions",
+      "vous": "enduriez",
+      "ils": "enduraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais enduré",
+      "tu": "avais enduré",
+      "il": "avait enduré",
+      "nous": "avions enduré",
+      "vous": "aviez enduré",
+      "ils": "avaient enduré"
+    },
+    "passé_simple": {
+      "je": "endurai",
+      "tu": "enduras",
+      "il": "endura",
+      "nous": "endurâmes",
+      "vous": "endurâtes",
+      "ils": "endurèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus enduré",
+      "tu": "eus enduré",
+      "il": "eut enduré",
+      "nous": "eûmes enduré",
+      "vous": "eûtes enduré",
+      "ils": "eurent enduré"
+    },
+    "futur_simple": {
+      "je": "endurerai",
+      "tu": "endureras",
+      "il": "endurera",
+      "nous": "endurerons",
+      "vous": "endurerez",
+      "ils": "endureront"
+    },
+    "futur_antérieur": {
+      "je": "aurai enduré",
+      "tu": "auras enduré",
+      "il": "aura enduré",
+      "nous": "aurons enduré",
+      "vous": "aurez enduré",
+      "ils": "auront enduré"
+    },
+    "subjonctif_présent": {
+      "je": "endure",
+      "tu": "endures",
+      "il": "endure",
+      "nous": "endurions",
+      "vous": "enduriez",
+      "ils": "endurent"
+    },
+    "subjonctif_passé": {
+      "je": "aie enduré",
+      "tu": "aies enduré",
+      "il": "ait enduré",
+      "nous": "ayons enduré",
+      "vous": "ayez enduré",
+      "ils": "aient enduré"
+    },
+    "subjonctif_imparfait": {
+      "je": "endurasse",
+      "tu": "endurasses",
+      "il": "endurât",
+      "nous": "endurassions",
+      "vous": "endurassiez",
+      "ils": "endurassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse enduré",
+      "tu": "eusses enduré",
+      "il": "eût enduré",
+      "nous": "eussions enduré",
+      "vous": "eussiez enduré",
+      "ils": "eussent enduré"
+    },
+    "conditionnel_présent": {
+      "je": "endurerais",
+      "tu": "endurerais",
+      "il": "endurerait",
+      "nous": "endurerions",
+      "vous": "endureriez",
+      "ils": "endureraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais enduré",
+      "tu": "aurais enduré",
+      "il": "aurait enduré",
+      "nous": "aurions enduré",
+      "vous": "auriez enduré",
+      "ils": "auraient enduré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse enduré",
+      "tu": "eusses enduré",
+      "il": "eût enduré",
+      "nous": "eussions enduré",
+      "vous": "eussiez enduré",
+      "ils": "eussent enduré"
+    },
+    "translation": "wytrzymywać",
+    "group": 1
+  },
+  {
+    "infinitive": "énerver",
+    "présent": {
+      "je": "énerve",
+      "tu": "énerves",
+      "il": "énerve",
+      "nous": "énervons",
+      "vous": "énervez",
+      "ils": "énervent"
+    },
+    "passé_composé": {
+      "je": "ai énervé",
+      "tu": "as énervé",
+      "il": "a énervé",
+      "nous": "avons énervé",
+      "vous": "avez énervé",
+      "ils": "ont énervé"
+    },
+    "imparfait": {
+      "je": "énervais",
+      "tu": "énervais",
+      "il": "énervait",
+      "nous": "énervions",
+      "vous": "énerviez",
+      "ils": "énervaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais énervé",
+      "tu": "avais énervé",
+      "il": "avait énervé",
+      "nous": "avions énervé",
+      "vous": "aviez énervé",
+      "ils": "avaient énervé"
+    },
+    "passé_simple": {
+      "je": "énervai",
+      "tu": "énervas",
+      "il": "énerva",
+      "nous": "énervâmes",
+      "vous": "énervâtes",
+      "ils": "énervèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus énervé",
+      "tu": "eus énervé",
+      "il": "eut énervé",
+      "nous": "eûmes énervé",
+      "vous": "eûtes énervé",
+      "ils": "eurent énervé"
+    },
+    "futur_simple": {
+      "je": "énerverai",
+      "tu": "énerveras",
+      "il": "énervera",
+      "nous": "énerverons",
+      "vous": "énerverez",
+      "ils": "énerveront"
+    },
+    "futur_antérieur": {
+      "je": "aurai énervé",
+      "tu": "auras énervé",
+      "il": "aura énervé",
+      "nous": "aurons énervé",
+      "vous": "aurez énervé",
+      "ils": "auront énervé"
+    },
+    "subjonctif_présent": {
+      "je": "énerve",
+      "tu": "énerves",
+      "il": "énerve",
+      "nous": "énervions",
+      "vous": "énerviez",
+      "ils": "énervent"
+    },
+    "subjonctif_passé": {
+      "je": "aie énervé",
+      "tu": "aies énervé",
+      "il": "ait énervé",
+      "nous": "ayons énervé",
+      "vous": "ayez énervé",
+      "ils": "aient énervé"
+    },
+    "subjonctif_imparfait": {
+      "je": "énervasse",
+      "tu": "énervasses",
+      "il": "énervât",
+      "nous": "énervassions",
+      "vous": "énervassiez",
+      "ils": "énervassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse énervé",
+      "tu": "eusses énervé",
+      "il": "eût énervé",
+      "nous": "eussions énervé",
+      "vous": "eussiez énervé",
+      "ils": "eussent énervé"
+    },
+    "conditionnel_présent": {
+      "je": "énerverais",
+      "tu": "énerverais",
+      "il": "énerverait",
+      "nous": "énerverions",
+      "vous": "énerveriez",
+      "ils": "énerveraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais énervé",
+      "tu": "aurais énervé",
+      "il": "aurait énervé",
+      "nous": "aurions énervé",
+      "vous": "auriez énervé",
+      "ils": "auraient énervé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse énervé",
+      "tu": "eusses énervé",
+      "il": "eût énervé",
+      "nous": "eussions énervé",
+      "vous": "eussiez énervé",
+      "ils": "eussent énervé"
+    },
+    "translation": "drażnić",
+    "group": 1
+  },
+  {
+    "infinitive": "enfermer",
+    "présent": {
+      "je": "enferme",
+      "tu": "enfermes",
+      "il": "enferme",
+      "nous": "enfermons",
+      "vous": "enfermez",
+      "ils": "enferment"
+    },
+    "passé_composé": {
+      "je": "ai enfermé",
+      "tu": "as enfermé",
+      "il": "a enfermé",
+      "nous": "avons enfermé",
+      "vous": "avez enfermé",
+      "ils": "ont enfermé"
+    },
+    "imparfait": {
+      "je": "enfermais",
+      "tu": "enfermais",
+      "il": "enfermait",
+      "nous": "enfermions",
+      "vous": "enfermiez",
+      "ils": "enfermaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais enfermé",
+      "tu": "avais enfermé",
+      "il": "avait enfermé",
+      "nous": "avions enfermé",
+      "vous": "aviez enfermé",
+      "ils": "avaient enfermé"
+    },
+    "passé_simple": {
+      "je": "enfermai",
+      "tu": "enfermas",
+      "il": "enferma",
+      "nous": "enfermâmes",
+      "vous": "enfermâtes",
+      "ils": "enfermèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus enfermé",
+      "tu": "eus enfermé",
+      "il": "eut enfermé",
+      "nous": "eûmes enfermé",
+      "vous": "eûtes enfermé",
+      "ils": "eurent enfermé"
+    },
+    "futur_simple": {
+      "je": "enfermerai",
+      "tu": "enfermeras",
+      "il": "enfermera",
+      "nous": "enfermerons",
+      "vous": "enfermerez",
+      "ils": "enfermeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai enfermé",
+      "tu": "auras enfermé",
+      "il": "aura enfermé",
+      "nous": "aurons enfermé",
+      "vous": "aurez enfermé",
+      "ils": "auront enfermé"
+    },
+    "subjonctif_présent": {
+      "je": "enferme",
+      "tu": "enfermes",
+      "il": "enferme",
+      "nous": "enfermions",
+      "vous": "enfermiez",
+      "ils": "enferment"
+    },
+    "subjonctif_passé": {
+      "je": "aie enfermé",
+      "tu": "aies enfermé",
+      "il": "ait enfermé",
+      "nous": "ayons enfermé",
+      "vous": "ayez enfermé",
+      "ils": "aient enfermé"
+    },
+    "subjonctif_imparfait": {
+      "je": "enfermasse",
+      "tu": "enfermasses",
+      "il": "enfermât",
+      "nous": "enfermassions",
+      "vous": "enfermassiez",
+      "ils": "enfermassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse enfermé",
+      "tu": "eusses enfermé",
+      "il": "eût enfermé",
+      "nous": "eussions enfermé",
+      "vous": "eussiez enfermé",
+      "ils": "eussent enfermé"
+    },
+    "conditionnel_présent": {
+      "je": "enfermerais",
+      "tu": "enfermerais",
+      "il": "enfermerait",
+      "nous": "enfermerions",
+      "vous": "enfermeriez",
+      "ils": "enfermeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais enfermé",
+      "tu": "aurais enfermé",
+      "il": "aurait enfermé",
+      "nous": "aurions enfermé",
+      "vous": "auriez enfermé",
+      "ils": "auraient enfermé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse enfermé",
+      "tu": "eusses enfermé",
+      "il": "eût enfermé",
+      "nous": "eussions enfermé",
+      "vous": "eussiez enfermé",
+      "ils": "eussent enfermé"
+    },
+    "translation": "zamykać",
+    "group": 1
+  },
+  {
+    "infinitive": "enfiler",
+    "présent": {
+      "je": "enfile",
+      "tu": "enfiles",
+      "il": "enfile",
+      "nous": "enfilons",
+      "vous": "enfilez",
+      "ils": "enfilent"
+    },
+    "passé_composé": {
+      "je": "ai enfilé",
+      "tu": "as enfilé",
+      "il": "a enfilé",
+      "nous": "avons enfilé",
+      "vous": "avez enfilé",
+      "ils": "ont enfilé"
+    },
+    "imparfait": {
+      "je": "enfilais",
+      "tu": "enfilais",
+      "il": "enfilait",
+      "nous": "enfilions",
+      "vous": "enfiliez",
+      "ils": "enfilaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais enfilé",
+      "tu": "avais enfilé",
+      "il": "avait enfilé",
+      "nous": "avions enfilé",
+      "vous": "aviez enfilé",
+      "ils": "avaient enfilé"
+    },
+    "passé_simple": {
+      "je": "enfilai",
+      "tu": "enfilas",
+      "il": "enfila",
+      "nous": "enfilâmes",
+      "vous": "enfilâtes",
+      "ils": "enfilèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus enfilé",
+      "tu": "eus enfilé",
+      "il": "eut enfilé",
+      "nous": "eûmes enfilé",
+      "vous": "eûtes enfilé",
+      "ils": "eurent enfilé"
+    },
+    "futur_simple": {
+      "je": "enfilerai",
+      "tu": "enfileras",
+      "il": "enfilera",
+      "nous": "enfilerons",
+      "vous": "enfilerez",
+      "ils": "enfileront"
+    },
+    "futur_antérieur": {
+      "je": "aurai enfilé",
+      "tu": "auras enfilé",
+      "il": "aura enfilé",
+      "nous": "aurons enfilé",
+      "vous": "aurez enfilé",
+      "ils": "auront enfilé"
+    },
+    "subjonctif_présent": {
+      "je": "enfile",
+      "tu": "enfiles",
+      "il": "enfile",
+      "nous": "enfilions",
+      "vous": "enfiliez",
+      "ils": "enfilent"
+    },
+    "subjonctif_passé": {
+      "je": "aie enfilé",
+      "tu": "aies enfilé",
+      "il": "ait enfilé",
+      "nous": "ayons enfilé",
+      "vous": "ayez enfilé",
+      "ils": "aient enfilé"
+    },
+    "subjonctif_imparfait": {
+      "je": "enfilasse",
+      "tu": "enfilasses",
+      "il": "enfilât",
+      "nous": "enfilassions",
+      "vous": "enfilassiez",
+      "ils": "enfilassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse enfilé",
+      "tu": "eusses enfilé",
+      "il": "eût enfilé",
+      "nous": "eussions enfilé",
+      "vous": "eussiez enfilé",
+      "ils": "eussent enfilé"
+    },
+    "conditionnel_présent": {
+      "je": "enfilerais",
+      "tu": "enfilerais",
+      "il": "enfilerait",
+      "nous": "enfilerions",
+      "vous": "enfileriez",
+      "ils": "enfileraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais enfilé",
+      "tu": "aurais enfilé",
+      "il": "aurait enfilé",
+      "nous": "aurions enfilé",
+      "vous": "auriez enfilé",
+      "ils": "auraient enfilé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse enfilé",
+      "tu": "eusses enfilé",
+      "il": "eût enfilé",
+      "nous": "eussions enfilé",
+      "vous": "eussiez enfilé",
+      "ils": "eussent enfilé"
+    },
+    "translation": "nawlekać",
+    "group": 1
+  },
+  {
+    "infinitive": "enflammer",
+    "présent": {
+      "je": "enflamme",
+      "tu": "enflammes",
+      "il": "enflamme",
+      "nous": "enflammons",
+      "vous": "enflammez",
+      "ils": "enflamment"
+    },
+    "passé_composé": {
+      "je": "ai enflammé",
+      "tu": "as enflammé",
+      "il": "a enflammé",
+      "nous": "avons enflammé",
+      "vous": "avez enflammé",
+      "ils": "ont enflammé"
+    },
+    "imparfait": {
+      "je": "enflammais",
+      "tu": "enflammais",
+      "il": "enflammait",
+      "nous": "enflammions",
+      "vous": "enflammiez",
+      "ils": "enflammaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais enflammé",
+      "tu": "avais enflammé",
+      "il": "avait enflammé",
+      "nous": "avions enflammé",
+      "vous": "aviez enflammé",
+      "ils": "avaient enflammé"
+    },
+    "passé_simple": {
+      "je": "enflammai",
+      "tu": "enflammas",
+      "il": "enflamma",
+      "nous": "enflammâmes",
+      "vous": "enflammâtes",
+      "ils": "enflammèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus enflammé",
+      "tu": "eus enflammé",
+      "il": "eut enflammé",
+      "nous": "eûmes enflammé",
+      "vous": "eûtes enflammé",
+      "ils": "eurent enflammé"
+    },
+    "futur_simple": {
+      "je": "enflammerai",
+      "tu": "enflammeras",
+      "il": "enflammera",
+      "nous": "enflammerons",
+      "vous": "enflammerez",
+      "ils": "enflammeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai enflammé",
+      "tu": "auras enflammé",
+      "il": "aura enflammé",
+      "nous": "aurons enflammé",
+      "vous": "aurez enflammé",
+      "ils": "auront enflammé"
+    },
+    "subjonctif_présent": {
+      "je": "enflamme",
+      "tu": "enflammes",
+      "il": "enflamme",
+      "nous": "enflammions",
+      "vous": "enflammiez",
+      "ils": "enflamment"
+    },
+    "subjonctif_passé": {
+      "je": "aie enflammé",
+      "tu": "aies enflammé",
+      "il": "ait enflammé",
+      "nous": "ayons enflammé",
+      "vous": "ayez enflammé",
+      "ils": "aient enflammé"
+    },
+    "subjonctif_imparfait": {
+      "je": "enflammasse",
+      "tu": "enflammasses",
+      "il": "enflammât",
+      "nous": "enflammassions",
+      "vous": "enflammassiez",
+      "ils": "enflammassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse enflammé",
+      "tu": "eusses enflammé",
+      "il": "eût enflammé",
+      "nous": "eussions enflammé",
+      "vous": "eussiez enflammé",
+      "ils": "eussent enflammé"
+    },
+    "conditionnel_présent": {
+      "je": "enflammerais",
+      "tu": "enflammerais",
+      "il": "enflammerait",
+      "nous": "enflammerions",
+      "vous": "enflammeriez",
+      "ils": "enflammeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais enflammé",
+      "tu": "aurais enflammé",
+      "il": "aurait enflammé",
+      "nous": "aurions enflammé",
+      "vous": "auriez enflammé",
+      "ils": "auraient enflammé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse enflammé",
+      "tu": "eusses enflammé",
+      "il": "eût enflammé",
+      "nous": "eussions enflammé",
+      "vous": "eussiez enflammé",
+      "ils": "eussent enflammé"
+    },
+    "translation": "zapalać",
+    "group": 1
+  },
+  {
+    "infinitive": "enfler",
+    "présent": {
+      "je": "enfle",
+      "tu": "enfles",
+      "il": "enfle",
+      "nous": "enflons",
+      "vous": "enflez",
+      "ils": "enflent"
+    },
+    "passé_composé": {
+      "je": "ai enflé",
+      "tu": "as enflé",
+      "il": "a enflé",
+      "nous": "avons enflé",
+      "vous": "avez enflé",
+      "ils": "ont enflé"
+    },
+    "imparfait": {
+      "je": "enflais",
+      "tu": "enflais",
+      "il": "enflait",
+      "nous": "enflions",
+      "vous": "enfliez",
+      "ils": "enflaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais enflé",
+      "tu": "avais enflé",
+      "il": "avait enflé",
+      "nous": "avions enflé",
+      "vous": "aviez enflé",
+      "ils": "avaient enflé"
+    },
+    "passé_simple": {
+      "je": "enflai",
+      "tu": "enflas",
+      "il": "enfla",
+      "nous": "enflâmes",
+      "vous": "enflâtes",
+      "ils": "enflèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus enflé",
+      "tu": "eus enflé",
+      "il": "eut enflé",
+      "nous": "eûmes enflé",
+      "vous": "eûtes enflé",
+      "ils": "eurent enflé"
+    },
+    "futur_simple": {
+      "je": "enflerai",
+      "tu": "enfleras",
+      "il": "enflera",
+      "nous": "enflerons",
+      "vous": "enflerez",
+      "ils": "enfleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai enflé",
+      "tu": "auras enflé",
+      "il": "aura enflé",
+      "nous": "aurons enflé",
+      "vous": "aurez enflé",
+      "ils": "auront enflé"
+    },
+    "subjonctif_présent": {
+      "je": "enfle",
+      "tu": "enfles",
+      "il": "enfle",
+      "nous": "enflions",
+      "vous": "enfliez",
+      "ils": "enflent"
+    },
+    "subjonctif_passé": {
+      "je": "aie enflé",
+      "tu": "aies enflé",
+      "il": "ait enflé",
+      "nous": "ayons enflé",
+      "vous": "ayez enflé",
+      "ils": "aient enflé"
+    },
+    "subjonctif_imparfait": {
+      "je": "enflasse",
+      "tu": "enflasses",
+      "il": "enflât",
+      "nous": "enflassions",
+      "vous": "enflassiez",
+      "ils": "enflassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse enflé",
+      "tu": "eusses enflé",
+      "il": "eût enflé",
+      "nous": "eussions enflé",
+      "vous": "eussiez enflé",
+      "ils": "eussent enflé"
+    },
+    "conditionnel_présent": {
+      "je": "enflerais",
+      "tu": "enflerais",
+      "il": "enflerait",
+      "nous": "enflerions",
+      "vous": "enfleriez",
+      "ils": "enfleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais enflé",
+      "tu": "aurais enflé",
+      "il": "aurait enflé",
+      "nous": "aurions enflé",
+      "vous": "auriez enflé",
+      "ils": "auraient enflé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse enflé",
+      "tu": "eusses enflé",
+      "il": "eût enflé",
+      "nous": "eussions enflé",
+      "vous": "eussiez enflé",
+      "ils": "eussent enflé"
+    },
+    "translation": "wydymać",
+    "group": 1
+  },
+  {
+    "infinitive": "enfoncer",
+    "présent": {
+      "je": "enfonce",
+      "tu": "enfonces",
+      "il": "enfonce",
+      "nous": "enfonçons",
+      "vous": "enfoncez",
+      "ils": "enfoncent"
+    },
+    "passé_composé": {
+      "je": "ai enfoncé",
+      "tu": "as enfoncé",
+      "il": "a enfoncé",
+      "nous": "avons enfoncé",
+      "vous": "avez enfoncé",
+      "ils": "ont enfoncé"
+    },
+    "imparfait": {
+      "je": "enfonçais",
+      "tu": "enfonçais",
+      "il": "enfonçait",
+      "nous": "enfoncions",
+      "vous": "enfonciez",
+      "ils": "enfonçaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais enfoncé",
+      "tu": "avais enfoncé",
+      "il": "avait enfoncé",
+      "nous": "avions enfoncé",
+      "vous": "aviez enfoncé",
+      "ils": "avaient enfoncé"
+    },
+    "passé_simple": {
+      "je": "enfonçai",
+      "tu": "enfonças",
+      "il": "enfonça",
+      "nous": "enfonçâmes",
+      "vous": "enfonçâtes",
+      "ils": "enfoncèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus enfoncé",
+      "tu": "eus enfoncé",
+      "il": "eut enfoncé",
+      "nous": "eûmes enfoncé",
+      "vous": "eûtes enfoncé",
+      "ils": "eurent enfoncé"
+    },
+    "futur_simple": {
+      "je": "enfoncerai",
+      "tu": "enfonceras",
+      "il": "enfoncera",
+      "nous": "enfoncerons",
+      "vous": "enfoncerez",
+      "ils": "enfonceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai enfoncé",
+      "tu": "auras enfoncé",
+      "il": "aura enfoncé",
+      "nous": "aurons enfoncé",
+      "vous": "aurez enfoncé",
+      "ils": "auront enfoncé"
+    },
+    "subjonctif_présent": {
+      "je": "enfonce",
+      "tu": "enfonces",
+      "il": "enfonce",
+      "nous": "enfoncions",
+      "vous": "enfonciez",
+      "ils": "enfoncent"
+    },
+    "subjonctif_passé": {
+      "je": "aie enfoncé",
+      "tu": "aies enfoncé",
+      "il": "ait enfoncé",
+      "nous": "ayons enfoncé",
+      "vous": "ayez enfoncé",
+      "ils": "aient enfoncé"
+    },
+    "subjonctif_imparfait": {
+      "je": "enfonçasse",
+      "tu": "enfonçasses",
+      "il": "enfonçât",
+      "nous": "enfonçassions",
+      "vous": "enfonçassiez",
+      "ils": "enfonçassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse enfoncé",
+      "tu": "eusses enfoncé",
+      "il": "eût enfoncé",
+      "nous": "eussions enfoncé",
+      "vous": "eussiez enfoncé",
+      "ils": "eussent enfoncé"
+    },
+    "conditionnel_présent": {
+      "je": "enfoncerais",
+      "tu": "enfoncerais",
+      "il": "enfoncerait",
+      "nous": "enfoncerions",
+      "vous": "enfonceriez",
+      "ils": "enfonceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais enfoncé",
+      "tu": "aurais enfoncé",
+      "il": "aurait enfoncé",
+      "nous": "aurions enfoncé",
+      "vous": "auriez enfoncé",
+      "ils": "auraient enfoncé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse enfoncé",
+      "tu": "eusses enfoncé",
+      "il": "eût enfoncé",
+      "nous": "eussions enfoncé",
+      "vous": "eussiez enfoncé",
+      "ils": "eussent enfoncé"
+    },
+    "translation": "wbijać",
+    "group": 1
+  },
+  {
+    "infinitive": "enfouir",
+    "présent": {
+      "je": "enfouis",
+      "tu": "enfouis",
+      "il": "enfouit",
+      "nous": "enfouissons",
+      "vous": "enfouissez",
+      "ils": "enfouissent"
+    },
+    "passé_composé": {
+      "je": "ai enfoui",
+      "tu": "as enfoui",
+      "il": "a enfoui",
+      "nous": "avons enfoui",
+      "vous": "avez enfoui",
+      "ils": "ont enfoui"
+    },
+    "imparfait": {
+      "je": "enfouissais",
+      "tu": "enfouissais",
+      "il": "enfouissait",
+      "nous": "enfouissions",
+      "vous": "enfouissiez",
+      "ils": "enfouissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais enfoui",
+      "tu": "avais enfoui",
+      "il": "avait enfoui",
+      "nous": "avions enfoui",
+      "vous": "aviez enfoui",
+      "ils": "avaient enfoui"
+    },
+    "passé_simple": {
+      "je": "enfouis",
+      "tu": "enfouis",
+      "il": "enfouit",
+      "nous": "enfouîmes",
+      "vous": "enfouîtes",
+      "ils": "enfouirent"
+    },
+    "passé_antérieur": {
+      "je": "eus enfoui",
+      "tu": "eus enfoui",
+      "il": "eut enfoui",
+      "nous": "eûmes enfoui",
+      "vous": "eûtes enfoui",
+      "ils": "eurent enfoui"
+    },
+    "futur_simple": {
+      "je": "enfouirai",
+      "tu": "enfouiras",
+      "il": "enfouira",
+      "nous": "enfouirons",
+      "vous": "enfouirez",
+      "ils": "enfouiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai enfoui",
+      "tu": "auras enfoui",
+      "il": "aura enfoui",
+      "nous": "aurons enfoui",
+      "vous": "aurez enfoui",
+      "ils": "auront enfoui"
+    },
+    "subjonctif_présent": {
+      "je": "enfouisse",
+      "tu": "enfouisses",
+      "il": "enfouisse",
+      "nous": "enfouissions",
+      "vous": "enfouissiez",
+      "ils": "enfouissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie enfoui",
+      "tu": "aies enfoui",
+      "il": "ait enfoui",
+      "nous": "ayons enfoui",
+      "vous": "ayez enfoui",
+      "ils": "aient enfoui"
+    },
+    "subjonctif_imparfait": {
+      "je": "enfouisse",
+      "tu": "enfouisses",
+      "il": "enfouît",
+      "nous": "enfouissions",
+      "vous": "enfouissiez",
+      "ils": "enfouissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse enfoui",
+      "tu": "eusses enfoui",
+      "il": "eût enfoui",
+      "nous": "eussions enfoui",
+      "vous": "eussiez enfoui",
+      "ils": "eussent enfoui"
+    },
+    "conditionnel_présent": {
+      "je": "enfouirais",
+      "tu": "enfouirais",
+      "il": "enfouirait",
+      "nous": "enfouirions",
+      "vous": "enfouiriez",
+      "ils": "enfouiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais enfoui",
+      "tu": "aurais enfoui",
+      "il": "aurait enfoui",
+      "nous": "aurions enfoui",
+      "vous": "auriez enfoui",
+      "ils": "auraient enfoui"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse enfoui",
+      "tu": "eusses enfoui",
+      "il": "eût enfoui",
+      "nous": "eussions enfoui",
+      "vous": "eussiez enfoui",
+      "ils": "eussent enfoui"
+    },
+    "translation": "grzebać",
+    "group": 2
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "ester",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "testować",
+    "group": 1
+  },
+  {
+    "infinitive": "estimer",
+    "présent": {
+      "je": "estime",
+      "tu": "estimes",
+      "il": "estime",
+      "nous": "estimons",
+      "vous": "estimez",
+      "ils": "estiment"
+    },
+    "passé_composé": {
+      "je": "ai estimé",
+      "tu": "as estimé",
+      "il": "a estimé",
+      "nous": "avons estimé",
+      "vous": "avez estimé",
+      "ils": "ont estimé"
+    },
+    "imparfait": {
+      "je": "estimais",
+      "tu": "estimais",
+      "il": "estimait",
+      "nous": "estimions",
+      "vous": "estimiez",
+      "ils": "estimaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais estimé",
+      "tu": "avais estimé",
+      "il": "avait estimé",
+      "nous": "avions estimé",
+      "vous": "aviez estimé",
+      "ils": "avaient estimé"
+    },
+    "passé_simple": {
+      "je": "estimai",
+      "tu": "estimas",
+      "il": "estima",
+      "nous": "estimâmes",
+      "vous": "estimâtes",
+      "ils": "estimèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus estimé",
+      "tu": "eus estimé",
+      "il": "eut estimé",
+      "nous": "eûmes estimé",
+      "vous": "eûtes estimé",
+      "ils": "eurent estimé"
+    },
+    "futur_simple": {
+      "je": "estimerai",
+      "tu": "estimeras",
+      "il": "estimera",
+      "nous": "estimerons",
+      "vous": "estimerez",
+      "ils": "estimeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai estimé",
+      "tu": "auras estimé",
+      "il": "aura estimé",
+      "nous": "aurons estimé",
+      "vous": "aurez estimé",
+      "ils": "auront estimé"
+    },
+    "subjonctif_présent": {
+      "je": "estime",
+      "tu": "estimes",
+      "il": "estime",
+      "nous": "estimions",
+      "vous": "estimiez",
+      "ils": "estiment"
+    },
+    "subjonctif_passé": {
+      "je": "aie estimé",
+      "tu": "aies estimé",
+      "il": "ait estimé",
+      "nous": "ayons estimé",
+      "vous": "ayez estimé",
+      "ils": "aient estimé"
+    },
+    "subjonctif_imparfait": {
+      "je": "estimasse",
+      "tu": "estimasses",
+      "il": "estimât",
+      "nous": "estimassions",
+      "vous": "estimassiez",
+      "ils": "estimassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse estimé",
+      "tu": "eusses estimé",
+      "il": "eût estimé",
+      "nous": "eussions estimé",
+      "vous": "eussiez estimé",
+      "ils": "eussent estimé"
+    },
+    "conditionnel_présent": {
+      "je": "estimerais",
+      "tu": "estimerais",
+      "il": "estimerait",
+      "nous": "estimerions",
+      "vous": "estimeriez",
+      "ils": "estimeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais estimé",
+      "tu": "aurais estimé",
+      "il": "aurait estimé",
+      "nous": "aurions estimé",
+      "vous": "auriez estimé",
+      "ils": "auraient estimé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse estimé",
+      "tu": "eusses estimé",
+      "il": "eût estimé",
+      "nous": "eussions estimé",
+      "vous": "eussiez estimé",
+      "ils": "eussent estimé"
+    },
+    "translation": "szacować",
+    "group": 1
+  },
+  {
+    "infinitive": "établir",
+    "présent": {
+      "je": "établis",
+      "tu": "établis",
+      "il": "établit",
+      "nous": "établissons",
+      "vous": "établissez",
+      "ils": "établissent"
+    },
+    "passé_composé": {
+      "je": "ai établi",
+      "tu": "as établi",
+      "il": "a établi",
+      "nous": "avons établi",
+      "vous": "avez établi",
+      "ils": "ont établi"
+    },
+    "imparfait": {
+      "je": "établissais",
+      "tu": "établissais",
+      "il": "établissait",
+      "nous": "établissions",
+      "vous": "établissiez",
+      "ils": "établissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais établi",
+      "tu": "avais établi",
+      "il": "avait établi",
+      "nous": "avions établi",
+      "vous": "aviez établi",
+      "ils": "avaient établi"
+    },
+    "passé_simple": {
+      "je": "établis",
+      "tu": "établis",
+      "il": "établit",
+      "nous": "établîmes",
+      "vous": "établîtes",
+      "ils": "établirent"
+    },
+    "passé_antérieur": {
+      "je": "eus établi",
+      "tu": "eus établi",
+      "il": "eut établi",
+      "nous": "eûmes établi",
+      "vous": "eûtes établi",
+      "ils": "eurent établi"
+    },
+    "futur_simple": {
+      "je": "établirai",
+      "tu": "établiras",
+      "il": "établira",
+      "nous": "établirons",
+      "vous": "établirez",
+      "ils": "établiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai établi",
+      "tu": "auras établi",
+      "il": "aura établi",
+      "nous": "aurons établi",
+      "vous": "aurez établi",
+      "ils": "auront établi"
+    },
+    "subjonctif_présent": {
+      "je": "établisse",
+      "tu": "établisses",
+      "il": "établisse",
+      "nous": "établissions",
+      "vous": "établissiez",
+      "ils": "établissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie établi",
+      "tu": "aies établi",
+      "il": "ait établi",
+      "nous": "ayons établi",
+      "vous": "ayez établi",
+      "ils": "aient établi"
+    },
+    "subjonctif_imparfait": {
+      "je": "établisse",
+      "tu": "établisses",
+      "il": "établît",
+      "nous": "établissions",
+      "vous": "établissiez",
+      "ils": "établissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse établi",
+      "tu": "eusses établi",
+      "il": "eût établi",
+      "nous": "eussions établi",
+      "vous": "eussiez établi",
+      "ils": "eussent établi"
+    },
+    "conditionnel_présent": {
+      "je": "établirais",
+      "tu": "établirais",
+      "il": "établirait",
+      "nous": "établirions",
+      "vous": "établiriez",
+      "ils": "établiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais établi",
+      "tu": "aurais établi",
+      "il": "aurait établi",
+      "nous": "aurions établi",
+      "vous": "auriez établi",
+      "ils": "auraient établi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse établi",
+      "tu": "eusses établi",
+      "il": "eût établi",
+      "nous": "eussions établi",
+      "vous": "eussiez établi",
+      "ils": "eussent établi"
+    },
+    "translation": "zakładać",
+    "group": 2
+  },
+  {
+    "infinitive": "étaler",
+    "présent": {
+      "je": "étale",
+      "tu": "étales",
+      "il": "étale",
+      "nous": "étalons",
+      "vous": "étalez",
+      "ils": "étalent"
+    },
+    "passé_composé": {
+      "je": "ai étalé",
+      "tu": "as étalé",
+      "il": "a étalé",
+      "nous": "avons étalé",
+      "vous": "avez étalé",
+      "ils": "ont étalé"
+    },
+    "imparfait": {
+      "je": "étalais",
+      "tu": "étalais",
+      "il": "étalait",
+      "nous": "étalions",
+      "vous": "étaliez",
+      "ils": "étalaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais étalé",
+      "tu": "avais étalé",
+      "il": "avait étalé",
+      "nous": "avions étalé",
+      "vous": "aviez étalé",
+      "ils": "avaient étalé"
+    },
+    "passé_simple": {
+      "je": "étalai",
+      "tu": "étalas",
+      "il": "étala",
+      "nous": "étalâmes",
+      "vous": "étalâtes",
+      "ils": "étalèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus étalé",
+      "tu": "eus étalé",
+      "il": "eut étalé",
+      "nous": "eûmes étalé",
+      "vous": "eûtes étalé",
+      "ils": "eurent étalé"
+    },
+    "futur_simple": {
+      "je": "étalerai",
+      "tu": "étaleras",
+      "il": "étalera",
+      "nous": "étalerons",
+      "vous": "étalerez",
+      "ils": "étaleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai étalé",
+      "tu": "auras étalé",
+      "il": "aura étalé",
+      "nous": "aurons étalé",
+      "vous": "aurez étalé",
+      "ils": "auront étalé"
+    },
+    "subjonctif_présent": {
+      "je": "étale",
+      "tu": "étales",
+      "il": "étale",
+      "nous": "étalions",
+      "vous": "étaliez",
+      "ils": "étalent"
+    },
+    "subjonctif_passé": {
+      "je": "aie étalé",
+      "tu": "aies étalé",
+      "il": "ait étalé",
+      "nous": "ayons étalé",
+      "vous": "ayez étalé",
+      "ils": "aient étalé"
+    },
+    "subjonctif_imparfait": {
+      "je": "étalasse",
+      "tu": "étalasses",
+      "il": "étalât",
+      "nous": "étalassions",
+      "vous": "étalassiez",
+      "ils": "étalassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse étalé",
+      "tu": "eusses étalé",
+      "il": "eût étalé",
+      "nous": "eussions étalé",
+      "vous": "eussiez étalé",
+      "ils": "eussent étalé"
+    },
+    "conditionnel_présent": {
+      "je": "étalerais",
+      "tu": "étalerais",
+      "il": "étalerait",
+      "nous": "étalerions",
+      "vous": "étaleriez",
+      "ils": "étaleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais étalé",
+      "tu": "aurais étalé",
+      "il": "aurait étalé",
+      "nous": "aurions étalé",
+      "vous": "auriez étalé",
+      "ils": "auraient étalé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse étalé",
+      "tu": "eusses étalé",
+      "il": "eût étalé",
+      "nous": "eussions étalé",
+      "vous": "eussiez étalé",
+      "ils": "eussent étalé"
+    },
+    "translation": "rozkładać",
+    "group": 1
+  },
+  {
+    "infinitive": "étayer",
+    "présent": {
+      "je": "étaie",
+      "tu": "étaies",
+      "il": "étaie",
+      "nous": "étayons",
+      "vous": "étayez",
+      "ils": "étaient"
+    },
+    "passé_composé": {
+      "je": "ai étayé",
+      "tu": "as étayé",
+      "il": "a étayé",
+      "nous": "avons étayé",
+      "vous": "avez étayé",
+      "ils": "ont étayé"
+    },
+    "imparfait": {
+      "je": "étayais",
+      "tu": "étayais",
+      "il": "étayait",
+      "nous": "étayions",
+      "vous": "étayiez",
+      "ils": "étayaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais étayé",
+      "tu": "avais étayé",
+      "il": "avait étayé",
+      "nous": "avions étayé",
+      "vous": "aviez étayé",
+      "ils": "avaient étayé"
+    },
+    "passé_simple": {
+      "je": "étayai",
+      "tu": "étayas",
+      "il": "étaya",
+      "nous": "étayâmes",
+      "vous": "étayâtes",
+      "ils": "étayèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus étayé",
+      "tu": "eus étayé",
+      "il": "eut étayé",
+      "nous": "eûmes étayé",
+      "vous": "eûtes étayé",
+      "ils": "eurent étayé"
+    },
+    "futur_simple": {
+      "je": "étaierai",
+      "tu": "étaieras",
+      "il": "étaiera",
+      "nous": "étaierons",
+      "vous": "étaierez",
+      "ils": "étaieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai étayé",
+      "tu": "auras étayé",
+      "il": "aura étayé",
+      "nous": "aurons étayé",
+      "vous": "aurez étayé",
+      "ils": "auront étayé"
+    },
+    "subjonctif_présent": {
+      "je": "étaie",
+      "tu": "étaies",
+      "il": "étaie",
+      "nous": "étayions",
+      "vous": "étayiez",
+      "ils": "étaient"
+    },
+    "subjonctif_passé": {
+      "je": "aie étayé",
+      "tu": "aies étayé",
+      "il": "ait étayé",
+      "nous": "ayons étayé",
+      "vous": "ayez étayé",
+      "ils": "aient étayé"
+    },
+    "subjonctif_imparfait": {
+      "je": "étayasse",
+      "tu": "étayasses",
+      "il": "étayât",
+      "nous": "étayassions",
+      "vous": "étayassiez",
+      "ils": "étayassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse étayé",
+      "tu": "eusses étayé",
+      "il": "eût étayé",
+      "nous": "eussions étayé",
+      "vous": "eussiez étayé",
+      "ils": "eussent étayé"
+    },
+    "conditionnel_présent": {
+      "je": "étaierais",
+      "tu": "étaierais",
+      "il": "étaierait",
+      "nous": "étaierions",
+      "vous": "étaieriez",
+      "ils": "étaieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais étayé",
+      "tu": "aurais étayé",
+      "il": "aurait étayé",
+      "nous": "aurions étayé",
+      "vous": "auriez étayé",
+      "ils": "auraient étayé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse étayé",
+      "tu": "eusses étayé",
+      "il": "eût étayé",
+      "nous": "eussions étayé",
+      "vous": "eussiez étayé",
+      "ils": "eussent étayé"
+    },
+    "translation": "étayer",
+    "group": 1
+  },
+  {
+    "infinitive": "éteindre",
+    "présent": {
+      "je": "éteins",
+      "tu": "éteins",
+      "il": "éteint",
+      "nous": "éteignons",
+      "vous": "éteignez",
+      "ils": "éteignent"
+    },
+    "passé_composé": {
+      "je": "ai éteint",
+      "tu": "as éteint",
+      "il": "a éteint",
+      "nous": "avons éteint",
+      "vous": "avez éteint",
+      "ils": "ont éteint"
+    },
+    "imparfait": {
+      "je": "éteignais",
+      "tu": "éteignais",
+      "il": "éteignait",
+      "nous": "éteignions",
+      "vous": "éteigniez",
+      "ils": "éteignaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais éteint",
+      "tu": "avais éteint",
+      "il": "avait éteint",
+      "nous": "avions éteint",
+      "vous": "aviez éteint",
+      "ils": "avaient éteint"
+    },
+    "passé_simple": {
+      "je": "éteignis",
+      "tu": "éteignis",
+      "il": "éteignit",
+      "nous": "éteignîmes",
+      "vous": "éteignîtes",
+      "ils": "éteignirent"
+    },
+    "passé_antérieur": {
+      "je": "eus éteint",
+      "tu": "eus éteint",
+      "il": "eut éteint",
+      "nous": "eûmes éteint",
+      "vous": "eûtes éteint",
+      "ils": "eurent éteint"
+    },
+    "futur_simple": {
+      "je": "éteindrai",
+      "tu": "éteindras",
+      "il": "éteindra",
+      "nous": "éteindrons",
+      "vous": "éteindrez",
+      "ils": "éteindront"
+    },
+    "futur_antérieur": {
+      "je": "aurai éteint",
+      "tu": "auras éteint",
+      "il": "aura éteint",
+      "nous": "aurons éteint",
+      "vous": "aurez éteint",
+      "ils": "auront éteint"
+    },
+    "subjonctif_présent": {
+      "je": "éteigne",
+      "tu": "éteignes",
+      "il": "éteigne",
+      "nous": "éteignions",
+      "vous": "éteigniez",
+      "ils": "éteignent"
+    },
+    "subjonctif_passé": {
+      "je": "aie éteint",
+      "tu": "aies éteint",
+      "il": "ait éteint",
+      "nous": "ayons éteint",
+      "vous": "ayez éteint",
+      "ils": "aient éteint"
+    },
+    "subjonctif_imparfait": {
+      "je": "éteignisse",
+      "tu": "éteignisses",
+      "il": "éteignît",
+      "nous": "éteignissions",
+      "vous": "éteignissiez",
+      "ils": "éteignissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse éteint",
+      "tu": "eusses éteint",
+      "il": "eût éteint",
+      "nous": "eussions éteint",
+      "vous": "eussiez éteint",
+      "ils": "eussent éteint"
+    },
+    "conditionnel_présent": {
+      "je": "éteindrais",
+      "tu": "éteindrais",
+      "il": "éteindrait",
+      "nous": "éteindrions",
+      "vous": "éteindriez",
+      "ils": "éteindraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais éteint",
+      "tu": "aurais éteint",
+      "il": "aurait éteint",
+      "nous": "aurions éteint",
+      "vous": "auriez éteint",
+      "ils": "auraient éteint"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse éteint",
+      "tu": "eusses éteint",
+      "il": "eût éteint",
+      "nous": "eussions éteint",
+      "vous": "eussiez éteint",
+      "ils": "eussent éteint"
+    },
+    "translation": "gasić",
+    "group": 3
+  },
+  {
+    "infinitive": "étendre",
+    "présent": {
+      "je": "étends",
+      "tu": "étends",
+      "il": "étend",
+      "nous": "étendons",
+      "vous": "étendez",
+      "ils": "étendent"
+    },
+    "passé_composé": {
+      "je": "ai étendu",
+      "tu": "as étendu",
+      "il": "a étendu",
+      "nous": "avons étendu",
+      "vous": "avez étendu",
+      "ils": "ont étendu"
+    },
+    "imparfait": {
+      "je": "étendais",
+      "tu": "étendais",
+      "il": "étendait",
+      "nous": "étendions",
+      "vous": "étendiez",
+      "ils": "étendaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais étendu",
+      "tu": "avais étendu",
+      "il": "avait étendu",
+      "nous": "avions étendu",
+      "vous": "aviez étendu",
+      "ils": "avaient étendu"
+    },
+    "passé_simple": {
+      "je": "étendis",
+      "tu": "étendis",
+      "il": "étendit",
+      "nous": "étendîmes",
+      "vous": "étendîtes",
+      "ils": "étendirent"
+    },
+    "passé_antérieur": {
+      "je": "eus étendu",
+      "tu": "eus étendu",
+      "il": "eut étendu",
+      "nous": "eûmes étendu",
+      "vous": "eûtes étendu",
+      "ils": "eurent étendu"
+    },
+    "futur_simple": {
+      "je": "étendrai",
+      "tu": "étendras",
+      "il": "étendra",
+      "nous": "étendrons",
+      "vous": "étendrez",
+      "ils": "étendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai étendu",
+      "tu": "auras étendu",
+      "il": "aura étendu",
+      "nous": "aurons étendu",
+      "vous": "aurez étendu",
+      "ils": "auront étendu"
+    },
+    "subjonctif_présent": {
+      "je": "étende",
+      "tu": "étendes",
+      "il": "étende",
+      "nous": "étendions",
+      "vous": "étendiez",
+      "ils": "étendent"
+    },
+    "subjonctif_passé": {
+      "je": "aie étendu",
+      "tu": "aies étendu",
+      "il": "ait étendu",
+      "nous": "ayons étendu",
+      "vous": "ayez étendu",
+      "ils": "aient étendu"
+    },
+    "subjonctif_imparfait": {
+      "je": "étendisse",
+      "tu": "étendisses",
+      "il": "étendît",
+      "nous": "étendissions",
+      "vous": "étendissiez",
+      "ils": "étendissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse étendu",
+      "tu": "eusses étendu",
+      "il": "eût étendu",
+      "nous": "eussions étendu",
+      "vous": "eussiez étendu",
+      "ils": "eussent étendu"
+    },
+    "conditionnel_présent": {
+      "je": "étendrais",
+      "tu": "étendrais",
+      "il": "étendrait",
+      "nous": "étendrions",
+      "vous": "étendriez",
+      "ils": "étendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais étendu",
+      "tu": "aurais étendu",
+      "il": "aurait étendu",
+      "nous": "aurions étendu",
+      "vous": "auriez étendu",
+      "ils": "auraient étendu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse étendu",
+      "tu": "eusses étendu",
+      "il": "eût étendu",
+      "nous": "eussions étendu",
+      "vous": "eussiez étendu",
+      "ils": "eussent étendu"
+    },
+    "translation": "kłaść",
+    "group": 3
+  },
+  {
+    "infinitive": "éternuer",
+    "présent": {
+      "je": "éternue",
+      "tu": "éternues",
+      "il": "éternue",
+      "nous": "éternuons",
+      "vous": "éternuez",
+      "ils": "éternuent"
+    },
+    "passé_composé": {
+      "je": "ai éternué",
+      "tu": "as éternué",
+      "il": "a éternué",
+      "nous": "avons éternué",
+      "vous": "avez éternué",
+      "ils": "ont éternué"
+    },
+    "imparfait": {
+      "je": "éternuais",
+      "tu": "éternuais",
+      "il": "éternuait",
+      "nous": "éternuions",
+      "vous": "éternuiez",
+      "ils": "éternuaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais éternué",
+      "tu": "avais éternué",
+      "il": "avait éternué",
+      "nous": "avions éternué",
+      "vous": "aviez éternué",
+      "ils": "avaient éternué"
+    },
+    "passé_simple": {
+      "je": "éternuai",
+      "tu": "éternuas",
+      "il": "éternua",
+      "nous": "éternuâmes",
+      "vous": "éternuâtes",
+      "ils": "éternuèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus éternué",
+      "tu": "eus éternué",
+      "il": "eut éternué",
+      "nous": "eûmes éternué",
+      "vous": "eûtes éternué",
+      "ils": "eurent éternué"
+    },
+    "futur_simple": {
+      "je": "éternuerai",
+      "tu": "éternueras",
+      "il": "éternuera",
+      "nous": "éternuerons",
+      "vous": "éternuerez",
+      "ils": "éternueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai éternué",
+      "tu": "auras éternué",
+      "il": "aura éternué",
+      "nous": "aurons éternué",
+      "vous": "aurez éternué",
+      "ils": "auront éternué"
+    },
+    "subjonctif_présent": {
+      "je": "éternue",
+      "tu": "éternues",
+      "il": "éternue",
+      "nous": "éternuions",
+      "vous": "éternuiez",
+      "ils": "éternuent"
+    },
+    "subjonctif_passé": {
+      "je": "aie éternué",
+      "tu": "aies éternué",
+      "il": "ait éternué",
+      "nous": "ayons éternué",
+      "vous": "ayez éternué",
+      "ils": "aient éternué"
+    },
+    "subjonctif_imparfait": {
+      "je": "éternuasse",
+      "tu": "éternuasses",
+      "il": "éternuât",
+      "nous": "éternuassions",
+      "vous": "éternuassiez",
+      "ils": "éternuassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse éternué",
+      "tu": "eusses éternué",
+      "il": "eût éternué",
+      "nous": "eussions éternué",
+      "vous": "eussiez éternué",
+      "ils": "eussent éternué"
+    },
+    "conditionnel_présent": {
+      "je": "éternuerais",
+      "tu": "éternuerais",
+      "il": "éternuerait",
+      "nous": "éternuerions",
+      "vous": "éternueriez",
+      "ils": "éternueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais éternué",
+      "tu": "aurais éternué",
+      "il": "aurait éternué",
+      "nous": "aurions éternué",
+      "vous": "auriez éternué",
+      "ils": "auraient éternué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse éternué",
+      "tu": "eusses éternué",
+      "il": "eût éternué",
+      "nous": "eussions éternué",
+      "vous": "eussiez éternué",
+      "ils": "eussent éternué"
+    },
+    "translation": "kichać",
+    "group": 1
+  },
+  {
+    "infinitive": "étinceler",
+    "présent": {
+      "je": "étincelle",
+      "tu": "étincelles",
+      "il": "étincelle",
+      "nous": "étincelons",
+      "vous": "étincelez",
+      "ils": "étincellent"
+    },
+    "passé_composé": {
+      "je": "ai étincelé",
+      "tu": "as étincelé",
+      "il": "a étincelé",
+      "nous": "avons étincelé",
+      "vous": "avez étincelé",
+      "ils": "ont étincelé"
+    },
+    "imparfait": {
+      "je": "étincelais",
+      "tu": "étincelais",
+      "il": "étincelait",
+      "nous": "étincelions",
+      "vous": "étinceliez",
+      "ils": "étincelaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais étincelé",
+      "tu": "avais étincelé",
+      "il": "avait étincelé",
+      "nous": "avions étincelé",
+      "vous": "aviez étincelé",
+      "ils": "avaient étincelé"
+    },
+    "passé_simple": {
+      "je": "étincelai",
+      "tu": "étincelas",
+      "il": "étincela",
+      "nous": "étincelâmes",
+      "vous": "étincelâtes",
+      "ils": "étincelèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus étincelé",
+      "tu": "eus étincelé",
+      "il": "eut étincelé",
+      "nous": "eûmes étincelé",
+      "vous": "eûtes étincelé",
+      "ils": "eurent étincelé"
+    },
+    "futur_simple": {
+      "je": "étincellerai",
+      "tu": "étincelleras",
+      "il": "étincellera",
+      "nous": "étincellerons",
+      "vous": "étincellerez",
+      "ils": "étincelleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai étincelé",
+      "tu": "auras étincelé",
+      "il": "aura étincelé",
+      "nous": "aurons étincelé",
+      "vous": "aurez étincelé",
+      "ils": "auront étincelé"
+    },
+    "subjonctif_présent": {
+      "je": "étincelle",
+      "tu": "étincelles",
+      "il": "étincelle",
+      "nous": "étincelions",
+      "vous": "étinceliez",
+      "ils": "étincellent"
+    },
+    "subjonctif_passé": {
+      "je": "aie étincelé",
+      "tu": "aies étincelé",
+      "il": "ait étincelé",
+      "nous": "ayons étincelé",
+      "vous": "ayez étincelé",
+      "ils": "aient étincelé"
+    },
+    "subjonctif_imparfait": {
+      "je": "étincelasse",
+      "tu": "étincelasses",
+      "il": "étincelât",
+      "nous": "étincelassions",
+      "vous": "étincelassiez",
+      "ils": "étincelassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse étincelé",
+      "tu": "eusses étincelé",
+      "il": "eût étincelé",
+      "nous": "eussions étincelé",
+      "vous": "eussiez étincelé",
+      "ils": "eussent étincelé"
+    },
+    "conditionnel_présent": {
+      "je": "étincellerais",
+      "tu": "étincellerais",
+      "il": "étincellerait",
+      "nous": "étincellerions",
+      "vous": "étincelleriez",
+      "ils": "étincelleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais étincelé",
+      "tu": "aurais étincelé",
+      "il": "aurait étincelé",
+      "nous": "aurions étincelé",
+      "vous": "auriez étincelé",
+      "ils": "auraient étincelé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse étincelé",
+      "tu": "eusses étincelé",
+      "il": "eût étincelé",
+      "nous": "eussions étincelé",
+      "vous": "eussiez étincelé",
+      "ils": "eussent étincelé"
+    },
+    "translation": "błyszczeć",
+    "group": 1
+  },
+  {
+    "infinitive": "étiqueter",
+    "présent": {
+      "je": "étiquette",
+      "tu": "étiquettes",
+      "il": "étiquette",
+      "nous": "étiquetons",
+      "vous": "étiquetez",
+      "ils": "étiquettent"
+    },
+    "passé_composé": {
+      "je": "ai étiqueté",
+      "tu": "as étiqueté",
+      "il": "a étiqueté",
+      "nous": "avons étiqueté",
+      "vous": "avez étiqueté",
+      "ils": "ont étiqueté"
+    },
+    "imparfait": {
+      "je": "étiquetais",
+      "tu": "étiquetais",
+      "il": "étiquetait",
+      "nous": "étiquetions",
+      "vous": "étiquetiez",
+      "ils": "étiquetaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais étiqueté",
+      "tu": "avais étiqueté",
+      "il": "avait étiqueté",
+      "nous": "avions étiqueté",
+      "vous": "aviez étiqueté",
+      "ils": "avaient étiqueté"
+    },
+    "passé_simple": {
+      "je": "étiquetai",
+      "tu": "étiquetas",
+      "il": "étiqueta",
+      "nous": "étiquetâmes",
+      "vous": "étiquetâtes",
+      "ils": "étiquetèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus étiqueté",
+      "tu": "eus étiqueté",
+      "il": "eut étiqueté",
+      "nous": "eûmes étiqueté",
+      "vous": "eûtes étiqueté",
+      "ils": "eurent étiqueté"
+    },
+    "futur_simple": {
+      "je": "étiquetterai",
+      "tu": "étiquetteras",
+      "il": "étiquettera",
+      "nous": "étiquetterons",
+      "vous": "étiquetterez",
+      "ils": "étiquetteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai étiqueté",
+      "tu": "auras étiqueté",
+      "il": "aura étiqueté",
+      "nous": "aurons étiqueté",
+      "vous": "aurez étiqueté",
+      "ils": "auront étiqueté"
+    },
+    "subjonctif_présent": {
+      "je": "étiquette",
+      "tu": "étiquettes",
+      "il": "étiquette",
+      "nous": "étiquetions",
+      "vous": "étiquetiez",
+      "ils": "étiquettent"
+    },
+    "subjonctif_passé": {
+      "je": "aie étiqueté",
+      "tu": "aies étiqueté",
+      "il": "ait étiqueté",
+      "nous": "ayons étiqueté",
+      "vous": "ayez étiqueté",
+      "ils": "aient étiqueté"
+    },
+    "subjonctif_imparfait": {
+      "je": "étiquetasse",
+      "tu": "étiquetasses",
+      "il": "étiquetât",
+      "nous": "étiquetassions",
+      "vous": "étiquetassiez",
+      "ils": "étiquetassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse étiqueté",
+      "tu": "eusses étiqueté",
+      "il": "eût étiqueté",
+      "nous": "eussions étiqueté",
+      "vous": "eussiez étiqueté",
+      "ils": "eussent étiqueté"
+    },
+    "conditionnel_présent": {
+      "je": "étiquetterais",
+      "tu": "étiquetterais",
+      "il": "étiquetterait",
+      "nous": "étiquetterions",
+      "vous": "étiquetteriez",
+      "ils": "étiquetteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais étiqueté",
+      "tu": "aurais étiqueté",
+      "il": "aurait étiqueté",
+      "nous": "aurions étiqueté",
+      "vous": "auriez étiqueté",
+      "ils": "auraient étiqueté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse étiqueté",
+      "tu": "eusses étiqueté",
+      "il": "eût étiqueté",
+      "nous": "eussions étiqueté",
+      "vous": "eussiez étiqueté",
+      "ils": "eussent étiqueté"
+    },
+    "translation": "etykietować",
+    "group": 1
+  }
+]

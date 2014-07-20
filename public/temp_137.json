@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "peaufiner",
+    "présent": {
+      "je": "peaufine",
+      "tu": "peaufines",
+      "il": "peaufine",
+      "nous": "peaufinons",
+      "vous": "peaufinez",
+      "ils": "peaufinent"
+    },
+    "passé_composé": {
+      "je": "ai peaufiné",
+      "tu": "as peaufiné",
+      "il": "a peaufiné",
+      "nous": "avons peaufiné",
+      "vous": "avez peaufiné",
+      "ils": "ont peaufiné"
+    },
+    "imparfait": {
+      "je": "peaufinais",
+      "tu": "peaufinais",
+      "il": "peaufinait",
+      "nous": "peaufinions",
+      "vous": "peaufiniez",
+      "ils": "peaufinaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais peaufiné",
+      "tu": "avais peaufiné",
+      "il": "avait peaufiné",
+      "nous": "avions peaufiné",
+      "vous": "aviez peaufiné",
+      "ils": "avaient peaufiné"
+    },
+    "passé_simple": {
+      "je": "peaufinai",
+      "tu": "peaufinas",
+      "il": "peaufina",
+      "nous": "peaufinâmes",
+      "vous": "peaufinâtes",
+      "ils": "peaufinèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus peaufiné",
+      "tu": "eus peaufiné",
+      "il": "eut peaufiné",
+      "nous": "eûmes peaufiné",
+      "vous": "eûtes peaufiné",
+      "ils": "eurent peaufiné"
+    },
+    "futur_simple": {
+      "je": "peaufinerai",
+      "tu": "peaufineras",
+      "il": "peaufinera",
+      "nous": "peaufinerons",
+      "vous": "peaufinerez",
+      "ils": "peaufineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai peaufiné",
+      "tu": "auras peaufiné",
+      "il": "aura peaufiné",
+      "nous": "aurons peaufiné",
+      "vous": "aurez peaufiné",
+      "ils": "auront peaufiné"
+    },
+    "subjonctif_présent": {
+      "je": "peaufine",
+      "tu": "peaufines",
+      "il": "peaufine",
+      "nous": "peaufinions",
+      "vous": "peaufiniez",
+      "ils": "peaufinent"
+    },
+    "subjonctif_passé": {
+      "je": "aie peaufiné",
+      "tu": "aies peaufiné",
+      "il": "ait peaufiné",
+      "nous": "ayons peaufiné",
+      "vous": "ayez peaufiné",
+      "ils": "aient peaufiné"
+    },
+    "subjonctif_imparfait": {
+      "je": "peaufinasse",
+      "tu": "peaufinasses",
+      "il": "peaufinât",
+      "nous": "peaufinassions",
+      "vous": "peaufinassiez",
+      "ils": "peaufinassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse peaufiné",
+      "tu": "eusses peaufiné",
+      "il": "eût peaufiné",
+      "nous": "eussions peaufiné",
+      "vous": "eussiez peaufiné",
+      "ils": "eussent peaufiné"
+    },
+    "conditionnel_présent": {
+      "je": "peaufinerais",
+      "tu": "peaufinerais",
+      "il": "peaufinerait",
+      "nous": "peaufinerions",
+      "vous": "peaufineriez",
+      "ils": "peaufineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais peaufiné",
+      "tu": "aurais peaufiné",
+      "il": "aurait peaufiné",
+      "nous": "aurions peaufiné",
+      "vous": "auriez peaufiné",
+      "ils": "auraient peaufiné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse peaufiné",
+      "tu": "eusses peaufiné",
+      "il": "eût peaufiné",
+      "nous": "eussions peaufiné",
+      "vous": "eussiez peaufiné",
+      "ils": "eussent peaufiné"
+    },
+    "translation": "rafinować",
+    "group": 1
+  },
+  {
+    "infinitive": "pêcher",
+    "présent": {
+      "je": "pêche",
+      "tu": "pêches",
+      "il": "pêche",
+      "nous": "pêchons",
+      "vous": "pêchez",
+      "ils": "pêchent"
+    },
+    "passé_composé": {
+      "je": "ai pêché",
+      "tu": "as pêché",
+      "il": "a pêché",
+      "nous": "avons pêché",
+      "vous": "avez pêché",
+      "ils": "ont pêché"
+    },
+    "imparfait": {
+      "je": "pêchais",
+      "tu": "pêchais",
+      "il": "pêchait",
+      "nous": "pêchions",
+      "vous": "pêchiez",
+      "ils": "pêchaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais pêché",
+      "tu": "avais pêché",
+      "il": "avait pêché",
+      "nous": "avions pêché",
+      "vous": "aviez pêché",
+      "ils": "avaient pêché"
+    },
+    "passé_simple": {
+      "je": "pêchai",
+      "tu": "pêchas",
+      "il": "pêcha",
+      "nous": "pêchâmes",
+      "vous": "pêchâtes",
+      "ils": "pêchèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus pêché",
+      "tu": "eus pêché",
+      "il": "eut pêché",
+      "nous": "eûmes pêché",
+      "vous": "eûtes pêché",
+      "ils": "eurent pêché"
+    },
+    "futur_simple": {
+      "je": "pêcherai",
+      "tu": "pêcheras",
+      "il": "pêchera",
+      "nous": "pêcherons",
+      "vous": "pêcherez",
+      "ils": "pêcheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai pêché",
+      "tu": "auras pêché",
+      "il": "aura pêché",
+      "nous": "aurons pêché",
+      "vous": "aurez pêché",
+      "ils": "auront pêché"
+    },
+    "subjonctif_présent": {
+      "je": "pêche",
+      "tu": "pêches",
+      "il": "pêche",
+      "nous": "pêchions",
+      "vous": "pêchiez",
+      "ils": "pêchent"
+    },
+    "subjonctif_passé": {
+      "je": "aie pêché",
+      "tu": "aies pêché",
+      "il": "ait pêché",
+      "nous": "ayons pêché",
+      "vous": "ayez pêché",
+      "ils": "aient pêché"
+    },
+    "subjonctif_imparfait": {
+      "je": "pêchasse",
+      "tu": "pêchasses",
+      "il": "pêchât",
+      "nous": "pêchassions",
+      "vous": "pêchassiez",
+      "ils": "pêchassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse pêché",
+      "tu": "eusses pêché",
+      "il": "eût pêché",
+      "nous": "eussions pêché",
+      "vous": "eussiez pêché",
+      "ils": "eussent pêché"
+    },
+    "conditionnel_présent": {
+      "je": "pêcherais",
+      "tu": "pêcherais",
+      "il": "pêcherait",
+      "nous": "pêcherions",
+      "vous": "pêcheriez",
+      "ils": "pêcheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais pêché",
+      "tu": "aurais pêché",
+      "il": "aurait pêché",
+      "nous": "aurions pêché",
+      "vous": "auriez pêché",
+      "ils": "auraient pêché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse pêché",
+      "tu": "eusses pêché",
+      "il": "eût pêché",
+      "nous": "eussions pêché",
+      "vous": "eussiez pêché",
+      "ils": "eussent pêché"
+    },
+    "translation": "łowić",
+    "group": 1
+  },
+  {
+    "infinitive": "pécher",
+    "présent": {
+      "je": "pêche",
+      "tu": "pêches",
+      "il": "pêche",
+      "nous": "pêchons",
+      "vous": "pêchez",
+      "ils": "pêchent"
+    },
+    "passé_composé": {
+      "je": "ai pêché",
+      "tu": "as pêché",
+      "il": "a pêché",
+      "nous": "avons pêché",
+      "vous": "avez pêché",
+      "ils": "ont pêché"
+    },
+    "imparfait": {
+      "je": "pêchais",
+      "tu": "pêchais",
+      "il": "pêchait",
+      "nous": "pêchions",
+      "vous": "pêchiez",
+      "ils": "pêchaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais pêché",
+      "tu": "avais pêché",
+      "il": "avait pêché",
+      "nous": "avions pêché",
+      "vous": "aviez pêché",
+      "ils": "avaient pêché"
+    },
+    "passé_simple": {
+      "je": "pêchai",
+      "tu": "pêchas",
+      "il": "pêcha",
+      "nous": "pêchâmes",
+      "vous": "pêchâtes",
+      "ils": "pêchèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus pêché",
+      "tu": "eus pêché",
+      "il": "eut pêché",
+      "nous": "eûmes pêché",
+      "vous": "eûtes pêché",
+      "ils": "eurent pêché"
+    },
+    "futur_simple": {
+      "je": "pêcherai",
+      "tu": "pêcheras",
+      "il": "pêchera",
+      "nous": "pêcherons",
+      "vous": "pêcherez",
+      "ils": "pêcheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai pêché",
+      "tu": "auras pêché",
+      "il": "aura pêché",
+      "nous": "aurons pêché",
+      "vous": "aurez pêché",
+      "ils": "auront pêché"
+    },
+    "subjonctif_présent": {
+      "je": "pêche",
+      "tu": "pêches",
+      "il": "pêche",
+      "nous": "pêchions",
+      "vous": "pêchiez",
+      "ils": "pêchent"
+    },
+    "subjonctif_passé": {
+      "je": "aie pêché",
+      "tu": "aies pêché",
+      "il": "ait pêché",
+      "nous": "ayons pêché",
+      "vous": "ayez pêché",
+      "ils": "aient pêché"
+    },
+    "subjonctif_imparfait": {
+      "je": "pêchasse",
+      "tu": "pêchasses",
+      "il": "pêchât",
+      "nous": "pêchassions",
+      "vous": "pêchassiez",
+      "ils": "pêchassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse pêché",
+      "tu": "eusses pêché",
+      "il": "eût pêché",
+      "nous": "eussions pêché",
+      "vous": "eussiez pêché",
+      "ils": "eussent pêché"
+    },
+    "conditionnel_présent": {
+      "je": "pêcherais",
+      "tu": "pêcherais",
+      "il": "pêcherait",
+      "nous": "pêcherions",
+      "vous": "pêcheriez",
+      "ils": "pêcheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais pêché",
+      "tu": "aurais pêché",
+      "il": "aurait pêché",
+      "nous": "aurions pêché",
+      "vous": "auriez pêché",
+      "ils": "auraient pêché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse pêché",
+      "tu": "eusses pêché",
+      "il": "eût pêché",
+      "nous": "eussions pêché",
+      "vous": "eussiez pêché",
+      "ils": "eussent pêché"
+    },
+    "translation": "łowić",
+    "group": 1
+  },
+  {
+    "infinitive": "pédaler",
+    "présent": {
+      "je": "pédale",
+      "tu": "pédales",
+      "il": "pédale",
+      "nous": "pédalons",
+      "vous": "pédalez",
+      "ils": "pédalent"
+    },
+    "passé_composé": {
+      "je": "ai pédalé",
+      "tu": "as pédalé",
+      "il": "a pédalé",
+      "nous": "avons pédalé",
+      "vous": "avez pédalé",
+      "ils": "ont pédalé"
+    },
+    "imparfait": {
+      "je": "pédalais",
+      "tu": "pédalais",
+      "il": "pédalait",
+      "nous": "pédalions",
+      "vous": "pédaliez",
+      "ils": "pédalaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais pédalé",
+      "tu": "avais pédalé",
+      "il": "avait pédalé",
+      "nous": "avions pédalé",
+      "vous": "aviez pédalé",
+      "ils": "avaient pédalé"
+    },
+    "passé_simple": {
+      "je": "pédalai",
+      "tu": "pédalas",
+      "il": "pédala",
+      "nous": "pédalâmes",
+      "vous": "pédalâtes",
+      "ils": "pédalèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus pédalé",
+      "tu": "eus pédalé",
+      "il": "eut pédalé",
+      "nous": "eûmes pédalé",
+      "vous": "eûtes pédalé",
+      "ils": "eurent pédalé"
+    },
+    "futur_simple": {
+      "je": "pédalerai",
+      "tu": "pédaleras",
+      "il": "pédalera",
+      "nous": "pédalerons",
+      "vous": "pédalerez",
+      "ils": "pédaleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai pédalé",
+      "tu": "auras pédalé",
+      "il": "aura pédalé",
+      "nous": "aurons pédalé",
+      "vous": "aurez pédalé",
+      "ils": "auront pédalé"
+    },
+    "subjonctif_présent": {
+      "je": "pédale",
+      "tu": "pédales",
+      "il": "pédale",
+      "nous": "pédalions",
+      "vous": "pédaliez",
+      "ils": "pédalent"
+    },
+    "subjonctif_passé": {
+      "je": "aie pédalé",
+      "tu": "aies pédalé",
+      "il": "ait pédalé",
+      "nous": "ayons pédalé",
+      "vous": "ayez pédalé",
+      "ils": "aient pédalé"
+    },
+    "subjonctif_imparfait": {
+      "je": "pédalasse",
+      "tu": "pédalasses",
+      "il": "pédalât",
+      "nous": "pédalassions",
+      "vous": "pédalassiez",
+      "ils": "pédalassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse pédalé",
+      "tu": "eusses pédalé",
+      "il": "eût pédalé",
+      "nous": "eussions pédalé",
+      "vous": "eussiez pédalé",
+      "ils": "eussent pédalé"
+    },
+    "conditionnel_présent": {
+      "je": "pédalerais",
+      "tu": "pédalerais",
+      "il": "pédalerait",
+      "nous": "pédalerions",
+      "vous": "pédaleriez",
+      "ils": "pédaleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais pédalé",
+      "tu": "aurais pédalé",
+      "il": "aurait pédalé",
+      "nous": "aurions pédalé",
+      "vous": "auriez pédalé",
+      "ils": "auraient pédalé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse pédalé",
+      "tu": "eusses pédalé",
+      "il": "eût pédalé",
+      "nous": "eussions pédalé",
+      "vous": "eussiez pédalé",
+      "ils": "eussent pédalé"
+    },
+    "translation": "pédaler",
+    "group": 1
+  },
+  {
+    "infinitive": "peigner",
+    "présent": {
+      "je": "peigne",
+      "tu": "peignes",
+      "il": "peigne",
+      "nous": "peignons",
+      "vous": "peignez",
+      "ils": "peignent"
+    },
+    "passé_composé": {
+      "je": "ai peigné",
+      "tu": "as peigné",
+      "il": "a peigné",
+      "nous": "avons peigné",
+      "vous": "avez peigné",
+      "ils": "ont peigné"
+    },
+    "imparfait": {
+      "je": "peignais",
+      "tu": "peignais",
+      "il": "peignait",
+      "nous": "peignions",
+      "vous": "peigniez",
+      "ils": "peignaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais peigné",
+      "tu": "avais peigné",
+      "il": "avait peigné",
+      "nous": "avions peigné",
+      "vous": "aviez peigné",
+      "ils": "avaient peigné"
+    },
+    "passé_simple": {
+      "je": "peignai",
+      "tu": "peignas",
+      "il": "peigna",
+      "nous": "peignâmes",
+      "vous": "peignâtes",
+      "ils": "peignèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus peigné",
+      "tu": "eus peigné",
+      "il": "eut peigné",
+      "nous": "eûmes peigné",
+      "vous": "eûtes peigné",
+      "ils": "eurent peigné"
+    },
+    "futur_simple": {
+      "je": "peignerai",
+      "tu": "peigneras",
+      "il": "peignera",
+      "nous": "peignerons",
+      "vous": "peignerez",
+      "ils": "peigneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai peigné",
+      "tu": "auras peigné",
+      "il": "aura peigné",
+      "nous": "aurons peigné",
+      "vous": "aurez peigné",
+      "ils": "auront peigné"
+    },
+    "subjonctif_présent": {
+      "je": "peigne",
+      "tu": "peignes",
+      "il": "peigne",
+      "nous": "peignions",
+      "vous": "peigniez",
+      "ils": "peignent"
+    },
+    "subjonctif_passé": {
+      "je": "aie peigné",
+      "tu": "aies peigné",
+      "il": "ait peigné",
+      "nous": "ayons peigné",
+      "vous": "ayez peigné",
+      "ils": "aient peigné"
+    },
+    "subjonctif_imparfait": {
+      "je": "peignasse",
+      "tu": "peignasses",
+      "il": "peignât",
+      "nous": "peignassions",
+      "vous": "peignassiez",
+      "ils": "peignassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse peigné",
+      "tu": "eusses peigné",
+      "il": "eût peigné",
+      "nous": "eussions peigné",
+      "vous": "eussiez peigné",
+      "ils": "eussent peigné"
+    },
+    "conditionnel_présent": {
+      "je": "peignerais",
+      "tu": "peignerais",
+      "il": "peignerait",
+      "nous": "peignerions",
+      "vous": "peigneriez",
+      "ils": "peigneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais peigné",
+      "tu": "aurais peigné",
+      "il": "aurait peigné",
+      "nous": "aurions peigné",
+      "vous": "auriez peigné",
+      "ils": "auraient peigné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse peigné",
+      "tu": "eusses peigné",
+      "il": "eût peigné",
+      "nous": "eussions peigné",
+      "vous": "eussiez peigné",
+      "ils": "eussent peigné"
+    },
+    "translation": "czesać",
+    "group": 1
+  },
+  {
+    "infinitive": "peindre",
+    "présent": {
+      "je": "peins",
+      "tu": "peins",
+      "il": "peint",
+      "nous": "peignons",
+      "vous": "peignez",
+      "ils": "peignent"
+    },
+    "passé_composé": {
+      "je": "ai peint",
+      "tu": "as peint",
+      "il": "a peint",
+      "nous": "avons peint",
+      "vous": "avez peint",
+      "ils": "ont peint"
+    },
+    "imparfait": {
+      "je": "peignais",
+      "tu": "peignais",
+      "il": "peignait",
+      "nous": "peignions",
+      "vous": "peigniez",
+      "ils": "peignaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais peint",
+      "tu": "avais peint",
+      "il": "avait peint",
+      "nous": "avions peint",
+      "vous": "aviez peint",
+      "ils": "avaient peint"
+    },
+    "passé_simple": {
+      "je": "peignis",
+      "tu": "peignis",
+      "il": "peignit",
+      "nous": "peignîmes",
+      "vous": "peignîtes",
+      "ils": "peignirent"
+    },
+    "passé_antérieur": {
+      "je": "eus peint",
+      "tu": "eus peint",
+      "il": "eut peint",
+      "nous": "eûmes peint",
+      "vous": "eûtes peint",
+      "ils": "eurent peint"
+    },
+    "futur_simple": {
+      "je": "peindrai",
+      "tu": "peindras",
+      "il": "peindra",
+      "nous": "peindrons",
+      "vous": "peindrez",
+      "ils": "peindront"
+    },
+    "futur_antérieur": {
+      "je": "aurai peint",
+      "tu": "auras peint",
+      "il": "aura peint",
+      "nous": "aurons peint",
+      "vous": "aurez peint",
+      "ils": "auront peint"
+    },
+    "subjonctif_présent": {
+      "je": "peigne",
+      "tu": "peignes",
+      "il": "peigne",
+      "nous": "peignions",
+      "vous": "peigniez",
+      "ils": "peignent"
+    },
+    "subjonctif_passé": {
+      "je": "aie peint",
+      "tu": "aies peint",
+      "il": "ait peint",
+      "nous": "ayons peint",
+      "vous": "ayez peint",
+      "ils": "aient peint"
+    },
+    "subjonctif_imparfait": {
+      "je": "peignisse",
+      "tu": "peignisses",
+      "il": "peignît",
+      "nous": "peignissions",
+      "vous": "peignissiez",
+      "ils": "peignissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse peint",
+      "tu": "eusses peint",
+      "il": "eût peint",
+      "nous": "eussions peint",
+      "vous": "eussiez peint",
+      "ils": "eussent peint"
+    },
+    "conditionnel_présent": {
+      "je": "peindrais",
+      "tu": "peindrais",
+      "il": "peindrait",
+      "nous": "peindrions",
+      "vous": "peindriez",
+      "ils": "peindraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais peint",
+      "tu": "aurais peint",
+      "il": "aurait peint",
+      "nous": "aurions peint",
+      "vous": "auriez peint",
+      "ils": "auraient peint"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse peint",
+      "tu": "eusses peint",
+      "il": "eût peint",
+      "nous": "eussions peint",
+      "vous": "eussiez peint",
+      "ils": "eussent peint"
+    },
+    "translation": "malować",
+    "group": 3
+  },
+  {
+    "infinitive": "peiner",
+    "présent": {
+      "je": "peine",
+      "tu": "peines",
+      "il": "peine",
+      "nous": "peinons",
+      "vous": "peinez",
+      "ils": "peinent"
+    },
+    "passé_composé": {
+      "je": "ai peiné",
+      "tu": "as peiné",
+      "il": "a peiné",
+      "nous": "avons peiné",
+      "vous": "avez peiné",
+      "ils": "ont peiné"
+    },
+    "imparfait": {
+      "je": "peinais",
+      "tu": "peinais",
+      "il": "peinait",
+      "nous": "peinions",
+      "vous": "peiniez",
+      "ils": "peinaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais peiné",
+      "tu": "avais peiné",
+      "il": "avait peiné",
+      "nous": "avions peiné",
+      "vous": "aviez peiné",
+      "ils": "avaient peiné"
+    },
+    "passé_simple": {
+      "je": "peinai",
+      "tu": "peinas",
+      "il": "peina",
+      "nous": "peinâmes",
+      "vous": "peinâtes",
+      "ils": "peinèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus peiné",
+      "tu": "eus peiné",
+      "il": "eut peiné",
+      "nous": "eûmes peiné",
+      "vous": "eûtes peiné",
+      "ils": "eurent peiné"
+    },
+    "futur_simple": {
+      "je": "peinerai",
+      "tu": "peineras",
+      "il": "peinera",
+      "nous": "peinerons",
+      "vous": "peinerez",
+      "ils": "peineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai peiné",
+      "tu": "auras peiné",
+      "il": "aura peiné",
+      "nous": "aurons peiné",
+      "vous": "aurez peiné",
+      "ils": "auront peiné"
+    },
+    "subjonctif_présent": {
+      "je": "peine",
+      "tu": "peines",
+      "il": "peine",
+      "nous": "peinions",
+      "vous": "peiniez",
+      "ils": "peinent"
+    },
+    "subjonctif_passé": {
+      "je": "aie peiné",
+      "tu": "aies peiné",
+      "il": "ait peiné",
+      "nous": "ayons peiné",
+      "vous": "ayez peiné",
+      "ils": "aient peiné"
+    },
+    "subjonctif_imparfait": {
+      "je": "peinasse",
+      "tu": "peinasses",
+      "il": "peinât",
+      "nous": "peinassions",
+      "vous": "peinassiez",
+      "ils": "peinassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse peiné",
+      "tu": "eusses peiné",
+      "il": "eût peiné",
+      "nous": "eussions peiné",
+      "vous": "eussiez peiné",
+      "ils": "eussent peiné"
+    },
+    "conditionnel_présent": {
+      "je": "peinerais",
+      "tu": "peinerais",
+      "il": "peinerait",
+      "nous": "peinerions",
+      "vous": "peineriez",
+      "ils": "peineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais peiné",
+      "tu": "aurais peiné",
+      "il": "aurait peiné",
+      "nous": "aurions peiné",
+      "vous": "auriez peiné",
+      "ils": "auraient peiné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse peiné",
+      "tu": "eusses peiné",
+      "il": "eût peiné",
+      "nous": "eussions peiné",
+      "vous": "eussiez peiné",
+      "ils": "eussent peiné"
+    },
+    "translation": "trudzić",
+    "group": 1
+  },
+  {
+    "infinitive": "peinturer",
+    "présent": {
+      "je": "peinture",
+      "tu": "peintures",
+      "il": "peinture",
+      "nous": "peinturons",
+      "vous": "peinturez",
+      "ils": "peinturent"
+    },
+    "passé_composé": {
+      "je": "ai peinturé",
+      "tu": "as peinturé",
+      "il": "a peinturé",
+      "nous": "avons peinturé",
+      "vous": "avez peinturé",
+      "ils": "ont peinturé"
+    },
+    "imparfait": {
+      "je": "peinturais",
+      "tu": "peinturais",
+      "il": "peinturait",
+      "nous": "peinturions",
+      "vous": "peinturiez",
+      "ils": "peinturaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais peinturé",
+      "tu": "avais peinturé",
+      "il": "avait peinturé",
+      "nous": "avions peinturé",
+      "vous": "aviez peinturé",
+      "ils": "avaient peinturé"
+    },
+    "passé_simple": {
+      "je": "peinturai",
+      "tu": "peinturas",
+      "il": "peintura",
+      "nous": "peinturâmes",
+      "vous": "peinturâtes",
+      "ils": "peinturèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus peinturé",
+      "tu": "eus peinturé",
+      "il": "eut peinturé",
+      "nous": "eûmes peinturé",
+      "vous": "eûtes peinturé",
+      "ils": "eurent peinturé"
+    },
+    "futur_simple": {
+      "je": "peinturerai",
+      "tu": "peintureras",
+      "il": "peinturera",
+      "nous": "peinturerons",
+      "vous": "peinturerez",
+      "ils": "peintureront"
+    },
+    "futur_antérieur": {
+      "je": "aurai peinturé",
+      "tu": "auras peinturé",
+      "il": "aura peinturé",
+      "nous": "aurons peinturé",
+      "vous": "aurez peinturé",
+      "ils": "auront peinturé"
+    },
+    "subjonctif_présent": {
+      "je": "peinture",
+      "tu": "peintures",
+      "il": "peinture",
+      "nous": "peinturions",
+      "vous": "peinturiez",
+      "ils": "peinturent"
+    },
+    "subjonctif_passé": {
+      "je": "aie peinturé",
+      "tu": "aies peinturé",
+      "il": "ait peinturé",
+      "nous": "ayons peinturé",
+      "vous": "ayez peinturé",
+      "ils": "aient peinturé"
+    },
+    "subjonctif_imparfait": {
+      "je": "peinturasse",
+      "tu": "peinturasses",
+      "il": "peinturât",
+      "nous": "peinturassions",
+      "vous": "peinturassiez",
+      "ils": "peinturassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse peinturé",
+      "tu": "eusses peinturé",
+      "il": "eût peinturé",
+      "nous": "eussions peinturé",
+      "vous": "eussiez peinturé",
+      "ils": "eussent peinturé"
+    },
+    "conditionnel_présent": {
+      "je": "peinturerais",
+      "tu": "peinturerais",
+      "il": "peinturerait",
+      "nous": "peinturerions",
+      "vous": "peintureriez",
+      "ils": "peintureraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais peinturé",
+      "tu": "aurais peinturé",
+      "il": "aurait peinturé",
+      "nous": "aurions peinturé",
+      "vous": "auriez peinturé",
+      "ils": "auraient peinturé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse peinturé",
+      "tu": "eusses peinturé",
+      "il": "eût peinturé",
+      "nous": "eussions peinturé",
+      "vous": "eussiez peinturé",
+      "ils": "eussent peinturé"
+    },
+    "translation": "malowanie",
+    "group": 1
+  },
+  {
+    "infinitive": "peler",
+    "présent": {
+      "je": "pèle",
+      "tu": "pèles",
+      "il": "pèle",
+      "nous": "pelons",
+      "vous": "pelez",
+      "ils": "pèlent"
+    },
+    "passé_composé": {
+      "je": "ai pelé",
+      "tu": "as pelé",
+      "il": "a pelé",
+      "nous": "avons pelé",
+      "vous": "avez pelé",
+      "ils": "ont pelé"
+    },
+    "imparfait": {
+      "je": "pelais",
+      "tu": "pelais",
+      "il": "pelait",
+      "nous": "pelions",
+      "vous": "peliez",
+      "ils": "pelaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais pelé",
+      "tu": "avais pelé",
+      "il": "avait pelé",
+      "nous": "avions pelé",
+      "vous": "aviez pelé",
+      "ils": "avaient pelé"
+    },
+    "passé_simple": {
+      "je": "pelai",
+      "tu": "pelas",
+      "il": "pela",
+      "nous": "pelâmes",
+      "vous": "pelâtes",
+      "ils": "pelèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus pelé",
+      "tu": "eus pelé",
+      "il": "eut pelé",
+      "nous": "eûmes pelé",
+      "vous": "eûtes pelé",
+      "ils": "eurent pelé"
+    },
+    "futur_simple": {
+      "je": "pèlerai",
+      "tu": "pèleras",
+      "il": "pèlera",
+      "nous": "pèlerons",
+      "vous": "pèlerez",
+      "ils": "pèleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai pelé",
+      "tu": "auras pelé",
+      "il": "aura pelé",
+      "nous": "aurons pelé",
+      "vous": "aurez pelé",
+      "ils": "auront pelé"
+    },
+    "subjonctif_présent": {
+      "je": "pèle",
+      "tu": "pèles",
+      "il": "pèle",
+      "nous": "pelions",
+      "vous": "peliez",
+      "ils": "pèlent"
+    },
+    "subjonctif_passé": {
+      "je": "aie pelé",
+      "tu": "aies pelé",
+      "il": "ait pelé",
+      "nous": "ayons pelé",
+      "vous": "ayez pelé",
+      "ils": "aient pelé"
+    },
+    "subjonctif_imparfait": {
+      "je": "pelasse",
+      "tu": "pelasses",
+      "il": "pelât",
+      "nous": "pelassions",
+      "vous": "pelassiez",
+      "ils": "pelassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse pelé",
+      "tu": "eusses pelé",
+      "il": "eût pelé",
+      "nous": "eussions pelé",
+      "vous": "eussiez pelé",
+      "ils": "eussent pelé"
+    },
+    "conditionnel_présent": {
+      "je": "pèlerais",
+      "tu": "pèlerais",
+      "il": "pèlerait",
+      "nous": "pèlerions",
+      "vous": "pèleriez",
+      "ils": "pèleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais pelé",
+      "tu": "aurais pelé",
+      "il": "aurait pelé",
+      "nous": "aurions pelé",
+      "vous": "auriez pelé",
+      "ils": "auraient pelé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse pelé",
+      "tu": "eusses pelé",
+      "il": "eût pelé",
+      "nous": "eussions pelé",
+      "vous": "eussiez pelé",
+      "ils": "eussent pelé"
+    },
+    "translation": "łuszczyć",
+    "group": 1
+  },
+  {
+    "infinitive": "pelleter",
+    "présent": {
+      "je": "pellette",
+      "tu": "pellettes",
+      "il": "pellette",
+      "nous": "pelletons",
+      "vous": "pelletez",
+      "ils": "pellettent"
+    },
+    "passé_composé": {
+      "je": "ai pelleté",
+      "tu": "as pelleté",
+      "il": "a pelleté",
+      "nous": "avons pelleté",
+      "vous": "avez pelleté",
+      "ils": "ont pelleté"
+    },
+    "imparfait": {
+      "je": "pelletais",
+      "tu": "pelletais",
+      "il": "pelletait",
+      "nous": "pelletions",
+      "vous": "pelletiez",
+      "ils": "pelletaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais pelleté",
+      "tu": "avais pelleté",
+      "il": "avait pelleté",
+      "nous": "avions pelleté",
+      "vous": "aviez pelleté",
+      "ils": "avaient pelleté"
+    },
+    "passé_simple": {
+      "je": "pelletai",
+      "tu": "pelletas",
+      "il": "pelleta",
+      "nous": "pelletâmes",
+      "vous": "pelletâtes",
+      "ils": "pelletèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus pelleté",
+      "tu": "eus pelleté",
+      "il": "eut pelleté",
+      "nous": "eûmes pelleté",
+      "vous": "eûtes pelleté",
+      "ils": "eurent pelleté"
+    },
+    "futur_simple": {
+      "je": "pelletterai",
+      "tu": "pelletteras",
+      "il": "pellettera",
+      "nous": "pelletterons",
+      "vous": "pelletterez",
+      "ils": "pelletteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai pelleté",
+      "tu": "auras pelleté",
+      "il": "aura pelleté",
+      "nous": "aurons pelleté",
+      "vous": "aurez pelleté",
+      "ils": "auront pelleté"
+    },
+    "subjonctif_présent": {
+      "je": "pellette",
+      "tu": "pellettes",
+      "il": "pellette",
+      "nous": "pelletions",
+      "vous": "pelletiez",
+      "ils": "pellettent"
+    },
+    "subjonctif_passé": {
+      "je": "aie pelleté",
+      "tu": "aies pelleté",
+      "il": "ait pelleté",
+      "nous": "ayons pelleté",
+      "vous": "ayez pelleté",
+      "ils": "aient pelleté"
+    },
+    "subjonctif_imparfait": {
+      "je": "pelletasse",
+      "tu": "pelletasses",
+      "il": "pelletât",
+      "nous": "pelletassions",
+      "vous": "pelletassiez",
+      "ils": "pelletassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse pelleté",
+      "tu": "eusses pelleté",
+      "il": "eût pelleté",
+      "nous": "eussions pelleté",
+      "vous": "eussiez pelleté",
+      "ils": "eussent pelleté"
+    },
+    "conditionnel_présent": {
+      "je": "pelletterais",
+      "tu": "pelletterais",
+      "il": "pelletterait",
+      "nous": "pelletterions",
+      "vous": "pelletteriez",
+      "ils": "pelletteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais pelleté",
+      "tu": "aurais pelleté",
+      "il": "aurait pelleté",
+      "nous": "aurions pelleté",
+      "vous": "auriez pelleté",
+      "ils": "auraient pelleté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse pelleté",
+      "tu": "eusses pelleté",
+      "il": "eût pelleté",
+      "nous": "eussions pelleté",
+      "vous": "eussiez pelleté",
+      "ils": "eussent pelleté"
+    },
+    "translation": "wertować",
+    "group": 1
+  }
+]

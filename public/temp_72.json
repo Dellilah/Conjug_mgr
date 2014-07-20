@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "éblouir",
+    "présent": {
+      "je": "éblouis",
+      "tu": "éblouis",
+      "il": "éblouit",
+      "nous": "éblouissons",
+      "vous": "éblouissez",
+      "ils": "éblouissent"
+    },
+    "passé_composé": {
+      "je": "ai ébloui",
+      "tu": "as ébloui",
+      "il": "a ébloui",
+      "nous": "avons ébloui",
+      "vous": "avez ébloui",
+      "ils": "ont ébloui"
+    },
+    "imparfait": {
+      "je": "éblouissais",
+      "tu": "éblouissais",
+      "il": "éblouissait",
+      "nous": "éblouissions",
+      "vous": "éblouissiez",
+      "ils": "éblouissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ébloui",
+      "tu": "avais ébloui",
+      "il": "avait ébloui",
+      "nous": "avions ébloui",
+      "vous": "aviez ébloui",
+      "ils": "avaient ébloui"
+    },
+    "passé_simple": {
+      "je": "éblouis",
+      "tu": "éblouis",
+      "il": "éblouit",
+      "nous": "éblouîmes",
+      "vous": "éblouîtes",
+      "ils": "éblouirent"
+    },
+    "passé_antérieur": {
+      "je": "eus ébloui",
+      "tu": "eus ébloui",
+      "il": "eut ébloui",
+      "nous": "eûmes ébloui",
+      "vous": "eûtes ébloui",
+      "ils": "eurent ébloui"
+    },
+    "futur_simple": {
+      "je": "éblouirai",
+      "tu": "éblouiras",
+      "il": "éblouira",
+      "nous": "éblouirons",
+      "vous": "éblouirez",
+      "ils": "éblouiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ébloui",
+      "tu": "auras ébloui",
+      "il": "aura ébloui",
+      "nous": "aurons ébloui",
+      "vous": "aurez ébloui",
+      "ils": "auront ébloui"
+    },
+    "subjonctif_présent": {
+      "je": "éblouisse",
+      "tu": "éblouisses",
+      "il": "éblouisse",
+      "nous": "éblouissions",
+      "vous": "éblouissiez",
+      "ils": "éblouissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie ébloui",
+      "tu": "aies ébloui",
+      "il": "ait ébloui",
+      "nous": "ayons ébloui",
+      "vous": "ayez ébloui",
+      "ils": "aient ébloui"
+    },
+    "subjonctif_imparfait": {
+      "je": "éblouisse",
+      "tu": "éblouisses",
+      "il": "éblouît",
+      "nous": "éblouissions",
+      "vous": "éblouissiez",
+      "ils": "éblouissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ébloui",
+      "tu": "eusses ébloui",
+      "il": "eût ébloui",
+      "nous": "eussions ébloui",
+      "vous": "eussiez ébloui",
+      "ils": "eussent ébloui"
+    },
+    "conditionnel_présent": {
+      "je": "éblouirais",
+      "tu": "éblouirais",
+      "il": "éblouirait",
+      "nous": "éblouirions",
+      "vous": "éblouiriez",
+      "ils": "éblouiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ébloui",
+      "tu": "aurais ébloui",
+      "il": "aurait ébloui",
+      "nous": "aurions ébloui",
+      "vous": "auriez ébloui",
+      "ils": "auraient ébloui"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ébloui",
+      "tu": "eusses ébloui",
+      "il": "eût ébloui",
+      "nous": "eussions ébloui",
+      "vous": "eussiez ébloui",
+      "ils": "eussent ébloui"
+    },
+    "translation": "olśniewać",
+    "group": 2
+  },
+  {
+    "infinitive": "échanger",
+    "présent": {
+      "je": "échange",
+      "tu": "échanges",
+      "il": "échange",
+      "nous": "échangeons",
+      "vous": "échangez",
+      "ils": "échangent"
+    },
+    "passé_composé": {
+      "je": "ai échangé",
+      "tu": "as échangé",
+      "il": "a échangé",
+      "nous": "avons échangé",
+      "vous": "avez échangé",
+      "ils": "ont échangé"
+    },
+    "imparfait": {
+      "je": "échangeais",
+      "tu": "échangeais",
+      "il": "échangeait",
+      "nous": "échangions",
+      "vous": "échangiez",
+      "ils": "échangeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais échangé",
+      "tu": "avais échangé",
+      "il": "avait échangé",
+      "nous": "avions échangé",
+      "vous": "aviez échangé",
+      "ils": "avaient échangé"
+    },
+    "passé_simple": {
+      "je": "échangeai",
+      "tu": "échangeas",
+      "il": "échangea",
+      "nous": "échangeâmes",
+      "vous": "échangeâtes",
+      "ils": "échangèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus échangé",
+      "tu": "eus échangé",
+      "il": "eut échangé",
+      "nous": "eûmes échangé",
+      "vous": "eûtes échangé",
+      "ils": "eurent échangé"
+    },
+    "futur_simple": {
+      "je": "échangerai",
+      "tu": "échangeras",
+      "il": "échangera",
+      "nous": "échangerons",
+      "vous": "échangerez",
+      "ils": "échangeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai échangé",
+      "tu": "auras échangé",
+      "il": "aura échangé",
+      "nous": "aurons échangé",
+      "vous": "aurez échangé",
+      "ils": "auront échangé"
+    },
+    "subjonctif_présent": {
+      "je": "échange",
+      "tu": "échanges",
+      "il": "échange",
+      "nous": "échangions",
+      "vous": "échangiez",
+      "ils": "échangent"
+    },
+    "subjonctif_passé": {
+      "je": "aie échangé",
+      "tu": "aies échangé",
+      "il": "ait échangé",
+      "nous": "ayons échangé",
+      "vous": "ayez échangé",
+      "ils": "aient échangé"
+    },
+    "subjonctif_imparfait": {
+      "je": "échangeasse",
+      "tu": "échangeasses",
+      "il": "échangeât",
+      "nous": "échangeassions",
+      "vous": "échangeassiez",
+      "ils": "échangeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse échangé",
+      "tu": "eusses échangé",
+      "il": "eût échangé",
+      "nous": "eussions échangé",
+      "vous": "eussiez échangé",
+      "ils": "eussent échangé"
+    },
+    "conditionnel_présent": {
+      "je": "échangerais",
+      "tu": "échangerais",
+      "il": "échangerait",
+      "nous": "échangerions",
+      "vous": "échangeriez",
+      "ils": "échangeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais échangé",
+      "tu": "aurais échangé",
+      "il": "aurait échangé",
+      "nous": "aurions échangé",
+      "vous": "auriez échangé",
+      "ils": "auraient échangé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse échangé",
+      "tu": "eusses échangé",
+      "il": "eût échangé",
+      "nous": "eussions échangé",
+      "vous": "eussiez échangé",
+      "ils": "eussent échangé"
+    },
+    "translation": "wymieniać",
+    "group": 1
+  },
+  {
+    "infinitive": "échapper",
+    "présent": {
+      "je": "échappe",
+      "tu": "échappes",
+      "il": "échappe",
+      "nous": "échappons",
+      "vous": "échappez",
+      "ils": "échappent"
+    },
+    "passé_composé": {
+      "je": "ai échappé",
+      "tu": "as échappé",
+      "il": "a échappé",
+      "nous": "avons échappé",
+      "vous": "avez échappé",
+      "ils": "ont échappé"
+    },
+    "imparfait": {
+      "je": "échappais",
+      "tu": "échappais",
+      "il": "échappait",
+      "nous": "échappions",
+      "vous": "échappiez",
+      "ils": "échappaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais échappé",
+      "tu": "avais échappé",
+      "il": "avait échappé",
+      "nous": "avions échappé",
+      "vous": "aviez échappé",
+      "ils": "avaient échappé"
+    },
+    "passé_simple": {
+      "je": "échappai",
+      "tu": "échappas",
+      "il": "échappa",
+      "nous": "échappâmes",
+      "vous": "échappâtes",
+      "ils": "échappèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus échappé",
+      "tu": "eus échappé",
+      "il": "eut échappé",
+      "nous": "eûmes échappé",
+      "vous": "eûtes échappé",
+      "ils": "eurent échappé"
+    },
+    "futur_simple": {
+      "je": "échapperai",
+      "tu": "échapperas",
+      "il": "échappera",
+      "nous": "échapperons",
+      "vous": "échapperez",
+      "ils": "échapperont"
+    },
+    "futur_antérieur": {
+      "je": "aurai échappé",
+      "tu": "auras échappé",
+      "il": "aura échappé",
+      "nous": "aurons échappé",
+      "vous": "aurez échappé",
+      "ils": "auront échappé"
+    },
+    "subjonctif_présent": {
+      "je": "échappe",
+      "tu": "échappes",
+      "il": "échappe",
+      "nous": "échappions",
+      "vous": "échappiez",
+      "ils": "échappent"
+    },
+    "subjonctif_passé": {
+      "je": "aie échappé",
+      "tu": "aies échappé",
+      "il": "ait échappé",
+      "nous": "ayons échappé",
+      "vous": "ayez échappé",
+      "ils": "aient échappé"
+    },
+    "subjonctif_imparfait": {
+      "je": "échappasse",
+      "tu": "échappasses",
+      "il": "échappât",
+      "nous": "échappassions",
+      "vous": "échappassiez",
+      "ils": "échappassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse échappé",
+      "tu": "eusses échappé",
+      "il": "eût échappé",
+      "nous": "eussions échappé",
+      "vous": "eussiez échappé",
+      "ils": "eussent échappé"
+    },
+    "conditionnel_présent": {
+      "je": "échapperais",
+      "tu": "échapperais",
+      "il": "échapperait",
+      "nous": "échapperions",
+      "vous": "échapperiez",
+      "ils": "échapperaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais échappé",
+      "tu": "aurais échappé",
+      "il": "aurait échappé",
+      "nous": "aurions échappé",
+      "vous": "auriez échappé",
+      "ils": "auraient échappé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse échappé",
+      "tu": "eusses échappé",
+      "il": "eût échappé",
+      "nous": "eussions échappé",
+      "vous": "eussiez échappé",
+      "ils": "eussent échappé"
+    },
+    "translation": "wymykać",
+    "group": 1
+  },
+  {
+    "infinitive": "écher",
+    "présent": {
+      "je": "èche",
+      "tu": "èches",
+      "il": "èche",
+      "nous": "échons",
+      "vous": "échez",
+      "ils": "èchent"
+    },
+    "passé_composé": {
+      "je": "ai éché",
+      "tu": "as éché",
+      "il": "a éché",
+      "nous": "avons éché",
+      "vous": "avez éché",
+      "ils": "ont éché"
+    },
+    "imparfait": {
+      "je": "échais",
+      "tu": "échais",
+      "il": "échait",
+      "nous": "échions",
+      "vous": "échiez",
+      "ils": "échaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais éché",
+      "tu": "avais éché",
+      "il": "avait éché",
+      "nous": "avions éché",
+      "vous": "aviez éché",
+      "ils": "avaient éché"
+    },
+    "passé_simple": {
+      "je": "échai",
+      "tu": "échas",
+      "il": "écha",
+      "nous": "échâmes",
+      "vous": "échâtes",
+      "ils": "échèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus éché",
+      "tu": "eus éché",
+      "il": "eut éché",
+      "nous": "eûmes éché",
+      "vous": "eûtes éché",
+      "ils": "eurent éché"
+    },
+    "futur_simple": {
+      "je": "écherai",
+      "tu": "écheras",
+      "il": "échera",
+      "nous": "écherons",
+      "vous": "écherez",
+      "ils": "écheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai éché",
+      "tu": "auras éché",
+      "il": "aura éché",
+      "nous": "aurons éché",
+      "vous": "aurez éché",
+      "ils": "auront éché"
+    },
+    "subjonctif_présent": {
+      "je": "èche",
+      "tu": "èches",
+      "il": "èche",
+      "nous": "échions",
+      "vous": "échiez",
+      "ils": "èchent"
+    },
+    "subjonctif_passé": {
+      "je": "aie éché",
+      "tu": "aies éché",
+      "il": "ait éché",
+      "nous": "ayons éché",
+      "vous": "ayez éché",
+      "ils": "aient éché"
+    },
+    "subjonctif_imparfait": {
+      "je": "échasse",
+      "tu": "échasses",
+      "il": "échât",
+      "nous": "échassions",
+      "vous": "échassiez",
+      "ils": "échassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse éché",
+      "tu": "eusses éché",
+      "il": "eût éché",
+      "nous": "eussions éché",
+      "vous": "eussiez éché",
+      "ils": "eussent éché"
+    },
+    "conditionnel_présent": {
+      "je": "écherais",
+      "tu": "écherais",
+      "il": "écherait",
+      "nous": "écherions",
+      "vous": "écheriez",
+      "ils": "écheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais éché",
+      "tu": "aurais éché",
+      "il": "aurait éché",
+      "nous": "aurions éché",
+      "vous": "auriez éché",
+      "ils": "auraient éché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse éché",
+      "tu": "eusses éché",
+      "il": "eût éché",
+      "nous": "eussions éché",
+      "vous": "eussiez éché",
+      "ils": "eussent éché"
+    },
+    "translation": "przekopywać",
+    "group": 1
+  },
+  {
+    "infinitive": "échoir",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "échoit",
+      "nous": "-",
+      "vous": "-",
+      "ils": "échoient"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "est échu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "sont échus"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "échoyait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "échoyaient"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "était échu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "étaient échus"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "échut",
+      "nous": "-",
+      "vous": "-",
+      "ils": "échurent"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "fut échu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "furent échus"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "échoira",
+      "nous": "-",
+      "vous": "-",
+      "ils": "échoiront"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "sera échu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "seront échus"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "échoie",
+      "nous": "-",
+      "vous": "-",
+      "ils": "échoient"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "soit échu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "soient échus"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "échût",
+      "nous": "-",
+      "vous": "-",
+      "ils": "échussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "fût échu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "fussent échus"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "échoirait",
+      "nous": "-",
+      "vous": "-",
+      "ils": "échoiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "serait échu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "seraient échus"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "fût échu",
+      "nous": "-",
+      "vous": "-",
+      "ils": "fussent échus"
+    },
+    "translation": "échoir",
+    "group": 3
+  },
+  {
+    "infinitive": "échouer",
+    "présent": {
+      "je": "échoue",
+      "tu": "échoues",
+      "il": "échoue",
+      "nous": "échouons",
+      "vous": "échouez",
+      "ils": "échouent"
+    },
+    "passé_composé": {
+      "je": "ai échoué",
+      "tu": "as échoué",
+      "il": "a échoué",
+      "nous": "avons échoué",
+      "vous": "avez échoué",
+      "ils": "ont échoué"
+    },
+    "imparfait": {
+      "je": "échouais",
+      "tu": "échouais",
+      "il": "échouait",
+      "nous": "échouions",
+      "vous": "échouiez",
+      "ils": "échouaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais échoué",
+      "tu": "avais échoué",
+      "il": "avait échoué",
+      "nous": "avions échoué",
+      "vous": "aviez échoué",
+      "ils": "avaient échoué"
+    },
+    "passé_simple": {
+      "je": "échouai",
+      "tu": "échouas",
+      "il": "échoua",
+      "nous": "échouâmes",
+      "vous": "échouâtes",
+      "ils": "échouèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus échoué",
+      "tu": "eus échoué",
+      "il": "eut échoué",
+      "nous": "eûmes échoué",
+      "vous": "eûtes échoué",
+      "ils": "eurent échoué"
+    },
+    "futur_simple": {
+      "je": "échouerai",
+      "tu": "échoueras",
+      "il": "échouera",
+      "nous": "échouerons",
+      "vous": "échouerez",
+      "ils": "échoueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai échoué",
+      "tu": "auras échoué",
+      "il": "aura échoué",
+      "nous": "aurons échoué",
+      "vous": "aurez échoué",
+      "ils": "auront échoué"
+    },
+    "subjonctif_présent": {
+      "je": "échoue",
+      "tu": "échoues",
+      "il": "échoue",
+      "nous": "échouions",
+      "vous": "échouiez",
+      "ils": "échouent"
+    },
+    "subjonctif_passé": {
+      "je": "aie échoué",
+      "tu": "aies échoué",
+      "il": "ait échoué",
+      "nous": "ayons échoué",
+      "vous": "ayez échoué",
+      "ils": "aient échoué"
+    },
+    "subjonctif_imparfait": {
+      "je": "échouasse",
+      "tu": "échouasses",
+      "il": "échouât",
+      "nous": "échouassions",
+      "vous": "échouassiez",
+      "ils": "échouassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse échoué",
+      "tu": "eusses échoué",
+      "il": "eût échoué",
+      "nous": "eussions échoué",
+      "vous": "eussiez échoué",
+      "ils": "eussent échoué"
+    },
+    "conditionnel_présent": {
+      "je": "échouerais",
+      "tu": "échouerais",
+      "il": "échouerait",
+      "nous": "échouerions",
+      "vous": "échoueriez",
+      "ils": "échoueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais échoué",
+      "tu": "aurais échoué",
+      "il": "aurait échoué",
+      "nous": "aurions échoué",
+      "vous": "auriez échoué",
+      "ils": "auraient échoué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse échoué",
+      "tu": "eusses échoué",
+      "il": "eût échoué",
+      "nous": "eussions échoué",
+      "vous": "eussiez échoué",
+      "ils": "eussent échoué"
+    },
+    "translation": "nie",
+    "group": 1
+  },
+  {
+    "infinitive": "éclabousser",
+    "présent": {
+      "je": "éclabousse",
+      "tu": "éclabousses",
+      "il": "éclabousse",
+      "nous": "éclaboussons",
+      "vous": "éclaboussez",
+      "ils": "éclaboussent"
+    },
+    "passé_composé": {
+      "je": "ai éclaboussé",
+      "tu": "as éclaboussé",
+      "il": "a éclaboussé",
+      "nous": "avons éclaboussé",
+      "vous": "avez éclaboussé",
+      "ils": "ont éclaboussé"
+    },
+    "imparfait": {
+      "je": "éclaboussais",
+      "tu": "éclaboussais",
+      "il": "éclaboussait",
+      "nous": "éclaboussions",
+      "vous": "éclaboussiez",
+      "ils": "éclaboussaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais éclaboussé",
+      "tu": "avais éclaboussé",
+      "il": "avait éclaboussé",
+      "nous": "avions éclaboussé",
+      "vous": "aviez éclaboussé",
+      "ils": "avaient éclaboussé"
+    },
+    "passé_simple": {
+      "je": "éclaboussai",
+      "tu": "éclaboussas",
+      "il": "éclaboussa",
+      "nous": "éclaboussâmes",
+      "vous": "éclaboussâtes",
+      "ils": "éclaboussèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus éclaboussé",
+      "tu": "eus éclaboussé",
+      "il": "eut éclaboussé",
+      "nous": "eûmes éclaboussé",
+      "vous": "eûtes éclaboussé",
+      "ils": "eurent éclaboussé"
+    },
+    "futur_simple": {
+      "je": "éclabousserai",
+      "tu": "éclabousseras",
+      "il": "éclaboussera",
+      "nous": "éclabousserons",
+      "vous": "éclabousserez",
+      "ils": "éclabousseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai éclaboussé",
+      "tu": "auras éclaboussé",
+      "il": "aura éclaboussé",
+      "nous": "aurons éclaboussé",
+      "vous": "aurez éclaboussé",
+      "ils": "auront éclaboussé"
+    },
+    "subjonctif_présent": {
+      "je": "éclabousse",
+      "tu": "éclabousses",
+      "il": "éclabousse",
+      "nous": "éclaboussions",
+      "vous": "éclaboussiez",
+      "ils": "éclaboussent"
+    },
+    "subjonctif_passé": {
+      "je": "aie éclaboussé",
+      "tu": "aies éclaboussé",
+      "il": "ait éclaboussé",
+      "nous": "ayons éclaboussé",
+      "vous": "ayez éclaboussé",
+      "ils": "aient éclaboussé"
+    },
+    "subjonctif_imparfait": {
+      "je": "éclaboussasse",
+      "tu": "éclaboussasses",
+      "il": "éclaboussât",
+      "nous": "éclaboussassions",
+      "vous": "éclaboussassiez",
+      "ils": "éclaboussassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse éclaboussé",
+      "tu": "eusses éclaboussé",
+      "il": "eût éclaboussé",
+      "nous": "eussions éclaboussé",
+      "vous": "eussiez éclaboussé",
+      "ils": "eussent éclaboussé"
+    },
+    "conditionnel_présent": {
+      "je": "éclabousserais",
+      "tu": "éclabousserais",
+      "il": "éclabousserait",
+      "nous": "éclabousserions",
+      "vous": "éclabousseriez",
+      "ils": "éclabousseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais éclaboussé",
+      "tu": "aurais éclaboussé",
+      "il": "aurait éclaboussé",
+      "nous": "aurions éclaboussé",
+      "vous": "auriez éclaboussé",
+      "ils": "auraient éclaboussé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse éclaboussé",
+      "tu": "eusses éclaboussé",
+      "il": "eût éclaboussé",
+      "nous": "eussions éclaboussé",
+      "vous": "eussiez éclaboussé",
+      "ils": "eussent éclaboussé"
+    },
+    "translation": "ochlapywać",
+    "group": 1
+  },
+  {
+    "infinitive": "éclaircir",
+    "présent": {
+      "je": "éclaircis",
+      "tu": "éclaircis",
+      "il": "éclaircit",
+      "nous": "éclaircissons",
+      "vous": "éclaircissez",
+      "ils": "éclaircissent"
+    },
+    "passé_composé": {
+      "je": "ai éclairci",
+      "tu": "as éclairci",
+      "il": "a éclairci",
+      "nous": "avons éclairci",
+      "vous": "avez éclairci",
+      "ils": "ont éclairci"
+    },
+    "imparfait": {
+      "je": "éclaircissais",
+      "tu": "éclaircissais",
+      "il": "éclaircissait",
+      "nous": "éclaircissions",
+      "vous": "éclaircissiez",
+      "ils": "éclaircissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais éclairci",
+      "tu": "avais éclairci",
+      "il": "avait éclairci",
+      "nous": "avions éclairci",
+      "vous": "aviez éclairci",
+      "ils": "avaient éclairci"
+    },
+    "passé_simple": {
+      "je": "éclaircis",
+      "tu": "éclaircis",
+      "il": "éclaircit",
+      "nous": "éclaircîmes",
+      "vous": "éclaircîtes",
+      "ils": "éclaircirent"
+    },
+    "passé_antérieur": {
+      "je": "eus éclairci",
+      "tu": "eus éclairci",
+      "il": "eut éclairci",
+      "nous": "eûmes éclairci",
+      "vous": "eûtes éclairci",
+      "ils": "eurent éclairci"
+    },
+    "futur_simple": {
+      "je": "éclaircirai",
+      "tu": "éclairciras",
+      "il": "éclaircira",
+      "nous": "éclaircirons",
+      "vous": "éclaircirez",
+      "ils": "éclairciront"
+    },
+    "futur_antérieur": {
+      "je": "aurai éclairci",
+      "tu": "auras éclairci",
+      "il": "aura éclairci",
+      "nous": "aurons éclairci",
+      "vous": "aurez éclairci",
+      "ils": "auront éclairci"
+    },
+    "subjonctif_présent": {
+      "je": "éclaircisse",
+      "tu": "éclaircisses",
+      "il": "éclaircisse",
+      "nous": "éclaircissions",
+      "vous": "éclaircissiez",
+      "ils": "éclaircissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie éclairci",
+      "tu": "aies éclairci",
+      "il": "ait éclairci",
+      "nous": "ayons éclairci",
+      "vous": "ayez éclairci",
+      "ils": "aient éclairci"
+    },
+    "subjonctif_imparfait": {
+      "je": "éclaircisse",
+      "tu": "éclaircisses",
+      "il": "éclaircît",
+      "nous": "éclaircissions",
+      "vous": "éclaircissiez",
+      "ils": "éclaircissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse éclairci",
+      "tu": "eusses éclairci",
+      "il": "eût éclairci",
+      "nous": "eussions éclairci",
+      "vous": "eussiez éclairci",
+      "ils": "eussent éclairci"
+    },
+    "conditionnel_présent": {
+      "je": "éclaircirais",
+      "tu": "éclaircirais",
+      "il": "éclaircirait",
+      "nous": "éclaircirions",
+      "vous": "éclairciriez",
+      "ils": "éclairciraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais éclairci",
+      "tu": "aurais éclairci",
+      "il": "aurait éclairci",
+      "nous": "aurions éclairci",
+      "vous": "auriez éclairci",
+      "ils": "auraient éclairci"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse éclairci",
+      "tu": "eusses éclairci",
+      "il": "eût éclairci",
+      "nous": "eussions éclairci",
+      "vous": "eussiez éclairci",
+      "ils": "eussent éclairci"
+    },
+    "translation": "rozjaśniać",
+    "group": 2
+  },
+  {
+    "infinitive": "éclairer",
+    "présent": {
+      "je": "éclaire",
+      "tu": "éclaires",
+      "il": "éclaire",
+      "nous": "éclairons",
+      "vous": "éclairez",
+      "ils": "éclairent"
+    },
+    "passé_composé": {
+      "je": "ai éclairé",
+      "tu": "as éclairé",
+      "il": "a éclairé",
+      "nous": "avons éclairé",
+      "vous": "avez éclairé",
+      "ils": "ont éclairé"
+    },
+    "imparfait": {
+      "je": "éclairais",
+      "tu": "éclairais",
+      "il": "éclairait",
+      "nous": "éclairions",
+      "vous": "éclairiez",
+      "ils": "éclairaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais éclairé",
+      "tu": "avais éclairé",
+      "il": "avait éclairé",
+      "nous": "avions éclairé",
+      "vous": "aviez éclairé",
+      "ils": "avaient éclairé"
+    },
+    "passé_simple": {
+      "je": "éclairai",
+      "tu": "éclairas",
+      "il": "éclaira",
+      "nous": "éclairâmes",
+      "vous": "éclairâtes",
+      "ils": "éclairèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus éclairé",
+      "tu": "eus éclairé",
+      "il": "eut éclairé",
+      "nous": "eûmes éclairé",
+      "vous": "eûtes éclairé",
+      "ils": "eurent éclairé"
+    },
+    "futur_simple": {
+      "je": "éclairerai",
+      "tu": "éclaireras",
+      "il": "éclairera",
+      "nous": "éclairerons",
+      "vous": "éclairerez",
+      "ils": "éclaireront"
+    },
+    "futur_antérieur": {
+      "je": "aurai éclairé",
+      "tu": "auras éclairé",
+      "il": "aura éclairé",
+      "nous": "aurons éclairé",
+      "vous": "aurez éclairé",
+      "ils": "auront éclairé"
+    },
+    "subjonctif_présent": {
+      "je": "éclaire",
+      "tu": "éclaires",
+      "il": "éclaire",
+      "nous": "éclairions",
+      "vous": "éclairiez",
+      "ils": "éclairent"
+    },
+    "subjonctif_passé": {
+      "je": "aie éclairé",
+      "tu": "aies éclairé",
+      "il": "ait éclairé",
+      "nous": "ayons éclairé",
+      "vous": "ayez éclairé",
+      "ils": "aient éclairé"
+    },
+    "subjonctif_imparfait": {
+      "je": "éclairasse",
+      "tu": "éclairasses",
+      "il": "éclairât",
+      "nous": "éclairassions",
+      "vous": "éclairassiez",
+      "ils": "éclairassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse éclairé",
+      "tu": "eusses éclairé",
+      "il": "eût éclairé",
+      "nous": "eussions éclairé",
+      "vous": "eussiez éclairé",
+      "ils": "eussent éclairé"
+    },
+    "conditionnel_présent": {
+      "je": "éclairerais",
+      "tu": "éclairerais",
+      "il": "éclairerait",
+      "nous": "éclairerions",
+      "vous": "éclaireriez",
+      "ils": "éclaireraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais éclairé",
+      "tu": "aurais éclairé",
+      "il": "aurait éclairé",
+      "nous": "aurions éclairé",
+      "vous": "auriez éclairé",
+      "ils": "auraient éclairé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse éclairé",
+      "tu": "eusses éclairé",
+      "il": "eût éclairé",
+      "nous": "eussions éclairé",
+      "vous": "eussiez éclairé",
+      "ils": "eussent éclairé"
+    },
+    "translation": "oświetlać",
+    "group": 1
+  },
+  {
+    "infinitive": "éclater",
+    "présent": {
+      "je": "éclate",
+      "tu": "éclates",
+      "il": "éclate",
+      "nous": "éclatons",
+      "vous": "éclatez",
+      "ils": "éclatent"
+    },
+    "passé_composé": {
+      "je": "ai éclaté",
+      "tu": "as éclaté",
+      "il": "a éclaté",
+      "nous": "avons éclaté",
+      "vous": "avez éclaté",
+      "ils": "ont éclaté"
+    },
+    "imparfait": {
+      "je": "éclatais",
+      "tu": "éclatais",
+      "il": "éclatait",
+      "nous": "éclations",
+      "vous": "éclatiez",
+      "ils": "éclataient"
+    },
+    "plus_que_parfait": {
+      "je": "avais éclaté",
+      "tu": "avais éclaté",
+      "il": "avait éclaté",
+      "nous": "avions éclaté",
+      "vous": "aviez éclaté",
+      "ils": "avaient éclaté"
+    },
+    "passé_simple": {
+      "je": "éclatai",
+      "tu": "éclatas",
+      "il": "éclata",
+      "nous": "éclatâmes",
+      "vous": "éclatâtes",
+      "ils": "éclatèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus éclaté",
+      "tu": "eus éclaté",
+      "il": "eut éclaté",
+      "nous": "eûmes éclaté",
+      "vous": "eûtes éclaté",
+      "ils": "eurent éclaté"
+    },
+    "futur_simple": {
+      "je": "éclaterai",
+      "tu": "éclateras",
+      "il": "éclatera",
+      "nous": "éclaterons",
+      "vous": "éclaterez",
+      "ils": "éclateront"
+    },
+    "futur_antérieur": {
+      "je": "aurai éclaté",
+      "tu": "auras éclaté",
+      "il": "aura éclaté",
+      "nous": "aurons éclaté",
+      "vous": "aurez éclaté",
+      "ils": "auront éclaté"
+    },
+    "subjonctif_présent": {
+      "je": "éclate",
+      "tu": "éclates",
+      "il": "éclate",
+      "nous": "éclations",
+      "vous": "éclatiez",
+      "ils": "éclatent"
+    },
+    "subjonctif_passé": {
+      "je": "aie éclaté",
+      "tu": "aies éclaté",
+      "il": "ait éclaté",
+      "nous": "ayons éclaté",
+      "vous": "ayez éclaté",
+      "ils": "aient éclaté"
+    },
+    "subjonctif_imparfait": {
+      "je": "éclatasse",
+      "tu": "éclatasses",
+      "il": "éclatât",
+      "nous": "éclatassions",
+      "vous": "éclatassiez",
+      "ils": "éclatassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse éclaté",
+      "tu": "eusses éclaté",
+      "il": "eût éclaté",
+      "nous": "eussions éclaté",
+      "vous": "eussiez éclaté",
+      "ils": "eussent éclaté"
+    },
+    "conditionnel_présent": {
+      "je": "éclaterais",
+      "tu": "éclaterais",
+      "il": "éclaterait",
+      "nous": "éclaterions",
+      "vous": "éclateriez",
+      "ils": "éclateraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais éclaté",
+      "tu": "aurais éclaté",
+      "il": "aurait éclaté",
+      "nous": "aurions éclaté",
+      "vous": "auriez éclaté",
+      "ils": "auraient éclaté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse éclaté",
+      "tu": "eusses éclaté",
+      "il": "eût éclaté",
+      "nous": "eussions éclaté",
+      "vous": "eussiez éclaté",
+      "ils": "eussent éclaté"
+    },
+    "translation": "wybuchać",
+    "group": 1
+  }
+]

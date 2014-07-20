@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "embraser",
+    "présent": {
+      "je": "embrase",
+      "tu": "embrases",
+      "il": "embrase",
+      "nous": "embrasons",
+      "vous": "embrasez",
+      "ils": "embrasent"
+    },
+    "passé_composé": {
+      "je": "ai embrasé",
+      "tu": "as embrasé",
+      "il": "a embrasé",
+      "nous": "avons embrasé",
+      "vous": "avez embrasé",
+      "ils": "ont embrasé"
+    },
+    "imparfait": {
+      "je": "embrasais",
+      "tu": "embrasais",
+      "il": "embrasait",
+      "nous": "embrasions",
+      "vous": "embrasiez",
+      "ils": "embrasaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais embrasé",
+      "tu": "avais embrasé",
+      "il": "avait embrasé",
+      "nous": "avions embrasé",
+      "vous": "aviez embrasé",
+      "ils": "avaient embrasé"
+    },
+    "passé_simple": {
+      "je": "embrasai",
+      "tu": "embrasas",
+      "il": "embrasa",
+      "nous": "embrasâmes",
+      "vous": "embrasâtes",
+      "ils": "embrasèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus embrasé",
+      "tu": "eus embrasé",
+      "il": "eut embrasé",
+      "nous": "eûmes embrasé",
+      "vous": "eûtes embrasé",
+      "ils": "eurent embrasé"
+    },
+    "futur_simple": {
+      "je": "embraserai",
+      "tu": "embraseras",
+      "il": "embrasera",
+      "nous": "embraserons",
+      "vous": "embraserez",
+      "ils": "embraseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai embrasé",
+      "tu": "auras embrasé",
+      "il": "aura embrasé",
+      "nous": "aurons embrasé",
+      "vous": "aurez embrasé",
+      "ils": "auront embrasé"
+    },
+    "subjonctif_présent": {
+      "je": "embrase",
+      "tu": "embrases",
+      "il": "embrase",
+      "nous": "embrasions",
+      "vous": "embrasiez",
+      "ils": "embrasent"
+    },
+    "subjonctif_passé": {
+      "je": "aie embrasé",
+      "tu": "aies embrasé",
+      "il": "ait embrasé",
+      "nous": "ayons embrasé",
+      "vous": "ayez embrasé",
+      "ils": "aient embrasé"
+    },
+    "subjonctif_imparfait": {
+      "je": "embrasasse",
+      "tu": "embrasasses",
+      "il": "embrasât",
+      "nous": "embrasassions",
+      "vous": "embrasassiez",
+      "ils": "embrasassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse embrasé",
+      "tu": "eusses embrasé",
+      "il": "eût embrasé",
+      "nous": "eussions embrasé",
+      "vous": "eussiez embrasé",
+      "ils": "eussent embrasé"
+    },
+    "conditionnel_présent": {
+      "je": "embraserais",
+      "tu": "embraserais",
+      "il": "embraserait",
+      "nous": "embraserions",
+      "vous": "embraseriez",
+      "ils": "embraseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais embrasé",
+      "tu": "aurais embrasé",
+      "il": "aurait embrasé",
+      "nous": "aurions embrasé",
+      "vous": "auriez embrasé",
+      "ils": "auraient embrasé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse embrasé",
+      "tu": "eusses embrasé",
+      "il": "eût embrasé",
+      "nous": "eussions embrasé",
+      "vous": "eussiez embrasé",
+      "ils": "eussent embrasé"
+    },
+    "translation": "ucałować",
+    "group": 1
+  },
+  {
+    "infinitive": "embrasser",
+    "présent": {
+      "je": "embrasse",
+      "tu": "embrasses",
+      "il": "embrasse",
+      "nous": "embrassons",
+      "vous": "embrassez",
+      "ils": "embrassent"
+    },
+    "passé_composé": {
+      "je": "ai embrassé",
+      "tu": "as embrassé",
+      "il": "a embrassé",
+      "nous": "avons embrassé",
+      "vous": "avez embrassé",
+      "ils": "ont embrassé"
+    },
+    "imparfait": {
+      "je": "embrassais",
+      "tu": "embrassais",
+      "il": "embrassait",
+      "nous": "embrassions",
+      "vous": "embrassiez",
+      "ils": "embrassaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais embrassé",
+      "tu": "avais embrassé",
+      "il": "avait embrassé",
+      "nous": "avions embrassé",
+      "vous": "aviez embrassé",
+      "ils": "avaient embrassé"
+    },
+    "passé_simple": {
+      "je": "embrassai",
+      "tu": "embrassas",
+      "il": "embrassa",
+      "nous": "embrassâmes",
+      "vous": "embrassâtes",
+      "ils": "embrassèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus embrassé",
+      "tu": "eus embrassé",
+      "il": "eut embrassé",
+      "nous": "eûmes embrassé",
+      "vous": "eûtes embrassé",
+      "ils": "eurent embrassé"
+    },
+    "futur_simple": {
+      "je": "embrasserai",
+      "tu": "embrasseras",
+      "il": "embrassera",
+      "nous": "embrasserons",
+      "vous": "embrasserez",
+      "ils": "embrasseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai embrassé",
+      "tu": "auras embrassé",
+      "il": "aura embrassé",
+      "nous": "aurons embrassé",
+      "vous": "aurez embrassé",
+      "ils": "auront embrassé"
+    },
+    "subjonctif_présent": {
+      "je": "embrasse",
+      "tu": "embrasses",
+      "il": "embrasse",
+      "nous": "embrassions",
+      "vous": "embrassiez",
+      "ils": "embrassent"
+    },
+    "subjonctif_passé": {
+      "je": "aie embrassé",
+      "tu": "aies embrassé",
+      "il": "ait embrassé",
+      "nous": "ayons embrassé",
+      "vous": "ayez embrassé",
+      "ils": "aient embrassé"
+    },
+    "subjonctif_imparfait": {
+      "je": "embrassasse",
+      "tu": "embrassasses",
+      "il": "embrassât",
+      "nous": "embrassassions",
+      "vous": "embrassassiez",
+      "ils": "embrassassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse embrassé",
+      "tu": "eusses embrassé",
+      "il": "eût embrassé",
+      "nous": "eussions embrassé",
+      "vous": "eussiez embrassé",
+      "ils": "eussent embrassé"
+    },
+    "conditionnel_présent": {
+      "je": "embrasserais",
+      "tu": "embrasserais",
+      "il": "embrasserait",
+      "nous": "embrasserions",
+      "vous": "embrasseriez",
+      "ils": "embrasseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais embrassé",
+      "tu": "aurais embrassé",
+      "il": "aurait embrassé",
+      "nous": "aurions embrassé",
+      "vous": "auriez embrassé",
+      "ils": "auraient embrassé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse embrassé",
+      "tu": "eusses embrassé",
+      "il": "eût embrassé",
+      "nous": "eussions embrassé",
+      "vous": "eussiez embrassé",
+      "ils": "eussent embrassé"
+    },
+    "translation": "ucałować",
+    "group": 1
+  },
+  {
+    "infinitive": "embrayer",
+    "présent": {
+      "je": "embraie",
+      "tu": "embraies",
+      "il": "embraie",
+      "nous": "embrayons",
+      "vous": "embrayez",
+      "ils": "embraient"
+    },
+    "passé_composé": {
+      "je": "ai embrayé",
+      "tu": "as embrayé",
+      "il": "a embrayé",
+      "nous": "avons embrayé",
+      "vous": "avez embrayé",
+      "ils": "ont embrayé"
+    },
+    "imparfait": {
+      "je": "embrayais",
+      "tu": "embrayais",
+      "il": "embrayait",
+      "nous": "embrayions",
+      "vous": "embrayiez",
+      "ils": "embrayaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais embrayé",
+      "tu": "avais embrayé",
+      "il": "avait embrayé",
+      "nous": "avions embrayé",
+      "vous": "aviez embrayé",
+      "ils": "avaient embrayé"
+    },
+    "passé_simple": {
+      "je": "embrayai",
+      "tu": "embrayas",
+      "il": "embraya",
+      "nous": "embrayâmes",
+      "vous": "embrayâtes",
+      "ils": "embrayèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus embrayé",
+      "tu": "eus embrayé",
+      "il": "eut embrayé",
+      "nous": "eûmes embrayé",
+      "vous": "eûtes embrayé",
+      "ils": "eurent embrayé"
+    },
+    "futur_simple": {
+      "je": "embraierai",
+      "tu": "embraieras",
+      "il": "embraiera",
+      "nous": "embraierons",
+      "vous": "embraierez",
+      "ils": "embraieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai embrayé",
+      "tu": "auras embrayé",
+      "il": "aura embrayé",
+      "nous": "aurons embrayé",
+      "vous": "aurez embrayé",
+      "ils": "auront embrayé"
+    },
+    "subjonctif_présent": {
+      "je": "embraie",
+      "tu": "embraies",
+      "il": "embraie",
+      "nous": "embrayions",
+      "vous": "embrayiez",
+      "ils": "embraient"
+    },
+    "subjonctif_passé": {
+      "je": "aie embrayé",
+      "tu": "aies embrayé",
+      "il": "ait embrayé",
+      "nous": "ayons embrayé",
+      "vous": "ayez embrayé",
+      "ils": "aient embrayé"
+    },
+    "subjonctif_imparfait": {
+      "je": "embrayasse",
+      "tu": "embrayasses",
+      "il": "embrayât",
+      "nous": "embrayassions",
+      "vous": "embrayassiez",
+      "ils": "embrayassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse embrayé",
+      "tu": "eusses embrayé",
+      "il": "eût embrayé",
+      "nous": "eussions embrayé",
+      "vous": "eussiez embrayé",
+      "ils": "eussent embrayé"
+    },
+    "conditionnel_présent": {
+      "je": "embraierais",
+      "tu": "embraierais",
+      "il": "embraierait",
+      "nous": "embraierions",
+      "vous": "embraieriez",
+      "ils": "embraieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais embrayé",
+      "tu": "aurais embrayé",
+      "il": "aurait embrayé",
+      "nous": "aurions embrayé",
+      "vous": "auriez embrayé",
+      "ils": "auraient embrayé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse embrayé",
+      "tu": "eusses embrayé",
+      "il": "eût embrayé",
+      "nous": "eussions embrayé",
+      "vous": "eussiez embrayé",
+      "ils": "eussent embrayé"
+    },
+    "translation": "włączać",
+    "group": 1
+  },
+  {
+    "infinitive": "émerger",
+    "présent": {
+      "je": "émerge",
+      "tu": "émerges",
+      "il": "émerge",
+      "nous": "émergeons",
+      "vous": "émergez",
+      "ils": "émergent"
+    },
+    "passé_composé": {
+      "je": "ai émergé",
+      "tu": "as émergé",
+      "il": "a émergé",
+      "nous": "avons émergé",
+      "vous": "avez émergé",
+      "ils": "ont émergé"
+    },
+    "imparfait": {
+      "je": "émergeais",
+      "tu": "émergeais",
+      "il": "émergeait",
+      "nous": "émergions",
+      "vous": "émergiez",
+      "ils": "émergeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais émergé",
+      "tu": "avais émergé",
+      "il": "avait émergé",
+      "nous": "avions émergé",
+      "vous": "aviez émergé",
+      "ils": "avaient émergé"
+    },
+    "passé_simple": {
+      "je": "émergeai",
+      "tu": "émergeas",
+      "il": "émergea",
+      "nous": "émergeâmes",
+      "vous": "émergeâtes",
+      "ils": "émergèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus émergé",
+      "tu": "eus émergé",
+      "il": "eut émergé",
+      "nous": "eûmes émergé",
+      "vous": "eûtes émergé",
+      "ils": "eurent émergé"
+    },
+    "futur_simple": {
+      "je": "émergerai",
+      "tu": "émergeras",
+      "il": "émergera",
+      "nous": "émergerons",
+      "vous": "émergerez",
+      "ils": "émergeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai émergé",
+      "tu": "auras émergé",
+      "il": "aura émergé",
+      "nous": "aurons émergé",
+      "vous": "aurez émergé",
+      "ils": "auront émergé"
+    },
+    "subjonctif_présent": {
+      "je": "émerge",
+      "tu": "émerges",
+      "il": "émerge",
+      "nous": "émergions",
+      "vous": "émergiez",
+      "ils": "émergent"
+    },
+    "subjonctif_passé": {
+      "je": "aie émergé",
+      "tu": "aies émergé",
+      "il": "ait émergé",
+      "nous": "ayons émergé",
+      "vous": "ayez émergé",
+      "ils": "aient émergé"
+    },
+    "subjonctif_imparfait": {
+      "je": "émergeasse",
+      "tu": "émergeasses",
+      "il": "émergeât",
+      "nous": "émergeassions",
+      "vous": "émergeassiez",
+      "ils": "émergeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse émergé",
+      "tu": "eusses émergé",
+      "il": "eût émergé",
+      "nous": "eussions émergé",
+      "vous": "eussiez émergé",
+      "ils": "eussent émergé"
+    },
+    "conditionnel_présent": {
+      "je": "émergerais",
+      "tu": "émergerais",
+      "il": "émergerait",
+      "nous": "émergerions",
+      "vous": "émergeriez",
+      "ils": "émergeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais émergé",
+      "tu": "aurais émergé",
+      "il": "aurait émergé",
+      "nous": "aurions émergé",
+      "vous": "auriez émergé",
+      "ils": "auraient émergé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse émergé",
+      "tu": "eusses émergé",
+      "il": "eût émergé",
+      "nous": "eussions émergé",
+      "vous": "eussiez émergé",
+      "ils": "eussent émergé"
+    },
+    "translation": "wynurzać",
+    "group": 1
+  },
+  {
+    "infinitive": "émettre",
+    "présent": {
+      "je": "émets",
+      "tu": "émets",
+      "il": "émet",
+      "nous": "émettons",
+      "vous": "émettez",
+      "ils": "émettent"
+    },
+    "passé_composé": {
+      "je": "ai émis",
+      "tu": "as émis",
+      "il": "a émis",
+      "nous": "avons émis",
+      "vous": "avez émis",
+      "ils": "ont émis"
+    },
+    "imparfait": {
+      "je": "émettais",
+      "tu": "émettais",
+      "il": "émettait",
+      "nous": "émettions",
+      "vous": "émettiez",
+      "ils": "émettaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais émis",
+      "tu": "avais émis",
+      "il": "avait émis",
+      "nous": "avions émis",
+      "vous": "aviez émis",
+      "ils": "avaient émis"
+    },
+    "passé_simple": {
+      "je": "émis",
+      "tu": "émis",
+      "il": "émit",
+      "nous": "émîmes",
+      "vous": "émîtes",
+      "ils": "émirent"
+    },
+    "passé_antérieur": {
+      "je": "eus émis",
+      "tu": "eus émis",
+      "il": "eut émis",
+      "nous": "eûmes émis",
+      "vous": "eûtes émis",
+      "ils": "eurent émis"
+    },
+    "futur_simple": {
+      "je": "émettrai",
+      "tu": "émettras",
+      "il": "émettra",
+      "nous": "émettrons",
+      "vous": "émettrez",
+      "ils": "émettront"
+    },
+    "futur_antérieur": {
+      "je": "aurai émis",
+      "tu": "auras émis",
+      "il": "aura émis",
+      "nous": "aurons émis",
+      "vous": "aurez émis",
+      "ils": "auront émis"
+    },
+    "subjonctif_présent": {
+      "je": "émette",
+      "tu": "émettes",
+      "il": "émette",
+      "nous": "émettions",
+      "vous": "émettiez",
+      "ils": "émettent"
+    },
+    "subjonctif_passé": {
+      "je": "aie émis",
+      "tu": "aies émis",
+      "il": "ait émis",
+      "nous": "ayons émis",
+      "vous": "ayez émis",
+      "ils": "aient émis"
+    },
+    "subjonctif_imparfait": {
+      "je": "émisse",
+      "tu": "émisses",
+      "il": "émît",
+      "nous": "émissions",
+      "vous": "émissiez",
+      "ils": "émissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse émis",
+      "tu": "eusses émis",
+      "il": "eût émis",
+      "nous": "eussions émis",
+      "vous": "eussiez émis",
+      "ils": "eussent émis"
+    },
+    "conditionnel_présent": {
+      "je": "émettrais",
+      "tu": "émettrais",
+      "il": "émettrait",
+      "nous": "émettrions",
+      "vous": "émettriez",
+      "ils": "émettraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais émis",
+      "tu": "aurais émis",
+      "il": "aurait émis",
+      "nous": "aurions émis",
+      "vous": "auriez émis",
+      "ils": "auraient émis"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse émis",
+      "tu": "eusses émis",
+      "il": "eût émis",
+      "nous": "eussions émis",
+      "vous": "eussiez émis",
+      "ils": "eussent émis"
+    },
+    "translation": "nadawać",
+    "group": 3
+  },
+  {
+    "infinitive": "émier",
+    "présent": {
+      "je": "émie",
+      "tu": "émies",
+      "il": "émie",
+      "nous": "émions",
+      "vous": "émiez",
+      "ils": "émient"
+    },
+    "passé_composé": {
+      "je": "ai émié",
+      "tu": "as émié",
+      "il": "a émié",
+      "nous": "avons émié",
+      "vous": "avez émié",
+      "ils": "ont émié"
+    },
+    "imparfait": {
+      "je": "émiais",
+      "tu": "émiais",
+      "il": "émiait",
+      "nous": "émiions",
+      "vous": "émiiez",
+      "ils": "émiaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais émié",
+      "tu": "avais émié",
+      "il": "avait émié",
+      "nous": "avions émié",
+      "vous": "aviez émié",
+      "ils": "avaient émié"
+    },
+    "passé_simple": {
+      "je": "émiai",
+      "tu": "émias",
+      "il": "émia",
+      "nous": "émiâmes",
+      "vous": "émiâtes",
+      "ils": "émièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus émié",
+      "tu": "eus émié",
+      "il": "eut émié",
+      "nous": "eûmes émié",
+      "vous": "eûtes émié",
+      "ils": "eurent émié"
+    },
+    "futur_simple": {
+      "je": "émierai",
+      "tu": "émieras",
+      "il": "émiera",
+      "nous": "émierons",
+      "vous": "émierez",
+      "ils": "émieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai émié",
+      "tu": "auras émié",
+      "il": "aura émié",
+      "nous": "aurons émié",
+      "vous": "aurez émié",
+      "ils": "auront émié"
+    },
+    "subjonctif_présent": {
+      "je": "émie",
+      "tu": "émies",
+      "il": "émie",
+      "nous": "émiions",
+      "vous": "émiiez",
+      "ils": "émient"
+    },
+    "subjonctif_passé": {
+      "je": "aie émié",
+      "tu": "aies émié",
+      "il": "ait émié",
+      "nous": "ayons émié",
+      "vous": "ayez émié",
+      "ils": "aient émié"
+    },
+    "subjonctif_imparfait": {
+      "je": "émiasse",
+      "tu": "émiasses",
+      "il": "émiât",
+      "nous": "émiassions",
+      "vous": "émiassiez",
+      "ils": "émiassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse émié",
+      "tu": "eusses émié",
+      "il": "eût émié",
+      "nous": "eussions émié",
+      "vous": "eussiez émié",
+      "ils": "eussent émié"
+    },
+    "conditionnel_présent": {
+      "je": "émierais",
+      "tu": "émierais",
+      "il": "émierait",
+      "nous": "émierions",
+      "vous": "émieriez",
+      "ils": "émieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais émié",
+      "tu": "aurais émié",
+      "il": "aurait émié",
+      "nous": "aurions émié",
+      "vous": "auriez émié",
+      "ils": "auraient émié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse émié",
+      "tu": "eusses émié",
+      "il": "eût émié",
+      "nous": "eussions émié",
+      "vous": "eussiez émié",
+      "ils": "eussent émié"
+    },
+    "translation": "pierwszy",
+    "group": 1
+  },
+  {
+    "infinitive": "emmêler",
+    "présent": {
+      "je": "emmêle",
+      "tu": "emmêles",
+      "il": "emmêle",
+      "nous": "emmêlons",
+      "vous": "emmêlez",
+      "ils": "emmêlent"
+    },
+    "passé_composé": {
+      "je": "ai emmêlé",
+      "tu": "as emmêlé",
+      "il": "a emmêlé",
+      "nous": "avons emmêlé",
+      "vous": "avez emmêlé",
+      "ils": "ont emmêlé"
+    },
+    "imparfait": {
+      "je": "emmêlais",
+      "tu": "emmêlais",
+      "il": "emmêlait",
+      "nous": "emmêlions",
+      "vous": "emmêliez",
+      "ils": "emmêlaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais emmêlé",
+      "tu": "avais emmêlé",
+      "il": "avait emmêlé",
+      "nous": "avions emmêlé",
+      "vous": "aviez emmêlé",
+      "ils": "avaient emmêlé"
+    },
+    "passé_simple": {
+      "je": "emmêlai",
+      "tu": "emmêlas",
+      "il": "emmêla",
+      "nous": "emmêlâmes",
+      "vous": "emmêlâtes",
+      "ils": "emmêlèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus emmêlé",
+      "tu": "eus emmêlé",
+      "il": "eut emmêlé",
+      "nous": "eûmes emmêlé",
+      "vous": "eûtes emmêlé",
+      "ils": "eurent emmêlé"
+    },
+    "futur_simple": {
+      "je": "emmêlerai",
+      "tu": "emmêleras",
+      "il": "emmêlera",
+      "nous": "emmêlerons",
+      "vous": "emmêlerez",
+      "ils": "emmêleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai emmêlé",
+      "tu": "auras emmêlé",
+      "il": "aura emmêlé",
+      "nous": "aurons emmêlé",
+      "vous": "aurez emmêlé",
+      "ils": "auront emmêlé"
+    },
+    "subjonctif_présent": {
+      "je": "emmêle",
+      "tu": "emmêles",
+      "il": "emmêle",
+      "nous": "emmêlions",
+      "vous": "emmêliez",
+      "ils": "emmêlent"
+    },
+    "subjonctif_passé": {
+      "je": "aie emmêlé",
+      "tu": "aies emmêlé",
+      "il": "ait emmêlé",
+      "nous": "ayons emmêlé",
+      "vous": "ayez emmêlé",
+      "ils": "aient emmêlé"
+    },
+    "subjonctif_imparfait": {
+      "je": "emmêlasse",
+      "tu": "emmêlasses",
+      "il": "emmêlât",
+      "nous": "emmêlassions",
+      "vous": "emmêlassiez",
+      "ils": "emmêlassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse emmêlé",
+      "tu": "eusses emmêlé",
+      "il": "eût emmêlé",
+      "nous": "eussions emmêlé",
+      "vous": "eussiez emmêlé",
+      "ils": "eussent emmêlé"
+    },
+    "conditionnel_présent": {
+      "je": "emmêlerais",
+      "tu": "emmêlerais",
+      "il": "emmêlerait",
+      "nous": "emmêlerions",
+      "vous": "emmêleriez",
+      "ils": "emmêleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais emmêlé",
+      "tu": "aurais emmêlé",
+      "il": "aurait emmêlé",
+      "nous": "aurions emmêlé",
+      "vous": "auriez emmêlé",
+      "ils": "auraient emmêlé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse emmêlé",
+      "tu": "eusses emmêlé",
+      "il": "eût emmêlé",
+      "nous": "eussions emmêlé",
+      "vous": "eussiez emmêlé",
+      "ils": "eussent emmêlé"
+    },
+    "translation": "plątać",
+    "group": 1
+  },
+  {
+    "infinitive": "emménager",
+    "présent": {
+      "je": "emménage",
+      "tu": "emménages",
+      "il": "emménage",
+      "nous": "emménageons",
+      "vous": "emménagez",
+      "ils": "emménagent"
+    },
+    "passé_composé": {
+      "je": "ai emménagé",
+      "tu": "as emménagé",
+      "il": "a emménagé",
+      "nous": "avons emménagé",
+      "vous": "avez emménagé",
+      "ils": "ont emménagé"
+    },
+    "imparfait": {
+      "je": "emménageais",
+      "tu": "emménageais",
+      "il": "emménageait",
+      "nous": "emménagions",
+      "vous": "emménagiez",
+      "ils": "emménageaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais emménagé",
+      "tu": "avais emménagé",
+      "il": "avait emménagé",
+      "nous": "avions emménagé",
+      "vous": "aviez emménagé",
+      "ils": "avaient emménagé"
+    },
+    "passé_simple": {
+      "je": "emménageai",
+      "tu": "emménageas",
+      "il": "emménagea",
+      "nous": "emménageâmes",
+      "vous": "emménageâtes",
+      "ils": "emménagèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus emménagé",
+      "tu": "eus emménagé",
+      "il": "eut emménagé",
+      "nous": "eûmes emménagé",
+      "vous": "eûtes emménagé",
+      "ils": "eurent emménagé"
+    },
+    "futur_simple": {
+      "je": "emménagerai",
+      "tu": "emménageras",
+      "il": "emménagera",
+      "nous": "emménagerons",
+      "vous": "emménagerez",
+      "ils": "emménageront"
+    },
+    "futur_antérieur": {
+      "je": "aurai emménagé",
+      "tu": "auras emménagé",
+      "il": "aura emménagé",
+      "nous": "aurons emménagé",
+      "vous": "aurez emménagé",
+      "ils": "auront emménagé"
+    },
+    "subjonctif_présent": {
+      "je": "emménage",
+      "tu": "emménages",
+      "il": "emménage",
+      "nous": "emménagions",
+      "vous": "emménagiez",
+      "ils": "emménagent"
+    },
+    "subjonctif_passé": {
+      "je": "aie emménagé",
+      "tu": "aies emménagé",
+      "il": "ait emménagé",
+      "nous": "ayons emménagé",
+      "vous": "ayez emménagé",
+      "ils": "aient emménagé"
+    },
+    "subjonctif_imparfait": {
+      "je": "emménageasse",
+      "tu": "emménageasses",
+      "il": "emménageât",
+      "nous": "emménageassions",
+      "vous": "emménageassiez",
+      "ils": "emménageassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse emménagé",
+      "tu": "eusses emménagé",
+      "il": "eût emménagé",
+      "nous": "eussions emménagé",
+      "vous": "eussiez emménagé",
+      "ils": "eussent emménagé"
+    },
+    "conditionnel_présent": {
+      "je": "emménagerais",
+      "tu": "emménagerais",
+      "il": "emménagerait",
+      "nous": "emménagerions",
+      "vous": "emménageriez",
+      "ils": "emménageraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais emménagé",
+      "tu": "aurais emménagé",
+      "il": "aurait emménagé",
+      "nous": "aurions emménagé",
+      "vous": "auriez emménagé",
+      "ils": "auraient emménagé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse emménagé",
+      "tu": "eusses emménagé",
+      "il": "eût emménagé",
+      "nous": "eussions emménagé",
+      "vous": "eussiez emménagé",
+      "ils": "eussent emménagé"
+    },
+    "translation": "wprowadzać",
+    "group": 1
+  },
+  {
+    "infinitive": "emmener",
+    "présent": {
+      "je": "emmène",
+      "tu": "emmènes",
+      "il": "emmène",
+      "nous": "emmenons",
+      "vous": "emmenez",
+      "ils": "emmènent"
+    },
+    "passé_composé": {
+      "je": "ai emmené",
+      "tu": "as emmené",
+      "il": "a emmené",
+      "nous": "avons emmené",
+      "vous": "avez emmené",
+      "ils": "ont emmené"
+    },
+    "imparfait": {
+      "je": "emmenais",
+      "tu": "emmenais",
+      "il": "emmenait",
+      "nous": "emmenions",
+      "vous": "emmeniez",
+      "ils": "emmenaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais emmené",
+      "tu": "avais emmené",
+      "il": "avait emmené",
+      "nous": "avions emmené",
+      "vous": "aviez emmené",
+      "ils": "avaient emmené"
+    },
+    "passé_simple": {
+      "je": "emmenai",
+      "tu": "emmenas",
+      "il": "emmena",
+      "nous": "emmenâmes",
+      "vous": "emmenâtes",
+      "ils": "emmenèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus emmené",
+      "tu": "eus emmené",
+      "il": "eut emmené",
+      "nous": "eûmes emmené",
+      "vous": "eûtes emmené",
+      "ils": "eurent emmené"
+    },
+    "futur_simple": {
+      "je": "emmènerai",
+      "tu": "emmèneras",
+      "il": "emmènera",
+      "nous": "emmènerons",
+      "vous": "emmènerez",
+      "ils": "emmèneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai emmené",
+      "tu": "auras emmené",
+      "il": "aura emmené",
+      "nous": "aurons emmené",
+      "vous": "aurez emmené",
+      "ils": "auront emmené"
+    },
+    "subjonctif_présent": {
+      "je": "emmène",
+      "tu": "emmènes",
+      "il": "emmène",
+      "nous": "emmenions",
+      "vous": "emmeniez",
+      "ils": "emmènent"
+    },
+    "subjonctif_passé": {
+      "je": "aie emmené",
+      "tu": "aies emmené",
+      "il": "ait emmené",
+      "nous": "ayons emmené",
+      "vous": "ayez emmené",
+      "ils": "aient emmené"
+    },
+    "subjonctif_imparfait": {
+      "je": "emmenasse",
+      "tu": "emmenasses",
+      "il": "emmenât",
+      "nous": "emmenassions",
+      "vous": "emmenassiez",
+      "ils": "emmenassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse emmené",
+      "tu": "eusses emmené",
+      "il": "eût emmené",
+      "nous": "eussions emmené",
+      "vous": "eussiez emmené",
+      "ils": "eussent emmené"
+    },
+    "conditionnel_présent": {
+      "je": "emmènerais",
+      "tu": "emmènerais",
+      "il": "emmènerait",
+      "nous": "emmènerions",
+      "vous": "emmèneriez",
+      "ils": "emmèneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais emmené",
+      "tu": "aurais emmené",
+      "il": "aurait emmené",
+      "nous": "aurions emmené",
+      "vous": "auriez emmené",
+      "ils": "auraient emmené"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse emmené",
+      "tu": "eusses emmené",
+      "il": "eût emmené",
+      "nous": "eussions emmené",
+      "vous": "eussiez emmené",
+      "ils": "eussent emmené"
+    },
+    "translation": "zabierać",
+    "group": 1
+  },
+  {
+    "infinitive": "émoudre",
+    "présent": {
+      "je": "émouds",
+      "tu": "émouds",
+      "il": "émoud",
+      "nous": "émoulons",
+      "vous": "émoulez",
+      "ils": "émoulent"
+    },
+    "passé_composé": {
+      "je": "ai émoulu",
+      "tu": "as émoulu",
+      "il": "a émoulu",
+      "nous": "avons émoulu",
+      "vous": "avez émoulu",
+      "ils": "ont émoulu"
+    },
+    "imparfait": {
+      "je": "émoulais",
+      "tu": "émoulais",
+      "il": "émoulait",
+      "nous": "émoulions",
+      "vous": "émouliez",
+      "ils": "émoulaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais émoulu",
+      "tu": "avais émoulu",
+      "il": "avait émoulu",
+      "nous": "avions émoulu",
+      "vous": "aviez émoulu",
+      "ils": "avaient émoulu"
+    },
+    "passé_simple": {
+      "je": "émoulus",
+      "tu": "émoulus",
+      "il": "émoulut",
+      "nous": "émoulûmes",
+      "vous": "émoulûtes",
+      "ils": "émoulurent"
+    },
+    "passé_antérieur": {
+      "je": "eus émoulu",
+      "tu": "eus émoulu",
+      "il": "eut émoulu",
+      "nous": "eûmes émoulu",
+      "vous": "eûtes émoulu",
+      "ils": "eurent émoulu"
+    },
+    "futur_simple": {
+      "je": "émoudrai",
+      "tu": "émoudras",
+      "il": "émoudra",
+      "nous": "émoudrons",
+      "vous": "émoudrez",
+      "ils": "émoudront"
+    },
+    "futur_antérieur": {
+      "je": "aurai émoulu",
+      "tu": "auras émoulu",
+      "il": "aura émoulu",
+      "nous": "aurons émoulu",
+      "vous": "aurez émoulu",
+      "ils": "auront émoulu"
+    },
+    "subjonctif_présent": {
+      "je": "émoule",
+      "tu": "émoules",
+      "il": "émoule",
+      "nous": "émoulions",
+      "vous": "émouliez",
+      "ils": "émoulent"
+    },
+    "subjonctif_passé": {
+      "je": "aie émoulu",
+      "tu": "aies émoulu",
+      "il": "ait émoulu",
+      "nous": "ayons émoulu",
+      "vous": "ayez émoulu",
+      "ils": "aient émoulu"
+    },
+    "subjonctif_imparfait": {
+      "je": "émoulusse",
+      "tu": "émoulusses",
+      "il": "émoulût",
+      "nous": "émoulussions",
+      "vous": "émoulussiez",
+      "ils": "émoulussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse émoulu",
+      "tu": "eusses émoulu",
+      "il": "eût émoulu",
+      "nous": "eussions émoulu",
+      "vous": "eussiez émoulu",
+      "ils": "eussent émoulu"
+    },
+    "conditionnel_présent": {
+      "je": "émoudrais",
+      "tu": "émoudrais",
+      "il": "émoudrait",
+      "nous": "émoudrions",
+      "vous": "émoudriez",
+      "ils": "émoudraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais émoulu",
+      "tu": "aurais émoulu",
+      "il": "aurait émoulu",
+      "nous": "aurions émoulu",
+      "vous": "auriez émoulu",
+      "ils": "auraient émoulu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse émoulu",
+      "tu": "eusses émoulu",
+      "il": "eût émoulu",
+      "nous": "eussions émoulu",
+      "vous": "eussiez émoulu",
+      "ils": "eussent émoulu"
+    },
+    "translation": "mielić",
+    "group": 3
+  }
+]

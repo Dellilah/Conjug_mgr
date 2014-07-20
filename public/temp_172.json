@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "rincer",
+    "présent": {
+      "je": "rince",
+      "tu": "rinces",
+      "il": "rince",
+      "nous": "rinçons",
+      "vous": "rincez",
+      "ils": "rincent"
+    },
+    "passé_composé": {
+      "je": "ai rincé",
+      "tu": "as rincé",
+      "il": "a rincé",
+      "nous": "avons rincé",
+      "vous": "avez rincé",
+      "ils": "ont rincé"
+    },
+    "imparfait": {
+      "je": "rinçais",
+      "tu": "rinçais",
+      "il": "rinçait",
+      "nous": "rincions",
+      "vous": "rinciez",
+      "ils": "rinçaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais rincé",
+      "tu": "avais rincé",
+      "il": "avait rincé",
+      "nous": "avions rincé",
+      "vous": "aviez rincé",
+      "ils": "avaient rincé"
+    },
+    "passé_simple": {
+      "je": "rinçai",
+      "tu": "rinças",
+      "il": "rinça",
+      "nous": "rinçâmes",
+      "vous": "rinçâtes",
+      "ils": "rincèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus rincé",
+      "tu": "eus rincé",
+      "il": "eut rincé",
+      "nous": "eûmes rincé",
+      "vous": "eûtes rincé",
+      "ils": "eurent rincé"
+    },
+    "futur_simple": {
+      "je": "rincerai",
+      "tu": "rinceras",
+      "il": "rincera",
+      "nous": "rincerons",
+      "vous": "rincerez",
+      "ils": "rinceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai rincé",
+      "tu": "auras rincé",
+      "il": "aura rincé",
+      "nous": "aurons rincé",
+      "vous": "aurez rincé",
+      "ils": "auront rincé"
+    },
+    "subjonctif_présent": {
+      "je": "rince",
+      "tu": "rinces",
+      "il": "rince",
+      "nous": "rincions",
+      "vous": "rinciez",
+      "ils": "rincent"
+    },
+    "subjonctif_passé": {
+      "je": "aie rincé",
+      "tu": "aies rincé",
+      "il": "ait rincé",
+      "nous": "ayons rincé",
+      "vous": "ayez rincé",
+      "ils": "aient rincé"
+    },
+    "subjonctif_imparfait": {
+      "je": "rinçasse",
+      "tu": "rinçasses",
+      "il": "rinçât",
+      "nous": "rinçassions",
+      "vous": "rinçassiez",
+      "ils": "rinçassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse rincé",
+      "tu": "eusses rincé",
+      "il": "eût rincé",
+      "nous": "eussions rincé",
+      "vous": "eussiez rincé",
+      "ils": "eussent rincé"
+    },
+    "conditionnel_présent": {
+      "je": "rincerais",
+      "tu": "rincerais",
+      "il": "rincerait",
+      "nous": "rincerions",
+      "vous": "rinceriez",
+      "ils": "rinceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais rincé",
+      "tu": "aurais rincé",
+      "il": "aurait rincé",
+      "nous": "aurions rincé",
+      "vous": "auriez rincé",
+      "ils": "auraient rincé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse rincé",
+      "tu": "eusses rincé",
+      "il": "eût rincé",
+      "nous": "eussions rincé",
+      "vous": "eussiez rincé",
+      "ils": "eussent rincé"
+    },
+    "translation": "płukać",
+    "group": 1
+  },
+  {
+    "infinitive": "rire",
+    "présent": {
+      "je": "ris",
+      "tu": "ris",
+      "il": "rit",
+      "nous": "rions",
+      "vous": "riez",
+      "ils": "rient"
+    },
+    "passé_composé": {
+      "je": "ai ri",
+      "tu": "as ri",
+      "il": "a ri",
+      "nous": "avons ri",
+      "vous": "avez ri",
+      "ils": "ont ri"
+    },
+    "imparfait": {
+      "je": "riais",
+      "tu": "riais",
+      "il": "riait",
+      "nous": "riions",
+      "vous": "riiez",
+      "ils": "riaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ri",
+      "tu": "avais ri",
+      "il": "avait ri",
+      "nous": "avions ri",
+      "vous": "aviez ri",
+      "ils": "avaient ri"
+    },
+    "passé_simple": {
+      "je": "ris",
+      "tu": "ris",
+      "il": "rit",
+      "nous": "rîmes",
+      "vous": "rîtes",
+      "ils": "rirent"
+    },
+    "passé_antérieur": {
+      "je": "eus ri",
+      "tu": "eus ri",
+      "il": "eut ri",
+      "nous": "eûmes ri",
+      "vous": "eûtes ri",
+      "ils": "eurent ri"
+    },
+    "futur_simple": {
+      "je": "rirai",
+      "tu": "riras",
+      "il": "rira",
+      "nous": "rirons",
+      "vous": "rirez",
+      "ils": "riront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ri",
+      "tu": "auras ri",
+      "il": "aura ri",
+      "nous": "aurons ri",
+      "vous": "aurez ri",
+      "ils": "auront ri"
+    },
+    "subjonctif_présent": {
+      "je": "rie",
+      "tu": "ries",
+      "il": "rie",
+      "nous": "riions",
+      "vous": "riiez",
+      "ils": "rient"
+    },
+    "subjonctif_passé": {
+      "je": "aie ri",
+      "tu": "aies ri",
+      "il": "ait ri",
+      "nous": "ayons ri",
+      "vous": "ayez ri",
+      "ils": "aient ri"
+    },
+    "subjonctif_imparfait": {
+      "je": "risse",
+      "tu": "risses",
+      "il": "rît",
+      "nous": "rissions",
+      "vous": "rissiez",
+      "ils": "rissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ri",
+      "tu": "eusses ri",
+      "il": "eût ri",
+      "nous": "eussions ri",
+      "vous": "eussiez ri",
+      "ils": "eussent ri"
+    },
+    "conditionnel_présent": {
+      "je": "rirais",
+      "tu": "rirais",
+      "il": "rirait",
+      "nous": "ririons",
+      "vous": "ririez",
+      "ils": "riraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ri",
+      "tu": "aurais ri",
+      "il": "aurait ri",
+      "nous": "aurions ri",
+      "vous": "auriez ri",
+      "ils": "auraient ri"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ri",
+      "tu": "eusses ri",
+      "il": "eût ri",
+      "nous": "eussions ri",
+      "vous": "eussiez ri",
+      "ils": "eussent ri"
+    },
+    "translation": "śmiać",
+    "group": 3
+  },
+  {
+    "infinitive": "risquer",
+    "présent": {
+      "je": "risque",
+      "tu": "risques",
+      "il": "risque",
+      "nous": "risquons",
+      "vous": "risquez",
+      "ils": "risquent"
+    },
+    "passé_composé": {
+      "je": "ai risqué",
+      "tu": "as risqué",
+      "il": "a risqué",
+      "nous": "avons risqué",
+      "vous": "avez risqué",
+      "ils": "ont risqué"
+    },
+    "imparfait": {
+      "je": "risquais",
+      "tu": "risquais",
+      "il": "risquait",
+      "nous": "risquions",
+      "vous": "risquiez",
+      "ils": "risquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais risqué",
+      "tu": "avais risqué",
+      "il": "avait risqué",
+      "nous": "avions risqué",
+      "vous": "aviez risqué",
+      "ils": "avaient risqué"
+    },
+    "passé_simple": {
+      "je": "risquai",
+      "tu": "risquas",
+      "il": "risqua",
+      "nous": "risquâmes",
+      "vous": "risquâtes",
+      "ils": "risquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus risqué",
+      "tu": "eus risqué",
+      "il": "eut risqué",
+      "nous": "eûmes risqué",
+      "vous": "eûtes risqué",
+      "ils": "eurent risqué"
+    },
+    "futur_simple": {
+      "je": "risquerai",
+      "tu": "risqueras",
+      "il": "risquera",
+      "nous": "risquerons",
+      "vous": "risquerez",
+      "ils": "risqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai risqué",
+      "tu": "auras risqué",
+      "il": "aura risqué",
+      "nous": "aurons risqué",
+      "vous": "aurez risqué",
+      "ils": "auront risqué"
+    },
+    "subjonctif_présent": {
+      "je": "risque",
+      "tu": "risques",
+      "il": "risque",
+      "nous": "risquions",
+      "vous": "risquiez",
+      "ils": "risquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie risqué",
+      "tu": "aies risqué",
+      "il": "ait risqué",
+      "nous": "ayons risqué",
+      "vous": "ayez risqué",
+      "ils": "aient risqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "risquasse",
+      "tu": "risquasses",
+      "il": "risquât",
+      "nous": "risquassions",
+      "vous": "risquassiez",
+      "ils": "risquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse risqué",
+      "tu": "eusses risqué",
+      "il": "eût risqué",
+      "nous": "eussions risqué",
+      "vous": "eussiez risqué",
+      "ils": "eussent risqué"
+    },
+    "conditionnel_présent": {
+      "je": "risquerais",
+      "tu": "risquerais",
+      "il": "risquerait",
+      "nous": "risquerions",
+      "vous": "risqueriez",
+      "ils": "risqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais risqué",
+      "tu": "aurais risqué",
+      "il": "aurait risqué",
+      "nous": "aurions risqué",
+      "vous": "auriez risqué",
+      "ils": "auraient risqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse risqué",
+      "tu": "eusses risqué",
+      "il": "eût risqué",
+      "nous": "eussions risqué",
+      "vous": "eussiez risqué",
+      "ils": "eussent risqué"
+    },
+    "translation": "wystawić",
+    "group": 1
+  },
+  {
+    "infinitive": "rôder",
+    "présent": {
+      "je": "rode",
+      "tu": "rodes",
+      "il": "rode",
+      "nous": "rodons",
+      "vous": "rodez",
+      "ils": "rodent"
+    },
+    "passé_composé": {
+      "je": "ai rodé",
+      "tu": "as rodé",
+      "il": "a rodé",
+      "nous": "avons rodé",
+      "vous": "avez rodé",
+      "ils": "ont rodé"
+    },
+    "imparfait": {
+      "je": "rodais",
+      "tu": "rodais",
+      "il": "rodait",
+      "nous": "rodions",
+      "vous": "rodiez",
+      "ils": "rodaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais rodé",
+      "tu": "avais rodé",
+      "il": "avait rodé",
+      "nous": "avions rodé",
+      "vous": "aviez rodé",
+      "ils": "avaient rodé"
+    },
+    "passé_simple": {
+      "je": "rodai",
+      "tu": "rodas",
+      "il": "roda",
+      "nous": "rodâmes",
+      "vous": "rodâtes",
+      "ils": "rodèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus rodé",
+      "tu": "eus rodé",
+      "il": "eut rodé",
+      "nous": "eûmes rodé",
+      "vous": "eûtes rodé",
+      "ils": "eurent rodé"
+    },
+    "futur_simple": {
+      "je": "roderai",
+      "tu": "roderas",
+      "il": "rodera",
+      "nous": "roderons",
+      "vous": "roderez",
+      "ils": "roderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai rodé",
+      "tu": "auras rodé",
+      "il": "aura rodé",
+      "nous": "aurons rodé",
+      "vous": "aurez rodé",
+      "ils": "auront rodé"
+    },
+    "subjonctif_présent": {
+      "je": "rode",
+      "tu": "rodes",
+      "il": "rode",
+      "nous": "rodions",
+      "vous": "rodiez",
+      "ils": "rodent"
+    },
+    "subjonctif_passé": {
+      "je": "aie rodé",
+      "tu": "aies rodé",
+      "il": "ait rodé",
+      "nous": "ayons rodé",
+      "vous": "ayez rodé",
+      "ils": "aient rodé"
+    },
+    "subjonctif_imparfait": {
+      "je": "rodasse",
+      "tu": "rodasses",
+      "il": "rodât",
+      "nous": "rodassions",
+      "vous": "rodassiez",
+      "ils": "rodassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse rodé",
+      "tu": "eusses rodé",
+      "il": "eût rodé",
+      "nous": "eussions rodé",
+      "vous": "eussiez rodé",
+      "ils": "eussent rodé"
+    },
+    "conditionnel_présent": {
+      "je": "roderais",
+      "tu": "roderais",
+      "il": "roderait",
+      "nous": "roderions",
+      "vous": "roderiez",
+      "ils": "roderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais rodé",
+      "tu": "aurais rodé",
+      "il": "aurait rodé",
+      "nous": "aurions rodé",
+      "vous": "auriez rodé",
+      "ils": "auraient rodé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse rodé",
+      "tu": "eusses rodé",
+      "il": "eût rodé",
+      "nous": "eussions rodé",
+      "vous": "eussiez rodé",
+      "ils": "eussent rodé"
+    },
+    "translation": "docierać",
+    "group": 1
+  },
+  {
+    "infinitive": "roder",
+    "présent": {
+      "je": "rode",
+      "tu": "rodes",
+      "il": "rode",
+      "nous": "rodons",
+      "vous": "rodez",
+      "ils": "rodent"
+    },
+    "passé_composé": {
+      "je": "ai rodé",
+      "tu": "as rodé",
+      "il": "a rodé",
+      "nous": "avons rodé",
+      "vous": "avez rodé",
+      "ils": "ont rodé"
+    },
+    "imparfait": {
+      "je": "rodais",
+      "tu": "rodais",
+      "il": "rodait",
+      "nous": "rodions",
+      "vous": "rodiez",
+      "ils": "rodaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais rodé",
+      "tu": "avais rodé",
+      "il": "avait rodé",
+      "nous": "avions rodé",
+      "vous": "aviez rodé",
+      "ils": "avaient rodé"
+    },
+    "passé_simple": {
+      "je": "rodai",
+      "tu": "rodas",
+      "il": "roda",
+      "nous": "rodâmes",
+      "vous": "rodâtes",
+      "ils": "rodèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus rodé",
+      "tu": "eus rodé",
+      "il": "eut rodé",
+      "nous": "eûmes rodé",
+      "vous": "eûtes rodé",
+      "ils": "eurent rodé"
+    },
+    "futur_simple": {
+      "je": "roderai",
+      "tu": "roderas",
+      "il": "rodera",
+      "nous": "roderons",
+      "vous": "roderez",
+      "ils": "roderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai rodé",
+      "tu": "auras rodé",
+      "il": "aura rodé",
+      "nous": "aurons rodé",
+      "vous": "aurez rodé",
+      "ils": "auront rodé"
+    },
+    "subjonctif_présent": {
+      "je": "rode",
+      "tu": "rodes",
+      "il": "rode",
+      "nous": "rodions",
+      "vous": "rodiez",
+      "ils": "rodent"
+    },
+    "subjonctif_passé": {
+      "je": "aie rodé",
+      "tu": "aies rodé",
+      "il": "ait rodé",
+      "nous": "ayons rodé",
+      "vous": "ayez rodé",
+      "ils": "aient rodé"
+    },
+    "subjonctif_imparfait": {
+      "je": "rodasse",
+      "tu": "rodasses",
+      "il": "rodât",
+      "nous": "rodassions",
+      "vous": "rodassiez",
+      "ils": "rodassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse rodé",
+      "tu": "eusses rodé",
+      "il": "eût rodé",
+      "nous": "eussions rodé",
+      "vous": "eussiez rodé",
+      "ils": "eussent rodé"
+    },
+    "conditionnel_présent": {
+      "je": "roderais",
+      "tu": "roderais",
+      "il": "roderait",
+      "nous": "roderions",
+      "vous": "roderiez",
+      "ils": "roderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais rodé",
+      "tu": "aurais rodé",
+      "il": "aurait rodé",
+      "nous": "aurions rodé",
+      "vous": "auriez rodé",
+      "ils": "auraient rodé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse rodé",
+      "tu": "eusses rodé",
+      "il": "eût rodé",
+      "nous": "eussions rodé",
+      "vous": "eussiez rodé",
+      "ils": "eussent rodé"
+    },
+    "translation": "docierać",
+    "group": 1
+  },
+  {
+    "infinitive": "rompre",
+    "présent": {
+      "je": "romps",
+      "tu": "romps",
+      "il": "rompt",
+      "nous": "rompons",
+      "vous": "rompez",
+      "ils": "rompent"
+    },
+    "passé_composé": {
+      "je": "ai rompu",
+      "tu": "as rompu",
+      "il": "a rompu",
+      "nous": "avons rompu",
+      "vous": "avez rompu",
+      "ils": "ont rompu"
+    },
+    "imparfait": {
+      "je": "rompais",
+      "tu": "rompais",
+      "il": "rompait",
+      "nous": "rompions",
+      "vous": "rompiez",
+      "ils": "rompaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais rompu",
+      "tu": "avais rompu",
+      "il": "avait rompu",
+      "nous": "avions rompu",
+      "vous": "aviez rompu",
+      "ils": "avaient rompu"
+    },
+    "passé_simple": {
+      "je": "rompis",
+      "tu": "rompis",
+      "il": "rompit",
+      "nous": "rompîmes",
+      "vous": "rompîtes",
+      "ils": "rompirent"
+    },
+    "passé_antérieur": {
+      "je": "eus rompu",
+      "tu": "eus rompu",
+      "il": "eut rompu",
+      "nous": "eûmes rompu",
+      "vous": "eûtes rompu",
+      "ils": "eurent rompu"
+    },
+    "futur_simple": {
+      "je": "romprai",
+      "tu": "rompras",
+      "il": "rompra",
+      "nous": "romprons",
+      "vous": "romprez",
+      "ils": "rompront"
+    },
+    "futur_antérieur": {
+      "je": "aurai rompu",
+      "tu": "auras rompu",
+      "il": "aura rompu",
+      "nous": "aurons rompu",
+      "vous": "aurez rompu",
+      "ils": "auront rompu"
+    },
+    "subjonctif_présent": {
+      "je": "rompe",
+      "tu": "rompes",
+      "il": "rompe",
+      "nous": "rompions",
+      "vous": "rompiez",
+      "ils": "rompent"
+    },
+    "subjonctif_passé": {
+      "je": "aie rompu",
+      "tu": "aies rompu",
+      "il": "ait rompu",
+      "nous": "ayons rompu",
+      "vous": "ayez rompu",
+      "ils": "aient rompu"
+    },
+    "subjonctif_imparfait": {
+      "je": "rompisse",
+      "tu": "rompisses",
+      "il": "rompît",
+      "nous": "rompissions",
+      "vous": "rompissiez",
+      "ils": "rompissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse rompu",
+      "tu": "eusses rompu",
+      "il": "eût rompu",
+      "nous": "eussions rompu",
+      "vous": "eussiez rompu",
+      "ils": "eussent rompu"
+    },
+    "conditionnel_présent": {
+      "je": "romprais",
+      "tu": "romprais",
+      "il": "romprait",
+      "nous": "romprions",
+      "vous": "rompriez",
+      "ils": "rompraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais rompu",
+      "tu": "aurais rompu",
+      "il": "aurait rompu",
+      "nous": "aurions rompu",
+      "vous": "auriez rompu",
+      "ils": "auraient rompu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse rompu",
+      "tu": "eusses rompu",
+      "il": "eût rompu",
+      "nous": "eussions rompu",
+      "vous": "eussiez rompu",
+      "ils": "eussent rompu"
+    },
+    "translation": "zrywać",
+    "group": 3
+  },
+  {
+    "infinitive": "ronfler",
+    "présent": {
+      "je": "ronfle",
+      "tu": "ronfles",
+      "il": "ronfle",
+      "nous": "ronflons",
+      "vous": "ronflez",
+      "ils": "ronflent"
+    },
+    "passé_composé": {
+      "je": "ai ronflé",
+      "tu": "as ronflé",
+      "il": "a ronflé",
+      "nous": "avons ronflé",
+      "vous": "avez ronflé",
+      "ils": "ont ronflé"
+    },
+    "imparfait": {
+      "je": "ronflais",
+      "tu": "ronflais",
+      "il": "ronflait",
+      "nous": "ronflions",
+      "vous": "ronfliez",
+      "ils": "ronflaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ronflé",
+      "tu": "avais ronflé",
+      "il": "avait ronflé",
+      "nous": "avions ronflé",
+      "vous": "aviez ronflé",
+      "ils": "avaient ronflé"
+    },
+    "passé_simple": {
+      "je": "ronflai",
+      "tu": "ronflas",
+      "il": "ronfla",
+      "nous": "ronflâmes",
+      "vous": "ronflâtes",
+      "ils": "ronflèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus ronflé",
+      "tu": "eus ronflé",
+      "il": "eut ronflé",
+      "nous": "eûmes ronflé",
+      "vous": "eûtes ronflé",
+      "ils": "eurent ronflé"
+    },
+    "futur_simple": {
+      "je": "ronflerai",
+      "tu": "ronfleras",
+      "il": "ronflera",
+      "nous": "ronflerons",
+      "vous": "ronflerez",
+      "ils": "ronfleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ronflé",
+      "tu": "auras ronflé",
+      "il": "aura ronflé",
+      "nous": "aurons ronflé",
+      "vous": "aurez ronflé",
+      "ils": "auront ronflé"
+    },
+    "subjonctif_présent": {
+      "je": "ronfle",
+      "tu": "ronfles",
+      "il": "ronfle",
+      "nous": "ronflions",
+      "vous": "ronfliez",
+      "ils": "ronflent"
+    },
+    "subjonctif_passé": {
+      "je": "aie ronflé",
+      "tu": "aies ronflé",
+      "il": "ait ronflé",
+      "nous": "ayons ronflé",
+      "vous": "ayez ronflé",
+      "ils": "aient ronflé"
+    },
+    "subjonctif_imparfait": {
+      "je": "ronflasse",
+      "tu": "ronflasses",
+      "il": "ronflât",
+      "nous": "ronflassions",
+      "vous": "ronflassiez",
+      "ils": "ronflassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ronflé",
+      "tu": "eusses ronflé",
+      "il": "eût ronflé",
+      "nous": "eussions ronflé",
+      "vous": "eussiez ronflé",
+      "ils": "eussent ronflé"
+    },
+    "conditionnel_présent": {
+      "je": "ronflerais",
+      "tu": "ronflerais",
+      "il": "ronflerait",
+      "nous": "ronflerions",
+      "vous": "ronfleriez",
+      "ils": "ronfleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ronflé",
+      "tu": "aurais ronflé",
+      "il": "aurait ronflé",
+      "nous": "aurions ronflé",
+      "vous": "auriez ronflé",
+      "ils": "auraient ronflé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ronflé",
+      "tu": "eusses ronflé",
+      "il": "eût ronflé",
+      "nous": "eussions ronflé",
+      "vous": "eussiez ronflé",
+      "ils": "eussent ronflé"
+    },
+    "translation": "chrapać",
+    "group": 1
+  },
+  {
+    "infinitive": "ronger",
+    "présent": {
+      "je": "ronge",
+      "tu": "ronges",
+      "il": "ronge",
+      "nous": "rongeons",
+      "vous": "rongez",
+      "ils": "rongent"
+    },
+    "passé_composé": {
+      "je": "ai rongé",
+      "tu": "as rongé",
+      "il": "a rongé",
+      "nous": "avons rongé",
+      "vous": "avez rongé",
+      "ils": "ont rongé"
+    },
+    "imparfait": {
+      "je": "rongeais",
+      "tu": "rongeais",
+      "il": "rongeait",
+      "nous": "rongions",
+      "vous": "rongiez",
+      "ils": "rongeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais rongé",
+      "tu": "avais rongé",
+      "il": "avait rongé",
+      "nous": "avions rongé",
+      "vous": "aviez rongé",
+      "ils": "avaient rongé"
+    },
+    "passé_simple": {
+      "je": "rongeai",
+      "tu": "rongeas",
+      "il": "rongea",
+      "nous": "rongeâmes",
+      "vous": "rongeâtes",
+      "ils": "rongèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus rongé",
+      "tu": "eus rongé",
+      "il": "eut rongé",
+      "nous": "eûmes rongé",
+      "vous": "eûtes rongé",
+      "ils": "eurent rongé"
+    },
+    "futur_simple": {
+      "je": "rongerai",
+      "tu": "rongeras",
+      "il": "rongera",
+      "nous": "rongerons",
+      "vous": "rongerez",
+      "ils": "rongeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai rongé",
+      "tu": "auras rongé",
+      "il": "aura rongé",
+      "nous": "aurons rongé",
+      "vous": "aurez rongé",
+      "ils": "auront rongé"
+    },
+    "subjonctif_présent": {
+      "je": "ronge",
+      "tu": "ronges",
+      "il": "ronge",
+      "nous": "rongions",
+      "vous": "rongiez",
+      "ils": "rongent"
+    },
+    "subjonctif_passé": {
+      "je": "aie rongé",
+      "tu": "aies rongé",
+      "il": "ait rongé",
+      "nous": "ayons rongé",
+      "vous": "ayez rongé",
+      "ils": "aient rongé"
+    },
+    "subjonctif_imparfait": {
+      "je": "rongeasse",
+      "tu": "rongeasses",
+      "il": "rongeât",
+      "nous": "rongeassions",
+      "vous": "rongeassiez",
+      "ils": "rongeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse rongé",
+      "tu": "eusses rongé",
+      "il": "eût rongé",
+      "nous": "eussions rongé",
+      "vous": "eussiez rongé",
+      "ils": "eussent rongé"
+    },
+    "conditionnel_présent": {
+      "je": "rongerais",
+      "tu": "rongerais",
+      "il": "rongerait",
+      "nous": "rongerions",
+      "vous": "rongeriez",
+      "ils": "rongeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais rongé",
+      "tu": "aurais rongé",
+      "il": "aurait rongé",
+      "nous": "aurions rongé",
+      "vous": "auriez rongé",
+      "ils": "auraient rongé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse rongé",
+      "tu": "eusses rongé",
+      "il": "eût rongé",
+      "nous": "eussions rongé",
+      "vous": "eussiez rongé",
+      "ils": "eussent rongé"
+    },
+    "translation": "obgryzać",
+    "group": 1
+  },
+  {
+    "infinitive": "ronronner",
+    "présent": {
+      "je": "ronronne",
+      "tu": "ronronnes",
+      "il": "ronronne",
+      "nous": "ronronnons",
+      "vous": "ronronnez",
+      "ils": "ronronnent"
+    },
+    "passé_composé": {
+      "je": "ai ronronné",
+      "tu": "as ronronné",
+      "il": "a ronronné",
+      "nous": "avons ronronné",
+      "vous": "avez ronronné",
+      "ils": "ont ronronné"
+    },
+    "imparfait": {
+      "je": "ronronnais",
+      "tu": "ronronnais",
+      "il": "ronronnait",
+      "nous": "ronronnions",
+      "vous": "ronronniez",
+      "ils": "ronronnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ronronné",
+      "tu": "avais ronronné",
+      "il": "avait ronronné",
+      "nous": "avions ronronné",
+      "vous": "aviez ronronné",
+      "ils": "avaient ronronné"
+    },
+    "passé_simple": {
+      "je": "ronronnai",
+      "tu": "ronronnas",
+      "il": "ronronna",
+      "nous": "ronronnâmes",
+      "vous": "ronronnâtes",
+      "ils": "ronronnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus ronronné",
+      "tu": "eus ronronné",
+      "il": "eut ronronné",
+      "nous": "eûmes ronronné",
+      "vous": "eûtes ronronné",
+      "ils": "eurent ronronné"
+    },
+    "futur_simple": {
+      "je": "ronronnerai",
+      "tu": "ronronneras",
+      "il": "ronronnera",
+      "nous": "ronronnerons",
+      "vous": "ronronnerez",
+      "ils": "ronronneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ronronné",
+      "tu": "auras ronronné",
+      "il": "aura ronronné",
+      "nous": "aurons ronronné",
+      "vous": "aurez ronronné",
+      "ils": "auront ronronné"
+    },
+    "subjonctif_présent": {
+      "je": "ronronne",
+      "tu": "ronronnes",
+      "il": "ronronne",
+      "nous": "ronronnions",
+      "vous": "ronronniez",
+      "ils": "ronronnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie ronronné",
+      "tu": "aies ronronné",
+      "il": "ait ronronné",
+      "nous": "ayons ronronné",
+      "vous": "ayez ronronné",
+      "ils": "aient ronronné"
+    },
+    "subjonctif_imparfait": {
+      "je": "ronronnasse",
+      "tu": "ronronnasses",
+      "il": "ronronnât",
+      "nous": "ronronnassions",
+      "vous": "ronronnassiez",
+      "ils": "ronronnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ronronné",
+      "tu": "eusses ronronné",
+      "il": "eût ronronné",
+      "nous": "eussions ronronné",
+      "vous": "eussiez ronronné",
+      "ils": "eussent ronronné"
+    },
+    "conditionnel_présent": {
+      "je": "ronronnerais",
+      "tu": "ronronnerais",
+      "il": "ronronnerait",
+      "nous": "ronronnerions",
+      "vous": "ronronneriez",
+      "ils": "ronronneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ronronné",
+      "tu": "aurais ronronné",
+      "il": "aurait ronronné",
+      "nous": "aurions ronronné",
+      "vous": "auriez ronronné",
+      "ils": "auraient ronronné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ronronné",
+      "tu": "eusses ronronné",
+      "il": "eût ronronné",
+      "nous": "eussions ronronné",
+      "vous": "eussiez ronronné",
+      "ils": "eussent ronronné"
+    },
+    "translation": "mruczeć",
+    "group": 1
+  },
+  {
+    "infinitive": "roquer",
+    "présent": {
+      "je": "roque",
+      "tu": "roques",
+      "il": "roque",
+      "nous": "roquons",
+      "vous": "roquez",
+      "ils": "roquent"
+    },
+    "passé_composé": {
+      "je": "ai roqué",
+      "tu": "as roqué",
+      "il": "a roqué",
+      "nous": "avons roqué",
+      "vous": "avez roqué",
+      "ils": "ont roqué"
+    },
+    "imparfait": {
+      "je": "roquais",
+      "tu": "roquais",
+      "il": "roquait",
+      "nous": "roquions",
+      "vous": "roquiez",
+      "ils": "roquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais roqué",
+      "tu": "avais roqué",
+      "il": "avait roqué",
+      "nous": "avions roqué",
+      "vous": "aviez roqué",
+      "ils": "avaient roqué"
+    },
+    "passé_simple": {
+      "je": "roquai",
+      "tu": "roquas",
+      "il": "roqua",
+      "nous": "roquâmes",
+      "vous": "roquâtes",
+      "ils": "roquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus roqué",
+      "tu": "eus roqué",
+      "il": "eut roqué",
+      "nous": "eûmes roqué",
+      "vous": "eûtes roqué",
+      "ils": "eurent roqué"
+    },
+    "futur_simple": {
+      "je": "roquerai",
+      "tu": "roqueras",
+      "il": "roquera",
+      "nous": "roquerons",
+      "vous": "roquerez",
+      "ils": "roqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai roqué",
+      "tu": "auras roqué",
+      "il": "aura roqué",
+      "nous": "aurons roqué",
+      "vous": "aurez roqué",
+      "ils": "auront roqué"
+    },
+    "subjonctif_présent": {
+      "je": "roque",
+      "tu": "roques",
+      "il": "roque",
+      "nous": "roquions",
+      "vous": "roquiez",
+      "ils": "roquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie roqué",
+      "tu": "aies roqué",
+      "il": "ait roqué",
+      "nous": "ayons roqué",
+      "vous": "ayez roqué",
+      "ils": "aient roqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "roquasse",
+      "tu": "roquasses",
+      "il": "roquât",
+      "nous": "roquassions",
+      "vous": "roquassiez",
+      "ils": "roquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse roqué",
+      "tu": "eusses roqué",
+      "il": "eût roqué",
+      "nous": "eussions roqué",
+      "vous": "eussiez roqué",
+      "ils": "eussent roqué"
+    },
+    "conditionnel_présent": {
+      "je": "roquerais",
+      "tu": "roquerais",
+      "il": "roquerait",
+      "nous": "roquerions",
+      "vous": "roqueriez",
+      "ils": "roqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais roqué",
+      "tu": "aurais roqué",
+      "il": "aurait roqué",
+      "nous": "aurions roqué",
+      "vous": "auriez roqué",
+      "ils": "auraient roqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse roqué",
+      "tu": "eusses roqué",
+      "il": "eût roqué",
+      "nous": "eussions roqué",
+      "vous": "eussiez roqué",
+      "ils": "eussent roqué"
+    },
+    "translation": "chrupać",
+    "group": 1
+  }
+]

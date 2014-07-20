@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "notifier",
+    "présent": {
+      "je": "notifie",
+      "tu": "notifies",
+      "il": "notifie",
+      "nous": "notifions",
+      "vous": "notifiez",
+      "ils": "notifient"
+    },
+    "passé_composé": {
+      "je": "ai notifié",
+      "tu": "as notifié",
+      "il": "a notifié",
+      "nous": "avons notifié",
+      "vous": "avez notifié",
+      "ils": "ont notifié"
+    },
+    "imparfait": {
+      "je": "notifiais",
+      "tu": "notifiais",
+      "il": "notifiait",
+      "nous": "notifiions",
+      "vous": "notifiiez",
+      "ils": "notifiaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais notifié",
+      "tu": "avais notifié",
+      "il": "avait notifié",
+      "nous": "avions notifié",
+      "vous": "aviez notifié",
+      "ils": "avaient notifié"
+    },
+    "passé_simple": {
+      "je": "notifiai",
+      "tu": "notifias",
+      "il": "notifia",
+      "nous": "notifiâmes",
+      "vous": "notifiâtes",
+      "ils": "notifièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus notifié",
+      "tu": "eus notifié",
+      "il": "eut notifié",
+      "nous": "eûmes notifié",
+      "vous": "eûtes notifié",
+      "ils": "eurent notifié"
+    },
+    "futur_simple": {
+      "je": "notifierai",
+      "tu": "notifieras",
+      "il": "notifiera",
+      "nous": "notifierons",
+      "vous": "notifierez",
+      "ils": "notifieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai notifié",
+      "tu": "auras notifié",
+      "il": "aura notifié",
+      "nous": "aurons notifié",
+      "vous": "aurez notifié",
+      "ils": "auront notifié"
+    },
+    "subjonctif_présent": {
+      "je": "notifie",
+      "tu": "notifies",
+      "il": "notifie",
+      "nous": "notifiions",
+      "vous": "notifiiez",
+      "ils": "notifient"
+    },
+    "subjonctif_passé": {
+      "je": "aie notifié",
+      "tu": "aies notifié",
+      "il": "ait notifié",
+      "nous": "ayons notifié",
+      "vous": "ayez notifié",
+      "ils": "aient notifié"
+    },
+    "subjonctif_imparfait": {
+      "je": "notifiasse",
+      "tu": "notifiasses",
+      "il": "notifiât",
+      "nous": "notifiassions",
+      "vous": "notifiassiez",
+      "ils": "notifiassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse notifié",
+      "tu": "eusses notifié",
+      "il": "eût notifié",
+      "nous": "eussions notifié",
+      "vous": "eussiez notifié",
+      "ils": "eussent notifié"
+    },
+    "conditionnel_présent": {
+      "je": "notifierais",
+      "tu": "notifierais",
+      "il": "notifierait",
+      "nous": "notifierions",
+      "vous": "notifieriez",
+      "ils": "notifieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais notifié",
+      "tu": "aurais notifié",
+      "il": "aurait notifié",
+      "nous": "aurions notifié",
+      "vous": "auriez notifié",
+      "ils": "auraient notifié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse notifié",
+      "tu": "eusses notifié",
+      "il": "eût notifié",
+      "nous": "eussions notifié",
+      "vous": "eussiez notifié",
+      "ils": "eussent notifié"
+    },
+    "translation": "wzmacniać",
+    "group": 1
+  },
+  {
+    "infinitive": "nouer",
+    "présent": {
+      "je": "noue",
+      "tu": "noues",
+      "il": "noue",
+      "nous": "nouons",
+      "vous": "nouez",
+      "ils": "nouent"
+    },
+    "passé_composé": {
+      "je": "ai noué",
+      "tu": "as noué",
+      "il": "a noué",
+      "nous": "avons noué",
+      "vous": "avez noué",
+      "ils": "ont noué"
+    },
+    "imparfait": {
+      "je": "nouais",
+      "tu": "nouais",
+      "il": "nouait",
+      "nous": "nouions",
+      "vous": "nouiez",
+      "ils": "nouaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais noué",
+      "tu": "avais noué",
+      "il": "avait noué",
+      "nous": "avions noué",
+      "vous": "aviez noué",
+      "ils": "avaient noué"
+    },
+    "passé_simple": {
+      "je": "nouai",
+      "tu": "nouas",
+      "il": "noua",
+      "nous": "nouâmes",
+      "vous": "nouâtes",
+      "ils": "nouèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus noué",
+      "tu": "eus noué",
+      "il": "eut noué",
+      "nous": "eûmes noué",
+      "vous": "eûtes noué",
+      "ils": "eurent noué"
+    },
+    "futur_simple": {
+      "je": "nouerai",
+      "tu": "noueras",
+      "il": "nouera",
+      "nous": "nouerons",
+      "vous": "nouerez",
+      "ils": "noueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai noué",
+      "tu": "auras noué",
+      "il": "aura noué",
+      "nous": "aurons noué",
+      "vous": "aurez noué",
+      "ils": "auront noué"
+    },
+    "subjonctif_présent": {
+      "je": "noue",
+      "tu": "noues",
+      "il": "noue",
+      "nous": "nouions",
+      "vous": "nouiez",
+      "ils": "nouent"
+    },
+    "subjonctif_passé": {
+      "je": "aie noué",
+      "tu": "aies noué",
+      "il": "ait noué",
+      "nous": "ayons noué",
+      "vous": "ayez noué",
+      "ils": "aient noué"
+    },
+    "subjonctif_imparfait": {
+      "je": "nouasse",
+      "tu": "nouasses",
+      "il": "nouât",
+      "nous": "nouassions",
+      "vous": "nouassiez",
+      "ils": "nouassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse noué",
+      "tu": "eusses noué",
+      "il": "eût noué",
+      "nous": "eussions noué",
+      "vous": "eussiez noué",
+      "ils": "eussent noué"
+    },
+    "conditionnel_présent": {
+      "je": "nouerais",
+      "tu": "nouerais",
+      "il": "nouerait",
+      "nous": "nouerions",
+      "vous": "noueriez",
+      "ils": "noueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais noué",
+      "tu": "aurais noué",
+      "il": "aurait noué",
+      "nous": "aurions noué",
+      "vous": "auriez noué",
+      "ils": "auraient noué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse noué",
+      "tu": "eusses noué",
+      "il": "eût noué",
+      "nous": "eussions noué",
+      "vous": "eussiez noué",
+      "ils": "eussent noué"
+    },
+    "translation": "zawiązywać",
+    "group": 1
+  },
+  {
+    "infinitive": "nourrir",
+    "présent": {
+      "je": "nourris",
+      "tu": "nourris",
+      "il": "nourrit",
+      "nous": "nourrissons",
+      "vous": "nourrissez",
+      "ils": "nourrissent"
+    },
+    "passé_composé": {
+      "je": "ai nourri",
+      "tu": "as nourri",
+      "il": "a nourri",
+      "nous": "avons nourri",
+      "vous": "avez nourri",
+      "ils": "ont nourri"
+    },
+    "imparfait": {
+      "je": "nourrissais",
+      "tu": "nourrissais",
+      "il": "nourrissait",
+      "nous": "nourrissions",
+      "vous": "nourrissiez",
+      "ils": "nourrissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais nourri",
+      "tu": "avais nourri",
+      "il": "avait nourri",
+      "nous": "avions nourri",
+      "vous": "aviez nourri",
+      "ils": "avaient nourri"
+    },
+    "passé_simple": {
+      "je": "nourris",
+      "tu": "nourris",
+      "il": "nourrit",
+      "nous": "nourrîmes",
+      "vous": "nourrîtes",
+      "ils": "nourrirent"
+    },
+    "passé_antérieur": {
+      "je": "eus nourri",
+      "tu": "eus nourri",
+      "il": "eut nourri",
+      "nous": "eûmes nourri",
+      "vous": "eûtes nourri",
+      "ils": "eurent nourri"
+    },
+    "futur_simple": {
+      "je": "nourrirai",
+      "tu": "nourriras",
+      "il": "nourrira",
+      "nous": "nourrirons",
+      "vous": "nourrirez",
+      "ils": "nourriront"
+    },
+    "futur_antérieur": {
+      "je": "aurai nourri",
+      "tu": "auras nourri",
+      "il": "aura nourri",
+      "nous": "aurons nourri",
+      "vous": "aurez nourri",
+      "ils": "auront nourri"
+    },
+    "subjonctif_présent": {
+      "je": "nourrisse",
+      "tu": "nourrisses",
+      "il": "nourrisse",
+      "nous": "nourrissions",
+      "vous": "nourrissiez",
+      "ils": "nourrissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie nourri",
+      "tu": "aies nourri",
+      "il": "ait nourri",
+      "nous": "ayons nourri",
+      "vous": "ayez nourri",
+      "ils": "aient nourri"
+    },
+    "subjonctif_imparfait": {
+      "je": "nourrisse",
+      "tu": "nourrisses",
+      "il": "nourrît",
+      "nous": "nourrissions",
+      "vous": "nourrissiez",
+      "ils": "nourrissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse nourri",
+      "tu": "eusses nourri",
+      "il": "eût nourri",
+      "nous": "eussions nourri",
+      "vous": "eussiez nourri",
+      "ils": "eussent nourri"
+    },
+    "conditionnel_présent": {
+      "je": "nourrirais",
+      "tu": "nourrirais",
+      "il": "nourrirait",
+      "nous": "nourririons",
+      "vous": "nourririez",
+      "ils": "nourriraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais nourri",
+      "tu": "aurais nourri",
+      "il": "aurait nourri",
+      "nous": "aurions nourri",
+      "vous": "auriez nourri",
+      "ils": "auraient nourri"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse nourri",
+      "tu": "eusses nourri",
+      "il": "eût nourri",
+      "nous": "eussions nourri",
+      "vous": "eussiez nourri",
+      "ils": "eussent nourri"
+    },
+    "translation": "dać",
+    "group": 2
+  },
+  {
+    "infinitive": "noyer",
+    "présent": {
+      "je": "noie",
+      "tu": "noies",
+      "il": "noie",
+      "nous": "noyons",
+      "vous": "noyez",
+      "ils": "noient"
+    },
+    "passé_composé": {
+      "je": "ai noyé",
+      "tu": "as noyé",
+      "il": "a noyé",
+      "nous": "avons noyé",
+      "vous": "avez noyé",
+      "ils": "ont noyé"
+    },
+    "imparfait": {
+      "je": "noyais",
+      "tu": "noyais",
+      "il": "noyait",
+      "nous": "noyions",
+      "vous": "noyiez",
+      "ils": "noyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais noyé",
+      "tu": "avais noyé",
+      "il": "avait noyé",
+      "nous": "avions noyé",
+      "vous": "aviez noyé",
+      "ils": "avaient noyé"
+    },
+    "passé_simple": {
+      "je": "noyai",
+      "tu": "noyas",
+      "il": "noya",
+      "nous": "noyâmes",
+      "vous": "noyâtes",
+      "ils": "noyèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus noyé",
+      "tu": "eus noyé",
+      "il": "eut noyé",
+      "nous": "eûmes noyé",
+      "vous": "eûtes noyé",
+      "ils": "eurent noyé"
+    },
+    "futur_simple": {
+      "je": "noierai",
+      "tu": "noieras",
+      "il": "noiera",
+      "nous": "noierons",
+      "vous": "noierez",
+      "ils": "noieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai noyé",
+      "tu": "auras noyé",
+      "il": "aura noyé",
+      "nous": "aurons noyé",
+      "vous": "aurez noyé",
+      "ils": "auront noyé"
+    },
+    "subjonctif_présent": {
+      "je": "noie",
+      "tu": "noies",
+      "il": "noie",
+      "nous": "noyions",
+      "vous": "noyiez",
+      "ils": "noient"
+    },
+    "subjonctif_passé": {
+      "je": "aie noyé",
+      "tu": "aies noyé",
+      "il": "ait noyé",
+      "nous": "ayons noyé",
+      "vous": "ayez noyé",
+      "ils": "aient noyé"
+    },
+    "subjonctif_imparfait": {
+      "je": "noyasse",
+      "tu": "noyasses",
+      "il": "noyât",
+      "nous": "noyassions",
+      "vous": "noyassiez",
+      "ils": "noyassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse noyé",
+      "tu": "eusses noyé",
+      "il": "eût noyé",
+      "nous": "eussions noyé",
+      "vous": "eussiez noyé",
+      "ils": "eussent noyé"
+    },
+    "conditionnel_présent": {
+      "je": "noierais",
+      "tu": "noierais",
+      "il": "noierait",
+      "nous": "noierions",
+      "vous": "noieriez",
+      "ils": "noieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais noyé",
+      "tu": "aurais noyé",
+      "il": "aurait noyé",
+      "nous": "aurions noyé",
+      "vous": "auriez noyé",
+      "ils": "auraient noyé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse noyé",
+      "tu": "eusses noyé",
+      "il": "eût noyé",
+      "nous": "eussions noyé",
+      "vous": "eussiez noyé",
+      "ils": "eussent noyé"
+    },
+    "translation": "orzech",
+    "group": 1
+  },
+  {
+    "infinitive": "nuer",
+    "présent": {
+      "je": "nue",
+      "tu": "nues",
+      "il": "nue",
+      "nous": "nuons",
+      "vous": "nuez",
+      "ils": "nuent"
+    },
+    "passé_composé": {
+      "je": "ai nué",
+      "tu": "as nué",
+      "il": "a nué",
+      "nous": "avons nué",
+      "vous": "avez nué",
+      "ils": "ont nué"
+    },
+    "imparfait": {
+      "je": "nuais",
+      "tu": "nuais",
+      "il": "nuait",
+      "nous": "nuions",
+      "vous": "nuiez",
+      "ils": "nuaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais nué",
+      "tu": "avais nué",
+      "il": "avait nué",
+      "nous": "avions nué",
+      "vous": "aviez nué",
+      "ils": "avaient nué"
+    },
+    "passé_simple": {
+      "je": "nuai",
+      "tu": "nuas",
+      "il": "nua",
+      "nous": "nuâmes",
+      "vous": "nuâtes",
+      "ils": "nuèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus nué",
+      "tu": "eus nué",
+      "il": "eut nué",
+      "nous": "eûmes nué",
+      "vous": "eûtes nué",
+      "ils": "eurent nué"
+    },
+    "futur_simple": {
+      "je": "nuerai",
+      "tu": "nueras",
+      "il": "nuera",
+      "nous": "nuerons",
+      "vous": "nuerez",
+      "ils": "nueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai nué",
+      "tu": "auras nué",
+      "il": "aura nué",
+      "nous": "aurons nué",
+      "vous": "aurez nué",
+      "ils": "auront nué"
+    },
+    "subjonctif_présent": {
+      "je": "nue",
+      "tu": "nues",
+      "il": "nue",
+      "nous": "nuions",
+      "vous": "nuiez",
+      "ils": "nuent"
+    },
+    "subjonctif_passé": {
+      "je": "aie nué",
+      "tu": "aies nué",
+      "il": "ait nué",
+      "nous": "ayons nué",
+      "vous": "ayez nué",
+      "ils": "aient nué"
+    },
+    "subjonctif_imparfait": {
+      "je": "nuasse",
+      "tu": "nuasses",
+      "il": "nuât",
+      "nous": "nuassions",
+      "vous": "nuassiez",
+      "ils": "nuassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse nué",
+      "tu": "eusses nué",
+      "il": "eût nué",
+      "nous": "eussions nué",
+      "vous": "eussiez nué",
+      "ils": "eussent nué"
+    },
+    "conditionnel_présent": {
+      "je": "nuerais",
+      "tu": "nuerais",
+      "il": "nuerait",
+      "nous": "nuerions",
+      "vous": "nueriez",
+      "ils": "nueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais nué",
+      "tu": "aurais nué",
+      "il": "aurait nué",
+      "nous": "aurions nué",
+      "vous": "auriez nué",
+      "ils": "auraient nué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse nué",
+      "tu": "eusses nué",
+      "il": "eût nué",
+      "nous": "eussions nué",
+      "vous": "eussiez nué",
+      "ils": "eussent nué"
+    },
+    "translation": "spaść",
+    "group": 1
+  },
+  {
+    "infinitive": "nuire",
+    "présent": {
+      "je": "nuis",
+      "tu": "nuis",
+      "il": "nuit",
+      "nous": "nuisons",
+      "vous": "nuisez",
+      "ils": "nuisent"
+    },
+    "passé_composé": {
+      "je": "ai nui",
+      "tu": "as nui",
+      "il": "a nui",
+      "nous": "avons nui",
+      "vous": "avez nui",
+      "ils": "ont nui"
+    },
+    "imparfait": {
+      "je": "nuisais",
+      "tu": "nuisais",
+      "il": "nuisait",
+      "nous": "nuisions",
+      "vous": "nuisiez",
+      "ils": "nuisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais nui",
+      "tu": "avais nui",
+      "il": "avait nui",
+      "nous": "avions nui",
+      "vous": "aviez nui",
+      "ils": "avaient nui"
+    },
+    "passé_simple": {
+      "je": "nuisis",
+      "tu": "nuisis",
+      "il": "nuisit",
+      "nous": "nuisîmes",
+      "vous": "nuisîtes",
+      "ils": "nuisirent"
+    },
+    "passé_antérieur": {
+      "je": "eus nui",
+      "tu": "eus nui",
+      "il": "eut nui",
+      "nous": "eûmes nui",
+      "vous": "eûtes nui",
+      "ils": "eurent nui"
+    },
+    "futur_simple": {
+      "je": "nuirai",
+      "tu": "nuiras",
+      "il": "nuira",
+      "nous": "nuirons",
+      "vous": "nuirez",
+      "ils": "nuiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai nui",
+      "tu": "auras nui",
+      "il": "aura nui",
+      "nous": "aurons nui",
+      "vous": "aurez nui",
+      "ils": "auront nui"
+    },
+    "subjonctif_présent": {
+      "je": "nuise",
+      "tu": "nuises",
+      "il": "nuise",
+      "nous": "nuisions",
+      "vous": "nuisiez",
+      "ils": "nuisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie nui",
+      "tu": "aies nui",
+      "il": "ait nui",
+      "nous": "ayons nui",
+      "vous": "ayez nui",
+      "ils": "aient nui"
+    },
+    "subjonctif_imparfait": {
+      "je": "nuisisse",
+      "tu": "nuisisses",
+      "il": "nuisît",
+      "nous": "nuisissions",
+      "vous": "nuisissiez",
+      "ils": "nuisissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse nui",
+      "tu": "eusses nui",
+      "il": "eût nui",
+      "nous": "eussions nui",
+      "vous": "eussiez nui",
+      "ils": "eussent nui"
+    },
+    "conditionnel_présent": {
+      "je": "nuirais",
+      "tu": "nuirais",
+      "il": "nuirait",
+      "nous": "nuirions",
+      "vous": "nuiriez",
+      "ils": "nuiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais nui",
+      "tu": "aurais nui",
+      "il": "aurait nui",
+      "nous": "aurions nui",
+      "vous": "auriez nui",
+      "ils": "auraient nui"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse nui",
+      "tu": "eusses nui",
+      "il": "eût nui",
+      "nous": "eussions nui",
+      "vous": "eussiez nui",
+      "ils": "eussent nui"
+    },
+    "translation": "szkodzić",
+    "group": 3
+  },
+  {
+    "infinitive": "obéir",
+    "présent": {
+      "je": "obéis",
+      "tu": "obéis",
+      "il": "obéit",
+      "nous": "obéissons",
+      "vous": "obéissez",
+      "ils": "obéissent"
+    },
+    "passé_composé": {
+      "je": "ai obéi",
+      "tu": "as obéi",
+      "il": "a obéi",
+      "nous": "avons obéi",
+      "vous": "avez obéi",
+      "ils": "ont obéi"
+    },
+    "imparfait": {
+      "je": "obéissais",
+      "tu": "obéissais",
+      "il": "obéissait",
+      "nous": "obéissions",
+      "vous": "obéissiez",
+      "ils": "obéissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais obéi",
+      "tu": "avais obéi",
+      "il": "avait obéi",
+      "nous": "avions obéi",
+      "vous": "aviez obéi",
+      "ils": "avaient obéi"
+    },
+    "passé_simple": {
+      "je": "obéis",
+      "tu": "obéis",
+      "il": "obéit",
+      "nous": "obéîmes",
+      "vous": "obéîtes",
+      "ils": "obéirent"
+    },
+    "passé_antérieur": {
+      "je": "eus obéi",
+      "tu": "eus obéi",
+      "il": "eut obéi",
+      "nous": "eûmes obéi",
+      "vous": "eûtes obéi",
+      "ils": "eurent obéi"
+    },
+    "futur_simple": {
+      "je": "obéirai",
+      "tu": "obéiras",
+      "il": "obéira",
+      "nous": "obéirons",
+      "vous": "obéirez",
+      "ils": "obéiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai obéi",
+      "tu": "auras obéi",
+      "il": "aura obéi",
+      "nous": "aurons obéi",
+      "vous": "aurez obéi",
+      "ils": "auront obéi"
+    },
+    "subjonctif_présent": {
+      "je": "obéisse",
+      "tu": "obéisses",
+      "il": "obéisse",
+      "nous": "obéissions",
+      "vous": "obéissiez",
+      "ils": "obéissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie obéi",
+      "tu": "aies obéi",
+      "il": "ait obéi",
+      "nous": "ayons obéi",
+      "vous": "ayez obéi",
+      "ils": "aient obéi"
+    },
+    "subjonctif_imparfait": {
+      "je": "obéisse",
+      "tu": "obéisses",
+      "il": "obéît",
+      "nous": "obéissions",
+      "vous": "obéissiez",
+      "ils": "obéissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse obéi",
+      "tu": "eusses obéi",
+      "il": "eût obéi",
+      "nous": "eussions obéi",
+      "vous": "eussiez obéi",
+      "ils": "eussent obéi"
+    },
+    "conditionnel_présent": {
+      "je": "obéirais",
+      "tu": "obéirais",
+      "il": "obéirait",
+      "nous": "obéirions",
+      "vous": "obéiriez",
+      "ils": "obéiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais obéi",
+      "tu": "aurais obéi",
+      "il": "aurait obéi",
+      "nous": "aurions obéi",
+      "vous": "auriez obéi",
+      "ils": "auraient obéi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse obéi",
+      "tu": "eusses obéi",
+      "il": "eût obéi",
+      "nous": "eussions obéi",
+      "vous": "eussiez obéi",
+      "ils": "eussent obéi"
+    },
+    "translation": "być",
+    "group": 2
+  },
+  {
+    "infinitive": "obliger",
+    "présent": {
+      "je": "oblige",
+      "tu": "obliges",
+      "il": "oblige",
+      "nous": "obligeons",
+      "vous": "obligez",
+      "ils": "obligent"
+    },
+    "passé_composé": {
+      "je": "ai obligé",
+      "tu": "as obligé",
+      "il": "a obligé",
+      "nous": "avons obligé",
+      "vous": "avez obligé",
+      "ils": "ont obligé"
+    },
+    "imparfait": {
+      "je": "obligeais",
+      "tu": "obligeais",
+      "il": "obligeait",
+      "nous": "obligions",
+      "vous": "obligiez",
+      "ils": "obligeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais obligé",
+      "tu": "avais obligé",
+      "il": "avait obligé",
+      "nous": "avions obligé",
+      "vous": "aviez obligé",
+      "ils": "avaient obligé"
+    },
+    "passé_simple": {
+      "je": "obligeai",
+      "tu": "obligeas",
+      "il": "obligea",
+      "nous": "obligeâmes",
+      "vous": "obligeâtes",
+      "ils": "obligèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus obligé",
+      "tu": "eus obligé",
+      "il": "eut obligé",
+      "nous": "eûmes obligé",
+      "vous": "eûtes obligé",
+      "ils": "eurent obligé"
+    },
+    "futur_simple": {
+      "je": "obligerai",
+      "tu": "obligeras",
+      "il": "obligera",
+      "nous": "obligerons",
+      "vous": "obligerez",
+      "ils": "obligeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai obligé",
+      "tu": "auras obligé",
+      "il": "aura obligé",
+      "nous": "aurons obligé",
+      "vous": "aurez obligé",
+      "ils": "auront obligé"
+    },
+    "subjonctif_présent": {
+      "je": "oblige",
+      "tu": "obliges",
+      "il": "oblige",
+      "nous": "obligions",
+      "vous": "obligiez",
+      "ils": "obligent"
+    },
+    "subjonctif_passé": {
+      "je": "aie obligé",
+      "tu": "aies obligé",
+      "il": "ait obligé",
+      "nous": "ayons obligé",
+      "vous": "ayez obligé",
+      "ils": "aient obligé"
+    },
+    "subjonctif_imparfait": {
+      "je": "obligeasse",
+      "tu": "obligeasses",
+      "il": "obligeât",
+      "nous": "obligeassions",
+      "vous": "obligeassiez",
+      "ils": "obligeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse obligé",
+      "tu": "eusses obligé",
+      "il": "eût obligé",
+      "nous": "eussions obligé",
+      "vous": "eussiez obligé",
+      "ils": "eussent obligé"
+    },
+    "conditionnel_présent": {
+      "je": "obligerais",
+      "tu": "obligerais",
+      "il": "obligerait",
+      "nous": "obligerions",
+      "vous": "obligeriez",
+      "ils": "obligeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais obligé",
+      "tu": "aurais obligé",
+      "il": "aurait obligé",
+      "nous": "aurions obligé",
+      "vous": "auriez obligé",
+      "ils": "auraient obligé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse obligé",
+      "tu": "eusses obligé",
+      "il": "eût obligé",
+      "nous": "eussions obligé",
+      "vous": "eussiez obligé",
+      "ils": "eussent obligé"
+    },
+    "translation": "zobowiązywać",
+    "group": 1
+  },
+  {
+    "infinitive": "obscurcir",
+    "présent": {
+      "je": "obscurcis",
+      "tu": "obscurcis",
+      "il": "obscurcit",
+      "nous": "obscurcissons",
+      "vous": "obscurcissez",
+      "ils": "obscurcissent"
+    },
+    "passé_composé": {
+      "je": "ai obscurci",
+      "tu": "as obscurci",
+      "il": "a obscurci",
+      "nous": "avons obscurci",
+      "vous": "avez obscurci",
+      "ils": "ont obscurci"
+    },
+    "imparfait": {
+      "je": "obscurcissais",
+      "tu": "obscurcissais",
+      "il": "obscurcissait",
+      "nous": "obscurcissions",
+      "vous": "obscurcissiez",
+      "ils": "obscurcissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais obscurci",
+      "tu": "avais obscurci",
+      "il": "avait obscurci",
+      "nous": "avions obscurci",
+      "vous": "aviez obscurci",
+      "ils": "avaient obscurci"
+    },
+    "passé_simple": {
+      "je": "obscurcis",
+      "tu": "obscurcis",
+      "il": "obscurcit",
+      "nous": "obscurcîmes",
+      "vous": "obscurcîtes",
+      "ils": "obscurcirent"
+    },
+    "passé_antérieur": {
+      "je": "eus obscurci",
+      "tu": "eus obscurci",
+      "il": "eut obscurci",
+      "nous": "eûmes obscurci",
+      "vous": "eûtes obscurci",
+      "ils": "eurent obscurci"
+    },
+    "futur_simple": {
+      "je": "obscurcirai",
+      "tu": "obscurciras",
+      "il": "obscurcira",
+      "nous": "obscurcirons",
+      "vous": "obscurcirez",
+      "ils": "obscurciront"
+    },
+    "futur_antérieur": {
+      "je": "aurai obscurci",
+      "tu": "auras obscurci",
+      "il": "aura obscurci",
+      "nous": "aurons obscurci",
+      "vous": "aurez obscurci",
+      "ils": "auront obscurci"
+    },
+    "subjonctif_présent": {
+      "je": "obscurcisse",
+      "tu": "obscurcisses",
+      "il": "obscurcisse",
+      "nous": "obscurcissions",
+      "vous": "obscurcissiez",
+      "ils": "obscurcissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie obscurci",
+      "tu": "aies obscurci",
+      "il": "ait obscurci",
+      "nous": "ayons obscurci",
+      "vous": "ayez obscurci",
+      "ils": "aient obscurci"
+    },
+    "subjonctif_imparfait": {
+      "je": "obscurcisse",
+      "tu": "obscurcisses",
+      "il": "obscurcît",
+      "nous": "obscurcissions",
+      "vous": "obscurcissiez",
+      "ils": "obscurcissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse obscurci",
+      "tu": "eusses obscurci",
+      "il": "eût obscurci",
+      "nous": "eussions obscurci",
+      "vous": "eussiez obscurci",
+      "ils": "eussent obscurci"
+    },
+    "conditionnel_présent": {
+      "je": "obscurcirais",
+      "tu": "obscurcirais",
+      "il": "obscurcirait",
+      "nous": "obscurcirions",
+      "vous": "obscurciriez",
+      "ils": "obscurciraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais obscurci",
+      "tu": "aurais obscurci",
+      "il": "aurait obscurci",
+      "nous": "aurions obscurci",
+      "vous": "auriez obscurci",
+      "ils": "auraient obscurci"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse obscurci",
+      "tu": "eusses obscurci",
+      "il": "eût obscurci",
+      "nous": "eussions obscurci",
+      "vous": "eussiez obscurci",
+      "ils": "eussent obscurci"
+    },
+    "translation": "zaciemniać",
+    "group": 2
+  },
+  {
+    "infinitive": "obséder",
+    "présent": {
+      "je": "obsède",
+      "tu": "obsèdes",
+      "il": "obsède",
+      "nous": "obsédons",
+      "vous": "obsédez",
+      "ils": "obsèdent"
+    },
+    "passé_composé": {
+      "je": "ai obsédé",
+      "tu": "as obsédé",
+      "il": "a obsédé",
+      "nous": "avons obsédé",
+      "vous": "avez obsédé",
+      "ils": "ont obsédé"
+    },
+    "imparfait": {
+      "je": "obsédais",
+      "tu": "obsédais",
+      "il": "obsédait",
+      "nous": "obsédions",
+      "vous": "obsédiez",
+      "ils": "obsédaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais obsédé",
+      "tu": "avais obsédé",
+      "il": "avait obsédé",
+      "nous": "avions obsédé",
+      "vous": "aviez obsédé",
+      "ils": "avaient obsédé"
+    },
+    "passé_simple": {
+      "je": "obsédai",
+      "tu": "obsédas",
+      "il": "obséda",
+      "nous": "obsédâmes",
+      "vous": "obsédâtes",
+      "ils": "obsédèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus obsédé",
+      "tu": "eus obsédé",
+      "il": "eut obsédé",
+      "nous": "eûmes obsédé",
+      "vous": "eûtes obsédé",
+      "ils": "eurent obsédé"
+    },
+    "futur_simple": {
+      "je": "obséderai",
+      "tu": "obséderas",
+      "il": "obsédera",
+      "nous": "obséderons",
+      "vous": "obséderez",
+      "ils": "obséderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai obsédé",
+      "tu": "auras obsédé",
+      "il": "aura obsédé",
+      "nous": "aurons obsédé",
+      "vous": "aurez obsédé",
+      "ils": "auront obsédé"
+    },
+    "subjonctif_présent": {
+      "je": "obsède",
+      "tu": "obsèdes",
+      "il": "obsède",
+      "nous": "obsédions",
+      "vous": "obsédiez",
+      "ils": "obsèdent"
+    },
+    "subjonctif_passé": {
+      "je": "aie obsédé",
+      "tu": "aies obsédé",
+      "il": "ait obsédé",
+      "nous": "ayons obsédé",
+      "vous": "ayez obsédé",
+      "ils": "aient obsédé"
+    },
+    "subjonctif_imparfait": {
+      "je": "obsédasse",
+      "tu": "obsédasses",
+      "il": "obsédât",
+      "nous": "obsédassions",
+      "vous": "obsédassiez",
+      "ils": "obsédassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse obsédé",
+      "tu": "eusses obsédé",
+      "il": "eût obsédé",
+      "nous": "eussions obsédé",
+      "vous": "eussiez obsédé",
+      "ils": "eussent obsédé"
+    },
+    "conditionnel_présent": {
+      "je": "obséderais",
+      "tu": "obséderais",
+      "il": "obséderait",
+      "nous": "obséderions",
+      "vous": "obséderiez",
+      "ils": "obséderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais obsédé",
+      "tu": "aurais obsédé",
+      "il": "aurait obsédé",
+      "nous": "aurions obsédé",
+      "vous": "auriez obsédé",
+      "ils": "auraient obsédé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse obsédé",
+      "tu": "eusses obsédé",
+      "il": "eût obsédé",
+      "nous": "eussions obsédé",
+      "vous": "eussiez obsédé",
+      "ils": "eussent obsédé"
+    },
+    "translation": "dręczyć",
+    "group": 1
+  }
+]

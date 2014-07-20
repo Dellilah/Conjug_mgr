@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "conduire",
+    "présent": {
+      "je": "conduis",
+      "tu": "conduis",
+      "il": "conduit",
+      "nous": "conduisons",
+      "vous": "conduisez",
+      "ils": "conduisent"
+    },
+    "passé_composé": {
+      "je": "ai conduit",
+      "tu": "as conduit",
+      "il": "a conduit",
+      "nous": "avons conduit",
+      "vous": "avez conduit",
+      "ils": "ont conduit"
+    },
+    "imparfait": {
+      "je": "conduisais",
+      "tu": "conduisais",
+      "il": "conduisait",
+      "nous": "conduisions",
+      "vous": "conduisiez",
+      "ils": "conduisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais conduit",
+      "tu": "avais conduit",
+      "il": "avait conduit",
+      "nous": "avions conduit",
+      "vous": "aviez conduit",
+      "ils": "avaient conduit"
+    },
+    "passé_simple": {
+      "je": "conduisis",
+      "tu": "conduisis",
+      "il": "conduisit",
+      "nous": "conduisîmes",
+      "vous": "conduisîtes",
+      "ils": "conduisirent"
+    },
+    "passé_antérieur": {
+      "je": "eus conduit",
+      "tu": "eus conduit",
+      "il": "eut conduit",
+      "nous": "eûmes conduit",
+      "vous": "eûtes conduit",
+      "ils": "eurent conduit"
+    },
+    "futur_simple": {
+      "je": "conduirai",
+      "tu": "conduiras",
+      "il": "conduira",
+      "nous": "conduirons",
+      "vous": "conduirez",
+      "ils": "conduiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai conduit",
+      "tu": "auras conduit",
+      "il": "aura conduit",
+      "nous": "aurons conduit",
+      "vous": "aurez conduit",
+      "ils": "auront conduit"
+    },
+    "subjonctif_présent": {
+      "je": "conduise",
+      "tu": "conduises",
+      "il": "conduise",
+      "nous": "conduisions",
+      "vous": "conduisiez",
+      "ils": "conduisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie conduit",
+      "tu": "aies conduit",
+      "il": "ait conduit",
+      "nous": "ayons conduit",
+      "vous": "ayez conduit",
+      "ils": "aient conduit"
+    },
+    "subjonctif_imparfait": {
+      "je": "conduisisse",
+      "tu": "conduisisses",
+      "il": "conduisît",
+      "nous": "conduisissions",
+      "vous": "conduisissiez",
+      "ils": "conduisissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse conduit",
+      "tu": "eusses conduit",
+      "il": "eût conduit",
+      "nous": "eussions conduit",
+      "vous": "eussiez conduit",
+      "ils": "eussent conduit"
+    },
+    "conditionnel_présent": {
+      "je": "conduirais",
+      "tu": "conduirais",
+      "il": "conduirait",
+      "nous": "conduirions",
+      "vous": "conduiriez",
+      "ils": "conduiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais conduit",
+      "tu": "aurais conduit",
+      "il": "aurait conduit",
+      "nous": "aurions conduit",
+      "vous": "auriez conduit",
+      "ils": "auraient conduit"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse conduit",
+      "tu": "eusses conduit",
+      "il": "eût conduit",
+      "nous": "eussions conduit",
+      "vous": "eussiez conduit",
+      "ils": "eussent conduit"
+    },
+    "translation": "prowadzić",
+    "group": 3
+  },
+  {
+    "infinitive": "confectionner",
+    "présent": {
+      "je": "confectionne",
+      "tu": "confectionnes",
+      "il": "confectionne",
+      "nous": "confectionnons",
+      "vous": "confectionnez",
+      "ils": "confectionnent"
+    },
+    "passé_composé": {
+      "je": "ai confectionné",
+      "tu": "as confectionné",
+      "il": "a confectionné",
+      "nous": "avons confectionné",
+      "vous": "avez confectionné",
+      "ils": "ont confectionné"
+    },
+    "imparfait": {
+      "je": "confectionnais",
+      "tu": "confectionnais",
+      "il": "confectionnait",
+      "nous": "confectionnions",
+      "vous": "confectionniez",
+      "ils": "confectionnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais confectionné",
+      "tu": "avais confectionné",
+      "il": "avait confectionné",
+      "nous": "avions confectionné",
+      "vous": "aviez confectionné",
+      "ils": "avaient confectionné"
+    },
+    "passé_simple": {
+      "je": "confectionnai",
+      "tu": "confectionnas",
+      "il": "confectionna",
+      "nous": "confectionnâmes",
+      "vous": "confectionnâtes",
+      "ils": "confectionnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus confectionné",
+      "tu": "eus confectionné",
+      "il": "eut confectionné",
+      "nous": "eûmes confectionné",
+      "vous": "eûtes confectionné",
+      "ils": "eurent confectionné"
+    },
+    "futur_simple": {
+      "je": "confectionnerai",
+      "tu": "confectionneras",
+      "il": "confectionnera",
+      "nous": "confectionnerons",
+      "vous": "confectionnerez",
+      "ils": "confectionneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai confectionné",
+      "tu": "auras confectionné",
+      "il": "aura confectionné",
+      "nous": "aurons confectionné",
+      "vous": "aurez confectionné",
+      "ils": "auront confectionné"
+    },
+    "subjonctif_présent": {
+      "je": "confectionne",
+      "tu": "confectionnes",
+      "il": "confectionne",
+      "nous": "confectionnions",
+      "vous": "confectionniez",
+      "ils": "confectionnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie confectionné",
+      "tu": "aies confectionné",
+      "il": "ait confectionné",
+      "nous": "ayons confectionné",
+      "vous": "ayez confectionné",
+      "ils": "aient confectionné"
+    },
+    "subjonctif_imparfait": {
+      "je": "confectionnasse",
+      "tu": "confectionnasses",
+      "il": "confectionnât",
+      "nous": "confectionnassions",
+      "vous": "confectionnassiez",
+      "ils": "confectionnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse confectionné",
+      "tu": "eusses confectionné",
+      "il": "eût confectionné",
+      "nous": "eussions confectionné",
+      "vous": "eussiez confectionné",
+      "ils": "eussent confectionné"
+    },
+    "conditionnel_présent": {
+      "je": "confectionnerais",
+      "tu": "confectionnerais",
+      "il": "confectionnerait",
+      "nous": "confectionnerions",
+      "vous": "confectionneriez",
+      "ils": "confectionneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais confectionné",
+      "tu": "aurais confectionné",
+      "il": "aurait confectionné",
+      "nous": "aurions confectionné",
+      "vous": "auriez confectionné",
+      "ils": "auraient confectionné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse confectionné",
+      "tu": "eusses confectionné",
+      "il": "eût confectionné",
+      "nous": "eussions confectionné",
+      "vous": "eussiez confectionné",
+      "ils": "eussent confectionné"
+    },
+    "translation": "robić",
+    "group": 1
+  },
+  {
+    "infinitive": "conférer",
+    "présent": {
+      "je": "confère",
+      "tu": "confères",
+      "il": "confère",
+      "nous": "conférons",
+      "vous": "conférez",
+      "ils": "confèrent"
+    },
+    "passé_composé": {
+      "je": "ai conféré",
+      "tu": "as conféré",
+      "il": "a conféré",
+      "nous": "avons conféré",
+      "vous": "avez conféré",
+      "ils": "ont conféré"
+    },
+    "imparfait": {
+      "je": "conférais",
+      "tu": "conférais",
+      "il": "conférait",
+      "nous": "conférions",
+      "vous": "confériez",
+      "ils": "conféraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais conféré",
+      "tu": "avais conféré",
+      "il": "avait conféré",
+      "nous": "avions conféré",
+      "vous": "aviez conféré",
+      "ils": "avaient conféré"
+    },
+    "passé_simple": {
+      "je": "conférai",
+      "tu": "conféras",
+      "il": "conféra",
+      "nous": "conférâmes",
+      "vous": "conférâtes",
+      "ils": "conférèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus conféré",
+      "tu": "eus conféré",
+      "il": "eut conféré",
+      "nous": "eûmes conféré",
+      "vous": "eûtes conféré",
+      "ils": "eurent conféré"
+    },
+    "futur_simple": {
+      "je": "conférerai",
+      "tu": "conféreras",
+      "il": "conférera",
+      "nous": "conférerons",
+      "vous": "conférerez",
+      "ils": "conféreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai conféré",
+      "tu": "auras conféré",
+      "il": "aura conféré",
+      "nous": "aurons conféré",
+      "vous": "aurez conféré",
+      "ils": "auront conféré"
+    },
+    "subjonctif_présent": {
+      "je": "confère",
+      "tu": "confères",
+      "il": "confère",
+      "nous": "conférions",
+      "vous": "confériez",
+      "ils": "confèrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie conféré",
+      "tu": "aies conféré",
+      "il": "ait conféré",
+      "nous": "ayons conféré",
+      "vous": "ayez conféré",
+      "ils": "aient conféré"
+    },
+    "subjonctif_imparfait": {
+      "je": "conférasse",
+      "tu": "conférasses",
+      "il": "conférât",
+      "nous": "conférassions",
+      "vous": "conférassiez",
+      "ils": "conférassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse conféré",
+      "tu": "eusses conféré",
+      "il": "eût conféré",
+      "nous": "eussions conféré",
+      "vous": "eussiez conféré",
+      "ils": "eussent conféré"
+    },
+    "conditionnel_présent": {
+      "je": "conférerais",
+      "tu": "conférerais",
+      "il": "conférerait",
+      "nous": "conférerions",
+      "vous": "conféreriez",
+      "ils": "conféreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais conféré",
+      "tu": "aurais conféré",
+      "il": "aurait conféré",
+      "nous": "aurions conféré",
+      "vous": "auriez conféré",
+      "ils": "auraient conféré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse conféré",
+      "tu": "eusses conféré",
+      "il": "eût conféré",
+      "nous": "eussions conféré",
+      "vous": "eussiez conféré",
+      "ils": "eussent conféré"
+    },
+    "translation": "spowiadać",
+    "group": 1
+  },
+  {
+    "infinitive": "confesser",
+    "présent": {
+      "je": "confesse",
+      "tu": "confesses",
+      "il": "confesse",
+      "nous": "confessons",
+      "vous": "confessez",
+      "ils": "confessent"
+    },
+    "passé_composé": {
+      "je": "ai confessé",
+      "tu": "as confessé",
+      "il": "a confessé",
+      "nous": "avons confessé",
+      "vous": "avez confessé",
+      "ils": "ont confessé"
+    },
+    "imparfait": {
+      "je": "confessais",
+      "tu": "confessais",
+      "il": "confessait",
+      "nous": "confessions",
+      "vous": "confessiez",
+      "ils": "confessaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais confessé",
+      "tu": "avais confessé",
+      "il": "avait confessé",
+      "nous": "avions confessé",
+      "vous": "aviez confessé",
+      "ils": "avaient confessé"
+    },
+    "passé_simple": {
+      "je": "confessai",
+      "tu": "confessas",
+      "il": "confessa",
+      "nous": "confessâmes",
+      "vous": "confessâtes",
+      "ils": "confessèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus confessé",
+      "tu": "eus confessé",
+      "il": "eut confessé",
+      "nous": "eûmes confessé",
+      "vous": "eûtes confessé",
+      "ils": "eurent confessé"
+    },
+    "futur_simple": {
+      "je": "confesserai",
+      "tu": "confesseras",
+      "il": "confessera",
+      "nous": "confesserons",
+      "vous": "confesserez",
+      "ils": "confesseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai confessé",
+      "tu": "auras confessé",
+      "il": "aura confessé",
+      "nous": "aurons confessé",
+      "vous": "aurez confessé",
+      "ils": "auront confessé"
+    },
+    "subjonctif_présent": {
+      "je": "confesse",
+      "tu": "confesses",
+      "il": "confesse",
+      "nous": "confessions",
+      "vous": "confessiez",
+      "ils": "confessent"
+    },
+    "subjonctif_passé": {
+      "je": "aie confessé",
+      "tu": "aies confessé",
+      "il": "ait confessé",
+      "nous": "ayons confessé",
+      "vous": "ayez confessé",
+      "ils": "aient confessé"
+    },
+    "subjonctif_imparfait": {
+      "je": "confessasse",
+      "tu": "confessasses",
+      "il": "confessât",
+      "nous": "confessassions",
+      "vous": "confessassiez",
+      "ils": "confessassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse confessé",
+      "tu": "eusses confessé",
+      "il": "eût confessé",
+      "nous": "eussions confessé",
+      "vous": "eussiez confessé",
+      "ils": "eussent confessé"
+    },
+    "conditionnel_présent": {
+      "je": "confesserais",
+      "tu": "confesserais",
+      "il": "confesserait",
+      "nous": "confesserions",
+      "vous": "confesseriez",
+      "ils": "confesseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais confessé",
+      "tu": "aurais confessé",
+      "il": "aurait confessé",
+      "nous": "aurions confessé",
+      "vous": "auriez confessé",
+      "ils": "auraient confessé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse confessé",
+      "tu": "eusses confessé",
+      "il": "eût confessé",
+      "nous": "eussions confessé",
+      "vous": "eussiez confessé",
+      "ils": "eussent confessé"
+    },
+    "translation": "spowiadać",
+    "group": 1
+  },
+  {
+    "infinitive": "confier",
+    "présent": {
+      "je": "confie",
+      "tu": "confies",
+      "il": "confie",
+      "nous": "confions",
+      "vous": "confiez",
+      "ils": "confient"
+    },
+    "passé_composé": {
+      "je": "ai confié",
+      "tu": "as confié",
+      "il": "a confié",
+      "nous": "avons confié",
+      "vous": "avez confié",
+      "ils": "ont confié"
+    },
+    "imparfait": {
+      "je": "confiais",
+      "tu": "confiais",
+      "il": "confiait",
+      "nous": "confiions",
+      "vous": "confiiez",
+      "ils": "confiaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais confié",
+      "tu": "avais confié",
+      "il": "avait confié",
+      "nous": "avions confié",
+      "vous": "aviez confié",
+      "ils": "avaient confié"
+    },
+    "passé_simple": {
+      "je": "confiai",
+      "tu": "confias",
+      "il": "confia",
+      "nous": "confiâmes",
+      "vous": "confiâtes",
+      "ils": "confièrent"
+    },
+    "passé_antérieur": {
+      "je": "eus confié",
+      "tu": "eus confié",
+      "il": "eut confié",
+      "nous": "eûmes confié",
+      "vous": "eûtes confié",
+      "ils": "eurent confié"
+    },
+    "futur_simple": {
+      "je": "confierai",
+      "tu": "confieras",
+      "il": "confiera",
+      "nous": "confierons",
+      "vous": "confierez",
+      "ils": "confieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai confié",
+      "tu": "auras confié",
+      "il": "aura confié",
+      "nous": "aurons confié",
+      "vous": "aurez confié",
+      "ils": "auront confié"
+    },
+    "subjonctif_présent": {
+      "je": "confie",
+      "tu": "confies",
+      "il": "confie",
+      "nous": "confiions",
+      "vous": "confiiez",
+      "ils": "confient"
+    },
+    "subjonctif_passé": {
+      "je": "aie confié",
+      "tu": "aies confié",
+      "il": "ait confié",
+      "nous": "ayons confié",
+      "vous": "ayez confié",
+      "ils": "aient confié"
+    },
+    "subjonctif_imparfait": {
+      "je": "confiasse",
+      "tu": "confiasses",
+      "il": "confiât",
+      "nous": "confiassions",
+      "vous": "confiassiez",
+      "ils": "confiassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse confié",
+      "tu": "eusses confié",
+      "il": "eût confié",
+      "nous": "eussions confié",
+      "vous": "eussiez confié",
+      "ils": "eussent confié"
+    },
+    "conditionnel_présent": {
+      "je": "confierais",
+      "tu": "confierais",
+      "il": "confierait",
+      "nous": "confierions",
+      "vous": "confieriez",
+      "ils": "confieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais confié",
+      "tu": "aurais confié",
+      "il": "aurait confié",
+      "nous": "aurions confié",
+      "vous": "auriez confié",
+      "ils": "auraient confié"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse confié",
+      "tu": "eusses confié",
+      "il": "eût confié",
+      "nous": "eussions confié",
+      "vous": "eussiez confié",
+      "ils": "eussent confié"
+    },
+    "translation": "powierzać",
+    "group": 1
+  },
+  {
+    "infinitive": "configurer",
+    "présent": {
+      "je": "configure",
+      "tu": "configures",
+      "il": "configure",
+      "nous": "configurons",
+      "vous": "configurez",
+      "ils": "configurent"
+    },
+    "passé_composé": {
+      "je": "ai configuré",
+      "tu": "as configuré",
+      "il": "a configuré",
+      "nous": "avons configuré",
+      "vous": "avez configuré",
+      "ils": "ont configuré"
+    },
+    "imparfait": {
+      "je": "configurais",
+      "tu": "configurais",
+      "il": "configurait",
+      "nous": "configurions",
+      "vous": "configuriez",
+      "ils": "configuraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais configuré",
+      "tu": "avais configuré",
+      "il": "avait configuré",
+      "nous": "avions configuré",
+      "vous": "aviez configuré",
+      "ils": "avaient configuré"
+    },
+    "passé_simple": {
+      "je": "configurai",
+      "tu": "configuras",
+      "il": "configura",
+      "nous": "configurâmes",
+      "vous": "configurâtes",
+      "ils": "configurèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus configuré",
+      "tu": "eus configuré",
+      "il": "eut configuré",
+      "nous": "eûmes configuré",
+      "vous": "eûtes configuré",
+      "ils": "eurent configuré"
+    },
+    "futur_simple": {
+      "je": "configurerai",
+      "tu": "configureras",
+      "il": "configurera",
+      "nous": "configurerons",
+      "vous": "configurerez",
+      "ils": "configureront"
+    },
+    "futur_antérieur": {
+      "je": "aurai configuré",
+      "tu": "auras configuré",
+      "il": "aura configuré",
+      "nous": "aurons configuré",
+      "vous": "aurez configuré",
+      "ils": "auront configuré"
+    },
+    "subjonctif_présent": {
+      "je": "configure",
+      "tu": "configures",
+      "il": "configure",
+      "nous": "configurions",
+      "vous": "configuriez",
+      "ils": "configurent"
+    },
+    "subjonctif_passé": {
+      "je": "aie configuré",
+      "tu": "aies configuré",
+      "il": "ait configuré",
+      "nous": "ayons configuré",
+      "vous": "ayez configuré",
+      "ils": "aient configuré"
+    },
+    "subjonctif_imparfait": {
+      "je": "configurasse",
+      "tu": "configurasses",
+      "il": "configurât",
+      "nous": "configurassions",
+      "vous": "configurassiez",
+      "ils": "configurassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse configuré",
+      "tu": "eusses configuré",
+      "il": "eût configuré",
+      "nous": "eussions configuré",
+      "vous": "eussiez configuré",
+      "ils": "eussent configuré"
+    },
+    "conditionnel_présent": {
+      "je": "configurerais",
+      "tu": "configurerais",
+      "il": "configurerait",
+      "nous": "configurerions",
+      "vous": "configureriez",
+      "ils": "configureraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais configuré",
+      "tu": "aurais configuré",
+      "il": "aurait configuré",
+      "nous": "aurions configuré",
+      "vous": "auriez configuré",
+      "ils": "auraient configuré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse configuré",
+      "tu": "eusses configuré",
+      "il": "eût configuré",
+      "nous": "eussions configuré",
+      "vous": "eussiez configuré",
+      "ils": "eussent configuré"
+    },
+    "translation": "configurer",
+    "group": 1
+  },
+  {
+    "infinitive": "confire",
+    "présent": {
+      "je": "confis",
+      "tu": "confis",
+      "il": "confit",
+      "nous": "confisons",
+      "vous": "confisez",
+      "ils": "confisent"
+    },
+    "passé_composé": {
+      "je": "ai confit",
+      "tu": "as confit",
+      "il": "a confit",
+      "nous": "avons confit",
+      "vous": "avez confit",
+      "ils": "ont confit"
+    },
+    "imparfait": {
+      "je": "confisais",
+      "tu": "confisais",
+      "il": "confisait",
+      "nous": "confisions",
+      "vous": "confisiez",
+      "ils": "confisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais confit",
+      "tu": "avais confit",
+      "il": "avait confit",
+      "nous": "avions confit",
+      "vous": "aviez confit",
+      "ils": "avaient confit"
+    },
+    "passé_simple": {
+      "je": "confis",
+      "tu": "confis",
+      "il": "confit",
+      "nous": "confîmes",
+      "vous": "confîtes",
+      "ils": "confirent"
+    },
+    "passé_antérieur": {
+      "je": "eus confit",
+      "tu": "eus confit",
+      "il": "eut confit",
+      "nous": "eûmes confit",
+      "vous": "eûtes confit",
+      "ils": "eurent confit"
+    },
+    "futur_simple": {
+      "je": "confirai",
+      "tu": "confiras",
+      "il": "confira",
+      "nous": "confirons",
+      "vous": "confirez",
+      "ils": "confiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai confit",
+      "tu": "auras confit",
+      "il": "aura confit",
+      "nous": "aurons confit",
+      "vous": "aurez confit",
+      "ils": "auront confit"
+    },
+    "subjonctif_présent": {
+      "je": "confise",
+      "tu": "confises",
+      "il": "confise",
+      "nous": "confisions",
+      "vous": "confisiez",
+      "ils": "confisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie confit",
+      "tu": "aies confit",
+      "il": "ait confit",
+      "nous": "ayons confit",
+      "vous": "ayez confit",
+      "ils": "aient confit"
+    },
+    "subjonctif_imparfait": {
+      "je": "confisse",
+      "tu": "confisses",
+      "il": "confît",
+      "nous": "confissions",
+      "vous": "confissiez",
+      "ils": "confissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse confit",
+      "tu": "eusses confit",
+      "il": "eût confit",
+      "nous": "eussions confit",
+      "vous": "eussiez confit",
+      "ils": "eussent confit"
+    },
+    "conditionnel_présent": {
+      "je": "confirais",
+      "tu": "confirais",
+      "il": "confirait",
+      "nous": "confirions",
+      "vous": "confiriez",
+      "ils": "confiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais confit",
+      "tu": "aurais confit",
+      "il": "aurait confit",
+      "nous": "aurions confit",
+      "vous": "auriez confit",
+      "ils": "auraient confit"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse confit",
+      "tu": "eusses confit",
+      "il": "eût confit",
+      "nous": "eussions confit",
+      "vous": "eussiez confit",
+      "ils": "eussent confit"
+    },
+    "translation": "gęś",
+    "group": 3
+  },
+  {
+    "infinitive": "confirmer",
+    "présent": {
+      "je": "confirme",
+      "tu": "confirmes",
+      "il": "confirme",
+      "nous": "confirmons",
+      "vous": "confirmez",
+      "ils": "confirment"
+    },
+    "passé_composé": {
+      "je": "ai confirmé",
+      "tu": "as confirmé",
+      "il": "a confirmé",
+      "nous": "avons confirmé",
+      "vous": "avez confirmé",
+      "ils": "ont confirmé"
+    },
+    "imparfait": {
+      "je": "confirmais",
+      "tu": "confirmais",
+      "il": "confirmait",
+      "nous": "confirmions",
+      "vous": "confirmiez",
+      "ils": "confirmaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais confirmé",
+      "tu": "avais confirmé",
+      "il": "avait confirmé",
+      "nous": "avions confirmé",
+      "vous": "aviez confirmé",
+      "ils": "avaient confirmé"
+    },
+    "passé_simple": {
+      "je": "confirmai",
+      "tu": "confirmas",
+      "il": "confirma",
+      "nous": "confirmâmes",
+      "vous": "confirmâtes",
+      "ils": "confirmèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus confirmé",
+      "tu": "eus confirmé",
+      "il": "eut confirmé",
+      "nous": "eûmes confirmé",
+      "vous": "eûtes confirmé",
+      "ils": "eurent confirmé"
+    },
+    "futur_simple": {
+      "je": "confirmerai",
+      "tu": "confirmeras",
+      "il": "confirmera",
+      "nous": "confirmerons",
+      "vous": "confirmerez",
+      "ils": "confirmeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai confirmé",
+      "tu": "auras confirmé",
+      "il": "aura confirmé",
+      "nous": "aurons confirmé",
+      "vous": "aurez confirmé",
+      "ils": "auront confirmé"
+    },
+    "subjonctif_présent": {
+      "je": "confirme",
+      "tu": "confirmes",
+      "il": "confirme",
+      "nous": "confirmions",
+      "vous": "confirmiez",
+      "ils": "confirment"
+    },
+    "subjonctif_passé": {
+      "je": "aie confirmé",
+      "tu": "aies confirmé",
+      "il": "ait confirmé",
+      "nous": "ayons confirmé",
+      "vous": "ayez confirmé",
+      "ils": "aient confirmé"
+    },
+    "subjonctif_imparfait": {
+      "je": "confirmasse",
+      "tu": "confirmasses",
+      "il": "confirmât",
+      "nous": "confirmassions",
+      "vous": "confirmassiez",
+      "ils": "confirmassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse confirmé",
+      "tu": "eusses confirmé",
+      "il": "eût confirmé",
+      "nous": "eussions confirmé",
+      "vous": "eussiez confirmé",
+      "ils": "eussent confirmé"
+    },
+    "conditionnel_présent": {
+      "je": "confirmerais",
+      "tu": "confirmerais",
+      "il": "confirmerait",
+      "nous": "confirmerions",
+      "vous": "confirmeriez",
+      "ils": "confirmeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais confirmé",
+      "tu": "aurais confirmé",
+      "il": "aurait confirmé",
+      "nous": "aurions confirmé",
+      "vous": "auriez confirmé",
+      "ils": "auraient confirmé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse confirmé",
+      "tu": "eusses confirmé",
+      "il": "eût confirmé",
+      "nous": "eussions confirmé",
+      "vous": "eussiez confirmé",
+      "ils": "eussent confirmé"
+    },
+    "translation": "potwierdzać",
+    "group": 1
+  },
+  {
+    "infinitive": "confondre",
+    "présent": {
+      "je": "confonds",
+      "tu": "confonds",
+      "il": "confond",
+      "nous": "confondons",
+      "vous": "confondez",
+      "ils": "confondent"
+    },
+    "passé_composé": {
+      "je": "ai confondu",
+      "tu": "as confondu",
+      "il": "a confondu",
+      "nous": "avons confondu",
+      "vous": "avez confondu",
+      "ils": "ont confondu"
+    },
+    "imparfait": {
+      "je": "confondais",
+      "tu": "confondais",
+      "il": "confondait",
+      "nous": "confondions",
+      "vous": "confondiez",
+      "ils": "confondaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais confondu",
+      "tu": "avais confondu",
+      "il": "avait confondu",
+      "nous": "avions confondu",
+      "vous": "aviez confondu",
+      "ils": "avaient confondu"
+    },
+    "passé_simple": {
+      "je": "confondis",
+      "tu": "confondis",
+      "il": "confondit",
+      "nous": "confondîmes",
+      "vous": "confondîtes",
+      "ils": "confondirent"
+    },
+    "passé_antérieur": {
+      "je": "eus confondu",
+      "tu": "eus confondu",
+      "il": "eut confondu",
+      "nous": "eûmes confondu",
+      "vous": "eûtes confondu",
+      "ils": "eurent confondu"
+    },
+    "futur_simple": {
+      "je": "confondrai",
+      "tu": "confondras",
+      "il": "confondra",
+      "nous": "confondrons",
+      "vous": "confondrez",
+      "ils": "confondront"
+    },
+    "futur_antérieur": {
+      "je": "aurai confondu",
+      "tu": "auras confondu",
+      "il": "aura confondu",
+      "nous": "aurons confondu",
+      "vous": "aurez confondu",
+      "ils": "auront confondu"
+    },
+    "subjonctif_présent": {
+      "je": "confonde",
+      "tu": "confondes",
+      "il": "confonde",
+      "nous": "confondions",
+      "vous": "confondiez",
+      "ils": "confondent"
+    },
+    "subjonctif_passé": {
+      "je": "aie confondu",
+      "tu": "aies confondu",
+      "il": "ait confondu",
+      "nous": "ayons confondu",
+      "vous": "ayez confondu",
+      "ils": "aient confondu"
+    },
+    "subjonctif_imparfait": {
+      "je": "confondisse",
+      "tu": "confondisses",
+      "il": "confondît",
+      "nous": "confondissions",
+      "vous": "confondissiez",
+      "ils": "confondissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse confondu",
+      "tu": "eusses confondu",
+      "il": "eût confondu",
+      "nous": "eussions confondu",
+      "vous": "eussiez confondu",
+      "ils": "eussent confondu"
+    },
+    "conditionnel_présent": {
+      "je": "confondrais",
+      "tu": "confondrais",
+      "il": "confondrait",
+      "nous": "confondrions",
+      "vous": "confondriez",
+      "ils": "confondraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais confondu",
+      "tu": "aurais confondu",
+      "il": "aurait confondu",
+      "nous": "aurions confondu",
+      "vous": "auriez confondu",
+      "ils": "auraient confondu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse confondu",
+      "tu": "eusses confondu",
+      "il": "eût confondu",
+      "nous": "eussions confondu",
+      "vous": "eussiez confondu",
+      "ils": "eussent confondu"
+    },
+    "translation": "mieszać",
+    "group": 3
+  },
+  {
+    "infinitive": "conformer",
+    "présent": {
+      "je": "conforme",
+      "tu": "conformes",
+      "il": "conforme",
+      "nous": "conformons",
+      "vous": "conformez",
+      "ils": "conforment"
+    },
+    "passé_composé": {
+      "je": "ai conformé",
+      "tu": "as conformé",
+      "il": "a conformé",
+      "nous": "avons conformé",
+      "vous": "avez conformé",
+      "ils": "ont conformé"
+    },
+    "imparfait": {
+      "je": "conformais",
+      "tu": "conformais",
+      "il": "conformait",
+      "nous": "conformions",
+      "vous": "conformiez",
+      "ils": "conformaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais conformé",
+      "tu": "avais conformé",
+      "il": "avait conformé",
+      "nous": "avions conformé",
+      "vous": "aviez conformé",
+      "ils": "avaient conformé"
+    },
+    "passé_simple": {
+      "je": "conformai",
+      "tu": "conformas",
+      "il": "conforma",
+      "nous": "conformâmes",
+      "vous": "conformâtes",
+      "ils": "conformèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus conformé",
+      "tu": "eus conformé",
+      "il": "eut conformé",
+      "nous": "eûmes conformé",
+      "vous": "eûtes conformé",
+      "ils": "eurent conformé"
+    },
+    "futur_simple": {
+      "je": "conformerai",
+      "tu": "conformeras",
+      "il": "conformera",
+      "nous": "conformerons",
+      "vous": "conformerez",
+      "ils": "conformeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai conformé",
+      "tu": "auras conformé",
+      "il": "aura conformé",
+      "nous": "aurons conformé",
+      "vous": "aurez conformé",
+      "ils": "auront conformé"
+    },
+    "subjonctif_présent": {
+      "je": "conforme",
+      "tu": "conformes",
+      "il": "conforme",
+      "nous": "conformions",
+      "vous": "conformiez",
+      "ils": "conforment"
+    },
+    "subjonctif_passé": {
+      "je": "aie conformé",
+      "tu": "aies conformé",
+      "il": "ait conformé",
+      "nous": "ayons conformé",
+      "vous": "ayez conformé",
+      "ils": "aient conformé"
+    },
+    "subjonctif_imparfait": {
+      "je": "conformasse",
+      "tu": "conformasses",
+      "il": "conformât",
+      "nous": "conformassions",
+      "vous": "conformassiez",
+      "ils": "conformassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse conformé",
+      "tu": "eusses conformé",
+      "il": "eût conformé",
+      "nous": "eussions conformé",
+      "vous": "eussiez conformé",
+      "ils": "eussent conformé"
+    },
+    "conditionnel_présent": {
+      "je": "conformerais",
+      "tu": "conformerais",
+      "il": "conformerait",
+      "nous": "conformerions",
+      "vous": "conformeriez",
+      "ils": "conformeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais conformé",
+      "tu": "aurais conformé",
+      "il": "aurait conformé",
+      "nous": "aurions conformé",
+      "vous": "auriez conformé",
+      "ils": "auraient conformé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse conformé",
+      "tu": "eusses conformé",
+      "il": "eût conformé",
+      "nous": "eussions conformé",
+      "vous": "eussiez conformé",
+      "ils": "eussent conformé"
+    },
+    "translation": "se",
+    "group": 1
+  }
+]

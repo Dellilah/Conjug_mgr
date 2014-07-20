@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "égrainer",
+    "présent": {
+      "je": "égraine",
+      "tu": "égraines",
+      "il": "égraine",
+      "nous": "égrainons",
+      "vous": "égrainez",
+      "ils": "égrainent"
+    },
+    "passé_composé": {
+      "je": "ai égrainé",
+      "tu": "as égrainé",
+      "il": "a égrainé",
+      "nous": "avons égrainé",
+      "vous": "avez égrainé",
+      "ils": "ont égrainé"
+    },
+    "imparfait": {
+      "je": "égrainais",
+      "tu": "égrainais",
+      "il": "égrainait",
+      "nous": "égrainions",
+      "vous": "égrainiez",
+      "ils": "égrainaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais égrainé",
+      "tu": "avais égrainé",
+      "il": "avait égrainé",
+      "nous": "avions égrainé",
+      "vous": "aviez égrainé",
+      "ils": "avaient égrainé"
+    },
+    "passé_simple": {
+      "je": "égrainai",
+      "tu": "égrainas",
+      "il": "égraina",
+      "nous": "égrainâmes",
+      "vous": "égrainâtes",
+      "ils": "égrainèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus égrainé",
+      "tu": "eus égrainé",
+      "il": "eut égrainé",
+      "nous": "eûmes égrainé",
+      "vous": "eûtes égrainé",
+      "ils": "eurent égrainé"
+    },
+    "futur_simple": {
+      "je": "égrainerai",
+      "tu": "égraineras",
+      "il": "égrainera",
+      "nous": "égrainerons",
+      "vous": "égrainerez",
+      "ils": "égraineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai égrainé",
+      "tu": "auras égrainé",
+      "il": "aura égrainé",
+      "nous": "aurons égrainé",
+      "vous": "aurez égrainé",
+      "ils": "auront égrainé"
+    },
+    "subjonctif_présent": {
+      "je": "égraine",
+      "tu": "égraines",
+      "il": "égraine",
+      "nous": "égrainions",
+      "vous": "égrainiez",
+      "ils": "égrainent"
+    },
+    "subjonctif_passé": {
+      "je": "aie égrainé",
+      "tu": "aies égrainé",
+      "il": "ait égrainé",
+      "nous": "ayons égrainé",
+      "vous": "ayez égrainé",
+      "ils": "aient égrainé"
+    },
+    "subjonctif_imparfait": {
+      "je": "égrainasse",
+      "tu": "égrainasses",
+      "il": "égrainât",
+      "nous": "égrainassions",
+      "vous": "égrainassiez",
+      "ils": "égrainassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse égrainé",
+      "tu": "eusses égrainé",
+      "il": "eût égrainé",
+      "nous": "eussions égrainé",
+      "vous": "eussiez égrainé",
+      "ils": "eussent égrainé"
+    },
+    "conditionnel_présent": {
+      "je": "égrainerais",
+      "tu": "égrainerais",
+      "il": "égrainerait",
+      "nous": "égrainerions",
+      "vous": "égraineriez",
+      "ils": "égraineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais égrainé",
+      "tu": "aurais égrainé",
+      "il": "aurait égrainé",
+      "nous": "aurions égrainé",
+      "vous": "auriez égrainé",
+      "ils": "auraient égrainé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse égrainé",
+      "tu": "eusses égrainé",
+      "il": "eût égrainé",
+      "nous": "eussions égrainé",
+      "vous": "eussiez égrainé",
+      "ils": "eussent égrainé"
+    },
+    "translation": "zadrasnąć",
+    "group": 1
+  },
+  {
+    "infinitive": "égrener",
+    "présent": {
+      "je": "égrène",
+      "tu": "égrènes",
+      "il": "égrène",
+      "nous": "égrenons",
+      "vous": "égrenez",
+      "ils": "égrènent"
+    },
+    "passé_composé": {
+      "je": "ai égrené",
+      "tu": "as égrené",
+      "il": "a égrené",
+      "nous": "avons égrené",
+      "vous": "avez égrené",
+      "ils": "ont égrené"
+    },
+    "imparfait": {
+      "je": "égrenais",
+      "tu": "égrenais",
+      "il": "égrenait",
+      "nous": "égrenions",
+      "vous": "égreniez",
+      "ils": "égrenaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais égrené",
+      "tu": "avais égrené",
+      "il": "avait égrené",
+      "nous": "avions égrené",
+      "vous": "aviez égrené",
+      "ils": "avaient égrené"
+    },
+    "passé_simple": {
+      "je": "égrenai",
+      "tu": "égrenas",
+      "il": "égrena",
+      "nous": "égrenâmes",
+      "vous": "égrenâtes",
+      "ils": "égrenèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus égrené",
+      "tu": "eus égrené",
+      "il": "eut égrené",
+      "nous": "eûmes égrené",
+      "vous": "eûtes égrené",
+      "ils": "eurent égrené"
+    },
+    "futur_simple": {
+      "je": "égrènerai",
+      "tu": "égrèneras",
+      "il": "égrènera",
+      "nous": "égrènerons",
+      "vous": "égrènerez",
+      "ils": "égrèneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai égrené",
+      "tu": "auras égrené",
+      "il": "aura égrené",
+      "nous": "aurons égrené",
+      "vous": "aurez égrené",
+      "ils": "auront égrené"
+    },
+    "subjonctif_présent": {
+      "je": "égrène",
+      "tu": "égrènes",
+      "il": "égrène",
+      "nous": "égrenions",
+      "vous": "égreniez",
+      "ils": "égrènent"
+    },
+    "subjonctif_passé": {
+      "je": "aie égrené",
+      "tu": "aies égrené",
+      "il": "ait égrené",
+      "nous": "ayons égrené",
+      "vous": "ayez égrené",
+      "ils": "aient égrené"
+    },
+    "subjonctif_imparfait": {
+      "je": "égrenasse",
+      "tu": "égrenasses",
+      "il": "égrenât",
+      "nous": "égrenassions",
+      "vous": "égrenassiez",
+      "ils": "égrenassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse égrené",
+      "tu": "eusses égrené",
+      "il": "eût égrené",
+      "nous": "eussions égrené",
+      "vous": "eussiez égrené",
+      "ils": "eussent égrené"
+    },
+    "conditionnel_présent": {
+      "je": "égrènerais",
+      "tu": "égrènerais",
+      "il": "égrènerait",
+      "nous": "égrènerions",
+      "vous": "égrèneriez",
+      "ils": "égrèneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais égrené",
+      "tu": "aurais égrené",
+      "il": "aurait égrené",
+      "nous": "aurions égrené",
+      "vous": "auriez égrené",
+      "ils": "auraient égrené"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse égrené",
+      "tu": "eusses égrené",
+      "il": "eût égrené",
+      "nous": "eussions égrené",
+      "vous": "eussiez égrené",
+      "ils": "eussent égrené"
+    },
+    "translation": "égrener",
+    "group": 1
+  },
+  {
+    "infinitive": "éjaculer",
+    "présent": {
+      "je": "éjacule",
+      "tu": "éjacules",
+      "il": "éjacule",
+      "nous": "éjaculons",
+      "vous": "éjaculez",
+      "ils": "éjaculent"
+    },
+    "passé_composé": {
+      "je": "ai éjaculé",
+      "tu": "as éjaculé",
+      "il": "a éjaculé",
+      "nous": "avons éjaculé",
+      "vous": "avez éjaculé",
+      "ils": "ont éjaculé"
+    },
+    "imparfait": {
+      "je": "éjaculais",
+      "tu": "éjaculais",
+      "il": "éjaculait",
+      "nous": "éjaculions",
+      "vous": "éjaculiez",
+      "ils": "éjaculaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais éjaculé",
+      "tu": "avais éjaculé",
+      "il": "avait éjaculé",
+      "nous": "avions éjaculé",
+      "vous": "aviez éjaculé",
+      "ils": "avaient éjaculé"
+    },
+    "passé_simple": {
+      "je": "éjaculai",
+      "tu": "éjaculas",
+      "il": "éjacula",
+      "nous": "éjaculâmes",
+      "vous": "éjaculâtes",
+      "ils": "éjaculèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus éjaculé",
+      "tu": "eus éjaculé",
+      "il": "eut éjaculé",
+      "nous": "eûmes éjaculé",
+      "vous": "eûtes éjaculé",
+      "ils": "eurent éjaculé"
+    },
+    "futur_simple": {
+      "je": "éjaculerai",
+      "tu": "éjaculeras",
+      "il": "éjaculera",
+      "nous": "éjaculerons",
+      "vous": "éjaculerez",
+      "ils": "éjaculeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai éjaculé",
+      "tu": "auras éjaculé",
+      "il": "aura éjaculé",
+      "nous": "aurons éjaculé",
+      "vous": "aurez éjaculé",
+      "ils": "auront éjaculé"
+    },
+    "subjonctif_présent": {
+      "je": "éjacule",
+      "tu": "éjacules",
+      "il": "éjacule",
+      "nous": "éjaculions",
+      "vous": "éjaculiez",
+      "ils": "éjaculent"
+    },
+    "subjonctif_passé": {
+      "je": "aie éjaculé",
+      "tu": "aies éjaculé",
+      "il": "ait éjaculé",
+      "nous": "ayons éjaculé",
+      "vous": "ayez éjaculé",
+      "ils": "aient éjaculé"
+    },
+    "subjonctif_imparfait": {
+      "je": "éjaculasse",
+      "tu": "éjaculasses",
+      "il": "éjaculât",
+      "nous": "éjaculassions",
+      "vous": "éjaculassiez",
+      "ils": "éjaculassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse éjaculé",
+      "tu": "eusses éjaculé",
+      "il": "eût éjaculé",
+      "nous": "eussions éjaculé",
+      "vous": "eussiez éjaculé",
+      "ils": "eussent éjaculé"
+    },
+    "conditionnel_présent": {
+      "je": "éjaculerais",
+      "tu": "éjaculerais",
+      "il": "éjaculerait",
+      "nous": "éjaculerions",
+      "vous": "éjaculeriez",
+      "ils": "éjaculeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais éjaculé",
+      "tu": "aurais éjaculé",
+      "il": "aurait éjaculé",
+      "nous": "aurions éjaculé",
+      "vous": "auriez éjaculé",
+      "ils": "auraient éjaculé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse éjaculé",
+      "tu": "eusses éjaculé",
+      "il": "eût éjaculé",
+      "nous": "eussions éjaculé",
+      "vous": "eussiez éjaculé",
+      "ils": "eussent éjaculé"
+    },
+    "translation": "éjaculer",
+    "group": 1
+  },
+  {
+    "infinitive": "élaborer",
+    "présent": {
+      "je": "élabore",
+      "tu": "élabores",
+      "il": "élabore",
+      "nous": "élaborons",
+      "vous": "élaborez",
+      "ils": "élaborent"
+    },
+    "passé_composé": {
+      "je": "ai élaboré",
+      "tu": "as élaboré",
+      "il": "a élaboré",
+      "nous": "avons élaboré",
+      "vous": "avez élaboré",
+      "ils": "ont élaboré"
+    },
+    "imparfait": {
+      "je": "élaborais",
+      "tu": "élaborais",
+      "il": "élaborait",
+      "nous": "élaborions",
+      "vous": "élaboriez",
+      "ils": "élaboraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais élaboré",
+      "tu": "avais élaboré",
+      "il": "avait élaboré",
+      "nous": "avions élaboré",
+      "vous": "aviez élaboré",
+      "ils": "avaient élaboré"
+    },
+    "passé_simple": {
+      "je": "élaborai",
+      "tu": "élaboras",
+      "il": "élabora",
+      "nous": "élaborâmes",
+      "vous": "élaborâtes",
+      "ils": "élaborèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus élaboré",
+      "tu": "eus élaboré",
+      "il": "eut élaboré",
+      "nous": "eûmes élaboré",
+      "vous": "eûtes élaboré",
+      "ils": "eurent élaboré"
+    },
+    "futur_simple": {
+      "je": "élaborerai",
+      "tu": "élaboreras",
+      "il": "élaborera",
+      "nous": "élaborerons",
+      "vous": "élaborerez",
+      "ils": "élaboreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai élaboré",
+      "tu": "auras élaboré",
+      "il": "aura élaboré",
+      "nous": "aurons élaboré",
+      "vous": "aurez élaboré",
+      "ils": "auront élaboré"
+    },
+    "subjonctif_présent": {
+      "je": "élabore",
+      "tu": "élabores",
+      "il": "élabore",
+      "nous": "élaborions",
+      "vous": "élaboriez",
+      "ils": "élaborent"
+    },
+    "subjonctif_passé": {
+      "je": "aie élaboré",
+      "tu": "aies élaboré",
+      "il": "ait élaboré",
+      "nous": "ayons élaboré",
+      "vous": "ayez élaboré",
+      "ils": "aient élaboré"
+    },
+    "subjonctif_imparfait": {
+      "je": "élaborasse",
+      "tu": "élaborasses",
+      "il": "élaborât",
+      "nous": "élaborassions",
+      "vous": "élaborassiez",
+      "ils": "élaborassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse élaboré",
+      "tu": "eusses élaboré",
+      "il": "eût élaboré",
+      "nous": "eussions élaboré",
+      "vous": "eussiez élaboré",
+      "ils": "eussent élaboré"
+    },
+    "conditionnel_présent": {
+      "je": "élaborerais",
+      "tu": "élaborerais",
+      "il": "élaborerait",
+      "nous": "élaborerions",
+      "vous": "élaboreriez",
+      "ils": "élaboreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais élaboré",
+      "tu": "aurais élaboré",
+      "il": "aurait élaboré",
+      "nous": "aurions élaboré",
+      "vous": "auriez élaboré",
+      "ils": "auraient élaboré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse élaboré",
+      "tu": "eusses élaboré",
+      "il": "eût élaboré",
+      "nous": "eussions élaboré",
+      "vous": "eussiez élaboré",
+      "ils": "eussent élaboré"
+    },
+    "translation": "opracowywać",
+    "group": 1
+  },
+  {
+    "infinitive": "élaguer",
+    "présent": {
+      "je": "élague",
+      "tu": "élagues",
+      "il": "élague",
+      "nous": "élaguons",
+      "vous": "élaguez",
+      "ils": "élaguent"
+    },
+    "passé_composé": {
+      "je": "ai élagué",
+      "tu": "as élagué",
+      "il": "a élagué",
+      "nous": "avons élagué",
+      "vous": "avez élagué",
+      "ils": "ont élagué"
+    },
+    "imparfait": {
+      "je": "élaguais",
+      "tu": "élaguais",
+      "il": "élaguait",
+      "nous": "élaguions",
+      "vous": "élaguiez",
+      "ils": "élaguaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais élagué",
+      "tu": "avais élagué",
+      "il": "avait élagué",
+      "nous": "avions élagué",
+      "vous": "aviez élagué",
+      "ils": "avaient élagué"
+    },
+    "passé_simple": {
+      "je": "élaguai",
+      "tu": "élaguas",
+      "il": "élagua",
+      "nous": "élaguâmes",
+      "vous": "élaguâtes",
+      "ils": "élaguèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus élagué",
+      "tu": "eus élagué",
+      "il": "eut élagué",
+      "nous": "eûmes élagué",
+      "vous": "eûtes élagué",
+      "ils": "eurent élagué"
+    },
+    "futur_simple": {
+      "je": "élaguerai",
+      "tu": "élagueras",
+      "il": "élaguera",
+      "nous": "élaguerons",
+      "vous": "élaguerez",
+      "ils": "élagueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai élagué",
+      "tu": "auras élagué",
+      "il": "aura élagué",
+      "nous": "aurons élagué",
+      "vous": "aurez élagué",
+      "ils": "auront élagué"
+    },
+    "subjonctif_présent": {
+      "je": "élague",
+      "tu": "élagues",
+      "il": "élague",
+      "nous": "élaguions",
+      "vous": "élaguiez",
+      "ils": "élaguent"
+    },
+    "subjonctif_passé": {
+      "je": "aie élagué",
+      "tu": "aies élagué",
+      "il": "ait élagué",
+      "nous": "ayons élagué",
+      "vous": "ayez élagué",
+      "ils": "aient élagué"
+    },
+    "subjonctif_imparfait": {
+      "je": "élaguasse",
+      "tu": "élaguasses",
+      "il": "élaguât",
+      "nous": "élaguassions",
+      "vous": "élaguassiez",
+      "ils": "élaguassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse élagué",
+      "tu": "eusses élagué",
+      "il": "eût élagué",
+      "nous": "eussions élagué",
+      "vous": "eussiez élagué",
+      "ils": "eussent élagué"
+    },
+    "conditionnel_présent": {
+      "je": "élaguerais",
+      "tu": "élaguerais",
+      "il": "élaguerait",
+      "nous": "élaguerions",
+      "vous": "élagueriez",
+      "ils": "élagueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais élagué",
+      "tu": "aurais élagué",
+      "il": "aurait élagué",
+      "nous": "aurions élagué",
+      "vous": "auriez élagué",
+      "ils": "auraient élagué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse élagué",
+      "tu": "eusses élagué",
+      "il": "eût élagué",
+      "nous": "eussions élagué",
+      "vous": "eussiez élagué",
+      "ils": "eussent élagué"
+    },
+    "translation": "żartować",
+    "group": 1
+  },
+  {
+    "infinitive": "élancer",
+    "présent": {
+      "je": "élance",
+      "tu": "élances",
+      "il": "élance",
+      "nous": "élançons",
+      "vous": "élancez",
+      "ils": "élancent"
+    },
+    "passé_composé": {
+      "je": "ai élancé",
+      "tu": "as élancé",
+      "il": "a élancé",
+      "nous": "avons élancé",
+      "vous": "avez élancé",
+      "ils": "ont élancé"
+    },
+    "imparfait": {
+      "je": "élançais",
+      "tu": "élançais",
+      "il": "élançait",
+      "nous": "élancions",
+      "vous": "élanciez",
+      "ils": "élançaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais élancé",
+      "tu": "avais élancé",
+      "il": "avait élancé",
+      "nous": "avions élancé",
+      "vous": "aviez élancé",
+      "ils": "avaient élancé"
+    },
+    "passé_simple": {
+      "je": "élançai",
+      "tu": "élanças",
+      "il": "élança",
+      "nous": "élançâmes",
+      "vous": "élançâtes",
+      "ils": "élancèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus élancé",
+      "tu": "eus élancé",
+      "il": "eut élancé",
+      "nous": "eûmes élancé",
+      "vous": "eûtes élancé",
+      "ils": "eurent élancé"
+    },
+    "futur_simple": {
+      "je": "élancerai",
+      "tu": "élanceras",
+      "il": "élancera",
+      "nous": "élancerons",
+      "vous": "élancerez",
+      "ils": "élanceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai élancé",
+      "tu": "auras élancé",
+      "il": "aura élancé",
+      "nous": "aurons élancé",
+      "vous": "aurez élancé",
+      "ils": "auront élancé"
+    },
+    "subjonctif_présent": {
+      "je": "élance",
+      "tu": "élances",
+      "il": "élance",
+      "nous": "élancions",
+      "vous": "élanciez",
+      "ils": "élancent"
+    },
+    "subjonctif_passé": {
+      "je": "aie élancé",
+      "tu": "aies élancé",
+      "il": "ait élancé",
+      "nous": "ayons élancé",
+      "vous": "ayez élancé",
+      "ils": "aient élancé"
+    },
+    "subjonctif_imparfait": {
+      "je": "élançasse",
+      "tu": "élançasses",
+      "il": "élançât",
+      "nous": "élançassions",
+      "vous": "élançassiez",
+      "ils": "élançassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse élancé",
+      "tu": "eusses élancé",
+      "il": "eût élancé",
+      "nous": "eussions élancé",
+      "vous": "eussiez élancé",
+      "ils": "eussent élancé"
+    },
+    "conditionnel_présent": {
+      "je": "élancerais",
+      "tu": "élancerais",
+      "il": "élancerait",
+      "nous": "élancerions",
+      "vous": "élanceriez",
+      "ils": "élanceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais élancé",
+      "tu": "aurais élancé",
+      "il": "aurait élancé",
+      "nous": "aurions élancé",
+      "vous": "auriez élancé",
+      "ils": "auraient élancé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse élancé",
+      "tu": "eusses élancé",
+      "il": "eût élancé",
+      "nous": "eussions élancé",
+      "vous": "eussiez élancé",
+      "ils": "eussent élancé"
+    },
+    "translation": "zwrócić",
+    "group": 1
+  },
+  {
+    "infinitive": "élargir",
+    "présent": {
+      "je": "élargis",
+      "tu": "élargis",
+      "il": "élargit",
+      "nous": "élargissons",
+      "vous": "élargissez",
+      "ils": "élargissent"
+    },
+    "passé_composé": {
+      "je": "ai élargi",
+      "tu": "as élargi",
+      "il": "a élargi",
+      "nous": "avons élargi",
+      "vous": "avez élargi",
+      "ils": "ont élargi"
+    },
+    "imparfait": {
+      "je": "élargissais",
+      "tu": "élargissais",
+      "il": "élargissait",
+      "nous": "élargissions",
+      "vous": "élargissiez",
+      "ils": "élargissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais élargi",
+      "tu": "avais élargi",
+      "il": "avait élargi",
+      "nous": "avions élargi",
+      "vous": "aviez élargi",
+      "ils": "avaient élargi"
+    },
+    "passé_simple": {
+      "je": "élargis",
+      "tu": "élargis",
+      "il": "élargit",
+      "nous": "élargîmes",
+      "vous": "élargîtes",
+      "ils": "élargirent"
+    },
+    "passé_antérieur": {
+      "je": "eus élargi",
+      "tu": "eus élargi",
+      "il": "eut élargi",
+      "nous": "eûmes élargi",
+      "vous": "eûtes élargi",
+      "ils": "eurent élargi"
+    },
+    "futur_simple": {
+      "je": "élargirai",
+      "tu": "élargiras",
+      "il": "élargira",
+      "nous": "élargirons",
+      "vous": "élargirez",
+      "ils": "élargiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai élargi",
+      "tu": "auras élargi",
+      "il": "aura élargi",
+      "nous": "aurons élargi",
+      "vous": "aurez élargi",
+      "ils": "auront élargi"
+    },
+    "subjonctif_présent": {
+      "je": "élargisse",
+      "tu": "élargisses",
+      "il": "élargisse",
+      "nous": "élargissions",
+      "vous": "élargissiez",
+      "ils": "élargissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie élargi",
+      "tu": "aies élargi",
+      "il": "ait élargi",
+      "nous": "ayons élargi",
+      "vous": "ayez élargi",
+      "ils": "aient élargi"
+    },
+    "subjonctif_imparfait": {
+      "je": "élargisse",
+      "tu": "élargisses",
+      "il": "élargît",
+      "nous": "élargissions",
+      "vous": "élargissiez",
+      "ils": "élargissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse élargi",
+      "tu": "eusses élargi",
+      "il": "eût élargi",
+      "nous": "eussions élargi",
+      "vous": "eussiez élargi",
+      "ils": "eussent élargi"
+    },
+    "conditionnel_présent": {
+      "je": "élargirais",
+      "tu": "élargirais",
+      "il": "élargirait",
+      "nous": "élargirions",
+      "vous": "élargiriez",
+      "ils": "élargiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais élargi",
+      "tu": "aurais élargi",
+      "il": "aurait élargi",
+      "nous": "aurions élargi",
+      "vous": "auriez élargi",
+      "ils": "auraient élargi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse élargi",
+      "tu": "eusses élargi",
+      "il": "eût élargi",
+      "nous": "eussions élargi",
+      "vous": "eussiez élargi",
+      "ils": "eussent élargi"
+    },
+    "translation": "poszerzać",
+    "group": 2
+  },
+  {
+    "infinitive": "élever",
+    "présent": {
+      "je": "élève",
+      "tu": "élèves",
+      "il": "élève",
+      "nous": "élevons",
+      "vous": "élevez",
+      "ils": "élèvent"
+    },
+    "passé_composé": {
+      "je": "ai élevé",
+      "tu": "as élevé",
+      "il": "a élevé",
+      "nous": "avons élevé",
+      "vous": "avez élevé",
+      "ils": "ont élevé"
+    },
+    "imparfait": {
+      "je": "élevais",
+      "tu": "élevais",
+      "il": "élevait",
+      "nous": "élevions",
+      "vous": "éleviez",
+      "ils": "élevaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais élevé",
+      "tu": "avais élevé",
+      "il": "avait élevé",
+      "nous": "avions élevé",
+      "vous": "aviez élevé",
+      "ils": "avaient élevé"
+    },
+    "passé_simple": {
+      "je": "élevai",
+      "tu": "élevas",
+      "il": "éleva",
+      "nous": "élevâmes",
+      "vous": "élevâtes",
+      "ils": "élevèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus élevé",
+      "tu": "eus élevé",
+      "il": "eut élevé",
+      "nous": "eûmes élevé",
+      "vous": "eûtes élevé",
+      "ils": "eurent élevé"
+    },
+    "futur_simple": {
+      "je": "élèverai",
+      "tu": "élèveras",
+      "il": "élèvera",
+      "nous": "élèverons",
+      "vous": "élèverez",
+      "ils": "élèveront"
+    },
+    "futur_antérieur": {
+      "je": "aurai élevé",
+      "tu": "auras élevé",
+      "il": "aura élevé",
+      "nous": "aurons élevé",
+      "vous": "aurez élevé",
+      "ils": "auront élevé"
+    },
+    "subjonctif_présent": {
+      "je": "élève",
+      "tu": "élèves",
+      "il": "élève",
+      "nous": "élevions",
+      "vous": "éleviez",
+      "ils": "élèvent"
+    },
+    "subjonctif_passé": {
+      "je": "aie élevé",
+      "tu": "aies élevé",
+      "il": "ait élevé",
+      "nous": "ayons élevé",
+      "vous": "ayez élevé",
+      "ils": "aient élevé"
+    },
+    "subjonctif_imparfait": {
+      "je": "élevasse",
+      "tu": "élevasses",
+      "il": "élevât",
+      "nous": "élevassions",
+      "vous": "élevassiez",
+      "ils": "élevassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse élevé",
+      "tu": "eusses élevé",
+      "il": "eût élevé",
+      "nous": "eussions élevé",
+      "vous": "eussiez élevé",
+      "ils": "eussent élevé"
+    },
+    "conditionnel_présent": {
+      "je": "élèverais",
+      "tu": "élèverais",
+      "il": "élèverait",
+      "nous": "élèverions",
+      "vous": "élèveriez",
+      "ils": "élèveraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais élevé",
+      "tu": "aurais élevé",
+      "il": "aurait élevé",
+      "nous": "aurions élevé",
+      "vous": "auriez élevé",
+      "ils": "auraient élevé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse élevé",
+      "tu": "eusses élevé",
+      "il": "eût élevé",
+      "nous": "eussions élevé",
+      "vous": "eussiez élevé",
+      "ils": "eussent élevé"
+    },
+    "translation": "wznosić",
+    "group": 1
+  },
+  {
+    "infinitive": "éliminer",
+    "présent": {
+      "je": "élimine",
+      "tu": "élimines",
+      "il": "élimine",
+      "nous": "éliminons",
+      "vous": "éliminez",
+      "ils": "éliminent"
+    },
+    "passé_composé": {
+      "je": "ai éliminé",
+      "tu": "as éliminé",
+      "il": "a éliminé",
+      "nous": "avons éliminé",
+      "vous": "avez éliminé",
+      "ils": "ont éliminé"
+    },
+    "imparfait": {
+      "je": "éliminais",
+      "tu": "éliminais",
+      "il": "éliminait",
+      "nous": "éliminions",
+      "vous": "éliminiez",
+      "ils": "éliminaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais éliminé",
+      "tu": "avais éliminé",
+      "il": "avait éliminé",
+      "nous": "avions éliminé",
+      "vous": "aviez éliminé",
+      "ils": "avaient éliminé"
+    },
+    "passé_simple": {
+      "je": "éliminai",
+      "tu": "éliminas",
+      "il": "élimina",
+      "nous": "éliminâmes",
+      "vous": "éliminâtes",
+      "ils": "éliminèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus éliminé",
+      "tu": "eus éliminé",
+      "il": "eut éliminé",
+      "nous": "eûmes éliminé",
+      "vous": "eûtes éliminé",
+      "ils": "eurent éliminé"
+    },
+    "futur_simple": {
+      "je": "éliminerai",
+      "tu": "élimineras",
+      "il": "éliminera",
+      "nous": "éliminerons",
+      "vous": "éliminerez",
+      "ils": "élimineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai éliminé",
+      "tu": "auras éliminé",
+      "il": "aura éliminé",
+      "nous": "aurons éliminé",
+      "vous": "aurez éliminé",
+      "ils": "auront éliminé"
+    },
+    "subjonctif_présent": {
+      "je": "élimine",
+      "tu": "élimines",
+      "il": "élimine",
+      "nous": "éliminions",
+      "vous": "éliminiez",
+      "ils": "éliminent"
+    },
+    "subjonctif_passé": {
+      "je": "aie éliminé",
+      "tu": "aies éliminé",
+      "il": "ait éliminé",
+      "nous": "ayons éliminé",
+      "vous": "ayez éliminé",
+      "ils": "aient éliminé"
+    },
+    "subjonctif_imparfait": {
+      "je": "éliminasse",
+      "tu": "éliminasses",
+      "il": "éliminât",
+      "nous": "éliminassions",
+      "vous": "éliminassiez",
+      "ils": "éliminassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse éliminé",
+      "tu": "eusses éliminé",
+      "il": "eût éliminé",
+      "nous": "eussions éliminé",
+      "vous": "eussiez éliminé",
+      "ils": "eussent éliminé"
+    },
+    "conditionnel_présent": {
+      "je": "éliminerais",
+      "tu": "éliminerais",
+      "il": "éliminerait",
+      "nous": "éliminerions",
+      "vous": "élimineriez",
+      "ils": "élimineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais éliminé",
+      "tu": "aurais éliminé",
+      "il": "aurait éliminé",
+      "nous": "aurions éliminé",
+      "vous": "auriez éliminé",
+      "ils": "auraient éliminé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse éliminé",
+      "tu": "eusses éliminé",
+      "il": "eût éliminé",
+      "nous": "eussions éliminé",
+      "vous": "eussiez éliminé",
+      "ils": "eussent éliminé"
+    },
+    "translation": "usuwać",
+    "group": 1
+  },
+  {
+    "infinitive": "élire",
+    "présent": {
+      "je": "élis",
+      "tu": "élis",
+      "il": "élit",
+      "nous": "élisons",
+      "vous": "élisez",
+      "ils": "élisent"
+    },
+    "passé_composé": {
+      "je": "ai élu",
+      "tu": "as élu",
+      "il": "a élu",
+      "nous": "avons élu",
+      "vous": "avez élu",
+      "ils": "ont élu"
+    },
+    "imparfait": {
+      "je": "élisais",
+      "tu": "élisais",
+      "il": "élisait",
+      "nous": "élisions",
+      "vous": "élisiez",
+      "ils": "élisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais élu",
+      "tu": "avais élu",
+      "il": "avait élu",
+      "nous": "avions élu",
+      "vous": "aviez élu",
+      "ils": "avaient élu"
+    },
+    "passé_simple": {
+      "je": "élus",
+      "tu": "élus",
+      "il": "élut",
+      "nous": "élûmes",
+      "vous": "élûtes",
+      "ils": "élurent"
+    },
+    "passé_antérieur": {
+      "je": "eus élu",
+      "tu": "eus élu",
+      "il": "eut élu",
+      "nous": "eûmes élu",
+      "vous": "eûtes élu",
+      "ils": "eurent élu"
+    },
+    "futur_simple": {
+      "je": "élirai",
+      "tu": "éliras",
+      "il": "élira",
+      "nous": "élirons",
+      "vous": "élirez",
+      "ils": "éliront"
+    },
+    "futur_antérieur": {
+      "je": "aurai élu",
+      "tu": "auras élu",
+      "il": "aura élu",
+      "nous": "aurons élu",
+      "vous": "aurez élu",
+      "ils": "auront élu"
+    },
+    "subjonctif_présent": {
+      "je": "élise",
+      "tu": "élises",
+      "il": "élise",
+      "nous": "élisions",
+      "vous": "élisiez",
+      "ils": "élisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie élu",
+      "tu": "aies élu",
+      "il": "ait élu",
+      "nous": "ayons élu",
+      "vous": "ayez élu",
+      "ils": "aient élu"
+    },
+    "subjonctif_imparfait": {
+      "je": "élusse",
+      "tu": "élusses",
+      "il": "élût",
+      "nous": "élussions",
+      "vous": "élussiez",
+      "ils": "élussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse élu",
+      "tu": "eusses élu",
+      "il": "eût élu",
+      "nous": "eussions élu",
+      "vous": "eussiez élu",
+      "ils": "eussent élu"
+    },
+    "conditionnel_présent": {
+      "je": "élirais",
+      "tu": "élirais",
+      "il": "élirait",
+      "nous": "élirions",
+      "vous": "éliriez",
+      "ils": "éliraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais élu",
+      "tu": "aurais élu",
+      "il": "aurait élu",
+      "nous": "aurions élu",
+      "vous": "auriez élu",
+      "ils": "auraient élu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse élu",
+      "tu": "eusses élu",
+      "il": "eût élu",
+      "nous": "eussions élu",
+      "vous": "eussiez élu",
+      "ils": "eussent élu"
+    },
+    "translation": "wybierać",
+    "group": 3
+  }
+]

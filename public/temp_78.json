@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "émouvoir",
+    "présent": {
+      "je": "émeus",
+      "tu": "émeus",
+      "il": "émeut",
+      "nous": "émouvons",
+      "vous": "émouvez",
+      "ils": "émeuvent"
+    },
+    "passé_composé": {
+      "je": "ai ému",
+      "tu": "as ému",
+      "il": "a ému",
+      "nous": "avons ému",
+      "vous": "avez ému",
+      "ils": "ont ému"
+    },
+    "imparfait": {
+      "je": "émouvais",
+      "tu": "émouvais",
+      "il": "émouvait",
+      "nous": "émouvions",
+      "vous": "émouviez",
+      "ils": "émouvaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais ému",
+      "tu": "avais ému",
+      "il": "avait ému",
+      "nous": "avions ému",
+      "vous": "aviez ému",
+      "ils": "avaient ému"
+    },
+    "passé_simple": {
+      "je": "émus",
+      "tu": "émus",
+      "il": "émut",
+      "nous": "émûmes",
+      "vous": "émûtes",
+      "ils": "émurent"
+    },
+    "passé_antérieur": {
+      "je": "eus ému",
+      "tu": "eus ému",
+      "il": "eut ému",
+      "nous": "eûmes ému",
+      "vous": "eûtes ému",
+      "ils": "eurent ému"
+    },
+    "futur_simple": {
+      "je": "émouvrai",
+      "tu": "émouvras",
+      "il": "émouvra",
+      "nous": "émouvrons",
+      "vous": "émouvrez",
+      "ils": "émouvront"
+    },
+    "futur_antérieur": {
+      "je": "aurai ému",
+      "tu": "auras ému",
+      "il": "aura ému",
+      "nous": "aurons ému",
+      "vous": "aurez ému",
+      "ils": "auront ému"
+    },
+    "subjonctif_présent": {
+      "je": "émeuve",
+      "tu": "émeuves",
+      "il": "émeuve",
+      "nous": "émouvions",
+      "vous": "émouviez",
+      "ils": "émeuvent"
+    },
+    "subjonctif_passé": {
+      "je": "aie ému",
+      "tu": "aies ému",
+      "il": "ait ému",
+      "nous": "ayons ému",
+      "vous": "ayez ému",
+      "ils": "aient ému"
+    },
+    "subjonctif_imparfait": {
+      "je": "émusse",
+      "tu": "émusses",
+      "il": "émût",
+      "nous": "émussions",
+      "vous": "émussiez",
+      "ils": "émussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse ému",
+      "tu": "eusses ému",
+      "il": "eût ému",
+      "nous": "eussions ému",
+      "vous": "eussiez ému",
+      "ils": "eussent ému"
+    },
+    "conditionnel_présent": {
+      "je": "émouvrais",
+      "tu": "émouvrais",
+      "il": "émouvrait",
+      "nous": "émouvrions",
+      "vous": "émouvriez",
+      "ils": "émouvraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais ému",
+      "tu": "aurais ému",
+      "il": "aurait ému",
+      "nous": "aurions ému",
+      "vous": "auriez ému",
+      "ils": "auraient ému"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse ému",
+      "tu": "eusses ému",
+      "il": "eût ému",
+      "nous": "eussions ému",
+      "vous": "eussiez ému",
+      "ils": "eussent ému"
+    },
+    "translation": "wzruszać",
+    "group": 3
+  },
+  {
+    "infinitive": "emparer",
+    "présent": {
+      "je": "empare",
+      "tu": "empares",
+      "il": "empare",
+      "nous": "nous emparons",
+      "vous": "vous emparez",
+      "ils": "emparent"
+    },
+    "passé_composé": {
+      "je": "me suis emparé",
+      "tu": "es emparé",
+      "il": "est emparé",
+      "nous": "nous sommes emparés",
+      "vous": "vous êtes emparés",
+      "ils": "se sont emparés"
+    },
+    "imparfait": {
+      "je": "emparais",
+      "tu": "emparais",
+      "il": "emparait",
+      "nous": "nous emparions",
+      "vous": "vous empariez",
+      "ils": "emparaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais emparé",
+      "tu": "étais emparé",
+      "il": "était emparé",
+      "nous": "nous étions emparés",
+      "vous": "vous étiez emparés",
+      "ils": "étaient emparés"
+    },
+    "passé_simple": {
+      "je": "emparai",
+      "tu": "emparas",
+      "il": "empara",
+      "nous": "nous emparâmes",
+      "vous": "vous emparâtes",
+      "ils": "emparèrent"
+    },
+    "passé_antérieur": {
+      "je": "me fus emparé",
+      "tu": "te fus emparé",
+      "il": "se fut emparé",
+      "nous": "nous fûmes emparés",
+      "vous": "vous fûtes emparés",
+      "ils": "se furent emparés"
+    },
+    "futur_simple": {
+      "je": "emparerai",
+      "tu": "empareras",
+      "il": "emparera",
+      "nous": "nous emparerons",
+      "vous": "vous emparerez",
+      "ils": "empareront"
+    },
+    "futur_antérieur": {
+      "je": "me serai emparé",
+      "tu": "te seras emparé",
+      "il": "se sera emparé",
+      "nous": "nous serons emparés",
+      "vous": "vous serez emparés",
+      "ils": "se seront emparés"
+    },
+    "subjonctif_présent": {
+      "je": "empare",
+      "tu": "empares",
+      "il": "empare",
+      "nous": "nous emparions",
+      "vous": "vous empariez",
+      "ils": "emparent"
+    },
+    "subjonctif_passé": {
+      "je": "me sois emparé",
+      "tu": "te sois emparé",
+      "il": "se soit emparé",
+      "nous": "nous soyons emparés",
+      "vous": "vous soyez emparés",
+      "ils": "se soient emparés"
+    },
+    "subjonctif_imparfait": {
+      "je": "emparasse",
+      "tu": "emparasses",
+      "il": "emparât",
+      "nous": "nous emparassions",
+      "vous": "vous emparassiez",
+      "ils": "emparassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse emparé",
+      "tu": "te fusses emparé",
+      "il": "se fût emparé",
+      "nous": "nous fussions emparés",
+      "vous": "vous fussiez emparés",
+      "ils": "se fussent emparés"
+    },
+    "conditionnel_présent": {
+      "je": "emparerais",
+      "tu": "emparerais",
+      "il": "emparerait",
+      "nous": "nous emparerions",
+      "vous": "vous empareriez",
+      "ils": "empareraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais emparé",
+      "tu": "te serais emparé",
+      "il": "se serait emparé",
+      "nous": "nous serions emparés",
+      "vous": "vous seriez emparés",
+      "ils": "se seraient emparés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse emparé",
+      "tu": "te fusses emparé",
+      "il": "se fût emparé",
+      "nous": "nous fussions emparés",
+      "vous": "vous fussiez emparés",
+      "ils": "se fussent emparés"
+    },
+    "translation": "zajmować",
+    "group": 1
+  },
+  {
+    "infinitive": "empêcher",
+    "présent": {
+      "je": "empêche",
+      "tu": "empêches",
+      "il": "empêche",
+      "nous": "empêchons",
+      "vous": "empêchez",
+      "ils": "empêchent"
+    },
+    "passé_composé": {
+      "je": "ai empêché",
+      "tu": "as empêché",
+      "il": "a empêché",
+      "nous": "avons empêché",
+      "vous": "avez empêché",
+      "ils": "ont empêché"
+    },
+    "imparfait": {
+      "je": "empêchais",
+      "tu": "empêchais",
+      "il": "empêchait",
+      "nous": "empêchions",
+      "vous": "empêchiez",
+      "ils": "empêchaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais empêché",
+      "tu": "avais empêché",
+      "il": "avait empêché",
+      "nous": "avions empêché",
+      "vous": "aviez empêché",
+      "ils": "avaient empêché"
+    },
+    "passé_simple": {
+      "je": "empêchai",
+      "tu": "empêchas",
+      "il": "empêcha",
+      "nous": "empêchâmes",
+      "vous": "empêchâtes",
+      "ils": "empêchèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus empêché",
+      "tu": "eus empêché",
+      "il": "eut empêché",
+      "nous": "eûmes empêché",
+      "vous": "eûtes empêché",
+      "ils": "eurent empêché"
+    },
+    "futur_simple": {
+      "je": "empêcherai",
+      "tu": "empêcheras",
+      "il": "empêchera",
+      "nous": "empêcherons",
+      "vous": "empêcherez",
+      "ils": "empêcheront"
+    },
+    "futur_antérieur": {
+      "je": "aurai empêché",
+      "tu": "auras empêché",
+      "il": "aura empêché",
+      "nous": "aurons empêché",
+      "vous": "aurez empêché",
+      "ils": "auront empêché"
+    },
+    "subjonctif_présent": {
+      "je": "empêche",
+      "tu": "empêches",
+      "il": "empêche",
+      "nous": "empêchions",
+      "vous": "empêchiez",
+      "ils": "empêchent"
+    },
+    "subjonctif_passé": {
+      "je": "aie empêché",
+      "tu": "aies empêché",
+      "il": "ait empêché",
+      "nous": "ayons empêché",
+      "vous": "ayez empêché",
+      "ils": "aient empêché"
+    },
+    "subjonctif_imparfait": {
+      "je": "empêchasse",
+      "tu": "empêchasses",
+      "il": "empêchât",
+      "nous": "empêchassions",
+      "vous": "empêchassiez",
+      "ils": "empêchassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse empêché",
+      "tu": "eusses empêché",
+      "il": "eût empêché",
+      "nous": "eussions empêché",
+      "vous": "eussiez empêché",
+      "ils": "eussent empêché"
+    },
+    "conditionnel_présent": {
+      "je": "empêcherais",
+      "tu": "empêcherais",
+      "il": "empêcherait",
+      "nous": "empêcherions",
+      "vous": "empêcheriez",
+      "ils": "empêcheraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais empêché",
+      "tu": "aurais empêché",
+      "il": "aurait empêché",
+      "nous": "aurions empêché",
+      "vous": "auriez empêché",
+      "ils": "auraient empêché"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse empêché",
+      "tu": "eusses empêché",
+      "il": "eût empêché",
+      "nous": "eussions empêché",
+      "vous": "eussiez empêché",
+      "ils": "eussent empêché"
+    },
+    "translation": "zakłócać",
+    "group": 1
+  },
+  {
+    "infinitive": "empiéter",
+    "présent": {
+      "je": "empiète",
+      "tu": "empiètes",
+      "il": "empiète",
+      "nous": "empiétons",
+      "vous": "empiétez",
+      "ils": "empiètent"
+    },
+    "passé_composé": {
+      "je": "ai empiété",
+      "tu": "as empiété",
+      "il": "a empiété",
+      "nous": "avons empiété",
+      "vous": "avez empiété",
+      "ils": "ont empiété"
+    },
+    "imparfait": {
+      "je": "empiétais",
+      "tu": "empiétais",
+      "il": "empiétait",
+      "nous": "empiétions",
+      "vous": "empiétiez",
+      "ils": "empiétaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais empiété",
+      "tu": "avais empiété",
+      "il": "avait empiété",
+      "nous": "avions empiété",
+      "vous": "aviez empiété",
+      "ils": "avaient empiété"
+    },
+    "passé_simple": {
+      "je": "empiétai",
+      "tu": "empiétas",
+      "il": "empiéta",
+      "nous": "empiétâmes",
+      "vous": "empiétâtes",
+      "ils": "empiétèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus empiété",
+      "tu": "eus empiété",
+      "il": "eut empiété",
+      "nous": "eûmes empiété",
+      "vous": "eûtes empiété",
+      "ils": "eurent empiété"
+    },
+    "futur_simple": {
+      "je": "empiéterai",
+      "tu": "empiéteras",
+      "il": "empiétera",
+      "nous": "empiéterons",
+      "vous": "empiéterez",
+      "ils": "empiéteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai empiété",
+      "tu": "auras empiété",
+      "il": "aura empiété",
+      "nous": "aurons empiété",
+      "vous": "aurez empiété",
+      "ils": "auront empiété"
+    },
+    "subjonctif_présent": {
+      "je": "empiète",
+      "tu": "empiètes",
+      "il": "empiète",
+      "nous": "empiétions",
+      "vous": "empiétiez",
+      "ils": "empiètent"
+    },
+    "subjonctif_passé": {
+      "je": "aie empiété",
+      "tu": "aies empiété",
+      "il": "ait empiété",
+      "nous": "ayons empiété",
+      "vous": "ayez empiété",
+      "ils": "aient empiété"
+    },
+    "subjonctif_imparfait": {
+      "je": "empiétasse",
+      "tu": "empiétasses",
+      "il": "empiétât",
+      "nous": "empiétassions",
+      "vous": "empiétassiez",
+      "ils": "empiétassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse empiété",
+      "tu": "eusses empiété",
+      "il": "eût empiété",
+      "nous": "eussions empiété",
+      "vous": "eussiez empiété",
+      "ils": "eussent empiété"
+    },
+    "conditionnel_présent": {
+      "je": "empiéterais",
+      "tu": "empiéterais",
+      "il": "empiéterait",
+      "nous": "empiéterions",
+      "vous": "empiéteriez",
+      "ils": "empiéteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais empiété",
+      "tu": "aurais empiété",
+      "il": "aurait empiété",
+      "nous": "aurions empiété",
+      "vous": "auriez empiété",
+      "ils": "auraient empiété"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse empiété",
+      "tu": "eusses empiété",
+      "il": "eût empiété",
+      "nous": "eussions empiété",
+      "vous": "eussiez empiété",
+      "ils": "eussent empiété"
+    },
+    "translation": "zachodzić",
+    "group": 1
+  },
+  {
+    "infinitive": "empirer",
+    "présent": {
+      "je": "empire",
+      "tu": "empires",
+      "il": "empire",
+      "nous": "empirons",
+      "vous": "empirez",
+      "ils": "empirent"
+    },
+    "passé_composé": {
+      "je": "ai empiré",
+      "tu": "as empiré",
+      "il": "a empiré",
+      "nous": "avons empiré",
+      "vous": "avez empiré",
+      "ils": "ont empiré"
+    },
+    "imparfait": {
+      "je": "empirais",
+      "tu": "empirais",
+      "il": "empirait",
+      "nous": "empirions",
+      "vous": "empiriez",
+      "ils": "empiraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais empiré",
+      "tu": "avais empiré",
+      "il": "avait empiré",
+      "nous": "avions empiré",
+      "vous": "aviez empiré",
+      "ils": "avaient empiré"
+    },
+    "passé_simple": {
+      "je": "empirai",
+      "tu": "empiras",
+      "il": "empira",
+      "nous": "empirâmes",
+      "vous": "empirâtes",
+      "ils": "empirèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus empiré",
+      "tu": "eus empiré",
+      "il": "eut empiré",
+      "nous": "eûmes empiré",
+      "vous": "eûtes empiré",
+      "ils": "eurent empiré"
+    },
+    "futur_simple": {
+      "je": "empirerai",
+      "tu": "empireras",
+      "il": "empirera",
+      "nous": "empirerons",
+      "vous": "empirerez",
+      "ils": "empireront"
+    },
+    "futur_antérieur": {
+      "je": "aurai empiré",
+      "tu": "auras empiré",
+      "il": "aura empiré",
+      "nous": "aurons empiré",
+      "vous": "aurez empiré",
+      "ils": "auront empiré"
+    },
+    "subjonctif_présent": {
+      "je": "empire",
+      "tu": "empires",
+      "il": "empire",
+      "nous": "empirions",
+      "vous": "empiriez",
+      "ils": "empirent"
+    },
+    "subjonctif_passé": {
+      "je": "aie empiré",
+      "tu": "aies empiré",
+      "il": "ait empiré",
+      "nous": "ayons empiré",
+      "vous": "ayez empiré",
+      "ils": "aient empiré"
+    },
+    "subjonctif_imparfait": {
+      "je": "empirasse",
+      "tu": "empirasses",
+      "il": "empirât",
+      "nous": "empirassions",
+      "vous": "empirassiez",
+      "ils": "empirassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse empiré",
+      "tu": "eusses empiré",
+      "il": "eût empiré",
+      "nous": "eussions empiré",
+      "vous": "eussiez empiré",
+      "ils": "eussent empiré"
+    },
+    "conditionnel_présent": {
+      "je": "empirerais",
+      "tu": "empirerais",
+      "il": "empirerait",
+      "nous": "empirerions",
+      "vous": "empireriez",
+      "ils": "empireraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais empiré",
+      "tu": "aurais empiré",
+      "il": "aurait empiré",
+      "nous": "aurions empiré",
+      "vous": "auriez empiré",
+      "ils": "auraient empiré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse empiré",
+      "tu": "eusses empiré",
+      "il": "eût empiré",
+      "nous": "eussions empiré",
+      "vous": "eussiez empiré",
+      "ils": "eussent empiré"
+    },
+    "translation": "pogarszać",
+    "group": 1
+  },
+  {
+    "infinitive": "emplir",
+    "présent": {
+      "je": "emplis",
+      "tu": "emplis",
+      "il": "emplit",
+      "nous": "emplissons",
+      "vous": "emplissez",
+      "ils": "emplissent"
+    },
+    "passé_composé": {
+      "je": "ai empli",
+      "tu": "as empli",
+      "il": "a empli",
+      "nous": "avons empli",
+      "vous": "avez empli",
+      "ils": "ont empli"
+    },
+    "imparfait": {
+      "je": "emplissais",
+      "tu": "emplissais",
+      "il": "emplissait",
+      "nous": "emplissions",
+      "vous": "emplissiez",
+      "ils": "emplissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais empli",
+      "tu": "avais empli",
+      "il": "avait empli",
+      "nous": "avions empli",
+      "vous": "aviez empli",
+      "ils": "avaient empli"
+    },
+    "passé_simple": {
+      "je": "emplis",
+      "tu": "emplis",
+      "il": "emplit",
+      "nous": "emplîmes",
+      "vous": "emplîtes",
+      "ils": "emplirent"
+    },
+    "passé_antérieur": {
+      "je": "eus empli",
+      "tu": "eus empli",
+      "il": "eut empli",
+      "nous": "eûmes empli",
+      "vous": "eûtes empli",
+      "ils": "eurent empli"
+    },
+    "futur_simple": {
+      "je": "emplirai",
+      "tu": "empliras",
+      "il": "emplira",
+      "nous": "emplirons",
+      "vous": "emplirez",
+      "ils": "empliront"
+    },
+    "futur_antérieur": {
+      "je": "aurai empli",
+      "tu": "auras empli",
+      "il": "aura empli",
+      "nous": "aurons empli",
+      "vous": "aurez empli",
+      "ils": "auront empli"
+    },
+    "subjonctif_présent": {
+      "je": "emplisse",
+      "tu": "emplisses",
+      "il": "emplisse",
+      "nous": "emplissions",
+      "vous": "emplissiez",
+      "ils": "emplissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie empli",
+      "tu": "aies empli",
+      "il": "ait empli",
+      "nous": "ayons empli",
+      "vous": "ayez empli",
+      "ils": "aient empli"
+    },
+    "subjonctif_imparfait": {
+      "je": "emplisse",
+      "tu": "emplisses",
+      "il": "emplît",
+      "nous": "emplissions",
+      "vous": "emplissiez",
+      "ils": "emplissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse empli",
+      "tu": "eusses empli",
+      "il": "eût empli",
+      "nous": "eussions empli",
+      "vous": "eussiez empli",
+      "ils": "eussent empli"
+    },
+    "conditionnel_présent": {
+      "je": "emplirais",
+      "tu": "emplirais",
+      "il": "emplirait",
+      "nous": "emplirions",
+      "vous": "empliriez",
+      "ils": "empliraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais empli",
+      "tu": "aurais empli",
+      "il": "aurait empli",
+      "nous": "aurions empli",
+      "vous": "auriez empli",
+      "ils": "auraient empli"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse empli",
+      "tu": "eusses empli",
+      "il": "eût empli",
+      "nous": "eussions empli",
+      "vous": "eussiez empli",
+      "ils": "eussent empli"
+    },
+    "translation": "wypełniać",
+    "group": 2
+  },
+  {
+    "infinitive": "employer",
+    "présent": {
+      "je": "emploie",
+      "tu": "emploies",
+      "il": "emploie",
+      "nous": "employons",
+      "vous": "employez",
+      "ils": "emploient"
+    },
+    "passé_composé": {
+      "je": "ai employé",
+      "tu": "as employé",
+      "il": "a employé",
+      "nous": "avons employé",
+      "vous": "avez employé",
+      "ils": "ont employé"
+    },
+    "imparfait": {
+      "je": "employais",
+      "tu": "employais",
+      "il": "employait",
+      "nous": "employions",
+      "vous": "employiez",
+      "ils": "employaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais employé",
+      "tu": "avais employé",
+      "il": "avait employé",
+      "nous": "avions employé",
+      "vous": "aviez employé",
+      "ils": "avaient employé"
+    },
+    "passé_simple": {
+      "je": "employai",
+      "tu": "employas",
+      "il": "employa",
+      "nous": "employâmes",
+      "vous": "employâtes",
+      "ils": "employèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus employé",
+      "tu": "eus employé",
+      "il": "eut employé",
+      "nous": "eûmes employé",
+      "vous": "eûtes employé",
+      "ils": "eurent employé"
+    },
+    "futur_simple": {
+      "je": "emploierai",
+      "tu": "emploieras",
+      "il": "emploiera",
+      "nous": "emploierons",
+      "vous": "emploierez",
+      "ils": "emploieront"
+    },
+    "futur_antérieur": {
+      "je": "aurai employé",
+      "tu": "auras employé",
+      "il": "aura employé",
+      "nous": "aurons employé",
+      "vous": "aurez employé",
+      "ils": "auront employé"
+    },
+    "subjonctif_présent": {
+      "je": "emploie",
+      "tu": "emploies",
+      "il": "emploie",
+      "nous": "employions",
+      "vous": "employiez",
+      "ils": "emploient"
+    },
+    "subjonctif_passé": {
+      "je": "aie employé",
+      "tu": "aies employé",
+      "il": "ait employé",
+      "nous": "ayons employé",
+      "vous": "ayez employé",
+      "ils": "aient employé"
+    },
+    "subjonctif_imparfait": {
+      "je": "employasse",
+      "tu": "employasses",
+      "il": "employât",
+      "nous": "employassions",
+      "vous": "employassiez",
+      "ils": "employassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse employé",
+      "tu": "eusses employé",
+      "il": "eût employé",
+      "nous": "eussions employé",
+      "vous": "eussiez employé",
+      "ils": "eussent employé"
+    },
+    "conditionnel_présent": {
+      "je": "emploierais",
+      "tu": "emploierais",
+      "il": "emploierait",
+      "nous": "emploierions",
+      "vous": "emploieriez",
+      "ils": "emploieraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais employé",
+      "tu": "aurais employé",
+      "il": "aurait employé",
+      "nous": "aurions employé",
+      "vous": "auriez employé",
+      "ils": "auraient employé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse employé",
+      "tu": "eusses employé",
+      "il": "eût employé",
+      "nous": "eussions employé",
+      "vous": "eussiez employé",
+      "ils": "eussent employé"
+    },
+    "translation": "zatrudniać",
+    "group": 1
+  },
+  {
+    "infinitive": "emporter",
+    "présent": {
+      "je": "emporte",
+      "tu": "emportes",
+      "il": "emporte",
+      "nous": "emportons",
+      "vous": "emportez",
+      "ils": "emportent"
+    },
+    "passé_composé": {
+      "je": "ai emporté",
+      "tu": "as emporté",
+      "il": "a emporté",
+      "nous": "avons emporté",
+      "vous": "avez emporté",
+      "ils": "ont emporté"
+    },
+    "imparfait": {
+      "je": "emportais",
+      "tu": "emportais",
+      "il": "emportait",
+      "nous": "emportions",
+      "vous": "emportiez",
+      "ils": "emportaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais emporté",
+      "tu": "avais emporté",
+      "il": "avait emporté",
+      "nous": "avions emporté",
+      "vous": "aviez emporté",
+      "ils": "avaient emporté"
+    },
+    "passé_simple": {
+      "je": "emportai",
+      "tu": "emportas",
+      "il": "emporta",
+      "nous": "emportâmes",
+      "vous": "emportâtes",
+      "ils": "emportèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus emporté",
+      "tu": "eus emporté",
+      "il": "eut emporté",
+      "nous": "eûmes emporté",
+      "vous": "eûtes emporté",
+      "ils": "eurent emporté"
+    },
+    "futur_simple": {
+      "je": "emporterai",
+      "tu": "emporteras",
+      "il": "emportera",
+      "nous": "emporterons",
+      "vous": "emporterez",
+      "ils": "emporteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai emporté",
+      "tu": "auras emporté",
+      "il": "aura emporté",
+      "nous": "aurons emporté",
+      "vous": "aurez emporté",
+      "ils": "auront emporté"
+    },
+    "subjonctif_présent": {
+      "je": "emporte",
+      "tu": "emportes",
+      "il": "emporte",
+      "nous": "emportions",
+      "vous": "emportiez",
+      "ils": "emportent"
+    },
+    "subjonctif_passé": {
+      "je": "aie emporté",
+      "tu": "aies emporté",
+      "il": "ait emporté",
+      "nous": "ayons emporté",
+      "vous": "ayez emporté",
+      "ils": "aient emporté"
+    },
+    "subjonctif_imparfait": {
+      "je": "emportasse",
+      "tu": "emportasses",
+      "il": "emportât",
+      "nous": "emportassions",
+      "vous": "emportassiez",
+      "ils": "emportassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse emporté",
+      "tu": "eusses emporté",
+      "il": "eût emporté",
+      "nous": "eussions emporté",
+      "vous": "eussiez emporté",
+      "ils": "eussent emporté"
+    },
+    "conditionnel_présent": {
+      "je": "emporterais",
+      "tu": "emporterais",
+      "il": "emporterait",
+      "nous": "emporterions",
+      "vous": "emporteriez",
+      "ils": "emporteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais emporté",
+      "tu": "aurais emporté",
+      "il": "aurait emporté",
+      "nous": "aurions emporté",
+      "vous": "auriez emporté",
+      "ils": "auraient emporté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse emporté",
+      "tu": "eusses emporté",
+      "il": "eût emporté",
+      "nous": "eussions emporté",
+      "vous": "eussiez emporté",
+      "ils": "eussent emporté"
+    },
+    "translation": "zabierać",
+    "group": 1
+  },
+  {
+    "infinitive": "empreindre",
+    "présent": {
+      "je": "empreins",
+      "tu": "empreins",
+      "il": "empreint",
+      "nous": "empreignons",
+      "vous": "empreignez",
+      "ils": "empreignent"
+    },
+    "passé_composé": {
+      "je": "ai empreint",
+      "tu": "as empreint",
+      "il": "a empreint",
+      "nous": "avons empreint",
+      "vous": "avez empreint",
+      "ils": "ont empreint"
+    },
+    "imparfait": {
+      "je": "empreignais",
+      "tu": "empreignais",
+      "il": "empreignait",
+      "nous": "empreignions",
+      "vous": "empreigniez",
+      "ils": "empreignaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais empreint",
+      "tu": "avais empreint",
+      "il": "avait empreint",
+      "nous": "avions empreint",
+      "vous": "aviez empreint",
+      "ils": "avaient empreint"
+    },
+    "passé_simple": {
+      "je": "empreignis",
+      "tu": "empreignis",
+      "il": "empreignit",
+      "nous": "empreignîmes",
+      "vous": "empreignîtes",
+      "ils": "empreignirent"
+    },
+    "passé_antérieur": {
+      "je": "eus empreint",
+      "tu": "eus empreint",
+      "il": "eut empreint",
+      "nous": "eûmes empreint",
+      "vous": "eûtes empreint",
+      "ils": "eurent empreint"
+    },
+    "futur_simple": {
+      "je": "empreindrai",
+      "tu": "empreindras",
+      "il": "empreindra",
+      "nous": "empreindrons",
+      "vous": "empreindrez",
+      "ils": "empreindront"
+    },
+    "futur_antérieur": {
+      "je": "aurai empreint",
+      "tu": "auras empreint",
+      "il": "aura empreint",
+      "nous": "aurons empreint",
+      "vous": "aurez empreint",
+      "ils": "auront empreint"
+    },
+    "subjonctif_présent": {
+      "je": "empreigne",
+      "tu": "empreignes",
+      "il": "empreigne",
+      "nous": "empreignions",
+      "vous": "empreigniez",
+      "ils": "empreignent"
+    },
+    "subjonctif_passé": {
+      "je": "aie empreint",
+      "tu": "aies empreint",
+      "il": "ait empreint",
+      "nous": "ayons empreint",
+      "vous": "ayez empreint",
+      "ils": "aient empreint"
+    },
+    "subjonctif_imparfait": {
+      "je": "empreignisse",
+      "tu": "empreignisses",
+      "il": "empreignît",
+      "nous": "empreignissions",
+      "vous": "empreignissiez",
+      "ils": "empreignissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse empreint",
+      "tu": "eusses empreint",
+      "il": "eût empreint",
+      "nous": "eussions empreint",
+      "vous": "eussiez empreint",
+      "ils": "eussent empreint"
+    },
+    "conditionnel_présent": {
+      "je": "empreindrais",
+      "tu": "empreindrais",
+      "il": "empreindrait",
+      "nous": "empreindrions",
+      "vous": "empreindriez",
+      "ils": "empreindraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais empreint",
+      "tu": "aurais empreint",
+      "il": "aurait empreint",
+      "nous": "aurions empreint",
+      "vous": "auriez empreint",
+      "ils": "auraient empreint"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse empreint",
+      "tu": "eusses empreint",
+      "il": "eût empreint",
+      "nous": "eussions empreint",
+      "vous": "eussiez empreint",
+      "ils": "eussent empreint"
+    },
+    "translation": "ślad",
+    "group": 3
+  },
+  {
+    "infinitive": "empresser",
+    "présent": {
+      "je": "empresse",
+      "tu": "empresses",
+      "il": "empresse",
+      "nous": "nous empressons",
+      "vous": "vous empressez",
+      "ils": "empressent"
+    },
+    "passé_composé": {
+      "je": "me suis empressé",
+      "tu": "es empressé",
+      "il": "est empressé",
+      "nous": "nous sommes empressés",
+      "vous": "vous êtes empressés",
+      "ils": "se sont empressés"
+    },
+    "imparfait": {
+      "je": "empressais",
+      "tu": "empressais",
+      "il": "empressait",
+      "nous": "nous empressions",
+      "vous": "vous empressiez",
+      "ils": "empressaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais empressé",
+      "tu": "étais empressé",
+      "il": "était empressé",
+      "nous": "nous étions empressés",
+      "vous": "vous étiez empressés",
+      "ils": "étaient empressés"
+    },
+    "passé_simple": {
+      "je": "empressai",
+      "tu": "empressas",
+      "il": "empressa",
+      "nous": "nous empressâmes",
+      "vous": "vous empressâtes",
+      "ils": "empressèrent"
+    },
+    "passé_antérieur": {
+      "je": "me fus empressé",
+      "tu": "te fus empressé",
+      "il": "se fut empressé",
+      "nous": "nous fûmes empressés",
+      "vous": "vous fûtes empressés",
+      "ils": "se furent empressés"
+    },
+    "futur_simple": {
+      "je": "empresserai",
+      "tu": "empresseras",
+      "il": "empressera",
+      "nous": "nous empresserons",
+      "vous": "vous empresserez",
+      "ils": "empresseront"
+    },
+    "futur_antérieur": {
+      "je": "me serai empressé",
+      "tu": "te seras empressé",
+      "il": "se sera empressé",
+      "nous": "nous serons empressés",
+      "vous": "vous serez empressés",
+      "ils": "se seront empressés"
+    },
+    "subjonctif_présent": {
+      "je": "empresse",
+      "tu": "empresses",
+      "il": "empresse",
+      "nous": "nous empressions",
+      "vous": "vous empressiez",
+      "ils": "empressent"
+    },
+    "subjonctif_passé": {
+      "je": "me sois empressé",
+      "tu": "te sois empressé",
+      "il": "se soit empressé",
+      "nous": "nous soyons empressés",
+      "vous": "vous soyez empressés",
+      "ils": "se soient empressés"
+    },
+    "subjonctif_imparfait": {
+      "je": "empressasse",
+      "tu": "empressasses",
+      "il": "empressât",
+      "nous": "nous empressassions",
+      "vous": "vous empressassiez",
+      "ils": "empressassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse empressé",
+      "tu": "te fusses empressé",
+      "il": "se fût empressé",
+      "nous": "nous fussions empressés",
+      "vous": "vous fussiez empressés",
+      "ils": "se fussent empressés"
+    },
+    "conditionnel_présent": {
+      "je": "empresserais",
+      "tu": "empresserais",
+      "il": "empresserait",
+      "nous": "nous empresserions",
+      "vous": "vous empresseriez",
+      "ils": "empresseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais empressé",
+      "tu": "te serais empressé",
+      "il": "se serait empressé",
+      "nous": "nous serions empressés",
+      "vous": "vous seriez empressés",
+      "ils": "se seraient empressés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse empressé",
+      "tu": "te fusses empressé",
+      "il": "se fût empressé",
+      "nous": "nous fussions empressés",
+      "vous": "vous fussiez empressés",
+      "ils": "se fussent empressés"
+    },
+    "translation": "spieszyć",
+    "group": 1
+  }
+]

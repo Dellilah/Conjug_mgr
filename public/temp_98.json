@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "foncer",
+    "présent": {
+      "je": "fonce",
+      "tu": "fonces",
+      "il": "fonce",
+      "nous": "fonçons",
+      "vous": "foncez",
+      "ils": "foncent"
+    },
+    "passé_composé": {
+      "je": "ai foncé",
+      "tu": "as foncé",
+      "il": "a foncé",
+      "nous": "avons foncé",
+      "vous": "avez foncé",
+      "ils": "ont foncé"
+    },
+    "imparfait": {
+      "je": "fonçais",
+      "tu": "fonçais",
+      "il": "fonçait",
+      "nous": "foncions",
+      "vous": "fonciez",
+      "ils": "fonçaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais foncé",
+      "tu": "avais foncé",
+      "il": "avait foncé",
+      "nous": "avions foncé",
+      "vous": "aviez foncé",
+      "ils": "avaient foncé"
+    },
+    "passé_simple": {
+      "je": "fonçai",
+      "tu": "fonças",
+      "il": "fonça",
+      "nous": "fonçâmes",
+      "vous": "fonçâtes",
+      "ils": "foncèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus foncé",
+      "tu": "eus foncé",
+      "il": "eut foncé",
+      "nous": "eûmes foncé",
+      "vous": "eûtes foncé",
+      "ils": "eurent foncé"
+    },
+    "futur_simple": {
+      "je": "foncerai",
+      "tu": "fonceras",
+      "il": "foncera",
+      "nous": "foncerons",
+      "vous": "foncerez",
+      "ils": "fonceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai foncé",
+      "tu": "auras foncé",
+      "il": "aura foncé",
+      "nous": "aurons foncé",
+      "vous": "aurez foncé",
+      "ils": "auront foncé"
+    },
+    "subjonctif_présent": {
+      "je": "fonce",
+      "tu": "fonces",
+      "il": "fonce",
+      "nous": "foncions",
+      "vous": "fonciez",
+      "ils": "foncent"
+    },
+    "subjonctif_passé": {
+      "je": "aie foncé",
+      "tu": "aies foncé",
+      "il": "ait foncé",
+      "nous": "ayons foncé",
+      "vous": "ayez foncé",
+      "ils": "aient foncé"
+    },
+    "subjonctif_imparfait": {
+      "je": "fonçasse",
+      "tu": "fonçasses",
+      "il": "fonçât",
+      "nous": "fonçassions",
+      "vous": "fonçassiez",
+      "ils": "fonçassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse foncé",
+      "tu": "eusses foncé",
+      "il": "eût foncé",
+      "nous": "eussions foncé",
+      "vous": "eussiez foncé",
+      "ils": "eussent foncé"
+    },
+    "conditionnel_présent": {
+      "je": "foncerais",
+      "tu": "foncerais",
+      "il": "foncerait",
+      "nous": "foncerions",
+      "vous": "fonceriez",
+      "ils": "fonceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais foncé",
+      "tu": "aurais foncé",
+      "il": "aurait foncé",
+      "nous": "aurions foncé",
+      "vous": "auriez foncé",
+      "ils": "auraient foncé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse foncé",
+      "tu": "eusses foncé",
+      "il": "eût foncé",
+      "nous": "eussions foncé",
+      "vous": "eussiez foncé",
+      "ils": "eussent foncé"
+    },
+    "translation": "przyciemniać",
+    "group": 1
+  },
+  {
+    "infinitive": "fonctionner",
+    "présent": {
+      "je": "fonctionne",
+      "tu": "fonctionnes",
+      "il": "fonctionne",
+      "nous": "fonctionnons",
+      "vous": "fonctionnez",
+      "ils": "fonctionnent"
+    },
+    "passé_composé": {
+      "je": "ai fonctionné",
+      "tu": "as fonctionné",
+      "il": "a fonctionné",
+      "nous": "avons fonctionné",
+      "vous": "avez fonctionné",
+      "ils": "ont fonctionné"
+    },
+    "imparfait": {
+      "je": "fonctionnais",
+      "tu": "fonctionnais",
+      "il": "fonctionnait",
+      "nous": "fonctionnions",
+      "vous": "fonctionniez",
+      "ils": "fonctionnaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais fonctionné",
+      "tu": "avais fonctionné",
+      "il": "avait fonctionné",
+      "nous": "avions fonctionné",
+      "vous": "aviez fonctionné",
+      "ils": "avaient fonctionné"
+    },
+    "passé_simple": {
+      "je": "fonctionnai",
+      "tu": "fonctionnas",
+      "il": "fonctionna",
+      "nous": "fonctionnâmes",
+      "vous": "fonctionnâtes",
+      "ils": "fonctionnèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus fonctionné",
+      "tu": "eus fonctionné",
+      "il": "eut fonctionné",
+      "nous": "eûmes fonctionné",
+      "vous": "eûtes fonctionné",
+      "ils": "eurent fonctionné"
+    },
+    "futur_simple": {
+      "je": "fonctionnerai",
+      "tu": "fonctionneras",
+      "il": "fonctionnera",
+      "nous": "fonctionnerons",
+      "vous": "fonctionnerez",
+      "ils": "fonctionneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai fonctionné",
+      "tu": "auras fonctionné",
+      "il": "aura fonctionné",
+      "nous": "aurons fonctionné",
+      "vous": "aurez fonctionné",
+      "ils": "auront fonctionné"
+    },
+    "subjonctif_présent": {
+      "je": "fonctionne",
+      "tu": "fonctionnes",
+      "il": "fonctionne",
+      "nous": "fonctionnions",
+      "vous": "fonctionniez",
+      "ils": "fonctionnent"
+    },
+    "subjonctif_passé": {
+      "je": "aie fonctionné",
+      "tu": "aies fonctionné",
+      "il": "ait fonctionné",
+      "nous": "ayons fonctionné",
+      "vous": "ayez fonctionné",
+      "ils": "aient fonctionné"
+    },
+    "subjonctif_imparfait": {
+      "je": "fonctionnasse",
+      "tu": "fonctionnasses",
+      "il": "fonctionnât",
+      "nous": "fonctionnassions",
+      "vous": "fonctionnassiez",
+      "ils": "fonctionnassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse fonctionné",
+      "tu": "eusses fonctionné",
+      "il": "eût fonctionné",
+      "nous": "eussions fonctionné",
+      "vous": "eussiez fonctionné",
+      "ils": "eussent fonctionné"
+    },
+    "conditionnel_présent": {
+      "je": "fonctionnerais",
+      "tu": "fonctionnerais",
+      "il": "fonctionnerait",
+      "nous": "fonctionnerions",
+      "vous": "fonctionneriez",
+      "ils": "fonctionneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais fonctionné",
+      "tu": "aurais fonctionné",
+      "il": "aurait fonctionné",
+      "nous": "aurions fonctionné",
+      "vous": "auriez fonctionné",
+      "ils": "auraient fonctionné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse fonctionné",
+      "tu": "eusses fonctionné",
+      "il": "eût fonctionné",
+      "nous": "eussions fonctionné",
+      "vous": "eussiez fonctionné",
+      "ils": "eussent fonctionné"
+    },
+    "translation": "działać",
+    "group": 1
+  },
+  {
+    "infinitive": "fonder",
+    "présent": {
+      "je": "fonde",
+      "tu": "fondes",
+      "il": "fonde",
+      "nous": "fondons",
+      "vous": "fondez",
+      "ils": "fondent"
+    },
+    "passé_composé": {
+      "je": "ai fondé",
+      "tu": "as fondé",
+      "il": "a fondé",
+      "nous": "avons fondé",
+      "vous": "avez fondé",
+      "ils": "ont fondé"
+    },
+    "imparfait": {
+      "je": "fondais",
+      "tu": "fondais",
+      "il": "fondait",
+      "nous": "fondions",
+      "vous": "fondiez",
+      "ils": "fondaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais fondé",
+      "tu": "avais fondé",
+      "il": "avait fondé",
+      "nous": "avions fondé",
+      "vous": "aviez fondé",
+      "ils": "avaient fondé"
+    },
+    "passé_simple": {
+      "je": "fondai",
+      "tu": "fondas",
+      "il": "fonda",
+      "nous": "fondâmes",
+      "vous": "fondâtes",
+      "ils": "fondèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus fondé",
+      "tu": "eus fondé",
+      "il": "eut fondé",
+      "nous": "eûmes fondé",
+      "vous": "eûtes fondé",
+      "ils": "eurent fondé"
+    },
+    "futur_simple": {
+      "je": "fonderai",
+      "tu": "fonderas",
+      "il": "fondera",
+      "nous": "fonderons",
+      "vous": "fonderez",
+      "ils": "fonderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai fondé",
+      "tu": "auras fondé",
+      "il": "aura fondé",
+      "nous": "aurons fondé",
+      "vous": "aurez fondé",
+      "ils": "auront fondé"
+    },
+    "subjonctif_présent": {
+      "je": "fonde",
+      "tu": "fondes",
+      "il": "fonde",
+      "nous": "fondions",
+      "vous": "fondiez",
+      "ils": "fondent"
+    },
+    "subjonctif_passé": {
+      "je": "aie fondé",
+      "tu": "aies fondé",
+      "il": "ait fondé",
+      "nous": "ayons fondé",
+      "vous": "ayez fondé",
+      "ils": "aient fondé"
+    },
+    "subjonctif_imparfait": {
+      "je": "fondasse",
+      "tu": "fondasses",
+      "il": "fondât",
+      "nous": "fondassions",
+      "vous": "fondassiez",
+      "ils": "fondassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse fondé",
+      "tu": "eusses fondé",
+      "il": "eût fondé",
+      "nous": "eussions fondé",
+      "vous": "eussiez fondé",
+      "ils": "eussent fondé"
+    },
+    "conditionnel_présent": {
+      "je": "fonderais",
+      "tu": "fonderais",
+      "il": "fonderait",
+      "nous": "fonderions",
+      "vous": "fonderiez",
+      "ils": "fonderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais fondé",
+      "tu": "aurais fondé",
+      "il": "aurait fondé",
+      "nous": "aurions fondé",
+      "vous": "auriez fondé",
+      "ils": "auraient fondé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse fondé",
+      "tu": "eusses fondé",
+      "il": "eût fondé",
+      "nous": "eussions fondé",
+      "vous": "eussiez fondé",
+      "ils": "eussent fondé"
+    },
+    "translation": "fundować",
+    "group": 1
+  },
+  {
+    "infinitive": "fondre",
+    "présent": {
+      "je": "fonds",
+      "tu": "fonds",
+      "il": "fond",
+      "nous": "fondons",
+      "vous": "fondez",
+      "ils": "fondent"
+    },
+    "passé_composé": {
+      "je": "ai fondu",
+      "tu": "as fondu",
+      "il": "a fondu",
+      "nous": "avons fondu",
+      "vous": "avez fondu",
+      "ils": "ont fondu"
+    },
+    "imparfait": {
+      "je": "fondais",
+      "tu": "fondais",
+      "il": "fondait",
+      "nous": "fondions",
+      "vous": "fondiez",
+      "ils": "fondaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais fondu",
+      "tu": "avais fondu",
+      "il": "avait fondu",
+      "nous": "avions fondu",
+      "vous": "aviez fondu",
+      "ils": "avaient fondu"
+    },
+    "passé_simple": {
+      "je": "fondis",
+      "tu": "fondis",
+      "il": "fondit",
+      "nous": "fondîmes",
+      "vous": "fondîtes",
+      "ils": "fondirent"
+    },
+    "passé_antérieur": {
+      "je": "eus fondu",
+      "tu": "eus fondu",
+      "il": "eut fondu",
+      "nous": "eûmes fondu",
+      "vous": "eûtes fondu",
+      "ils": "eurent fondu"
+    },
+    "futur_simple": {
+      "je": "fondrai",
+      "tu": "fondras",
+      "il": "fondra",
+      "nous": "fondrons",
+      "vous": "fondrez",
+      "ils": "fondront"
+    },
+    "futur_antérieur": {
+      "je": "aurai fondu",
+      "tu": "auras fondu",
+      "il": "aura fondu",
+      "nous": "aurons fondu",
+      "vous": "aurez fondu",
+      "ils": "auront fondu"
+    },
+    "subjonctif_présent": {
+      "je": "fonde",
+      "tu": "fondes",
+      "il": "fonde",
+      "nous": "fondions",
+      "vous": "fondiez",
+      "ils": "fondent"
+    },
+    "subjonctif_passé": {
+      "je": "aie fondu",
+      "tu": "aies fondu",
+      "il": "ait fondu",
+      "nous": "ayons fondu",
+      "vous": "ayez fondu",
+      "ils": "aient fondu"
+    },
+    "subjonctif_imparfait": {
+      "je": "fondisse",
+      "tu": "fondisses",
+      "il": "fondît",
+      "nous": "fondissions",
+      "vous": "fondissiez",
+      "ils": "fondissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse fondu",
+      "tu": "eusses fondu",
+      "il": "eût fondu",
+      "nous": "eussions fondu",
+      "vous": "eussiez fondu",
+      "ils": "eussent fondu"
+    },
+    "conditionnel_présent": {
+      "je": "fondrais",
+      "tu": "fondrais",
+      "il": "fondrait",
+      "nous": "fondrions",
+      "vous": "fondriez",
+      "ils": "fondraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais fondu",
+      "tu": "aurais fondu",
+      "il": "aurait fondu",
+      "nous": "aurions fondu",
+      "vous": "auriez fondu",
+      "ils": "auraient fondu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse fondu",
+      "tu": "eusses fondu",
+      "il": "eût fondu",
+      "nous": "eussions fondu",
+      "vous": "eussiez fondu",
+      "ils": "eussent fondu"
+    },
+    "translation": "topić",
+    "group": 3
+  },
+  {
+    "infinitive": "forcer",
+    "présent": {
+      "je": "force",
+      "tu": "forces",
+      "il": "force",
+      "nous": "forçons",
+      "vous": "forcez",
+      "ils": "forcent"
+    },
+    "passé_composé": {
+      "je": "ai forcé",
+      "tu": "as forcé",
+      "il": "a forcé",
+      "nous": "avons forcé",
+      "vous": "avez forcé",
+      "ils": "ont forcé"
+    },
+    "imparfait": {
+      "je": "forçais",
+      "tu": "forçais",
+      "il": "forçait",
+      "nous": "forcions",
+      "vous": "forciez",
+      "ils": "forçaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais forcé",
+      "tu": "avais forcé",
+      "il": "avait forcé",
+      "nous": "avions forcé",
+      "vous": "aviez forcé",
+      "ils": "avaient forcé"
+    },
+    "passé_simple": {
+      "je": "forçai",
+      "tu": "forças",
+      "il": "força",
+      "nous": "forçâmes",
+      "vous": "forçâtes",
+      "ils": "forcèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus forcé",
+      "tu": "eus forcé",
+      "il": "eut forcé",
+      "nous": "eûmes forcé",
+      "vous": "eûtes forcé",
+      "ils": "eurent forcé"
+    },
+    "futur_simple": {
+      "je": "forcerai",
+      "tu": "forceras",
+      "il": "forcera",
+      "nous": "forcerons",
+      "vous": "forcerez",
+      "ils": "forceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai forcé",
+      "tu": "auras forcé",
+      "il": "aura forcé",
+      "nous": "aurons forcé",
+      "vous": "aurez forcé",
+      "ils": "auront forcé"
+    },
+    "subjonctif_présent": {
+      "je": "force",
+      "tu": "forces",
+      "il": "force",
+      "nous": "forcions",
+      "vous": "forciez",
+      "ils": "forcent"
+    },
+    "subjonctif_passé": {
+      "je": "aie forcé",
+      "tu": "aies forcé",
+      "il": "ait forcé",
+      "nous": "ayons forcé",
+      "vous": "ayez forcé",
+      "ils": "aient forcé"
+    },
+    "subjonctif_imparfait": {
+      "je": "forçasse",
+      "tu": "forçasses",
+      "il": "forçât",
+      "nous": "forçassions",
+      "vous": "forçassiez",
+      "ils": "forçassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse forcé",
+      "tu": "eusses forcé",
+      "il": "eût forcé",
+      "nous": "eussions forcé",
+      "vous": "eussiez forcé",
+      "ils": "eussent forcé"
+    },
+    "conditionnel_présent": {
+      "je": "forcerais",
+      "tu": "forcerais",
+      "il": "forcerait",
+      "nous": "forcerions",
+      "vous": "forceriez",
+      "ils": "forceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais forcé",
+      "tu": "aurais forcé",
+      "il": "aurait forcé",
+      "nous": "aurions forcé",
+      "vous": "auriez forcé",
+      "ils": "auraient forcé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse forcé",
+      "tu": "eusses forcé",
+      "il": "eût forcé",
+      "nous": "eussions forcé",
+      "vous": "eussiez forcé",
+      "ils": "eussent forcé"
+    },
+    "translation": "zmuszać",
+    "group": 1
+  },
+  {
+    "infinitive": "forer",
+    "présent": {
+      "je": "fore",
+      "tu": "fores",
+      "il": "fore",
+      "nous": "forons",
+      "vous": "forez",
+      "ils": "forent"
+    },
+    "passé_composé": {
+      "je": "ai foré",
+      "tu": "as foré",
+      "il": "a foré",
+      "nous": "avons foré",
+      "vous": "avez foré",
+      "ils": "ont foré"
+    },
+    "imparfait": {
+      "je": "forais",
+      "tu": "forais",
+      "il": "forait",
+      "nous": "forions",
+      "vous": "foriez",
+      "ils": "foraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais foré",
+      "tu": "avais foré",
+      "il": "avait foré",
+      "nous": "avions foré",
+      "vous": "aviez foré",
+      "ils": "avaient foré"
+    },
+    "passé_simple": {
+      "je": "forai",
+      "tu": "foras",
+      "il": "fora",
+      "nous": "forâmes",
+      "vous": "forâtes",
+      "ils": "forèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus foré",
+      "tu": "eus foré",
+      "il": "eut foré",
+      "nous": "eûmes foré",
+      "vous": "eûtes foré",
+      "ils": "eurent foré"
+    },
+    "futur_simple": {
+      "je": "forerai",
+      "tu": "foreras",
+      "il": "forera",
+      "nous": "forerons",
+      "vous": "forerez",
+      "ils": "foreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai foré",
+      "tu": "auras foré",
+      "il": "aura foré",
+      "nous": "aurons foré",
+      "vous": "aurez foré",
+      "ils": "auront foré"
+    },
+    "subjonctif_présent": {
+      "je": "fore",
+      "tu": "fores",
+      "il": "fore",
+      "nous": "forions",
+      "vous": "foriez",
+      "ils": "forent"
+    },
+    "subjonctif_passé": {
+      "je": "aie foré",
+      "tu": "aies foré",
+      "il": "ait foré",
+      "nous": "ayons foré",
+      "vous": "ayez foré",
+      "ils": "aient foré"
+    },
+    "subjonctif_imparfait": {
+      "je": "forasse",
+      "tu": "forasses",
+      "il": "forât",
+      "nous": "forassions",
+      "vous": "forassiez",
+      "ils": "forassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse foré",
+      "tu": "eusses foré",
+      "il": "eût foré",
+      "nous": "eussions foré",
+      "vous": "eussiez foré",
+      "ils": "eussent foré"
+    },
+    "conditionnel_présent": {
+      "je": "forerais",
+      "tu": "forerais",
+      "il": "forerait",
+      "nous": "forerions",
+      "vous": "foreriez",
+      "ils": "foreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais foré",
+      "tu": "aurais foré",
+      "il": "aurait foré",
+      "nous": "aurions foré",
+      "vous": "auriez foré",
+      "ils": "auraient foré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse foré",
+      "tu": "eusses foré",
+      "il": "eût foré",
+      "nous": "eussions foré",
+      "vous": "eussiez foré",
+      "ils": "eussent foré"
+    },
+    "translation": "wiercić",
+    "group": 1
+  },
+  {
+    "infinitive": "forger",
+    "présent": {
+      "je": "forge",
+      "tu": "forges",
+      "il": "forge",
+      "nous": "forgeons",
+      "vous": "forgez",
+      "ils": "forgent"
+    },
+    "passé_composé": {
+      "je": "ai forgé",
+      "tu": "as forgé",
+      "il": "a forgé",
+      "nous": "avons forgé",
+      "vous": "avez forgé",
+      "ils": "ont forgé"
+    },
+    "imparfait": {
+      "je": "forgeais",
+      "tu": "forgeais",
+      "il": "forgeait",
+      "nous": "forgions",
+      "vous": "forgiez",
+      "ils": "forgeaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais forgé",
+      "tu": "avais forgé",
+      "il": "avait forgé",
+      "nous": "avions forgé",
+      "vous": "aviez forgé",
+      "ils": "avaient forgé"
+    },
+    "passé_simple": {
+      "je": "forgeai",
+      "tu": "forgeas",
+      "il": "forgea",
+      "nous": "forgeâmes",
+      "vous": "forgeâtes",
+      "ils": "forgèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus forgé",
+      "tu": "eus forgé",
+      "il": "eut forgé",
+      "nous": "eûmes forgé",
+      "vous": "eûtes forgé",
+      "ils": "eurent forgé"
+    },
+    "futur_simple": {
+      "je": "forgerai",
+      "tu": "forgeras",
+      "il": "forgera",
+      "nous": "forgerons",
+      "vous": "forgerez",
+      "ils": "forgeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai forgé",
+      "tu": "auras forgé",
+      "il": "aura forgé",
+      "nous": "aurons forgé",
+      "vous": "aurez forgé",
+      "ils": "auront forgé"
+    },
+    "subjonctif_présent": {
+      "je": "forge",
+      "tu": "forges",
+      "il": "forge",
+      "nous": "forgions",
+      "vous": "forgiez",
+      "ils": "forgent"
+    },
+    "subjonctif_passé": {
+      "je": "aie forgé",
+      "tu": "aies forgé",
+      "il": "ait forgé",
+      "nous": "ayons forgé",
+      "vous": "ayez forgé",
+      "ils": "aient forgé"
+    },
+    "subjonctif_imparfait": {
+      "je": "forgeasse",
+      "tu": "forgeasses",
+      "il": "forgeât",
+      "nous": "forgeassions",
+      "vous": "forgeassiez",
+      "ils": "forgeassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse forgé",
+      "tu": "eusses forgé",
+      "il": "eût forgé",
+      "nous": "eussions forgé",
+      "vous": "eussiez forgé",
+      "ils": "eussent forgé"
+    },
+    "conditionnel_présent": {
+      "je": "forgerais",
+      "tu": "forgerais",
+      "il": "forgerait",
+      "nous": "forgerions",
+      "vous": "forgeriez",
+      "ils": "forgeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais forgé",
+      "tu": "aurais forgé",
+      "il": "aurait forgé",
+      "nous": "aurions forgé",
+      "vous": "auriez forgé",
+      "ils": "auraient forgé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse forgé",
+      "tu": "eusses forgé",
+      "il": "eût forgé",
+      "nous": "eussions forgé",
+      "vous": "eussiez forgé",
+      "ils": "eussent forgé"
+    },
+    "translation": "kuć",
+    "group": 1
+  },
+  {
+    "infinitive": "formater",
+    "présent": {
+      "je": "formate",
+      "tu": "formates",
+      "il": "formate",
+      "nous": "formatons",
+      "vous": "formatez",
+      "ils": "formatent"
+    },
+    "passé_composé": {
+      "je": "ai formaté",
+      "tu": "as formaté",
+      "il": "a formaté",
+      "nous": "avons formaté",
+      "vous": "avez formaté",
+      "ils": "ont formaté"
+    },
+    "imparfait": {
+      "je": "formatais",
+      "tu": "formatais",
+      "il": "formatait",
+      "nous": "formations",
+      "vous": "formatiez",
+      "ils": "formataient"
+    },
+    "plus_que_parfait": {
+      "je": "avais formaté",
+      "tu": "avais formaté",
+      "il": "avait formaté",
+      "nous": "avions formaté",
+      "vous": "aviez formaté",
+      "ils": "avaient formaté"
+    },
+    "passé_simple": {
+      "je": "formatai",
+      "tu": "formatas",
+      "il": "formata",
+      "nous": "formatâmes",
+      "vous": "formatâtes",
+      "ils": "formatèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus formaté",
+      "tu": "eus formaté",
+      "il": "eut formaté",
+      "nous": "eûmes formaté",
+      "vous": "eûtes formaté",
+      "ils": "eurent formaté"
+    },
+    "futur_simple": {
+      "je": "formaterai",
+      "tu": "formateras",
+      "il": "formatera",
+      "nous": "formaterons",
+      "vous": "formaterez",
+      "ils": "formateront"
+    },
+    "futur_antérieur": {
+      "je": "aurai formaté",
+      "tu": "auras formaté",
+      "il": "aura formaté",
+      "nous": "aurons formaté",
+      "vous": "aurez formaté",
+      "ils": "auront formaté"
+    },
+    "subjonctif_présent": {
+      "je": "formate",
+      "tu": "formates",
+      "il": "formate",
+      "nous": "formations",
+      "vous": "formatiez",
+      "ils": "formatent"
+    },
+    "subjonctif_passé": {
+      "je": "aie formaté",
+      "tu": "aies formaté",
+      "il": "ait formaté",
+      "nous": "ayons formaté",
+      "vous": "ayez formaté",
+      "ils": "aient formaté"
+    },
+    "subjonctif_imparfait": {
+      "je": "formatasse",
+      "tu": "formatasses",
+      "il": "formatât",
+      "nous": "formatassions",
+      "vous": "formatassiez",
+      "ils": "formatassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse formaté",
+      "tu": "eusses formaté",
+      "il": "eût formaté",
+      "nous": "eussions formaté",
+      "vous": "eussiez formaté",
+      "ils": "eussent formaté"
+    },
+    "conditionnel_présent": {
+      "je": "formaterais",
+      "tu": "formaterais",
+      "il": "formaterait",
+      "nous": "formaterions",
+      "vous": "formateriez",
+      "ils": "formateraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais formaté",
+      "tu": "aurais formaté",
+      "il": "aurait formaté",
+      "nous": "aurions formaté",
+      "vous": "auriez formaté",
+      "ils": "auraient formaté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse formaté",
+      "tu": "eusses formaté",
+      "il": "eût formaté",
+      "nous": "eussions formaté",
+      "vous": "eussiez formaté",
+      "ils": "eussent formaté"
+    },
+    "translation": "formatować",
+    "group": 1
+  },
+  {
+    "infinitive": "former",
+    "présent": {
+      "je": "forme",
+      "tu": "formes",
+      "il": "forme",
+      "nous": "formons",
+      "vous": "formez",
+      "ils": "forment"
+    },
+    "passé_composé": {
+      "je": "ai formé",
+      "tu": "as formé",
+      "il": "a formé",
+      "nous": "avons formé",
+      "vous": "avez formé",
+      "ils": "ont formé"
+    },
+    "imparfait": {
+      "je": "formais",
+      "tu": "formais",
+      "il": "formait",
+      "nous": "formions",
+      "vous": "formiez",
+      "ils": "formaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais formé",
+      "tu": "avais formé",
+      "il": "avait formé",
+      "nous": "avions formé",
+      "vous": "aviez formé",
+      "ils": "avaient formé"
+    },
+    "passé_simple": {
+      "je": "formai",
+      "tu": "formas",
+      "il": "forma",
+      "nous": "formâmes",
+      "vous": "formâtes",
+      "ils": "formèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus formé",
+      "tu": "eus formé",
+      "il": "eut formé",
+      "nous": "eûmes formé",
+      "vous": "eûtes formé",
+      "ils": "eurent formé"
+    },
+    "futur_simple": {
+      "je": "formerai",
+      "tu": "formeras",
+      "il": "formera",
+      "nous": "formerons",
+      "vous": "formerez",
+      "ils": "formeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai formé",
+      "tu": "auras formé",
+      "il": "aura formé",
+      "nous": "aurons formé",
+      "vous": "aurez formé",
+      "ils": "auront formé"
+    },
+    "subjonctif_présent": {
+      "je": "forme",
+      "tu": "formes",
+      "il": "forme",
+      "nous": "formions",
+      "vous": "formiez",
+      "ils": "forment"
+    },
+    "subjonctif_passé": {
+      "je": "aie formé",
+      "tu": "aies formé",
+      "il": "ait formé",
+      "nous": "ayons formé",
+      "vous": "ayez formé",
+      "ils": "aient formé"
+    },
+    "subjonctif_imparfait": {
+      "je": "formasse",
+      "tu": "formasses",
+      "il": "formât",
+      "nous": "formassions",
+      "vous": "formassiez",
+      "ils": "formassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse formé",
+      "tu": "eusses formé",
+      "il": "eût formé",
+      "nous": "eussions formé",
+      "vous": "eussiez formé",
+      "ils": "eussent formé"
+    },
+    "conditionnel_présent": {
+      "je": "formerais",
+      "tu": "formerais",
+      "il": "formerait",
+      "nous": "formerions",
+      "vous": "formeriez",
+      "ils": "formeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais formé",
+      "tu": "aurais formé",
+      "il": "aurait formé",
+      "nous": "aurions formé",
+      "vous": "auriez formé",
+      "ils": "auraient formé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse formé",
+      "tu": "eusses formé",
+      "il": "eût formé",
+      "nous": "eussions formé",
+      "vous": "eussiez formé",
+      "ils": "eussent formé"
+    },
+    "translation": "nadawać",
+    "group": 1
+  },
+  {
+    "infinitive": "formuler",
+    "présent": {
+      "je": "formule",
+      "tu": "formules",
+      "il": "formule",
+      "nous": "formulons",
+      "vous": "formulez",
+      "ils": "formulent"
+    },
+    "passé_composé": {
+      "je": "ai formulé",
+      "tu": "as formulé",
+      "il": "a formulé",
+      "nous": "avons formulé",
+      "vous": "avez formulé",
+      "ils": "ont formulé"
+    },
+    "imparfait": {
+      "je": "formulais",
+      "tu": "formulais",
+      "il": "formulait",
+      "nous": "formulions",
+      "vous": "formuliez",
+      "ils": "formulaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais formulé",
+      "tu": "avais formulé",
+      "il": "avait formulé",
+      "nous": "avions formulé",
+      "vous": "aviez formulé",
+      "ils": "avaient formulé"
+    },
+    "passé_simple": {
+      "je": "formulai",
+      "tu": "formulas",
+      "il": "formula",
+      "nous": "formulâmes",
+      "vous": "formulâtes",
+      "ils": "formulèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus formulé",
+      "tu": "eus formulé",
+      "il": "eut formulé",
+      "nous": "eûmes formulé",
+      "vous": "eûtes formulé",
+      "ils": "eurent formulé"
+    },
+    "futur_simple": {
+      "je": "formulerai",
+      "tu": "formuleras",
+      "il": "formulera",
+      "nous": "formulerons",
+      "vous": "formulerez",
+      "ils": "formuleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai formulé",
+      "tu": "auras formulé",
+      "il": "aura formulé",
+      "nous": "aurons formulé",
+      "vous": "aurez formulé",
+      "ils": "auront formulé"
+    },
+    "subjonctif_présent": {
+      "je": "formule",
+      "tu": "formules",
+      "il": "formule",
+      "nous": "formulions",
+      "vous": "formuliez",
+      "ils": "formulent"
+    },
+    "subjonctif_passé": {
+      "je": "aie formulé",
+      "tu": "aies formulé",
+      "il": "ait formulé",
+      "nous": "ayons formulé",
+      "vous": "ayez formulé",
+      "ils": "aient formulé"
+    },
+    "subjonctif_imparfait": {
+      "je": "formulasse",
+      "tu": "formulasses",
+      "il": "formulât",
+      "nous": "formulassions",
+      "vous": "formulassiez",
+      "ils": "formulassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse formulé",
+      "tu": "eusses formulé",
+      "il": "eût formulé",
+      "nous": "eussions formulé",
+      "vous": "eussiez formulé",
+      "ils": "eussent formulé"
+    },
+    "conditionnel_présent": {
+      "je": "formulerais",
+      "tu": "formulerais",
+      "il": "formulerait",
+      "nous": "formulerions",
+      "vous": "formuleriez",
+      "ils": "formuleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais formulé",
+      "tu": "aurais formulé",
+      "il": "aurait formulé",
+      "nous": "aurions formulé",
+      "vous": "auriez formulé",
+      "ils": "auraient formulé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse formulé",
+      "tu": "eusses formulé",
+      "il": "eût formulé",
+      "nous": "eussions formulé",
+      "vous": "eussiez formulé",
+      "ils": "eussent formulé"
+    },
+    "translation": "formułować",
+    "group": 1
+  }
+]

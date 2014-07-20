@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "substituer",
+    "présent": {
+      "je": "substitue",
+      "tu": "substitues",
+      "il": "substitue",
+      "nous": "substituons",
+      "vous": "substituez",
+      "ils": "substituent"
+    },
+    "passé_composé": {
+      "je": "ai substitué",
+      "tu": "as substitué",
+      "il": "a substitué",
+      "nous": "avons substitué",
+      "vous": "avez substitué",
+      "ils": "ont substitué"
+    },
+    "imparfait": {
+      "je": "substituais",
+      "tu": "substituais",
+      "il": "substituait",
+      "nous": "substituions",
+      "vous": "substituiez",
+      "ils": "substituaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais substitué",
+      "tu": "avais substitué",
+      "il": "avait substitué",
+      "nous": "avions substitué",
+      "vous": "aviez substitué",
+      "ils": "avaient substitué"
+    },
+    "passé_simple": {
+      "je": "substituai",
+      "tu": "substituas",
+      "il": "substitua",
+      "nous": "substituâmes",
+      "vous": "substituâtes",
+      "ils": "substituèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus substitué",
+      "tu": "eus substitué",
+      "il": "eut substitué",
+      "nous": "eûmes substitué",
+      "vous": "eûtes substitué",
+      "ils": "eurent substitué"
+    },
+    "futur_simple": {
+      "je": "substituerai",
+      "tu": "substitueras",
+      "il": "substituera",
+      "nous": "substituerons",
+      "vous": "substituerez",
+      "ils": "substitueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai substitué",
+      "tu": "auras substitué",
+      "il": "aura substitué",
+      "nous": "aurons substitué",
+      "vous": "aurez substitué",
+      "ils": "auront substitué"
+    },
+    "subjonctif_présent": {
+      "je": "substitue",
+      "tu": "substitues",
+      "il": "substitue",
+      "nous": "substituions",
+      "vous": "substituiez",
+      "ils": "substituent"
+    },
+    "subjonctif_passé": {
+      "je": "aie substitué",
+      "tu": "aies substitué",
+      "il": "ait substitué",
+      "nous": "ayons substitué",
+      "vous": "ayez substitué",
+      "ils": "aient substitué"
+    },
+    "subjonctif_imparfait": {
+      "je": "substituasse",
+      "tu": "substituasses",
+      "il": "substituât",
+      "nous": "substituassions",
+      "vous": "substituassiez",
+      "ils": "substituassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse substitué",
+      "tu": "eusses substitué",
+      "il": "eût substitué",
+      "nous": "eussions substitué",
+      "vous": "eussiez substitué",
+      "ils": "eussent substitué"
+    },
+    "conditionnel_présent": {
+      "je": "substituerais",
+      "tu": "substituerais",
+      "il": "substituerait",
+      "nous": "substituerions",
+      "vous": "substitueriez",
+      "ils": "substitueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais substitué",
+      "tu": "aurais substitué",
+      "il": "aurait substitué",
+      "nous": "aurions substitué",
+      "vous": "auriez substitué",
+      "ils": "auraient substitué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse substitué",
+      "tu": "eusses substitué",
+      "il": "eût substitué",
+      "nous": "eussions substitué",
+      "vous": "eussiez substitué",
+      "ils": "eussent substitué"
+    },
+    "translation": "zastępować",
+    "group": 1
+  },
+  {
+    "infinitive": "subvenir",
+    "présent": {
+      "je": "subviens",
+      "tu": "subviens",
+      "il": "subvient",
+      "nous": "subvenons",
+      "vous": "subvenez",
+      "ils": "subviennent"
+    },
+    "passé_composé": {
+      "je": "ai subvenu",
+      "tu": "as subvenu",
+      "il": "a subvenu",
+      "nous": "avons subvenu",
+      "vous": "avez subvenu",
+      "ils": "ont subvenu"
+    },
+    "imparfait": {
+      "je": "subvenais",
+      "tu": "subvenais",
+      "il": "subvenait",
+      "nous": "subvenions",
+      "vous": "subveniez",
+      "ils": "subvenaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais subvenu",
+      "tu": "avais subvenu",
+      "il": "avait subvenu",
+      "nous": "avions subvenu",
+      "vous": "aviez subvenu",
+      "ils": "avaient subvenu"
+    },
+    "passé_simple": {
+      "je": "subvins",
+      "tu": "subvins",
+      "il": "subvint",
+      "nous": "subvînmes",
+      "vous": "subvîntes",
+      "ils": "subvinrent"
+    },
+    "passé_antérieur": {
+      "je": "eus subvenu",
+      "tu": "eus subvenu",
+      "il": "eut subvenu",
+      "nous": "eûmes subvenu",
+      "vous": "eûtes subvenu",
+      "ils": "eurent subvenu"
+    },
+    "futur_simple": {
+      "je": "subviendrai",
+      "tu": "subviendras",
+      "il": "subviendra",
+      "nous": "subviendrons",
+      "vous": "subviendrez",
+      "ils": "subviendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai subvenu",
+      "tu": "auras subvenu",
+      "il": "aura subvenu",
+      "nous": "aurons subvenu",
+      "vous": "aurez subvenu",
+      "ils": "auront subvenu"
+    },
+    "subjonctif_présent": {
+      "je": "subvienne",
+      "tu": "subviennes",
+      "il": "subvienne",
+      "nous": "subvenions",
+      "vous": "subveniez",
+      "ils": "subviennent"
+    },
+    "subjonctif_passé": {
+      "je": "aie subvenu",
+      "tu": "aies subvenu",
+      "il": "ait subvenu",
+      "nous": "ayons subvenu",
+      "vous": "ayez subvenu",
+      "ils": "aient subvenu"
+    },
+    "subjonctif_imparfait": {
+      "je": "subvinsse",
+      "tu": "subvinsses",
+      "il": "subvînt",
+      "nous": "subvinssions",
+      "vous": "subvinssiez",
+      "ils": "subvinssent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse subvenu",
+      "tu": "eusses subvenu",
+      "il": "eût subvenu",
+      "nous": "eussions subvenu",
+      "vous": "eussiez subvenu",
+      "ils": "eussent subvenu"
+    },
+    "conditionnel_présent": {
+      "je": "subviendrais",
+      "tu": "subviendrais",
+      "il": "subviendrait",
+      "nous": "subviendrions",
+      "vous": "subviendriez",
+      "ils": "subviendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais subvenu",
+      "tu": "aurais subvenu",
+      "il": "aurait subvenu",
+      "nous": "aurions subvenu",
+      "vous": "auriez subvenu",
+      "ils": "auraient subvenu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse subvenu",
+      "tu": "eusses subvenu",
+      "il": "eût subvenu",
+      "nous": "eussions subvenu",
+      "vous": "eussiez subvenu",
+      "ils": "eussent subvenu"
+    },
+    "translation": "zaspokajać",
+    "group": 3
+  },
+  {
+    "infinitive": "succéder",
+    "présent": {
+      "je": "succède",
+      "tu": "succèdes",
+      "il": "succède",
+      "nous": "succédons",
+      "vous": "succédez",
+      "ils": "succèdent"
+    },
+    "passé_composé": {
+      "je": "ai succédé",
+      "tu": "as succédé",
+      "il": "a succédé",
+      "nous": "avons succédé",
+      "vous": "avez succédé",
+      "ils": "ont succédé"
+    },
+    "imparfait": {
+      "je": "succédais",
+      "tu": "succédais",
+      "il": "succédait",
+      "nous": "succédions",
+      "vous": "succédiez",
+      "ils": "succédaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais succédé",
+      "tu": "avais succédé",
+      "il": "avait succédé",
+      "nous": "avions succédé",
+      "vous": "aviez succédé",
+      "ils": "avaient succédé"
+    },
+    "passé_simple": {
+      "je": "succédai",
+      "tu": "succédas",
+      "il": "succéda",
+      "nous": "succédâmes",
+      "vous": "succédâtes",
+      "ils": "succédèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus succédé",
+      "tu": "eus succédé",
+      "il": "eut succédé",
+      "nous": "eûmes succédé",
+      "vous": "eûtes succédé",
+      "ils": "eurent succédé"
+    },
+    "futur_simple": {
+      "je": "succéderai",
+      "tu": "succéderas",
+      "il": "succédera",
+      "nous": "succéderons",
+      "vous": "succéderez",
+      "ils": "succéderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai succédé",
+      "tu": "auras succédé",
+      "il": "aura succédé",
+      "nous": "aurons succédé",
+      "vous": "aurez succédé",
+      "ils": "auront succédé"
+    },
+    "subjonctif_présent": {
+      "je": "succède",
+      "tu": "succèdes",
+      "il": "succède",
+      "nous": "succédions",
+      "vous": "succédiez",
+      "ils": "succèdent"
+    },
+    "subjonctif_passé": {
+      "je": "aie succédé",
+      "tu": "aies succédé",
+      "il": "ait succédé",
+      "nous": "ayons succédé",
+      "vous": "ayez succédé",
+      "ils": "aient succédé"
+    },
+    "subjonctif_imparfait": {
+      "je": "succédasse",
+      "tu": "succédasses",
+      "il": "succédât",
+      "nous": "succédassions",
+      "vous": "succédassiez",
+      "ils": "succédassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse succédé",
+      "tu": "eusses succédé",
+      "il": "eût succédé",
+      "nous": "eussions succédé",
+      "vous": "eussiez succédé",
+      "ils": "eussent succédé"
+    },
+    "conditionnel_présent": {
+      "je": "succéderais",
+      "tu": "succéderais",
+      "il": "succéderait",
+      "nous": "succéderions",
+      "vous": "succéderiez",
+      "ils": "succéderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais succédé",
+      "tu": "aurais succédé",
+      "il": "aurait succédé",
+      "nous": "aurions succédé",
+      "vous": "auriez succédé",
+      "ils": "auraient succédé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse succédé",
+      "tu": "eusses succédé",
+      "il": "eût succédé",
+      "nous": "eussions succédé",
+      "vous": "eussiez succédé",
+      "ils": "eussent succédé"
+    },
+    "translation": "następować",
+    "group": 1
+  },
+  {
+    "infinitive": "succomber",
+    "présent": {
+      "je": "succombe",
+      "tu": "succombes",
+      "il": "succombe",
+      "nous": "succombons",
+      "vous": "succombez",
+      "ils": "succombent"
+    },
+    "passé_composé": {
+      "je": "ai succombé",
+      "tu": "as succombé",
+      "il": "a succombé",
+      "nous": "avons succombé",
+      "vous": "avez succombé",
+      "ils": "ont succombé"
+    },
+    "imparfait": {
+      "je": "succombais",
+      "tu": "succombais",
+      "il": "succombait",
+      "nous": "succombions",
+      "vous": "succombiez",
+      "ils": "succombaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais succombé",
+      "tu": "avais succombé",
+      "il": "avait succombé",
+      "nous": "avions succombé",
+      "vous": "aviez succombé",
+      "ils": "avaient succombé"
+    },
+    "passé_simple": {
+      "je": "succombai",
+      "tu": "succombas",
+      "il": "succomba",
+      "nous": "succombâmes",
+      "vous": "succombâtes",
+      "ils": "succombèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus succombé",
+      "tu": "eus succombé",
+      "il": "eut succombé",
+      "nous": "eûmes succombé",
+      "vous": "eûtes succombé",
+      "ils": "eurent succombé"
+    },
+    "futur_simple": {
+      "je": "succomberai",
+      "tu": "succomberas",
+      "il": "succombera",
+      "nous": "succomberons",
+      "vous": "succomberez",
+      "ils": "succomberont"
+    },
+    "futur_antérieur": {
+      "je": "aurai succombé",
+      "tu": "auras succombé",
+      "il": "aura succombé",
+      "nous": "aurons succombé",
+      "vous": "aurez succombé",
+      "ils": "auront succombé"
+    },
+    "subjonctif_présent": {
+      "je": "succombe",
+      "tu": "succombes",
+      "il": "succombe",
+      "nous": "succombions",
+      "vous": "succombiez",
+      "ils": "succombent"
+    },
+    "subjonctif_passé": {
+      "je": "aie succombé",
+      "tu": "aies succombé",
+      "il": "ait succombé",
+      "nous": "ayons succombé",
+      "vous": "ayez succombé",
+      "ils": "aient succombé"
+    },
+    "subjonctif_imparfait": {
+      "je": "succombasse",
+      "tu": "succombasses",
+      "il": "succombât",
+      "nous": "succombassions",
+      "vous": "succombassiez",
+      "ils": "succombassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse succombé",
+      "tu": "eusses succombé",
+      "il": "eût succombé",
+      "nous": "eussions succombé",
+      "vous": "eussiez succombé",
+      "ils": "eussent succombé"
+    },
+    "conditionnel_présent": {
+      "je": "succomberais",
+      "tu": "succomberais",
+      "il": "succomberait",
+      "nous": "succomberions",
+      "vous": "succomberiez",
+      "ils": "succomberaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais succombé",
+      "tu": "aurais succombé",
+      "il": "aurait succombé",
+      "nous": "aurions succombé",
+      "vous": "auriez succombé",
+      "ils": "auraient succombé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse succombé",
+      "tu": "eusses succombé",
+      "il": "eût succombé",
+      "nous": "eussions succombé",
+      "vous": "eussiez succombé",
+      "ils": "eussent succombé"
+    },
+    "translation": "umrzeć",
+    "group": 1
+  },
+  {
+    "infinitive": "sucer",
+    "présent": {
+      "je": "suce",
+      "tu": "suces",
+      "il": "suce",
+      "nous": "suçons",
+      "vous": "sucez",
+      "ils": "sucent"
+    },
+    "passé_composé": {
+      "je": "ai sucé",
+      "tu": "as sucé",
+      "il": "a sucé",
+      "nous": "avons sucé",
+      "vous": "avez sucé",
+      "ils": "ont sucé"
+    },
+    "imparfait": {
+      "je": "suçais",
+      "tu": "suçais",
+      "il": "suçait",
+      "nous": "sucions",
+      "vous": "suciez",
+      "ils": "suçaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais sucé",
+      "tu": "avais sucé",
+      "il": "avait sucé",
+      "nous": "avions sucé",
+      "vous": "aviez sucé",
+      "ils": "avaient sucé"
+    },
+    "passé_simple": {
+      "je": "suçai",
+      "tu": "suças",
+      "il": "suça",
+      "nous": "suçâmes",
+      "vous": "suçâtes",
+      "ils": "sucèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus sucé",
+      "tu": "eus sucé",
+      "il": "eut sucé",
+      "nous": "eûmes sucé",
+      "vous": "eûtes sucé",
+      "ils": "eurent sucé"
+    },
+    "futur_simple": {
+      "je": "sucerai",
+      "tu": "suceras",
+      "il": "sucera",
+      "nous": "sucerons",
+      "vous": "sucerez",
+      "ils": "suceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai sucé",
+      "tu": "auras sucé",
+      "il": "aura sucé",
+      "nous": "aurons sucé",
+      "vous": "aurez sucé",
+      "ils": "auront sucé"
+    },
+    "subjonctif_présent": {
+      "je": "suce",
+      "tu": "suces",
+      "il": "suce",
+      "nous": "sucions",
+      "vous": "suciez",
+      "ils": "sucent"
+    },
+    "subjonctif_passé": {
+      "je": "aie sucé",
+      "tu": "aies sucé",
+      "il": "ait sucé",
+      "nous": "ayons sucé",
+      "vous": "ayez sucé",
+      "ils": "aient sucé"
+    },
+    "subjonctif_imparfait": {
+      "je": "suçasse",
+      "tu": "suçasses",
+      "il": "suçât",
+      "nous": "suçassions",
+      "vous": "suçassiez",
+      "ils": "suçassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse sucé",
+      "tu": "eusses sucé",
+      "il": "eût sucé",
+      "nous": "eussions sucé",
+      "vous": "eussiez sucé",
+      "ils": "eussent sucé"
+    },
+    "conditionnel_présent": {
+      "je": "sucerais",
+      "tu": "sucerais",
+      "il": "sucerait",
+      "nous": "sucerions",
+      "vous": "suceriez",
+      "ils": "suceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais sucé",
+      "tu": "aurais sucé",
+      "il": "aurait sucé",
+      "nous": "aurions sucé",
+      "vous": "auriez sucé",
+      "ils": "auraient sucé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse sucé",
+      "tu": "eusses sucé",
+      "il": "eût sucé",
+      "nous": "eussions sucé",
+      "vous": "eussiez sucé",
+      "ils": "eussent sucé"
+    },
+    "translation": "ssać",
+    "group": 1
+  },
+  {
+    "infinitive": "suer",
+    "présent": {
+      "je": "sue",
+      "tu": "sues",
+      "il": "sue",
+      "nous": "suons",
+      "vous": "suez",
+      "ils": "suent"
+    },
+    "passé_composé": {
+      "je": "ai sué",
+      "tu": "as sué",
+      "il": "a sué",
+      "nous": "avons sué",
+      "vous": "avez sué",
+      "ils": "ont sué"
+    },
+    "imparfait": {
+      "je": "suais",
+      "tu": "suais",
+      "il": "suait",
+      "nous": "suions",
+      "vous": "suiez",
+      "ils": "suaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais sué",
+      "tu": "avais sué",
+      "il": "avait sué",
+      "nous": "avions sué",
+      "vous": "aviez sué",
+      "ils": "avaient sué"
+    },
+    "passé_simple": {
+      "je": "suai",
+      "tu": "suas",
+      "il": "sua",
+      "nous": "suâmes",
+      "vous": "suâtes",
+      "ils": "suèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus sué",
+      "tu": "eus sué",
+      "il": "eut sué",
+      "nous": "eûmes sué",
+      "vous": "eûtes sué",
+      "ils": "eurent sué"
+    },
+    "futur_simple": {
+      "je": "suerai",
+      "tu": "sueras",
+      "il": "suera",
+      "nous": "suerons",
+      "vous": "suerez",
+      "ils": "sueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai sué",
+      "tu": "auras sué",
+      "il": "aura sué",
+      "nous": "aurons sué",
+      "vous": "aurez sué",
+      "ils": "auront sué"
+    },
+    "subjonctif_présent": {
+      "je": "sue",
+      "tu": "sues",
+      "il": "sue",
+      "nous": "suions",
+      "vous": "suiez",
+      "ils": "suent"
+    },
+    "subjonctif_passé": {
+      "je": "aie sué",
+      "tu": "aies sué",
+      "il": "ait sué",
+      "nous": "ayons sué",
+      "vous": "ayez sué",
+      "ils": "aient sué"
+    },
+    "subjonctif_imparfait": {
+      "je": "suasse",
+      "tu": "suasses",
+      "il": "suât",
+      "nous": "suassions",
+      "vous": "suassiez",
+      "ils": "suassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse sué",
+      "tu": "eusses sué",
+      "il": "eût sué",
+      "nous": "eussions sué",
+      "vous": "eussiez sué",
+      "ils": "eussent sué"
+    },
+    "conditionnel_présent": {
+      "je": "suerais",
+      "tu": "suerais",
+      "il": "suerait",
+      "nous": "suerions",
+      "vous": "sueriez",
+      "ils": "sueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais sué",
+      "tu": "aurais sué",
+      "il": "aurait sué",
+      "nous": "aurions sué",
+      "vous": "auriez sué",
+      "ils": "auraient sué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse sué",
+      "tu": "eusses sué",
+      "il": "eût sué",
+      "nous": "eussions sué",
+      "vous": "eussiez sué",
+      "ils": "eussent sué"
+    },
+    "translation": "pocić",
+    "group": 1
+  },
+  {
+    "infinitive": "suffire",
+    "présent": {
+      "je": "suffis",
+      "tu": "suffis",
+      "il": "suffit",
+      "nous": "suffisons",
+      "vous": "suffisez",
+      "ils": "suffisent"
+    },
+    "passé_composé": {
+      "je": "ai suffi",
+      "tu": "as suffi",
+      "il": "a suffi",
+      "nous": "avons suffi",
+      "vous": "avez suffi",
+      "ils": "ont suffi"
+    },
+    "imparfait": {
+      "je": "suffisais",
+      "tu": "suffisais",
+      "il": "suffisait",
+      "nous": "suffisions",
+      "vous": "suffisiez",
+      "ils": "suffisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais suffi",
+      "tu": "avais suffi",
+      "il": "avait suffi",
+      "nous": "avions suffi",
+      "vous": "aviez suffi",
+      "ils": "avaient suffi"
+    },
+    "passé_simple": {
+      "je": "suffis",
+      "tu": "suffis",
+      "il": "suffit",
+      "nous": "suffîmes",
+      "vous": "suffîtes",
+      "ils": "suffirent"
+    },
+    "passé_antérieur": {
+      "je": "eus suffi",
+      "tu": "eus suffi",
+      "il": "eut suffi",
+      "nous": "eûmes suffi",
+      "vous": "eûtes suffi",
+      "ils": "eurent suffi"
+    },
+    "futur_simple": {
+      "je": "suffirai",
+      "tu": "suffiras",
+      "il": "suffira",
+      "nous": "suffirons",
+      "vous": "suffirez",
+      "ils": "suffiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai suffi",
+      "tu": "auras suffi",
+      "il": "aura suffi",
+      "nous": "aurons suffi",
+      "vous": "aurez suffi",
+      "ils": "auront suffi"
+    },
+    "subjonctif_présent": {
+      "je": "suffise",
+      "tu": "suffises",
+      "il": "suffise",
+      "nous": "suffisions",
+      "vous": "suffisiez",
+      "ils": "suffisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie suffi",
+      "tu": "aies suffi",
+      "il": "ait suffi",
+      "nous": "ayons suffi",
+      "vous": "ayez suffi",
+      "ils": "aient suffi"
+    },
+    "subjonctif_imparfait": {
+      "je": "suffisse",
+      "tu": "suffisses",
+      "il": "suffît",
+      "nous": "suffissions",
+      "vous": "suffissiez",
+      "ils": "suffissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse suffi",
+      "tu": "eusses suffi",
+      "il": "eût suffi",
+      "nous": "eussions suffi",
+      "vous": "eussiez suffi",
+      "ils": "eussent suffi"
+    },
+    "conditionnel_présent": {
+      "je": "suffirais",
+      "tu": "suffirais",
+      "il": "suffirait",
+      "nous": "suffirions",
+      "vous": "suffiriez",
+      "ils": "suffiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais suffi",
+      "tu": "aurais suffi",
+      "il": "aurait suffi",
+      "nous": "aurions suffi",
+      "vous": "auriez suffi",
+      "ils": "auraient suffi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse suffi",
+      "tu": "eusses suffi",
+      "il": "eût suffi",
+      "nous": "eussions suffi",
+      "vous": "eussiez suffi",
+      "ils": "eussent suffi"
+    },
+    "translation": "wystarczać",
+    "group": 3
+  },
+  {
+    "infinitive": "suffoquer",
+    "présent": {
+      "je": "suffoque",
+      "tu": "suffoques",
+      "il": "suffoque",
+      "nous": "suffoquons",
+      "vous": "suffoquez",
+      "ils": "suffoquent"
+    },
+    "passé_composé": {
+      "je": "ai suffoqué",
+      "tu": "as suffoqué",
+      "il": "a suffoqué",
+      "nous": "avons suffoqué",
+      "vous": "avez suffoqué",
+      "ils": "ont suffoqué"
+    },
+    "imparfait": {
+      "je": "suffoquais",
+      "tu": "suffoquais",
+      "il": "suffoquait",
+      "nous": "suffoquions",
+      "vous": "suffoquiez",
+      "ils": "suffoquaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais suffoqué",
+      "tu": "avais suffoqué",
+      "il": "avait suffoqué",
+      "nous": "avions suffoqué",
+      "vous": "aviez suffoqué",
+      "ils": "avaient suffoqué"
+    },
+    "passé_simple": {
+      "je": "suffoquai",
+      "tu": "suffoquas",
+      "il": "suffoqua",
+      "nous": "suffoquâmes",
+      "vous": "suffoquâtes",
+      "ils": "suffoquèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus suffoqué",
+      "tu": "eus suffoqué",
+      "il": "eut suffoqué",
+      "nous": "eûmes suffoqué",
+      "vous": "eûtes suffoqué",
+      "ils": "eurent suffoqué"
+    },
+    "futur_simple": {
+      "je": "suffoquerai",
+      "tu": "suffoqueras",
+      "il": "suffoquera",
+      "nous": "suffoquerons",
+      "vous": "suffoquerez",
+      "ils": "suffoqueront"
+    },
+    "futur_antérieur": {
+      "je": "aurai suffoqué",
+      "tu": "auras suffoqué",
+      "il": "aura suffoqué",
+      "nous": "aurons suffoqué",
+      "vous": "aurez suffoqué",
+      "ils": "auront suffoqué"
+    },
+    "subjonctif_présent": {
+      "je": "suffoque",
+      "tu": "suffoques",
+      "il": "suffoque",
+      "nous": "suffoquions",
+      "vous": "suffoquiez",
+      "ils": "suffoquent"
+    },
+    "subjonctif_passé": {
+      "je": "aie suffoqué",
+      "tu": "aies suffoqué",
+      "il": "ait suffoqué",
+      "nous": "ayons suffoqué",
+      "vous": "ayez suffoqué",
+      "ils": "aient suffoqué"
+    },
+    "subjonctif_imparfait": {
+      "je": "suffoquasse",
+      "tu": "suffoquasses",
+      "il": "suffoquât",
+      "nous": "suffoquassions",
+      "vous": "suffoquassiez",
+      "ils": "suffoquassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse suffoqué",
+      "tu": "eusses suffoqué",
+      "il": "eût suffoqué",
+      "nous": "eussions suffoqué",
+      "vous": "eussiez suffoqué",
+      "ils": "eussent suffoqué"
+    },
+    "conditionnel_présent": {
+      "je": "suffoquerais",
+      "tu": "suffoquerais",
+      "il": "suffoquerait",
+      "nous": "suffoquerions",
+      "vous": "suffoqueriez",
+      "ils": "suffoqueraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais suffoqué",
+      "tu": "aurais suffoqué",
+      "il": "aurait suffoqué",
+      "nous": "aurions suffoqué",
+      "vous": "auriez suffoqué",
+      "ils": "auraient suffoqué"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse suffoqué",
+      "tu": "eusses suffoqué",
+      "il": "eût suffoqué",
+      "nous": "eussions suffoqué",
+      "vous": "eussiez suffoqué",
+      "ils": "eussent suffoqué"
+    },
+    "translation": "dusić",
+    "group": 1
+  },
+  {
+    "infinitive": "suggérer",
+    "présent": {
+      "je": "suggère",
+      "tu": "suggères",
+      "il": "suggère",
+      "nous": "suggérons",
+      "vous": "suggérez",
+      "ils": "suggèrent"
+    },
+    "passé_composé": {
+      "je": "ai suggéré",
+      "tu": "as suggéré",
+      "il": "a suggéré",
+      "nous": "avons suggéré",
+      "vous": "avez suggéré",
+      "ils": "ont suggéré"
+    },
+    "imparfait": {
+      "je": "suggérais",
+      "tu": "suggérais",
+      "il": "suggérait",
+      "nous": "suggérions",
+      "vous": "suggériez",
+      "ils": "suggéraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais suggéré",
+      "tu": "avais suggéré",
+      "il": "avait suggéré",
+      "nous": "avions suggéré",
+      "vous": "aviez suggéré",
+      "ils": "avaient suggéré"
+    },
+    "passé_simple": {
+      "je": "suggérai",
+      "tu": "suggéras",
+      "il": "suggéra",
+      "nous": "suggérâmes",
+      "vous": "suggérâtes",
+      "ils": "suggérèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus suggéré",
+      "tu": "eus suggéré",
+      "il": "eut suggéré",
+      "nous": "eûmes suggéré",
+      "vous": "eûtes suggéré",
+      "ils": "eurent suggéré"
+    },
+    "futur_simple": {
+      "je": "suggérerai",
+      "tu": "suggéreras",
+      "il": "suggérera",
+      "nous": "suggérerons",
+      "vous": "suggérerez",
+      "ils": "suggéreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai suggéré",
+      "tu": "auras suggéré",
+      "il": "aura suggéré",
+      "nous": "aurons suggéré",
+      "vous": "aurez suggéré",
+      "ils": "auront suggéré"
+    },
+    "subjonctif_présent": {
+      "je": "suggère",
+      "tu": "suggères",
+      "il": "suggère",
+      "nous": "suggérions",
+      "vous": "suggériez",
+      "ils": "suggèrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie suggéré",
+      "tu": "aies suggéré",
+      "il": "ait suggéré",
+      "nous": "ayons suggéré",
+      "vous": "ayez suggéré",
+      "ils": "aient suggéré"
+    },
+    "subjonctif_imparfait": {
+      "je": "suggérasse",
+      "tu": "suggérasses",
+      "il": "suggérât",
+      "nous": "suggérassions",
+      "vous": "suggérassiez",
+      "ils": "suggérassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse suggéré",
+      "tu": "eusses suggéré",
+      "il": "eût suggéré",
+      "nous": "eussions suggéré",
+      "vous": "eussiez suggéré",
+      "ils": "eussent suggéré"
+    },
+    "conditionnel_présent": {
+      "je": "suggérerais",
+      "tu": "suggérerais",
+      "il": "suggérerait",
+      "nous": "suggérerions",
+      "vous": "suggéreriez",
+      "ils": "suggéreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais suggéré",
+      "tu": "aurais suggéré",
+      "il": "aurait suggéré",
+      "nous": "aurions suggéré",
+      "vous": "auriez suggéré",
+      "ils": "auraient suggéré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse suggéré",
+      "tu": "eusses suggéré",
+      "il": "eût suggéré",
+      "nous": "eussions suggéré",
+      "vous": "eussiez suggéré",
+      "ils": "eussent suggéré"
+    },
+    "translation": "sugerować",
+    "group": 1
+  },
+  {
+    "infinitive": "suicider",
+    "présent": {
+      "je": "me suicide",
+      "tu": "te suicides",
+      "il": "se suicide",
+      "nous": "nous suicidons",
+      "vous": "vous suicidez",
+      "ils": "se suicident"
+    },
+    "passé_composé": {
+      "je": "me suis suicidé",
+      "tu": "es suicidé",
+      "il": "est suicidé",
+      "nous": "nous sommes suicidés",
+      "vous": "vous êtes suicidés",
+      "ils": "se sont suicidés"
+    },
+    "imparfait": {
+      "je": "me suicidais",
+      "tu": "te suicidais",
+      "il": "se suicidait",
+      "nous": "nous suicidions",
+      "vous": "vous suicidiez",
+      "ils": "se suicidaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais suicidé",
+      "tu": "étais suicidé",
+      "il": "était suicidé",
+      "nous": "nous étions suicidés",
+      "vous": "vous étiez suicidés",
+      "ils": "étaient suicidés"
+    },
+    "passé_simple": {
+      "je": "me suicidai",
+      "tu": "te suicidas",
+      "il": "se suicida",
+      "nous": "nous suicidâmes",
+      "vous": "vous suicidâtes",
+      "ils": "se suicidèrent"
+    },
+    "passé_antérieur": {
+      "je": "me fus suicidé",
+      "tu": "te fus suicidé",
+      "il": "se fut suicidé",
+      "nous": "nous fûmes suicidés",
+      "vous": "vous fûtes suicidés",
+      "ils": "se furent suicidés"
+    },
+    "futur_simple": {
+      "je": "me suiciderai",
+      "tu": "te suicideras",
+      "il": "se suicidera",
+      "nous": "nous suiciderons",
+      "vous": "vous suiciderez",
+      "ils": "se suicideront"
+    },
+    "futur_antérieur": {
+      "je": "me serai suicidé",
+      "tu": "te seras suicidé",
+      "il": "se sera suicidé",
+      "nous": "nous serons suicidés",
+      "vous": "vous serez suicidés",
+      "ils": "se seront suicidés"
+    },
+    "subjonctif_présent": {
+      "je": "me suicide",
+      "tu": "te suicides",
+      "il": "se suicide",
+      "nous": "nous suicidions",
+      "vous": "vous suicidiez",
+      "ils": "se suicident"
+    },
+    "subjonctif_passé": {
+      "je": "me sois suicidé",
+      "tu": "te sois suicidé",
+      "il": "se soit suicidé",
+      "nous": "nous soyons suicidés",
+      "vous": "vous soyez suicidés",
+      "ils": "se soient suicidés"
+    },
+    "subjonctif_imparfait": {
+      "je": "me suicidasse",
+      "tu": "te suicidasses",
+      "il": "se suicidât",
+      "nous": "nous suicidassions",
+      "vous": "vous suicidassiez",
+      "ils": "se suicidassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse suicidé",
+      "tu": "te fusses suicidé",
+      "il": "se fût suicidé",
+      "nous": "nous fussions suicidés",
+      "vous": "vous fussiez suicidés",
+      "ils": "se fussent suicidés"
+    },
+    "conditionnel_présent": {
+      "je": "me suiciderais",
+      "tu": "te suiciderais",
+      "il": "se suiciderait",
+      "nous": "nous suiciderions",
+      "vous": "vous suicideriez",
+      "ils": "se suicideraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais suicidé",
+      "tu": "te serais suicidé",
+      "il": "se serait suicidé",
+      "nous": "nous serions suicidés",
+      "vous": "vous seriez suicidés",
+      "ils": "se seraient suicidés"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse suicidé",
+      "tu": "te fusses suicidé",
+      "il": "se fût suicidé",
+      "nous": "nous fussions suicidés",
+      "vous": "vous fussiez suicidés",
+      "ils": "se fussent suicidés"
+    },
+    "translation": "popełnić",
+    "group": 1
+  }
+]

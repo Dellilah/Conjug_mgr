@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "amuïr",
+    "présent": {
+      "je": "amuis",
+      "tu": "amuis",
+      "il": "amuit",
+      "nous": "nous amuïssons",
+      "vous": "vous amuïssez",
+      "ils": "amuïssent"
+    },
+    "passé_composé": {
+      "je": "me suis amuï",
+      "tu": "es amuï",
+      "il": "est amuï",
+      "nous": "nous sommes amuïs",
+      "vous": "vous êtes amuïs",
+      "ils": "se sont amuïs"
+    },
+    "imparfait": {
+      "je": "amuïssais",
+      "tu": "amuïssais",
+      "il": "amuïssait",
+      "nous": "nous amuïssions",
+      "vous": "vous amuïssiez",
+      "ils": "amuïssaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais amuï",
+      "tu": "étais amuï",
+      "il": "était amuï",
+      "nous": "nous étions amuïs",
+      "vous": "vous étiez amuïs",
+      "ils": "étaient amuïs"
+    },
+    "passé_simple": {
+      "je": "amuïs",
+      "tu": "amuïs",
+      "il": "amuït",
+      "nous": "nous amuïmes",
+      "vous": "vous amuïtes",
+      "ils": "amuïrent"
+    },
+    "passé_antérieur": {
+      "je": "me fus amuï",
+      "tu": "te fus amuï",
+      "il": "se fut amuï",
+      "nous": "nous fûmes amuïs",
+      "vous": "vous fûtes amuïs",
+      "ils": "se furent amuïs"
+    },
+    "futur_simple": {
+      "je": "amuïrai",
+      "tu": "amuïras",
+      "il": "amuïra",
+      "nous": "nous amuïrons",
+      "vous": "vous amuïrez",
+      "ils": "amuïront"
+    },
+    "futur_antérieur": {
+      "je": "me serai amuï",
+      "tu": "te seras amuï",
+      "il": "se sera amuï",
+      "nous": "nous serons amuïs",
+      "vous": "vous serez amuïs",
+      "ils": "se seront amuïs"
+    },
+    "subjonctif_présent": {
+      "je": "amuïsse",
+      "tu": "amuïsses",
+      "il": "amuïsse",
+      "nous": "nous amuïssions",
+      "vous": "vous amuïssiez",
+      "ils": "amuïssent"
+    },
+    "subjonctif_passé": {
+      "je": "me sois amuï",
+      "tu": "te sois amuï",
+      "il": "se soit amuï",
+      "nous": "nous soyons amuïs",
+      "vous": "vous soyez amuïs",
+      "ils": "se soient amuïs"
+    },
+    "subjonctif_imparfait": {
+      "je": "amuïsse",
+      "tu": "amuïsses",
+      "il": "amuït",
+      "nous": "nous amuïssions",
+      "vous": "vous amuïssiez",
+      "ils": "amuïssent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "me fusse amuï",
+      "tu": "te fusses amuï",
+      "il": "se fût amuï",
+      "nous": "nous fussions amuïs",
+      "vous": "vous fussiez amuïs",
+      "ils": "se fussent amuïs"
+    },
+    "conditionnel_présent": {
+      "je": "amuïrais",
+      "tu": "amuïrais",
+      "il": "amuïrait",
+      "nous": "nous amuïrions",
+      "vous": "vous amuïriez",
+      "ils": "amuïraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "me serais amuï",
+      "tu": "te serais amuï",
+      "il": "se serait amuï",
+      "nous": "nous serions amuïs",
+      "vous": "vous seriez amuïs",
+      "ils": "se seraient amuïs"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "me fusse amuï",
+      "tu": "te fusses amuï",
+      "il": "se fût amuï",
+      "nous": "nous fussions amuïs",
+      "vous": "vous fussiez amuïs",
+      "ils": "se fussent amuïs"
+    },
+    "translation": "zabawiać",
+    "group": 2
+  },
+  {
+    "infinitive": "amuser",
+    "présent": {
+      "je": "amuse",
+      "tu": "amuses",
+      "il": "amuse",
+      "nous": "amusons",
+      "vous": "amusez",
+      "ils": "amusent"
+    },
+    "passé_composé": {
+      "je": "ai amusé",
+      "tu": "as amusé",
+      "il": "a amusé",
+      "nous": "avons amusé",
+      "vous": "avez amusé",
+      "ils": "ont amusé"
+    },
+    "imparfait": {
+      "je": "amusais",
+      "tu": "amusais",
+      "il": "amusait",
+      "nous": "amusions",
+      "vous": "amusiez",
+      "ils": "amusaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais amusé",
+      "tu": "avais amusé",
+      "il": "avait amusé",
+      "nous": "avions amusé",
+      "vous": "aviez amusé",
+      "ils": "avaient amusé"
+    },
+    "passé_simple": {
+      "je": "amusai",
+      "tu": "amusas",
+      "il": "amusa",
+      "nous": "amusâmes",
+      "vous": "amusâtes",
+      "ils": "amusèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus amusé",
+      "tu": "eus amusé",
+      "il": "eut amusé",
+      "nous": "eûmes amusé",
+      "vous": "eûtes amusé",
+      "ils": "eurent amusé"
+    },
+    "futur_simple": {
+      "je": "amuserai",
+      "tu": "amuseras",
+      "il": "amusera",
+      "nous": "amuserons",
+      "vous": "amuserez",
+      "ils": "amuseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai amusé",
+      "tu": "auras amusé",
+      "il": "aura amusé",
+      "nous": "aurons amusé",
+      "vous": "aurez amusé",
+      "ils": "auront amusé"
+    },
+    "subjonctif_présent": {
+      "je": "amuse",
+      "tu": "amuses",
+      "il": "amuse",
+      "nous": "amusions",
+      "vous": "amusiez",
+      "ils": "amusent"
+    },
+    "subjonctif_passé": {
+      "je": "aie amusé",
+      "tu": "aies amusé",
+      "il": "ait amusé",
+      "nous": "ayons amusé",
+      "vous": "ayez amusé",
+      "ils": "aient amusé"
+    },
+    "subjonctif_imparfait": {
+      "je": "amusasse",
+      "tu": "amusasses",
+      "il": "amusât",
+      "nous": "amusassions",
+      "vous": "amusassiez",
+      "ils": "amusassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse amusé",
+      "tu": "eusses amusé",
+      "il": "eût amusé",
+      "nous": "eussions amusé",
+      "vous": "eussiez amusé",
+      "ils": "eussent amusé"
+    },
+    "conditionnel_présent": {
+      "je": "amuserais",
+      "tu": "amuserais",
+      "il": "amuserait",
+      "nous": "amuserions",
+      "vous": "amuseriez",
+      "ils": "amuseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais amusé",
+      "tu": "aurais amusé",
+      "il": "aurait amusé",
+      "nous": "aurions amusé",
+      "vous": "auriez amusé",
+      "ils": "auraient amusé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse amusé",
+      "tu": "eusses amusé",
+      "il": "eût amusé",
+      "nous": "eussions amusé",
+      "vous": "eussiez amusé",
+      "ils": "eussent amusé"
+    },
+    "translation": "zabawiać",
+    "group": 1
+  },
+  {
+    "infinitive": "analyser",
+    "présent": {
+      "je": "analyse",
+      "tu": "analyses",
+      "il": "analyse",
+      "nous": "analysons",
+      "vous": "analysez",
+      "ils": "analysent"
+    },
+    "passé_composé": {
+      "je": "ai analysé",
+      "tu": "as analysé",
+      "il": "a analysé",
+      "nous": "avons analysé",
+      "vous": "avez analysé",
+      "ils": "ont analysé"
+    },
+    "imparfait": {
+      "je": "analysais",
+      "tu": "analysais",
+      "il": "analysait",
+      "nous": "analysions",
+      "vous": "analysiez",
+      "ils": "analysaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais analysé",
+      "tu": "avais analysé",
+      "il": "avait analysé",
+      "nous": "avions analysé",
+      "vous": "aviez analysé",
+      "ils": "avaient analysé"
+    },
+    "passé_simple": {
+      "je": "analysai",
+      "tu": "analysas",
+      "il": "analysa",
+      "nous": "analysâmes",
+      "vous": "analysâtes",
+      "ils": "analysèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus analysé",
+      "tu": "eus analysé",
+      "il": "eut analysé",
+      "nous": "eûmes analysé",
+      "vous": "eûtes analysé",
+      "ils": "eurent analysé"
+    },
+    "futur_simple": {
+      "je": "analyserai",
+      "tu": "analyseras",
+      "il": "analysera",
+      "nous": "analyserons",
+      "vous": "analyserez",
+      "ils": "analyseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai analysé",
+      "tu": "auras analysé",
+      "il": "aura analysé",
+      "nous": "aurons analysé",
+      "vous": "aurez analysé",
+      "ils": "auront analysé"
+    },
+    "subjonctif_présent": {
+      "je": "analyse",
+      "tu": "analyses",
+      "il": "analyse",
+      "nous": "analysions",
+      "vous": "analysiez",
+      "ils": "analysent"
+    },
+    "subjonctif_passé": {
+      "je": "aie analysé",
+      "tu": "aies analysé",
+      "il": "ait analysé",
+      "nous": "ayons analysé",
+      "vous": "ayez analysé",
+      "ils": "aient analysé"
+    },
+    "subjonctif_imparfait": {
+      "je": "analysasse",
+      "tu": "analysasses",
+      "il": "analysât",
+      "nous": "analysassions",
+      "vous": "analysassiez",
+      "ils": "analysassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse analysé",
+      "tu": "eusses analysé",
+      "il": "eût analysé",
+      "nous": "eussions analysé",
+      "vous": "eussiez analysé",
+      "ils": "eussent analysé"
+    },
+    "conditionnel_présent": {
+      "je": "analyserais",
+      "tu": "analyserais",
+      "il": "analyserait",
+      "nous": "analyserions",
+      "vous": "analyseriez",
+      "ils": "analyseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais analysé",
+      "tu": "aurais analysé",
+      "il": "aurait analysé",
+      "nous": "aurions analysé",
+      "vous": "auriez analysé",
+      "ils": "auraient analysé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse analysé",
+      "tu": "eusses analysé",
+      "il": "eût analysé",
+      "nous": "eussions analysé",
+      "vous": "eussiez analysé",
+      "ils": "eussent analysé"
+    },
+    "translation": "analizować",
+    "group": 1
+  },
+  {
+    "infinitive": "anéantir",
+    "présent": {
+      "je": "anéantis",
+      "tu": "anéantis",
+      "il": "anéantit",
+      "nous": "anéantissons",
+      "vous": "anéantissez",
+      "ils": "anéantissent"
+    },
+    "passé_composé": {
+      "je": "ai anéanti",
+      "tu": "as anéanti",
+      "il": "a anéanti",
+      "nous": "avons anéanti",
+      "vous": "avez anéanti",
+      "ils": "ont anéanti"
+    },
+    "imparfait": {
+      "je": "anéantissais",
+      "tu": "anéantissais",
+      "il": "anéantissait",
+      "nous": "anéantissions",
+      "vous": "anéantissiez",
+      "ils": "anéantissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais anéanti",
+      "tu": "avais anéanti",
+      "il": "avait anéanti",
+      "nous": "avions anéanti",
+      "vous": "aviez anéanti",
+      "ils": "avaient anéanti"
+    },
+    "passé_simple": {
+      "je": "anéantis",
+      "tu": "anéantis",
+      "il": "anéantit",
+      "nous": "anéantîmes",
+      "vous": "anéantîtes",
+      "ils": "anéantirent"
+    },
+    "passé_antérieur": {
+      "je": "eus anéanti",
+      "tu": "eus anéanti",
+      "il": "eut anéanti",
+      "nous": "eûmes anéanti",
+      "vous": "eûtes anéanti",
+      "ils": "eurent anéanti"
+    },
+    "futur_simple": {
+      "je": "anéantirai",
+      "tu": "anéantiras",
+      "il": "anéantira",
+      "nous": "anéantirons",
+      "vous": "anéantirez",
+      "ils": "anéantiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai anéanti",
+      "tu": "auras anéanti",
+      "il": "aura anéanti",
+      "nous": "aurons anéanti",
+      "vous": "aurez anéanti",
+      "ils": "auront anéanti"
+    },
+    "subjonctif_présent": {
+      "je": "anéantisse",
+      "tu": "anéantisses",
+      "il": "anéantisse",
+      "nous": "anéantissions",
+      "vous": "anéantissiez",
+      "ils": "anéantissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie anéanti",
+      "tu": "aies anéanti",
+      "il": "ait anéanti",
+      "nous": "ayons anéanti",
+      "vous": "ayez anéanti",
+      "ils": "aient anéanti"
+    },
+    "subjonctif_imparfait": {
+      "je": "anéantisse",
+      "tu": "anéantisses",
+      "il": "anéantît",
+      "nous": "anéantissions",
+      "vous": "anéantissiez",
+      "ils": "anéantissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse anéanti",
+      "tu": "eusses anéanti",
+      "il": "eût anéanti",
+      "nous": "eussions anéanti",
+      "vous": "eussiez anéanti",
+      "ils": "eussent anéanti"
+    },
+    "conditionnel_présent": {
+      "je": "anéantirais",
+      "tu": "anéantirais",
+      "il": "anéantirait",
+      "nous": "anéantirions",
+      "vous": "anéantiriez",
+      "ils": "anéantiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais anéanti",
+      "tu": "aurais anéanti",
+      "il": "aurait anéanti",
+      "nous": "aurions anéanti",
+      "vous": "auriez anéanti",
+      "ils": "auraient anéanti"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse anéanti",
+      "tu": "eusses anéanti",
+      "il": "eût anéanti",
+      "nous": "eussions anéanti",
+      "vous": "eussiez anéanti",
+      "ils": "eussent anéanti"
+    },
+    "translation": "unicestwiać",
+    "group": 2
+  },
+  {
+    "infinitive": "animer",
+    "présent": {
+      "je": "anime",
+      "tu": "animes",
+      "il": "anime",
+      "nous": "animons",
+      "vous": "animez",
+      "ils": "animent"
+    },
+    "passé_composé": {
+      "je": "ai animé",
+      "tu": "as animé",
+      "il": "a animé",
+      "nous": "avons animé",
+      "vous": "avez animé",
+      "ils": "ont animé"
+    },
+    "imparfait": {
+      "je": "animais",
+      "tu": "animais",
+      "il": "animait",
+      "nous": "animions",
+      "vous": "animiez",
+      "ils": "animaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais animé",
+      "tu": "avais animé",
+      "il": "avait animé",
+      "nous": "avions animé",
+      "vous": "aviez animé",
+      "ils": "avaient animé"
+    },
+    "passé_simple": {
+      "je": "animai",
+      "tu": "animas",
+      "il": "anima",
+      "nous": "animâmes",
+      "vous": "animâtes",
+      "ils": "animèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus animé",
+      "tu": "eus animé",
+      "il": "eut animé",
+      "nous": "eûmes animé",
+      "vous": "eûtes animé",
+      "ils": "eurent animé"
+    },
+    "futur_simple": {
+      "je": "animerai",
+      "tu": "animeras",
+      "il": "animera",
+      "nous": "animerons",
+      "vous": "animerez",
+      "ils": "animeront"
+    },
+    "futur_antérieur": {
+      "je": "aurai animé",
+      "tu": "auras animé",
+      "il": "aura animé",
+      "nous": "aurons animé",
+      "vous": "aurez animé",
+      "ils": "auront animé"
+    },
+    "subjonctif_présent": {
+      "je": "anime",
+      "tu": "animes",
+      "il": "anime",
+      "nous": "animions",
+      "vous": "animiez",
+      "ils": "animent"
+    },
+    "subjonctif_passé": {
+      "je": "aie animé",
+      "tu": "aies animé",
+      "il": "ait animé",
+      "nous": "ayons animé",
+      "vous": "ayez animé",
+      "ils": "aient animé"
+    },
+    "subjonctif_imparfait": {
+      "je": "animasse",
+      "tu": "animasses",
+      "il": "animât",
+      "nous": "animassions",
+      "vous": "animassiez",
+      "ils": "animassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse animé",
+      "tu": "eusses animé",
+      "il": "eût animé",
+      "nous": "eussions animé",
+      "vous": "eussiez animé",
+      "ils": "eussent animé"
+    },
+    "conditionnel_présent": {
+      "je": "animerais",
+      "tu": "animerais",
+      "il": "animerait",
+      "nous": "animerions",
+      "vous": "animeriez",
+      "ils": "animeraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais animé",
+      "tu": "aurais animé",
+      "il": "aurait animé",
+      "nous": "aurions animé",
+      "vous": "auriez animé",
+      "ils": "auraient animé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse animé",
+      "tu": "eusses animé",
+      "il": "eût animé",
+      "nous": "eussions animé",
+      "vous": "eussiez animé",
+      "ils": "eussent animé"
+    },
+    "translation": "prowadzić",
+    "group": 1
+  },
+  {
+    "infinitive": "annihiler",
+    "présent": {
+      "je": "annihile",
+      "tu": "annihiles",
+      "il": "annihile",
+      "nous": "annihilons",
+      "vous": "annihilez",
+      "ils": "annihilent"
+    },
+    "passé_composé": {
+      "je": "ai annihilé",
+      "tu": "as annihilé",
+      "il": "a annihilé",
+      "nous": "avons annihilé",
+      "vous": "avez annihilé",
+      "ils": "ont annihilé"
+    },
+    "imparfait": {
+      "je": "annihilais",
+      "tu": "annihilais",
+      "il": "annihilait",
+      "nous": "annihilions",
+      "vous": "annihiliez",
+      "ils": "annihilaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais annihilé",
+      "tu": "avais annihilé",
+      "il": "avait annihilé",
+      "nous": "avions annihilé",
+      "vous": "aviez annihilé",
+      "ils": "avaient annihilé"
+    },
+    "passé_simple": {
+      "je": "annihilai",
+      "tu": "annihilas",
+      "il": "annihila",
+      "nous": "annihilâmes",
+      "vous": "annihilâtes",
+      "ils": "annihilèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus annihilé",
+      "tu": "eus annihilé",
+      "il": "eut annihilé",
+      "nous": "eûmes annihilé",
+      "vous": "eûtes annihilé",
+      "ils": "eurent annihilé"
+    },
+    "futur_simple": {
+      "je": "annihilerai",
+      "tu": "annihileras",
+      "il": "annihilera",
+      "nous": "annihilerons",
+      "vous": "annihilerez",
+      "ils": "annihileront"
+    },
+    "futur_antérieur": {
+      "je": "aurai annihilé",
+      "tu": "auras annihilé",
+      "il": "aura annihilé",
+      "nous": "aurons annihilé",
+      "vous": "aurez annihilé",
+      "ils": "auront annihilé"
+    },
+    "subjonctif_présent": {
+      "je": "annihile",
+      "tu": "annihiles",
+      "il": "annihile",
+      "nous": "annihilions",
+      "vous": "annihiliez",
+      "ils": "annihilent"
+    },
+    "subjonctif_passé": {
+      "je": "aie annihilé",
+      "tu": "aies annihilé",
+      "il": "ait annihilé",
+      "nous": "ayons annihilé",
+      "vous": "ayez annihilé",
+      "ils": "aient annihilé"
+    },
+    "subjonctif_imparfait": {
+      "je": "annihilasse",
+      "tu": "annihilasses",
+      "il": "annihilât",
+      "nous": "annihilassions",
+      "vous": "annihilassiez",
+      "ils": "annihilassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse annihilé",
+      "tu": "eusses annihilé",
+      "il": "eût annihilé",
+      "nous": "eussions annihilé",
+      "vous": "eussiez annihilé",
+      "ils": "eussent annihilé"
+    },
+    "conditionnel_présent": {
+      "je": "annihilerais",
+      "tu": "annihilerais",
+      "il": "annihilerait",
+      "nous": "annihilerions",
+      "vous": "annihileriez",
+      "ils": "annihileraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais annihilé",
+      "tu": "aurais annihilé",
+      "il": "aurait annihilé",
+      "nous": "aurions annihilé",
+      "vous": "auriez annihilé",
+      "ils": "auraient annihilé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse annihilé",
+      "tu": "eusses annihilé",
+      "il": "eût annihilé",
+      "nous": "eussions annihilé",
+      "vous": "eussiez annihilé",
+      "ils": "eussent annihilé"
+    },
+    "translation": "łączyć",
+    "group": 1
+  },
+  {
+    "infinitive": "annoncer",
+    "présent": {
+      "je": "annonce",
+      "tu": "annonces",
+      "il": "annonce",
+      "nous": "annonçons",
+      "vous": "annoncez",
+      "ils": "annoncent"
+    },
+    "passé_composé": {
+      "je": "ai annoncé",
+      "tu": "as annoncé",
+      "il": "a annoncé",
+      "nous": "avons annoncé",
+      "vous": "avez annoncé",
+      "ils": "ont annoncé"
+    },
+    "imparfait": {
+      "je": "annonçais",
+      "tu": "annonçais",
+      "il": "annonçait",
+      "nous": "annoncions",
+      "vous": "annonciez",
+      "ils": "annonçaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais annoncé",
+      "tu": "avais annoncé",
+      "il": "avait annoncé",
+      "nous": "avions annoncé",
+      "vous": "aviez annoncé",
+      "ils": "avaient annoncé"
+    },
+    "passé_simple": {
+      "je": "annonçai",
+      "tu": "annonças",
+      "il": "annonça",
+      "nous": "annonçâmes",
+      "vous": "annonçâtes",
+      "ils": "annoncèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus annoncé",
+      "tu": "eus annoncé",
+      "il": "eut annoncé",
+      "nous": "eûmes annoncé",
+      "vous": "eûtes annoncé",
+      "ils": "eurent annoncé"
+    },
+    "futur_simple": {
+      "je": "annoncerai",
+      "tu": "annonceras",
+      "il": "annoncera",
+      "nous": "annoncerons",
+      "vous": "annoncerez",
+      "ils": "annonceront"
+    },
+    "futur_antérieur": {
+      "je": "aurai annoncé",
+      "tu": "auras annoncé",
+      "il": "aura annoncé",
+      "nous": "aurons annoncé",
+      "vous": "aurez annoncé",
+      "ils": "auront annoncé"
+    },
+    "subjonctif_présent": {
+      "je": "annonce",
+      "tu": "annonces",
+      "il": "annonce",
+      "nous": "annoncions",
+      "vous": "annonciez",
+      "ils": "annoncent"
+    },
+    "subjonctif_passé": {
+      "je": "aie annoncé",
+      "tu": "aies annoncé",
+      "il": "ait annoncé",
+      "nous": "ayons annoncé",
+      "vous": "ayez annoncé",
+      "ils": "aient annoncé"
+    },
+    "subjonctif_imparfait": {
+      "je": "annonçasse",
+      "tu": "annonçasses",
+      "il": "annonçât",
+      "nous": "annonçassions",
+      "vous": "annonçassiez",
+      "ils": "annonçassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse annoncé",
+      "tu": "eusses annoncé",
+      "il": "eût annoncé",
+      "nous": "eussions annoncé",
+      "vous": "eussiez annoncé",
+      "ils": "eussent annoncé"
+    },
+    "conditionnel_présent": {
+      "je": "annoncerais",
+      "tu": "annoncerais",
+      "il": "annoncerait",
+      "nous": "annoncerions",
+      "vous": "annonceriez",
+      "ils": "annonceraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais annoncé",
+      "tu": "aurais annoncé",
+      "il": "aurait annoncé",
+      "nous": "aurions annoncé",
+      "vous": "auriez annoncé",
+      "ils": "auraient annoncé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse annoncé",
+      "tu": "eusses annoncé",
+      "il": "eût annoncé",
+      "nous": "eussions annoncé",
+      "vous": "eussiez annoncé",
+      "ils": "eussent annoncé"
+    },
+    "translation": "zawiadamiać",
+    "group": 1
+  },
+  {
+    "infinitive": "annoter",
+    "présent": {
+      "je": "annote",
+      "tu": "annotes",
+      "il": "annote",
+      "nous": "annotons",
+      "vous": "annotez",
+      "ils": "annotent"
+    },
+    "passé_composé": {
+      "je": "ai annoté",
+      "tu": "as annoté",
+      "il": "a annoté",
+      "nous": "avons annoté",
+      "vous": "avez annoté",
+      "ils": "ont annoté"
+    },
+    "imparfait": {
+      "je": "annotais",
+      "tu": "annotais",
+      "il": "annotait",
+      "nous": "annotions",
+      "vous": "annotiez",
+      "ils": "annotaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais annoté",
+      "tu": "avais annoté",
+      "il": "avait annoté",
+      "nous": "avions annoté",
+      "vous": "aviez annoté",
+      "ils": "avaient annoté"
+    },
+    "passé_simple": {
+      "je": "annotai",
+      "tu": "annotas",
+      "il": "annota",
+      "nous": "annotâmes",
+      "vous": "annotâtes",
+      "ils": "annotèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus annoté",
+      "tu": "eus annoté",
+      "il": "eut annoté",
+      "nous": "eûmes annoté",
+      "vous": "eûtes annoté",
+      "ils": "eurent annoté"
+    },
+    "futur_simple": {
+      "je": "annoterai",
+      "tu": "annoteras",
+      "il": "annotera",
+      "nous": "annoterons",
+      "vous": "annoterez",
+      "ils": "annoteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai annoté",
+      "tu": "auras annoté",
+      "il": "aura annoté",
+      "nous": "aurons annoté",
+      "vous": "aurez annoté",
+      "ils": "auront annoté"
+    },
+    "subjonctif_présent": {
+      "je": "annote",
+      "tu": "annotes",
+      "il": "annote",
+      "nous": "annotions",
+      "vous": "annotiez",
+      "ils": "annotent"
+    },
+    "subjonctif_passé": {
+      "je": "aie annoté",
+      "tu": "aies annoté",
+      "il": "ait annoté",
+      "nous": "ayons annoté",
+      "vous": "ayez annoté",
+      "ils": "aient annoté"
+    },
+    "subjonctif_imparfait": {
+      "je": "annotasse",
+      "tu": "annotasses",
+      "il": "annotât",
+      "nous": "annotassions",
+      "vous": "annotassiez",
+      "ils": "annotassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse annoté",
+      "tu": "eusses annoté",
+      "il": "eût annoté",
+      "nous": "eussions annoté",
+      "vous": "eussiez annoté",
+      "ils": "eussent annoté"
+    },
+    "conditionnel_présent": {
+      "je": "annoterais",
+      "tu": "annoterais",
+      "il": "annoterait",
+      "nous": "annoterions",
+      "vous": "annoteriez",
+      "ils": "annoteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais annoté",
+      "tu": "aurais annoté",
+      "il": "aurait annoté",
+      "nous": "aurions annoté",
+      "vous": "auriez annoté",
+      "ils": "auraient annoté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse annoté",
+      "tu": "eusses annoté",
+      "il": "eût annoté",
+      "nous": "eussions annoté",
+      "vous": "eussiez annoté",
+      "ils": "eussent annoté"
+    },
+    "translation": "robić",
+    "group": 1
+  },
+  {
+    "infinitive": "annuler",
+    "présent": {
+      "je": "annule",
+      "tu": "annules",
+      "il": "annule",
+      "nous": "annulons",
+      "vous": "annulez",
+      "ils": "annulent"
+    },
+    "passé_composé": {
+      "je": "ai annulé",
+      "tu": "as annulé",
+      "il": "a annulé",
+      "nous": "avons annulé",
+      "vous": "avez annulé",
+      "ils": "ont annulé"
+    },
+    "imparfait": {
+      "je": "annulais",
+      "tu": "annulais",
+      "il": "annulait",
+      "nous": "annulions",
+      "vous": "annuliez",
+      "ils": "annulaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais annulé",
+      "tu": "avais annulé",
+      "il": "avait annulé",
+      "nous": "avions annulé",
+      "vous": "aviez annulé",
+      "ils": "avaient annulé"
+    },
+    "passé_simple": {
+      "je": "annulai",
+      "tu": "annulas",
+      "il": "annula",
+      "nous": "annulâmes",
+      "vous": "annulâtes",
+      "ils": "annulèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus annulé",
+      "tu": "eus annulé",
+      "il": "eut annulé",
+      "nous": "eûmes annulé",
+      "vous": "eûtes annulé",
+      "ils": "eurent annulé"
+    },
+    "futur_simple": {
+      "je": "annulerai",
+      "tu": "annuleras",
+      "il": "annulera",
+      "nous": "annulerons",
+      "vous": "annulerez",
+      "ils": "annuleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai annulé",
+      "tu": "auras annulé",
+      "il": "aura annulé",
+      "nous": "aurons annulé",
+      "vous": "aurez annulé",
+      "ils": "auront annulé"
+    },
+    "subjonctif_présent": {
+      "je": "annule",
+      "tu": "annules",
+      "il": "annule",
+      "nous": "annulions",
+      "vous": "annuliez",
+      "ils": "annulent"
+    },
+    "subjonctif_passé": {
+      "je": "aie annulé",
+      "tu": "aies annulé",
+      "il": "ait annulé",
+      "nous": "ayons annulé",
+      "vous": "ayez annulé",
+      "ils": "aient annulé"
+    },
+    "subjonctif_imparfait": {
+      "je": "annulasse",
+      "tu": "annulasses",
+      "il": "annulât",
+      "nous": "annulassions",
+      "vous": "annulassiez",
+      "ils": "annulassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse annulé",
+      "tu": "eusses annulé",
+      "il": "eût annulé",
+      "nous": "eussions annulé",
+      "vous": "eussiez annulé",
+      "ils": "eussent annulé"
+    },
+    "conditionnel_présent": {
+      "je": "annulerais",
+      "tu": "annulerais",
+      "il": "annulerait",
+      "nous": "annulerions",
+      "vous": "annuleriez",
+      "ils": "annuleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais annulé",
+      "tu": "aurais annulé",
+      "il": "aurait annulé",
+      "nous": "aurions annulé",
+      "vous": "auriez annulé",
+      "ils": "auraient annulé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse annulé",
+      "tu": "eusses annulé",
+      "il": "eût annulé",
+      "nous": "eussions annulé",
+      "vous": "eussiez annulé",
+      "ils": "eussent annulé"
+    },
+    "translation": "anulować",
+    "group": 1
+  },
+  {
+    "infinitive": "anticiper",
+    "présent": {
+      "je": "anticipe",
+      "tu": "anticipes",
+      "il": "anticipe",
+      "nous": "anticipons",
+      "vous": "anticipez",
+      "ils": "anticipent"
+    },
+    "passé_composé": {
+      "je": "ai anticipé",
+      "tu": "as anticipé",
+      "il": "a anticipé",
+      "nous": "avons anticipé",
+      "vous": "avez anticipé",
+      "ils": "ont anticipé"
+    },
+    "imparfait": {
+      "je": "anticipais",
+      "tu": "anticipais",
+      "il": "anticipait",
+      "nous": "anticipions",
+      "vous": "anticipiez",
+      "ils": "anticipaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais anticipé",
+      "tu": "avais anticipé",
+      "il": "avait anticipé",
+      "nous": "avions anticipé",
+      "vous": "aviez anticipé",
+      "ils": "avaient anticipé"
+    },
+    "passé_simple": {
+      "je": "anticipai",
+      "tu": "anticipas",
+      "il": "anticipa",
+      "nous": "anticipâmes",
+      "vous": "anticipâtes",
+      "ils": "anticipèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus anticipé",
+      "tu": "eus anticipé",
+      "il": "eut anticipé",
+      "nous": "eûmes anticipé",
+      "vous": "eûtes anticipé",
+      "ils": "eurent anticipé"
+    },
+    "futur_simple": {
+      "je": "anticiperai",
+      "tu": "anticiperas",
+      "il": "anticipera",
+      "nous": "anticiperons",
+      "vous": "anticiperez",
+      "ils": "anticiperont"
+    },
+    "futur_antérieur": {
+      "je": "aurai anticipé",
+      "tu": "auras anticipé",
+      "il": "aura anticipé",
+      "nous": "aurons anticipé",
+      "vous": "aurez anticipé",
+      "ils": "auront anticipé"
+    },
+    "subjonctif_présent": {
+      "je": "anticipe",
+      "tu": "anticipes",
+      "il": "anticipe",
+      "nous": "anticipions",
+      "vous": "anticipiez",
+      "ils": "anticipent"
+    },
+    "subjonctif_passé": {
+      "je": "aie anticipé",
+      "tu": "aies anticipé",
+      "il": "ait anticipé",
+      "nous": "ayons anticipé",
+      "vous": "ayez anticipé",
+      "ils": "aient anticipé"
+    },
+    "subjonctif_imparfait": {
+      "je": "anticipasse",
+      "tu": "anticipasses",
+      "il": "anticipât",
+      "nous": "anticipassions",
+      "vous": "anticipassiez",
+      "ils": "anticipassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse anticipé",
+      "tu": "eusses anticipé",
+      "il": "eût anticipé",
+      "nous": "eussions anticipé",
+      "vous": "eussiez anticipé",
+      "ils": "eussent anticipé"
+    },
+    "conditionnel_présent": {
+      "je": "anticiperais",
+      "tu": "anticiperais",
+      "il": "anticiperait",
+      "nous": "anticiperions",
+      "vous": "anticiperiez",
+      "ils": "anticiperaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais anticipé",
+      "tu": "aurais anticipé",
+      "il": "aurait anticipé",
+      "nous": "aurions anticipé",
+      "vous": "auriez anticipé",
+      "ils": "auraient anticipé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse anticipé",
+      "tu": "eusses anticipé",
+      "il": "eût anticipé",
+      "nous": "eussions anticipé",
+      "vous": "eussiez anticipé",
+      "ils": "eussent anticipé"
+    },
+    "translation": "antycypować",
+    "group": 1
+  }
+]

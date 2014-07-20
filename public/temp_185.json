@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "surprendre",
+    "présent": {
+      "je": "surprends",
+      "tu": "surprends",
+      "il": "surprend",
+      "nous": "surprenons",
+      "vous": "surprenez",
+      "ils": "surprennent"
+    },
+    "passé_composé": {
+      "je": "ai surpris",
+      "tu": "as surpris",
+      "il": "a surpris",
+      "nous": "avons surpris",
+      "vous": "avez surpris",
+      "ils": "ont surpris"
+    },
+    "imparfait": {
+      "je": "surprenais",
+      "tu": "surprenais",
+      "il": "surprenait",
+      "nous": "surprenions",
+      "vous": "surpreniez",
+      "ils": "surprenaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais surpris",
+      "tu": "avais surpris",
+      "il": "avait surpris",
+      "nous": "avions surpris",
+      "vous": "aviez surpris",
+      "ils": "avaient surpris"
+    },
+    "passé_simple": {
+      "je": "surpris",
+      "tu": "surpris",
+      "il": "surprit",
+      "nous": "surprîmes",
+      "vous": "surprîtes",
+      "ils": "surprirent"
+    },
+    "passé_antérieur": {
+      "je": "eus surpris",
+      "tu": "eus surpris",
+      "il": "eut surpris",
+      "nous": "eûmes surpris",
+      "vous": "eûtes surpris",
+      "ils": "eurent surpris"
+    },
+    "futur_simple": {
+      "je": "surprendrai",
+      "tu": "surprendras",
+      "il": "surprendra",
+      "nous": "surprendrons",
+      "vous": "surprendrez",
+      "ils": "surprendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai surpris",
+      "tu": "auras surpris",
+      "il": "aura surpris",
+      "nous": "aurons surpris",
+      "vous": "aurez surpris",
+      "ils": "auront surpris"
+    },
+    "subjonctif_présent": {
+      "je": "surprenne",
+      "tu": "surprennes",
+      "il": "surprenne",
+      "nous": "surprenions",
+      "vous": "surpreniez",
+      "ils": "surprennent"
+    },
+    "subjonctif_passé": {
+      "je": "aie surpris",
+      "tu": "aies surpris",
+      "il": "ait surpris",
+      "nous": "ayons surpris",
+      "vous": "ayez surpris",
+      "ils": "aient surpris"
+    },
+    "subjonctif_imparfait": {
+      "je": "surprisse",
+      "tu": "surprisses",
+      "il": "surprît",
+      "nous": "surprissions",
+      "vous": "surprissiez",
+      "ils": "surprissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse surpris",
+      "tu": "eusses surpris",
+      "il": "eût surpris",
+      "nous": "eussions surpris",
+      "vous": "eussiez surpris",
+      "ils": "eussent surpris"
+    },
+    "conditionnel_présent": {
+      "je": "surprendrais",
+      "tu": "surprendrais",
+      "il": "surprendrait",
+      "nous": "surprendrions",
+      "vous": "surprendriez",
+      "ils": "surprendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais surpris",
+      "tu": "aurais surpris",
+      "il": "aurait surpris",
+      "nous": "aurions surpris",
+      "vous": "auriez surpris",
+      "ils": "auraient surpris"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse surpris",
+      "tu": "eusses surpris",
+      "il": "eût surpris",
+      "nous": "eussions surpris",
+      "vous": "eussiez surpris",
+      "ils": "eussent surpris"
+    },
+    "translation": "zadziwiać",
+    "group": 3
+  },
+  {
+    "infinitive": "sursauter",
+    "présent": {
+      "je": "sursaute",
+      "tu": "sursautes",
+      "il": "sursaute",
+      "nous": "sursautons",
+      "vous": "sursautez",
+      "ils": "sursautent"
+    },
+    "passé_composé": {
+      "je": "ai sursauté",
+      "tu": "as sursauté",
+      "il": "a sursauté",
+      "nous": "avons sursauté",
+      "vous": "avez sursauté",
+      "ils": "ont sursauté"
+    },
+    "imparfait": {
+      "je": "sursautais",
+      "tu": "sursautais",
+      "il": "sursautait",
+      "nous": "sursautions",
+      "vous": "sursautiez",
+      "ils": "sursautaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais sursauté",
+      "tu": "avais sursauté",
+      "il": "avait sursauté",
+      "nous": "avions sursauté",
+      "vous": "aviez sursauté",
+      "ils": "avaient sursauté"
+    },
+    "passé_simple": {
+      "je": "sursautai",
+      "tu": "sursautas",
+      "il": "sursauta",
+      "nous": "sursautâmes",
+      "vous": "sursautâtes",
+      "ils": "sursautèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus sursauté",
+      "tu": "eus sursauté",
+      "il": "eut sursauté",
+      "nous": "eûmes sursauté",
+      "vous": "eûtes sursauté",
+      "ils": "eurent sursauté"
+    },
+    "futur_simple": {
+      "je": "sursauterai",
+      "tu": "sursauteras",
+      "il": "sursautera",
+      "nous": "sursauterons",
+      "vous": "sursauterez",
+      "ils": "sursauteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai sursauté",
+      "tu": "auras sursauté",
+      "il": "aura sursauté",
+      "nous": "aurons sursauté",
+      "vous": "aurez sursauté",
+      "ils": "auront sursauté"
+    },
+    "subjonctif_présent": {
+      "je": "sursaute",
+      "tu": "sursautes",
+      "il": "sursaute",
+      "nous": "sursautions",
+      "vous": "sursautiez",
+      "ils": "sursautent"
+    },
+    "subjonctif_passé": {
+      "je": "aie sursauté",
+      "tu": "aies sursauté",
+      "il": "ait sursauté",
+      "nous": "ayons sursauté",
+      "vous": "ayez sursauté",
+      "ils": "aient sursauté"
+    },
+    "subjonctif_imparfait": {
+      "je": "sursautasse",
+      "tu": "sursautasses",
+      "il": "sursautât",
+      "nous": "sursautassions",
+      "vous": "sursautassiez",
+      "ils": "sursautassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse sursauté",
+      "tu": "eusses sursauté",
+      "il": "eût sursauté",
+      "nous": "eussions sursauté",
+      "vous": "eussiez sursauté",
+      "ils": "eussent sursauté"
+    },
+    "conditionnel_présent": {
+      "je": "sursauterais",
+      "tu": "sursauterais",
+      "il": "sursauterait",
+      "nous": "sursauterions",
+      "vous": "sursauteriez",
+      "ils": "sursauteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais sursauté",
+      "tu": "aurais sursauté",
+      "il": "aurait sursauté",
+      "nous": "aurions sursauté",
+      "vous": "auriez sursauté",
+      "ils": "auraient sursauté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse sursauté",
+      "tu": "eusses sursauté",
+      "il": "eût sursauté",
+      "nous": "eussions sursauté",
+      "vous": "eussiez sursauté",
+      "ils": "eussent sursauté"
+    },
+    "translation": "zrywać",
+    "group": 1
+  },
+  {
+    "infinitive": "surseoir",
+    "présent": {
+      "je": "sursois",
+      "tu": "sursois",
+      "il": "sursoit",
+      "nous": "sursoyons",
+      "vous": "sursoyez",
+      "ils": "sursoient"
+    },
+    "passé_composé": {
+      "je": "ai sursis",
+      "tu": "as sursis",
+      "il": "a sursis",
+      "nous": "avons sursis",
+      "vous": "avez sursis",
+      "ils": "ont sursis"
+    },
+    "imparfait": {
+      "je": "sursoyais",
+      "tu": "sursoyais",
+      "il": "sursoyait",
+      "nous": "sursoyions",
+      "vous": "sursoyiez",
+      "ils": "sursoyaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais sursis",
+      "tu": "avais sursis",
+      "il": "avait sursis",
+      "nous": "avions sursis",
+      "vous": "aviez sursis",
+      "ils": "avaient sursis"
+    },
+    "passé_simple": {
+      "je": "sursis",
+      "tu": "sursis",
+      "il": "sursit",
+      "nous": "sursîmes",
+      "vous": "sursîtes",
+      "ils": "sursirent"
+    },
+    "passé_antérieur": {
+      "je": "eus sursis",
+      "tu": "eus sursis",
+      "il": "eut sursis",
+      "nous": "eûmes sursis",
+      "vous": "eûtes sursis",
+      "ils": "eurent sursis"
+    },
+    "futur_simple": {
+      "je": "surseoirai",
+      "tu": "surseoiras",
+      "il": "surseoira",
+      "nous": "surseoirons",
+      "vous": "surseoirez",
+      "ils": "surseoiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai sursis",
+      "tu": "auras sursis",
+      "il": "aura sursis",
+      "nous": "aurons sursis",
+      "vous": "aurez sursis",
+      "ils": "auront sursis"
+    },
+    "subjonctif_présent": {
+      "je": "sursoie",
+      "tu": "sursoies",
+      "il": "sursoie",
+      "nous": "sursoyions",
+      "vous": "sursoyiez",
+      "ils": "sursoient"
+    },
+    "subjonctif_passé": {
+      "je": "aie sursis",
+      "tu": "aies sursis",
+      "il": "ait sursis",
+      "nous": "ayons sursis",
+      "vous": "ayez sursis",
+      "ils": "aient sursis"
+    },
+    "subjonctif_imparfait": {
+      "je": "sursisse",
+      "tu": "sursisses",
+      "il": "sursît",
+      "nous": "sursissions",
+      "vous": "sursissiez",
+      "ils": "sursissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse sursis",
+      "tu": "eusses sursis",
+      "il": "eût sursis",
+      "nous": "eussions sursis",
+      "vous": "eussiez sursis",
+      "ils": "eussent sursis"
+    },
+    "conditionnel_présent": {
+      "je": "surseoirais",
+      "tu": "surseoirais",
+      "il": "surseoirait",
+      "nous": "surseoirions",
+      "vous": "surseoiriez",
+      "ils": "surseoiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais sursis",
+      "tu": "aurais sursis",
+      "il": "aurait sursis",
+      "nous": "aurions sursis",
+      "vous": "auriez sursis",
+      "ils": "auraient sursis"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse sursis",
+      "tu": "eusses sursis",
+      "il": "eût sursis",
+      "nous": "eussions sursis",
+      "vous": "eussiez sursis",
+      "ils": "eussent sursis"
+    },
+    "translation": "surseoir",
+    "group": 3
+  },
+  {
+    "infinitive": "surveiller",
+    "présent": {
+      "je": "surveille",
+      "tu": "surveilles",
+      "il": "surveille",
+      "nous": "surveillons",
+      "vous": "surveillez",
+      "ils": "surveillent"
+    },
+    "passé_composé": {
+      "je": "ai surveillé",
+      "tu": "as surveillé",
+      "il": "a surveillé",
+      "nous": "avons surveillé",
+      "vous": "avez surveillé",
+      "ils": "ont surveillé"
+    },
+    "imparfait": {
+      "je": "surveillais",
+      "tu": "surveillais",
+      "il": "surveillait",
+      "nous": "surveillions",
+      "vous": "surveilliez",
+      "ils": "surveillaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais surveillé",
+      "tu": "avais surveillé",
+      "il": "avait surveillé",
+      "nous": "avions surveillé",
+      "vous": "aviez surveillé",
+      "ils": "avaient surveillé"
+    },
+    "passé_simple": {
+      "je": "surveillai",
+      "tu": "surveillas",
+      "il": "surveilla",
+      "nous": "surveillâmes",
+      "vous": "surveillâtes",
+      "ils": "surveillèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus surveillé",
+      "tu": "eus surveillé",
+      "il": "eut surveillé",
+      "nous": "eûmes surveillé",
+      "vous": "eûtes surveillé",
+      "ils": "eurent surveillé"
+    },
+    "futur_simple": {
+      "je": "surveillerai",
+      "tu": "surveilleras",
+      "il": "surveillera",
+      "nous": "surveillerons",
+      "vous": "surveillerez",
+      "ils": "surveilleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai surveillé",
+      "tu": "auras surveillé",
+      "il": "aura surveillé",
+      "nous": "aurons surveillé",
+      "vous": "aurez surveillé",
+      "ils": "auront surveillé"
+    },
+    "subjonctif_présent": {
+      "je": "surveille",
+      "tu": "surveilles",
+      "il": "surveille",
+      "nous": "surveillions",
+      "vous": "surveilliez",
+      "ils": "surveillent"
+    },
+    "subjonctif_passé": {
+      "je": "aie surveillé",
+      "tu": "aies surveillé",
+      "il": "ait surveillé",
+      "nous": "ayons surveillé",
+      "vous": "ayez surveillé",
+      "ils": "aient surveillé"
+    },
+    "subjonctif_imparfait": {
+      "je": "surveillasse",
+      "tu": "surveillasses",
+      "il": "surveillât",
+      "nous": "surveillassions",
+      "vous": "surveillassiez",
+      "ils": "surveillassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse surveillé",
+      "tu": "eusses surveillé",
+      "il": "eût surveillé",
+      "nous": "eussions surveillé",
+      "vous": "eussiez surveillé",
+      "ils": "eussent surveillé"
+    },
+    "conditionnel_présent": {
+      "je": "surveillerais",
+      "tu": "surveillerais",
+      "il": "surveillerait",
+      "nous": "surveillerions",
+      "vous": "surveilleriez",
+      "ils": "surveilleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais surveillé",
+      "tu": "aurais surveillé",
+      "il": "aurait surveillé",
+      "nous": "aurions surveillé",
+      "vous": "auriez surveillé",
+      "ils": "auraient surveillé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse surveillé",
+      "tu": "eusses surveillé",
+      "il": "eût surveillé",
+      "nous": "eussions surveillé",
+      "vous": "eussiez surveillé",
+      "ils": "eussent surveillé"
+    },
+    "translation": "doglądać",
+    "group": 1
+  },
+  {
+    "infinitive": "survenir",
+    "présent": {
+      "je": "surviens",
+      "tu": "surviens",
+      "il": "survient",
+      "nous": "survenons",
+      "vous": "survenez",
+      "ils": "surviennent"
+    },
+    "passé_composé": {
+      "je": "suis survenu",
+      "tu": "es survenu",
+      "il": "est survenu",
+      "nous": "sommes survenus",
+      "vous": "êtes survenus",
+      "ils": "sont survenus"
+    },
+    "imparfait": {
+      "je": "survenais",
+      "tu": "survenais",
+      "il": "survenait",
+      "nous": "survenions",
+      "vous": "surveniez",
+      "ils": "survenaient"
+    },
+    "plus_que_parfait": {
+      "je": "étais survenu",
+      "tu": "étais survenu",
+      "il": "était survenu",
+      "nous": "étions survenus",
+      "vous": "étiez survenus",
+      "ils": "étaient survenus"
+    },
+    "passé_simple": {
+      "je": "survins",
+      "tu": "survins",
+      "il": "survint",
+      "nous": "survînmes",
+      "vous": "survîntes",
+      "ils": "survinrent"
+    },
+    "passé_antérieur": {
+      "je": "fus survenu",
+      "tu": "fus survenu",
+      "il": "fut survenu",
+      "nous": "fûmes survenus",
+      "vous": "fûtes survenus",
+      "ils": "furent survenus"
+    },
+    "futur_simple": {
+      "je": "surviendrai",
+      "tu": "surviendras",
+      "il": "surviendra",
+      "nous": "surviendrons",
+      "vous": "surviendrez",
+      "ils": "surviendront"
+    },
+    "futur_antérieur": {
+      "je": "serai survenu",
+      "tu": "seras survenu",
+      "il": "sera survenu",
+      "nous": "serons survenus",
+      "vous": "serez survenus",
+      "ils": "seront survenus"
+    },
+    "subjonctif_présent": {
+      "je": "survienne",
+      "tu": "surviennes",
+      "il": "survienne",
+      "nous": "survenions",
+      "vous": "surveniez",
+      "ils": "surviennent"
+    },
+    "subjonctif_passé": {
+      "je": "sois survenu",
+      "tu": "sois survenu",
+      "il": "soit survenu",
+      "nous": "soyons survenus",
+      "vous": "soyez survenus",
+      "ils": "soient survenus"
+    },
+    "subjonctif_imparfait": {
+      "je": "survinsse",
+      "tu": "survinsses",
+      "il": "survînt",
+      "nous": "survinssions",
+      "vous": "survinssiez",
+      "ils": "survinssent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "fusse survenu",
+      "tu": "fusses survenu",
+      "il": "fût survenu",
+      "nous": "fussions survenus",
+      "vous": "fussiez survenus",
+      "ils": "fussent survenus"
+    },
+    "conditionnel_présent": {
+      "je": "surviendrais",
+      "tu": "surviendrais",
+      "il": "surviendrait",
+      "nous": "surviendrions",
+      "vous": "surviendriez",
+      "ils": "surviendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "serais survenu",
+      "tu": "serais survenu",
+      "il": "serait survenu",
+      "nous": "serions survenus",
+      "vous": "seriez survenus",
+      "ils": "seraient survenus"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "fusse survenu",
+      "tu": "fusses survenu",
+      "il": "fût survenu",
+      "nous": "fussions survenus",
+      "vous": "fussiez survenus",
+      "ils": "fussent survenus"
+    },
+    "translation": "survenir",
+    "group": 3
+  },
+  {
+    "infinitive": "survivre",
+    "présent": {
+      "je": "survis",
+      "tu": "survis",
+      "il": "survit",
+      "nous": "survivons",
+      "vous": "survivez",
+      "ils": "survivent"
+    },
+    "passé_composé": {
+      "je": "ai survécu",
+      "tu": "as survécu",
+      "il": "a survécu",
+      "nous": "avons survécu",
+      "vous": "avez survécu",
+      "ils": "ont survécu"
+    },
+    "imparfait": {
+      "je": "survivais",
+      "tu": "survivais",
+      "il": "survivait",
+      "nous": "survivions",
+      "vous": "surviviez",
+      "ils": "survivaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais survécu",
+      "tu": "avais survécu",
+      "il": "avait survécu",
+      "nous": "avions survécu",
+      "vous": "aviez survécu",
+      "ils": "avaient survécu"
+    },
+    "passé_simple": {
+      "je": "survécus",
+      "tu": "survécus",
+      "il": "survécut",
+      "nous": "survécûmes",
+      "vous": "survécûtes",
+      "ils": "survécurent"
+    },
+    "passé_antérieur": {
+      "je": "eus survécu",
+      "tu": "eus survécu",
+      "il": "eut survécu",
+      "nous": "eûmes survécu",
+      "vous": "eûtes survécu",
+      "ils": "eurent survécu"
+    },
+    "futur_simple": {
+      "je": "survivrai",
+      "tu": "survivras",
+      "il": "survivra",
+      "nous": "survivrons",
+      "vous": "survivrez",
+      "ils": "survivront"
+    },
+    "futur_antérieur": {
+      "je": "aurai survécu",
+      "tu": "auras survécu",
+      "il": "aura survécu",
+      "nous": "aurons survécu",
+      "vous": "aurez survécu",
+      "ils": "auront survécu"
+    },
+    "subjonctif_présent": {
+      "je": "survive",
+      "tu": "survives",
+      "il": "survive",
+      "nous": "survivions",
+      "vous": "surviviez",
+      "ils": "survivent"
+    },
+    "subjonctif_passé": {
+      "je": "aie survécu",
+      "tu": "aies survécu",
+      "il": "ait survécu",
+      "nous": "ayons survécu",
+      "vous": "ayez survécu",
+      "ils": "aient survécu"
+    },
+    "subjonctif_imparfait": {
+      "je": "survécusse",
+      "tu": "survécusses",
+      "il": "survécût",
+      "nous": "survécussions",
+      "vous": "survécussiez",
+      "ils": "survécussent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse survécu",
+      "tu": "eusses survécu",
+      "il": "eût survécu",
+      "nous": "eussions survécu",
+      "vous": "eussiez survécu",
+      "ils": "eussent survécu"
+    },
+    "conditionnel_présent": {
+      "je": "survivrais",
+      "tu": "survivrais",
+      "il": "survivrait",
+      "nous": "survivrions",
+      "vous": "survivriez",
+      "ils": "survivraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais survécu",
+      "tu": "aurais survécu",
+      "il": "aurait survécu",
+      "nous": "aurions survécu",
+      "vous": "auriez survécu",
+      "ils": "auraient survécu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse survécu",
+      "tu": "eusses survécu",
+      "il": "eût survécu",
+      "nous": "eussions survécu",
+      "vous": "eussiez survécu",
+      "ils": "eussent survécu"
+    },
+    "translation": "przeżyć",
+    "group": 3
+  },
+  {
+    "infinitive": "susciter",
+    "présent": {
+      "je": "suscite",
+      "tu": "suscites",
+      "il": "suscite",
+      "nous": "suscitons",
+      "vous": "suscitez",
+      "ils": "suscitent"
+    },
+    "passé_composé": {
+      "je": "ai suscité",
+      "tu": "as suscité",
+      "il": "a suscité",
+      "nous": "avons suscité",
+      "vous": "avez suscité",
+      "ils": "ont suscité"
+    },
+    "imparfait": {
+      "je": "suscitais",
+      "tu": "suscitais",
+      "il": "suscitait",
+      "nous": "suscitions",
+      "vous": "suscitiez",
+      "ils": "suscitaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais suscité",
+      "tu": "avais suscité",
+      "il": "avait suscité",
+      "nous": "avions suscité",
+      "vous": "aviez suscité",
+      "ils": "avaient suscité"
+    },
+    "passé_simple": {
+      "je": "suscitai",
+      "tu": "suscitas",
+      "il": "suscita",
+      "nous": "suscitâmes",
+      "vous": "suscitâtes",
+      "ils": "suscitèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus suscité",
+      "tu": "eus suscité",
+      "il": "eut suscité",
+      "nous": "eûmes suscité",
+      "vous": "eûtes suscité",
+      "ils": "eurent suscité"
+    },
+    "futur_simple": {
+      "je": "susciterai",
+      "tu": "susciteras",
+      "il": "suscitera",
+      "nous": "susciterons",
+      "vous": "susciterez",
+      "ils": "susciteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai suscité",
+      "tu": "auras suscité",
+      "il": "aura suscité",
+      "nous": "aurons suscité",
+      "vous": "aurez suscité",
+      "ils": "auront suscité"
+    },
+    "subjonctif_présent": {
+      "je": "suscite",
+      "tu": "suscites",
+      "il": "suscite",
+      "nous": "suscitions",
+      "vous": "suscitiez",
+      "ils": "suscitent"
+    },
+    "subjonctif_passé": {
+      "je": "aie suscité",
+      "tu": "aies suscité",
+      "il": "ait suscité",
+      "nous": "ayons suscité",
+      "vous": "ayez suscité",
+      "ils": "aient suscité"
+    },
+    "subjonctif_imparfait": {
+      "je": "suscitasse",
+      "tu": "suscitasses",
+      "il": "suscitât",
+      "nous": "suscitassions",
+      "vous": "suscitassiez",
+      "ils": "suscitassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse suscité",
+      "tu": "eusses suscité",
+      "il": "eût suscité",
+      "nous": "eussions suscité",
+      "vous": "eussiez suscité",
+      "ils": "eussent suscité"
+    },
+    "conditionnel_présent": {
+      "je": "susciterais",
+      "tu": "susciterais",
+      "il": "susciterait",
+      "nous": "susciterions",
+      "vous": "susciteriez",
+      "ils": "susciteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais suscité",
+      "tu": "aurais suscité",
+      "il": "aurait suscité",
+      "nous": "aurions suscité",
+      "vous": "auriez suscité",
+      "ils": "auraient suscité"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse suscité",
+      "tu": "eusses suscité",
+      "il": "eût suscité",
+      "nous": "eussions suscité",
+      "vous": "eussiez suscité",
+      "ils": "eussent suscité"
+    },
+    "translation": "wywoływać",
+    "group": 1
+  },
+  {
+    "infinitive": "suspendre",
+    "présent": {
+      "je": "suspends",
+      "tu": "suspends",
+      "il": "suspend",
+      "nous": "suspendons",
+      "vous": "suspendez",
+      "ils": "suspendent"
+    },
+    "passé_composé": {
+      "je": "ai suspendu",
+      "tu": "as suspendu",
+      "il": "a suspendu",
+      "nous": "avons suspendu",
+      "vous": "avez suspendu",
+      "ils": "ont suspendu"
+    },
+    "imparfait": {
+      "je": "suspendais",
+      "tu": "suspendais",
+      "il": "suspendait",
+      "nous": "suspendions",
+      "vous": "suspendiez",
+      "ils": "suspendaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais suspendu",
+      "tu": "avais suspendu",
+      "il": "avait suspendu",
+      "nous": "avions suspendu",
+      "vous": "aviez suspendu",
+      "ils": "avaient suspendu"
+    },
+    "passé_simple": {
+      "je": "suspendis",
+      "tu": "suspendis",
+      "il": "suspendit",
+      "nous": "suspendîmes",
+      "vous": "suspendîtes",
+      "ils": "suspendirent"
+    },
+    "passé_antérieur": {
+      "je": "eus suspendu",
+      "tu": "eus suspendu",
+      "il": "eut suspendu",
+      "nous": "eûmes suspendu",
+      "vous": "eûtes suspendu",
+      "ils": "eurent suspendu"
+    },
+    "futur_simple": {
+      "je": "suspendrai",
+      "tu": "suspendras",
+      "il": "suspendra",
+      "nous": "suspendrons",
+      "vous": "suspendrez",
+      "ils": "suspendront"
+    },
+    "futur_antérieur": {
+      "je": "aurai suspendu",
+      "tu": "auras suspendu",
+      "il": "aura suspendu",
+      "nous": "aurons suspendu",
+      "vous": "aurez suspendu",
+      "ils": "auront suspendu"
+    },
+    "subjonctif_présent": {
+      "je": "suspende",
+      "tu": "suspendes",
+      "il": "suspende",
+      "nous": "suspendions",
+      "vous": "suspendiez",
+      "ils": "suspendent"
+    },
+    "subjonctif_passé": {
+      "je": "aie suspendu",
+      "tu": "aies suspendu",
+      "il": "ait suspendu",
+      "nous": "ayons suspendu",
+      "vous": "ayez suspendu",
+      "ils": "aient suspendu"
+    },
+    "subjonctif_imparfait": {
+      "je": "suspendisse",
+      "tu": "suspendisses",
+      "il": "suspendît",
+      "nous": "suspendissions",
+      "vous": "suspendissiez",
+      "ils": "suspendissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse suspendu",
+      "tu": "eusses suspendu",
+      "il": "eût suspendu",
+      "nous": "eussions suspendu",
+      "vous": "eussiez suspendu",
+      "ils": "eussent suspendu"
+    },
+    "conditionnel_présent": {
+      "je": "suspendrais",
+      "tu": "suspendrais",
+      "il": "suspendrait",
+      "nous": "suspendrions",
+      "vous": "suspendriez",
+      "ils": "suspendraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais suspendu",
+      "tu": "aurais suspendu",
+      "il": "aurait suspendu",
+      "nous": "aurions suspendu",
+      "vous": "auriez suspendu",
+      "ils": "auraient suspendu"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse suspendu",
+      "tu": "eusses suspendu",
+      "il": "eût suspendu",
+      "nous": "eussions suspendu",
+      "vous": "eussiez suspendu",
+      "ils": "eussent suspendu"
+    },
+    "translation": "wieszać",
+    "group": 3
+  },
+  {
+    "infinitive": "sustenter",
+    "présent": {
+      "je": "sustente",
+      "tu": "sustentes",
+      "il": "sustente",
+      "nous": "sustentons",
+      "vous": "sustentez",
+      "ils": "sustentent"
+    },
+    "passé_composé": {
+      "je": "ai sustenté",
+      "tu": "as sustenté",
+      "il": "a sustenté",
+      "nous": "avons sustenté",
+      "vous": "avez sustenté",
+      "ils": "ont sustenté"
+    },
+    "imparfait": {
+      "je": "sustentais",
+      "tu": "sustentais",
+      "il": "sustentait",
+      "nous": "sustentions",
+      "vous": "sustentiez",
+      "ils": "sustentaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais sustenté",
+      "tu": "avais sustenté",
+      "il": "avait sustenté",
+      "nous": "avions sustenté",
+      "vous": "aviez sustenté",
+      "ils": "avaient sustenté"
+    },
+    "passé_simple": {
+      "je": "sustentai",
+      "tu": "sustentas",
+      "il": "sustenta",
+      "nous": "sustentâmes",
+      "vous": "sustentâtes",
+      "ils": "sustentèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus sustenté",
+      "tu": "eus sustenté",
+      "il": "eut sustenté",
+      "nous": "eûmes sustenté",
+      "vous": "eûtes sustenté",
+      "ils": "eurent sustenté"
+    },
+    "futur_simple": {
+      "je": "sustenterai",
+      "tu": "sustenteras",
+      "il": "sustentera",
+      "nous": "sustenterons",
+      "vous": "sustenterez",
+      "ils": "sustenteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai sustenté",
+      "tu": "auras sustenté",
+      "il": "aura sustenté",
+      "nous": "aurons sustenté",
+      "vous": "aurez sustenté",
+      "ils": "auront sustenté"
+    },
+    "subjonctif_présent": {
+      "je": "sustente",
+      "tu": "sustentes",
+      "il": "sustente",
+      "nous": "sustentions",
+      "vous": "sustentiez",
+      "ils": "sustentent"
+    },
+    "subjonctif_passé": {
+      "je": "aie sustenté",
+      "tu": "aies sustenté",
+      "il": "ait sustenté",
+      "nous": "ayons sustenté",
+      "vous": "ayez sustenté",
+      "ils": "aient sustenté"
+    },
+    "subjonctif_imparfait": {
+      "je": "sustentasse",
+      "tu": "sustentasses",
+      "il": "sustentât",
+      "nous": "sustentassions",
+      "vous": "sustentassiez",
+      "ils": "sustentassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse sustenté",
+      "tu": "eusses sustenté",
+      "il": "eût sustenté",
+      "nous": "eussions sustenté",
+      "vous": "eussiez sustenté",
+      "ils": "eussent sustenté"
+    },
+    "conditionnel_présent": {
+      "je": "sustenterais",
+      "tu": "sustenterais",
+      "il": "sustenterait",
+      "nous": "sustenterions",
+      "vous": "sustenteriez",
+      "ils": "sustenteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais sustenté",
+      "tu": "aurais sustenté",
+      "il": "aurait sustenté",
+      "nous": "aurions sustenté",
+      "vous": "auriez sustenté",
+      "ils": "auraient sustenté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse sustenté",
+      "tu": "eusses sustenté",
+      "il": "eût sustenté",
+      "nous": "eussions sustenté",
+      "vous": "eussiez sustenté",
+      "ils": "eussent sustenté"
+    },
+    "translation": "targnąć",
+    "group": 1
+  },
+  {
+    "infinitive": "susurrer",
+    "présent": {
+      "je": "susurre",
+      "tu": "susurres",
+      "il": "susurre",
+      "nous": "susurrons",
+      "vous": "susurrez",
+      "ils": "susurrent"
+    },
+    "passé_composé": {
+      "je": "ai susurré",
+      "tu": "as susurré",
+      "il": "a susurré",
+      "nous": "avons susurré",
+      "vous": "avez susurré",
+      "ils": "ont susurré"
+    },
+    "imparfait": {
+      "je": "susurrais",
+      "tu": "susurrais",
+      "il": "susurrait",
+      "nous": "susurrions",
+      "vous": "susurriez",
+      "ils": "susurraient"
+    },
+    "plus_que_parfait": {
+      "je": "avais susurré",
+      "tu": "avais susurré",
+      "il": "avait susurré",
+      "nous": "avions susurré",
+      "vous": "aviez susurré",
+      "ils": "avaient susurré"
+    },
+    "passé_simple": {
+      "je": "susurrai",
+      "tu": "susurras",
+      "il": "susurra",
+      "nous": "susurrâmes",
+      "vous": "susurrâtes",
+      "ils": "susurrèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus susurré",
+      "tu": "eus susurré",
+      "il": "eut susurré",
+      "nous": "eûmes susurré",
+      "vous": "eûtes susurré",
+      "ils": "eurent susurré"
+    },
+    "futur_simple": {
+      "je": "susurrerai",
+      "tu": "susurreras",
+      "il": "susurrera",
+      "nous": "susurrerons",
+      "vous": "susurrerez",
+      "ils": "susurreront"
+    },
+    "futur_antérieur": {
+      "je": "aurai susurré",
+      "tu": "auras susurré",
+      "il": "aura susurré",
+      "nous": "aurons susurré",
+      "vous": "aurez susurré",
+      "ils": "auront susurré"
+    },
+    "subjonctif_présent": {
+      "je": "susurre",
+      "tu": "susurres",
+      "il": "susurre",
+      "nous": "susurrions",
+      "vous": "susurriez",
+      "ils": "susurrent"
+    },
+    "subjonctif_passé": {
+      "je": "aie susurré",
+      "tu": "aies susurré",
+      "il": "ait susurré",
+      "nous": "ayons susurré",
+      "vous": "ayez susurré",
+      "ils": "aient susurré"
+    },
+    "subjonctif_imparfait": {
+      "je": "susurrasse",
+      "tu": "susurrasses",
+      "il": "susurrât",
+      "nous": "susurrassions",
+      "vous": "susurrassiez",
+      "ils": "susurrassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse susurré",
+      "tu": "eusses susurré",
+      "il": "eût susurré",
+      "nous": "eussions susurré",
+      "vous": "eussiez susurré",
+      "ils": "eussent susurré"
+    },
+    "conditionnel_présent": {
+      "je": "susurrerais",
+      "tu": "susurrerais",
+      "il": "susurrerait",
+      "nous": "susurrerions",
+      "vous": "susurreriez",
+      "ils": "susurreraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais susurré",
+      "tu": "aurais susurré",
+      "il": "aurait susurré",
+      "nous": "aurions susurré",
+      "vous": "auriez susurré",
+      "ils": "auraient susurré"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse susurré",
+      "tu": "eusses susurré",
+      "il": "eût susurré",
+      "nous": "eussions susurré",
+      "vous": "eussiez susurré",
+      "ils": "eussent susurré"
+    },
+    "translation": "smarować",
+    "group": 1
+  }
+]

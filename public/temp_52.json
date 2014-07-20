@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "croupir",
+    "présent": {
+      "je": "croupis",
+      "tu": "croupis",
+      "il": "croupit",
+      "nous": "croupissons",
+      "vous": "croupissez",
+      "ils": "croupissent"
+    },
+    "passé_composé": {
+      "je": "ai croupi",
+      "tu": "as croupi",
+      "il": "a croupi",
+      "nous": "avons croupi",
+      "vous": "avez croupi",
+      "ils": "ont croupi"
+    },
+    "imparfait": {
+      "je": "croupissais",
+      "tu": "croupissais",
+      "il": "croupissait",
+      "nous": "croupissions",
+      "vous": "croupissiez",
+      "ils": "croupissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais croupi",
+      "tu": "avais croupi",
+      "il": "avait croupi",
+      "nous": "avions croupi",
+      "vous": "aviez croupi",
+      "ils": "avaient croupi"
+    },
+    "passé_simple": {
+      "je": "croupis",
+      "tu": "croupis",
+      "il": "croupit",
+      "nous": "croupîmes",
+      "vous": "croupîtes",
+      "ils": "croupirent"
+    },
+    "passé_antérieur": {
+      "je": "eus croupi",
+      "tu": "eus croupi",
+      "il": "eut croupi",
+      "nous": "eûmes croupi",
+      "vous": "eûtes croupi",
+      "ils": "eurent croupi"
+    },
+    "futur_simple": {
+      "je": "croupirai",
+      "tu": "croupiras",
+      "il": "croupira",
+      "nous": "croupirons",
+      "vous": "croupirez",
+      "ils": "croupiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai croupi",
+      "tu": "auras croupi",
+      "il": "aura croupi",
+      "nous": "aurons croupi",
+      "vous": "aurez croupi",
+      "ils": "auront croupi"
+    },
+    "subjonctif_présent": {
+      "je": "croupisse",
+      "tu": "croupisses",
+      "il": "croupisse",
+      "nous": "croupissions",
+      "vous": "croupissiez",
+      "ils": "croupissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie croupi",
+      "tu": "aies croupi",
+      "il": "ait croupi",
+      "nous": "ayons croupi",
+      "vous": "ayez croupi",
+      "ils": "aient croupi"
+    },
+    "subjonctif_imparfait": {
+      "je": "croupisse",
+      "tu": "croupisses",
+      "il": "croupît",
+      "nous": "croupissions",
+      "vous": "croupissiez",
+      "ils": "croupissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse croupi",
+      "tu": "eusses croupi",
+      "il": "eût croupi",
+      "nous": "eussions croupi",
+      "vous": "eussiez croupi",
+      "ils": "eussent croupi"
+    },
+    "conditionnel_présent": {
+      "je": "croupirais",
+      "tu": "croupirais",
+      "il": "croupirait",
+      "nous": "croupirions",
+      "vous": "croupiriez",
+      "ils": "croupiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais croupi",
+      "tu": "aurais croupi",
+      "il": "aurait croupi",
+      "nous": "aurions croupi",
+      "vous": "auriez croupi",
+      "ils": "auraient croupi"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse croupi",
+      "tu": "eusses croupi",
+      "il": "eût croupi",
+      "nous": "eussions croupi",
+      "vous": "eussiez croupi",
+      "ils": "eussent croupi"
+    },
+    "translation": "zgnić",
+    "group": 2
+  },
+  {
+    "infinitive": "cueillir",
+    "présent": {
+      "je": "cueille",
+      "tu": "cueilles",
+      "il": "cueille",
+      "nous": "cueillons",
+      "vous": "cueillez",
+      "ils": "cueillent"
+    },
+    "passé_composé": {
+      "je": "ai cueilli",
+      "tu": "as cueilli",
+      "il": "a cueilli",
+      "nous": "avons cueilli",
+      "vous": "avez cueilli",
+      "ils": "ont cueilli"
+    },
+    "imparfait": {
+      "je": "cueillais",
+      "tu": "cueillais",
+      "il": "cueillait",
+      "nous": "cueillions",
+      "vous": "cueilliez",
+      "ils": "cueillaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais cueilli",
+      "tu": "avais cueilli",
+      "il": "avait cueilli",
+      "nous": "avions cueilli",
+      "vous": "aviez cueilli",
+      "ils": "avaient cueilli"
+    },
+    "passé_simple": {
+      "je": "cueillis",
+      "tu": "cueillis",
+      "il": "cueillit",
+      "nous": "cueillîmes",
+      "vous": "cueillîtes",
+      "ils": "cueillirent"
+    },
+    "passé_antérieur": {
+      "je": "eus cueilli",
+      "tu": "eus cueilli",
+      "il": "eut cueilli",
+      "nous": "eûmes cueilli",
+      "vous": "eûtes cueilli",
+      "ils": "eurent cueilli"
+    },
+    "futur_simple": {
+      "je": "cueillerai",
+      "tu": "cueilleras",
+      "il": "cueillera",
+      "nous": "cueillerons",
+      "vous": "cueillerez",
+      "ils": "cueilleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai cueilli",
+      "tu": "auras cueilli",
+      "il": "aura cueilli",
+      "nous": "aurons cueilli",
+      "vous": "aurez cueilli",
+      "ils": "auront cueilli"
+    },
+    "subjonctif_présent": {
+      "je": "cueille",
+      "tu": "cueilles",
+      "il": "cueille",
+      "nous": "cueillions",
+      "vous": "cueilliez",
+      "ils": "cueillent"
+    },
+    "subjonctif_passé": {
+      "je": "aie cueilli",
+      "tu": "aies cueilli",
+      "il": "ait cueilli",
+      "nous": "ayons cueilli",
+      "vous": "ayez cueilli",
+      "ils": "aient cueilli"
+    },
+    "subjonctif_imparfait": {
+      "je": "cueillisse",
+      "tu": "cueillisses",
+      "il": "cueillît",
+      "nous": "cueillissions",
+      "vous": "cueillissiez",
+      "ils": "cueillissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse cueilli",
+      "tu": "eusses cueilli",
+      "il": "eût cueilli",
+      "nous": "eussions cueilli",
+      "vous": "eussiez cueilli",
+      "ils": "eussent cueilli"
+    },
+    "conditionnel_présent": {
+      "je": "cueillerais",
+      "tu": "cueillerais",
+      "il": "cueillerait",
+      "nous": "cueillerions",
+      "vous": "cueilleriez",
+      "ils": "cueilleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais cueilli",
+      "tu": "aurais cueilli",
+      "il": "aurait cueilli",
+      "nous": "aurions cueilli",
+      "vous": "auriez cueilli",
+      "ils": "auraient cueilli"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse cueilli",
+      "tu": "eusses cueilli",
+      "il": "eût cueilli",
+      "nous": "eussions cueilli",
+      "vous": "eussiez cueilli",
+      "ils": "eussent cueilli"
+    },
+    "translation": "zrywać",
+    "group": 3
+  },
+  {
+    "infinitive": "cuire",
+    "présent": {
+      "je": "cuis",
+      "tu": "cuis",
+      "il": "cuit",
+      "nous": "cuisons",
+      "vous": "cuisez",
+      "ils": "cuisent"
+    },
+    "passé_composé": {
+      "je": "ai cuit",
+      "tu": "as cuit",
+      "il": "a cuit",
+      "nous": "avons cuit",
+      "vous": "avez cuit",
+      "ils": "ont cuit"
+    },
+    "imparfait": {
+      "je": "cuisais",
+      "tu": "cuisais",
+      "il": "cuisait",
+      "nous": "cuisions",
+      "vous": "cuisiez",
+      "ils": "cuisaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais cuit",
+      "tu": "avais cuit",
+      "il": "avait cuit",
+      "nous": "avions cuit",
+      "vous": "aviez cuit",
+      "ils": "avaient cuit"
+    },
+    "passé_simple": {
+      "je": "cuisis",
+      "tu": "cuisis",
+      "il": "cuisit",
+      "nous": "cuisîmes",
+      "vous": "cuisîtes",
+      "ils": "cuisirent"
+    },
+    "passé_antérieur": {
+      "je": "eus cuit",
+      "tu": "eus cuit",
+      "il": "eut cuit",
+      "nous": "eûmes cuit",
+      "vous": "eûtes cuit",
+      "ils": "eurent cuit"
+    },
+    "futur_simple": {
+      "je": "cuirai",
+      "tu": "cuiras",
+      "il": "cuira",
+      "nous": "cuirons",
+      "vous": "cuirez",
+      "ils": "cuiront"
+    },
+    "futur_antérieur": {
+      "je": "aurai cuit",
+      "tu": "auras cuit",
+      "il": "aura cuit",
+      "nous": "aurons cuit",
+      "vous": "aurez cuit",
+      "ils": "auront cuit"
+    },
+    "subjonctif_présent": {
+      "je": "cuise",
+      "tu": "cuises",
+      "il": "cuise",
+      "nous": "cuisions",
+      "vous": "cuisiez",
+      "ils": "cuisent"
+    },
+    "subjonctif_passé": {
+      "je": "aie cuit",
+      "tu": "aies cuit",
+      "il": "ait cuit",
+      "nous": "ayons cuit",
+      "vous": "ayez cuit",
+      "ils": "aient cuit"
+    },
+    "subjonctif_imparfait": {
+      "je": "cuisisse",
+      "tu": "cuisisses",
+      "il": "cuisît",
+      "nous": "cuisissions",
+      "vous": "cuisissiez",
+      "ils": "cuisissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse cuit",
+      "tu": "eusses cuit",
+      "il": "eût cuit",
+      "nous": "eussions cuit",
+      "vous": "eussiez cuit",
+      "ils": "eussent cuit"
+    },
+    "conditionnel_présent": {
+      "je": "cuirais",
+      "tu": "cuirais",
+      "il": "cuirait",
+      "nous": "cuirions",
+      "vous": "cuiriez",
+      "ils": "cuiraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais cuit",
+      "tu": "aurais cuit",
+      "il": "aurait cuit",
+      "nous": "aurions cuit",
+      "vous": "auriez cuit",
+      "ils": "auraient cuit"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse cuit",
+      "tu": "eusses cuit",
+      "il": "eût cuit",
+      "nous": "eussions cuit",
+      "vous": "eussiez cuit",
+      "ils": "eussent cuit"
+    },
+    "translation": "gotować",
+    "group": 3
+  },
+  {
+    "infinitive": "cuisiner",
+    "présent": {
+      "je": "cuisine",
+      "tu": "cuisines",
+      "il": "cuisine",
+      "nous": "cuisinons",
+      "vous": "cuisinez",
+      "ils": "cuisinent"
+    },
+    "passé_composé": {
+      "je": "ai cuisiné",
+      "tu": "as cuisiné",
+      "il": "a cuisiné",
+      "nous": "avons cuisiné",
+      "vous": "avez cuisiné",
+      "ils": "ont cuisiné"
+    },
+    "imparfait": {
+      "je": "cuisinais",
+      "tu": "cuisinais",
+      "il": "cuisinait",
+      "nous": "cuisinions",
+      "vous": "cuisiniez",
+      "ils": "cuisinaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais cuisiné",
+      "tu": "avais cuisiné",
+      "il": "avait cuisiné",
+      "nous": "avions cuisiné",
+      "vous": "aviez cuisiné",
+      "ils": "avaient cuisiné"
+    },
+    "passé_simple": {
+      "je": "cuisinai",
+      "tu": "cuisinas",
+      "il": "cuisina",
+      "nous": "cuisinâmes",
+      "vous": "cuisinâtes",
+      "ils": "cuisinèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus cuisiné",
+      "tu": "eus cuisiné",
+      "il": "eut cuisiné",
+      "nous": "eûmes cuisiné",
+      "vous": "eûtes cuisiné",
+      "ils": "eurent cuisiné"
+    },
+    "futur_simple": {
+      "je": "cuisinerai",
+      "tu": "cuisineras",
+      "il": "cuisinera",
+      "nous": "cuisinerons",
+      "vous": "cuisinerez",
+      "ils": "cuisineront"
+    },
+    "futur_antérieur": {
+      "je": "aurai cuisiné",
+      "tu": "auras cuisiné",
+      "il": "aura cuisiné",
+      "nous": "aurons cuisiné",
+      "vous": "aurez cuisiné",
+      "ils": "auront cuisiné"
+    },
+    "subjonctif_présent": {
+      "je": "cuisine",
+      "tu": "cuisines",
+      "il": "cuisine",
+      "nous": "cuisinions",
+      "vous": "cuisiniez",
+      "ils": "cuisinent"
+    },
+    "subjonctif_passé": {
+      "je": "aie cuisiné",
+      "tu": "aies cuisiné",
+      "il": "ait cuisiné",
+      "nous": "ayons cuisiné",
+      "vous": "ayez cuisiné",
+      "ils": "aient cuisiné"
+    },
+    "subjonctif_imparfait": {
+      "je": "cuisinasse",
+      "tu": "cuisinasses",
+      "il": "cuisinât",
+      "nous": "cuisinassions",
+      "vous": "cuisinassiez",
+      "ils": "cuisinassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse cuisiné",
+      "tu": "eusses cuisiné",
+      "il": "eût cuisiné",
+      "nous": "eussions cuisiné",
+      "vous": "eussiez cuisiné",
+      "ils": "eussent cuisiné"
+    },
+    "conditionnel_présent": {
+      "je": "cuisinerais",
+      "tu": "cuisinerais",
+      "il": "cuisinerait",
+      "nous": "cuisinerions",
+      "vous": "cuisineriez",
+      "ils": "cuisineraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais cuisiné",
+      "tu": "aurais cuisiné",
+      "il": "aurait cuisiné",
+      "nous": "aurions cuisiné",
+      "vous": "auriez cuisiné",
+      "ils": "auraient cuisiné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse cuisiné",
+      "tu": "eusses cuisiné",
+      "il": "eût cuisiné",
+      "nous": "eussions cuisiné",
+      "vous": "eussiez cuisiné",
+      "ils": "eussent cuisiné"
+    },
+    "translation": "zajmować",
+    "group": 1
+  },
+  {
+    "infinitive": "cultiver",
+    "présent": {
+      "je": "cultive",
+      "tu": "cultives",
+      "il": "cultive",
+      "nous": "cultivons",
+      "vous": "cultivez",
+      "ils": "cultivent"
+    },
+    "passé_composé": {
+      "je": "ai cultivé",
+      "tu": "as cultivé",
+      "il": "a cultivé",
+      "nous": "avons cultivé",
+      "vous": "avez cultivé",
+      "ils": "ont cultivé"
+    },
+    "imparfait": {
+      "je": "cultivais",
+      "tu": "cultivais",
+      "il": "cultivait",
+      "nous": "cultivions",
+      "vous": "cultiviez",
+      "ils": "cultivaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais cultivé",
+      "tu": "avais cultivé",
+      "il": "avait cultivé",
+      "nous": "avions cultivé",
+      "vous": "aviez cultivé",
+      "ils": "avaient cultivé"
+    },
+    "passé_simple": {
+      "je": "cultivai",
+      "tu": "cultivas",
+      "il": "cultiva",
+      "nous": "cultivâmes",
+      "vous": "cultivâtes",
+      "ils": "cultivèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus cultivé",
+      "tu": "eus cultivé",
+      "il": "eut cultivé",
+      "nous": "eûmes cultivé",
+      "vous": "eûtes cultivé",
+      "ils": "eurent cultivé"
+    },
+    "futur_simple": {
+      "je": "cultiverai",
+      "tu": "cultiveras",
+      "il": "cultivera",
+      "nous": "cultiverons",
+      "vous": "cultiverez",
+      "ils": "cultiveront"
+    },
+    "futur_antérieur": {
+      "je": "aurai cultivé",
+      "tu": "auras cultivé",
+      "il": "aura cultivé",
+      "nous": "aurons cultivé",
+      "vous": "aurez cultivé",
+      "ils": "auront cultivé"
+    },
+    "subjonctif_présent": {
+      "je": "cultive",
+      "tu": "cultives",
+      "il": "cultive",
+      "nous": "cultivions",
+      "vous": "cultiviez",
+      "ils": "cultivent"
+    },
+    "subjonctif_passé": {
+      "je": "aie cultivé",
+      "tu": "aies cultivé",
+      "il": "ait cultivé",
+      "nous": "ayons cultivé",
+      "vous": "ayez cultivé",
+      "ils": "aient cultivé"
+    },
+    "subjonctif_imparfait": {
+      "je": "cultivasse",
+      "tu": "cultivasses",
+      "il": "cultivât",
+      "nous": "cultivassions",
+      "vous": "cultivassiez",
+      "ils": "cultivassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse cultivé",
+      "tu": "eusses cultivé",
+      "il": "eût cultivé",
+      "nous": "eussions cultivé",
+      "vous": "eussiez cultivé",
+      "ils": "eussent cultivé"
+    },
+    "conditionnel_présent": {
+      "je": "cultiverais",
+      "tu": "cultiverais",
+      "il": "cultiverait",
+      "nous": "cultiverions",
+      "vous": "cultiveriez",
+      "ils": "cultiveraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais cultivé",
+      "tu": "aurais cultivé",
+      "il": "aurait cultivé",
+      "nous": "aurions cultivé",
+      "vous": "auriez cultivé",
+      "ils": "auraient cultivé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse cultivé",
+      "tu": "eusses cultivé",
+      "il": "eût cultivé",
+      "nous": "eussions cultivé",
+      "vous": "eussiez cultivé",
+      "ils": "eussent cultivé"
+    },
+    "translation": "uprawiać",
+    "group": 1
+  },
+  {
+    "infinitive": "cumuler",
+    "présent": {
+      "je": "cumule",
+      "tu": "cumules",
+      "il": "cumule",
+      "nous": "cumulons",
+      "vous": "cumulez",
+      "ils": "cumulent"
+    },
+    "passé_composé": {
+      "je": "ai cumulé",
+      "tu": "as cumulé",
+      "il": "a cumulé",
+      "nous": "avons cumulé",
+      "vous": "avez cumulé",
+      "ils": "ont cumulé"
+    },
+    "imparfait": {
+      "je": "cumulais",
+      "tu": "cumulais",
+      "il": "cumulait",
+      "nous": "cumulions",
+      "vous": "cumuliez",
+      "ils": "cumulaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais cumulé",
+      "tu": "avais cumulé",
+      "il": "avait cumulé",
+      "nous": "avions cumulé",
+      "vous": "aviez cumulé",
+      "ils": "avaient cumulé"
+    },
+    "passé_simple": {
+      "je": "cumulai",
+      "tu": "cumulas",
+      "il": "cumula",
+      "nous": "cumulâmes",
+      "vous": "cumulâtes",
+      "ils": "cumulèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus cumulé",
+      "tu": "eus cumulé",
+      "il": "eut cumulé",
+      "nous": "eûmes cumulé",
+      "vous": "eûtes cumulé",
+      "ils": "eurent cumulé"
+    },
+    "futur_simple": {
+      "je": "cumulerai",
+      "tu": "cumuleras",
+      "il": "cumulera",
+      "nous": "cumulerons",
+      "vous": "cumulerez",
+      "ils": "cumuleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai cumulé",
+      "tu": "auras cumulé",
+      "il": "aura cumulé",
+      "nous": "aurons cumulé",
+      "vous": "aurez cumulé",
+      "ils": "auront cumulé"
+    },
+    "subjonctif_présent": {
+      "je": "cumule",
+      "tu": "cumules",
+      "il": "cumule",
+      "nous": "cumulions",
+      "vous": "cumuliez",
+      "ils": "cumulent"
+    },
+    "subjonctif_passé": {
+      "je": "aie cumulé",
+      "tu": "aies cumulé",
+      "il": "ait cumulé",
+      "nous": "ayons cumulé",
+      "vous": "ayez cumulé",
+      "ils": "aient cumulé"
+    },
+    "subjonctif_imparfait": {
+      "je": "cumulasse",
+      "tu": "cumulasses",
+      "il": "cumulât",
+      "nous": "cumulassions",
+      "vous": "cumulassiez",
+      "ils": "cumulassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse cumulé",
+      "tu": "eusses cumulé",
+      "il": "eût cumulé",
+      "nous": "eussions cumulé",
+      "vous": "eussiez cumulé",
+      "ils": "eussent cumulé"
+    },
+    "conditionnel_présent": {
+      "je": "cumulerais",
+      "tu": "cumulerais",
+      "il": "cumulerait",
+      "nous": "cumulerions",
+      "vous": "cumuleriez",
+      "ils": "cumuleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais cumulé",
+      "tu": "aurais cumulé",
+      "il": "aurait cumulé",
+      "nous": "aurions cumulé",
+      "vous": "auriez cumulé",
+      "ils": "auraient cumulé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse cumulé",
+      "tu": "eusses cumulé",
+      "il": "eût cumulé",
+      "nous": "eussions cumulé",
+      "vous": "eussiez cumulé",
+      "ils": "eussent cumulé"
+    },
+    "translation": "kumulować",
+    "group": 1
+  },
+  {
+    "infinitive": "curer",
+    "présent": {
+      "je": "cure",
+      "tu": "cures",
+      "il": "cure",
+      "nous": "curons",
+      "vous": "curez",
+      "ils": "curent"
+    },
+    "passé_composé": {
+      "je": "ai curé",
+      "tu": "as curé",
+      "il": "a curé",
+      "nous": "avons curé",
+      "vous": "avez curé",
+      "ils": "ont curé"
+    },
+    "imparfait": {
+      "je": "curais",
+      "tu": "curais",
+      "il": "curait",
+      "nous": "curions",
+      "vous": "curiez",
+      "ils": "curaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais curé",
+      "tu": "avais curé",
+      "il": "avait curé",
+      "nous": "avions curé",
+      "vous": "aviez curé",
+      "ils": "avaient curé"
+    },
+    "passé_simple": {
+      "je": "curai",
+      "tu": "curas",
+      "il": "cura",
+      "nous": "curâmes",
+      "vous": "curâtes",
+      "ils": "curèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus curé",
+      "tu": "eus curé",
+      "il": "eut curé",
+      "nous": "eûmes curé",
+      "vous": "eûtes curé",
+      "ils": "eurent curé"
+    },
+    "futur_simple": {
+      "je": "curerai",
+      "tu": "cureras",
+      "il": "curera",
+      "nous": "curerons",
+      "vous": "curerez",
+      "ils": "cureront"
+    },
+    "futur_antérieur": {
+      "je": "aurai curé",
+      "tu": "auras curé",
+      "il": "aura curé",
+      "nous": "aurons curé",
+      "vous": "aurez curé",
+      "ils": "auront curé"
+    },
+    "subjonctif_présent": {
+      "je": "cure",
+      "tu": "cures",
+      "il": "cure",
+      "nous": "curions",
+      "vous": "curiez",
+      "ils": "curent"
+    },
+    "subjonctif_passé": {
+      "je": "aie curé",
+      "tu": "aies curé",
+      "il": "ait curé",
+      "nous": "ayons curé",
+      "vous": "ayez curé",
+      "ils": "aient curé"
+    },
+    "subjonctif_imparfait": {
+      "je": "curasse",
+      "tu": "curasses",
+      "il": "curât",
+      "nous": "curassions",
+      "vous": "curassiez",
+      "ils": "curassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse curé",
+      "tu": "eusses curé",
+      "il": "eût curé",
+      "nous": "eussions curé",
+      "vous": "eussiez curé",
+      "ils": "eussent curé"
+    },
+    "conditionnel_présent": {
+      "je": "curerais",
+      "tu": "curerais",
+      "il": "curerait",
+      "nous": "curerions",
+      "vous": "cureriez",
+      "ils": "cureraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais curé",
+      "tu": "aurais curé",
+      "il": "aurait curé",
+      "nous": "aurions curé",
+      "vous": "auriez curé",
+      "ils": "auraient curé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse curé",
+      "tu": "eusses curé",
+      "il": "eût curé",
+      "nous": "eussions curé",
+      "vous": "eussiez curé",
+      "ils": "eussent curé"
+    },
+    "translation": "czyścić",
+    "group": 1
+  },
+  {
+    "infinitive": "daigner",
+    "présent": {
+      "je": "daigne",
+      "tu": "daignes",
+      "il": "daigne",
+      "nous": "daignons",
+      "vous": "daignez",
+      "ils": "daignent"
+    },
+    "passé_composé": {
+      "je": "ai daigné",
+      "tu": "as daigné",
+      "il": "a daigné",
+      "nous": "avons daigné",
+      "vous": "avez daigné",
+      "ils": "ont daigné"
+    },
+    "imparfait": {
+      "je": "daignais",
+      "tu": "daignais",
+      "il": "daignait",
+      "nous": "daignions",
+      "vous": "daigniez",
+      "ils": "daignaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais daigné",
+      "tu": "avais daigné",
+      "il": "avait daigné",
+      "nous": "avions daigné",
+      "vous": "aviez daigné",
+      "ils": "avaient daigné"
+    },
+    "passé_simple": {
+      "je": "daignai",
+      "tu": "daignas",
+      "il": "daigna",
+      "nous": "daignâmes",
+      "vous": "daignâtes",
+      "ils": "daignèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus daigné",
+      "tu": "eus daigné",
+      "il": "eut daigné",
+      "nous": "eûmes daigné",
+      "vous": "eûtes daigné",
+      "ils": "eurent daigné"
+    },
+    "futur_simple": {
+      "je": "daignerai",
+      "tu": "daigneras",
+      "il": "daignera",
+      "nous": "daignerons",
+      "vous": "daignerez",
+      "ils": "daigneront"
+    },
+    "futur_antérieur": {
+      "je": "aurai daigné",
+      "tu": "auras daigné",
+      "il": "aura daigné",
+      "nous": "aurons daigné",
+      "vous": "aurez daigné",
+      "ils": "auront daigné"
+    },
+    "subjonctif_présent": {
+      "je": "daigne",
+      "tu": "daignes",
+      "il": "daigne",
+      "nous": "daignions",
+      "vous": "daigniez",
+      "ils": "daignent"
+    },
+    "subjonctif_passé": {
+      "je": "aie daigné",
+      "tu": "aies daigné",
+      "il": "ait daigné",
+      "nous": "ayons daigné",
+      "vous": "ayez daigné",
+      "ils": "aient daigné"
+    },
+    "subjonctif_imparfait": {
+      "je": "daignasse",
+      "tu": "daignasses",
+      "il": "daignât",
+      "nous": "daignassions",
+      "vous": "daignassiez",
+      "ils": "daignassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse daigné",
+      "tu": "eusses daigné",
+      "il": "eût daigné",
+      "nous": "eussions daigné",
+      "vous": "eussiez daigné",
+      "ils": "eussent daigné"
+    },
+    "conditionnel_présent": {
+      "je": "daignerais",
+      "tu": "daignerais",
+      "il": "daignerait",
+      "nous": "daignerions",
+      "vous": "daigneriez",
+      "ils": "daigneraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais daigné",
+      "tu": "aurais daigné",
+      "il": "aurait daigné",
+      "nous": "aurions daigné",
+      "vous": "auriez daigné",
+      "ils": "auraient daigné"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse daigné",
+      "tu": "eusses daigné",
+      "il": "eût daigné",
+      "nous": "eussions daigné",
+      "vous": "eussiez daigné",
+      "ils": "eussent daigné"
+    },
+    "translation": "kąpać",
+    "group": 1
+  },
+  {
+    "infinitive": "daller",
+    "présent": {
+      "je": "dalle",
+      "tu": "dalles",
+      "il": "dalle",
+      "nous": "dallons",
+      "vous": "dallez",
+      "ils": "dallent"
+    },
+    "passé_composé": {
+      "je": "ai dallé",
+      "tu": "as dallé",
+      "il": "a dallé",
+      "nous": "avons dallé",
+      "vous": "avez dallé",
+      "ils": "ont dallé"
+    },
+    "imparfait": {
+      "je": "dallais",
+      "tu": "dallais",
+      "il": "dallait",
+      "nous": "dallions",
+      "vous": "dalliez",
+      "ils": "dallaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais dallé",
+      "tu": "avais dallé",
+      "il": "avait dallé",
+      "nous": "avions dallé",
+      "vous": "aviez dallé",
+      "ils": "avaient dallé"
+    },
+    "passé_simple": {
+      "je": "dallai",
+      "tu": "dallas",
+      "il": "dalla",
+      "nous": "dallâmes",
+      "vous": "dallâtes",
+      "ils": "dallèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus dallé",
+      "tu": "eus dallé",
+      "il": "eut dallé",
+      "nous": "eûmes dallé",
+      "vous": "eûtes dallé",
+      "ils": "eurent dallé"
+    },
+    "futur_simple": {
+      "je": "dallerai",
+      "tu": "dalleras",
+      "il": "dallera",
+      "nous": "dallerons",
+      "vous": "dallerez",
+      "ils": "dalleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai dallé",
+      "tu": "auras dallé",
+      "il": "aura dallé",
+      "nous": "aurons dallé",
+      "vous": "aurez dallé",
+      "ils": "auront dallé"
+    },
+    "subjonctif_présent": {
+      "je": "dalle",
+      "tu": "dalles",
+      "il": "dalle",
+      "nous": "dallions",
+      "vous": "dalliez",
+      "ils": "dallent"
+    },
+    "subjonctif_passé": {
+      "je": "aie dallé",
+      "tu": "aies dallé",
+      "il": "ait dallé",
+      "nous": "ayons dallé",
+      "vous": "ayez dallé",
+      "ils": "aient dallé"
+    },
+    "subjonctif_imparfait": {
+      "je": "dallasse",
+      "tu": "dallasses",
+      "il": "dallât",
+      "nous": "dallassions",
+      "vous": "dallassiez",
+      "ils": "dallassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse dallé",
+      "tu": "eusses dallé",
+      "il": "eût dallé",
+      "nous": "eussions dallé",
+      "vous": "eussiez dallé",
+      "ils": "eussent dallé"
+    },
+    "conditionnel_présent": {
+      "je": "dallerais",
+      "tu": "dallerais",
+      "il": "dallerait",
+      "nous": "dallerions",
+      "vous": "dalleriez",
+      "ils": "dalleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais dallé",
+      "tu": "aurais dallé",
+      "il": "aurait dallé",
+      "nous": "aurions dallé",
+      "vous": "auriez dallé",
+      "ils": "auraient dallé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse dallé",
+      "tu": "eusses dallé",
+      "il": "eût dallé",
+      "nous": "eussions dallé",
+      "vous": "eussiez dallé",
+      "ils": "eussent dallé"
+    },
+    "translation": "chodzenie",
+    "group": 1
+  },
+  {
+    "infinitive": "damer",
+    "présent": {
+      "je": "dame",
+      "tu": "dames",
+      "il": "dame",
+      "nous": "damons",
+      "vous": "damez",
+      "ils": "dament"
+    },
+    "passé_composé": {
+      "je": "ai damé",
+      "tu": "as damé",
+      "il": "a damé",
+      "nous": "avons damé",
+      "vous": "avez damé",
+      "ils": "ont damé"
+    },
+    "imparfait": {
+      "je": "damais",
+      "tu": "damais",
+      "il": "damait",
+      "nous": "damions",
+      "vous": "damiez",
+      "ils": "damaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais damé",
+      "tu": "avais damé",
+      "il": "avait damé",
+      "nous": "avions damé",
+      "vous": "aviez damé",
+      "ils": "avaient damé"
+    },
+    "passé_simple": {
+      "je": "damai",
+      "tu": "damas",
+      "il": "dama",
+      "nous": "damâmes",
+      "vous": "damâtes",
+      "ils": "damèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus damé",
+      "tu": "eus damé",
+      "il": "eut damé",
+      "nous": "eûmes damé",
+      "vous": "eûtes damé",
+      "ils": "eurent damé"
+    },
+    "futur_simple": {
+      "je": "damerai",
+      "tu": "dameras",
+      "il": "damera",
+      "nous": "damerons",
+      "vous": "damerez",
+      "ils": "dameront"
+    },
+    "futur_antérieur": {
+      "je": "aurai damé",
+      "tu": "auras damé",
+      "il": "aura damé",
+      "nous": "aurons damé",
+      "vous": "aurez damé",
+      "ils": "auront damé"
+    },
+    "subjonctif_présent": {
+      "je": "dame",
+      "tu": "dames",
+      "il": "dame",
+      "nous": "damions",
+      "vous": "damiez",
+      "ils": "dament"
+    },
+    "subjonctif_passé": {
+      "je": "aie damé",
+      "tu": "aies damé",
+      "il": "ait damé",
+      "nous": "ayons damé",
+      "vous": "ayez damé",
+      "ils": "aient damé"
+    },
+    "subjonctif_imparfait": {
+      "je": "damasse",
+      "tu": "damasses",
+      "il": "damât",
+      "nous": "damassions",
+      "vous": "damassiez",
+      "ils": "damassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse damé",
+      "tu": "eusses damé",
+      "il": "eût damé",
+      "nous": "eussions damé",
+      "vous": "eussiez damé",
+      "ils": "eussent damé"
+    },
+    "conditionnel_présent": {
+      "je": "damerais",
+      "tu": "damerais",
+      "il": "damerait",
+      "nous": "damerions",
+      "vous": "dameriez",
+      "ils": "dameraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais damé",
+      "tu": "aurais damé",
+      "il": "aurait damé",
+      "nous": "aurions damé",
+      "vous": "auriez damé",
+      "ils": "auraient damé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse damé",
+      "tu": "eusses damé",
+      "il": "eût damé",
+      "nous": "eussions damé",
+      "vous": "eussiez damé",
+      "ils": "eussent damé"
+    },
+    "translation": "damer",
+    "group": 1
+  }
+]

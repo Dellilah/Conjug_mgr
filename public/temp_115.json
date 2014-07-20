@@ -1,0 +1,1252 @@
+[
+  {
+    "infinitive": "ioder",
+    "présent": {
+      "je": "iode",
+      "tu": "iodes",
+      "il": "iode",
+      "nous": "iodons",
+      "vous": "iodez",
+      "ils": "iodent"
+    },
+    "passé_composé": {
+      "je": "ai iodé",
+      "tu": "as iodé",
+      "il": "a iodé",
+      "nous": "avons iodé",
+      "vous": "avez iodé",
+      "ils": "ont iodé"
+    },
+    "imparfait": {
+      "je": "iodais",
+      "tu": "iodais",
+      "il": "iodait",
+      "nous": "iodions",
+      "vous": "iodiez",
+      "ils": "iodaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais iodé",
+      "tu": "avais iodé",
+      "il": "avait iodé",
+      "nous": "avions iodé",
+      "vous": "aviez iodé",
+      "ils": "avaient iodé"
+    },
+    "passé_simple": {
+      "je": "iodai",
+      "tu": "iodas",
+      "il": "ioda",
+      "nous": "iodâmes",
+      "vous": "iodâtes",
+      "ils": "iodèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus iodé",
+      "tu": "eus iodé",
+      "il": "eut iodé",
+      "nous": "eûmes iodé",
+      "vous": "eûtes iodé",
+      "ils": "eurent iodé"
+    },
+    "futur_simple": {
+      "je": "ioderai",
+      "tu": "ioderas",
+      "il": "iodera",
+      "nous": "ioderons",
+      "vous": "ioderez",
+      "ils": "ioderont"
+    },
+    "futur_antérieur": {
+      "je": "aurai iodé",
+      "tu": "auras iodé",
+      "il": "aura iodé",
+      "nous": "aurons iodé",
+      "vous": "aurez iodé",
+      "ils": "auront iodé"
+    },
+    "subjonctif_présent": {
+      "je": "iode",
+      "tu": "iodes",
+      "il": "iode",
+      "nous": "iodions",
+      "vous": "iodiez",
+      "ils": "iodent"
+    },
+    "subjonctif_passé": {
+      "je": "aie iodé",
+      "tu": "aies iodé",
+      "il": "ait iodé",
+      "nous": "ayons iodé",
+      "vous": "ayez iodé",
+      "ils": "aient iodé"
+    },
+    "subjonctif_imparfait": {
+      "je": "iodasse",
+      "tu": "iodasses",
+      "il": "iodât",
+      "nous": "iodassions",
+      "vous": "iodassiez",
+      "ils": "iodassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse iodé",
+      "tu": "eusses iodé",
+      "il": "eût iodé",
+      "nous": "eussions iodé",
+      "vous": "eussiez iodé",
+      "ils": "eussent iodé"
+    },
+    "conditionnel_présent": {
+      "je": "ioderais",
+      "tu": "ioderais",
+      "il": "ioderait",
+      "nous": "ioderions",
+      "vous": "ioderiez",
+      "ils": "ioderaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais iodé",
+      "tu": "aurais iodé",
+      "il": "aurait iodé",
+      "nous": "aurions iodé",
+      "vous": "auriez iodé",
+      "ils": "auraient iodé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse iodé",
+      "tu": "eusses iodé",
+      "il": "eût iodé",
+      "nous": "eussions iodé",
+      "vous": "eussiez iodé",
+      "ils": "eussent iodé"
+    },
+    "translation": "jod",
+    "group": 1
+  },
+  {
+    "infinitive": "irriter",
+    "présent": {
+      "je": "irrite",
+      "tu": "irrites",
+      "il": "irrite",
+      "nous": "irritons",
+      "vous": "irritez",
+      "ils": "irritent"
+    },
+    "passé_composé": {
+      "je": "ai irrité",
+      "tu": "as irrité",
+      "il": "a irrité",
+      "nous": "avons irrité",
+      "vous": "avez irrité",
+      "ils": "ont irrité"
+    },
+    "imparfait": {
+      "je": "irritais",
+      "tu": "irritais",
+      "il": "irritait",
+      "nous": "irritions",
+      "vous": "irritiez",
+      "ils": "irritaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais irrité",
+      "tu": "avais irrité",
+      "il": "avait irrité",
+      "nous": "avions irrité",
+      "vous": "aviez irrité",
+      "ils": "avaient irrité"
+    },
+    "passé_simple": {
+      "je": "irritai",
+      "tu": "irritas",
+      "il": "irrita",
+      "nous": "irritâmes",
+      "vous": "irritâtes",
+      "ils": "irritèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus irrité",
+      "tu": "eus irrité",
+      "il": "eut irrité",
+      "nous": "eûmes irrité",
+      "vous": "eûtes irrité",
+      "ils": "eurent irrité"
+    },
+    "futur_simple": {
+      "je": "irriterai",
+      "tu": "irriteras",
+      "il": "irritera",
+      "nous": "irriterons",
+      "vous": "irriterez",
+      "ils": "irriteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai irrité",
+      "tu": "auras irrité",
+      "il": "aura irrité",
+      "nous": "aurons irrité",
+      "vous": "aurez irrité",
+      "ils": "auront irrité"
+    },
+    "subjonctif_présent": {
+      "je": "irrite",
+      "tu": "irrites",
+      "il": "irrite",
+      "nous": "irritions",
+      "vous": "irritiez",
+      "ils": "irritent"
+    },
+    "subjonctif_passé": {
+      "je": "aie irrité",
+      "tu": "aies irrité",
+      "il": "ait irrité",
+      "nous": "ayons irrité",
+      "vous": "ayez irrité",
+      "ils": "aient irrité"
+    },
+    "subjonctif_imparfait": {
+      "je": "irritasse",
+      "tu": "irritasses",
+      "il": "irritât",
+      "nous": "irritassions",
+      "vous": "irritassiez",
+      "ils": "irritassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse irrité",
+      "tu": "eusses irrité",
+      "il": "eût irrité",
+      "nous": "eussions irrité",
+      "vous": "eussiez irrité",
+      "ils": "eussent irrité"
+    },
+    "conditionnel_présent": {
+      "je": "irriterais",
+      "tu": "irriterais",
+      "il": "irriterait",
+      "nous": "irriterions",
+      "vous": "irriteriez",
+      "ils": "irriteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais irrité",
+      "tu": "aurais irrité",
+      "il": "aurait irrité",
+      "nous": "aurions irrité",
+      "vous": "auriez irrité",
+      "ils": "auraient irrité"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse irrité",
+      "tu": "eusses irrité",
+      "il": "eût irrité",
+      "nous": "eussions irrité",
+      "vous": "eussiez irrité",
+      "ils": "eussent irrité"
+    },
+    "translation": "denerwować",
+    "group": 1
+  },
+  {
+    "infinitive": "isoler",
+    "présent": {
+      "je": "isole",
+      "tu": "isoles",
+      "il": "isole",
+      "nous": "isolons",
+      "vous": "isolez",
+      "ils": "isolent"
+    },
+    "passé_composé": {
+      "je": "ai isolé",
+      "tu": "as isolé",
+      "il": "a isolé",
+      "nous": "avons isolé",
+      "vous": "avez isolé",
+      "ils": "ont isolé"
+    },
+    "imparfait": {
+      "je": "isolais",
+      "tu": "isolais",
+      "il": "isolait",
+      "nous": "isolions",
+      "vous": "isoliez",
+      "ils": "isolaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais isolé",
+      "tu": "avais isolé",
+      "il": "avait isolé",
+      "nous": "avions isolé",
+      "vous": "aviez isolé",
+      "ils": "avaient isolé"
+    },
+    "passé_simple": {
+      "je": "isolai",
+      "tu": "isolas",
+      "il": "isola",
+      "nous": "isolâmes",
+      "vous": "isolâtes",
+      "ils": "isolèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus isolé",
+      "tu": "eus isolé",
+      "il": "eut isolé",
+      "nous": "eûmes isolé",
+      "vous": "eûtes isolé",
+      "ils": "eurent isolé"
+    },
+    "futur_simple": {
+      "je": "isolerai",
+      "tu": "isoleras",
+      "il": "isolera",
+      "nous": "isolerons",
+      "vous": "isolerez",
+      "ils": "isoleront"
+    },
+    "futur_antérieur": {
+      "je": "aurai isolé",
+      "tu": "auras isolé",
+      "il": "aura isolé",
+      "nous": "aurons isolé",
+      "vous": "aurez isolé",
+      "ils": "auront isolé"
+    },
+    "subjonctif_présent": {
+      "je": "isole",
+      "tu": "isoles",
+      "il": "isole",
+      "nous": "isolions",
+      "vous": "isoliez",
+      "ils": "isolent"
+    },
+    "subjonctif_passé": {
+      "je": "aie isolé",
+      "tu": "aies isolé",
+      "il": "ait isolé",
+      "nous": "ayons isolé",
+      "vous": "ayez isolé",
+      "ils": "aient isolé"
+    },
+    "subjonctif_imparfait": {
+      "je": "isolasse",
+      "tu": "isolasses",
+      "il": "isolât",
+      "nous": "isolassions",
+      "vous": "isolassiez",
+      "ils": "isolassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse isolé",
+      "tu": "eusses isolé",
+      "il": "eût isolé",
+      "nous": "eussions isolé",
+      "vous": "eussiez isolé",
+      "ils": "eussent isolé"
+    },
+    "conditionnel_présent": {
+      "je": "isolerais",
+      "tu": "isolerais",
+      "il": "isolerait",
+      "nous": "isolerions",
+      "vous": "isoleriez",
+      "ils": "isoleraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais isolé",
+      "tu": "aurais isolé",
+      "il": "aurait isolé",
+      "nous": "aurions isolé",
+      "vous": "auriez isolé",
+      "ils": "auraient isolé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse isolé",
+      "tu": "eusses isolé",
+      "il": "eût isolé",
+      "nous": "eussions isolé",
+      "vous": "eussiez isolé",
+      "ils": "eussent isolé"
+    },
+    "translation": "odłączać",
+    "group": 1
+  },
+  {
+    "infinitive": "issir",
+    "présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_composé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "passé_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_simple": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "futur_antérieur": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_passé": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_imparfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_présent": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_première": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "-",
+      "tu": "-",
+      "il": "-",
+      "nous": "-",
+      "vous": "-",
+      "ils": "-"
+    },
+    "translation": "gęstnieć",
+    "group": 3
+  },
+  {
+    "infinitive": "jaillir",
+    "présent": {
+      "je": "jaillis",
+      "tu": "jaillis",
+      "il": "jaillit",
+      "nous": "jaillissons",
+      "vous": "jaillissez",
+      "ils": "jaillissent"
+    },
+    "passé_composé": {
+      "je": "ai jailli",
+      "tu": "as jailli",
+      "il": "a jailli",
+      "nous": "avons jailli",
+      "vous": "avez jailli",
+      "ils": "ont jailli"
+    },
+    "imparfait": {
+      "je": "jaillissais",
+      "tu": "jaillissais",
+      "il": "jaillissait",
+      "nous": "jaillissions",
+      "vous": "jaillissiez",
+      "ils": "jaillissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais jailli",
+      "tu": "avais jailli",
+      "il": "avait jailli",
+      "nous": "avions jailli",
+      "vous": "aviez jailli",
+      "ils": "avaient jailli"
+    },
+    "passé_simple": {
+      "je": "jaillis",
+      "tu": "jaillis",
+      "il": "jaillit",
+      "nous": "jaillîmes",
+      "vous": "jaillîtes",
+      "ils": "jaillirent"
+    },
+    "passé_antérieur": {
+      "je": "eus jailli",
+      "tu": "eus jailli",
+      "il": "eut jailli",
+      "nous": "eûmes jailli",
+      "vous": "eûtes jailli",
+      "ils": "eurent jailli"
+    },
+    "futur_simple": {
+      "je": "jaillirai",
+      "tu": "jailliras",
+      "il": "jaillira",
+      "nous": "jaillirons",
+      "vous": "jaillirez",
+      "ils": "jailliront"
+    },
+    "futur_antérieur": {
+      "je": "aurai jailli",
+      "tu": "auras jailli",
+      "il": "aura jailli",
+      "nous": "aurons jailli",
+      "vous": "aurez jailli",
+      "ils": "auront jailli"
+    },
+    "subjonctif_présent": {
+      "je": "jaillisse",
+      "tu": "jaillisses",
+      "il": "jaillisse",
+      "nous": "jaillissions",
+      "vous": "jaillissiez",
+      "ils": "jaillissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie jailli",
+      "tu": "aies jailli",
+      "il": "ait jailli",
+      "nous": "ayons jailli",
+      "vous": "ayez jailli",
+      "ils": "aient jailli"
+    },
+    "subjonctif_imparfait": {
+      "je": "jaillisse",
+      "tu": "jaillisses",
+      "il": "jaillît",
+      "nous": "jaillissions",
+      "vous": "jaillissiez",
+      "ils": "jaillissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse jailli",
+      "tu": "eusses jailli",
+      "il": "eût jailli",
+      "nous": "eussions jailli",
+      "vous": "eussiez jailli",
+      "ils": "eussent jailli"
+    },
+    "conditionnel_présent": {
+      "je": "jaillirais",
+      "tu": "jaillirais",
+      "il": "jaillirait",
+      "nous": "jaillirions",
+      "vous": "jailliriez",
+      "ils": "jailliraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais jailli",
+      "tu": "aurais jailli",
+      "il": "aurait jailli",
+      "nous": "aurions jailli",
+      "vous": "auriez jailli",
+      "ils": "auraient jailli"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse jailli",
+      "tu": "eusses jailli",
+      "il": "eût jailli",
+      "nous": "eussions jailli",
+      "vous": "eussiez jailli",
+      "ils": "eussent jailli"
+    },
+    "translation": "wystrzelać",
+    "group": 2
+  },
+  {
+    "infinitive": "jalouser",
+    "présent": {
+      "je": "jalouse",
+      "tu": "jalouses",
+      "il": "jalouse",
+      "nous": "jalousons",
+      "vous": "jalousez",
+      "ils": "jalousent"
+    },
+    "passé_composé": {
+      "je": "ai jalousé",
+      "tu": "as jalousé",
+      "il": "a jalousé",
+      "nous": "avons jalousé",
+      "vous": "avez jalousé",
+      "ils": "ont jalousé"
+    },
+    "imparfait": {
+      "je": "jalousais",
+      "tu": "jalousais",
+      "il": "jalousait",
+      "nous": "jalousions",
+      "vous": "jalousiez",
+      "ils": "jalousaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais jalousé",
+      "tu": "avais jalousé",
+      "il": "avait jalousé",
+      "nous": "avions jalousé",
+      "vous": "aviez jalousé",
+      "ils": "avaient jalousé"
+    },
+    "passé_simple": {
+      "je": "jalousai",
+      "tu": "jalousas",
+      "il": "jalousa",
+      "nous": "jalousâmes",
+      "vous": "jalousâtes",
+      "ils": "jalousèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus jalousé",
+      "tu": "eus jalousé",
+      "il": "eut jalousé",
+      "nous": "eûmes jalousé",
+      "vous": "eûtes jalousé",
+      "ils": "eurent jalousé"
+    },
+    "futur_simple": {
+      "je": "jalouserai",
+      "tu": "jalouseras",
+      "il": "jalousera",
+      "nous": "jalouserons",
+      "vous": "jalouserez",
+      "ils": "jalouseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai jalousé",
+      "tu": "auras jalousé",
+      "il": "aura jalousé",
+      "nous": "aurons jalousé",
+      "vous": "aurez jalousé",
+      "ils": "auront jalousé"
+    },
+    "subjonctif_présent": {
+      "je": "jalouse",
+      "tu": "jalouses",
+      "il": "jalouse",
+      "nous": "jalousions",
+      "vous": "jalousiez",
+      "ils": "jalousent"
+    },
+    "subjonctif_passé": {
+      "je": "aie jalousé",
+      "tu": "aies jalousé",
+      "il": "ait jalousé",
+      "nous": "ayons jalousé",
+      "vous": "ayez jalousé",
+      "ils": "aient jalousé"
+    },
+    "subjonctif_imparfait": {
+      "je": "jalousasse",
+      "tu": "jalousasses",
+      "il": "jalousât",
+      "nous": "jalousassions",
+      "vous": "jalousassiez",
+      "ils": "jalousassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse jalousé",
+      "tu": "eusses jalousé",
+      "il": "eût jalousé",
+      "nous": "eussions jalousé",
+      "vous": "eussiez jalousé",
+      "ils": "eussent jalousé"
+    },
+    "conditionnel_présent": {
+      "je": "jalouserais",
+      "tu": "jalouserais",
+      "il": "jalouserait",
+      "nous": "jalouserions",
+      "vous": "jalouseriez",
+      "ils": "jalouseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais jalousé",
+      "tu": "aurais jalousé",
+      "il": "aurait jalousé",
+      "nous": "aurions jalousé",
+      "vous": "auriez jalousé",
+      "ils": "auraient jalousé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse jalousé",
+      "tu": "eusses jalousé",
+      "il": "eût jalousé",
+      "nous": "eussions jalousé",
+      "vous": "eussiez jalousé",
+      "ils": "eussent jalousé"
+    },
+    "translation": "zazdrościć",
+    "group": 1
+  },
+  {
+    "infinitive": "japper",
+    "présent": {
+      "je": "jappe",
+      "tu": "jappes",
+      "il": "jappe",
+      "nous": "jappons",
+      "vous": "jappez",
+      "ils": "jappent"
+    },
+    "passé_composé": {
+      "je": "ai jappé",
+      "tu": "as jappé",
+      "il": "a jappé",
+      "nous": "avons jappé",
+      "vous": "avez jappé",
+      "ils": "ont jappé"
+    },
+    "imparfait": {
+      "je": "jappais",
+      "tu": "jappais",
+      "il": "jappait",
+      "nous": "jappions",
+      "vous": "jappiez",
+      "ils": "jappaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais jappé",
+      "tu": "avais jappé",
+      "il": "avait jappé",
+      "nous": "avions jappé",
+      "vous": "aviez jappé",
+      "ils": "avaient jappé"
+    },
+    "passé_simple": {
+      "je": "jappai",
+      "tu": "jappas",
+      "il": "jappa",
+      "nous": "jappâmes",
+      "vous": "jappâtes",
+      "ils": "jappèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus jappé",
+      "tu": "eus jappé",
+      "il": "eut jappé",
+      "nous": "eûmes jappé",
+      "vous": "eûtes jappé",
+      "ils": "eurent jappé"
+    },
+    "futur_simple": {
+      "je": "japperai",
+      "tu": "japperas",
+      "il": "jappera",
+      "nous": "japperons",
+      "vous": "japperez",
+      "ils": "japperont"
+    },
+    "futur_antérieur": {
+      "je": "aurai jappé",
+      "tu": "auras jappé",
+      "il": "aura jappé",
+      "nous": "aurons jappé",
+      "vous": "aurez jappé",
+      "ils": "auront jappé"
+    },
+    "subjonctif_présent": {
+      "je": "jappe",
+      "tu": "jappes",
+      "il": "jappe",
+      "nous": "jappions",
+      "vous": "jappiez",
+      "ils": "jappent"
+    },
+    "subjonctif_passé": {
+      "je": "aie jappé",
+      "tu": "aies jappé",
+      "il": "ait jappé",
+      "nous": "ayons jappé",
+      "vous": "ayez jappé",
+      "ils": "aient jappé"
+    },
+    "subjonctif_imparfait": {
+      "je": "jappasse",
+      "tu": "jappasses",
+      "il": "jappât",
+      "nous": "jappassions",
+      "vous": "jappassiez",
+      "ils": "jappassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse jappé",
+      "tu": "eusses jappé",
+      "il": "eût jappé",
+      "nous": "eussions jappé",
+      "vous": "eussiez jappé",
+      "ils": "eussent jappé"
+    },
+    "conditionnel_présent": {
+      "je": "japperais",
+      "tu": "japperais",
+      "il": "japperait",
+      "nous": "japperions",
+      "vous": "japperiez",
+      "ils": "japperaient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais jappé",
+      "tu": "aurais jappé",
+      "il": "aurait jappé",
+      "nous": "aurions jappé",
+      "vous": "auriez jappé",
+      "ils": "auraient jappé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse jappé",
+      "tu": "eusses jappé",
+      "il": "eût jappé",
+      "nous": "eussions jappé",
+      "vous": "eussiez jappé",
+      "ils": "eussent jappé"
+    },
+    "translation": "skowyczeć",
+    "group": 1
+  },
+  {
+    "infinitive": "jaser",
+    "présent": {
+      "je": "jase",
+      "tu": "jases",
+      "il": "jase",
+      "nous": "jasons",
+      "vous": "jasez",
+      "ils": "jasent"
+    },
+    "passé_composé": {
+      "je": "ai jasé",
+      "tu": "as jasé",
+      "il": "a jasé",
+      "nous": "avons jasé",
+      "vous": "avez jasé",
+      "ils": "ont jasé"
+    },
+    "imparfait": {
+      "je": "jasais",
+      "tu": "jasais",
+      "il": "jasait",
+      "nous": "jasions",
+      "vous": "jasiez",
+      "ils": "jasaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais jasé",
+      "tu": "avais jasé",
+      "il": "avait jasé",
+      "nous": "avions jasé",
+      "vous": "aviez jasé",
+      "ils": "avaient jasé"
+    },
+    "passé_simple": {
+      "je": "jasai",
+      "tu": "jasas",
+      "il": "jasa",
+      "nous": "jasâmes",
+      "vous": "jasâtes",
+      "ils": "jasèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus jasé",
+      "tu": "eus jasé",
+      "il": "eut jasé",
+      "nous": "eûmes jasé",
+      "vous": "eûtes jasé",
+      "ils": "eurent jasé"
+    },
+    "futur_simple": {
+      "je": "jaserai",
+      "tu": "jaseras",
+      "il": "jasera",
+      "nous": "jaserons",
+      "vous": "jaserez",
+      "ils": "jaseront"
+    },
+    "futur_antérieur": {
+      "je": "aurai jasé",
+      "tu": "auras jasé",
+      "il": "aura jasé",
+      "nous": "aurons jasé",
+      "vous": "aurez jasé",
+      "ils": "auront jasé"
+    },
+    "subjonctif_présent": {
+      "je": "jase",
+      "tu": "jases",
+      "il": "jase",
+      "nous": "jasions",
+      "vous": "jasiez",
+      "ils": "jasent"
+    },
+    "subjonctif_passé": {
+      "je": "aie jasé",
+      "tu": "aies jasé",
+      "il": "ait jasé",
+      "nous": "ayons jasé",
+      "vous": "ayez jasé",
+      "ils": "aient jasé"
+    },
+    "subjonctif_imparfait": {
+      "je": "jasasse",
+      "tu": "jasasses",
+      "il": "jasât",
+      "nous": "jasassions",
+      "vous": "jasassiez",
+      "ils": "jasassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse jasé",
+      "tu": "eusses jasé",
+      "il": "eût jasé",
+      "nous": "eussions jasé",
+      "vous": "eussiez jasé",
+      "ils": "eussent jasé"
+    },
+    "conditionnel_présent": {
+      "je": "jaserais",
+      "tu": "jaserais",
+      "il": "jaserait",
+      "nous": "jaserions",
+      "vous": "jaseriez",
+      "ils": "jaseraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais jasé",
+      "tu": "aurais jasé",
+      "il": "aurait jasé",
+      "nous": "aurions jasé",
+      "vous": "auriez jasé",
+      "ils": "auraient jasé"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse jasé",
+      "tu": "eusses jasé",
+      "il": "eût jasé",
+      "nous": "eussions jasé",
+      "vous": "eussiez jasé",
+      "ils": "eussent jasé"
+    },
+    "translation": "paplać",
+    "group": 1
+  },
+  {
+    "infinitive": "jaunir",
+    "présent": {
+      "je": "jaunis",
+      "tu": "jaunis",
+      "il": "jaunit",
+      "nous": "jaunissons",
+      "vous": "jaunissez",
+      "ils": "jaunissent"
+    },
+    "passé_composé": {
+      "je": "ai jauni",
+      "tu": "as jauni",
+      "il": "a jauni",
+      "nous": "avons jauni",
+      "vous": "avez jauni",
+      "ils": "ont jauni"
+    },
+    "imparfait": {
+      "je": "jaunissais",
+      "tu": "jaunissais",
+      "il": "jaunissait",
+      "nous": "jaunissions",
+      "vous": "jaunissiez",
+      "ils": "jaunissaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais jauni",
+      "tu": "avais jauni",
+      "il": "avait jauni",
+      "nous": "avions jauni",
+      "vous": "aviez jauni",
+      "ils": "avaient jauni"
+    },
+    "passé_simple": {
+      "je": "jaunis",
+      "tu": "jaunis",
+      "il": "jaunit",
+      "nous": "jaunîmes",
+      "vous": "jaunîtes",
+      "ils": "jaunirent"
+    },
+    "passé_antérieur": {
+      "je": "eus jauni",
+      "tu": "eus jauni",
+      "il": "eut jauni",
+      "nous": "eûmes jauni",
+      "vous": "eûtes jauni",
+      "ils": "eurent jauni"
+    },
+    "futur_simple": {
+      "je": "jaunirai",
+      "tu": "jauniras",
+      "il": "jaunira",
+      "nous": "jaunirons",
+      "vous": "jaunirez",
+      "ils": "jauniront"
+    },
+    "futur_antérieur": {
+      "je": "aurai jauni",
+      "tu": "auras jauni",
+      "il": "aura jauni",
+      "nous": "aurons jauni",
+      "vous": "aurez jauni",
+      "ils": "auront jauni"
+    },
+    "subjonctif_présent": {
+      "je": "jaunisse",
+      "tu": "jaunisses",
+      "il": "jaunisse",
+      "nous": "jaunissions",
+      "vous": "jaunissiez",
+      "ils": "jaunissent"
+    },
+    "subjonctif_passé": {
+      "je": "aie jauni",
+      "tu": "aies jauni",
+      "il": "ait jauni",
+      "nous": "ayons jauni",
+      "vous": "ayez jauni",
+      "ils": "aient jauni"
+    },
+    "subjonctif_imparfait": {
+      "je": "jaunisse",
+      "tu": "jaunisses",
+      "il": "jaunît",
+      "nous": "jaunissions",
+      "vous": "jaunissiez",
+      "ils": "jaunissent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse jauni",
+      "tu": "eusses jauni",
+      "il": "eût jauni",
+      "nous": "eussions jauni",
+      "vous": "eussiez jauni",
+      "ils": "eussent jauni"
+    },
+    "conditionnel_présent": {
+      "je": "jaunirais",
+      "tu": "jaunirais",
+      "il": "jaunirait",
+      "nous": "jaunirions",
+      "vous": "jauniriez",
+      "ils": "jauniraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais jauni",
+      "tu": "aurais jauni",
+      "il": "aurait jauni",
+      "nous": "aurions jauni",
+      "vous": "auriez jauni",
+      "ils": "auraient jauni"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse jauni",
+      "tu": "eusses jauni",
+      "il": "eût jauni",
+      "nous": "eussions jauni",
+      "vous": "eussiez jauni",
+      "ils": "eussent jauni"
+    },
+    "translation": "żółknąć",
+    "group": 2
+  },
+  {
+    "infinitive": "jeter",
+    "présent": {
+      "je": "jette",
+      "tu": "jettes",
+      "il": "jette",
+      "nous": "jetons",
+      "vous": "jetez",
+      "ils": "jettent"
+    },
+    "passé_composé": {
+      "je": "ai jeté",
+      "tu": "as jeté",
+      "il": "a jeté",
+      "nous": "avons jeté",
+      "vous": "avez jeté",
+      "ils": "ont jeté"
+    },
+    "imparfait": {
+      "je": "jetais",
+      "tu": "jetais",
+      "il": "jetait",
+      "nous": "jetions",
+      "vous": "jetiez",
+      "ils": "jetaient"
+    },
+    "plus_que_parfait": {
+      "je": "avais jeté",
+      "tu": "avais jeté",
+      "il": "avait jeté",
+      "nous": "avions jeté",
+      "vous": "aviez jeté",
+      "ils": "avaient jeté"
+    },
+    "passé_simple": {
+      "je": "jetai",
+      "tu": "jetas",
+      "il": "jeta",
+      "nous": "jetâmes",
+      "vous": "jetâtes",
+      "ils": "jetèrent"
+    },
+    "passé_antérieur": {
+      "je": "eus jeté",
+      "tu": "eus jeté",
+      "il": "eut jeté",
+      "nous": "eûmes jeté",
+      "vous": "eûtes jeté",
+      "ils": "eurent jeté"
+    },
+    "futur_simple": {
+      "je": "jetterai",
+      "tu": "jetteras",
+      "il": "jettera",
+      "nous": "jetterons",
+      "vous": "jetterez",
+      "ils": "jetteront"
+    },
+    "futur_antérieur": {
+      "je": "aurai jeté",
+      "tu": "auras jeté",
+      "il": "aura jeté",
+      "nous": "aurons jeté",
+      "vous": "aurez jeté",
+      "ils": "auront jeté"
+    },
+    "subjonctif_présent": {
+      "je": "jette",
+      "tu": "jettes",
+      "il": "jette",
+      "nous": "jetions",
+      "vous": "jetiez",
+      "ils": "jettent"
+    },
+    "subjonctif_passé": {
+      "je": "aie jeté",
+      "tu": "aies jeté",
+      "il": "ait jeté",
+      "nous": "ayons jeté",
+      "vous": "ayez jeté",
+      "ils": "aient jeté"
+    },
+    "subjonctif_imparfait": {
+      "je": "jetasse",
+      "tu": "jetasses",
+      "il": "jetât",
+      "nous": "jetassions",
+      "vous": "jetassiez",
+      "ils": "jetassent"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "eusse jeté",
+      "tu": "eusses jeté",
+      "il": "eût jeté",
+      "nous": "eussions jeté",
+      "vous": "eussiez jeté",
+      "ils": "eussent jeté"
+    },
+    "conditionnel_présent": {
+      "je": "jetterais",
+      "tu": "jetterais",
+      "il": "jetterait",
+      "nous": "jetterions",
+      "vous": "jetteriez",
+      "ils": "jetteraient"
+    },
+    "conditionnel_passé_première": {
+      "je": "aurais jeté",
+      "tu": "aurais jeté",
+      "il": "aurait jeté",
+      "nous": "aurions jeté",
+      "vous": "auriez jeté",
+      "ils": "auraient jeté"
+    },
+    "conditionnel_passé_deuxième": {
+      "je": "eusse jeté",
+      "tu": "eusses jeté",
+      "il": "eût jeté",
+      "nous": "eussions jeté",
+      "vous": "eussiez jeté",
+      "ils": "eussent jeté"
+    },
+    "translation": "rzucać",
+    "group": 1
+  }
+]
