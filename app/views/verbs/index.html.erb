@@ -1,6 +1,20 @@
 <h1>Listing verbs</h1>
+<%= form_tag(verbs_path, method: "get") do %>
+  Groupes
+  <%= check_box_tag 'groupes[]', '1', @groupes.include?('1')  %> I
+  <%= check_box_tag 'groupes[]', '2', @groupes.include?('2')  %> II
+  <%= check_box_tag 'groupes[]', '3', @groupes.include?('3')  %> III
+  <%= submit_tag "Refresh"%>
+<% end %>
+<%= link_to image_tag("up.gif", :border => 0), verbs_path(anchor: 'home'), :class => 'up_home' %>
+<% l = ('A' .. 'Z').to_a %>
+<div id="sorting_options">
+  <% l.each do |letter| %>
+   <%= link_to letter, verbs_path(anchor: letter) %><br>
+  <% end %>
+</div>
 
-<table>
+<!-- <table>
   <thead>
     <tr>
       <th>Infinitive</th>
@@ -10,21 +24,27 @@
       <th></th>
       <th></th>
     </tr>
-  </thead>
+  </thead> -->
 
-  <tbody>
-    <% @verbs.each do |verb| %>
-      <tr>
-        <td><%= verb.infinitive %></td>
-        <td><%= verb.translation %></td>
-        <td><%= verb.group %></td>
-        <td><%= link_to 'Show', verb %></td>
-        <td><%= link_to 'Edit', edit_verb_path(verb) %></td>
-        <td><%= link_to 'Destroy', verb, method: :delete, data: { confirm: 'Are you sure?' } %></td>
-      </tr>
+    <% @verbs.keys.sort.each do |starting_letter| %>
+      <div id="<%=starting_letter.capitalize %>">
+      <%= starting_letter.capitalize %>
+      <table>
+      <% @verbs[starting_letter].each do |verb| %>
+        <tr>
+          <td><%= verb.infinitive %></td>
+          <td><%= verb.translation %></td>
+          <td><%= verb.group %></td>
+          <td><%= link_to 'Show', verb %></td>
+          <td><%= link_to 'Edit', edit_verb_path(verb) %></td>
+          <td><%= link_to 'Destroy', verb, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        </tr>
+      <% end %>
+    </table>
     <% end %>
-  </tbody>
-</table>
+      
+  <!-- </tbody> -->
+<!-- </table> -->
 
 <br>
 

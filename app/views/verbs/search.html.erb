@@ -1,7 +1,7 @@
 <h1>Searching results</h1>
 
 <h2>You were looking for "<%= @search_form %>"</h2>
-<% if @exact_verbs.length == 0 && @similar_verbs.length == 0 %>
+<% if @exact_verbs.length == 0 && @similar_verbs.length == 0 && @infinitives.length == 0 %>
 <h2> No verbs matching! </h2>
 <% else %>
   <div>
@@ -54,6 +54,31 @@
               <td><%= verb[0].translation %></td>
               <td><%= verb[1].to_s.capitalize.gsub(/[_]/, ' ')%> </td>
               <td><%= verb[2]%> </td>
+            </tr>
+          <% end %>
+        </tbody>
+      </table>
+    <% end %>
+  </div>
+
+  <div>
+    <h2>Infinitives</h2>
+    <% if @infinitives.length == 0 %>
+      No infinitives founded 
+    <% else %>
+      <table class="search_res">
+        <thead>
+          <tr>
+            <th>Infinitive</th>
+            <th>Translation</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <% @infinitives.each do |verb| %>
+            <tr>
+              <td><%= link_to verb.infinitive, verb %></td>
+              <td><%= verb.translation %></td>
             </tr>
           <% end %>
         </tbody>

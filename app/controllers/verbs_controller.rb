@@ -6,7 +6,13 @@ class VerbsController < ApplicationController
   # GET /verbs
   # GET /verbs.json
   def index
-    @verbs = Verb.all
+    @groupes = ['1','2','3']
+    if params[:groupes]
+      @groupes = params[:groupes]
+      @verbs =  Verb.find(:all, :conditions =>["`group` IN (?)", @groupes]).group_by{|u| u.infinitive[0]}
+    else
+      @verbs = Verb.all.group_by{|u| u.infinitive[0]}
+    end
   end
 
   # GET /verbs/1
@@ -114,34 +120,44 @@ class VerbsController < ApplicationController
 
   def search
     @search_form = params[:search]
+    # we have to take care of auxiliary verbs
+    # we assume that user is not looking for the form of etre or avoir
+    flag = 0
     exact_forms = Form.where(content: @search_form)
-    similar_forms = Form.find(:all, :conditions => ["content LIKE ?", "%#{@search_form}%"])
-    similar_forms = similar_forms - exact_forms
-    # Posilkowe!!!
-    # dokladne dopasowania <=> dopasowania "podobne"
+
     @exact_verbs = Array.new()
     @similar_verbs = Array.new()
+    @infinitives = Verb.find(:all, :conditions => ["infinitive LIKE ?", "%#{@search_form}%"])
 
     if exact_forms
       exact_forms.each_with_index do |form, index|
         # We need to know which verb and which tense is it
         v = Array.new()
+        a = Verb.find(form.verb_id)
         v.push(Verb.find(form.verb_id))
         v.push(@tenses[form.temp])
         v.push(@forms[form.person].to_s + " " +form.content)
         @exact_verbs.push(v)
+        if a.infinitive == "être" || a.infinitive == "avoir"
+          flag = 1
+        end
       end
     end
-    if similar_forms
-      similar_forms.each_with_index do |form, index|
-        v = Array.new()
-        v.push(Verb.find(form.verb_id))
-        v.push(@tenses[form.temp])
-        v.push(@forms[form.person].to_s + " " +form.content)
-        @similar_verbs.push(v)
-      end
-    end
+
+    if flag == 0
+      similar_forms = Form.find(:all, :conditions => ["content LIKE ?", "%#{@search_form}%"])
+      similar_forms = similar_forms - exact_forms
     
+      if similar_forms
+        similar_forms.each_with_index do |form, index|
+          v = Array.new()
+          v. push(Verb.find(form.verb_id))
+          v.push(@tenses[form.temp])
+          v.push(@forms[form.person].to_s + " " +form.content)
+          @similar_verbs.push(v)
+        end
+      end
+    end    
   end
 
 
@@ -193,9 +209,8 @@ class VerbsController < ApplicationController
       page = page+1
     end
 
-    @verbs = Verb.all
     respond_to do |format|
-      format.html{ render action: 'index'}
+      format.html{ redirect_to action: 'index'}
       format.json { head :no_content }
     end
   end
