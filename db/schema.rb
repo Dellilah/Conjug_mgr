@@ -25,10 +25,13 @@ ActiveRecord::Schema.define(version: 20140522102131) do
   add_index "forms", ["verb_id"], name: "index_forms_on_verb_id"
 
   create_table "repetitions", force: true do |t|
-    t.datetime "last"
+    t.datetime "next"
     t.integer  "count",      default: 1
     t.integer  "mistake",    default: 0
-    t.integer  "correct",    default: 0
+    t.integer  "n",          default: 1
+    t.float    "ef",         default: 2.5
+    t.integer  "interval",   default: 1
+    t.integer  "remembered"
     t.integer  "form_id"
     t.integer  "user_id"
     t.datetime "created_at"

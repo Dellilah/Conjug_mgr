@@ -1,10 +1,13 @@
 class CreateRepetitions < ActiveRecord::Migration
   def self.up
     create_table :repetitions do |t|
-      t.timestamp :last
-      t.integer :count, default: 0
+      t.timestamp :next
+      t.integer :count, default: 1
       t.integer :mistake, default: 0
-      t.integer :correct, default: 0
+      t.integer :n, default: 1
+      t.float :ef, default: 2.5
+      t.integer :interval, default: 1
+      t.integer :remembered
       t.references :form
       t.references :user
 

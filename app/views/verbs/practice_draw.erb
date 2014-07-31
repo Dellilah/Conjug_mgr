@@ -13,12 +13,26 @@
     <span class="wrong"><%= @answer %> </span> <span class="correct"> <%= @correct %> </span>
   </div>
 <% end %>
+  <%= form_tag("/check_form", method: "post") do %>
+<% if @result %>
+  <div> <span> Grade yourself </span>
+    (default: for the correct answer 4, for the incorrect - 1)
+    <table><tr><td>
+    <%= radio_button_tag 'q', '1', @result == 0  %> 1 <br> blackout! </td>
+    <td><%= radio_button_tag 'q', '2'  %> 2 <br> </td>
+    <td><%= radio_button_tag 'q', '3'  %> 3<br></td>
+    <td><%= radio_button_tag 'q', '4', @result == 1  %>4 <br></td>
+    <td><%= radio_button_tag 'q', '5'  %> 5 <br> know it by heart </td>
+    <%= hidden_field_tag 'full_form_id', @full_form.id %>
+    </tr></table>
+  </div>
+<% end %>
+
 
 <h2>Verb: <%= @v.infinitive %> </h2>
 <h2>Tense: <%= @tenses[@t.to_i].to_s.capitalize.gsub(/[_]/, ' ') %>          </h2>
 <!-- <div> -->
   <h2> <%= @forms[@p.to_i].to_s.capitalize %>: </h2>
-  <%= form_tag("/check_form", method: "post") do %>
 
     <%= text_field_tag 'answer' %>
 

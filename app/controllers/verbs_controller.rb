@@ -2,6 +2,7 @@ class VerbsController < ApplicationController
   before_action :set_verb, only: [:show, :edit, :update, :destroy]
   before_action :set_tenses, only: [:new, :create, :show, :edit, :update, :download, :download_from_json, :look_for_conj, :practice, :practice_draw, :check_form, :search]
   before_filter :authenticate_user!, :except => [:show, :practice, :practice_draw, :check_form, :index]
+  helper_method :get_interval
 
   # GET /verbs
   # GET /verbs.json
@@ -266,6 +267,8 @@ class VerbsController < ApplicationController
     @tenses_to_pr = params[:tenses_to_pr].split
     @verbs_to_pr_id = params[:verbs_to_pr].split
 
+    #check q for the previous answer
+    @q = params[:q].to_i
     #check answer
     @answer = params[:answer]
     @full_form = Form.where(:temp => @t_old, :person => @p_old, :verb_id => @v_old).first
@@ -276,19 +279,36 @@ class VerbsController < ApplicationController
       @result = 0
     end
 
-    # for logges users - we've got to save their result
+    # for logged users - we've got to save their result from the previous try
     if current_user
-      @r = Repetition.where(:form_id => @full_form.id, :user_id => current_user.id).first
+      @r = Repetition.where(:form_id => params[:full_form_id], :user_id => current_user.id).first
       if @r
         @r.count += 1
+        @r.n += 1
       else
-        @r = Repetition.new(:form_id => @full_form.id, :user_id => current_user.id)
+        @r = Repetition.new(:form_id => params[:full_form_id], :user_id => current_user.id)
+        @r.n = 1
       end
-      if @result == 1
-        @r.correct += 1
-      else
-        @r.mistake += 1
+      if @q && @q > 2
+        @r.ef = @r.ef - 0.8 + 0.28 * @q - 0.02 * @q * @q 
+        if @r.n == 1
+          i = 1
+        elsif @r.n == 2
+          i = 6
+        else
+          i = @r.interval * @r.ef
+        end
+        @r.remembered = 1
+        # we have to find the interval
+      elsif @q
+         i = 1
+         @r.n = 1
+         @r.remembered = 0
+        # we can set the interval among the @q
       end
+      @r.next = Time.now + i.days
+      @r.interval = i
+
       @r.save
     end
 
@@ -329,6 +349,16 @@ class VerbsController < ApplicationController
         :subjonctif_passé => @forms,:subjonctif_imparfait => @forms, :subjonctif_plus_que_parfait => @forms, :conditionnel_présent => @forms, :conditionnel_passé_première => @forms, :conditionnel_passé_deuxième => @forms]
       @par = [:infinitive, :translation, :group].concat(@t)
       params.require(:verb).permit(@par)
+    end
+
+    def get_interval
+      if @r.n == 1
+        return 1.0
+      elsif @r.n == 2
+        return 6.0
+      else
+        return @r.interval*get_ef
+      end
     end
 
 
