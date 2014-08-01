@@ -291,6 +291,9 @@ class VerbsController < ApplicationController
       end
       if @q && @q > 2
         @r.ef = @r.ef - 0.8 + 0.28 * @q - 0.02 * @q * @q 
+        if @r.ef <1.3
+          @r.ef = 1.3
+        end
         if @r.n == 1
           i = 1
         elsif @r.n == 2
@@ -301,9 +304,15 @@ class VerbsController < ApplicationController
         @r.remembered = 1
         # we have to find the interval
       elsif @q
-         i = 1
-         @r.n = 1
-         @r.remembered = 0
+        case @q
+        when 1
+          i =1
+          @r.n = 1
+        when 2
+          i = 6
+          @r.n = 2
+        end
+        @r.remembered = 0
         # we can set the interval among the @q
       end
       @r.next = Time.now + i.days
