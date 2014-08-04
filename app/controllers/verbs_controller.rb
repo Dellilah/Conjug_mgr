@@ -238,41 +238,58 @@ class VerbsController < ApplicationController
       ["(`group` IN (?) AND `infinitive` NOT IN (?)) OR `infinitive` IN (?) ",
       @gr_to_pr, @excl_to_pr, @add_to_pr ])
 
-    # if current_user
-    #   @forms_ids = Form.find(:all, :conditions =>
-    #     ["(`temp` IN (?) AND `verb_id` IN (?)"]
-    #     )
+    # we are going to save all forms ids suitable to conditions
+    @forms_ids = Form.find(:all, :conditions =>
+        ["`temp` IN (?) AND `verb_id` IN (?)", @tenses_to_pr, @verbs_to_pr ])
 
-    #drawing - person, tense, verb
-    @t = @tenses_to_pr.sample
-    @p = rand(0..5)
-    @v = @verbs_to_pr.sample
+    # if the user is logged we have to divide forms into 3 groups: 
+    # A) never ever checked, B) "outdated", C) the rest of the world
+    if current_user
+      # we need flag to change verbs: A <=> B (ew. C)
+      @flag = "A"
+      @forms_A = Array.new()
+      @forms_B = Array.new()
+      @forms_C = Array.new()
+      @forms_ids.each do |form|
+        if r = Repetition.where(:form_id => form.id, :user_id => current_user.id).first
+          if r.next < Time.now
+            @forms_C.push(form.id)
+          else
+            @forms_B.push(form.id)
+          end
+        else
+          @forms_A.push(form.id)
+        end 
+      end
+    end
 
-    #let's save verbs with its ids
-    @verbs_to_pr_id = Array.new()
-    @verbs_to_pr.each do |v|
-      @verbs_to_pr_id.push(v.id)
+    # if not logged - drawing from the whole group of fomrs
+    @f = @forms_ids.sample
+    @v = Verb.find(@f.verb_id)
+
+    #let's save forms with its ids
+    @forms_to_pr_id = Array.new()
+    @forms_ids.each do |v|
+      @forms_to_pr_id.push(v.id)
     end
 
   end
 
   def check_form
 
-    #save previous form, parameters
-    @t_old = params[:t].to_i
-    @p_old = params[:p].to_i
-    @v_old = params[:v].to_i
-    @v_old_inf = Verb.find(@v_old).infinitive
+    #save previous forms
+    @f_old = Form.find(params[:form])
+    @v_old = Verb.find(@f_old.verb_id)
 
-    @tenses_to_pr = params[:tenses_to_pr].split
-    @verbs_to_pr_id = params[:verbs_to_pr].split
+    # the whole table of ids of forms to practice
+    @forms_to_pr_id = params[:forms_to_pr_id]
 
     #check q for the previous answer
     @q = params[:q].to_i
     #check answer
     @answer = params[:answer]
-    @full_form = Form.where(:temp => @t_old, :person => @p_old, :verb_id => @v_old).first
-    @correct = @full_form.content
+    # @full_form = Form.where(:temp => @t_old, :person => @p_old, :verb_id => @v_old).first
+    @correct = @f_old.content
     if @answer ==  @correct
       @result = 1
     else
@@ -280,7 +297,42 @@ class VerbsController < ApplicationController
     end
 
     # for logged users - we've got to save their result from the previous try
+    #                 AND rewrite the forms A,B,C
+    #                 AND choose next verb
     if current_user
+
+      @forms_A = params[:forms_A].split
+      @forms_B = params[:forms_B].split
+      @forms_C = params[:forms_C].split
+      @flag = params[:flag]
+      if @flag == "A"
+        @forms_C.push(@f_old.id)
+        @forms_A.delete(@f_old.id.to_s)
+        if @forms_B.empty? && @forms_A.empty?
+          @flag = "C"
+        elsif !@forms_B.empty?
+          @flag = "B"
+        end
+      elsif @flag == "B"
+        @forms_C.push(@f_old.id)
+        @forms_B.delete(@f_old.id.to_s)
+        if @forms_B.empty? && @forms_A.empty?
+          @flag = "C"
+        elsif !@forms_A.empty?
+          @flag = "A"
+        end
+      end
+      case @flag
+      when "A"
+        @f = Form.find(@forms_A.sample.to_i)
+      when "B"
+        r = Repetition.where(:form_id => @forms_B,:user_id => current_user.id).order("next ASC").first
+        @f = Form.find(r.form_id)
+      when "C"
+        r = Repetition.where(:form_id => @forms_C,:user_id => current_user.id).order("next ASC").first
+        @f = Form.find(r.form_id)
+      end
+
       @r = Repetition.where(:form_id => params[:full_form_id], :user_id => current_user.id).first
       if @r
         @r.count += 1
@@ -289,6 +341,7 @@ class VerbsController < ApplicationController
         @r = Repetition.new(:form_id => params[:full_form_id], :user_id => current_user.id)
         @r.n = 1
       end
+      @r.save
       if @q && @q > 2
         @r.ef = @r.ef - 0.8 + 0.28 * @q - 0.02 * @q * @q 
         if @r.ef <1.3
@@ -302,8 +355,10 @@ class VerbsController < ApplicationController
           i = @r.interval * @r.ef
         end
         @r.remembered = 1
+        @r.next = Time.now + i.days
+        @r.interval = i
         # we have to find the interval
-      elsif @q
+      elsif @q != 0 
         case @q
         when 1
           i =1
@@ -313,23 +368,18 @@ class VerbsController < ApplicationController
           @r.n = 2
         end
         @r.remembered = 0
-        # we can set the interval among the @q
+        @r.next = Time.now + i.days
+        @r.interval = i
       end
-      @r.next = Time.now + i.days
-      @r.interval = i
-
       @r.save
+    else
+
+      @f = Form.find(:all, :conditions => ["`id` IN (?)", @forms_to_pr_id.split]).sample
+    
     end
 
-    #draw the new one - person, tense, verb
-    @t = @tenses_to_pr.sample
-    @p = rand(0..5)
-    @v = Verb.find(:all, :conditions =>
-      ["`id` IN (?)", @verbs_to_pr_id]).sample
+    @v = Verb.find(@f.verb_id)
 
-    @form = Form.where(:temp => @t, :person => @p, :verb_id => @v).first.id
-
-    @verbs = Verb.all
     respond_to do |format|
       format.html{ render :practice_draw}
       format.json { head :no_content }

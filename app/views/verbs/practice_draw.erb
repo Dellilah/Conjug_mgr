@@ -2,19 +2,19 @@
 
 <% if @result == 1 %>
   <div> <span class="correct" >CORRECT! </span><br>
-    <%= @forms[@p_old.to_i].to_s.capitalize %>
-    (<%= @v_old_inf %>, <%= @tenses[@t_old.to_i].to_s.gsub(/[_]/, ' ') %>)
+    <%= @forms[@f_old.person.to_i].to_s.capitalize %>
+    (<%= @v_old.infinitive %>, <%= @tenses[@f_old.temp.to_i].to_s.gsub(/[_]/, ' ') %>)
     <span class="correct" > <%= @correct %> </span>
   </div>
 <% elsif @result == 0 %>
   <div> <span class="wrong"> WRONG!  </span>
-  <%= @forms[@p_old.to_i].to_s.capitalize %>
-    (<%= @v_old_inf %>, <%= @tenses[@t_old.to_i].to_s.gsub(/[_]/, ' ') %>)
+  <%= @forms[@f_old.person.to_i].to_s.capitalize %>
+    (<%= @v_old.infinitive %>, <%= @tenses[@f_old.temp.to_i].to_s.gsub(/[_]/, ' ') %>)
     <span class="wrong"><%= @answer %> </span> <span class="correct"> <%= @correct %> </span>
   </div>
 <% end %>
   <%= form_tag("/check_form", method: "post") do %>
-<% if @result %>
+<% if @result && user_signed_in? %>
   <div> <span> Grade yourself </span>
     (default: for the correct answer 4, for the incorrect - 1)
     <table><tr><td>
@@ -23,24 +23,28 @@
     <td><%= radio_button_tag 'q', '3'  %> 3<br></td>
     <td><%= radio_button_tag 'q', '4', @result == 1  %>4 <br></td>
     <td><%= radio_button_tag 'q', '5'  %> 5 <br> know it by heart </td>
-    <%= hidden_field_tag 'full_form_id', @full_form.id %>
+    <%= hidden_field_tag 'full_form_id', @f_old.id %>
     </tr></table>
   </div>
 <% end %>
 
 
 <h2>Verb: <%= @v.infinitive %> </h2>
-<h2>Tense: <%= @tenses[@t.to_i].to_s.capitalize.gsub(/[_]/, ' ') %>          </h2>
+<h2>Tense: <%= @tenses[@f.temp.to_i].to_s.capitalize.gsub(/[_]/, ' ') %>          </h2>
 <!-- <div> -->
-  <h2> <%= @forms[@p.to_i].to_s.capitalize %>: </h2>
+  <h2> <%= @forms[@f.person.to_i].to_s.capitalize %>: </h2>
 
     <%= text_field_tag 'answer' %>
 
-    <%= hidden_field_tag 'tenses_to_pr', @tenses_to_pr %>
-    <%= hidden_field_tag 'verbs_to_pr', @verbs_to_pr_id %>
-    <%= hidden_field_tag 't', @t %>
-    <%= hidden_field_tag 'p', @p %>
-    <%= hidden_field_tag 'v', @v.id %>
+    <%= hidden_field_tag 'forms_to_pr_id', @forms_to_pr_id %>
+    <%= hidden_field_tag 'form', @f.id %>
+    <% if user_signed_in? %>
+      <%= hidden_field_tag 'forms_A', @forms_A %>
+      <%= hidden_field_tag 'forms_B', @forms_B %>
+      <%= hidden_field_tag 'forms_C', @forms_C %>
+      <%= hidden_field_tag 'flag', @flag %>
+
+    <% end %>
 
 
     <%= submit_tag "Check me!"%>
