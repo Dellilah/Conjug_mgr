@@ -1,0 +1,39 @@
+<h1><%= @group.name%></h1>
+
+<%= link_to image_tag("up.gif", :border => 0), pgroup_path(@group.id, anchor: 'home'), :class => 'up_home' %>
+<% l = ('A' .. 'Z').to_a %>
+<div id="sorting_options">
+  <% l.each do |letter| %>
+   <%= link_to letter, pgroup_path(@group.id,anchor: letter) %><br>
+  <% end %>
+</div>
+
+<!-- <table>
+  <thead>
+    <tr>
+      <th>Infinitive</th>
+      <th>Translation</th>
+      <th>Group</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead> -->
+
+    <% @verbs.keys.sort.each do |starting_letter| %>
+      <div id="<%=starting_letter.capitalize %>">
+      <%= starting_letter.capitalize %>
+      <table>
+      <% @verbs[starting_letter].each do |verb| %>
+        <tr>
+          <td><%= verb.infinitive %></td>
+          <td><%= verb.translation %></td>
+          <td><%= verb.group %></td>
+          <td><%= link_to 'Show', verb %></td>
+          <td><%= link_to 'Edit', edit_verb_path(verb) %></td>
+          <td><%= link_to 'Destroy', verb, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        </tr>
+      <% end %>
+    </table>
+    <% end %>
+

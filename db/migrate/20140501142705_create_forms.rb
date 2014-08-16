@@ -5,7 +5,7 @@ class CreateForms < ActiveRecord::Migration
       t.integer :temp
       t.integer :person
       t.references :verb
-
+      
       t.timestamps
     end
     add_index :forms, :verb_id

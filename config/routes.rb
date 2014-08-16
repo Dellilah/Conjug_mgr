@@ -1,4 +1,12 @@
 ConjugMgr::Application.routes.draw do
+  get "pgroups/index"
+  get "pgroup/:id" => "pgroups#show", as: 'pgroup'
+  post "pgroups/new"
+  get "pgroup/edit/:id" => "pgroups#edit", as: 'pgroup_edit'
+  post '/new_group' => "pgroups#create", as: 'new_group'
+  get "pgroups/update"
+  get "pgroups/destroy/:id" => "pgroups#destroy", as: 'pgroup_destroy'
+  
   devise_for :users
   resources :repetitions
 

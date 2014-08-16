@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140522102131) do
+ActiveRecord::Schema.define(version: 20140806135121) do
 
   create_table "forms", force: true do |t|
     t.string   "content"
@@ -23,6 +23,15 @@ ActiveRecord::Schema.define(version: 20140522102131) do
   end
 
   add_index "forms", ["verb_id"], name: "index_forms_on_verb_id"
+
+  create_table "pgroups", force: true do |t|
+    t.string   "name"
+    t.integer  "user_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "pgroups", ["user_id"], name: "index_pgroups_on_user_id"
 
   create_table "repetitions", force: true do |t|
     t.datetime "next"
@@ -39,6 +48,15 @@ ActiveRecord::Schema.define(version: 20140522102131) do
   end
 
   add_index "repetitions", ["form_id", "user_id"], name: "index_repetitions_on_form_id_and_user_id", unique: true
+
+  create_table "ugroups", force: true do |t|
+    t.integer  "pgroup_id"
+    t.integer  "verb_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "ugroups", ["verb_id", "pgroup_id"], name: "index_ugroups_on_verb_id_and_pgroup_id", unique: true
 
   create_table "users", force: true do |t|
     t.string   "email",                  default: "", null: false

@@ -16,9 +16,14 @@
     <br/>
     <br>
     <b>...or specifie verbs</b><br>
-    <%= text_field_tag 'verbs', nil, placeholder: 'être, aller, venir...' %>
+    <%= text_field_tag 'verbs', nil, placeholder: 'être, aller, venir...' %><br>
     <b>...or exlude verbs </b><br>
-    <%= text_field_tag 'exluded_verbs', nil, placeholder: 'être, aller, venir...' %>
+    <%= text_field_tag 'exluded_verbs', nil, placeholder: 'être, aller, venir...' %><br>
+    <% if user_signed_in? %>
+      <b>...or choose one of your own groups  </b><br>
+      <%= select_tag "pgroup_id", options_from_collection_for_select(current_user.pgroups, "id", "name"), prompt: "Choose your group"
+%><br>
+    <% end %>
   </div>
   <%= submit_tag "Try me!"%>
 <% end %>

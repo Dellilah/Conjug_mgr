@@ -1,0 +1,11 @@
+<h1>Manage your groups</h1>
+<%= button_to "Add new", pgroups_new_path %>
+<ol>
+	<% current_user.pgroups.each do |group| %>
+	<li> <%= group.name %> 
+		<%= link_to 'Show', pgroup_path(group.id) %>
+		<%= link_to 'Edit', pgroup_edit_path(group.id) %>
+		<%= link_to 'Remove', pgroup_destroy_path(group.id), data: { confirm: 'Are you sure?' } %>
+	</li>
+	<% end %>
+</ol>

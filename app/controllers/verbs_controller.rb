@@ -1,4 +1,5 @@
 class VerbsController < ApplicationController
+  skip_before_action :verify_authenticity_token
   before_action :set_verb, only: [:show, :edit, :update, :destroy]
   before_action :set_tenses, only: [:new, :create, :show, :edit, :update, :download, :download_from_json, :look_for_conj, :practice, :practice_draw, :check_form, :search]
   before_filter :authenticate_user!, :except => [:show, :practice, :practice_draw, :check_form, :index]
@@ -128,7 +129,7 @@ class VerbsController < ApplicationController
 
     @exact_verbs = Array.new()
     @similar_verbs = Array.new()
-    @infinitives = Verb.find(:all, :conditions => ["infinitive LIKE ?", "%#{@search_form}%"])
+    @infinitives = Verb.where("infinitive LIKE ?", "%#{@search_form}%")
 
     if exact_forms
       exact_forms.each_with_index do |form, index|
@@ -146,13 +147,14 @@ class VerbsController < ApplicationController
     end
 
     if flag == 0
-      similar_forms = Form.find(:all, :conditions => ["content LIKE ?", "%#{@search_form}%"])
+      similar_forms = Form.where("content LIKE ?", "%#{@search_form}%")
+
       similar_forms = similar_forms - exact_forms
-    
       if similar_forms
         similar_forms.each_with_index do |form, index|
           v = Array.new()
-          v. push(Verb.find(form.verb_id))
+
+          v.push(form.verb)
           v.push(@tenses[form.temp])
           v.push(@forms[form.person].to_s + " " +form.content)
           @similar_verbs.push(v)
@@ -217,6 +219,13 @@ class VerbsController < ApplicationController
   end
 
   def practice
+    if current_user
+      @pgroups = Array.new()
+      current_user.pgroups.each { |p| 
+        a = {:name => p.name, :id => p.id}
+        @pgroups.push(a)
+       }  
+    end
   end
 
   def practice_draw
@@ -229,14 +238,19 @@ class VerbsController < ApplicationController
     params[:tenses].each do |key, val|
       @tenses_to_pr.push(val)
     end
-    @gr_to_pr = params[:groupes]
-    @excl_to_pr = params[:exluded_verbs].length > 0 ? params[:exluded_verbs].split(', ') : ''
-    @add_to_pr = params[:verbs].length > 0 ? params[:verbs].split(', ') : ''
+    if params[:pgroup_id] != ''
+      @verbs_to_pr = Pgroup.find(params[:pgroup_id].to_i).verbs
+      puts @verbs_to_pr
+    else
+      @gr_to_pr = params[:groupes]
+      @excl_to_pr = params[:exluded_verbs].length > 0 ? params[:exluded_verbs].split(', ') : ''
+      @add_to_pr = params[:verbs].length > 0 ? params[:verbs].split(', ') : ''
 
-    #which verbs
-    @verbs_to_pr =  Verb.find(:all, :conditions =>
-      ["(`group` IN (?) AND `infinitive` NOT IN (?)) OR `infinitive` IN (?) ",
-      @gr_to_pr, @excl_to_pr, @add_to_pr ])
+      #which verbs
+      @verbs_to_pr =  Verb.find(:all, :conditions =>
+        ["(`group` IN (?) AND `infinitive` NOT IN (?)) OR `infinitive` IN (?) ",
+        @gr_to_pr, @excl_to_pr, @add_to_pr ])
+    end
 
     # we are going to save all forms ids suitable to conditions
     @forms_ids = Form.find(:all, :conditions =>
@@ -379,6 +393,8 @@ class VerbsController < ApplicationController
     end
 
     @v = Verb.find(@f.verb_id)
+
+
 
     respond_to do |format|
       format.html{ render :practice_draw}

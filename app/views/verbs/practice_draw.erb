@@ -29,7 +29,7 @@
 <% end %>
 
 
-<h2>Verb: <%= @v.infinitive %> </h2>
+<h2>Verb: <%= @v.infinitive %> <%= link_to '>>', @v %> </h2>
 <h2>Tense: <%= @tenses[@f.temp.to_i].to_s.capitalize.gsub(/[_]/, ' ') %>          </h2>
 <!-- <div> -->
   <h2> <%= @forms[@f.person.to_i].to_s.capitalize %>: </h2>

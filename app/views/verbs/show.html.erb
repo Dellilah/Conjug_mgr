@@ -2,6 +2,12 @@
 <p>
   <strong>Infinitive:</strong>
   <%= @verb.infinitive %>
+  <% if user_signed_in? %>
+    <span> Add to my group... 
+      
+    </span>
+  <% end %>
+
 </p>
 
 <p>
