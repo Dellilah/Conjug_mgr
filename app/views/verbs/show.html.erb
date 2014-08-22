@@ -3,9 +3,13 @@
   <strong>Infinitive:</strong>
   <%= @verb.infinitive %>
   <% if user_signed_in? %>
-    <span> Add to my group... 
-      
-    </span>
+    <br>
+    <%= form_tag("/add_to_group", method: "post") do %>
+      <%= select_tag "group_id", options_from_collection_for_select(current_user.pgroups, "id", "name"), prompt: "Add to my group" 
+      %>
+      <%= hidden_field_tag 'id', @verb.id %>
+    <%= submit_tag "Add me!"%>
+    <% end %>
   <% end %>
 
 </p>

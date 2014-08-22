@@ -3,6 +3,7 @@ ConjugMgr::Application.routes.draw do
   get "pgroup/:id" => "pgroups#show", as: 'pgroup'
   post "pgroups/new"
   get "pgroup/edit/:id" => "pgroups#edit", as: 'pgroup_edit'
+  post '/edit_group' => "pgroups#update", as: 'edit_group'
   post '/new_group' => "pgroups#create", as: 'new_group'
   get "pgroups/update"
   get "pgroups/destroy/:id" => "pgroups#destroy", as: 'pgroup_destroy'
@@ -24,6 +25,9 @@ ConjugMgr::Application.routes.draw do
   post '/practice' => 'verbs#practice_draw'
 
   post '/check_form' => 'verbs#check_form'
+
+  post '/add_to_group' => 'verbs#add_to_group'
+
 
   post '/search' => 'verbs#search'
 

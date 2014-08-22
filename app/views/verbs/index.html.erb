@@ -36,8 +36,10 @@
           <td><%= verb.translation %></td>
           <td><%= verb.group %></td>
           <td><%= link_to 'Show', verb %></td>
+          <% if current_user && current_user.role == 'admin' %>
           <td><%= link_to 'Edit', edit_verb_path(verb) %></td>
           <td><%= link_to 'Destroy', verb, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+          <% end %>
         </tr>
       <% end %>
     </table>
@@ -47,5 +49,3 @@
 <!-- </table> -->
 
 <br>
-
-<%= link_to 'New Verb', new_verb_path %>

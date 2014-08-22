@@ -8,18 +8,21 @@
   </div>
   <br>
   <div class="row step">
-    <b>Step II: Choose groupes</b><br/>
+    <b>Step II: Choose verbs</b><br/>
     <br>
+    Group(s)
     <%= check_box_tag 'groupes[]', '1', checked=true  %> I
     <%= check_box_tag 'groupes[]', '2', checked=true  %> II
     <%= check_box_tag 'groupes[]', '3', checked=true  %> III
     <br/>
     <br>
-    <b>...or specifie verbs</b><br>
+    <b>...specifie verbs</b><br>
     <%= text_field_tag 'verbs', nil, placeholder: 'être, aller, venir...' %><br>
-    <b>...or exlude verbs </b><br>
+    <b>...exlude verbs (from chosen groups) </b><br>
     <%= text_field_tag 'exluded_verbs', nil, placeholder: 'être, aller, venir...' %><br>
     <% if user_signed_in? %>
+
+    <br>
       <b>...or choose one of your own groups  </b><br>
       <%= select_tag "pgroup_id", options_from_collection_for_select(current_user.pgroups, "id", "name"), prompt: "Choose your group"
 %><br>

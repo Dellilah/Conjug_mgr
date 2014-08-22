@@ -1,0 +1,22 @@
+<%= form_tag("/edit_group", method: "post") do %>
+  <div class="row step choose_tense">
+    <b>Step I: Choose the name</b> 
+    <%= text_field_tag 'name', @pgroup.name %><br>
+  </div>
+  <br>
+  <div class="row step">
+    <b>Step II: Choose groupes</b><br/>
+    <br>
+    <%= check_box_tag 'groupes[]', '1', checked=(@groupes.include? '1')  %> I
+    <%= check_box_tag 'groupes[]', '2', checked=(@groupes.include? '2')  %> II
+    <%= check_box_tag 'groupes[]', '3', checked=(@groupes.include? '3')  %> III
+    <br/>
+    <br>
+    <b>...or specifie verbs</b><br>
+    <%= text_area_tag 'verbs', @verbs, rows: 10, cols:40 %><br>
+    <b>...or exlude verbs </b><br>
+    <%= text_area_tag 'exluded_verbs', @excluded_verbs, rows: 10, cols:40  %><br>
+    <%= hidden_field_tag 'id', @pgroup.id %>
+  </div>
+  <%= submit_tag "Update"%>
+<% end %>

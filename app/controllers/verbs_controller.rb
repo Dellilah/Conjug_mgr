@@ -2,8 +2,9 @@ class VerbsController < ApplicationController
   skip_before_action :verify_authenticity_token
   before_action :set_verb, only: [:show, :edit, :update, :destroy]
   before_action :set_tenses, only: [:new, :create, :show, :edit, :update, :download, :download_from_json, :look_for_conj, :practice, :practice_draw, :check_form, :search]
-  before_filter :authenticate_user!, :except => [:show, :practice, :practice_draw, :check_form, :index]
+  before_action :authenticate_user!, :except => [:show, :practice, :practice_draw, :check_form, :index]
   helper_method :get_interval
+  before_filter :require_admin, only: [:new, :create, :edit, :update, :destroy]
 
   # GET /verbs
   # GET /verbs.json
@@ -39,6 +40,7 @@ class VerbsController < ApplicationController
 
   # GET /verbs/1/edit
   def edit
+
   end
 
   # POST /verbs
@@ -63,6 +65,23 @@ class VerbsController < ApplicationController
       else
         format.html { render action: 'new' }
         format.json { render json: @verb.errors, status: :unprocessable_entity }
+      end
+    end
+  end
+
+  def add_to_group
+    @verb = Verb.find(params[:id].to_i)
+    pgroup = Pgroup.find(params[:group_id])
+    verbs = pgroup.verbs
+    verbs.push(@verb)
+
+    respond_to do |format|
+      if pgroup.update(:verbs => verbs)
+        format.html { redirect_to @verb, notice: 'Verb was successfully added.' }
+        format.json { render action: 'show', status: :created, location: @verb }
+      else
+        format.html { redirect_to @verb, notice: 'Verb was NOT added.' }
+        format.json { render action: 'show', status: :created, location: @verb }
       end
     end
   end
@@ -230,61 +249,63 @@ class VerbsController < ApplicationController
 
   def practice_draw
 
-    if !defined? params[:tenses] || (!defined? params[:groupes] && @excl_to_pr.empty? && @add_to_pr.empty?)
-      puts "NIC NIE WYBRANO"
-    end
+    @excl_to_pr = params[:exluded_verbs].length > 0 ? params[:exluded_verbs].split(', ') : ''
+    @add_to_pr = params[:verbs].length > 0 ? params[:verbs].split(', ') : ''
 
-    @tenses_to_pr = Array.new()
-    params[:tenses].each do |key, val|
-      @tenses_to_pr.push(val)
-    end
-    if params[:pgroup_id] != ''
-      @verbs_to_pr = Pgroup.find(params[:pgroup_id].to_i).verbs
-      puts @verbs_to_pr
+    if !params.has_key?(:tenses) || (!params.has_key?(:groupes) && @excl_to_pr.empty? && @add_to_pr.empty?)
+      redirect_to :action => 'practice'
     else
-      @gr_to_pr = params[:groupes]
-      @excl_to_pr = params[:exluded_verbs].length > 0 ? params[:exluded_verbs].split(', ') : ''
-      @add_to_pr = params[:verbs].length > 0 ? params[:verbs].split(', ') : ''
 
-      #which verbs
-      @verbs_to_pr =  Verb.find(:all, :conditions =>
-        ["(`group` IN (?) AND `infinitive` NOT IN (?)) OR `infinitive` IN (?) ",
-        @gr_to_pr, @excl_to_pr, @add_to_pr ])
-    end
-
-    # we are going to save all forms ids suitable to conditions
-    @forms_ids = Form.find(:all, :conditions =>
-        ["`temp` IN (?) AND `verb_id` IN (?)", @tenses_to_pr, @verbs_to_pr ])
-
-    # if the user is logged we have to divide forms into 3 groups: 
-    # A) never ever checked, B) "outdated", C) the rest of the world
-    if current_user
-      # we need flag to change verbs: A <=> B (ew. C)
-      @flag = "A"
-      @forms_A = Array.new()
-      @forms_B = Array.new()
-      @forms_C = Array.new()
-      @forms_ids.each do |form|
-        if r = Repetition.where(:form_id => form.id, :user_id => current_user.id).first
-          if r.next < Time.now
-            @forms_C.push(form.id)
-          else
-            @forms_B.push(form.id)
-          end
-        else
-          @forms_A.push(form.id)
-        end 
+      @tenses_to_pr = Array.new()
+      params[:tenses].each do |key, val|
+        @tenses_to_pr.push(val)
       end
-    end
+      if params[:pgroup_id] != ''
+        @verbs_to_pr = Pgroup.find(params[:pgroup_id].to_i).verbs
+        puts @verbs_to_pr
+      else
+        @gr_to_pr = params[:groupes]
 
-    # if not logged - drawing from the whole group of fomrs
-    @f = @forms_ids.sample
-    @v = Verb.find(@f.verb_id)
+        #which verbs
+        @verbs_to_pr =  Verb.find(:all, :conditions =>
+          ["(`group` IN (?) AND `infinitive` NOT IN (?)) OR `infinitive` IN (?) ",
+          @gr_to_pr, @excl_to_pr, @add_to_pr ])
+      end
 
-    #let's save forms with its ids
-    @forms_to_pr_id = Array.new()
-    @forms_ids.each do |v|
-      @forms_to_pr_id.push(v.id)
+      # we are going to save all forms ids suitable to conditions
+      @forms_ids = Form.find(:all, :conditions =>
+          ["`temp` IN (?) AND `verb_id` IN (?)", @tenses_to_pr, @verbs_to_pr ])
+
+      # if the user is logged we have to divide forms into 3 groups: 
+      # A) never ever checked, B) "outdated", C) the rest of the world
+      if current_user
+        # we need flag to change verbs: A <=> B (ew. C)
+        @flag = "A"
+        @forms_A = Array.new()
+        @forms_B = Array.new()
+        @forms_C = Array.new()
+        @forms_ids.each do |form|
+          if r = Repetition.where(:form_id => form.id, :user_id => current_user.id).first
+            if r.next < Time.now
+              @forms_C.push(form.id)
+            else
+              @forms_B.push(form.id)
+            end
+          else
+            @forms_A.push(form.id)
+          end 
+        end
+      end
+
+      # if not logged - drawing from the whole group of fomrs
+      @f = @forms_ids.sample
+      @v = Verb.find(@f.verb_id)
+
+      #let's save forms with its ids
+      @forms_to_pr_id = Array.new()
+      @forms_ids.each do |v|
+        @forms_to_pr_id.push(v.id)
+      end
     end
 
   end
