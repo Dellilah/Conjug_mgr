@@ -1,4 +1,6 @@
 ConjugMgr::Application.routes.draw do
+  resources :translations
+
   get "pgroups/index"
   get "pgroup/:id" => "pgroups#show", as: 'pgroup'
   post "pgroups/new"
@@ -7,6 +9,8 @@ ConjugMgr::Application.routes.draw do
   post '/new_group' => "pgroups#create", as: 'new_group'
   get "pgroups/update"
   get "pgroups/destroy/:id" => "pgroups#destroy", as: 'pgroup_destroy'
+  get "translations/accept/:id" => "translations#accept", as: 'translation_accept'
+
   
   devise_for :users
   resources :repetitions
@@ -20,11 +24,15 @@ ConjugMgr::Application.routes.draw do
   get '/download/:page' => 'verbs#download'
 
   get '/practice' => 'verbs#practice'
+  get '/initiate'=> 'verbs#database_initiation'
   get '/from_json/:page' => 'verbs#download_from_json'
 
   post '/practice' => 'verbs#practice_draw'
 
   post '/check_form' => 'verbs#check_form'
+
+  post '/report_transl' => 'translations#create'
+
 
   post '/add_to_group' => 'verbs#add_to_group'
 

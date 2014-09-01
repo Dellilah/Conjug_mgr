@@ -17,6 +17,13 @@
 <p>
   <strong>Translation:</strong>
   <%= @verb.translation %>
+  <div id="report_transl">
+    <%= form_tag("/report_transl", method: "post") do %>
+      I think this will be better... <%= text_field_tag "transl" %>
+      <%= hidden_field_tag 'id', @verb.id %>
+    <%= submit_tag "Report!"%>
+    <% end %>
+  </div>
 </p>
 
 <p>

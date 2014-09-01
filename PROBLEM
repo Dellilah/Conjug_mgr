@@ -1,0 +1,24 @@
+PROBLEM
+1920 czasownikow...
+Przy cwiczeniu nie ma innego wyjscia jak sprawdzic date powtorki kazdej formy i podzielic je na odpowiednie grupy. Jezeli uzytkownik zdecydowalby sie na cwiczenie wszystkich czasow i wszystkich grup czasownikow - oznaczaloby to niewyobrazalna ilosc porownan.  
+
+ROZWIAZANIE: wszystkie czasowniki z 3 grupy (203), najbardziej "chwytne" (bescherelle: 13+2 ++?) z I i II
++ mozliwosc "poszerzenia bazy", dla zalogowanych uzytkownikow
+
+W praktyce: 
+*dla osob niezalogowanych, oraz dla osób zalogowanych korzystających z bazy ogólnej losowane jest spośród verbs_id < 218
+* dla osób zalogowanych - możliwość dodania do spersonalizowanej grupy czasownika spoza podstawowej listy - poprzed wpisanie jego bezokolicznika
+
+=>
+* dla "verbs list" pobierane sa czzasowniki z bazy ogolnej - v_id < 218
+* dla listy czasownikow danej grupy spersonalizowanej - pobieramy wszystkie czasowniki o id z grupy
+* dla edycji grupy spersonalizowanej - pobieranie/check-owanie I,II,III zachodzi tak jak dotychczas dla v_id<218; w polu "specifie verbs" dodajemy te z pgroup, ktorych id > 218
+
+Odmiana 1920 czasowników pozostanie w plikach JSON na serwerze.
+W momencie kiedy uzytkownik dopisuje bezokolicznik do grupy "specifie verbs" sprawdzane jest jego wystepowanie w tabeli Verbs - jezeli istnieje to albo nalezy do bazy ogolnej, albo dodal go juz jakis uzytkownik - nie ma to znaczenia. Jezeli nie istnieje - nalezy "dosciagac" jego odmiane.
+
+EDIT
+dla 367 czasownikow, z tego 18 I grupy, 6 drugiej i "wszystkie" III - 343
+=> akcja cwiczenia wszystkich czasow, wszystkich grup... trwala niecale 3 minuty
+To zdecydowanie za dlugo.
+=> czasowniki III grupy rowniez ograniczymy do listy czasownikow z Bescherella

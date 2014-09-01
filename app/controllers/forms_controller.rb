@@ -1,4 +1,6 @@
 class FormsController < ApplicationController
+  before_action :authenticate_user!
+  before_action :transl_count
   before_action :set_form, only: [:show, :edit, :update, :destroy]
 
   # GET /forms

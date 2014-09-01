@@ -1,4 +1,6 @@
 class RepetitionsController < ApplicationController
+  before_action :transl_count
+  before_action :authenticate_user!
   before_action :set_repetition, only: [:show, :edit, :update, :destroy]
 
   # GET /repetitions

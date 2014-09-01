@@ -1,9 +1,9 @@
 class VerbsController < ApplicationController
   skip_before_action :verify_authenticity_token
   before_action :set_verb, only: [:show, :edit, :update, :destroy]
-  before_action :set_tenses, only: [:new, :create, :show, :edit, :update, :download, :download_from_json, :look_for_conj, :practice, :practice_draw, :check_form, :search]
   before_action :authenticate_user!, :except => [:show, :practice, :practice_draw, :check_form, :index]
   helper_method :get_interval
+  before_action :transl_count
   before_filter :require_admin, only: [:new, :create, :edit, :update, :destroy]
 
   # GET /verbs
@@ -12,9 +12,9 @@ class VerbsController < ApplicationController
     @groupes = ['1','2','3']
     if params[:groupes]
       @groupes = params[:groupes]
-      @verbs =  Verb.find(:all, :conditions =>["`group` IN (?)", @groupes]).group_by{|u| u.infinitive[0]}
+      @verbs =  Verb.find(:all, :conditions =>["`id` < 95 AND `group` IN (?)", @groupes]).group_by{|u| u.infinitive[0]}
     else
-      @verbs = Verb.all.group_by{|u| u.infinitive[0]}
+      @verbs = Verb.where(:id => 0..94).group_by{|u| u.infinitive[0]}
     end
   end
 
@@ -40,7 +40,6 @@ class VerbsController < ApplicationController
 
   # GET /verbs/1/edit
   def edit
-
   end
 
   # POST /verbs
@@ -110,6 +109,7 @@ class VerbsController < ApplicationController
     end
   end
 
+  #downloading from figaro => json
   def download
     page = params[:page].to_i
 
@@ -182,8 +182,6 @@ class VerbsController < ApplicationController
     end    
   end
 
-
-
   def look_for_conj
     verb = download_verb_conjugation(params[:verb])
     v = Verb.new(:infinitive => verb[:infinitive], :translation => verb[:translation], :group => verb[:group])
@@ -249,6 +247,9 @@ class VerbsController < ApplicationController
 
   def practice_draw
 
+    session[:random] = params[:random]
+    session[:careless] = params[:careless]
+
     @excl_to_pr = params[:exluded_verbs].length > 0 ? params[:exluded_verbs].split(', ') : ''
     @add_to_pr = params[:verbs].length > 0 ? params[:verbs].split(', ') : ''
 
@@ -260,15 +261,14 @@ class VerbsController < ApplicationController
       params[:tenses].each do |key, val|
         @tenses_to_pr.push(val)
       end
-      if params[:pgroup_id] != ''
+      if params.has_key?(:pgroup_id) && params[:pgroup_id] != ''
         @verbs_to_pr = Pgroup.find(params[:pgroup_id].to_i).verbs
-        puts @verbs_to_pr
       else
         @gr_to_pr = params[:groupes]
 
         #which verbs
         @verbs_to_pr =  Verb.find(:all, :conditions =>
-          ["(`group` IN (?) AND `infinitive` NOT IN (?)) OR `infinitive` IN (?) ",
+          ["(`group` IN (?) AND `infinitive` NOT IN (?)) OR `infinitive` IN (?) AND `id` < 95 ",
           @gr_to_pr, @excl_to_pr, @add_to_pr ])
       end
 
@@ -276,9 +276,10 @@ class VerbsController < ApplicationController
       @forms_ids = Form.find(:all, :conditions =>
           ["`temp` IN (?) AND `verb_id` IN (?)", @tenses_to_pr, @verbs_to_pr ])
 
-      # if the user is logged we have to divide forms into 3 groups: 
+      # if the user is logged and he DON'T want "random"
+      # we have to divide forms into 3 groups: 
       # A) never ever checked, B) "outdated", C) the rest of the world
-      if current_user
+      if current_user && !session[:random]
         # we need flag to change verbs: A <=> B (ew. C)
         @flag = "A"
         @forms_A = Array.new()
@@ -334,88 +335,89 @@ class VerbsController < ApplicationController
     # for logged users - we've got to save their result from the previous try
     #                 AND rewrite the forms A,B,C
     #                 AND choose next verb
-    if current_user
+    if current_user 
+      if !session[:random]
+        @forms_A = params[:forms_A].split
+        @forms_B = params[:forms_B].split
+        @forms_C = params[:forms_C].split
+        @flag = params[:flag]
+        if @flag == "A"
+          @forms_C.push(@f_old.id)
+          @forms_A.delete(@f_old.id.to_s)
+          if @forms_B.empty? && @forms_A.empty?
+            @flag = "C"
+          elsif !@forms_B.empty?
+            @flag = "B"
+          end
+        elsif @flag == "B"
+          @forms_C.push(@f_old.id)
+          @forms_B.delete(@f_old.id.to_s)
+          if @forms_B.empty? && @forms_A.empty?
+            @flag = "C"
+          elsif !@forms_A.empty?
+            @flag = "A"
+          end
+        end
+        case @flag
+        when "A"
+          @f = Form.find(@forms_A.sample.to_i)
+        when "B"
+          r = Repetition.where(:form_id => @forms_B,:user_id => current_user.id).order("next ASC").first
+          @f = Form.find(r.form_id)
+        when "C"
+          r = Repetition.where(:form_id => @forms_C,:user_id => current_user.id).order("next ASC").first
+          @f = Form.find(r.form_id)
+        end
+      end
 
-      @forms_A = params[:forms_A].split
-      @forms_B = params[:forms_B].split
-      @forms_C = params[:forms_C].split
-      @flag = params[:flag]
-      if @flag == "A"
-        @forms_C.push(@f_old.id)
-        @forms_A.delete(@f_old.id.to_s)
-        if @forms_B.empty? && @forms_A.empty?
-          @flag = "C"
-        elsif !@forms_B.empty?
-          @flag = "B"
-        end
-      elsif @flag == "B"
-        @forms_C.push(@f_old.id)
-        @forms_B.delete(@f_old.id.to_s)
-        if @forms_B.empty? && @forms_A.empty?
-          @flag = "C"
-        elsif !@forms_A.empty?
-          @flag = "A"
-        end
-      end
-      case @flag
-      when "A"
-        @f = Form.find(@forms_A.sample.to_i)
-      when "B"
-        r = Repetition.where(:form_id => @forms_B,:user_id => current_user.id).order("next ASC").first
-        @f = Form.find(r.form_id)
-      when "C"
-        r = Repetition.where(:form_id => @forms_C,:user_id => current_user.id).order("next ASC").first
-        @f = Form.find(r.form_id)
-      end
-
-      @r = Repetition.where(:form_id => params[:full_form_id], :user_id => current_user.id).first
-      if @r
-        @r.count += 1
-        @r.n += 1
-      else
-        @r = Repetition.new(:form_id => params[:full_form_id], :user_id => current_user.id)
-        @r.n = 1
-      end
-      @r.save
-      if @q && @q > 2
-        @r.ef = @r.ef - 0.8 + 0.28 * @q - 0.02 * @q * @q 
-        if @r.ef <1.3
-          @r.ef = 1.3
-        end
-        if @r.n == 1
-          i = 1
-        elsif @r.n == 2
-          i = 6
+      if session[:careless]
+        @r = Repetition.where(:form_id => params[:full_form_id], :user_id => current_user.id).first
+        if @r
+          @r.count += 1
+          @r.n += 1
         else
-          i = @r.interval * @r.ef
-        end
-        @r.remembered = 1
-        @r.next = Time.now + i.days
-        @r.interval = i
-        # we have to find the interval
-      elsif @q != 0 
-        case @q
-        when 1
-          i =1
+          @r = Repetition.new(:form_id => params[:full_form_id], :user_id => current_user.id)
           @r.n = 1
-        when 2
-          i = 6
-          @r.n = 2
         end
-        @r.remembered = 0
-        @r.next = Time.now + i.days
-        @r.interval = i
+        @r.save
+        if @q && @q > 2
+          @r.ef = @r.ef - 0.8 + 0.28 * @q - 0.02 * @q * @q 
+          if @r.ef <1.3
+            @r.ef = 1.3
+          end
+          if @r.n == 1
+            i = 1
+          elsif @r.n == 2
+            i = 6
+          else
+            i = @r.interval * @r.ef
+          end
+          @r.remembered = 1
+          @r.next = Time.now + i.days
+          @r.interval = i
+          # we have to find the interval
+        elsif @q != 0 
+          case @q
+          when 1
+            i =1
+            @r.n = 1
+          when 2
+            i = 6
+            @r.n = 2
+          end
+          @r.remembered = 0
+          @r.next = Time.now + i.days
+          @r.interval = i
+        end
+        @r.save
       end
-      @r.save
-    else
+    end
 
+    if !current_user || session[:random]
       @f = Form.find(:all, :conditions => ["`id` IN (?)", @forms_to_pr_id.split]).sample
-    
     end
 
     @v = Verb.find(@f.verb_id)
-
-
 
     respond_to do |format|
       format.html{ render :practice_draw}
@@ -424,17 +426,48 @@ class VerbsController < ApplicationController
 
   end
 
+  #function to initiate database
+  # verbs - group 3
+  # verbs - group 1&2 - bescherelle
+  def database_initiation
+    verbs_besch = ['aimer', 'placer', 'manger', 'peser', 'céder', 'jeter', 'épousseter', 'appeler',
+                  'modeler','celer', 'écarteler','acheter', 'haleter', 'créer', 'assiéger', 
+                  'apprécier', 'payer', 'broyer', 'envoyer', 
+                  'finir', 'grandir', 'divertir', 'raccourcir', 'haïr', "rougir",
+                  'aller', 'tenir', 'acquérir', 'sentir', 'vêtir', 'couvrir', 'cueillir', 
+                  'assaillir', 'faillir', 'bouillir', 'dormir', 'courir', 'mourir', 'servir', 
+                  'fuir', 'ouïr', 'gésir', 'recevoir', 'voir', 'pourvoir', 'savoir', 'devoir', 
+                  'pouvoir', 'mouvoir', 'pleuvoir', 'falloir', 'valoir', 'vouloir', 'asseoir', 
+                  'seoir', 'messeoir', 'surseoir', 'choir', 'échoir', 'déchoir', 'rendre', 'prendre', 
+                  'battre', 'mettre', 'peindre', 'ceindre', 'joindre', 'craindre', 'vaincre', 'traire', 
+                  'faire', 'plaire', 'connaître', 'taire', 'naître', 'paître', 'repaître', 'croître', 
+                  'croire', 'boire', 'clore', 'conclure', 'absoudre', 'coudre', 'moudre', 'suivre', 
+                  'vivre', 'lire', 'dire', 'rire', 'écrire', 'confire', 'cuire', 'être', 'avoir']
+    for i in 1..198
+      file = File.read("public/temp_#{i}.json")
+      verbs_conj = JSON.parse(file)
+      verbs_conj.each do |verb|
+        if verbs_besch.include?(verb["infinitive"])
+          v = Verb.new(:infinitive => verb["infinitive"], :translation => verb["translation"], :group => verb["group"])
+          if v.save
+            @tenses.each_with_index do |tense, index|
+              @forms.each_with_index do |form, index2|
+                if(verb[tense.to_s][form.to_s].strip != '')
+                  @form = Form.new(:content => verb[tense.to_s][form.to_s], :temp => index.to_i, :person => index2.to_i,:verb => v)
+                  @form.save
+                end
+              end
+            end
+          end
+        end
+      end
+    end
+  end
+
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_verb
       @verb = Verb.find(params[:id])
-    end
-
-    def set_tenses
-      @tenses = [:présent, :passé_composé, :imparfait, :plus_que_parfait,
-        :passé_simple, :passé_antérieur, :futur_simple, :futur_antérieur,:subjonctif_présent,
-        :subjonctif_passé,:subjonctif_imparfait, :subjonctif_plus_que_parfait, :conditionnel_présent, :conditionnel_passé_première, :conditionnel_passé_deuxième]
-      @forms = [:je, :tu, :il, :nous, :vous, :ils]
     end
 
     # Never trust parameters from the scary internet, only allow the white list through.

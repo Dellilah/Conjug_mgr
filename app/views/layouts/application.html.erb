@@ -7,7 +7,11 @@
   <%= csrf_meta_tags %>
 </head>
 <body id="home">
- 
+    <%= render :partial => 'verbs/search_form' %>
+
+ <% if user_signed_in? && current_user.role == 'admin' %>
+ <p> Hello Admin! Your application did miss you! </p>
+ <% end %>
  <p class="navbar-text pull-right">
   <%= link_to 'Let\'s do it!', root_path, :class => 'navbar-link' %> | 
   <%= link_to 'Verbs list', verbs_path, :class => 'navbar-link' %> ||| 
@@ -18,6 +22,11 @@
     <%= link_to "Logout", destroy_user_session_path, method: :get, :class => 'navbar-link'  %>
     |
     <%= link_to "Your groups", pgroups_index_path, :class => 'navbar-link'  %>
+    |
+    <% if current_user.role == 'admin' %>
+      <%= link_to "Translations to verify! (#{@translation.count})", translations_path, :class => 'navbar-link'  %>
+    <% end %>
+
 
   <% else %>
     <%= link_to "Sign up", new_user_registration_path, :class => 'navbar-link'  %> |

@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140806135121) do
+ActiveRecord::Schema.define(version: 20140822215453) do
 
   create_table "forms", force: true do |t|
     t.string   "content"
@@ -48,6 +48,16 @@ ActiveRecord::Schema.define(version: 20140806135121) do
   end
 
   add_index "repetitions", ["form_id", "user_id"], name: "index_repetitions_on_form_id_and_user_id", unique: true
+
+  create_table "translations", force: true do |t|
+    t.string   "content"
+    t.integer  "user_id"
+    t.integer  "verb_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "translations", ["verb_id", "user_id"], name: "index_translations_on_verb_id_and_user_id", unique: true
 
   create_table "ugroups", force: true do |t|
     t.integer  "pgroup_id"

@@ -1,0 +1,24 @@
+<h1>Translations proposed by users </h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Infinitive</th>
+      <th>Translation</th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @translations.each do |translation| %>
+      <tr>
+        <td><%= translation.verb.infinitive %></td>
+        <td><%= translation.content %></td>
+        <td><%= link_to 'Accept', translation_accept_path(translation) %></td>
+        <td><%= link_to 'Reject', translation, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+

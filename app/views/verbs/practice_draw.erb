@@ -38,7 +38,7 @@
 
     <%= hidden_field_tag 'forms_to_pr_id', @forms_to_pr_id %>
     <%= hidden_field_tag 'form', @f.id %>
-    <% if user_signed_in? %>
+    <% if user_signed_in? && !session[:random]  %>
       <%= hidden_field_tag 'forms_A', @forms_A %>
       <%= hidden_field_tag 'forms_B', @forms_B %>
       <%= hidden_field_tag 'forms_C', @forms_C %>
@@ -49,7 +49,7 @@
 
     <%= submit_tag "Check me!"%>
     <div id="special_char">
-      <% ['à', 'ç', 'é', 'è', 'ê', 'î', 'û'].each do |letter| %>
+      <% ['à', 'ç', 'é', 'è', 'ê', 'î', 'ï', 'û'].each do |letter| %>
         <button type="button"> <%= letter %> </button>
       <% end %>
     </div>
