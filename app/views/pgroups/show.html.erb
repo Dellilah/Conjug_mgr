@@ -4,6 +4,7 @@
 
 <%= link_to image_tag("up.gif", :border => 0), pgroup_path(@pgroup.id, anchor: 'home'), :class => 'up_home' %>
 <% l = ('A' .. 'Z').to_a %>
+<% l.push('é','ê') %>
 <div id="sorting_options">
   <% l.each do |letter| %>
    <%= link_to letter, pgroup_path(@pgroup.id,anchor: letter) %><br>
@@ -25,7 +26,8 @@
     <% @verbs.keys.sort.each do |starting_letter| %>
       <div id="<%=starting_letter.capitalize %>">
       <%= starting_letter.capitalize %>
-      <table>
+      <table class="verbs_list">
+      
       <% @verbs[starting_letter].each do |verb| %>
         <tr>
           <td><%= verb.infinitive %></td>

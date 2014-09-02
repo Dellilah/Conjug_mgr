@@ -16,3 +16,19 @@
  	margin-left: 80px;
  	margin-right: 80px;
  }
+
+ .red {
+ 	color: red;
+ }
+
+ .green {
+ 	color: chartreuse;
+ }
+
+ .hide {
+ 	display: none;
+ }
+
+ .show {
+ 	display: block;
+ }

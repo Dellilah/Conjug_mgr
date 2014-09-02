@@ -4,7 +4,7 @@ class VerbsController < ApplicationController
   before_action :authenticate_user!, :except => [:show, :practice, :practice_draw, :check_form, :index]
   helper_method :get_interval
   before_action :transl_count
-  before_filter :require_admin, only: [:new, :create, :edit, :update, :destroy]
+  before_filter :require_admin, only: [:new, :create, :edit, :update, :destroy, :database_initiation]
 
   # GET /verbs
   # GET /verbs.json
@@ -15,6 +15,19 @@ class VerbsController < ApplicationController
       @verbs =  Verb.find(:all, :conditions =>["`id` < 95 AND `group` IN (?)", @groupes]).group_by{|u| u.infinitive[0]}
     else
       @verbs = Verb.where(:id => 0..94).group_by{|u| u.infinitive[0]}
+    end
+    if current_user 
+      @v_best = Array.new()
+      @v_worse = Array.new()
+      a = ActiveRecord::Base.connection.execute("select v.id AS vid, SUM(CAST(r.mistake AS float)/CAST(r.count AS float)) AS s from repetitions r, forms f, verbs v WHERE r.user_id = #{current_user.id} AND r.form_id = f.id AND f.verb_id = v.id GROUP BY v.id ORDER BY s DESC LIMIT 5")
+      b = ActiveRecord::Base.connection.execute("select v.id AS vid, SUM(CAST(r.mistake AS float)/CAST(r.count AS float)) AS s from repetitions r, forms f, verbs v WHERE r.user_id = #{current_user.id} AND r.form_id = f.id AND f.verb_id = v.id GROUP BY v.id ORDER BY s ASC LIMIT 5")
+      a.each do |v|
+        @v_worse.push(v["vid"].to_i)
+      end
+      b.each do |v|
+        @v_best.push(v["vid"].to_i)
+      end
+      @v_best = @v_best - @v_worse
     end
   end
 
@@ -247,8 +260,10 @@ class VerbsController < ApplicationController
 
   def practice_draw
 
-    session[:random] = params[:random]
-    session[:careless] = params[:careless]
+    session[:random] = params.has_key?(:random) ? params[:random] : 0
+    session[:no_follow] = params.has_key?(:no_follow) ? params[:no_follow] : 0
+
+    @random = session[:random]
 
     @excl_to_pr = params[:exluded_verbs].length > 0 ? params[:exluded_verbs].split(', ') : ''
     @add_to_pr = params[:verbs].length > 0 ? params[:verbs].split(', ') : ''
@@ -279,7 +294,7 @@ class VerbsController < ApplicationController
       # if the user is logged and he DON'T want "random"
       # we have to divide forms into 3 groups: 
       # A) never ever checked, B) "outdated", C) the rest of the world
-      if current_user && !session[:random]
+      if current_user && session[:random] == 0
         # we need flag to change verbs: A <=> B (ew. C)
         @flag = "A"
         @forms_A = Array.new()
@@ -316,6 +331,8 @@ class VerbsController < ApplicationController
     #save previous forms
     @f_old = Form.find(params[:form])
     @v_old = Verb.find(@f_old.verb_id)
+    @no_follow = session[:no_follow]
+    @random = session[:random]
 
     # the whole table of ids of forms to practice
     @forms_to_pr_id = params[:forms_to_pr_id]
@@ -336,7 +353,51 @@ class VerbsController < ApplicationController
     #                 AND rewrite the forms A,B,C
     #                 AND choose next verb
     if current_user 
-      if !session[:random]
+      
+      if session[:no_follow] == 0 && params.has_key?(:q)
+        @r = Repetition.where(:form_id => params[:full_form_id], :user_id => current_user.id).first
+        if @r
+          @r.count += 1
+          @r.n += 1
+        else
+          @r = Repetition.new(:form_id => params[:full_form_id], :user_id => current_user.id)
+          @r.n = 1
+        end
+        @r.save
+        if @q && @q > 2
+          @r.ef = @r.ef - 0.8 + 0.28 * @q - 0.02 * @q * @q 
+          if @r.ef <1.3
+            @r.ef = 1.3
+          end
+          if @r.n == 1
+            i = 1
+          elsif @r.n == 2
+            i = 6
+          else
+            i = @r.interval * @r.ef
+          end
+          @r.remembered = 1
+          @r.next = Time.now + i.days
+          @r.interval = i
+          # we have to find the interval
+        elsif @q != 0 
+          @r.mistake += 1
+          case @q
+          when 1
+            i =1
+            @r.n = 1
+          when 2
+            i = 6
+            @r.n = 2
+          end
+          @r.remembered = 0
+          @r.next = Time.now + i.days
+          @r.interval = i
+        end
+        @r.save
+      end
+
+      if session[:random] == 0
         @forms_A = params[:forms_A].split
         @forms_B = params[:forms_B].split
         @forms_C = params[:forms_C].split
@@ -369,51 +430,9 @@ class VerbsController < ApplicationController
           @f = Form.find(r.form_id)
         end
       end
-
-      if session[:careless]
-        @r = Repetition.where(:form_id => params[:full_form_id], :user_id => current_user.id).first
-        if @r
-          @r.count += 1
-          @r.n += 1
-        else
-          @r = Repetition.new(:form_id => params[:full_form_id], :user_id => current_user.id)
-          @r.n = 1
-        end
-        @r.save
-        if @q && @q > 2
-          @r.ef = @r.ef - 0.8 + 0.28 * @q - 0.02 * @q * @q 
-          if @r.ef <1.3
-            @r.ef = 1.3
-          end
-          if @r.n == 1
-            i = 1
-          elsif @r.n == 2
-            i = 6
-          else
-            i = @r.interval * @r.ef
-          end
-          @r.remembered = 1
-          @r.next = Time.now + i.days
-          @r.interval = i
-          # we have to find the interval
-        elsif @q != 0 
-          case @q
-          when 1
-            i =1
-            @r.n = 1
-          when 2
-            i = 6
-            @r.n = 2
-          end
-          @r.remembered = 0
-          @r.next = Time.now + i.days
-          @r.interval = i
-        end
-        @r.save
-      end
     end
 
-    if !current_user || session[:random]
+    if !current_user || session[:random] == 1
       @f = Form.find(:all, :conditions => ["`id` IN (?)", @forms_to_pr_id.split]).sample
     end
 
@@ -427,8 +446,7 @@ class VerbsController < ApplicationController
   end
 
   #function to initiate database
-  # verbs - group 3
-  # verbs - group 1&2 - bescherelle
+  # verbs - Bescherelle
   def database_initiation
     verbs_besch = ['aimer', 'placer', 'manger', 'peser', 'céder', 'jeter', 'épousseter', 'appeler',
                   'modeler','celer', 'écarteler','acheter', 'haleter', 'créer', 'assiéger', 

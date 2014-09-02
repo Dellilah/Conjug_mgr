@@ -8,6 +8,7 @@
 <% end %>
 <%= link_to image_tag("up.gif", :border => 0), verbs_path(anchor: 'home'), :class => 'up_home' %>
 <% l = ('A' .. 'Z').to_a %>
+<% l.push('é','ê') %>
 <div id="sorting_options">
   <% l.each do |letter| %>
    <%= link_to letter, verbs_path(anchor: letter) %><br>
@@ -29,10 +30,17 @@
     <% @verbs.keys.sort.each do |starting_letter| %>
       <div id="<%=starting_letter.capitalize %>">
       <%= starting_letter.capitalize %>
-      <table>
+      <table class="verbs_list">
       <% @verbs[starting_letter].each do |verb| %>
         <tr>
-          <td><%= verb.infinitive %></td>
+          <% if @v_best.include?(verb.id) %>
+          <td class="green">
+          <% elsif @v_worse.include?(verb.id) %>
+          <td class="red">
+            <% else %>
+          <td>
+          <% end %>
+          <%= verb.infinitive %></td>
           <td><%= verb.translation %></td>
           <td><%= verb.group %></td>
           <td><%= link_to 'Show', verb %></td>

@@ -14,7 +14,7 @@
   </div>
 <% end %>
   <%= form_tag("/check_form", method: "post") do %>
-<% if @result && user_signed_in? %>
+<% if @result && user_signed_in? && @no_follow == 0%>
   <div> <span> Grade yourself </span>
     (default: for the correct answer 4, for the incorrect - 1)
     <table><tr><td>
@@ -30,6 +30,8 @@
 
 
 <h2>Verb: <%= @v.infinitive %> <%= link_to '>>', @v %> </h2>
+<button type="button" id="show_trans">what does it mean...?</button>
+<div id="trans" class="hide"><%= @v.translation %></div>
 <h2>Tense: <%= @tenses[@f.temp.to_i].to_s.capitalize.gsub(/[_]/, ' ') %>          </h2>
 <!-- <div> -->
   <h2> <%= @forms[@f.person.to_i].to_s.capitalize %>: </h2>
@@ -38,7 +40,7 @@
 
     <%= hidden_field_tag 'forms_to_pr_id', @forms_to_pr_id %>
     <%= hidden_field_tag 'form', @f.id %>
-    <% if user_signed_in? && !session[:random]  %>
+    <% if user_signed_in? && @random == 0  %>
       <%= hidden_field_tag 'forms_A', @forms_A %>
       <%= hidden_field_tag 'forms_B', @forms_B %>
       <%= hidden_field_tag 'forms_C', @forms_C %>
