@@ -60,7 +60,7 @@ class PgroupsController < ApplicationController
 
   def update
     @gr_to_pr = params[:groupes]
-    @excl_to_pr = params[:exluded_verbs].length > 0 ? params[:exluded_verbs].split(', ') : ''
+    @excl_to_pr = params[:excluded_verbs].length > 0 ? params[:excluded_verbs].split(', ') : ''
     @add_to_pr = params[:verbs].length > 0 ? params[:verbs].split(', ') : ''
 
     #which verbs
@@ -85,7 +85,7 @@ class PgroupsController < ApplicationController
   def create
     @pgroup = Pgroup.new(:name => params[:name], :user_id => current_user.id)
     @gr_to_pr = params[:groupes]
-    @excl_to_pr = params[:exluded_verbs].length > 0 ? params[:exluded_verbs].split(', ') : ''
+    @excl_to_pr = params[:excluded_verbs].length > 0 ? params[:excluded_verbs].split(', ') : ''
     @add_to_pr = params[:verbs].length > 0 ? params[:verbs].split(', ') : ''
       
     if @add_to_pr != ''
@@ -93,7 +93,7 @@ class PgroupsController < ApplicationController
     end
 
     @verbs =  Verb.find(:all, :conditions =>
-      ["(`group` IN (?) AND `infinitive` NOT IN (?)) OR `infinitive` IN (?) ",
+      ["(`group` IN (?) AND `infinitive` NOT IN (?) AND `id` < 95) OR `infinitive` IN (?) ",
       @gr_to_pr, @excl_to_pr, @add_to_pr ])
 
     @pgroup.verbs = @verbs

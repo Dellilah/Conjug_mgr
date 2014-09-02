@@ -1,3 +1,4 @@
+# coding: utf-8
 class ApplicationController < ActionController::Base
   require 'open-uri'
   require 'json'
@@ -7,6 +8,28 @@ class ApplicationController < ActionController::Base
   before_action :set_tenses
   
   include Download
+
+  def validate_verbs_list(str) 
+    @str = str.gsub(/[[:space:]]/,'')
+    if @str.length != 0
+      if @str =~ /^[\w]{3,}(\,{1}\w{3,})*$/u
+        return @str.split(',')
+      else
+        return 0
+      end
+    else
+      return ''
+    end
+  end
+
+  def validate_form(form)
+    if form =~ /^[\w\s]+$/u || form.trim == "-"
+      return 1
+    else
+      return 0
+    end
+  end
+
 
   def require_admin
     unless current_user && current_user.role == 'admin'

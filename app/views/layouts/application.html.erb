@@ -23,6 +23,8 @@
     |
     <%= link_to "Your groups", pgroups_index_path, :class => 'navbar-link'  %>
     |
+    <%= link_to "Your stats", stats_path, :class => 'navbar-link'  %>
+    |
     <% if current_user.role == 'admin' %>
       <%= link_to "Translations to verify! (#{@translation.count})", translations_path, :class => 'navbar-link'  %>
     <% end %>
@@ -45,4 +47,24 @@
 <%= yield %>
 
 </body>
+
+<footer>
+  <hr>
+<div>
+  <b>Who and why:</b>
+  <br>
+  The application was created by <%= mail_to "acyganiewicz@gmail.com", "Alicja Cyganiewicz", :class => 'navbar-link'%> as the final project for a master's degree in the field of Electronic information processing at Jagiellonian University.
+</div>
+<div>
+  <b>Goal: </b><br>
+  The application serves to practice conjugation of french verbs. For registered users the exercices are adjusted to their progress.
+</div>
+<div>
+  <b>Supervisor</b>: 
+  <br><span>Dr hab. Janusz Jurek</span>
+</div>
+<div class="copyright">
+  Copyright &copy; <%= Time.now.year %> Alicja Cyganiewicz. All rights reserved 
+</div>
+</footer>
 </html>

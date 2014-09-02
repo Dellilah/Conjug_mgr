@@ -23,6 +23,8 @@ ConjugMgr::Application.routes.draw do
 
   get '/download/:page' => 'verbs#download'
 
+  get '/stats' => 'verbs#stats'
+
   get '/practice' => 'verbs#practice'
   get '/initiate'=> 'verbs#database_initiation'
   get '/from_json/:page' => 'verbs#download_from_json'
@@ -35,7 +37,6 @@ ConjugMgr::Application.routes.draw do
 
 
   post '/add_to_group' => 'verbs#add_to_group'
-
 
   post '/search' => 'verbs#search'
 

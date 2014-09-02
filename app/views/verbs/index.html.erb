@@ -33,9 +33,9 @@
       <table class="verbs_list">
       <% @verbs[starting_letter].each do |verb| %>
         <tr>
-          <% if @v_best.include?(verb.id) %>
+          <% if user_signed_in? && @v_best.include?(verb.id) %>
           <td class="green">
-          <% elsif @v_worse.include?(verb.id) %>
+          <% elsif user_signed_in? && @v_worst.include?(verb.id) %>
           <td class="red">
             <% else %>
           <td>

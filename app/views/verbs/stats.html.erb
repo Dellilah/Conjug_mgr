@@ -1,0 +1,87 @@
+<h1> Your Stats! </h1>
+
+<h2> VERBS </h2>
+<h3>...<%= @worst_v_count %> hardest verbs:</h3>
+<%= form_tag(stats_path, method: "get") do %>
+  Chamge number
+  <%= select_tag 'worst_v_count', options_for_select(1..10)%>
+  <%= submit_tag "Refresh"%>
+<% end %>
+<table class="verbs_list">
+	<% @v_worst.each do |verb| %>
+    <tr>
+      <td>
+      <%= verb.infinitive %></td>
+      <td><%= verb.translation %></td>
+      <td><%= verb.group %></td>
+      <td><%= link_to 'Show', verb %></td>
+      <% if current_user && current_user.role == 'admin' %>
+      <td><%= link_to 'Edit', edit_verb_path(verb) %></td>
+      <td><%= link_to 'Destroy', verb, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      <% end %>
+    </tr>
+  <% end %>
+</table>
+
+<h3>...<%= @best_v_count %> easiest verbs:</h3>
+<%= form_tag(stats_path, method: "get") do %>
+  Chamge number
+  <%= select_tag 'best_v_count', options_for_select(1..10)%>
+  <%= submit_tag "Refresh"%>
+<% end %>
+<table class="verbs_list">
+	<% @v_best.each do |verb| %>
+    <tr>
+      <td>
+      <%= verb.infinitive %></td>
+      <td><%= verb.translation %></td>
+      <td><%= verb.group %></td>
+      <td><%= link_to 'Show', verb %></td>
+      <% if current_user && current_user.role == 'admin' %>
+      <td><%= link_to 'Edit', edit_verb_path(verb) %></td>
+      <td><%= link_to 'Destroy', verb, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      <% end %>
+    </tr>
+  <% end %>
+</table>
+
+<h2> FORMS </h2>
+<h3>...<%= @worst_f_count %> hardest forms:</h3>
+<%= form_tag(stats_path, method: "get") do %>
+  Chamge number
+  <%= select_tag 'worst_f_count', options_for_select(1..10)%>
+  <%= submit_tag "Refresh"%>
+<% end %>
+<table class="verbs_list">
+	<% @f_worst.each do |form| %>
+    <tr>
+      <td>
+      <%= form.verb.infinitive %></td>
+      <td><%= form.verb.translation %></td>
+      <td><%= form.verb.group %></td>
+      <td><%= @tenses[form.temp.to_i].to_s.capitalize.gsub(/[_]/, ' ') %></td>
+      <td><%= @forms[form.person.to_i].to_s.capitalize %></td>
+      <td><%= form.content.upcase %> </td>
+    </tr>
+  <% end %>
+</table>
+
+<h3>...<%= @best_f_count %> easiest forms:</h3>
+<%= form_tag(stats_path, method: "get") do %>
+  Chamge number
+  <%= select_tag 'best_f_count', options_for_select(1..10)%>
+  <%= submit_tag "Refresh"%>
+<% end %>
+<table class="verbs_list">
+	<% @f_best.each do |form| %>
+    <tr>
+      <td>
+      <%= form.verb.infinitive %></td>
+      <td><%= form.verb.translation %></td>
+      <td><%= form.verb.group %></td>
+      <td><%= @tenses[form.temp.to_i].to_s.capitalize.gsub(/[_]/, ' ') %></td>
+      <td><%= @forms[form.person.to_i].to_s.capitalize %></td>
+      <td><%= form.content.upcase %> </td>
+    </tr>
+  <% end %>
+</table>

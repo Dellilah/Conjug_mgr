@@ -32,3 +32,23 @@
  .show {
  	display: block;
  }
+
+footer{
+	margin-top: 30px;
+}
+ footer div{
+	width: 31%;
+	float: left;
+	margin-right: 10px;
+}
+.copyright{
+	width: 100%;
+	text-align: center;
+	font-style: italic;
+	margin: 10px;
+}
+
+.error{
+	background-color: antiquewhite;
+	text-align: center;
+}

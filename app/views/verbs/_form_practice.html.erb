@@ -3,7 +3,7 @@
     <b>Step I: Choose tenses</b> <button type="button" id="uncheck_all" data-check="1"> Uncheck all </button><br/>
     <br>
     <% @tenses.each_with_index do |tense, index| %>
-      <%= check_box_tag 'tenses['+tense.to_s+']', index, checked=true%> <%= tense.to_s.capitalize.gsub(/[_]/, ' ')%>
+      <%= check_box_tag 'tenses['+tense.to_s+']', index, checked=@tenses_to_pr ? @tenses_to_pr.include?(index.to_s) : true %> <%= tense.to_s.capitalize.gsub(/[_]/, ' ')%>
     <% end %>
   </div>
   <br>
@@ -17,9 +17,9 @@
     <br/>
     <br>
     <b>...specifie verbs (out of chosen groups)</b><br>
-    <%= text_field_tag 'verbs', nil, placeholder: 'être, aller, venir...' %><br>
-    <b>...exlude verbs (from chosen groups) </b><br>
-    <%= text_field_tag 'exluded_verbs', nil, placeholder: 'être, aller, venir...' %><br>
+    <%= text_field_tag 'verbs', @add_to_pr, placeholder: 'être, aller, venir...' %><br>
+    <b>...exclude verbs (from chosen groups) </b><br>
+    <%= text_field_tag 'excluded_verbs', @excl_to_pr, placeholder: 'être, aller, venir...' %><br>
     <% if user_signed_in? %>
 
     <br>

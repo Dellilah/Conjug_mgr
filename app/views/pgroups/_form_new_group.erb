@@ -1,7 +1,7 @@
 <%= form_tag("/new_group", method: "post") do %>
   <div class="row step choose_tense">
     <b>Step I: Choose the name</b> 
-    <%= text_field_tag 'name', nil, placeholder: 'My extraordinary group' %><br>
+    <%= text_field_tag 'name', nil, placeholder: 'My extraordinary group', :required => true %><br>
   </div>
   <br>
   <div class="row step">
@@ -15,8 +15,8 @@
     <br>
     <b>...or specifie verbs</b><br>
     <%= text_area_tag 'verbs', nil, placeholder: 'être, aller, venir...', rows: 10, cols:40  %><br>
-    <b>...or exlude verbs </b><br>
-    <%= text_area_tag 'exluded_verbs', nil, placeholder: 'être, aller, venir...', rows: 10, cols:40  %><br>
+    <b>...or exclude verbs </b><br>
+    <%= text_area_tag 'excluded_verbs', nil, placeholder: 'être, aller, venir...', rows: 10, cols:40  %><br>
   </div>
   <%= submit_tag "Create group!"%>
 <% end %>

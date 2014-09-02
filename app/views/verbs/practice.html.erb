@@ -1,4 +1,12 @@
 <div class="row">
+  <% if @error_message && @error_message.count %>
+	  <div class="error">
+	  	<b>UPS!</b><br>
+	  	<% @error_message.each do |e| %>
+	  		<%= e %> <br>
+	  	<% end %>
+	  </div>
+  <% end %>
 
   <div id="practice_form">
     <%= render 'form_practice' %>

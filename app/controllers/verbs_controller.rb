@@ -18,16 +18,16 @@ class VerbsController < ApplicationController
     end
     if current_user 
       @v_best = Array.new()
-      @v_worse = Array.new()
+      @v_worst = Array.new()
       a = ActiveRecord::Base.connection.execute("select v.id AS vid, SUM(CAST(r.mistake AS float)/CAST(r.count AS float)) AS s from repetitions r, forms f, verbs v WHERE r.user_id = #{current_user.id} AND r.form_id = f.id AND f.verb_id = v.id GROUP BY v.id ORDER BY s DESC LIMIT 5")
       b = ActiveRecord::Base.connection.execute("select v.id AS vid, SUM(CAST(r.mistake AS float)/CAST(r.count AS float)) AS s from repetitions r, forms f, verbs v WHERE r.user_id = #{current_user.id} AND r.form_id = f.id AND f.verb_id = v.id GROUP BY v.id ORDER BY s ASC LIMIT 5")
       a.each do |v|
-        @v_worse.push(v["vid"].to_i)
+        @v_worst.push(v["vid"].to_i)
       end
       b.each do |v|
         @v_best.push(v["vid"].to_i)
       end
-      @v_best = @v_best - @v_worse
+      @v_best = @v_best - @v_worst
     end
   end
 
@@ -85,11 +85,16 @@ class VerbsController < ApplicationController
     @verb = Verb.find(params[:id].to_i)
     pgroup = Pgroup.find(params[:group_id])
     verbs = pgroup.verbs
-    verbs.push(@verb)
+    if verbs.include?(@verb)
+      message = "This verb is already added to this group"
+    else
+      message = 'Verb was successfully added.' 
+      verbs.push(@verb)
+    end
 
     respond_to do |format|
       if pgroup.update(:verbs => verbs)
-        format.html { redirect_to @verb, notice: 'Verb was successfully added.' }
+        format.html { redirect_to @verb, notice: message}
         format.json { render action: 'show', status: :created, location: @verb }
       else
         format.html { redirect_to @verb, notice: 'Verb was NOT added.' }
@@ -263,21 +268,45 @@ class VerbsController < ApplicationController
     session[:random] = params.has_key?(:random) ? params[:random] : 0
     session[:no_follow] = params.has_key?(:no_follow) ? params[:no_follow] : 0
 
+    r = 0;
+    @error_message = Array.new()
+
     @random = session[:random]
 
-    @excl_to_pr = params[:exluded_verbs].length > 0 ? params[:exluded_verbs].split(', ') : ''
-    @add_to_pr = params[:verbs].length > 0 ? params[:verbs].split(', ') : ''
+    @excl_to_pr = validate_verbs_list(params[:excluded_verbs])
+    if @excl_to_pr == 0
+      @error_message.push("Incorrect format 'exclude verbs'. ")
+      r = 1;
+    end
+    @add_to_pr = validate_verbs_list(params[:verbs])
+    if @add_to_pr == 0
+      @error_message.push("Incorrect format 'specifie verbs'. ")
+      r = 1;
+    end
 
-    if !params.has_key?(:tenses) || (!params.has_key?(:groupes) && @excl_to_pr.empty? && @add_to_pr.empty?)
-      redirect_to :action => 'practice'
+    if !params.has_key?(:tenses) 
+      @error_message.push("You have to choose at least one tense. ")
+      r = 1;
     else
-
       @tenses_to_pr = Array.new()
       params[:tenses].each do |key, val|
         @tenses_to_pr.push(val)
       end
+    end
+    if (!params.has_key?(:groupes) && @excl_to_pr.empty? && @add_to_pr.empty?)
+      @error_message.push("You have to choose at least one verb")
+      r=1;
+    end
+
+    if r == 0
       if params.has_key?(:pgroup_id) && params[:pgroup_id] != ''
-        @verbs_to_pr = Pgroup.find(params[:pgroup_id].to_i).verbs
+        p = Pgroup.find(params[:pgroup_id].to_i)
+        if p && current_user.pgroups.include?(p)
+          @verbs_to_pr = p.verbs
+        else
+          r = 1
+          @error_message.push("Wrong group of verbs")
+        end
       else
         @gr_to_pr = params[:groupes]
 
@@ -285,8 +314,24 @@ class VerbsController < ApplicationController
         @verbs_to_pr =  Verb.find(:all, :conditions =>
           ["(`group` IN (?) AND `infinitive` NOT IN (?)) OR `infinitive` IN (?) AND `id` < 95 ",
           @gr_to_pr, @excl_to_pr, @add_to_pr ])
+        if @verbs_to_pr.length == 0
+          r = 1
+          @error_message.push("We didn't find any verbs for you. Please try again")
+        end
       end
-
+    end
+    if r == 1
+      if current_user
+        @pgroups = Array.new()
+        current_user.pgroups.each { |p| 
+          a = {:name => p.name, :id => p.id}
+          @pgroups.push(a)
+         }  
+      end
+      @excl_to_pr = params[:excluded_verbs]
+      @add_to_pr = params[:verbs]
+      render :practice
+    else
       # we are going to save all forms ids suitable to conditions
       @forms_ids = Form.find(:all, :conditions =>
           ["`temp` IN (?) AND `verb_id` IN (?)", @tenses_to_pr, @verbs_to_pr ])
@@ -443,6 +488,37 @@ class VerbsController < ApplicationController
       format.json { head :no_content }
     end
 
+  end
+
+  def stats
+    @best_v_count = params[:best_v_count] ? params[:best_v_count] : 5
+    @best_f_count = params[:best_f_count] ? params[:best_f_count] : 5
+    @worst_f_count = params[:worst_f_count] ? params[:worst_f_count] : 5
+    @worst_v_count = params[:worst_v_count] ? params[:worst_v_count] : 5
+
+    @v_best = Array.new()
+    @v_worst = Array.new()
+    a = ActiveRecord::Base.connection.execute("select v.id AS vid, SUM(CAST(r.mistake AS float)/CAST(r.count AS float)) AS s from repetitions r, forms f, verbs v WHERE r.user_id = #{current_user.id} AND r.form_id = f.id AND f.verb_id = v.id GROUP BY v.id ORDER BY s DESC LIMIT #{@worst_v_count}")
+    b = ActiveRecord::Base.connection.execute("select v.id AS vid, SUM(CAST(r.mistake AS float)/CAST(r.count AS float)) AS s from repetitions r, forms f, verbs v WHERE r.user_id = #{current_user.id} AND r.form_id = f.id AND f.verb_id = v.id GROUP BY v.id ORDER BY s ASC LIMIT #{@best_v_count}")
+    a.each do |v|
+      @v_worst.push(Verb.find(v["vid"].to_i))
+    end
+    b.each do |v|
+      @v_best.push(Verb.find(v["vid"].to_i))
+    end
+
+    @f_best = Array.new()
+    @f_worst = Array.new()
+    c =  ActiveRecord::Base.connection.execute("select f.id AS fid, CAST(r.mistake AS float)/CAST(r.count AS float) AS avg from repetitions r, forms f WHERE r.user_id = #{current_user.id} AND r.form_id = f.id ORDER BY avg DESC LIMIT #{@worst_f_count}")
+    d =  ActiveRecord::Base.connection.execute("select f.id AS fid, CAST(r.mistake AS float)/CAST(r.count AS float) AS avg from repetitions r, forms f WHERE r.user_id = #{current_user.id} AND r.form_id = f.id ORDER BY avg ASC LIMIT #{@best_f_count}")
+    c.each do |v|
+      # f = Form.find(v["fid"].to_i)
+      # temp = {:infinitive => f.verb.in}
+      @f_worst.push(Form.find(v["fid"].to_i))
+    end
+    d.each do |v|
+      @f_best.push(Form.find(v["fid"].to_i))
+    end
   end
 
   #function to initiate database
