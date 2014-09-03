@@ -1,4 +1,4 @@
-<%= form_tag("/new_group", method: "post") do %>
+<%= form_tag(new_group_path, method: "post") do %>
   <div class="row step choose_tense">
     <b>Step I: Choose the name</b> 
     <%= text_field_tag 'name', nil, placeholder: 'My extraordinary group', :required => true %><br>
