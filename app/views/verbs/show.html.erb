@@ -4,7 +4,7 @@
   <%= @verb.infinitive %>
   <% if user_signed_in? %>
     <br>
-    <%= form_tag("/add_to_group", method: "post") do %>
+    <%= form_tag(add_to_group_path, method: "post") do %>
       <%= select_tag "group_id", options_from_collection_for_select(current_user.pgroups, "id", "name"), prompt: "Add to my group" 
       %>
       <%= hidden_field_tag 'id', @verb.id %>
@@ -18,7 +18,7 @@
   <strong>Translation:</strong>
   <%= @verb.translation %>
   <div id="report_transl">
-    <%= form_tag("/report_transl", method: "post") do %>
+    <%= form_tag(report_transl_path, method: "post") do %>
       I think this will be better... <%= text_field_tag "transl" %>
       <%= hidden_field_tag 'id', @verb.id %>
     <%= submit_tag "Report!"%>

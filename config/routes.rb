@@ -29,16 +29,16 @@ ConjugMgr::Application.routes.draw do
   get '/initiate'=> 'verbs#database_initiation'
   get '/from_json/:page' => 'verbs#download_from_json'
 
-  post '/practice' => 'verbs#practice_draw'
+  post '/practice' => 'verbs#practice_draw', as: 'practice_draw'
 
-  post '/check_form' => 'verbs#check_form'
+  post '/check_form' => 'verbs#check_form', as: 'check_form'
 
-  post '/report_transl' => 'translations#create'
+  post '/report_transl' => 'translations#create', as: 'report_transl'
 
 
-  post '/add_to_group' => 'verbs#add_to_group'
+  post '/add_to_group' => 'verbs#add_to_group', as: 'add_to_group'
 
-  post '/search' => 'verbs#search'
+  post '/search' => 'verbs#search', as: 'search'
 
   get '/look_for/:verb' => 'verbs#look_for_conj'
 
@@ -96,4 +96,6 @@ ConjugMgr::Application.routes.draw do
   #     # (app/controllers/admin/products_controller.rb)
   #     resources :products
   #   end
+
+  get '*path' => redirect('/')
 end

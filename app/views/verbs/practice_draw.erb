@@ -13,7 +13,7 @@
     <span class="wrong"><%= @answer %> </span> <span class="correct"> <%= @correct %> </span>
   </div>
 <% end %>
-  <%= form_tag("/check_form", method: "post") do %>
+  <%= form_tag(check_form_path, method: "post") do %>
 <% if @result && user_signed_in? && @no_follow == 0%>
   <div> <span> Grade yourself </span>
     (default: for the correct answer 4, for the incorrect - 1)
