@@ -11,7 +11,7 @@ ConjugMgr::Application.routes.draw do
   get "pgroups/destroy/:id" => "pgroups#destroy", as: 'pgroup_destroy'
   get "translations/accept/:id" => "translations#accept", as: 'translation_accept'
 
-  
+
   devise_for :users
   resources :repetitions
 
