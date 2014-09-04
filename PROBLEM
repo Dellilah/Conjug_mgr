@@ -1,11 +1,11 @@
 PROBLEM
 1920 czasownikow...
-Przy cwiczeniu nie ma innego wyjscia jak sprawdzic date powtorki kazdej formy i podzielic je na odpowiednie grupy. Jezeli uzytkownik zdecydowalby sie na cwiczenie wszystkich czasow i wszystkich grup czasownikow - oznaczaloby to niewyobrazalna ilosc porownan.  
+Przy cwiczeniu nie ma innego wyjscia jak sprawdzic date powtorki kazdej formy i podzielic je na odpowiednie grupy. Jezeli uzytkownik zdecydowalby sie na cwiczenie wszystkich czasow i wszystkich grup czasownikow - oznaczaloby to niewyobrazalna ilosc porownan.
 
 ROZWIAZANIE: wszystkie czasowniki z 3 grupy (203), najbardziej "chwytne" (bescherelle: 13+2 ++?) z I i II
 + mozliwosc "poszerzenia bazy", dla zalogowanych uzytkownikow
 
-W praktyce: 
+W praktyce:
 *dla osob niezalogowanych, oraz dla osób zalogowanych korzystających z bazy ogólnej losowane jest spośród verbs_id < 218
 * dla osób zalogowanych - możliwość dodania do spersonalizowanej grupy czasownika spoza podstawowej listy - poprzed wpisanie jego bezokolicznika
 
@@ -38,3 +38,6 @@ wyszukiwanie: czasowniki posilkowe
 _____________
 
 ê
+
+_____________
+ocenianie po => jeszcze raz ten sam?

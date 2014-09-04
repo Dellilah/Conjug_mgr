@@ -3,7 +3,7 @@
     <b>Step I: Choose tenses</b> <button type="button" id="uncheck_all" data-check="1"> Uncheck all </button><br/>
     <br>
     <% @tenses.each_with_index do |tense, index| %>
-      <%= check_box_tag 'tenses['+tense.to_s+']', index, checked=@tenses_to_pr ? @tenses_to_pr.include?(index.to_s) : true %> <%= tense.to_s.capitalize.gsub(/[_]/, ' ')%>
+      <div class="tenses"><%= check_box_tag 'tenses['+tense.to_s+']', index, checked=@tenses_to_pr ? @tenses_to_pr.include?(index.to_s) : true %> <%= tense.to_s.capitalize.gsub(/[_]/, ' ')%></DIV>
     <% end %>
   </div>
   <br>

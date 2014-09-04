@@ -6,13 +6,13 @@ class ApplicationController < ActionController::Base
   # For APIs, you may want to use :null_session instead.
   protect_from_forgery with: :exception
   before_action :set_tenses
-  
+
   include Download
 
-  def validate_verbs_list(str) 
+  def validate_verbs_list(str)
     @str = str.gsub(/[[:space:]]/,'')
     if @str.length != 0
-      if @str =~ /^[\w]{3,}(\,{1}\w{3,})*$/u
+      if @str =~ /^[A-Za-zêéèùîôàçï]{3,}(\,{1}\w{3,})*$/u
         return @str.split(',')
       else
         return 0
@@ -35,7 +35,7 @@ class ApplicationController < ActionController::Base
     unless current_user && current_user.role == 'admin'
       flash[:error] = "You are not an admin"
       redirect_to root_path
-    end        
+    end
   end
 
   def transl_count

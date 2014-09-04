@@ -52,3 +52,20 @@ footer{
 	background-color: antiquewhite;
 	text-align: center;
 }
+.note{
+	float: right;
+	width: 100%;
+	margin-top: 10px;
+}
+
+#search_form{
+	position: absolute;
+	right: 20px;
+	top: 20px;
+}
+
+.tenses{
+	FLOAT: left;
+	width: 20%;
+	margin-bottom: 20px
+}

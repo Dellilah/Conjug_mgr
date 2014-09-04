@@ -13,8 +13,8 @@
  <p> Hello Admin! Your application did miss you! </p>
  <% end %>
  <p class="navbar-text pull-right">
-  <%= link_to 'Let\'s do it!', root_path, :class => 'navbar-link' %> | 
-  <%= link_to 'Verbs list', verbs_path, :class => 'navbar-link' %> ||| 
+  <%= link_to 'Let\'s do it!', root_path, :class => 'navbar-link' %> |
+  <%= link_to 'Verbs list', verbs_path, :class => 'navbar-link' %> |||
 
   <% if user_signed_in? %>
     Logged in as <strong><%= current_user.email %></strong>.
@@ -33,7 +33,7 @@
   <% else %>
     <%= link_to "Sign up", new_user_registration_path, :class => 'navbar-link'  %> |
     <%= link_to "Login", new_user_session_path, :class => 'navbar-link'  %>
-    
+
   <% end %>
  </p>
 
@@ -60,11 +60,17 @@
   The application serves to practice conjugation of french verbs. For registered users the exercices are adjusted to their progress.
 </div>
 <div>
-  <b>Supervisor</b>: 
+  <b>Supervisor</b>:
   <br><span>Dr hab. Janusz Jurek</span>
 </div>
+
+<div class="note">
+<hr>
+  Autorem niniejszego serwisu jest Alicja Cyganiewicz <br>
+Serwis ten stanowi integralną część pracy magisterskiej z Elektronicznego Przetwarzania Informacji, przygotowanej pod kierunkiem dr. hab. Janusza Jurka na Wydziale Zarządzania i Komunikacji Społecznej Uniwersytetu Jagiellońskiego.
+</div>
 <div class="copyright">
-  Copyright &copy; <%= Time.now.year %> Alicja Cyganiewicz. All rights reserved 
+  Copyright &copy; <%= Time.now.year %> Alicja Cyganiewicz. All rights reserved
 </div>
 </footer>
 </html>
