@@ -26,9 +26,10 @@ window.onload = function(){
 
   var chars = document.querySelectorAll("div#special_char button");
   var input_ans = document.getElementById("answer");
-  input_ans.focus();
-  input_ans.setAttribute("autocomplete", "off");
-
+  if(input_ans){
+    input_ans.focus();
+    input_ans.setAttribute("autocomplete", "off");
+  }
   var add_char = function(){
     var val = this.innerHTML;
     input_ans.value = input_ans.value + val.replace(/ /g, '');
@@ -45,6 +46,32 @@ window.onload = function(){
     }
     );
   }
+
+  var small_a = document.getElementById("small_a");
+  var medium_a = document.getElementById("medium_a");
+  var big_a = document.getElementById("big_a");
+
+
+
+  small_a.addEventListener("click", function() {
+    var div = document.getElementById("content");
+    console.log(div);
+    div.style.fontSize = 13 + "px";
+  });
+
+  medium_a.addEventListener("click", function() {
+    var div = document.getElementById("content");
+    console.log(div);
+    div.style.fontSize = 16 + "px";
+  });
+
+  big_a.addEventListener("click", function() {
+    var div = document.getElementById("content");
+    console.log(div);
+    div.style.fontSize = 20 + "px";
+  });
+
+
 
 
 };

@@ -58,10 +58,8 @@ footer{
 	margin-top: 10px;
 }
 
-#search_form{
-	position: absolute;
-	right: 20px;
-	top: 20px;
+.upper_div{
+	text-align: right;
 }
 
 .tenses{

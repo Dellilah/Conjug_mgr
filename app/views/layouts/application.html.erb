@@ -7,21 +7,25 @@
   <%= csrf_meta_tags %>
 </head>
 <body id="home">
-    <%= render :partial => 'verbs/search_form' %>
-
+    <div class="upper_div">
+      <font size="2"><a id="small_a">A</a></font>
+<font size="4"><a id="medium_a">A</a></font>
+<font size="5"><a id="big_a">A</a></font>
+      <%= render :partial => 'verbs/search_form' %></div>
+<div id="content">
  <% if user_signed_in? && current_user.role == 'admin' %>
  <p> Hello Admin! Your application did miss you! </p>
  <% end %>
- <p class="navbar-text pull-right">
-  <%= link_to 'Let\'s do it!', root_path, :class => 'navbar-link' %> |
-  <%= link_to 'Verbs list', verbs_path, :class => 'navbar-link' %> |||
+ <p class="navbar-text pull-right" role="navigation">
+  <%= link_to 'Let\'s do it!', root_path, :class => 'navbar-link', :accesskey => "x"%> |
+  <%= link_to 'Verbs list', verbs_path, :class => 'navbar-link', :accesskey => "l" %> |||
 
   <% if user_signed_in? %>
     Logged in as <strong><%= current_user.email %></strong>.
     <%= link_to 'Edit profile', edit_user_registration_path, :class => 'navbar-link' %> |
-    <%= link_to "Logout", destroy_user_session_path, method: :get, :class => 'navbar-link'  %>
+    <%= link_to "Logout", destroy_user_session_path, method: :get, :class => 'navbar-link', :accesskey => "q"  %>
     |
-    <%= link_to "Your groups", pgroups_index_path, :class => 'navbar-link'  %>
+    <%= link_to "Your groups", pgroups_index_path, :class => 'navbar-link', :accesskey => "g"  %>
     |
     <%= link_to "Your stats", stats_path, :class => 'navbar-link'  %>
     |
@@ -73,4 +77,5 @@ Serwis ten stanowi integralną część pracy magisterskiej z Elektronicznego Pr
   Copyright &copy; <%= Time.now.year %> Alicja Cyganiewicz. All rights reserved
 </div>
 </footer>
+</div>
 </html>
