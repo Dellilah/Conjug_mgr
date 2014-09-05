@@ -40,7 +40,7 @@
         <h3><%= tense.to_s.capitalize.gsub(/[_]/, ' ')%></h3>
 
           <% @forms.each do |form| %>
-            <%= form %>:
+           <b> <%= form %>:</b>
             <%= @verb_forms_tab[tense][form] %>
           <% end %>
 

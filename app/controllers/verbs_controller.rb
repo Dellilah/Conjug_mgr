@@ -477,7 +477,7 @@ class VerbsController < ApplicationController
       end
     end
 
-    if !current_user || session[:random] == 1
+    if !current_user || session[:random].to_i == 1
       @f = Form.find(:all, :conditions => ["`id` IN (?)", @forms_to_pr_id.split]).sample
     end
 
